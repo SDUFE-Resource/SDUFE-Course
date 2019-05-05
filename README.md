@@ -30,3 +30,13 @@
 本仓库内容仅接收学生原创的或者获得授权的资源。请创作者及公众监督，如有资料违反许可协议，请告知我们改正错误。
 
 [问题反馈](https://github.com/SDUFE-Resource/SDUFE-Course/issues/new)
+
+## 许可
+
+由贡献者编写部分的许可如下：
+
+[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
+> 资料仅供参考，请自己判断其适用性。
+
+其他部分的版权归属于其各自的作者。
