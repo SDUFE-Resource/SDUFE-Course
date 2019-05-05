@@ -15,6 +15,17 @@
 
 [![](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/images/0)](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/links/0)[![](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/images/1)](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/links/1)[![](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/images/2)](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/links/2)[![](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/images/3)](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/links/3)[![](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/images/4)](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/links/4)[![](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/images/5)](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/links/5)[![](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/images/6)](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/links/6)[![](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/images/7)](https://sourcerer.io/fame/SDUFE-Resource/SDUFE-Resource/SDUFE-Course/links/7)
 
+### 帮助我们完成的更好！
+#### 贡献文件
+0. 点击右上角的按钮Fork本项目
+
+1. 上传文件到已有文件夹：打开对应文件夹，点击绿色Download按钮旁的upload，上传你的文件。
+
+2. 上传文件到新文件夹：打开任意文件夹，点击绿色Download按钮旁的upload，**把浏览器地址栏中文件夹名称改为你想要新建的文件夹名称，然后回车**，上传你的文件。
+#### 反馈问题
+在Issue中发起一个new Issue来提出问题，也可以将你想要贡献的文件附带在issue，由我们来合并。
+
+
 # 版权说明
 本仓库内容仅接收学生原创的或者获得授权的资源。请创作者及公众监督，如有资料违反许可协议，请告知我们改正错误。
 
