@@ -1,6 +1,6 @@
 # SDUFE-Course
 👊山东财经大学课程资源
-[![Stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg?label=Stars&style=social)](https://github.com/USTC-Resource/USTC-Course/stargazers)
+[![Stars](https://img.shields.io/github/stars/SDUFE-Resource/SDUFE-Course.svg?label=Stars&style=social)](https://github.com/SDUFE-Resource/SDUFE-Course/stargazers)
 [![Forks](https://img.shields.io/github/forks/USTC-Resource/USTC-Course.svg?label=Forks&style=social)](https://github.com/USTC-Resource/USTC-Course/network/members)
 [![Build](https://travis-ci.org/USTC-Resource/USTC-Course.svg?branch=master)](https://travis-ci.org/USTC-Resource/USTC-Course?branch=master)
 [![repo-size](https://img.shields.io/github/repo-size/USTC-Resource/USTC-Course.svg)]()
