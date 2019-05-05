@@ -31,9 +31,10 @@
 
 [问题反馈](https://github.com/SDUFE-Resource/SDUFE-Course/issues/new)
 
-## 许可
+# 许可
 
-由贡献者编写部分的许可如下：
+由贡献者编写部分的许可如下：[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 [CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
