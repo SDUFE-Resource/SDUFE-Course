@@ -1,0 +1,38 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <wang@ccert.edu.cn>; Wed, 24 Aug 2005 20:51:45 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 21:04:52 +0800 (CST)
+Date: Wed, 24 Aug 2005 20:58:38 +0800
+From: "gong" <gong@sohu.com>
+To: wang@ccert.edu.cn
+Cc: "yxl" <pan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgu6XBqs34yrXR6crSo6hjaGluYWxhYnMuY29to6nV0Ma4u6XBqs34us3O3s/f1PbWtdHQvr/B
+7NPy1vo=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+互联网实验室（chinalabs.com）招聘互联网和无线增值研究领域助理咨询顾问和咨询顾问。
+岗位职责描述：
+1、参与和负责互联网和无线增值方面的咨询业务和研究课题； 
+2、根据客户需求组织调研、方案设计等工作； 
+3、开发和销售咨询相关产品，包括咨询、咨询与研究报告、行业数据等。
+4. 完成公司的其他工作任务。
+专业知识和技能要求：
+1.有良好的互联网、电信以及企业管理方面的知识背景，尤其欢迎互联网和电信从业背景的MBA.
+2.熟悉咨询、研究和市场调研的模式和运作程序。 
+3.在指导下，能够完成从咨询项目的项目建议书撰写、执行的全部过程。具有研究能力能够独立完成研究报告。 
+4.有能力策划、组织与实施相关的市场活动 
+5.有缜密的逻辑分析能力，条理性强，较强的语言表达能力
+6.有互联网或电信增值相关行业经验优先
+7、有市场调研和业内访谈的经验，熟悉数据处理和调研设计者优先
+8.有广泛的业内关系和资源者优先
+9.较强的学习能力，文笔出色者优先
+最佳有三年以上工作经验，优秀者至少有相关行业内工作和实习经验
+本科以上学历，热爱咨询，喜欢挑战自己，有创新精神，能承担高负荷工作压力。性格开朗，高度的敬业精神和工作责任心，人际沟通能力强，具有高度团队合作精神, 具备优秀的写作能力及口头表达能力，熟练使用办公软件, excel、spss等统计分析软件，英语六级以上优先。尤其欢迎有所专长，同时又能够参与其它相关领域工作的复合型人才。
+有意者请将简历发到：fanch#chinalabs.com(请用@代替#),合则约见。

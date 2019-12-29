@@ -1,0 +1,28 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <he@ccert.edu.cn>; Thu, 29 Sep 2005 07:26:59 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 23:38:10 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 07:38:09 CST
+Date: Thu, 29 Sep 2005 07:38:09 +0800 (CST)
+From: liang ming <ke@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzK1bW9RVgtR0a1xLbM0MUsc2lnaCE=?=
+To: he@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+9494
+不过我知道我永远在她心里占个很重要的坑啦
+无论从感情上还是内疚的那种感觉,她是忘不了我了这辈子
+反正她说话的逻辑,思考问题的方式,对于未来前途的憧憬,都是从我这儿学到的,改不了啦
+在她心里我永远是个美好的印象,永远放不下,她也清楚对她最好最细心的是我.
+够了,就这么over也挺美好的呀
+     当然不，既然有gf了，那就不要继续跟EX保持暧昧关系了，
+     ppmm往往很难专一，遇到一个又想着能不能找一个更好的，
+     反正她很pp，不怕没人要^_^，我是不是说的有点过分了？

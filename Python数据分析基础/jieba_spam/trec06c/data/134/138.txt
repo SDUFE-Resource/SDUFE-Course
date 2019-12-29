@@ -1,0 +1,24 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <zhuang@ccert.edu.cn>; Thu, 15 Sep 2005 07:25:56 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <zhuang@ccert.edu.cn>; Thu, 15 Sep 2005 07:57:04 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Thu, 15 Sep 2005 07:37:11 +0800
+From: "yu" <yu@mail.nisac.gov.cn>
+To: zhuang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVv7TN6qG2zNOz9r/LwqG1uqG3?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+《逃离克隆岛》上映三周票房平平 被控90处剽窃 
+据东方早报报道　由梦工厂和华纳兄弟电影公司共同制作发行的科幻大片《逃离克隆岛》在北美地区上映三周以来不仅票房平平，还受到了评论界的攻击。日前，该片更是被控告剽窃1979年的经典科幻电影《复制人》(TheClonusHorror)。
+　　《复制人》的制作人将梦工厂和华纳兄弟告上法庭，要求纽约法院下令将《逃离克隆岛》撤出影院，并禁止该片进一步发行。《复制人》的制作人还要求获得一定数额的赔偿金和《逃离克隆岛》的部分票房收益。
+　　自《逃离克隆岛》于7月22日在北美上映以来，影评家们就一直拿该片与《复制人》做比较。由迈克尔・贝导演的未来惊悚片《逃离克隆岛》讲述斯嘉丽・约翰森和伊万・麦格雷戈扮演的角色发现自己是克隆人，他们被当作供应人类稀缺器官的来源。于是他们来到了真实世界，并试图摧毁克隆设备。而1979年的影片讲述的也是人类为了获得稀缺器官，秘密培育了一群克隆人，其中一个克隆人逃走后受到了追捕。在诉讼中，《复制人》的制片人列举了90处例子来证明《逃离克隆岛》严重抄袭了他的影片。
+　　目前，梦工厂和华纳兄弟对《复制人》制片人的控告有20天的回应期。在此期间，法院将裁定是否有颁布联合禁止令的证据。不过，梦工厂目前仍坚决表示：“《逃离克隆岛》是独立创作的，没有侵犯任何版权。”袁晋/文
+     再问一下，不知道象起用机械化制造克隆体这样创意的电影还有哪些？

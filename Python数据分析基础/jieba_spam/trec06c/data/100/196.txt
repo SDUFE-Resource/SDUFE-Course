@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j87BlNH3002554
+	for <qian@ccert.edu.cn>; Thu, 8 Sep 2005 06:05:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j87Bxb76001146
+	for <qian@ccert.edu.cn>; Thu, 8 Sep 2005 06:17:22 +0800 (CST)
+Message-Id: <200509071159.j87Bxb76001146@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 7 Sep 2005 22:02:49 -0000
+From: "tan" <tan@mail.tsinghua.edu.cn>
+To: qian@ccert.edu.cn
+Cc: <kang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXmuOOyu7auo6zU9cO00rvLtbW9xbfDwL/WssDGrKOstPO80r7Ny7W28dDExNijvw==?=
+Date: Thu, 8 Sep 2005 06:17:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C5B3E6.AA53DD40"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzo5wDUyjmuLAhQNybYzBBmyxuiw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+是啊，好多惊悚+悬念的片子呢，不少都应该算作恐怖片的，剧情都是很有看头的~~
+那种光凭镜头的感官冲击的，感觉都差不多，欧美日本香港。。。（其实韩国不少不错
+恐怖片），在剧情上下了不少功夫，有的感觉还可以。
+         个人觉得欧美恐怖片中优秀的都不是那种血腥肉烂的，而那些血腥肉烂的往往是一些小电影公司的小制作电影，为什么一说到欧美恐怖片大家想到的都不是那些经典的，却往往对那些垃圾电影津津乐道，然后有猛烈抨击呢？

@@ -1,0 +1,43 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <qiu@ccert.edu.cn>; Thu, 1 Sep 2005 11:22:37 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 11:25:29 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 11:25:29 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 11:25:29 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 03:18:52 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 11:11:02 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 11:11:02 +0800
+From: pu@mails.tsinghua.edu.cn
+To: qiu@ccert.edu.cn
+Cc: ou@ccert.edu.cn
+Date: Thu, 1 Sep 2005 11:11:02 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMv7z7K7ts7SwvA=?=
+Content-Type: text/plain
+
+嗯，这个意识应该有
+     标  题: Re: 他喜欢我吗
+     
+     网上的不要当真就好了…………
+     
+     : 网上聊天认识一个人 2个多月了
+     : 聊得很开心
+     : 认识十多天的时候见了一次
+     
+     --
+     I don\'t care if it hurts, I want to have control
+     I want a perfect body, I want a perfect soul
+     I want you to notice when i\'m not around
+     You\'re so f***king special
+     I wish i was special
+     But I\'m a creep, I\'m a weirdo……
+     
+     

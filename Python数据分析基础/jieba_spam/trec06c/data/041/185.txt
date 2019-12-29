@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <you@ccert.edu.cn>; Fri, 26 Aug 2005 03:18:24 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 03:36:47 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 03:36:47 +0800
+Date: Fri, 26 Aug 2005 03:36:47 +0800
+From: kong@cernet.com
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+To: you@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+你懂什么？
+不慎命中了一句话：
+头发长，见识短
+     不知道为什么,我很讨厌华为,其实我是一个和通讯根本不占边的人,耶不懂什么是好,什么是坏,但是就像很多人喜欢春春一样,好像歌唱得不是很好,但是就是喜欢,
+     所以不知道为什么我就是不喜欢华为,根深蒂固的,从5年前开始就是~
+     因为5年前,我在飞机上偶遇一个浙大的GG,(那时我是大二吧),他就告诉我他在华为工作,好累,好苦,那时我好同情他,我说这个单位怎么这样的?

@@ -1,0 +1,28 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RB80BW019815
+	for <shen@ccert.edu.cn>; Thu, 29 Sep 2005 04:47:17 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 04:33:28 +0800
+Message-ID: <327818451.29271@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 29 Sep 2005 04:33:28 +0800
+Message-ID: <327818451.29255@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 04:33:28 +0800
+From: han@mail.tsinghua.edu.cn
+To: shen@ccert.edu.cn
+Cc: cen@ccert.edu.cn
+Date: Thu, 29 Sep 2005 04:33:28 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+Content-Type: text/plain
+
+     我是外校的。我知道清华有很多“大牛”，喜欢而且拥护清华的制度。
+     我只是困惑，就算ieee,sci所有的期刊全是你们的“牛”论文对成为科技强国有什么意
+     义么？～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～
+     ～
+     ～～
+如果你是清华的学生，那么我为你说出这种话感到耻辱！
+幸好你不是，所以我只是觉得比较可悲而已。
+顺便问一句： 你说话到底过不过那个玩意儿？还是今天没有带过来？
+     你们看不起linux，看不起latex这些小儿科，当你们用盗版的word打你们的best 
+     paper award candidates的时候，当用盗版powerpoint演示你们的方案的时候，你们就
+     变
+     得比王垠更有学术气质了么？更像搞研究的了？

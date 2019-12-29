@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <chen@ccert.edu.cn>; Thu, 15 Sep 2005 15:49:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <chen@ccert.edu.cn>; Thu, 15 Sep 2005 16:01:23 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 07:43:40 -0000
+From: "yana" <yana@mail.tsinghua.edu.cn>
+To: chen@ccert.edu.cn
+Cc: <xin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INSttLQt1ffOxC3W0MfvtcTLvND3?=
+Date: Thu, 15 Sep 2005 16:01:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+     　中秋的思绪 
+     　　　曾经以为，自己是性情中人，那么多愁善感的人，曾是走不出伤情的岁月。每每听友人说起他（她）们一些事情，听他（她）们诉说他（她）们的爱的故事，因爱而受伤的心情，以及怎么走也走不出去的伤悲，也不由得勾起了自己的百般愁绪。　　 
+     　　　　百味人生，有了情，便有了期待；有了情，便有了精彩；同样，有了情，便有了遗憾，有了情，便有了怎么说也说不完的伤悲，有句俗话说：“问世间情为何物，直教人生死相许”，就这么一问，问倒了世间多少痴男怨女，又有谁能给出一个答案呢？　　 
+爱？有时就是一种感觉，一种意境，一种情怀，一种享受,一种付予.

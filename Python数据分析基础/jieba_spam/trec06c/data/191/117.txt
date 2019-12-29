@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <you@ccert.edu.cn>; Tue, 27 Sep 2005 08:35:23 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Tue, 27 Sep 2005 08:38:38 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 00:38:36 UT
+To: you@ccert.edu.cn
+From: guan@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7mruOZdIMjOw/wgenpvbmVyIM6qIFBpZUZyaWVuZHMvyLXHxaGk1ffN5tPRvLDG5Mv7ILDm
+sObW9w==?=
+
+【 以下文字转载自 BM_Apply 讨论区 】
+发信人: SYS02 (SYSOP), 信区: BM_Apply
+标  题: [公告] 任命 zzoner 为 PieFriends/鹊桥・征玩友及其他 版版主

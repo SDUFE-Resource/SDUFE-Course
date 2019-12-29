@@ -1,0 +1,24 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 17:34:04 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 16:56:22 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "hu" <hu@cert.org.cn>
+To: zhang@ccert.edu.cn
+CC: "tu@ccert.edu.cn" <wua@ccert.edu.cn>,
+   "wang@ccert.edu.cn" <jian@ccert.edu.cn>,
+   "qiu@ccert.edu.cn" <ni@ccert.edu.cn>, "wu@ccert.edu.cn" <huang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 17:41:49 +0800
+
+同为老乡，我祝他以后事事顺风，这就是中国教育的悲哀，将天才教育成蠢材就是中国的大学，将庸才教育成人才就是西方的大学。现在有独立思考的人越来越少了，希望中国多些这种有独立思考和勇气的人，不管他将来成功与失败，这种经历就是一种财富。我不了解他的情况，所以对他的一些描述不作评论，毕竟不了解，就是在同一个系，还有不同老板，就是在同一个老板手下，说不定老板还有偏见，这种事情我也见到过。
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)
+     发信站: 水木社区 (Fri Sep 23 12:00:32 2005)

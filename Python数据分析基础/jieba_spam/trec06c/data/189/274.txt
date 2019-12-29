@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PBM1hB031975
+	for <xue@ccert.edu.cn>; Tue, 27 Sep 2005 01:17:30 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 01:04:50 +0800
+Message-ID: <327646561.19141@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 27 Sep 2005 01:04:50 +0800
+Message-ID: <327646561.19123@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Tue, 27 Sep 2005 01:04:50 +0800
+From: cheng@mail.tsinghua.edu.cn
+To: xue@ccert.edu.cn
+Cc: hu@ccert.edu.cn
+Date: Tue, 27 Sep 2005 01:04:50 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Content-Type: text/plain
+
+    好多人拿王垠总是方向换来换去，根本说不出来自己想做的“是”什么来攻击他,我觉得这是没有道理的，寻找是一个很正常的过程，我说不出来“是”什么的东西并不等于它不“存在”，能够把想要的东西准确的说出来在我看来是一种很高的要求，但这不是“必须”的。
+    
+    更常见的情况是我们在了解了一件事情之后，我们能够“判定”这件事物或者事情是我需要的，就足够了。比如找女朋友，我们或许有一些标准，别人问我们想找什么样的时候我们也能说出来，但碰到真正有感觉的女朋友的时候，她真的和我们的标准那么合吗？
+    
+    另外的一个例子就是，
+    大家都应该知道方程中解的“存在”和解“是”什么完全是两个问题，我完全可以确定方程的解是存在的而不知道他是什么。还记得方程根的判别式吗？
+    再比如微积分中的零点定理（是叫这个吧？都忘光了），是说连续函数的某区域的两个自变量边界点的函数值一正一负，那么在这个区域内必然“存在”一个自变量使得函数值为0，但那个自变量“是”什么，我们不知道。大家明白了吗？
+胡言乱语了这么多，其实我也是“说不出来自己想要什么”而不是“不知道自己想要什么”的那种人，希望大家能看得懂：）
+所以我要尽量的去尝试，我相信我想要的东西或者想做的事是存在的，在碰到它的时候，我可以非常肯定的作出判断--that\'s what i want！
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。

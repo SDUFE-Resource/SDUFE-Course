@@ -1,0 +1,22 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <weng@ccert.edu.cn>; Wed, 24 Aug 2005 02:24:00 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 02:37:07 +0800 (CST)
+Date: Wed, 24 Aug 2005 02:30:53 +0800
+From: "hua" <hua@sohu.com>
+To: weng@ccert.edu.cn
+Cc: "yxl" <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INGvzsrSu8/C09C52L+80dC1xLy4uPbOyszio6i+rbnc0afUuqOp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+开学了，大牛们呢？
+     1、经管学院国际贸易和金融学这两个专业只是指定了三本专业课的教材，只用指定的基本上就可以搞定专业课了吗？
+     2、上述两个专业复试没有指定教材，不知道怎样复习，有没有什么经典的教材可以拿来用用？不是说清华复试成绩占总成绩的一半吗？不知道各位有没有什么好办法？
+     3、因为我本科是学工科的（电子信息），不知道转成经济类的困难吗？

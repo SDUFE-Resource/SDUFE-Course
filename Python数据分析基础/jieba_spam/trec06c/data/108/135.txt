@@ -1,0 +1,28 @@
+Received: from mail.datangmobile.cn ([219.142.67.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8892WtN010943
+	for <hong@ccert.edu.cn>; Fri, 9 Sep 2005 23:02:36 +0800 (CST)
+X-MimeOLE: Produced By Microsoft Exchange V6.0.6249.0
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----_=_NextPart_001_01C5B455.B334AA92"
+Subject: =?gb2312?B?ofEgvfzG2s7ltcC/2saxvNs=?=
+Date: Fri, 9 Sep 2005 23:14:20 +0800
+Message-ID: <D728AD1FA2543948B89DE29C5BF4CD0704702305@bjmail1.bj.datangmobile.com>
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+Thread-Topic: =?gb2312?B?Rlc6usPP+8+i?=
+Thread-Index: AcWzVeLIdAsKA274TtK/X9/Q8e7fPQAAQx2QAAD0grAAPoMbQA==
+From: <zhuang@datangmobile.cn>
+To: hong@ccert.edu.cn
+
+《世界之战》 《绝密飞行》
+优惠场票价    成人40元   学生30元   “兑换券”3张/人
+其他场票价    成人50元   学生40元   “兑换券”3张/人
+《求求你表扬我》 《独自等待》
+优惠场票价    成人30元   学生20元   “兑换券”2张/人
+其他场票价    成人40元   学生30元   “兑换券”2张/人
+《太行山上》 《帝企鹅日记》
+优惠场票价    成人15元   学生10元   “兑换券”1张/人
+其他场票价    成人25元   学生15元   “兑换券”2张/人 

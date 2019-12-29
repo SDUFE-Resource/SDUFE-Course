@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <gong@ccert.edu.cn>; Tue, 13 Sep 2005 03:44:51 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <gong@ccert.edu.cn>; Tue, 13 Sep 2005 03:56:49 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 12 Sep 2005 19:39:37 -0000
+From: "sun" <sun@mail.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Cc: <lv@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9XQxrhTeW1iaWFuuaSzzMqmXQ==?=
+Date: Tue, 13 Sep 2005 03:56:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+技术要求：
+1.熟悉熟悉c，c++,java语言；
+2.一年以上Symbian平台开发经验，有Symbian平台游戏开发经验更佳;
+3.熟悉windows mobile平台或J2me平台开发；
+岗位要求：
+1.本科学历，计算机或相关专业
+2.有团队合作素质，同时能够应对高强度压力工作
+3.如是应届研究生可以解决户。
+项目介绍：
+本公司在清华科技园，学研大厦（清华东门）为上市集团下属高新企业。 待遇优厚，面
+议。
+希望有兴趣的同学请回站内信箱或者zhangxw@04tech.com
+简历一定要注明自己的技术特点和相关经验。 我们会组织面试 

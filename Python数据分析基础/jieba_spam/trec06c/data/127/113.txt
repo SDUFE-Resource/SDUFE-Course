@@ -1,0 +1,30 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <lei@ccert.edu.cn>; Tue, 13 Sep 2005 21:11:28 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Tue, 13 Sep 2005 21:23:27 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Tue, 13 Sep 2005 21:23:23 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "fan" <fan@dlut.edu.cn>
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7K0rvPwtXiwO+1xLTzxaPDxw==?=
+Date: Tue, 13 Sep 2005 21:19:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+如果学校有买这个数据库，
+应该是点击你找到的文献，进去看到摘要等，然后会有全文链接。
+如果学校没买，那看看有没有买书面版，去图书馆复印。
+这两项都没有，还有办法，把文献信息记下来，
+上网去google,有时候能找到，
+网上确认没有他，给出国的哥们发信索要，
+让他给你下电子版寄，或是扫瞄版传，无论如何，看关系够不够铁了。
+外国牛校的数据库比较全。
+     怎么在ISI web of knowledge上下载全文？就是找到要得文献后怎么下载全文？谢谢：）

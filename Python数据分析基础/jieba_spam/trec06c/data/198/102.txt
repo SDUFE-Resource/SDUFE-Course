@@ -1,0 +1,32 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <lei@ccert.edu.cn>; Wed, 28 Sep 2005 14:03:26 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 06:14:33 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 14:14:33 CST
+Date: Wed, 28 Sep 2005 14:14:33 +0800 (CST)
+From: liang ming <kang@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILeivLi49s3G0dDD5srUtcTQpruw?=
+To: lei@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+我们：
+1。自介
+2。写出专业英文名
+3。控工、理力、制造、测试任选2课写英文名
+4。抽2题回答，已知有：
+   a。如何用计算机生成零件图
+   b。如何用计算机生成装配图（me抽到了-_-）
+   c。如何列写动力学方程
+   d。请用简单逻辑门电路搭建2位二进制数平方器（me抽到了-_-）
+   传说博士还有更ft的：
+   e。请问什么是柯利奥利力？（老师上课得时候就说了一句：“有这么一个东西，大家知道就行了”）
+   f。已知模数求分度圆齿宽……（谁还背得模数得定义？）
+5。据说有人都走到门口了被老师叫住，然后说“再问一个，你知道XXXX么……”
+     我们系q1：你叫什么名字，q2：你排多少名，q3：素测多少 ，没问题了，可以出去了

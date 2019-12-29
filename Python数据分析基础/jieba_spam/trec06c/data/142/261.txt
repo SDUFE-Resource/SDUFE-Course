@@ -1,0 +1,30 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBHaMG026280
+	for <mei@ccert.edu.cn>; Fri, 16 Sep 2005 21:29:53 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id A7E89718597; Fri, 16 Sep 2005 21:41:44 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 139F3733E57; Fri, 16 Sep 2005 21:41:43 +0800 (CST)
+Message-ID: <053901c5b91f$8fe966d0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <tu@dlut.edu.cn>
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8/GuLzSvczSu8P7ICjXqtTYKQ==?=
+Date: Fri, 16 Sep 2005 21:41:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0536_01C5B962.9DFC0500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 ParttimeJob 讨论区 】
+发信人: EEP (暂无), 信区: ParttimeJob
+标  题: 诚聘家教一名
+要求我们学校大一、大二理科生
+是一高二学生，男孩，家在丰台，
+做家教时，自己去丰台，回来时家长可以送过来
+或者你们自己另约做家教的地点。
+哪位师弟，师妹若有意，可回我站内信箱，我告诉你他家长的联系方式，
+具体待遇和时间你们面谈即可。

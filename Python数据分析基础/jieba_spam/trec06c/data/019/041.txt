@@ -1,0 +1,21 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <hua@ccert.edu.cn>; Sat, 20 Aug 2005 22:39:04 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <hua@ccert.edu.cn>; Sat, 20 Aug 2005 22:52:22 +0800 (CST)
+Date: Sat, 20 Aug 2005 22:46:27 +0800
+From: "weng" <weng@sohu.com>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsrExNPQwvS4ycS18sO6zbjJsbS1xKO/?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+腐竹汤，很好喝的
+腐竹一包 
+干牡蛎 6to8个
+乾干

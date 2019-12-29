@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <qian@ccert.edu.cn>; Wed, 14 Sep 2005 13:33:19 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <qian@ccert.edu.cn>; Wed, 14 Sep 2005 13:45:20 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 05:27:53 -0000
+From: "wen" <wen@mail.tsinghua.edu.cn>
+To: qian@ccert.edu.cn
+Cc: <cen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTTzve/zdW+tb2xsbTzsNnE6sDxzMPU9cO01/iztT8/?=
+Date: Wed, 14 Sep 2005 13:45:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+东至门可以做城铁到无道口
+N多的车到北大东门
+     标  题: Re: 从西客站到北大百年礼堂怎么坐车??
+     
+     西客站去似乎有320\\特4\\特6等到北大东门
+     东直门坐地铁到西直门,再转运通105到北大东门或者运通106到北大西门好了
+     
+     : 还有从东直门去北大礼堂坐什么车呀?
+     : 谢谢
+     
+     
+     
+     --
+     

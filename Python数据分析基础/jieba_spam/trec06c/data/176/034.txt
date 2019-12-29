@@ -1,0 +1,26 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <gao@ccert.edu.cn>; Sat, 24 Sep 2005 03:37:14 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Fri, 23 Sep 2005 19:44:57 -0000
+From: "qiu" <qiu@mails.tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgu6rOqrGx0dDL+c7ez9+yv8PF1dDGuA==?=
+Date: Sat, 24 Sep 2005 03:48:53 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+岗位是从事3G或后3G技术预研/研发，主要工作任务是申请技术专利或者向国际标准组
+织输出提案、参加会议，或者从事链路仿真、系统仿真平台研发工作，要求对无线通信
+技术有一定技术基础、或者对C语言编程比较熟悉、欢迎能比较快就岗者，待遇、工作环
+境参照最近华为应届、社招有关政策。本广告长期有效，有意者请将简历发往chenlinh
+ong@tsinghua.org.cn，对合适者将与您联系面试事宜，也欢迎其他欲了解详情者联系。

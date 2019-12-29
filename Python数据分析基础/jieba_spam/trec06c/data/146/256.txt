@@ -1,0 +1,27 @@
+Received: from mailgate1.neusoft.com ([210.83.210.153])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F2h5xA032120
+	for <lai@ccert.edu.cn>; Sat, 17 Sep 2005 15:01:36 +0800 (CST)
+Received: from smtp3.neusoft.com (mail.neusoft.com [210.83.210.139])
+	by mailgate1.neusoft.com (8.12.11/8.12.11) with ESMTP id j8F2pa4i001038
+	for <lai@ccert.edu.cn>; Sat, 17 Sep 2005 15:10:03 +0800
+Received: from win2003 ([192.168.74.50])
+ by smtp3.neusoft.com (iPlanet Messaging Server 5.2 Patch 1 (built Aug 19
+ 2002)) with ESMTPA id <0IMU0027B80HRF@smtp3.neusoft.com> for
+ weike@ccert.edu.cn; Sat, 17 Sep 2005 15:11:32 +0800 (CST)
+Date: Sat, 17 Sep 2005 15:12:40 +0800
+From: SQL <cen@neusoft.com>
+Subject: =?gb2312?B?UmU6IMn6u+6yosO709DP68/ztcTEx8O00MG/4A==?=
+To: lai@ccert.edu.cn
+Message-id: <001e01c5b9a0$c21b92a0$324aa8c0@win2003>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+X-MailScanner: Not scanned: please contact your Internet E-Mail Service Provider for details
+
+    房子怎么解决的？
+         在我和我老婆计划生小孩时候，我们想象：如果老婆辞职了，不工作，在家待产，那是多么苦的生活。可是现在看来并没有那样可怕。
+     　　也许我和我老婆的生活在大家看来很苦：我在读书，每个月的补助950元，现在因为临近毕业的原因，也不能出去做兼职。而老婆已经怀孕将近8个月了。我把大部分的钱省下来给老婆买吃的和做检查用，还好这些还够用，因为老婆也不会买什么稍贵一点的东西。另外还要承担电费
+         我老婆现安心在家待产，家里面堆满了各种各样的小衣服，也会出去买一些婴儿用品，偶尔也跑到这个版上请教先当了爸爸妈妈的兄弟姐妹。我很惭愧没有陪着她去听孕妇的课程，每次回家，只能用轻轻摸着她突起的肚皮来表达我的愧疚。不管怎样，我们觉得生活很快乐。

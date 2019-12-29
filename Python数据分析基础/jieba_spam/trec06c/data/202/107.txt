@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFG0025934
+	for <lu@ccert.edu.cn>; Thu, 29 Sep 2005 05:46:51 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Wed, 28 Sep 2005 21:32:25 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "fu" <fu@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Cc: "Duan Haixin" <ye@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMz4v6rN9dvztcS49sjL0NDOqqOstNO087jftsjJz7e0y7y/xtHQxsC828zl1sY=?=
+Date: Thu, 29 Sep 2005 05:57:42 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+正如你说的，没有一个制度的完美的，但不完美并不代表不能用，不好用。当一个制度开始真正地影响事务的发展，不合理性远大于合理性是，人们就会开始寻找更好的制度来替代。而paper制度还远没有达到那个程度，或者说，这个制度还相当合理。
+paper提供给科研工作者一个交流思想，发表成果的平台。你做了什么工作，你就可以拿来展示。重要的是后端的评价工作。同行间的评价能最大限度的提供公平性，不错，现在有很多人在灌水，但其工作成果也同样在这种水中能够体现，得到客观的评价。除非评价者是科研白痴，根本看不出文章内容的好坏，或者依靠人情事故，借着与作者的好关系瞎给评价，这些都是中国常见，而国外相对做的较好的，也是造成paper制度在中国走样更多的原因。在美国，很多教授都是希望做出最好的东西，拿到最好的会议期刊上去发表，因为那代表了获得同行最高的评价，他们很少会选择层次很低的会议发表文章，因为那样的文章对他们来说没有什么好处。但低级的会议和期刊也有需要，这是因为说到底，人还是有水平高低之分的，任何行业都是这样，但你不能就此不让人进行工作。而且很多时候这是科研成长必须的一部，因为突破性的工作也是要有个过程的。如果评价手段合理，paper驱动完全可以转化成成果驱动，虽然不能做到100％。
+中国现在根本不到批判paper制度的时候，因为本身引进消化还没完成，制度根本还未在中国充分建立。中国首先要根除的是科研界的官本位，让不懂科研的人领导科研界，在科研界灌输成果换官位地位的思想，直接就腐蚀了整个系统。你不可能将你的成果解释给一堆不懂科研的官僚听。让教授评价教授，同行领导同行才是根本。当然在中国又有另一个问题，就是评价系统不完善，让一帮水平不到的人充斥教授队伍，甚至官员们都热衷于争当院士教授，学界变官场，让人哭笑不得。
+     王垠的公开信毫无疑问体现了很多不成熟和幼稚的地方，已经遭到了广泛和严厉的批评。但他所揭示或试图揭示的问题也同样毫无疑问是很有价值的，那就是，我们当前的科研体制尤其是科研激励体制是不是存在着严重的弊端，以paper-drive为特征的现行科研评价是不是符合科研事

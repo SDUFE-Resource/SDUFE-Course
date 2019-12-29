@@ -1,0 +1,20 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <gong@ccert.edu.cn>; Sat, 20 Aug 2005 12:45:20 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <gong@ccert.edu.cn>; Sat, 20 Aug 2005 12:58:24 +0800 (CST)
+Date: Sat, 20 Aug 2005 12:52:41 +0800
+From: "lu" <lu@sohu.com>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?ofEg09DKsbryutzPsru2y/2jrLWr09DKsbryutzM1tHhy/2jrM6qyrLDtLvh1eLR+aO/?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+    和她在一起2年多了，她比我小一级，不是一个学校，一开始认识的时候觉得她很纯，很傻，就追了,一年前为了她放弃了出国。
+    但最近我们一起租房子，有时候会觉得很反感，比如回到家从来不收拾屋子，都要等我提醒她才会收拾，有时候会莫名其妙的吃醋，那天我陪老师去嘉年华，手机没有电了，她打电话我就没有接，她就开始怀疑，非常严重的怀疑，弄的我非常不爽，最后还惊动了老师。
+    有时候觉得她很董事，但是有时候觉得她很不会为别人着想，比如有时候已经非常累了，很想睡觉，她会莫名其妙的缠着你给她讲故事什么的，那种时候就会很讨厌。
+    以前没有和女孩子尝试过同居过，不知道我这种感觉是不是正常……

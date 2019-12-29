@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <yana@ccert.edu.cn>; Wed, 24 Aug 2005 15:56:35 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 24 Aug 2005 16:14:58 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 16:14:58 +0800
+Date: Wed, 24 Aug 2005 16:14:58 +0800
+From: mo@cernet.com
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+To: yana@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+说民族企业的人，我都觉得是一个幌子。用这个幌子来为在市场竞争中各种非正式得见不得人的手段来做遮羞布。总说民族企业，换句话来说就是没有全球化的意识。按民族企业派人士的说法，因为华为作为民族企业，所以在中国就应该有国有银行作为其支撑，或者间或还有别的什么正式非正式得政府的支持（当然也许根本就没有，而且本来也不该有）。那么如果华为到了别的国家或地区去呢，人家是否也有类似的扶持本国的某些通领域企业和华为竞争？有是华为得不幸，没有也是华为得不幸，甚至来说是中国的不幸。因为没有就表明别的国家或地区是成熟的市场机制，是一种正当自由竞争的市场意识。我觉得后者来得更重要，因为这样的东西不是一时半会能形成的，它的形成需要一个漫长的过程。
+华为得低价和打压竞争对手的竞争策略，本身就是一个过时的策略。从另一个角度看，它也许会获得短期的利益，但它会损害其长期的利益。这是一个trade off得原则。为什么？因为华为长期的使用这种策略，它就会形成一种积习，一种以企业文化形式存在的积习。想改我看难那。
+文化是一种抽象而难以理解的东西，但它却又是影响人于无形的东西。企业文化也是一样，所以华为得企业文化会或多或少的影响它得员工也会影响它的战略，然而我觉得华为的企业文化培育或者发展不出一种优秀的战略。
+     坚决支持华为，因为中国只有一个华为。
+     这是我们的民族企业，具有国际竞争力的民族企业，这就够了，
+     她可能还有很多问题，所以我希望在大家有能力的时候，帮华为解决。

@@ -1,0 +1,27 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <yan@ccert.edu.cn>; Fri, 23 Sep 2005 01:43:09 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Thu, 22 Sep 2005 17:50:52 -0000
+From: "feng" <feng@mails.tsinghua.edu.cn>
+To: yan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Fri, 23 Sep 2005 01:54:48 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+清华要赶世界先进，很难。因为在中国，没有创造世界先进的土壤，看看中国近百年来有多少领先的。
+教育制度要反思，不是高等教育制度，而是基础教育制度。
+基础教育搞好了，中国前一百的大学都可以成为世界一流。中国人很聪明，但是没用到地方上。
+     赞一个，我本科是清华电子的。本科也差不多如此。这里有几个小故事。
+     第一个，以前和本科同学一起在学校实验室干小活。一天师兄（博士）给同学交待了个硬件设计的小任务，师兄看完他的程序后就在实验室开玩笑说“xxx写的什么程序，我让他给我写个状态机，结果他弄了个数数器给我一二三的数”然后全实验室的人都大笑我同学（幸亏他当时不在场）。我当时觉得这个笑话一定很可笑，但是我不清楚哪里可笑，因为我也分不清那个状态机和计数器有什么区别，当时是大三上学期。（实际上状态机对于硬件设计的作用大概相当于引擎对于汽车的作用，或者是C++里面类的使用对程序设计的作用，设计硬件不用状态机大概类似于? 斐挡挥靡

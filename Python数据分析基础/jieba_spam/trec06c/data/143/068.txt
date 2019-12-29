@@ -1,0 +1,43 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBHaMG026280
+	for <lv@ccert.edu.cn>; Fri, 16 Sep 2005 23:07:11 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id A7E89718597; Fri, 16 Sep 2005 23:19:02 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 139F3733E57; Fri, 16 Sep 2005 23:19:01 +0800 (CST)
+Message-ID: <053901c5b91f$8fe966d0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <tang@dlut.edu.cn>
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?ofEgt9bP7c6iyO3Wx7vbo6zB7MXczrTAtMjLyfotzqLI7dHH1t7R0L6/1LrUurOkyfLP8tHzsqnK
+v7GouOY=?=
+Date: Fri, 16 Sep 2005 23:19:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0536_01C5B962.9DFC0500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+分享微软智慧，领跑未来人生 
+――微软和你一起领跑
+―――――――――――――――――――――――――
+活动时间：2005年9月16日（周五）晚19:30
+活动地点：主楼后厅大报告厅                 
+二十一世纪什么最重要！人才？技术？抑或文化？
+在新时代的激烈竞争中，如何才能在各方面胜人一筹，脱颖而出？
+微软专家造访清华大学，结合亲身经历和微软发展历程，
+阐释人才领跑、技术领跑和文化领跑
+让微软和你一起成为新世纪的领跑者！
+从这里，我们一起出发
+从这里，我们一起领跑
+从这里，我们一起奔向更高更远更广阔的未来……
+微软亚洲研究院院长沈向洋博士、微软亚洲工程院工程总监林斌先生等微软著名专
+家偕同微软清华校友做客“清华学子财富论坛”，作为2005微软高校行的第一站，
+从人才领跑、技术领跑和文化领跑三个视角诠释成才与成功！
+让我们相聚在2005年9月16日（周五）晚19:30的主楼后厅，共同体会微软的内涵，
+领略微软专家的风采，和微软专家一起启迪未来、规划人生！ 
+主办：微软亚洲研究院高校关系部 
+清华大学研究生会
+承办：清华大学计算机系研究生会

@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <xia@ccert.edu.cn>; Fri, 23 Sep 2005 17:30:12 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 17:19:12 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 17:19:11 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 17:19:11 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 09:19:11 -0000
+From: "zhang" <zhang@mail.tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOy5xMbw08LG+M/ybW2x7bDXo6y1w7W91eLR+dK7uPa72Li0oaM=?=
+Date: Fri, 23 Sep 2005 17:41:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+时光流逝，人生苦短，但不要为爱情苦恼，（或者不要着急找到一个归宿）。不是长久的知心朋友，我怎么知道你是真心的呢！不要把爱情像浮云一样对待，草草了事。你何必着急呢？
+如果我们真的因为我的拒绝而少了来往，但我们还有美好的回忆，还可以做个一般朋友。
+          若非流光度，何苦为难归，不是久远心，又怎落浮云，了不了，何必草？弦断也听音.
+         大家帮忙分析分析啊，不甚明了，看看我还有希望没有？

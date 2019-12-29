@@ -1,0 +1,60 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <cai@ccert.edu.cn>; Sat, 3 Sep 2005 09:54:25 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <cai@ccert.edu.cn>; Sat, 3 Sep 2005 10:07:01 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 01:55:36 -0000
+From: "qiu" <qiu@mail.tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Cc: <feng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgy7zWx7/GvLzV0Ma40MXPog==?=
+Date: Sat, 3 Sep 2005 10:06:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+SageTech, Inc. 思智科技(中国)有限公司是专业从事计算机安全技术的产品研发、咨询和服务的国际企业。思智科技致力于企业以及个人信息安全的软件、硬件和整体解决方案提供。思智科技的目标是成为世界上企业以及个人的信息安全服务领先提供商。 
+　　思智科技的技术是先进的，她拥有数项世界领先的专利技术。其中技术研发团队由清华大学、北京大学、中国科学院博士及美国、加拿大的归国专家构成。从事研究、开发、生产与企业及个人相关的信息安全产品，其中包括银行及各类金融机构密切相关的尖端技术产品。在正式进入中国两年多的时间里，思智科技旗下的：BEYOND ATM安全防护设备，SageDVR安全监控设备，以及优锁U－LOCK系列产品已经成为中国企业以及个人信息安全市场上的领导产品和品牌。 
+　　思智科技在产品领先的同时，非常注重对客户提供全面优质的服务。其优质的客户服务工作已经在广大的中国客户以及渠道经销商中享有盛誉。 
+　　思智科技的总部以及核心研发位于美国加利福尼亚州的硅谷，市场，服务以及生产部门位于中国北京市中关村科技园区。
+　　思智科技崇尚务实的工作作风，积极进取、服务至上的精神，旨在加快高科技的产业化进程。我们将凭借高效、优质的服务，高信任度的企业形象与广大用户携手，为企业以及个人信息安全进步做出贡献！
+职位1: 信息安全算法助理工程师
+ 
+招聘人数：4     工作地点：北京市
+薪水范围：面议     学　　历：本科
+接受简历语言：中文或英文     
+工作年限：不限     
+职位描述：
+数学本科以上学历优先
+有一定数论基础
+了解并行计算及相关工具
+熟练使用C++进行相关运算编程及分析
+认真负责的工作态度 , 具有工作的主动性和学习能力
+善于沟通、具备较强协调能力和团队合作精神
+工作描述：
+参与信息安全算法的研究工作 
+职位2: 信息安全算法工程师 
+ 
+招聘人数：2 工作地点：北京市  
+薪水范围：面议  
+接受简历语言：中文或英文  
+职位描述：  
+计算数学硕士以上学历优先 
+了解并行计算及相关工具
+熟练使用C++进行相关运算编程及分析 
+认真负责的工作态度 , 具有工作的主动性和学习能力 
+善于沟通、具备较强协调能力和团队合作精神 
+ 
+工作描述： 
+参与信息安全算法的研究工作 
+ 
+联系方式：（请勿回站内信箱）
+地址： 北京市海淀区上地信息路2号D栋602-606室 100085
+电子邮件： info@sagetech.com.cn 
+电话：51652258 （统一接入号码）

@@ -1,0 +1,42 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <yuan@ccert.edu.cn>; Sat, 20 Aug 2005 07:34:30 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <yuan@ccert.edu.cn>; Sat, 20 Aug 2005 07:47:32 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 08:11:00 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: weng@126.com
+To: yuan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsrLrcHLveLOosjt0cfW3tHQvr/Uur7fzOXH6b/2o78=?=
+Date: Sat, 20 Aug 2005 07:42:14 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+是吗？好像不是这样的吧
+     标  题: Re: 请问谁了解微软亚洲研究院具体情况？
+     
+     不如CRL
+     : 不是说刚去18W吗？
+     
+     
+     --
+     
+     QTerm -- Quick Terminal                                             
+             
+     BBS client based on Qt library in linux                                 
+             
+     http://qterm.sourceforge.net                                               
+     
+     

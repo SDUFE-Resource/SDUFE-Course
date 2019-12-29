@@ -1,0 +1,23 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <ren@ccert.edu.cn>; Fri, 19 Aug 2005 15:59:53 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <ren@ccert.edu.cn>; Fri, 19 Aug 2005 16:12:57 +0800 (CST)
+Date: Fri, 19 Aug 2005 16:07:14 +0800
+From: "mo" <mo@sohu.com>
+To: ren@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQyMuxyM7SsbvGrbXEuPyy0sLwo7+jvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+有一次跟eex去了一家看起来很不错的粥店，mm只要了一小碗，她苦着脸对我小声说：好贵呀。
+还有一次，mm说她发现有一个地方的沙锅很好吃，一定要我带她去吃。然后我和她转了3次车花了8块钱到了那个地方，而一共只吃了7块钱。
+还有一次，mm非让我请她川王府，吃完了mm告诉我，她拿了100块单科奖金，所以找借口请我来吃饭。
+sigh
+     土豪。
+     d2里面形容富人的话，呵呵。
+     贫富差距蛮大的，不过同样的钱带来的幸福也是不同的。

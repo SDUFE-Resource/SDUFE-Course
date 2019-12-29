@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <zhao@ccert.edu.cn>; Thu, 25 Aug 2005 14:42:42 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 15:01:02 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 15:01:02 +0800
+Date: Thu, 25 Aug 2005 15:01:02 +0800
+From: zheng@cernet.com
+Subject: =?gb2312?B?UmU6IMfrzsq087zSwcu94tbQufrIy8PxtPPRp9fUv7yyv7XEz+C52Mfpv/bDtA==?=
+To: zhao@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+     家里一个亲戚的小孩高考完，可能成绩不理想，什么都没录取上
+     今天拖我查一下关于人大自考部的情况，主要想知道毕业之后是否拿到的是本科的学历
+                                                           ――有专科部，本科部
+     国家是否承认？找工作会不会很成问题之类的
+     ――从政策上来说是承认的       ――如果说文凭的含金量，那是不行，现在普通高校毕业上尚且不好找工作；不过要是能力出众，也不是不可能
+总的来说，我认为要想接受普通高等教育，还是走高考这条路比较好；要么就接受比较好的职业技术教育，出路应该是不错的

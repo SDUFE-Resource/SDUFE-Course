@@ -1,0 +1,33 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <liao@ccert.edu.cn>; Fri, 2 Sep 2005 15:23:23 +0800 (CST)
+Received: (qmail 18809 invoked from network); Fri, 2 Sep 2005 07:35:06 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 2 Sep 2005 07:35:06 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "xu" <xu@jdl.ac.cn>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgRW5naW5lZXJpbmcgUmlzayBBc3Nlc3NtZW50IGFuZCBNYW5hZ2VtZW50IG9mIFdhdGVyIFJl
+c291cmM=?=
+Date: Fri, 2 Sep 2005 15:37:24 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 DHHE 讨论区 】
+发信人: lizzz (遥远), 信区: DHHE
+标  题: Engineering Risk Assessment and Management of Water Resources and Environmental Protection
+学术报告
+Engineering Risk Assessment and Management of Water Resources and Environmental Protection
+报告人：J. G. Ganoulis
+        国际著名水利专家；希腊亚里士多德大学教授；
+第30届国际水利学会（IAHR）组委会主席；
+国际水利学会（IAHR）理事
+时间：2005年8月30日（周二）上午10:00-11:30
+地点：泥沙馆数字实验室报告厅
+热忱欢迎各位老师、同学届时参加和交流、讨论！

@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <bai@ccert.edu.cn>; Tue, 16 Aug 2005 03:27:49 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <bai@ccert.edu.cn>; Tue, 16 Aug 2005 03:41:20 +0800 (CST)
+Received: (eyou send program); Tue, 16 Aug 2005 03:36:15 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Tue, 16 Aug 2005 03:36:15 +0800
+From: cen@mail.tsinghua.edu.cn
+To: bai@ccert.edu.cn
+Date: Tue, 16 Aug 2005 03:36:15 +0800
+Reply-To: cen@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INXiysfV/b3iIC0gLSBSZTogx/O+yKOs0ru1wNCh0afK/dGnzOI=?=
+Content-Type: text/plain
+
+        根据钱财守恒原理，店主亏得就是那个人赚得
+        那个人赚了25元的东西+75元的零钱
+     就这么算的。。
+     再给一道，还是n多人会算错
+     一人拿一张百元钞票到商店买了25元的东西，店主由于手头没有零钱，便拿这张百元钞票到隔壁的小摊贩那里换了100元零钱，并找回了那人75元钱。那人拿着25元的东西和75元零钱走了。过了一会儿，隔壁小摊贩找到店主，说刚才店主拿来换零的百元钞票为假币。店主仔细一看，果

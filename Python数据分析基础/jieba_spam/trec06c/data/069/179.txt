@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <lin@ccert.edu.cn>; Fri, 2 Sep 2005 05:34:21 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <lin@ccert.edu.cn>; Fri, 2 Sep 2005 05:47:03 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 05:36:42 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 05:36:42 +0800
+From: peng@mail.tsinghua.edu.cn
+To: lin@ccert.edu.cn
+Date: Fri, 2 Sep 2005 05:36:42 +0800
+Reply-To: peng@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IL30vLHH89b6o7rCw9DQuenAtKOstefE1M3qzeo=?=
+Content-Type: text/plain
+
+reset后还是这种问题，应该是硬件问题了。
+主板有错误信号的数码管没？有的话，可以参照主板说明书看下是什么故障。
+一般，先清下灰尘，重新插拔下内存，显卡，rp比较好的话，可能就好了
+不行，就拆同屋其他人的电脑，轮换着查是什么硬件出毛病了。
+男生的话，自己动手吧，以后找个MM的话还能帮忙。
+女生的话，找个男生去帮忙吧，不指望你能搞懂这些了，除非你是计算机系的
+     今天刚坐完了二十多个小时的火车赶回学校，结果电脑椅和电脑一块挂掉了。现在紧急求助。
+     症状：刚回来还可以开机，上网。进入一个网页时，死机。正常网页。以前也经常浏览。按reset键重启。结果显示器点不亮，机箱电源灯亮，一个劲地发出警报。然后就一直这样。不知道什么毛病。高手救命。

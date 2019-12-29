@@ -1,0 +1,26 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2gjIb030032
+	for <zhong@ccert.edu.cn>; Fri, 19 Aug 2005 21:44:40 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A741.000092.16670@m52.126.com>
+Date: Fri, 19 Aug 2005 21:57:51 +0800 (CST)
+From: "zhong" <zhong@126.com>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INfcuNC+9cPGo6y74bK7u+HJ+rKho78=?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_loSuijVMGiiOFKdLaKpxUmFGBkYx"
+
+qmd还有效么?
+     标  题: 总感觉闷，会不会生病？
+     
+       工作没到半年，总感觉到心情压抑，觉得生活没有乐趣，没有真正开心的时候，时间长了会不会得抑郁症阿？
+     一个人坐着总想流泪。
+       原本我是一个坚强的人，没想到其实这么脆弱。
+     --
+     
+       本人预征友一名，个子不要太高，长的不要太帅；
+     为人谦虚谨慎，要对我好，北方人最好；
+     最重要的是要会C++,要懂得EC，嘿嘿。。。
+     

@@ -1,0 +1,35 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <zhong@ccert.edu.cn>; Tue, 27 Sep 2005 14:48:55 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Tue, 27 Sep 2005 06:59:49 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Tue, 27 Sep 2005 06:59:49 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <zhong@ccert.edu.cn>; Tue, 27 Sep 2005 00:10:56 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <zhong@ccert.edu.cn>; Tue, 27 Sep 2005 02:07:22 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 14:59:37 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <gan@motorola.com>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S0rLLtcG9vuQoUmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MUgKQ==?=
+Date: Tue, 27 Sep 2005 14:59:12 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+他并非在改变，当然也没有在适应，而是逃避。前面有人说他是在做精神上的跳楼，这个
+词很贴切。
+     能引起这么大的反响，本身就是改变环境的一种努力。
+     他的导师应该说还不错，但这与大家支持王同学的真正目的没有多少关系。王同学就是
+     那个揭示皇帝新装的孩子，很幼稚，甚至你可以说他无知，但是他说出了真话。
+     在皇帝新装故事中，如果换上诸位，一定会攻击那个孩子：

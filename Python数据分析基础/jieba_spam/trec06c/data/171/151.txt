@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <kong@ccert.edu.cn>; Fri, 23 Sep 2005 06:49:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <kong@ccert.edu.cn>; Fri, 23 Sep 2005 07:01:10 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 22:38:16 -0000
+From: "ni" <ni@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: <zeng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILe0uLS/tMHLzfXb87XEzcvRp8nqx+s=?=
+Date: Fri, 23 Sep 2005 07:00:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+呵呵，恐怕你还没看清楚问题的本质。
+为啥他会在川大看清华好，甚至别的同学劝他，他都不信？
+为啥他到了清华有发现清华一塌糊涂，而他的同实验室同学都觉得老板和试验室环境
+都不错？
+教育制度是个大箩筐，什么都朝里面扔？我看呐，能容下他的软件公司可能还没出现
+呢，他还是回火星吧。
+     王垠的退学，用他自己的话来说，是经过深思熟虑的。
+     在我看来他的退学申请并不是针对某位老师的，而是针对中国的现有教育制度。
+     想想我自己，高中也是被题海战术搞的精疲力尽，进了大学，还是像填鸭那样

@@ -1,0 +1,25 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 12:44:31 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 12:06:49 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "jin" <jin@cert.org.cn>
+To: zhao@ccert.edu.cn
+CC: "shi@ccert.edu.cn" <xiao@ccert.edu.cn>,
+   "zhang@ccert.edu.cn" <zhu@ccert.edu.cn>,
+   "lian@ccert.edu.cn" <ma@ccert.edu.cn>, "you@ccert.edu.cn" <gao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMX6xsDN9dvztcTIyw==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 12:52:16 +0800
+
+你去看看MIT上大家的评论，几乎全部都是批评他的。
+因为你就算是到了美国，也会发现美国这边的科研环境跟清华没有本质的不同。
+可以肯定的是，王要是到了我毕业的那所学校的话，肯定会有同样的失望的。
+     其实很多批评王垠的人的处境和王垠有很多类似的地方，只是没有王垠那么潇洒一退
+     了之，还得苟且的活着，去适应这个自己也不满意的环境。
+     王的退学无疑给这些人一个沉重的打击，有些人当然坐不住了，就开始说王其实根本没有搞

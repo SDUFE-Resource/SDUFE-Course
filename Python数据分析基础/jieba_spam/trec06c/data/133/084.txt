@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <cen@ccert.edu.cn>; Thu, 15 Sep 2005 01:42:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <cen@ccert.edu.cn>; Thu, 15 Sep 2005 01:54:43 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 14 Sep 2005 17:36:57 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "xie" <xie@mail.tsinghua.edu.cn>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEdHttTO0rrcwOS1raOsuMOyu7jDt8XG+g==?=
+Date: Thu, 15 Sep 2005 01:50:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+No man is worth you tears,and the man who is,won\'t make you cry!
+      基本上都是我主动找他。我们每次分别我都是依依不舍，而他都走的很洒脱。很少主动关心我，甚至还比不上一个好朋友对我的关心。还有很多很多类似的事情让我很委屈。
+     刚才给他打电话，说了一下今天的生活，最后他说他有事要去忙了，我很希望听他说一句哪怕是一句表达感情的话，甚至是一句昵称都行。我提示了他，可是他还是只说声晚安，便先挂了。
+     一下子，所有的委屈都涌了上来，堵在心里好难受！

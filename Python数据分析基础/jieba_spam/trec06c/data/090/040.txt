@@ -1,0 +1,20 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8464SY3009167
+	for <fu@ccert.edu.cn>; Mon, 5 Sep 2005 21:17:37 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMA008AX4CVO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Mon, 5 Sep 2005 21:35:16 +0800 (CST)
+Date: Mon, 5 Sep 2005 21:31:21 +0800
+From: =?gb2312?B?wre0utPq?= <cao@cernet.com>
+Subject: =?gb2312?B?UmU6ILTzvNKw787Sv7S/tCy/tL+0ztK4w9T1w7Sw7C4=?=
+To: fu@ccert.edu.cn
+Cc: ylu4859 <liao@ccert.edu.cn>, "grey.wang" <zhao@ccert.edu.cn>,
+ zy <chi@ccert.edu.cn>
+Message-id: <0IMA008AY4CVO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/mixed; boundary="Boundary_(ID_mtIjcpm6pV5fNK0/E3Q5IQ)"
+
+re
+     大家好,今年6月我曾在此发表过关于以下事件的文章,但问题一直没解决掉.再次请大家帮忙看看我该怎么办.谢谢了.

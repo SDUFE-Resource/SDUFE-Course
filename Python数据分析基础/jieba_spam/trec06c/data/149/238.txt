@@ -1,0 +1,35 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8H5bKBZ019880
+	for <fan@ccert.edu.cn>; Sun, 18 Sep 2005 04:36:57 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.140.180)
+  by localhost with SMTP; Sat, 17 Sep 2005 20:22:36 -0000
+From: "fu" <fu@mails.tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuLKpyr+68w==?=
+Date: Sun, 18 Sep 2005 04:54:22 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLAELDCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+In-reply-to: <326923542.29639@mails.tsinghua.edu.cn>
+
+招聘博士后启事
+由新加坡经济发展局等国外机构提供资助，北京化工大学即将组建“中新国际纳米技术工程研究中心”（以下简称“中心”），主要从事纳米材料和纳米药物的制备和应用研究。根据中心发展需要，目前拟招收研究人员3－4名，从事以下三个方向的研究：
+方向1．纳米药物制备（1－2名）
+方向2．特种功能材料的制备和应用（1－2名）
+方向3．超重力反应器的设计和制造（1名）
+方向1和2热忱欢迎具有材料科学、化学工程、药物合成及剂型等背景的博士申请上述职位。要求应聘者对科学研究有浓厚兴趣，并具有较强的工程基础和组织领导能力，能领导一个团队进行创新性的研究工作。
+方向3热忱欢迎化工机械专业毕业的博士或硕士应聘，具有动密封和工程化开发经验者优先考虑。
+中心将提供5000元人民币的月薪，并视工作业绩另行发放奖金，另外还提供赴新加坡或其它国家培训和工作的机会。
+联系人：邵磊
+通讯地址：北京市北三环东路15号北京化工大学35号信箱
+邮编：100029
+电话：010－64429059
+传真：010－64434784
+电子邮箱：shaol@mail.buct.edu.cn

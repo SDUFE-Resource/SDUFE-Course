@@ -1,0 +1,36 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <ye@ccert.edu.cn>; Wed, 24 Aug 2005 11:12:58 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 11:26:05 +0800 (CST)
+Date: Wed, 24 Aug 2005 11:19:51 +0800
+From: "tu" <tu@sohu.com>
+To: ye@ccert.edu.cn
+Cc: "yxl" <yana@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzfjQxbmry76zz8a416gvvObWsNPF0OPRp8n6?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+网信公司诚聘专/兼职优秀学生
+北京网信网络科技有限公司以"网罗天下人的信心"为己任，汇集了两院院士领衔的包
+括教授、博士在内的数百名专业人员，致力于互联网信息服务，着力打造中文网络最
+有公信力、最有价值的互联网品牌。网信公司即将在全国的中学学校展开公益教育活
+动，为配合活动的进行，拟选聘品学兼优的高校学生，要求学习成绩优异，活动组织
+能力强；各省、市、县历届高考状元及现任或曾任学生社团干部一年以上者优先。 
+应聘合格者签定正式聘用协议，负责利用课余时间为本公司网站教育频道提供学习及
+考试类资源，佣金每月2000元起。本公司在提供优厚待遇的同时为兼职学子搭建一个
+综合性互动交流的学习平台，在不影响学习的前提下，可根据自己情况有选择地深入
+了解网站运营、技术维护、内容编辑、活动策划、管理等多方面的运作流程并与网信
+公司总裁共同成长。
+有意应聘者请于2005年8月30日前将个人简历寄至公司人力资源部，也可通过E-mail
+或直接来函、来电与我公司取得联系并提交相关材料。
+公司地址：北京市海淀区聂各庄东路10号 人力资源部
+邮政编码：100095
+联系人：王老师、胡老师、冯老师、张老师
+联系电话：010-58714154
+E-mail:wx@yumyu.com

@@ -1,0 +1,23 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2svQX010170
+	for <zhao@ccert.edu.cn>; Sat, 17 Sep 2005 20:34:07 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G3Pt3h004638
+	for <zhao@ccert.edu.cn>; Sat, 17 Sep 2005 21:05:08 +0800
+Message-Id: <200509160325.j8G3Pt3h004638@stmp.nisac.gov.cn>
+Date: Sat, 17 Sep 2005 20:45:15 +0800
+From: "wang" <wang@mail.nisac.gov.cn>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tDH77/swNajoQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+    又是一年中秋时，祝愿我的父母亲人健康幸福。祝愿所有关心过我的朋友，爱过我的，我爱过人的天天开心，快乐，幸福。
+    但愿人长久，千里共婵娟。很想发条短信祝你节日快乐，祝你的心如那满月般充盈。不过想想一切都已经过去，也不愿打扰彼此平静的生活。只是在心中默默的祝福你，希望你能真正的开心，快乐起来，放下过去，解开心结，勇敢地去追寻自己的幸福。
+    也希望自己能够真正的坚强，变得成熟但不世故，能够永远保持一个充满爱的单纯年轻的心。欣赏自己，珍惜自己现在所拥有的一切。
+    也希望版上的所有朋友们节日快乐，愿天下有情人终成眷属。
+  

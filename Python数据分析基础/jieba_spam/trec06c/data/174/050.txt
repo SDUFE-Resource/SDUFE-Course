@@ -1,0 +1,50 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <bai@ccert.edu.cn>; Fri, 23 Sep 2005 18:49:12 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <bai@ccert.edu.cn>; Fri, 23 Sep 2005 19:00:37 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 10:37:34 -0000
+From: "wu" <wu@mail.tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+Cc: <xu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Date: Fri, 23 Sep 2005 19:00:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+社会的进步
+制度的优化就是那些不夹着尾巴做人的人推动的
+可以选择夹着尾巴做人，但不能鄙视不夹尾巴的人
+相反应该要佩服
+     标  题: Re: 写给王同学和众位网友的一封信
+     
+     王同学的特点就是，不夹着尾巴做人
+     所以用你的视角显然无法理解
+     社会对这两种人都需要
+     不能以一种价值观来规范所有人
+     
+     我倒觉得王同学这种第二类人
+     对清华和第一类人提供研究价值反思的机会
+     尤其还没有读研究生和博士生的人
+     在心理和价值观上要有充分的准备
+     
+     事实上，王同学做了许多同学想做而没有勇气做的事
+     实际上清华里有这种想法和期望的同学不在少数
+     但只有当行动出现的时候问题才会明示到相关人士
+     毕竟夹着尾巴还是有尾巴的，总需要人把它露出来
+     
+     
+     : 总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。
+     : 首先，我们学习是为了什么？我觉得即使是我们学理工科的人，也不是为了成为所谓的爱因斯坦和牛顿。我这里用了所谓的爱因斯坦和牛顿，因为我们从小受到的教育就对爱因斯坦和牛顿扭曲了，我们那个时候不知道什么叫做科学只知道爱因斯坦和牛顿是非常非常牛的人。其实真正了
+     : 我是搞材料的，对于量子力学，凝聚态物理，统计物理之类的东西还比较熟。我就我所懂的东西谈谈我的看法。如果你深入的去研究这些东西，你就会发现任何一门科学大厦绝对不会建立在某一两个人的基础之上的。我们可以去看看曾谨言的《量子力学》，里面有爱因斯坦和波尔的一
+     
+     --
+     
+     ※ 修改:・newguester 于 Sep 25 03:01:01 修改本文・[FROM: 166.111.56.*]

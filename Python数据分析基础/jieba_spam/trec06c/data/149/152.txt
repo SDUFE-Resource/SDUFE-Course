@@ -1,0 +1,35 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <ke@ccert.edu.cn>; Sun, 18 Sep 2005 03:11:15 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <ke@ccert.edu.cn>; Sun, 18 Sep 2005 03:27:50 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <ke@ccert.edu.cn>
+	; Sun, 18 Sep 2005 03:27:50 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <ke@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 02:52:51 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "hua" <hua@njnu.edu.cn>
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SvvW1w9XiuPaw1rDWy7W1w82m1NrA7bXE?=
+Date: Sun, 18 Sep 2005 03:23:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+是这样，根据俺在论坛混的惊艳，一般鄙视楼主所发的这些言论的有三种人：
+1、出身豪门的，家里很富裕，根本不用为生活所愁，当然不知道俺们这些贫困人士所过的生活，他们认为爱情就是爱情，金钱是很庸俗的，不过这些人很少
+2、一些女人，无论现在是不是舒服，但是她们过去和老公经历了一段比较贫困的日子，或者现在还过着比较贫苦的日子，所以她们也鄙视金钱爱情，认为只有自己这样的爱情才是真正的爱情，这样心理才能平衡，有自豪感，顺便骗一些涉世未深的小妹妹跟随自己的道路，让她们也国国苦日子，这样自己心理更平衡了
+3、最值得鄙视的是那些没钱的男人，他们报着爱我就要和我一起受苦的观点去鄙视那些说金钱与爱情息息相关的人
+     人家至少认真分析了种种客观情况，然后得出结论；
+     属于摆事实讲道理，不像某些人看都没看就跳出来；
+     而且，字里行间都透露出为女人的幸福的周全考虑，

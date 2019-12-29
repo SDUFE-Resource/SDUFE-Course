@@ -1,0 +1,30 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <ning@ccert.edu.cn>; Thu, 25 Aug 2005 09:11:43 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 09:24:50 +0800 (CST)
+Date: Thu, 25 Aug 2005 09:18:36 +0800
+From: "wei" <wei@sohu.com>
+To: ning@ccert.edu.cn
+Cc: "yxl" <cai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+这个跟大环境有关系
+如果一直是浅显的研发的话  确实很难积累一定的经验和能力
+不过我觉得以后国内对有丰富经验和很强能力研发人员的需求会逐渐大起来的
+也不要把跨国公司想的总是那么下流
+只要有利益资本家是不会在乎技术拿来给你做的
+毕竟人力便宜 几乎可以步考虑 SIGH 
+要想做核心的  底层的东西
+首先要自己很强壮 这样才能争取倒机会
+至少我们公司这几年发展很说明了这样一个道理
+       在华为干过研发，至少会知道什么是真正意义上的核心设备研发。
+       今天面了一个人，发现虽然是干开发的，但是由于多年低强度、
+       低含金量的技术工作，已经很难达不到核心设备研发工程师的要求。

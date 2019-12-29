@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <zhou@ccert.edu.cn>; Fri, 23 Sep 2005 22:27:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <zhou@ccert.edu.cn>; Fri, 23 Sep 2005 22:39:02 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 14:16:08 -0000
+From: "cai" <cai@mail.tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Cc: <li@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SzqrKssO0RkFOzfXb8yy2+MfS0ruxstfTRkFOy/shIQ==?=
+Date: Fri, 23 Sep 2005 22:38:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+你的话，看起来一大陀，但无非是：
+1。基于假设的推理：如果他老板怎么怎么样，，就，，，，；（永恒的真命题，无语）
+2。然后就是一堆无因果关系的理想、崇高之类的感慨。（不可证实与证伪）
+虽然平常说话，不要象数学什么的那么严谨，
+但至少要有点内容。拜托。这种纯水，说实话，太纯了点。
+     我看到论坛有人说
+     退学可以，不应该在公开场合批评对方，毕竟导师也没欠他什么
+     如果他导师也同样来一条，把这封信翻译成英文给所有

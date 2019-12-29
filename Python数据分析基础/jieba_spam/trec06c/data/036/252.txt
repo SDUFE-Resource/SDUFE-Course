@@ -1,0 +1,46 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <yang@ccert.edu.cn>; Thu, 25 Aug 2005 05:32:41 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 05:51:04 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 05:51:04 +0800
+Date: Thu, 25 Aug 2005 05:51:04 +0800
+From: gong@cernet.com
+Subject: =?gb2312?B?ofEgU1FMoaFTZXJ2ZXK437y2yv2+3b/iudzA7S+/qreiuaSzzMqm?=
+To: yang@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+公司简介：
+赛特达公司是工业设计集成自动化和多学科优化的软件销售和咨询公司。其解决方案出自GE航空部门，实现多种CAD/CAE/CAM软件的集成，并利用数学探索工具（实验设计、近似建模、多目标优化、专家知识、可靠分析和设计、田口和六西格玛稳健设计等），实现产品仿真和设计的自动化，最终为用户提供横跨组织部门、专业领域和产品周期的统一协作的设计方案。应用领域覆盖航空航天、机械制造、汽车工业、电力电子、过程工业、国防科研等部门，为客户在工程设计和制造成本方面节省了上亿美元。
+赛特达的软件产品是围绕着 iSIGHT/FIPER 的成套产品，不仅为客户提供了多学科集成优化，稳健设计等一系列极为先进的“后台”设计能力，而且能针对客户的不同需要提供 EASA 的前端集成和封装能力以及 Morpher 和Sculptor的前处理和参数化能力，再加上 iWEBSIM 提供的网络式调用仿真分布计算能力等等。整个产品链能够形成了赛特达独特的 CIDO（ Collaborative Integrated Design Optimization Platform 协同式集成设计优化平台）技术平台并能和用户的软件相辅相成而形成一个完整的“价值链”。 
+公司提供的社保福利：“五险一金”
+此外，公司为员工提供和谐的工作环境和广阔的个人发展空间。
+联系方式：
+公司地址：北京市海淀区长春桥路11号万柳亿城C1座605室
+邮政编码：100089
+电子邮箱：hr@sightna.com　  christina@sightna.com
+公司网站：www.sightna.com
+备注：请在简历中注明应聘职位及招聘来源
+招聘人数：2人
+性别：不限
+学历：本科以上
+年龄：40岁以下
+任职资格：
+1、熟练使用SQL语言编程
+2、能建立并配置维护SQLServer服务器
+3、具有MicrosoftSQL数据库性能优化经验者优先
+职位描述：
+1、创建并维护应用数据库
+2、用SQL进行前后台、中间件开发工作
+3、高级存储过程的编程开发
+此职位在任职后，需赴美国进行“专业项目”培训，历时两个月，并在任职期间需要经常与美国团队进行技术交流。

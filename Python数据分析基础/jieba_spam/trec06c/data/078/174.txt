@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j826MNsm028905
+	for <ma@ccert.edu.cn>; Sat, 3 Sep 2005 09:16:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j826YvNG017832
+	for <ma@ccert.edu.cn>; Sat, 3 Sep 2005 09:29:08 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sat, 3 Sep 2005 01:17:19 -0000
+Message-ID: <00b101c5af87$e9547800$787d6fa6@hotline>
+From: "xia" <xia@mail.tsinghua.edu.cn>
+To: ma@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+W7qmdntci68tXmsK4=?=
+Date: Sat, 3 Sep 2005 09:25:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00AE_01C5AFCA.F7623430"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    清华研究生，出生在东北的一个老工业城市，知识分子家庭。受家庭影响，比较勤奋上进，有责任心，家庭观念重。性格温和偏外向，自信幽默，有很多朋友，没有心计，但也不是很傻，身边的朋友都觉得和我在一起很快乐，很轻松。有志向远大并坚信真爱。
+   比较重视精神生活，喜欢运动，音乐和小说
+   不一定非常有出息，但一定会让身边的人幸福。
+   希望能有一个可以能相互理解，相互吸引的MM一起创造精彩人生。
+面对风雨可以相依为命，面对阳光可以一起欢歌。
+希望有共鸣的MM进一步交流。
+belover2004@163.com
+QQ:445449671

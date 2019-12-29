@@ -1,0 +1,29 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9PC3p028193
+	for <wen@ccert.edu.cn>; Fri, 30 Sep 2005 06:00:40 +0800 (CST)
+Received: from nearxlz (th077173.ip.tsinghua.edu.cn [59.66.77.173])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8S9aPo04715;
+	Fri, 30 Sep 2005 06:11:53 +0800 (CST)
+Message-Id: <200509280936.j8S9aPo04715@netarchlab.tsinghua.edu.cn>
+Date: Fri, 30 Sep 2005 06:13:04 +0800
+From: "liao"<liao@netarchlab.tsinghua.edu.cn>
+Reply-To: liao@netarchlab.tsinghua.edu.cn
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvfHM7MPmytQgo6jXqtTYo6kgKNeq1Ngp?=
+X-mailer: Foxmail 5.0 beta1 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+【 以下文字转载自 NewExpress 讨论区 】
+发信人: Cheekers (和丫头一起小康地生活80年・∫rp dt), 信区: NewExpress
+标  题: 今天面试 （转载）
+发信人: Cheekers (和丫头一起小康地生活80年・∫rp dt), 信区: Joke
+标  题: 今天面试 （转载）
+一个同学参加推研面试。。。
+发信人: tob (其实没必要), 信区: W21
+标  题: 今天面试
+发信站: 自由空间 (Wed Sep 28 12:05:23 2005), 站内
+我提了四个问题，老师回答每个用了七八分钟。
+也没有搞清到底是谁面谁。

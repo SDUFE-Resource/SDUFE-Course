@@ -1,0 +1,52 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AD9Mx3029876
+	for <yan@ccert.edu.cn>; Sun, 11 Sep 2005 03:35:38 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6dUu093533
+	for <yan@ccert.edu.cn>; Sun, 11 Sep 2005 03:33:09 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bluebox.CS.Princeton.EDU (bluebox.CS.Princeton.EDU
+	[128.112.136.38])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6ZAN093529
+	for <yan@ccert.edu.cn>; Sun, 11 Sep 2005 03:32:52 +0800 (CST)
+	(envelope-from wangyi@ns.6test.edu.cn)
+Received: from [140.180.169.187] (yiwang.student.Princeton.EDU
+	[140.180.169.187]) (authenticated bits=0)
+	by bluebox.CS.Princeton.EDU (8.12.11/8.12.11) with ESMTP id
+	j8ADL2a8029505
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <yan@ccert.edu.cn>; Sat, 10 Sep 2005 15:47:19 -0400 (EDT)
+Message-ID: <4322DDBC.1080807@ns.6test.edu.cn>
+Date: Sat, 10 Sep 2005 15:47:16 -0400
+From: Yi Wang <su@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+MIME-Version: 1.0
+To: yan@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?vczKpr3av+zA1g==?=
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 mlx=-1
+	adultscore=0 adjust=0 reason=safe engine=3.0.0-05090301
+	definitions=3.0.0-05090911
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+谁能推荐我一本好的国民经济学的书吧，拜托。不过最好是中文的，另外不要翻译的。
+3X!!!
+《国民经济学》刘瑞主编，中国人民大学出版社2004年版
+《国民经济学》,钱伯海著,中国经济出版社,2002
+《国民经济管理学》,王海平、吴春波主编,中国人民大学出版社,1994
+《国民经济管理学》：李华、刘瑞主编，高等教育出版社2002年版
+大家看看上面哪本比较好啊？另外《国民经济学》和《国民经济管理学》有何区别啊？
+真晕

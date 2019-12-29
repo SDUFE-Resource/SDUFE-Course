@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <you@ccert.edu.cn>; Tue, 23 Aug 2005 15:28:54 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <you@ccert.edu.cn>; Tue, 23 Aug 2005 15:42:08 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 07:36:41 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "xia" <xia@mail.tsinghua.edu.cn>
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMflu6q089Gnuau5srncwO3Rp9S61dDGuMb0ysI=?=
+Date: Tue, 23 Aug 2005 15:38:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+        清华大学公共管理学院图书馆因工作需要，招聘图书馆员（合同制）1名。简历接收
+     截至到8月26日，应聘者请将简历发至ggzhb@tsinghua.edu.cn。在通知面试前，恕不接
+     待来人来访。
+公共管理学院的老师：
+　　您好！我叫徐晓慧，是２００５届毕业生，目前在清华大学物业管理中心学生事务科做楼内管理工作．由于合同和待遇问题一直未果，所以我想离开，非常感谢贵部门提供这么一个机会，请给我一个机会，我不会让你失望的．

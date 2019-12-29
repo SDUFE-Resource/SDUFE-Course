@@ -1,0 +1,44 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T1EWk0000972
+	for <tan@ccert.edu.cn>; Fri, 30 Sep 2005 05:48:08 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8T19BtK069273
+	for <tan@ccert.edu.cn>; Fri, 30 Sep 2005 05:43:03 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8T14kU4069206
+	for <tan@ccert.edu.cn>; Fri, 30 Sep 2005 05:38:21 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 18877 invoked by uid 512); Thu, 29 Sep 2005 21:46:36 -0000
+Message-ID: <20050929011301.18876.qmail@stu.ee.tsinghua.edu.cn>
+From: che@stu.ee.tsinghua.edu.cn
+To: tan@ccert.edu.cn
+Date: Fri, 30 Sep 2005 05:46:36 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEgd3m/ydLUv7zCx8ilZ29vZ2xlwcuho7rDu/q74bCh?=
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+搜索人才身价涨 Google50名关门弟子将有期权 
+作者：陈金国 | 出处：法制晚报 | 发布时间：2005-9-27 | 阅读 47 次 
+　　 　　搭乘IT直通车，订阅精彩IT新闻
+　　对于目前正在上大四的学生而言，微软前副总裁、Google中国研究院院长李开复所说的话显然是个好消息。昨天，李开复表示，要在中国招聘50人关门弟子。伴随着Google正式来到中国，搜索市场上的人才争夺战也将加速。
+　　50名关门弟子将有期权
+　　昨天下午，李开复以Google中国总裁的身份出现在记者面前，但他明确告诉记者，自己目前所做的工作就是为Google在中国招聘员工，到2006年8月份之前，主要针对一些计算机专业的学生，招收50名Google中国员工，并把这些人培养成自己的关门弟子。
+　　他表示会提供有竞争力的薪酬给从业者。一位搜索行业资身人士表示，以目前李开复在中国招聘的数量和质量来看，工资绝对会在一两万之间。
+　　但对即将毕业的大学生们来说，有吸引力的决不仅仅是薪水。除了将来有机会去美国硅谷总部学习外，李开复表示，“这些中国员工将会在入职之后按照表现和对公司的贡献持有不同的期权”。
+　　百度上市人才大战加速
+　　记者今天采访搜狐负责搜狗业务的研发中心总监王小川，据其介绍，目前从事搜索行业的基本上是来自各高校毕业的计算机、信息管理等专业的高才生。搜索公司特别乐意招聘那些在上学的时候就已经开始和老师一起做课题，在院系内小有名气的学生。
+　　三年前，搜索还没有被业界给予太多关注的时候，行业薪金并没有多高，普通技术人员五六千元。业内人士告诉记者，由于百度上市所带来的效应，各公司对于人才的需求和储备要求也开始增强。
+　　“Google的进入必然会给中国市场带来震动，对于搜索人才必然会带来一些诱惑。”百度副总裁梁冬对于Google进入中国之后会不会带来本土员工的流失与毕业生的取舍这样回答记者。Google进入中国显然是加速了这些公司对于人才的争夺战，人才身价也随之看涨。

@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <yang@ccert.edu.cn>; Wed, 14 Sep 2005 13:25:46 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <yang@ccert.edu.cn>; Wed, 14 Sep 2005 13:37:47 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 05:20:20 -0000
+From: "lu" <lu@mail.tsinghua.edu.cn>
+To: yang@ccert.edu.cn
+Cc: <shen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjEzyNW5pNf3vMfCvA==?=
+Date: Wed, 14 Sep 2005 13:37:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+挂失：
+高鑫    51533303     书包 NO.495   黑色，内有两本随机教材，一个笔记本和一本英文小说集
+卢彩波  51532166     其他 NO.689   银色十字架,有孔,约3cm
+包婷    13466605167  文具 NO.215   浅蓝色铅笔盒,一整盒铅笔,3-4支签字笔,1-2支书法笔
+雍容    51531265     钥匙 NO.769   一大串,大的黑色钥匙,小的约2.5厘米
+李瀚杰  51531835     钥匙 NO.770   五把,三把黑色,两把银色
+张健庭  51534803     电器 NO.614   philips手机,银色,触屏
+林志伟  13581803121  证件 NO.1243  IC卡 2005013077
+王鸿钧  51531498     证件 NO.1244  IC卡 2004010480
+送交:
+白玲    51531149     证件 NO.1136  餐卡,帐号为790732

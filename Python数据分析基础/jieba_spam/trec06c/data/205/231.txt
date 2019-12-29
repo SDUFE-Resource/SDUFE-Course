@@ -1,0 +1,24 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <chi@ccert.edu.cn>; Thu, 29 Sep 2005 19:51:42 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 12:02:52 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 20:02:52 CST
+Date: Thu, 29 Sep 2005 20:02:52 +0800 (CST)
+From: liang ming <gao@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IL3xzOy/tMHLyuWxvruqtcShtsLbuL7FrqG3y7W1xMyrvqux2cHLfn4=?=
+To: chi@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+嗯，还有另一句名言：什么都不是绝对的...
+所以，不要把书本上或别人教的东西当作绝对真理。
+     “男人努力争取直接控制事物，或者通过理解它们或者通过强制它们。而女人却随时随地的诉诸一种间接的控制，即通过男人进行控制；只有男人才是她必须直接控制的。所以，把一切只看作征服男人的手段，乃是女人的天性。如果她们对别的什么感兴趣，那不过是绕弯子，终归是为了卖弄风情而装模作样。”
+     “对于我们，天平上有一百件东西，而对于她们，却只有一件起决定作用，就是那个悦己的男人……”
+     看了都不知道说什么好了……

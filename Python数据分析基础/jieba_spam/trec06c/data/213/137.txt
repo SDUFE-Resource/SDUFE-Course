@@ -1,0 +1,31 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <xin@ccert.edu.cn>; Sat, 1 Oct 2005 16:07:22 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sat, 1 Oct 2005 08:18:18 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sat, 1 Oct 2005 08:18:18 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <xin@ccert.edu.cn>; Sat, 1 Oct 2005 01:39:57 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <xin@ccert.edu.cn>; Sat, 1 Oct 2005 03:24:50 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sat, 1 Oct 2005 16:18:13 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <guan@motorola.com>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/yz7K7trXEyMux7bDXo6zItLG7ut263bXE0N/I6MHL0ru3rKGj?=
+Date: Sat, 1 Oct 2005 16:18:11 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+可怜的人～
+     今天鼓足勇气向喜欢的人表白，被拒了。让我伤心的不是最终的结果，而是她拒完后的表现。一直埋怨我不该挑明，本来还想通过我追我一朋友的。一只觉得自己似乎很强似的，今天才知道在她眼里只是一件随时可以丢弃的工具而已。或许是没有被拒的经验吧，我一直以为女孩在拒绝人后会温柔的安慰一下，至低限度也会什么都不说的走开，可今天我却被整整数落了半个小时。虽然刚刚被拒心里不好受，但我一直强忍着，微笑着听完。但我在想，喜欢一个人不是我的错，即使不被接受，也总不该被人当下人一般骂个没完吧。

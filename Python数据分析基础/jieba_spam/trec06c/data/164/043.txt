@@ -1,0 +1,37 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J9jdVJ014346
+	for <wang@ccert.edu.cn>; Wed, 21 Sep 2005 15:54:20 +0800 (CST)
+Message-ID: <200509191745.j8J9jdVJ014346@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO mawindowxp) (malb03@166.111.203.148)
+  by localhost with SMTP; Wed, 21 Sep 2005 08:02:32 -0000
+From: =?gb2312?B?wu3A8rKo?= <pu@mails.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW83G0dDQxc+iXcflu6q089GnvqvSx8+1tby6vby8yvW5pLPM1tDQxA==?=
+Date: Wed, 21 Sep 2005 16:02:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD43.1FB289A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+Thread-Index: AcW9AA/6/EOzUL12R+qVY+S0ygKmlg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+欢迎同学们推研到清华大学导航技术工程中心
+清华大学导航技术工程中心简介
+    清华大学导航技术工程中心的科研方向主要为运动体导航、制导与控制的惯性仪表和系统，MEMS惯性仪表及其组合、惯性定位定向系统研究等。中心承担的"快速定位定向车"项目获1999年北京市科技进步一等奖。目前中心承担着国防重大攻关项目"*****工程化研究"和多项863项目、"十五" 重点国防预研项目。中心科研经费充足，能给同学们提供良好的学习和实验条件。
+    清华大学导航技术工程中心面向全校招收免试推荐研究生，欢迎仪器类，信息类，机械类的毕业班学生报名。招生老师如下：
+王永梁 教授：
+    1946年生,精仪系副系主任。主要从事导航与自动控制、微弱信号测量技术、陀螺测试技术、嵌入式计算机接口技术等科研与教学工作，先后获北京市科技进步一等奖1项、二等奖1项、中国船舶总公司科技进步二等奖2项、三等奖2项。95年以来，在一类刊物上发表论文15篇，其中SCI收录1篇，EI收录4篇。
+    计划招收本校直硕生一名，办公室：精仪系馆2101-2。
+董景新 教授：
+    1948年生，博士生导师。主要从事MEMS惯性仪表技术，导航仪器及控制，机电控制及自动化方面的教学及科研工作。科研共获部级一等奖1项，部级三等奖3项。主编专著"微惯性仪表--微机械加速度计"，另发表论文约30篇。主编"十五"国家级规划教材和北京市精品教材《控制工程基础》，获北京市教育教学成果一等奖。
+    计划招收本校直博生一名。办公室：精仪系馆2206。
+    E-mail：dongjx@mail.tsinghua.edu.cn
+张嵘 副教授：
+    1969年生，仪器所副所长。主要从事MEMS惯性仪表及系统、高精度导航系统等方面的研究及机电控制系统的教学工作，目前项目中涉及MEMS技术、微弱信号检测、精密运动控制、精密信号处理电路、基于FPGA或DSP的数字信号处理、光通讯、运动力学、自动测试等多方面。获北京市科技进步一等奖1项。在一类刊物上发表论文多篇，其中SCI收录1篇，EI收录5篇。
+    计划招收本校直硕生一名。办公室：精仪系馆1101。
+    E-mail：rongzh @mail.tsinghua.edu.cn
+韩丰田 副教授：
+    1967年生，博士学位。主要从事机电控制系统、惯性仪表方面的教学与科研工作。自2000年以来一直参与国防重大攻关项目"*****工程化研究"，从事静电悬浮技术的基础理论、电路设计及控制方法的研究工作；其间完成了国防预研、博士后基金项目多项。以第一作者发表论文16篇，其中SCI收录3篇，EI收录9篇。
+    计划招收本校直硕生一名。办公室：精仪系馆2101-1。
+    E-mail：hanft99@mails.tsinghua.edu.cn
+如果对实验室和老师情况还有其他疑问请致信tanw@mails.tsinghua.edu.cn

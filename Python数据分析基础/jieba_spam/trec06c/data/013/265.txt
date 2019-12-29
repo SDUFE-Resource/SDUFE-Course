@@ -1,0 +1,32 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <chi@ccert.edu.cn>; Fri, 19 Aug 2005 21:50:01 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Fri, 19 Aug 2005 22:06:27 +0800 
+Date: Fri, 19 Aug 2005 22:03:03 +0800
+From: "huang" <huang@admin.iscas.ac.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs/a49suuoaOho6Gj?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+如果换做是你，你会如何去做。。。
+人物：A 患恶疾患者
+      B A之主管大夫
+      C 众家属
+场景：A 年龄大于70，既往体健，忍耐力较强，对医生信任。此次入院查出恶性肿瘤，生存期2周--6月。B 给予 C 2种方案：1.可于外院行介入缓解症状，缓解后生存期大致为6月，反之为2周左右，但需花费2万左右自费。2.转入下级医院临终观怀。C 商量后选择 2. 于是B口径一致，出面善意欺骗。。。
+问下：如果你是A 愿意知道真相还是被善意隐瞒？
+      如果你是B 你会不会愧疚欺骗了一个信任自己的人，且这样谎言很短时间就会被戳穿？      
+                （有没有更好的办法或方式？）
+      如果你是C 你会选择第一种花费多但可延长几个月（也就是几个月）生命，还是直接临        
+                终关怀？
+比较烂的问题，但是最近有点想不通。。。要是B不愿意欺骗，那该怎么办？另外，想听真的话。。。

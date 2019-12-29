@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <yun@ccert.edu.cn>; Tue, 23 Aug 2005 12:56:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <yun@ccert.edu.cn>; Tue, 23 Aug 2005 13:09:25 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 05:04:02 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "feng" <feng@mail.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Cc: "tunet" <gan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMu1tb3Iy8fpysC5yqGtoa0=?=
+Date: Tue, 23 Aug 2005 13:05:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+  国际长途有什么不爽？
+         俺头几天到toronto，从机场到学校我觉得打车就行，老爸不放心，因为第一次出国，还带了2个大箱子1个小箱子，所以找了一个他朋友的姐姐去机场接我。
+         当天是该姐姐的老公接的，飞机晚点让人家等了1个多小时。。。到学校，拿钥匙，搬行李，俺住四楼，没电梯……33kg的箱子都是这个叔叔还有一个跟我同行的gg一起拿上来的，都差不多要byebye的时候，俺爸因为算时间早到了还没接到我电话，就给这叔叔的手机打了一个电话

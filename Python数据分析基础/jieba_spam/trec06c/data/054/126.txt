@@ -1,0 +1,29 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <cai@ccert.edu.cn>; Mon, 29 Aug 2005 06:39:38 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 06:50:11 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Mon, 29 Aug 2005 06:50:11 +0800
+From: "su" <su@ctbu.edu.cn>
+To: cai@ccert.edu.cn
+Date: Mon, 29 Aug 2005 06:50:11 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "su" <su@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgSkFWQbXEtPPFo7a81NrExMDvLi4uLi4u?=
+Content-Type: text/plain
+
+JAVA的职位空缺真是多阿......
+新的职位出来，和上次的大致相似，重点不同：）
+1.java，必须，而且要好
+2.c/c++，必须
+3.UNIX：到不一定是solaris，但希望是solaris
+4.TCP/IP：做过基于它的开发即可
+5.DB：有一些相关经验就可以
+6.英文，最好能过老外面试那种，但是可以open来看，如果技术强，英文不好也可以考虑
+7.正式工作两年以上
+老规矩，待遇要看面试后的结果，还是那句话，绝对不会低于1w/m，至于是年薪15w还是40w，要看自己的实力，背景，面试发挥了――这个就不是我说了算的。
+任意方式联系我：msn：viwinxw@hotmail.com
+mail:vxu@tonykeith.com
+tel:85808080-135

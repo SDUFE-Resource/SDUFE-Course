@@ -1,0 +1,27 @@
+Received: from hotmail.com (bay9-f13.bay9.hotmail.com [64.4.46.117])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E3dVC4024093
+	for <ren@ccert.edu.cn>; Fri, 16 Sep 2005 01:11:08 +0800 (CST)
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	Thu, 15 Sep 2005 10:22:57 -0700
+Message-ID: <BAY9-F13DCF915AAD1C8AC2ACE8AB09F0@phx.gbl>
+Received: from 63.215.198.21 by by9fd.bay9.hotmail.msn.com with HTTP;
+	Thu, 15 Sep 2005 17:22:57 GMT
+X-Originating-IP: [219.238.94.8]
+X-Originating-Email: [longchuanok@hotmail.com]
+X-Sender: longchuanok@hotmail.com
+From: =?gb2312?B?wfogtKg=?= <rao@hotmail.com>
+To: ren@ccert.edu.cn
+Bcc: 
+Subject: =?gb2312?B?ofEgSW50ZXJuIG9wcG9ydHVuaXR5IGluIE1TUkEgSU0gR3JvdXA=?=
+Date: Fri, 16 Sep 2005 01:22:57 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312; format=flowed
+
+Intern opportunity(visiting student) in MSRA Internet Media Group:
+Requirements:
+1. Solid background in P2P Network.
+2. Strong programming ability in C/C++, experience in PocketPC/WinCE is a plus.
+3. Familiar with TCP/IP, experience in database is a plus.
+4. Three month or longer time to merge in the team (full time).
+If you are interested, please contact(CV attached) : asider@gmail.com
+I\'ll really appreciate your understanding that I can\'t reply to everyone. 

@@ -1,0 +1,26 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <gong@ccert.edu.cn>; Sat, 10 Sep 2005 22:25:46 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Sat, 10 Sep 2005 22:43:46 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Sat, 10 Sep 2005 22:43:45 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "wu" <wu@mail.csu.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SuMOyu7jDvty++NXiuPbFrrqixNijvw==?=
+Date: Sat, 10 Sep 2005 22:25:12 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+还是不要因为孤独而接受一个人，
+其实自己一个人过真的很好。
+     偶然的机会认识了这个女孩，很好的一个女孩。我对她感觉挺好的，可是并没有特别强烈的欲望去追求她。当她从车站回来的时候，我忽然心血来潮的说要去接她，她没有拒绝，然后就送她到宿舍，休息了一会还和她一起吃了pizza.
+     后来，她要买笔记本电脑，然后我帮她选了n个机型作推荐，但是那一天我有事情没能陪她一起去中关村，结果她跟同学一起去，最后挑了一款.然后央我给伊装系统，因为她不是本校的，所以我说你过来方便一些，在我宿舍是不可能的(我不会领女生来宿舍的)，所以在六教吧,然后她

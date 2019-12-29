@@ -1,0 +1,43 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <zhan@ccert.edu.cn>; Sat, 20 Aug 2005 17:04:21 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <zhan@ccert.edu.cn>; Sat, 20 Aug 2005 17:17:23 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 17:40:51 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: yu@126.com
+To: zhan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDHL6n4yNcvqLNPQteOzpC4uLi66x7rH?=
+Date: Sat, 20 Aug 2005 17:12:05 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+这么早起床也很彪悍了
+你还没到时候吗？居然还在家里带着。
+     标  题: Re: 1岁~25岁,有点长....呵呵
+     
+     起床了不行啊....:((
+     : 你居然还在......
+     : 不服不行。
+     
+     
+     --
+     幸福就是冬夜里喝一杯热茶，
+     接一个老朋友的电话，
+     怀里抱着我的猫，
+     象猫一样被最爱的人抱在怀里……
+     
+     
+※ 修改:・shenok 于 Aug 22 06:40:42 修改本文・[FROM: 213.107.250.*]

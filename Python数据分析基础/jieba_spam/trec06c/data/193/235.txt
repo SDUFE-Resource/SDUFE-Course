@@ -1,0 +1,34 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <lian@ccert.edu.cn>; Tue, 27 Sep 2005 18:54:11 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 11:05:22 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 19:05:21 CST
+Date: Tue, 27 Sep 2005 19:05:21 +0800 (CST)
+From: liang ming <mo@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IE1JVMTHsd+63LbgtrzKx7ziy+G/zLGhtcS80rvvo7pSZT8=?=
+To: lian@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+        脏，或者说杂乱，但是没有病菌，是一种文化
+        热闹也是如此。这是我们的文化阿，多温馨阿
+同感，mit得人肯定是被压抑的都有点变态，去过几回
+大部分说话都尖酸刻薄，自私自利的一帮假货
+嘿嘿。
+我觉得mit的网友的心态普遍很差
+不单单是对待这次的事情，
+对待一些很基本的问题，例如：chinanews版《香港迪斯尼批评大陆游客卫生习惯差》
+上面很多人居然大骂“想征钱还嫌嫖客脏”  “我们不去2死他们”
+愿意反省，承认我们不对就要改正的人倒是不多。
+不知道是否国外的环境让他们很难过发生了心态上的转变？
+总之水木厚德载物的气氛在那里很难看的到。
+     一个有趣的现象是，在水木上有不少人捧王垠，而在MIT BBS上几乎都是一边倒地批王。
+     仔细看看那些捧王垠的，多半都是比较FQ，空喊口号地批驳中国教育制度的。
+     而MIT上发帖子的，基本上都是在国外继续深造过的，明白王垠所批判的东西，其实并不是中国所仅有的，他即使到了美国，他会发现那里跟清华并没有本质的区别：老板照样要你多发文章，因为没有文章就没有资金，没有资金就没钱吃饭；老板也会限制你的选课，因为你选课太多就

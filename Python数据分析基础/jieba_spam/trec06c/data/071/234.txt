@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <gan@ccert.edu.cn>; Fri, 2 Sep 2005 12:41:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <gan@ccert.edu.cn>; Fri, 2 Sep 2005 12:53:48 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 12:43:27 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 12:43:27 +0800
+From: lian@mail.tsinghua.edu.cn
+To: gan@ccert.edu.cn
+Date: Fri, 2 Sep 2005 12:43:27 +0800
+Reply-To: lian@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILKp0afN+LXEv827p7bLxMTT0M/Co78=?=
+Content-Type: text/plain
+
+哦，3x
+     标  题: Re: 博学网的客户端哪有下？
+     
+     那个不是官方的吧?
+     而且据说不安全
+     
+     : 原来不是谁做了一个吗？
+     
+     
+     --
+     兔子说：你们太可爱了，我要把你们加进qmd
+     kilee说：兔子更可爱
+     remoteland嚷嚷道：乱七八糟
+     兔子nod：这个就是我的风格了
+     坏蛋 DF51 说：疯÷没格
+     兔子加之～～哼哼！
+     
+     

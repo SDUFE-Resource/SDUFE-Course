@@ -1,0 +1,31 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <peng@ccert.edu.cn>; Sun, 25 Sep 2005 22:14:38 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Sun, 25 Sep 2005 14:25:32 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Sun, 25 Sep 2005 14:25:32 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <peng@ccert.edu.cn>; Sun, 25 Sep 2005 07:36:39 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <peng@ccert.edu.cn>; Sun, 25 Sep 2005 09:33:05 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Sun, 25 Sep 2005 22:25:20 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <pan@motorola.com>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+vXotLi08PT7w==?=
+Date: Sun, 25 Sep 2005 22:24:55 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+非常对不起  关于青蛙和恐龙的问题 请不要在清华讨论 那显得你很俗气 需要更好的关于修养的教育 如果找帅哥 请到中戏 但你认为清华的帅哥和大街上的一样吗？其实不一样，也许我们的男生是没钱 是朴实 但是世界上最大的美是善 这是柏拉图说的 如果你不具有欣赏清华男生强大的人格魅力 朴素的生活作风的鉴赏力 请不要说出 青蛙勿扰的话 当你伤害别人的同时最大程度伤害了你自己 我为见你的男生感到深刻的悲哀
+最后 还是和你说对不起 你可以要求帅哥见你 但请不要比较 不要提到别的不帅的男生 不要用青蛙一词 

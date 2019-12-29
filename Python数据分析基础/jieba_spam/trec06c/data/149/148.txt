@@ -1,0 +1,34 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <li@ccert.edu.cn>; Sun, 18 Sep 2005 03:06:17 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <li@ccert.edu.cn>; Sun, 18 Sep 2005 03:22:52 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <li@ccert.edu.cn>
+	; Sun, 18 Sep 2005 03:22:52 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <li@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 02:47:53 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "ning" <ning@njnu.edu.cn>
+To: li@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMu1x66+zbetwbM=?=
+Date: Sun, 18 Sep 2005 03:18:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+找个律师跟他们谈
+     灌灌水，发泄一下。
+     来加拿大几个月，莫名奇妙的生病，查了三个多月，这边的医生也不能确诊，于是决定
+     回国治病。9月14号拿到检查报告，请示导师，决定回国。当天晚上就通知房东我要回国
+     治病，一周之内搬走。按照合同，在搬家前我应该至少提前一个月通知房东，否则房东有
+     权扣我的押金。房东

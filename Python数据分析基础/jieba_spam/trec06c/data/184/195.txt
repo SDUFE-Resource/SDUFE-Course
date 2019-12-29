@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <hong@ccert.edu.cn>; Sun, 25 Sep 2005 19:28:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <hong@ccert.edu.cn>; Sun, 25 Sep 2005 19:39:54 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 11:16:54 -0000
+From: "yana" <yana@mail.tsinghua.edu.cn>
+To: hong@ccert.edu.cn
+Cc: <ma@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILzZyejV4tH50rvW1sfpv/ajrM312/PNy9GntcTKwg==?=
+Date: Sun, 25 Sep 2005 19:39:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+不要误会了。
+楼主的意思俺很有体会，俺刚进清华的时候，也觉得自己很牛比，一个学期就歇菜了，感觉
+压力很大，大家都干同样的事情，能力大小，一下子就比出来了。
+倒是研究生之后，这种压力明显减小，大家都各搞个的，谁的底子怎样根本看不出来。
+对于外校考来的读研的同学，我觉得有两种情况：
+(1)经历了考研，或者工作，非常成熟，和他们交往有如沐春风的感觉，真的能学到很多知识，包括做人的。
+(2)有一部分同学，我接触到几个，感觉心理状况和一个高中刚毕业刚上大学的孩子一样。非常理想话。我觉得也许他们大学四年其实把自己包了起来，为了考研或者什么，他们并没有真真接触过这个世界，一直生活在一种梦境中，感觉人如果要奋斗，用梦境麻醉自己也没什么错，但是如果强加给别人，实在不敢恭维。
+     看来不少人是很自恋。
+     以系别而言，清华理科在全国排名到老几？敢出这种狂言？物理、数学......哪一个在全国敢说傲视别人的？
+     以招收的学生而言，不要忘了，清华在上海连招生名额都招不满的，可能最近两年好点了。这些地方的学生如果来清华，难道也非得夹着尾巴做人？

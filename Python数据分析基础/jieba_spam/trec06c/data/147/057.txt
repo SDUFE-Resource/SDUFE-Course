@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <qiu@ccert.edu.cn>; Sat, 17 Sep 2005 16:23:32 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <qiu@ccert.edu.cn>; Sat, 17 Sep 2005 16:40:07 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <qiu@ccert.edu.cn>
+	; Sat, 17 Sep 2005 16:40:07 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <qiu@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 16:05:08 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "zhang" <zhang@njnu.edu.cn>
+To: qiu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQ0rvWwr3QusO1xLXn07DDtKO/?=
+Date: Sat, 17 Sep 2005 16:35:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+    其实我主要的意思是和下面这位的意思一致了。我是觉得这部电影如果大家不是知道它获过奥斯卡大奖，又有很多人 一个劲叫好，于是看的时候拼命（至少是全神贯注）想从影片里看出点味道出来，那么看它真会睡着的。整部电影到最后才让观众明白前面主人公的一切作为都是为脱狱准备。如果没有先入为主的期待，或者砍掉电影的结局，电影闷死了，完全不像真正好的电影始终吸引观众。同样享有大名的《阿甘》就不错。
+    另一个不喜欢的原因，是觉得那种所谓让观众在影院就感动的鼓掌的“坚持不放弃”精神，不让我感动，艺术的角度我觉得空洞不真实；生活的角度我觉得自己挺能“坚持不放弃”。人一般只会特别崇拜那种自己远远做不到的事物。 
+ 发信人: aerosmith (谱子/一桶五加仑清华紫光纯净水), 信区: Movie
+   我不烦这部电影，只是烦那些把这部电影捧上天的评论。
+     这片还好理解吧？这也莫名其妙那《2001太空奥德赛》之类的怎么办啊？

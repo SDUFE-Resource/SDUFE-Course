@@ -1,0 +1,61 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j863eH8r023838
+	for <qian@ccert.edu.cn>; Wed, 7 Sep 2005 23:54:13 +0800 (CST)
+Received: (eyou send program); Wed, 7 Sep 2005 23:52:44 +0800
+Message-ID: <325977928.03325@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 7 Sep 2005 23:52:44 +0800
+Message-ID: <325977928.03308@mail.tsinghua.edu.cn>
+Received: from 166.111.8.254 by 166.111.8.18 with HTTP; Wed, 7 Sep 2005 23:52:44 +0800
+From: tu@mail.tsinghua.edu.cn
+To: qian@ccert.edu.cn
+Date: Wed, 7 Sep 2005 23:52:44 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgyP3Qx9fbus+8vMr11Lqzz8a40+/S9Mq2sfC3vc/y0dC+v9SxICjXqtTYKQ==?=
+Content-Type: text/plain
+
+【 以下文字转载自 Career_POST 讨论区 】
+发信人: cutezu (不常上水木了……), 信区: Career_POST
+标  题: 三星综合技术院诚聘语音识别方向研究员
+三星综合技术院诚聘语音识别方向研究员
+Position:
+Speech Recognition Researcher in Inference STU of SAIT
+Location: Korea
+Research Goal
+-- Speech Recognition
+-- Natural Language Understanding
+-- Grammar Inference
+-- Semantic Processing
+Requirements:
+-- PhD or PhD candidate
+-- Good English communication skills
+-- Good team work spirit
+-- Experienced in Speech Recognition 
+-- Experienced in Natural Language Understanding
+-- Experienced in embedded system development is preferred
+Your resumes with title of "SAIT Korea" in Chinese and English are welcome to: xuan.zhu@samsung.com
+Thanks for your consideration.
+To know more about SAIT (Samsung Advanced Institute of Technology), please enter:
+    http://www.sait.samsung.co.kr/eng/main.jsp
+&gt;&gt;Introduction of SAIT&lt;&lt;
+SAIT(Samsung Advanced Institute of Technology) is the Samsung Group\'s Research Centre, established as the incubator for future cutting-edge technologies.
+&gt;&gt;Vision &amp; Mission&lt;&lt;
+We are on a “boundless search for breakthrough technologies.”  
+With such vision to guide us we set the research initiative in becoming a highly respected research organization in the community for creating the technology that makes better life for all of us. To this end, SAIT, which serves as the Samsung Group’s perpetual growth engine, is pursing three important goals. 
+1. As a new business creator, SAIT constantly uncovers and develops disruptive technologies and emerging markets. The Institute pioneers core technologies that will represent the generation that follows the next generation.
+2. As a technology provider, SAIT develops distinctive, next-generation technologies that can strengthen existing business lines. This effort results in core components, materials and solutions. 
+3. As the Samsung Group’s think tank, SAIT devises mid-/long-term technology strategies and develops excellent engineers, leading the ongoing improvement of technology management at Samsung. The Institute also supports a common technology platform group-wide. 
+&gt;&gt;Profile&lt;&lt;
+ 
+ + Organization Name: Samsung Advanced Institute of Technology (SAIT) 
+ 
+ + CEO:  Lim Hyung-kyu 
+ 
+ + Establishment: October 22, 1987 
+ 
+ + Location: San 14, Nongseo-Ri Giheung-Eup Yongin-Si Gyeonggi-Do 
+ 
+ + Employees:  Over 1,000 
+ 
+ + Global network: 4 liaison offices, 13 joint labs 
+ 
+ + Founding Principle: "Boundless Research for Breakthrough"

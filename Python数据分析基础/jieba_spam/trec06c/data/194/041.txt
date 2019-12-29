@@ -1,0 +1,95 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q2HJfs004030
+	for <wen@ccert.edu.cn>; Tue, 27 Sep 2005 20:33:35 +0800 (CST)
+Message-ID: <200509261017.j8Q2HJfs004030@spam-gw.ccert.edu.cn>
+Received: (qmail 7144 invoked by uid 0); Tue, 27 Sep 2005 12:56:20 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Tue, 27 Sep 2005 12:56:20 -0000
+Date: Tue, 27 Sep 2005 20:51:36 +0800
+From: "zeng" <zeng@csnet1.cs.tsinghua.edu.cn>
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhdwKXMqbyvs8m158K3KMnPuqMp09DP3rmry74txKPE4snovMa5pLPMyqY=?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+“校园招聘大全”(http://www.jobmm.com)独家提供 
+-------------------------------------------------------------------------------- 
+=== 招聘信息 ===
+ 
+ 公司名称:昆泰集成电路(上海)有限公司 
+ 招聘职位:模拟设计工程师（Analog Design Engineer）  
+ 截至日期:2005-11-10  
+ 最低学历:本科  
+ 招聘人数:人 
+ 工作地点: 上海   
+ 简历投递处: http://www.jobmm.com/company_add/Kuntai_job.asp
+ 
+岗位描述: 
+ 
+职责：
+1、晶体管级、高速/射频模拟电路设计、测试与评估
+2、功放、数模转换、锁相环等设计
+3、与后端工程师、销售工程师及测试工程师进行产品市场化合作
+Job Description
+1、Circuit designer responsible for transistor level design 
+   of high speed and RF analog circuits, product evaluation and
+   characterization.
+2、Duties also include design of amplifiers, mixers, D/A and
+   A/D converters, PLLs
+3、Developing engineering specifications and work with Mask
+   Design, Applications Engineering, Product Engineering and
+   Test Engineering to successfully bring products to market.
+ 
+相关要求: 
+ 
+要求：
+1、电子、计算机及相关专业学士学位（硕士优先）
+2、良好的英语听、说、读、写能力
+3、有一定的模拟CMOS集成电路设计经验
+4、熟悉晶体管、CMOS、功放、偏置电路、数模/模数转换器
+5、有高速数模转换、锁相环及高速发射/接收相关方面设计经验者优先
+Job Requirements
+Requires BSEE and 2+ years of experience in analog CMOS IC
+design or MSEE, and knowledge of transistor equations,
+CMOS amplifier design, biasing methods and analog to
+digital conversion techniques. Experience in high speed 
+A/D conversion, PLLs and high speed transmitter/receiver 
+design is a plus.
+  
+--------------------------------------------------------------------------------
+=== 公司详细资料 ===
+ 
+ 公司名称:昆泰集成电路(上海)有限公司 
+ 企业性质:三资企业  
+ 成立日期:2003-8-22 
+ 注册资金:693万人民币 
+ 公司网站:http://www.chrontel.com 
+ 
+公司简介: 
+ 
+    昆泰集成电路(上海)有限公司是美国Chrontel,Inc.在上海的全资子公司。
+Chrontel成立于1986年，是一家从事混合信号集成电路研发与生产的公司，总
+部位于美国硅谷圣何西，并于世界各地拥有多家子公司和办事机构。我们的产
+品包括电视解码器，视编码器，DVI、LVDS编码器等。我们的产品被DELL，HP，
+SONY，TOSHIBA，FUJITSU等许多著名OEM厂商采用。
+    昆泰集成电路(上海)有限公司成立于2003年，位处浦东张江高科技开发区
+内。我们的业务包括集成电路的研究、开发、设计、测试、生产及相关软件的
+研究、设计、开发、制作；系统集成的设计、调试和维护；提供相关的技术咨
+询及技术维护等。我们拥有一支高素质、高学历的员工队伍，并享有总公司全
+面的技术支持。希望能有更多的有识之士加入到我们中来，共同打造一个成功
+的集成电路企业。 
+ 
+--------------------------------------------------------------------------------
+“校园招聘大全”(http://www.jobmm.com)独家提供 
+我们长期与用人单位及各高校合作，建立企业与人才间的双向服务
+是对学生完全“免费”，且“简单”“实用”的非营利站点
+应聘者由 http://www.jobmm.com 浏览每日提供之数百条企业招聘信息
+注册登录 http://www.jobmm.com/addnew.asp 投递简历，
+还可以下载中英文简历模版，中英文求职信模版
+以及应用简历制作导航自动生成word,txt,及电子版简历
+九月第四周最新招聘会信息整理：http://www.jobmm.com/jobmeeting.asp
+--------------------------------------------------------------------------------

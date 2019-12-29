@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C2BpmJ006744
+	for <qiu@ccert.edu.cn>; Tue, 13 Sep 2005 08:41:56 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28l5c009623
+	for <qiu@ccert.edu.cn>; Tue, 13 Sep 2005 08:39:14 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28iWw009619
+	for <qiu@ccert.edu.cn>; Tue, 13 Sep 2005 08:38:49 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EEefy-0005d0-00
+	for toefl@gradinfo.net.edu.cn; Tue, 13 Sep 2005 09:38:15 +0800
+Message-ID: <016301c5b740$c2f51a00$2fcb6fa6@wanglanjia>
+From: "yu" <yu@ns.6test.edu.cn>
+To: qiu@ccert.edu.cn
+Date: Tue, 13 Sep 2005 08:51:37 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Subject: =?gb2312?B?ofEgus2/1sH6wbWwrrXEsa+wp6Oho6GjoaOho6GjoaOho6GjoaOh?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1871831781=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+  当然，我没和恐龙练过艾。即使和同学或同事中的恐龙一起出门，也是保持在三米以上；但我观察到：很多恐龙希望你关注它，所以不惜主动用眼神示意，当他看到你无所谓或是很厌恶的样子，他的眼神马上变得恶毒起来，甚至加害于你（遇到几次在公交车被恐龙故意踩脚的事了），现在看来，恐龙这个词起的真是好啊！
+  同学中有几对恐龙青蛙的组合，整天的谈资就是房子，车子。我觉得自己与他们不同的是，我正在努力摆脱某些残存的小市民和小资生活方式，而他们正在拼命模仿小市民。对于一个从懂事开始就住在现代化房屋里，周末会坐自己家的车出去郊游，95年刚上大学就拥有移动电话的人来说，来到北京市为了感受更博大的人文精神，而不是购买一两栋回龙观的贫民房，买一两部进口垃圾车的

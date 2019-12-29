@@ -1,0 +1,23 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <ni@ccert.edu.cn>; Thu, 25 Aug 2005 22:58:59 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 14:48:34 -0000
+From: "xu" <xu@mails.tsinghua.edu.cn>
+To: ni@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 25 Aug 2005 23:12:16 +0800
+
+【 以下文字转载自 NewExpress 讨论区 】
+发信人: funicorn (人称江湖鬼见愁 魔侠红烧狮子头), 信区: NewExpress
+标  题: 刚才看了份研究生报纸，颇有感触
+迎新专版，我看得出来，编者煞费苦心，想为刚入校的研究生提供一个熟悉清华的渠道，创造出一种温馨和谐、宾至如归的感觉，但可惜失败了。
+这份报纸的内容、文字都还不错，从学习到生活，从建筑到人物，都作了一定的介绍，水木的有关情况也在其中。但读完之后，我总感觉这份报纸少了些东西，想了半天，终于想明白了：作为一份研究生的校报，它缺乏一种文字的活力，一种文化的精神，通篇的文字虽然准确，虽然不是冷冰冰，也实在是过于生硬死板，毫无热情。
+每天都有人大谈人文日新，说清华人文气氛太差云云。这让我想到人文精神的本质：追逐人性。
+我以为，清华人文气氛差的原因在于：清华学生的EQ普遍太低，对人性交流没有渴望。

@@ -1,0 +1,25 @@
+Received: from ig3.lenovo.com (lenovo.com [219.142.122.37])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G8Werd013430
+	for <pan@ccert.edu.cn>; Sun, 18 Sep 2005 11:14:30 +0800 (CST)
+Received: from [10.99.20.45] by 10.99.20.36 with StormMail ESMTP id 11324.1580586014;
+	Sun, 18 Sep 2005 11:16:40 +0800 (CST)
+Subject: =?gb2312?B?UmU6IL+qzOIgzfjC57CyyKu3vcPmIMfrtPO80rDvsO/Dpg==?=
+To: pan@ccert.edu.cn
+Cc: wei@ccert.edu.cn
+X-Mailer: Lotus Notes Release 5.0.2a (Intl) 23 November 1999
+Message-ID: <OF8C5302A7.D09F2F39-ON4825707E.002D0A71@legend.com.cn>
+From: han@lenovo.com
+Date: Sun, 18 Sep 2005 11:25:45 +0800
+ 16:44:22
+MIME-Version: 1.0
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+
+我可能也要做网络安全上面的咚咚，不过不是这类的，呵呵
+     标  题: 开题 网络安全方面 请大家帮帮忙
+     
+        马上就要开题了，老师想让我做传感器或移动ip方面的安全，我本人一点思路都没有，请各位哥哥姐姐给点意见。往这些方面开题怎么样？目前有哪些研究热点？作入侵检测还有前途吗？
+        因为现在还在选题阶段，方向还可以有变动，请大家给点好的建议，做网络安全往哪方面作比较好？而且比较好做一些，因为我是一个人做。
+       谢谢了
+     --
+     

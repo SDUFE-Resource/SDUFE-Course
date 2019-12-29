@@ -1,0 +1,37 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T1EWk0000972
+	for <pu@ccert.edu.cn>; Fri, 30 Sep 2005 17:12:31 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8T19BtK069273
+	for <pu@ccert.edu.cn>; Fri, 30 Sep 2005 17:07:26 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8T14kU4069206
+	for <pu@ccert.edu.cn>; Fri, 30 Sep 2005 17:02:44 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 18877 invoked by uid 512); Fri, 30 Sep 2005 09:10:59 -0000
+Message-ID: <20050929011301.18876.qmail@stu.ee.tsinghua.edu.cn>
+From: gao@stu.ee.tsinghua.edu.cn
+To: pu@ccert.edu.cn
+Date: Fri, 30 Sep 2005 17:10:59 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+        又一个
+        
+     我是外校的。我知道清华有很多“大牛”，喜欢而且拥护清华的制度。
+     我只是困惑，就算ieee,sci所有的期刊全是你们的“牛”论文对成为科技强国有什么意义么？
+     你们看不起linux，看不起latex这些小儿科，当你们用盗版的word打你们的best paper award candidates的时候，当用盗版powerpoint演示你们的方案的时候，你们就变得比王垠更有学术气质了么？更像搞研究的了？

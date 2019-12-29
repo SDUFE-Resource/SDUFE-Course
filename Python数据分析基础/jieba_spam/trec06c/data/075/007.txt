@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <pan@ccert.edu.cn>; Fri, 2 Sep 2005 22:50:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <pan@ccert.edu.cn>; Fri, 2 Sep 2005 23:01:46 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 14:49:17 -0000
+From: "zhong" <zhong@mail.tsinghua.edu.cn>
+To: pan@ccert.edu.cn
+Cc: <zeng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL30vLG99Lyxx/PW+qOho6GjoaOho6GjoaOho6GjoaOho6GjoaOh?=
+Date: Fri, 2 Sep 2005 23:01:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+re一个
+努力啊
+     偶买了富士通S2020,我买的时候他们告诉我说这是512的内存，但是我回来发现包装箱上写的是256内存，他们改成了512，我打电话给他们他们说是他们自己加了内存。本来就很不喜欢这个机子，现在更是郁闷到极点，想不管怎么样都得退掉。我朋友告诉我我现在想退机子唯一的办法

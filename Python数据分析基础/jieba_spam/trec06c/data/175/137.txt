@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <ding@ccert.edu.cn>; Sat, 24 Sep 2005 00:48:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <ding@ccert.edu.cn>; Sat, 24 Sep 2005 01:00:13 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 16:37:13 -0000
+From: "zhan" <zhan@mail.tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Cc: <liao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sat, 24 Sep 2005 01:00:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+实际我想不少人有LZ这样想法的,大多数人都受中国的教育这么多年,知道传统的该怎么做人，低调,传统,内敛,含蓄等等了,所以很多人遇见同样的问题可能不会他这样处理,但是话说回来了,谁又知道我们事先的评价该怎么做人的标准到底有多少一定就是对的呢,只不过要在通常普通人眼里混的好的话,王垠这样显然是很难的,伤害了周围的同学老师,也等于丢了一部分有利于自己混的资源啊,国内不都是这样,做科研什么的想混的好,很多还是靠老师,师兄师弟校友等等大家一起互相帮忙的，他的做法估计他的师兄师弟老师一定是很不爽的;另外我觉得不管他到底是否真的很牛，应该对自己是很自信的那种,俺认识的也有博士很郁闷想退学的，但是一想到自己就那么两把刷子,退了又能怎么样呢, 出去工作吧,自己选择的余地又不多,还是好好和老师搞好关系,联络好感情,怎么凑几篇文章毕业算了,将来大不了找个什么高校混混,实际这样的做法说实际的又能好到哪里,近一段，还有的博士一毕业就去考个公务员,做个小官什么的，所有的专业书一律送人啊,你想就这样的我觉得读博士还不就是混了个学位混个出路,什么科研啊之类,有什么好谈的,估计上学的时候也没什么太多的心思真正去搞什么科研的,我们这个社会毕竟大多数人就是读书拿学位为了混个好工作的,要是给个好职位,可以想象多少人愿意放弃自己原来的研究多年的专业的,所以有人佩服王的勇气还是可以理解的
+     我和他曾经一个教研室过。
+     说实在话，我们都佩服王垠，能对计算机“专业”这么有热情，我们都希望他能够有很好的发展。
+     但是我们看到今天的王垠已经不是单纯的玩着linux向我们演示他的bbs机器人的程序能人了。他成了一个符号，一个象征，在一些人眼中成了有理想，有追求的偶像了！

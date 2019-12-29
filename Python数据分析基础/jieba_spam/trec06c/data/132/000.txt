@@ -1,0 +1,25 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <zhong@ccert.edu.cn>; Wed, 14 Sep 2005 18:56:32 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Wed, 14 Sep 2005 19:08:31 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <zhong@ccert.edu.cn>; Wed, 14 Sep 2005 19:08:30 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <xia@dlut.edu.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfzubq437z7o6GjofamuOfLp73jx+u9+KOho6GjoaOho6GjoaOho6GjoaOh?=
+Date: Wed, 14 Sep 2005 19:08:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+找了照镜子，我走了
+         我有一小师妹今年复习考研！目前她遇到的最紧迫问题是“英语作文”和“政治”这两项内容！她根本就没复习思路，越急越没思路，越没效果！
+       她（她在外地读书）要我在这里多征求一下高人的高见！麻烦大家伙不吝赐教！在此俺替她多谢谢大家了！
+       请大家伙谈谈自己的复习经验，或者给些建议，看法等等！要不推荐些好书，好的学习网站，好的资料也可！再次谢谢大家了！

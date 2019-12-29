@@ -1,0 +1,40 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <yan@ccert.edu.cn>; Wed, 28 Sep 2005 20:49:01 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 13:00:12 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 21:00:11 CST
+Date: Wed, 28 Sep 2005 21:00:11 +0800 (CST)
+From: liang ming <ma@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMz4v6rN9dvztcS49sjL0NDOqqOstNO087jftsjJz7e0y7y/xtHQxsC828zl1sY=?=
+To: yan@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+kao..他们只允许web用户  ...怕偶灌水不成?
+     标  题: Re: 跳开王垠的个人行为，从大高度上反思科研评价体制
+     
+     最大的一个,arxiv.org
+     不过基本都是纯科学
+     不涉及技术,尤其不涉及赚钱的技术.
+     另外因为没有审稿,他们现在试图用身份证明机制来解决贴子质量问题
+     曾经有人试图建立电子和机械类的类似站点,结果都失败了.
+     : 哪里? 很想去看看  
+     : 呵呵
+     
+     
+     
+     --
+     "科学精神"有多么脆弱,不妨看看希腊.恩培多克勒,德谟克利特也许还有阿那克萨特拉给出了科学精神的几乎所有
+     基本内容：无神论，实验方法还有推理法。阿基米德给出了科学研究需要的一切：机器，数学还有资金。然而柏拉
+     图和亚里士多德只用简单的焚书法就毁灭了德谟克利特的自然哲学；罗马人的一刀把阿基米德数学送进了地狱；至
+     于阿尔塔恰克斯，他连希腊政治都没有对付过去。然后人类必须用一千多年的时间等待第谷和伽利略重新带来观察
+     和实验；用更长的时间等待牛顿发展出微积分。科学精神在希腊罗马的人类正统精神面前如此的不堪一击，正是科
+     学不足恃的证明。
+     

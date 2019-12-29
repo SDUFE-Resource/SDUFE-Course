@@ -1,0 +1,42 @@
+Received: from maila.dlut.edu.cn (maila.dlut.edu.cn [202.118.66.71])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A029Pl026452
+	for <che@ccert.edu.cn>; Sat, 10 Sep 2005 10:29:40 +0800 (CST)
+Received: by maila.dlut.edu.cn (Postfix, from userid 1001)
+	id 8B3846E7AE9; Sat, 10 Sep 2005 10:41:45 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by maila.dlut.edu.cn (Postfix) with ESMTP
+	id C4B576E76D9; Sat, 10 Sep 2005 10:41:39 +0800 (CST)
+Message-ID: <000f01c5b59b$fc2b9480$370410ac@commonor995309>
+From: "peng" <peng@dlut.edu.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?ofEgMDXE6r+0uf21xNK70Km159Owo6zL5rHjwdC1xA==?=
+Date: Sat, 10 Sep 2005 10:30:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C5B5DE.08F861B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+
+Star Wars:Episode III  6.5/10
+War of the Worlds   6.5/10
+Batman Begins   8.0/10
+Madagascar  6.5/10
+Mr. and Mrs. Smith  8.5/10
+Hitch   7.0/10
+The Longest Yard 7.0/10
+The Ring Two 7.0/10
+Sin City  7.5/10
+The Interpreter  7.0/10
+The Amityville Horror 7.0/10
+Kingdom of Heaven  7.0/10
+The Island  8.0/10
+XXX:State of the Union  6.0/10
+Unleashed  7.0/10
+Cursed 7.0/10
+The Upside of the Anger 8.5/10
+Mindhunters  7.5/10
+突然发现，原来我才看了这么一点好莱坞片，而平常看得都是一些老片。
+其中上面的影片中能在大陆公映的我大部分都去看了，接下来会去赶
+Stealth,Fantastic 4等片，而像Red-Eye，Crash等片是属于期望较大的影片，
+在将来会有安排很好的时间去欣赏。

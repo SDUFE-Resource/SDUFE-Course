@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <yu@ccert.edu.cn>; Fri, 26 Aug 2005 14:30:09 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 14:48:32 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 14:48:32 +0800
+Date: Fri, 26 Aug 2005 14:48:32 +0800
+From: tian@cernet.com
+Subject: =?gb2312?B?UmU6ILn+t/C089Gn0r3Rp9S6yfrO79DFz6LRp8q10enK0tXQxriyqcq/uvO6zdb6wO3R0L6/1LE=?=
+To: yu@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+这个好
+     Postdoctoral and Research Associate Positions in Computational Bio-imaging Informatics
+     We seek outstanding candidates for postdoctoral research and research associate positions in a NIH granted computational bio-imaging informatics project. The candidates are expected to have a strong background on imaging processing, signal processing
+     Please send c.v. and references to: 

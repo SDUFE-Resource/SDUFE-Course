@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <cao@ccert.edu.cn>; Sun, 25 Sep 2005 18:42:47 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <cao@ccert.edu.cn>; Sun, 25 Sep 2005 18:54:08 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 10:31:08 -0000
+From: "kong" <kong@mail.tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Cc: <huang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM312/OjrA==?=
+Date: Sun, 25 Sep 2005 18:53:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+如果不是自己坚持，学校(或者说系里)从来都是挽留学生的。
+清华当然做的到，8年的博士清华少吗？7年的硕士我都见过。
+     标  题: Re: 王垠， 
+     
+     扫出去,怎么又想起来了
+     还是因为Priceton的博大胸怀。
+     在他得病的时候，总有一些人对他支持，而Princeton也没有把他
+     赶走，这已经相当不错了。
+     清华能做到么
+     
+     : 你以为Nash一直被他们供着？他后来精神出了问题后，基本上在学术届就是被人扫地出门了

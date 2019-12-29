@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <rao@ccert.edu.cn>; Sun, 28 Aug 2005 21:17:31 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 21:21:54 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 28 Aug 2005 21:21:54 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Sun, 28 Aug 2005 21:21:54 +0800
+From: "wang" <wang@mail.tsinghua.edu.cn>
+To: rao@ccert.edu.cn
+Date: Sun, 28 Aug 2005 21:21:54 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgQSBQb3N0ZG9jdG9yYWwgUG9zaXRpb24gaXMgYXZhaWxhYmxl?=
+Content-Type: text/plain
+
+A Postdoctoral Position is available for a Ph.D. or equivalent to conduct research on CARTILAGE and/or INTERVERTEBRAL DISC TISSUE ENGINEERING in the Department of Orthopaedics, School of Medicine, West Virginia University. Experience in cell/tissue culture, biochemistry, molecular/cell biology, and/or biomaterial is required. Competitive salary commensurate with experience. If you would like more information or are interested in applying for this position, please contact or send your curriculum vitae and names of three references to: 
+Ming Pei  M.D., Ph.D
+Assistant Professor
+Department of Orthopaedics
+School of Medicine
+West Virginia University
+PO BOX 9196
+Morgantown, WV 26506-9196
+Phone: 304-293-1071
+Fax: 304-293-7070
+Email: mpei@hsc.wvu.edu

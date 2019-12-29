@@ -1,0 +1,32 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <zhang@ccert.edu.cn>; Wed, 24 Aug 2005 16:37:25 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Wed, 24 Aug 2005 08:27:00 -0000
+From: "lu" <lu@mails.tsinghua.edu.cn>
+To: zhang@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 24 Aug 2005 16:50:42 +0800
+
+某500强信息公司招日语网络工程师，要求如下：
+工作地点：北京市
+招聘人数：2 
+薪水范围：3000-4499
+外语要求：日语 熟练
+          英语 一般 
+接受简历语言：中文或英文 
+ 
+ 职位描述：
+1.要求具备SAP以及网络的基础知识以及维护经验，最好同时持有CISCO相关资格
+2.能够在公司SAP系统导入时进行技术支持（对使用方法进行指导，进行相关知识的授
+课，应对咨询等）
+3.对公司客户在SAP系统使用中遇到的问题进行技术支持
+4.由于研修需要，录取后可能在上海总公司有1至数月的长期出差。
+5.上班地点在国贸中心 
+有意者请将简历发至mp0606@manpowerprc.com.cn，恕不一一回复，谢谢！

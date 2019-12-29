@@ -1,0 +1,24 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <yu@ccert.edu.cn>; Wed, 24 Aug 2005 18:02:15 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 18:15:22 +0800 (CST)
+Date: Wed, 24 Aug 2005 18:09:08 +0800
+From: "su" <su@sohu.com>
+To: yu@ccert.edu.cn
+Cc: "yxl" <jian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbUy9G6/Lmry761xNK70Km9qNLpo6jUrbS0o6k=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+除了校友录和邮箱，都不知道多长时间没去过SOHU了
+还有无线增值？做啥呀？
+感觉中国网络马上要迎来第二次的大泡沫了
+     张朝阳先生领导的搜狐公司，经过多次收购，现在可以说是一锅粥，大杂烩。
+     尤其是对吉菲尔技术有限公司（GoodFeel）的收购，对搜狐公司来说是一个严峻的考验。
+     为什么这么说呢？ 因为GoodFeel是一个韩国人领导企业，与中国企业存在一个企业文化的融合问题。

@@ -1,0 +1,33 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <yang@ccert.edu.cn>; Thu, 29 Sep 2005 18:09:22 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 10:20:32 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 18:20:32 CST
+Date: Thu, 29 Sep 2005 18:20:32 +0800 (CST)
+From: liang ming <zhong@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM7S0qq36MHLo6zV97j2tq6158TUtcTFo8jL?=
+To: yang@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+文件夹被别人隐藏了吗？
+磁盘驱动器被别人隐藏了吗？
+文件不小心被误处理删除了吗？
+还不知道你的问题是哪一种，不好说。
+     标  题: 我要疯了，征个懂电脑的牛人
+     
+     真是要疯了,存在电脑上的很多东西,包括什么爱情故事，原来写作的东西，还有很多心情日记,都不见了...完全没有搞清楚怎么回事,一整个文件夹都不知道跑哪里去了...
+     伤心到家了啊...发现有个快捷方式也还在就是东西不见了,,,哪个高人帮忙找出来啊???
+     
+     身家姓名啊,..有的东西失去了以后连回忆都没得回忆了...敬请指点....请大吃一顿,...
+     
+     还有啊，明天和我联系吧!因为后天就走了啊....拜托拜托....
+     --
+     

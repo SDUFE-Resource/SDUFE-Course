@@ -1,0 +1,45 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <tian@ccert.edu.cn>; Fri, 19 Aug 2005 22:23:23 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <tian@ccert.edu.cn>; Fri, 19 Aug 2005 22:36:25 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Fri, 19 Aug 2005 22:59:53 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: sun@126.com
+To: tian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILDRy/nT0LXEvOyy6bfR08O808HL0rvPwg==?=
+Date: Fri, 19 Aug 2005 22:31:07 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+逛荡~~~~
+看我所有检查的清单
+2005年1月21日，协和医院，挂号费9元，B超90元，黄体酮三支，2.34+3.33，合计100.67元
+2005年3月16日，协和医院，挂号费5元，检查费用共计356元，其中包括：产科复诊；妇产科多普勒检查，就是听胎心了；全血细胞分析；爱滋病毒抗体检查；丙肝抗体检查；快速梅毒血清反应；RH血型反定型；肝功能全项；肾功；ABO血型正定型；尿10项；乙肝五项；真空采血管管若干。
+这是第一次正式产检
+2005年3月30日，协和医院，挂号费5元，建卡费2元，B超90元。
+2005年4月4日，协和医院，无挂号费，B超照片20元。
+2005年5月13日，协和医院，挂号费5元，葡萄糖粉0.75元，糖筛费用10元。
+2005年5月23日，同仁医院，挂号费5元，建卡费2元，多普勒检查8元，化验费44元，包括尿检和血常规，药费44.7元，钙片。
+2005年6月7日，同仁医院，挂号费5元，多普勒检查8元，常规检查16元，化验费75元。其中包括骨盆检查和白带化验。
+2005年6月22日，同仁医院，挂号费5元，多普勒检查8元，化验费115元，治疗费30元，忘了都化验些啥了……30元是B超的费用。
+2005年7月4日，同仁医院，挂号费5元，多普勒检查8元，尿检26元，钙片一瓶44.7元。
+2005年7月19日，同仁医院，挂号费5元，多普勒检查8元，血常规15元，尿常规26元。
+2005年8月3日，同仁医院，挂号费5元，胎心监护20元，B超150元，尿常规26元。
+2005年8月10日，同仁医院，挂号费5元，多普勒检查8元，尿常规26元，肝功能全功198元。
+2005年8月17日，同仁医院，挂号费5元，胎心监护20元，尿常规26元，多普勒检查8元。
+     第一次花了不到700
+     第二次是200吧
+     上次是第三次花了500

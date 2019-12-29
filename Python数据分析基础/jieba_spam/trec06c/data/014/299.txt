@@ -1,0 +1,29 @@
+Received: from softedit ([159.226.100.150])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UJNl022027
+	for <fu@ccert.edu.cn>; Sat, 20 Aug 2005 03:27:11 +0800 (CST)
+Received: from mail pickup service by softedit with Microsoft SMTPSVC;
+	Sat, 20 Aug 2005 03:52:52 +0800
+From: <gu@iscas.ac.cn>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgobK8sca4obPI7bz+suLK1LrNv6q3ormks8zKpg==?=
+Date: Sat, 20 Aug 2005 03:52:52 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Message-ID: <SOFTEDITGJ2TUSzbAUf0000003c@softedit>
+
+软件测试和开发工程师
+招聘人数：1人
+性别：不限
+学历：本科以上
+年龄：40岁以下
+任职资格：
+1、计算机本科或以上学位，3年JAVA,.NET和Web应用的QA/测试经验
+2、熟悉软件测试用的报告和测试工具
+3、具有很强的沟通和分析能力
+职位描述：
+1、负责根据产品需求、特点和开发过程制定测试计划
+2、参与产品说明书的审查、错误追踪和压力测试
+3、与其他开发人员合作，保证软件的高可靠性和性能
+4、能够参与开发团队的软件测试环境建立工作
+5、根据管理需要，可承担开发角色
+公司网站：www.sightna.com
+有意者请将简历发送至christina@sightna.com

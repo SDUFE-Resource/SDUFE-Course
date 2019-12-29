@@ -1,0 +1,42 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <hua@ccert.edu.cn>; Thu, 1 Sep 2005 16:23:44 +0800 (CST)
+Received: (qmail 18809 invoked from network); Thu, 1 Sep 2005 08:35:27 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 08:35:27 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "gan" <gan@jdl.ac.cn>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjjUwjMwyNW5pNf3vM3CvA==?=
+Date: Thu, 1 Sep 2005 16:37:45 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+报失：
+王冰    51534130      钥匙：一大两小；丢失时间：8-30下午
+黄硕    51533505      钥匙；无饰物，一把黄色钥匙，还有一把宿舍钥匙；
+                      丢失时间：8-30,6:30~12:30
+袁梅    13810090345   绿色帆布运动布鞋；
+                      丢失时间：8-29晚11点；丢失地点：东区浴室外  
+李永    13661222567   工商银行卡：天津市的卡；
+                      丢失时间：8-18左右
+童良    13581982190   钱包：内有京卡、龙卡、身份证、电话卡、餐卡等；
+                      丢失时间：8-29晚6点；丢失地点：东区浴室（被偷走）
+王钰如  51531233      钱包：粉红格子，内有学生证，饭卡；
+                      丢失时间：8-30中午；丢失地点：紫荆；
+孙巍    13810654350   钱包：棕色钱包，奔驰标记，内有IC卡，饭卡，银行卡；
+                      丢失时间：8-30
+黄运练  13910989292   钱包：黑色，内有4张银行卡，两张贵宾卡，住户卡等；
+                      丢失时间：8-30，17:30~18:30；丢失地点：校史展览观附近   
+王一辉  13371705580   钱包：黑色，内有餐卡、电话卡、充值卡；
+                      丢失时间：8-30晚6点；丢失地点：东区浴室（被偷走）；
+送交：
+好心人     IC卡   
+领取：
+罗楠       IC卡

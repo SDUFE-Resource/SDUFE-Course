@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C1ElfM005929
+	for <fu@ccert.edu.cn>; Tue, 13 Sep 2005 04:22:15 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.144.133)
+  by localhost with SMTP; Mon, 12 Sep 2005 20:08:40 -0000
+From: "mo" <mo@mails.tsinghua.edu.cn>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1Pi+rdKyyse49sfu0afJ+g==?=
+Date: Tue, 13 Sep 2005 04:39:54 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLKEKCCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+Importance: Normal
+In-Reply-To: <326450489.02480@mails.tsinghua.edu.cn>
+
+btw:偶并不太老，70年代最末生人。。。。。。。。。
+     小学和初中，基本上一个月吃一次肉，煮一次方便面，都已经很奢侈了
+     高中，一个月生活费不到200（确切的是150），吃饭最少的一个月只花了90（因为一天
+     只敢吃一顿，现在想起都决的不可能）

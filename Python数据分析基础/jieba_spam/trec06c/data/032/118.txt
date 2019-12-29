@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <lian@ccert.edu.cn>; Wed, 24 Aug 2005 04:51:56 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <lian@ccert.edu.cn>; Wed, 24 Aug 2005 05:05:10 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 20:59:43 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "pu" <pu@mail.tsinghua.edu.cn>
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgufrE2rTz0M3Jz8rQxvPStdXQxrjOxMPYus3P7sS/vq3A7cj0uMnD+6OsxNDFrrK7z94=?=
+Date: Wed, 24 Aug 2005 05:01:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+浙江杭萧钢构股份有限公司为国内最大的钢结构公司。现在北京设立海外部，诚征致力于此的有识之士，共同开拓海外市场。
+文秘要求：熟练运用常用办公软件，会英文打字及日常英文商业信函的处理。为人可靠踏实。
+项目经理要求：有进出口贸易或工程方面的经验，熟练运用英文进行交流。对事业具有开拓精神，对专业要求上进，而不仅限于皮毛。
+工作地点：北京三环以内
+有意者请将简历电邮至smxf@263.net，请注明应聘的职位。或致电86824905。

@@ -1,0 +1,18 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2gjIb030032
+	for <feng@ccert.edu.cn>; Sat, 20 Aug 2005 11:26:09 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A741.000092.16670@m52.126.com>
+Date: Sat, 20 Aug 2005 11:39:20 +0800 (CST)
+From: "pu" <pu@126.com>
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgVGV4YXMgQSZNIFVuaXZlcnNpdHkgvczK2kppbSBKab2r09q9/Mba1NrH5buq1/a9stf5?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_loSuijVMGiiOFKdLaKpxUmFGBkYx"
+
+Title:  A Signal Processing Approach to Fast Magnetic Resonance Imaging
+Abstract: Magnetic resonance imaging (MRI) has become an important imaging modality for clinical diagnosis and scientific research. However, MRI is still a relatively slow technique. State-of-the-art technology is capable of acquiring 3D images from static objects and 2D images from time-varying objects. It is desirable, for a number of applications, to develop "real-time" imaging capability. In this presentation, I will discuss a signal processing approach to fast imaging based on parallel data acquisition and generalized series reconstruction. I shall describe the associated data acquisition scheme and image reconstruction algorithm, and show some examples to demonstrate the capabilities of the new approach. In addition, I will give a brief introduction to the graduate education at the Electrical Engineering Department at Texas A&amp;M University,
+对该研究方向有兴趣者可以给他发邮件jimji@tamu.edu
+是清华出身的师兄哦！

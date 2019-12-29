@@ -1,0 +1,35 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <he@ccert.edu.cn>; Sat, 10 Sep 2005 01:55:34 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Sat, 10 Sep 2005 02:13:34 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Sat, 10 Sep 2005 02:13:33 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "su" <su@mail.csu.edu.cn>
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?ofEgYWNyb2JhdCCw0bbg0rNwZGYgtPLTobW90rvSs8nPtcTOysziICjXqtTYKQ==?=
+Date: Sat, 10 Sep 2005 01:55:00 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 NewSoftware 讨论区 】
+发信人: Googler (Outsider), 信区: NewSoftware
+标  题: acrobat 把多页pdf 打印到一页上的问题
+在属性中选打印4页到1　页中，
+打出来之后有每页中都一个小方框
+-------------------
+| 原来　 |         |
+| 一页   |         |
+-------------------
+|        |         |
+|        |         |
+-------------------|
+怎样把这方框线去掉啊？　

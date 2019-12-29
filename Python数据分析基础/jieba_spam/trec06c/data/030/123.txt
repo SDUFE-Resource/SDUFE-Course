@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <guan@ccert.edu.cn>; Tue, 23 Aug 2005 15:32:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <guan@ccert.edu.cn>; Tue, 23 Aug 2005 15:45:41 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 07:40:18 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "shen" <shen@mail.tsinghua.edu.cn>
+To: guan@ccert.edu.cn
+Cc: "tunet" <luo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL+qt6K5pLPMyqbIy8n61q7Ct3p6ZnJvbSBmdWRhbg==?=
+Date: Tue, 23 Aug 2005 15:42:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+ 从复旦job版这种充斥着四大的地方转出来的烂帖，
+居然有这么多人叫好，真是天晓得。
+ 作者懂什么叫开发吗？这个领域经验积累没用？那
+中国新毕业的学生比好多国家整个开发人员数目还多，
+咋没见中国在这个领域遥遥领先啊？
+     发信人: CapaI (卡帕 -- 天道酬勤), 信区: Job
+     标  题: [转载]开发工程师人生之路 zz
+     发信站: 日月光华 (2005年07月07日10:36:48 星期四), 站内信件

@@ -1,0 +1,39 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <tao@ccert.edu.cn>; Mon, 29 Aug 2005 14:51:23 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 15:01:56 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Mon, 29 Aug 2005 15:01:56 +0800
+From: "xing" <xing@ctbu.edu.cn>
+To: tao@ccert.edu.cn
+Date: Mon, 29 Aug 2005 15:01:56 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "xing" <xing@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+Content-Type: text/plain
+
+华为的路由器、Cisco的路由器我2000年前就都用过了
+界面、配置命令都是一摸一样，完全是侵犯知识产权的
+华为的同学一大把，
+     标  题: Re: 听大家都说华为，我也说两句
+     
+     不知道你在华为呆过没有，竟然下这样的结论？
+     如果华为不是研发那中国真正搞研发的公司就不多了。
+     华为搞研发的优秀大学毕业生决对是中国最多的。
+     而且很多清华，北大，南开，上交大等毕业的优秀大学生。
+     
+     : 华为核心设备研发？
+     : 代码连界面都抄人家的就算研发了
+     : 华为搞开发我信，搞研究就纯粹是瞎掰了
+     
+     
+     
+     --
+     
+     创意生活，精彩无限！
+     
+     欢迎访问我的博客超越自我，成就梦想:http://superdream.blogchina.com/
+     
+     

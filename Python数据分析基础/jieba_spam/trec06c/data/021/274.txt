@@ -1,0 +1,38 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <zhang@ccert.edu.cn>; Sun, 21 Aug 2005 13:53:24 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <zhang@ccert.edu.cn>; Sun, 21 Aug 2005 14:06:26 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 14:29:54 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: yuan@126.com
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuDrV0Ma4yKvWsGphdmGzzNDy1LExyMs=?=
+Date: Sun, 21 Aug 2005 14:01:08 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+－－－－－－－－－－－－－－－－
+｜ 代发招聘启示，勿回本人信箱 ｜
+－－－－－－－－－－－－－－－－
+招聘全职java程序员1人
+要求：
+1.要有足够的耐心，认真负责
+2.会写常用的sql语句，并且知道查询存在效率高低之分
+3.会写简单java类，不要求水平有多高，但要求写得规范
+4.具有一定的钻研精神，能够独立解决简单问题
+5.会用jasperReport编写报表，有一定美术基础的优先考虑
+招聘单位：清华教育技术研究所
+联系人Email:cheng12@tsinghua.edu.cn

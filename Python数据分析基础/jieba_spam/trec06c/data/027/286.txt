@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <qing@ccert.edu.cn>; Mon, 22 Aug 2005 23:40:34 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <qing@ccert.edu.cn>; Mon, 22 Aug 2005 23:53:48 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 15:48:21 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "yi" <yi@mail.tsinghua.edu.cn>
+To: qing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNKw77j2w6Y=?=
+Date: Mon, 22 Aug 2005 23:50:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+以前外公家住在长安街边上，12层，也挺吵的。。但
+就是车声而已。听不到人声。
+我现在住在2层的小马路边上，车一过，客厅的电视
+什么都听不到。。。。行人那边倒还好，我们小区比较
+安静，有专门规划的让孩子自由活动的区域。而且汽车
+不许入小区。。。
+没有住过中段，所以没有具体的比较。:)
+     一般几楼以上才能不受地面行人及其小区内车辆噪音的干扰？
+     ***雄关漫道真如铁,而今迈步从头越***

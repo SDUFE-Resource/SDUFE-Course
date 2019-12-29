@@ -1,0 +1,34 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <xue@ccert.edu.cn>; Tue, 23 Aug 2005 15:58:50 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <xue@ccert.edu.cn>; Tue, 23 Aug 2005 16:12:01 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "xing" <xing@126.com>
+To: xue@ccert.edu.cn
+Cc: <ni@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgbWF4aXQoQmop1dDGuM3BxL65pLPM16jStby8yvXWp7PWuaSzzMqm?=
+Date: Tue, 23 Aug 2005 16:11:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+技术支持工程师
+工作描述：
+1．市场、销售部门的技术支持。
+2．为客户做产品和技术的演示和培训。
+3. 产品实际应用中的技术指导。 
+4．为公司新员工做产品和技术的培训。
+任职资格：
+1．本科学历，土木工程专业背景。
+2．三年以上相关岗位工作经验，熟悉外墙外保温体系的优先考虑。
+3．有一定的英语听说读写能力。
+4．熟练操作计算机。
+有意请发送中英文简历至hr@maxit.cn
+公司详情请浏览www.maxit.cn

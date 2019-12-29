@@ -1,0 +1,25 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <ou@ccert.edu.cn>; Tue, 16 Aug 2005 06:09:46 +0800 (CST)
+Received: (qmail 5448 invoked from network); Mon, 15 Aug 2005 22:20:33 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Mon, 15 Aug 2005 22:20:33 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "yana" <yana@jdl.ac.cn>
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvT9MPGXdLRvq3O3reo0MXIzsq10enK0sHL?=
+Date: Tue, 16 Aug 2005 06:24:32 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+没办法，年轻人就是这样子的，总是倾向于不是把什么想的太好，就是把什么想得太坏，总在两极之间跳来跳去，寻找情感和思想上的刺激
+     研一寒假的时候好容易获得了一个难得的实习机会
+     结果被实验室扣下，理由是实习的内容对以后做的课题帮助不大
+     结果研一下半学期就被拖到实验室干活，美其名曰提前进入课题，早作准备
+你现在只是在一味叫苦，可你了解你老板的处境吗？你能体谅养活一大帮人的难处吗？你觉得不应该上来做Demo，可要没有Demo谁会给你投钱做课题？现在谁会听你白话几句就把大把银子给你做研究用？你觉得很多小事做起来没意思，不错，是很没意思，可是这些事是做研究或做项目所必需的，你不做，难道让你老板做？有些事情是不太合理，可现在全中国都这个状况，现在能老早进实验室其实是幸运的，有很多研究生根本就没进过实验室！去公司实习，那做的只能比实验室更低级！因为两者出发点不同，公司是为了榨取你的剩余价值，实验室起码还会为你做研究提供条件，最终还会为你颁发研究生文凭。如果你认为学技术比学知识更有用，那你就没有必要读研究生，你去读个XX高等技术学校或满大街都有的XX培训肯定会觉得比在实验室更有收获。

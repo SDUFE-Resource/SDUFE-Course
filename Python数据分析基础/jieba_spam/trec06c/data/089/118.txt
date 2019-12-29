@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83Navcu007784
+	for <long@ccert.edu.cn>; Mon, 5 Sep 2005 15:55:03 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83NnJli001115
+	for <long@ccert.edu.cn>; Mon, 5 Sep 2005 16:07:25 +0800 (CST)
+Message-Id: <200509032349.j83NnJli001115@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 07:54:42 -0000
+From: "hua" <hua@mail.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Cc: <zhong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1fe49sfvzOzA77XEu++w6Q==?=
+Date: Mon, 5 Sep 2005 16:07:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B125.2476A9F0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWw4hYhpZKPpUbwSle4S7/Xq9uNDg==
+
+北京最美的季节来啦，征棵象秋天里的树一样的人吧
+要求：1、开朗阳光、随和宽容，不小气，不计较，不BT，不WS
+      2、喜欢运动，足球、篮球、PP球
+      3、有时可以互相督促学习、聊聊天、打打球
+      4、如果是男树，22岁以上，高高个子，对自己外在满意自信的（爱美之心人皆有之嘛）；如果是女树，不羸弱、不小心眼的就好啦，聊天就更轻松了
+      btw:有其他不良企图、歪歪想法的就不要应征了，谢谢
+      信箱受理

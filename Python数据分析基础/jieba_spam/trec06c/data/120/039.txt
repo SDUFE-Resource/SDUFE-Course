@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5cufv027982
+	for <xu@ccert.edu.cn>; Mon, 12 Sep 2005 10:29:03 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5aHKJ091531
+	for <xu@ccert.edu.cn>; Mon, 12 Sep 2005 10:26:37 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5aEwf091527
+	for <xu@ccert.edu.cn>; Mon, 12 Sep 2005 10:26:21 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 10:15:30 +0800
+Message-ID: <326329923.15072@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 10:15:30 +0800
+From: cen@mails.tsinghua.edu.cn
+To: xu@ccert.edu.cn
+Date: Mon, 12 Sep 2005 10:15:30 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILTzvNLNxrz2vLiyv8PAufrP1rT6tcS62rXAxqw=?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: cen@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+“那个墨西哥导演”Rodriguez现在已经不能算是小导演了，呵呵
+很喜欢他的墨西哥往事三部曲，不过这个似乎算不得纯黑道的片
+     两根大烟枪和snatch的导演是Guy Ritch，是麦当娜的老公，英国片。
+     美国当代的黑帮片，比较好的可以看看马丁斯克塞斯的片子，除了教父系列，如goodfallas等等，也可以看昆汀的片子，除了低俗小说，水库狗和Jackie Brown都是不错的片子。
+     科恩兄弟有些片子也不错。

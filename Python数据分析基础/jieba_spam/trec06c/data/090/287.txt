@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83Navcu007784
+	for <ning@ccert.edu.cn>; Tue, 6 Sep 2005 02:13:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83NnJli001115
+	for <ning@ccert.edu.cn>; Tue, 6 Sep 2005 02:25:28 +0800 (CST)
+Message-Id: <200509032349.j83NnJli001115@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 18:12:45 -0000
+From: "gu" <gu@mail.tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Cc: <yu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtLTStc3FttO7ttOtxPq1xLzTyOsh?=
+Date: Tue, 6 Sep 2005 02:25:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B125.2476A9F0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWw4hYhpZKPpUbwSle4S7/Xq9uNDg==
+
+寻求对中小学教育、课外辅导有兴趣的朋友合伙创建一所学校(网络教育)
+具体办学方案共同探讨，辅导方式主要是通过网络进行，
+我们有了一些独特的资源，与其他的业务学校不同，
+现在的社会,公司做的更多是人而不是事
+我们有了自己的核心网络技术,希望早点建立我们的所有团队,现在还缺一部分人
+现在在这里欢迎精于市场调研和策划(将来的市场骨干),融资(将来的商务骨干)的能手参与
+到我们的团队里来!
+有意者站内回信。
+~

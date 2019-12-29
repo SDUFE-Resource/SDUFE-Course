@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j87BlNH3002554
+	for <sun@ccert.edu.cn>; Fri, 9 Sep 2005 16:28:59 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j87Bxb76001146
+	for <sun@ccert.edu.cn>; Fri, 9 Sep 2005 16:41:13 +0800 (CST)
+Message-Id: <200509071159.j87Bxb76001146@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 9 Sep 2005 08:26:40 -0000
+From: "ou" <ou@mail.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Cc: <xing@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQyMu7ubzHtcPUrcC0obbV/bTzvuezoaG3sqW5/cqyw7S159Oww7Sjvw==?=
+Date: Fri, 9 Sep 2005 16:41:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C5B3E6.AA53DD40"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzo5wDUyjmuLAhQNybYzBBmyxuiw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+hoho,你说的那个恐怖带着科幻的片子可是很老了，我看过，印象很深，片子中他们是德国
+发明的秘密武器，可是最后连自己的管理人都杀了，不过他们眼睛不能见光，最后只有一个女的活下来了，那些人就是把他们把眼镜脱了，他们就死了，脸都烂了，印象深刻啊～～～
+     克拉姆一家好像还是两部
+     有一个北欧片,好象是 两个爱开玩笑的人，也很好啊
+     恶作剧的绑架朋友途中和一伙真正绑匪撞上，把人质弄混了

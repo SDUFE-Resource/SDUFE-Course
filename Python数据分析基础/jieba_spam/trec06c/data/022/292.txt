@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <feng@ccert.edu.cn>; Sun, 21 Aug 2005 19:12:56 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <feng@ccert.edu.cn>; Sun, 21 Aug 2005 19:26:10 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 18:54:51 +0800
+Date: Sun, 21 Aug 2005 19:26:01 +0800
+From: "yang" <yang@wnt.com.cn>
+To: feng@ccert.edu.cn
+Cc: "lic" <jiang@ccert.edu.cn>, "sunt" <zeng@ccert.edu.cn>, "caoy" <luo@ccert.edu.cn>,
+        "wangb" <zhong@ccert.edu.cn>, "songhm" <you@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INGh1PHSxravu7nKx9Gh1PHN+M2oo7+jv6O/?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+     北京移动：计费中心下OA开发之类的一般技术性开发工作
+     北京网通：总部信息化部BOSS系统的规划、需求等管理性工作，指导下面单位实施
+     两个职位都是有工作经验的，薪水可能都差不多，从职位层次上说，显然网通更高一些，但是从公司来说，移动更有实力，没经过这几年的融合什么的，也许更稳定一些。而且运营商还不知道怎么重组呢，哪个更有发展前景？
+要是我就CNC 呵呵
+你不会是很迷恋技术吧。。。

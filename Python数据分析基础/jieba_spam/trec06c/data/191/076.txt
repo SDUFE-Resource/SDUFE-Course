@@ -1,0 +1,28 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdW0h032355
+	for <you@ccert.edu.cn>; Tue, 27 Sep 2005 07:56:22 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 08:12:05 +0800
+Message-ID: <327652915.84524@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Tue, 27 Sep 2005 08:12:05 +0800
+Message-ID: <000101c5c1cf$bb387e80$0301a8c0@CCERTDAWEI>
+Reply-To: "zhu" <zhu@ccert.edu.cn>
+From: "zhu" <zhu@tsinghua.org.cn>
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCux+mhqqGqyOfUxsjn0czI57fnyOfDzi4uLi4uLg==?=
+Date: Tue, 27 Sep 2005 05:11:55 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+     我知道我读书不多，
+     但，我也有一颗拥有“爱”的心，
+     我知道你的心思不好猜测，
+其实平凡也未免不是一种幸福，大家所追求的东西，所看重的东西不一样，仁者见仁智者见智吧！最重要的是找到跟你同一种想法的人，而这是最最困难的事。这里借用刚刚学到的一句话：得之，我幸；不得，我命。
+有的人是为了恋爱而恋爱，有的人是为了结婚而恋爱，也许等到大家年纪大了，真的觉得很孤独的时候，可能就是需要一个人说说话，聊聊天而已，那时候大家就不会想这么多，会发现平凡中的幸福的。

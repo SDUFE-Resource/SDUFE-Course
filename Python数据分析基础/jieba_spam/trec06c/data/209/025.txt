@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFG0025934
+	for <he@ccert.edu.cn>; Fri, 30 Sep 2005 11:54:16 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Fri, 30 Sep 2005 03:39:50 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "tian" <tian@mail.tsinghua.edu.cn>
+To: he@ccert.edu.cn
+Cc: "Duan Haixin" <fu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztLC9DIwMDa/vNHQyuk6KQ==?=
+Date: Fri, 30 Sep 2005 12:05:07 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+2006数学题型集萃与练习题集（经济类） 陈文灯 黄先开 曹显兵（全新）原价38.8 卖五折
+胡敏 考研英语高分作文 2006 （全新）        原价 29.0  现价 17（六折）
+2006英语100篇精读汇萃 吴永鳞（写过12篇）   原价 42.0  现价 20（五折）
+2006历届考题名家解析（数四）全国考研数学辅导专家组 黄先开等编写－从1990至2005
+（只做过05年那一卷）      原价 22.0   现价 11
+新东方考研第一时间 考研英语十年全真试题解析（1996～2005) 原价 20 现价10

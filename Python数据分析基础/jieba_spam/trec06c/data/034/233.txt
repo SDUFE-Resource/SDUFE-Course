@@ -1,0 +1,40 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <pan@ccert.edu.cn>; Wed, 24 Aug 2005 18:58:53 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 24 Aug 2005 19:17:16 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 19:17:16 +0800
+Date: Wed, 24 Aug 2005 19:17:16 +0800
+From: wua@cernet.com
+Subject: =?gb2312?B?UmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0=?=
+To: pan@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+1，每月有一个周六加班
+  我个人的体会，通过这一天的加班，一年就多了12天的假期，把它放在春节，回去一趟
+可以在家里待个20天，比起很多公司大年初八就要上班，我自己会觉得好一点。
+  我不知道这是不是公司的初衷，以上是我个人的感受。
+2，版上反复谈到挣钱的问题
+  根据我的观察，那些现在拿的多的，都是一些踏踏实实，飞速进步的同事。反而那些
+对钱看的很重的，一般都很难拿到很多的钱，这些人大部分很快就跳槽走了。
+  所以我说，如果仅仅是为了钱，还是不要进华为。因为结局很有可能就是钱也没挣到，
+心情也不爽。在华为挣不挣得到钱？很难说。反正有的人能挣，有的人不能挣。
+3，所有的话，都是一些个人体会，不为了证明什么。只是觉得版上有个别人可能从未了
+解过华为、不知以何居心，要说一些不负责任的话，这样恰使一些想了解它的人感到困惑
+我不想劝任何人进华为，因为公司不需要我这么做。
+每个人都要有自己的想法，对自己的未来都有一个准确的把握和理解。
+来这里的大部分人都是毕业生，每个人都有一个梦想，也有自己做人做事的标准。
+所有能做的，就是讲一讲自己的经历和思路，仅供大家参考。
+     偶03年跳出来的，以前是规定每月两个周六加班，累计到下年做假期，比如春节请假等，如果用不完，补加班费。后来改成每月一个周六加班。
+     平时加班，我在的部门不多，我是新员工，算加得多的了，其他大多数人下班就走。或者等晚8点的免费夜宵和免费班车。周末基本上没人加班。但是偶在....因为刚到公司想多学点东西。周末除了规定的周六外，我加班都拿到了加班工资。至于外企，我现在在一家公司，不想评论。
+     华为做事很严谨，加班工资是按小时算的，我一次填加班表从早9点到晚6点，还被扣了中午吃饭休息的一个小时。华为很严格，比较自由一点人可能不能适应，为公司付出劳动，钱一分不少，比如每层楼都请员工做消防员，会给那个员工发补贴。但是任何与工作无关的事情都不能做，比如上网，qq，msn，需要工作上网的必须申请帐号。

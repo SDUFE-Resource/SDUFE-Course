@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TNZmZm009556
+	for <lai@ccert.edu.cn>; Sat, 1 Oct 2005 10:06:35 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8TNkmaV017714
+	for <lai@ccert.edu.cn>; Sat, 1 Oct 2005 10:17:35 +0800 (CST)
+Message-Id: <200509292346.j8TNkmaV017714@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 1 Oct 2005 01:51:10 -0000
+From: "hu" <hu@mail.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Cc: <jin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILeiz9a5pNf3uvPU2dXSsK7H6crHsci9z8Lpt7O1xMrCo6zWwcnZscjRp9CjyrG68rm1zajS
+qsk=?=
+Date: Sat, 1 Oct 2005 10:17:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5C593.18C0F390"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXFUAn0NYzCGVdZSOy1gVwHMkt8UA==
+
+在学校里沟通多，但是恋爱谈得也不很现实，每年毕业时都有大批的恋人哭着闹着分手。
+所以二者都有利弊，应该综合评定
+     工作后，找女朋友觉得不象在学校了，沟通的机会也少了，在一起的时间也少了，但又
+     不能跨过这一阶段，太急了又不好，怎么办呢？
+     单身久了，发现其实一个人真是自由，如果有了女朋友两人又不住一起，见个面要跑很
+     远，真累，但不能一开始就住一起吧，我也不知道自己怎么回事？感觉都哪里去了呢？

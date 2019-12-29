@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <pu@ccert.edu.cn>; Wed, 28 Sep 2005 07:02:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <pu@ccert.edu.cn>; Wed, 28 Sep 2005 07:13:49 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 27 Sep 2005 22:49:15 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "wang" <wang@mail.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Cc: <wen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtM31tcTAz8qmsaOz1rPBxKyjvw==?=
+Date: Wed, 28 Sep 2005 07:13:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+年轻人好少。
+     不过清华号称出的总数国内最多，看这个
+     IEEE Fellow（国际电气电子工程师协会院士）是国际电气电子学术界最高荣誉，当选IEEE Fellow的清华学子在国内居第一位。
+     1. 蔡宣三，1963年毕业于清华大学电机系。清华大学电器专业创办人之一，IEEE电力电子学会中国分会主席；中国电力学会名誉副理事长；曾任IEEE中国分会主席、IEEE亚太教育委员会主席和中国电源学会理事长。

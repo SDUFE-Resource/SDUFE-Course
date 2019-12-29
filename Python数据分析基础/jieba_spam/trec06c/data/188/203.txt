@@ -1,0 +1,56 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <gu@ccert.edu.cn>; Mon, 26 Sep 2005 18:56:44 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 11:07:38 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 11:07:38 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <gu@ccert.edu.cn>; Mon, 26 Sep 2005 04:18:45 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <gu@ccert.edu.cn>; Mon, 26 Sep 2005 06:15:11 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Mon, 26 Sep 2005 19:07:26 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <xie@motorola.com>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtdpOo6sxtM631srWo6zSssrH1+6689K7tM4=?=
+Date: Mon, 26 Sep 2005 19:07:01 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+23日，他跟我说了“分手，以后不要再联系”  虽然是我要求的
+我认为这以后心不会再为此事受累
+虽然怀念，也多少有点轻松
+白天的时间总是很好打发的
+到实验室和同学聊天，或者写一些无关的东西来转移注意力
+但夜晚，躺在床上，满脑袋都是他的影子
+再没有别的什么能让我从失去他的痛苦和对过去事情的歉疚中走开
+不知道什么时候才入睡，一夜和此事有关的梦，多是噩梦
+早上总是很早醒来，感觉浑身的关节都酸疼，好像没有休息过似的
+昏昏沉沉中，想让自己摆脱掉他的影子，但再也睡不着
+这种日子熬得虽然艰苦，但我总觉得会好起来的，起码白天能转移注意力的时候是快乐的
+昨天，他又打来电话
+我以为是和无数次分手以后一样，会和好
+自己对分手或是和好没有任何倾向性了，当时就想着顺着他的话说下去，爱怎么样怎么样吧
+他说分手，我没什么感受
+但他哭了，我再也没法那么平静
+很久以前，我就默认他不会再为我哭泣了
+但这次，听到他的哭声，那个真诚单纯的孩子为我做的一切、受的一切苦又出现在我眼前
+怜惜他，也怜惜现在的自己，更加痛恨以前的错误
+可是一切都这样摆在面前
+我们都希望能像以前一样能简单的相处，却没有办法回头
+真希望能像母亲一样搂着他的头，拍着他的背安慰他
+告诉他噩梦到此为止了，过去的就让它过去吧
+希望他能重新以那种单纯的心态来面对未来
+希望他有个好归宿，好的家庭
+我愿远远的望着他，为他的幸福喝彩，为他的难过落泪
+  ――也许你看了会说“从前有一只猩猩” sigh...

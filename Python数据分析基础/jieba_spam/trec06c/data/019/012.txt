@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <kong@ccert.edu.cn>; Sat, 20 Aug 2005 22:09:35 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <kong@ccert.edu.cn>; Sat, 20 Aug 2005 22:22:49 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sat, 20 Aug 2005 21:51:30 +0800
+Date: Sat, 20 Aug 2005 22:22:40 +0800
+From: "wen" <wen@wnt.com.cn>
+To: kong@ccert.edu.cn
+Cc: "lic" <jian@ccert.edu.cn>, "sunt" <zhao@ccert.edu.cn>, "caoy" <zheng@ccert.edu.cn>,
+        "wangb" <cen@ccert.edu.cn>, "songhm" <ou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IHBvcG++08i709bP8s7SuavIu8z00MajoQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+家版很多时候就是推波助澜
+     对丫，而且我觉得泡家版要是这种风气涨了
+     就是说：受一些小委屈，来家版倾诉，一些人马上鼓励她应该跳起来，一起痛骂婆婆，然后她马上觉得自己有理了，回去给婆婆脸色看，然后矛盾更大，然后再来倾诉，然后网友听了一面之词更支持她，结果矛盾大得不得了
+     这样得家版风气，我们不要。应该要劝当事人自己丫，有人来倾诉了，你们不要帮她一起骂对方，而应该劝她让她消消气，然后反思自己做的对不对，君子日参省乎己，则智敏而行无过。对不对？

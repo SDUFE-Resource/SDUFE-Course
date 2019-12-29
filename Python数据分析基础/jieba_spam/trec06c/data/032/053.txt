@@ -1,0 +1,23 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <gan@ccert.edu.cn>; Wed, 24 Aug 2005 02:45:01 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 02:58:08 +0800 (CST)
+Date: Wed, 24 Aug 2005 02:51:54 +0800
+From: "yana" <yana@sohu.com>
+To: gan@ccert.edu.cn
+Cc: "yxl" <bi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILfr0KG41brNvarOxA==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+     我忘了是从哪里听来的了。
+     姜文对冯小刚说，我们的电影都是源与生活的，但是我们不同。就象是都有一堆新摘的葡萄。你想方设法给大家带了了鲜扎的葡萄汁，而我要把它酿成酒。
+     我也明白了为什么我看姜文的电影（如鬼子来了）远远不同于冯小刚电影（手机，或是天下无贼）。
+找到原话了
+冯小刚自传《我把青春献给你》中提到，导演姜文同志曾经语重心长地对导演冯小刚同志说：“电影应该是酒，哪怕只一口，但它得是酒。你拍的东西是葡萄，很新鲜的葡萄，甚至还挂着霜，但你没有把它酿成酒，开始时是葡萄，未了还是葡 萄……你应该把葡萄酿成酒，不能仅仅满足于做一杯又一杯的鲜榨葡萄汁。”冯小刚自言对他电影的诸多批评中，姜文以上的话是最道破实质的。

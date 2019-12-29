@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <cai@ccert.edu.cn>; Fri, 23 Sep 2005 06:58:46 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 06:47:46 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 06:47:45 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 06:47:45 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 22:47:45 -0000
+From: "luo" <luo@mail.tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0/TDxqOsvs3S8s6qztLKx8WuyfqjrLW8yqbO3rnKsbu19w==?=
+Date: Fri, 23 Sep 2005 07:10:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+我是本校报送的本专业的，当时教研室里只有一个教授A有资格带，我必定是跟他，开学后，另一个老师升为副教授，也要带，招了一个。但我却被调给这个刚能带的老师B。 按惯例，保研的先挑老师，剩下的给外面的，我的情况好像还有点不同。 
+   说实话，两人水平不能比，A远在B之上，我当时保的时候就是冲着那个教授A去的，本来也没什么。 我去系里找说法，他们给的暗示是导师最终有决定权，他想带个男的。                   虽然一直听说有这种事，发生在自己身上，很不爽。去找导师A，他说的是系里给的压力，非要分一个学生给那个老师B。 
+我没有当面捅破A，现在很想到研究生院问一下，自己就这么不明不白的被调了，我该怎么办？撕破脸的闹下去。 

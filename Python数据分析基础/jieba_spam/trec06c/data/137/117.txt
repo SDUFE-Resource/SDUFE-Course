@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <zhu@ccert.edu.cn>; Thu, 15 Sep 2005 21:04:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <zhu@ccert.edu.cn>; Thu, 15 Sep 2005 21:16:18 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 12:57:48 -0000
+From: "xie" <xie@mail.tsinghua.edu.cn>
+To: zhu@ccert.edu.cn
+Cc: <lv@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQ1/a5/dL4tvrMwLvy1d/Bq9fTzMC1xMLvo78=?=
+Date: Thu, 15 Sep 2005 21:16:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+太白的反而不好
+不过银耳和莲子这类的干货常有这种味道
+我一般的处理办法是，先煮开一锅水，把银耳和莲子放进去，等到水再开了，煮10～20
+分钟，捞出，水倒掉，银耳和莲子洗干净，再用新的水煮。
+这样煮出来的银耳莲子汤会比较清澈，也没有怪味道。
+     8月份时吃过一次莲子汤，汤还没入口，就会闻到一股味儿，不太好描述的味道
+     今天又做了银耳汤
+     还是有一样的味道，汤也发黄

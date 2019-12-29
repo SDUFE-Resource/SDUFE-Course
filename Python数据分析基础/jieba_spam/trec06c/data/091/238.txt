@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83Navcu007784
+	for <long@ccert.edu.cn>; Tue, 6 Sep 2005 07:47:53 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83NnJli001115
+	for <long@ccert.edu.cn>; Tue, 6 Sep 2005 08:00:15 +0800 (CST)
+Message-Id: <200509032349.j83NnJli001115@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 23:47:32 -0000
+From: "qian" <qian@mail.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Cc: <kong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7K0ru1wNX+1s7M4qOos8LPyL/8MjAwMMnPtcSjqQ==?=
+Date: Tue, 6 Sep 2005 08:00:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B125.2476A9F0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWw4hYhpZKPpUbwSle4S7/Xq9uNDg==
+
+C1=80 V2=20
+C2=70 V2=30
+当剩余价值率一样的话：
+M1=20，M2=30显然部门2的利润率高
+然后资本有一部分从部门1转移到部门2，接着部门2的产品“供大于求”
+产品价格下降，利润率下降，100元的预付资本可能获得15元的利润；
+而部门1的产品价格上升，利润率增大，100元的预付资本可能获得40元的利润
+但是工人创造的剩余价值没有变：各为20，30
+故：资本有机构成高的部门获得的平均利润量大于部门创造的剩余价值
+答案是B大于。 我就搞不明白了，有机构成不是C/V么，一个比例能说明什么？而且MS平均利润形成以后是按照“等量的预付资本获取等量的利润（量）”，就是说只和C+V有关，和C/V无关嘛。请达人指教

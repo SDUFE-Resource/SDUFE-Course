@@ -1,0 +1,28 @@
+Received: from nankai.edu.cn (sun.nankai.edu.cn [202.113.16.21])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N7Br6G015829
+	for <xin@ccert.edu.cn>; Sat, 24 Sep 2005 20:14:59 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 20:31:52 +0800
+Message-ID: <327460528.07655@nankai.edu.cn>
+Received: from 222.30.48.129 by 202.113.16.21 with HTTP; Sat, 24 Sep 2005 20:31:52 +0800
+From: "you" <you@nankai.edu.cn>
+To: xin@ccert.edu.cn
+Date: Sat, 24 Sep 2005 20:31:52 +0800
+Reply-To: "you" <you@nankai.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM/W1NrFo8jLserXvL21tcS63LXNwcuwoT9SZTogzqrKssO0tPO80sOkxL+z57DdzfXb86O/
+o78=?=
+Content-Type: text/plain
+
+其实就是跟office一样的一个写作工具而已，有谁因为word用的熟而觉得自己很牛的
+     标  题: Re: 现在牛人标准降的很低了啊?Re: 为什么大家盲目崇拜王垠？？？
+     
+     hehe,我们组里的人都会使TEX，没觉得自己很牛啊。
+     
+     : 没看出王垠同学牛在哪儿,
+     : 博士读到四年, 有两个conference的paper, 一个是二三流会议的BPW,自己老板是chair
+     : 而且还是国内开的国际会议.
+     
+     
+     
+     --
+     

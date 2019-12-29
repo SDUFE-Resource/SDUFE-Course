@@ -1,0 +1,34 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <xin@ccert.edu.cn>; Fri, 16 Sep 2005 12:36:10 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <xin@ccert.edu.cn>; Fri, 16 Sep 2005 12:52:45 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <xin@ccert.edu.cn>
+	; Fri, 16 Sep 2005 12:52:45 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <xin@ccert.edu.cn>; Fri, 
+	Fri, 16 Sep 2005 12:17:46 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "ling" <ling@njnu.edu.cn>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILqmyMujob3M0/3Eo8q9IFJlOiC41bLFtPLBy8WutvnSu7DN1cajrMWutvm/3rXDztLEx7j2
+vdA=?=
+Date: Fri, 16 Sep 2005 12:47:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+教育lz不解恨，代妞妞教训lz，piapia 狠揍lz pipi
+     lz揍了妞妞现在心疼了，我现在来好好教育教育lz
+     中国的教育模式是家长式的，对小孩打打骂骂
+     还是喜欢西方的教育模式，虽然不是很懂，但感觉那种比较友好
+※ 修改:・liuqingt 於 Sep 18 11:50:50 修改本文・[FROM: 218.247.142.*]

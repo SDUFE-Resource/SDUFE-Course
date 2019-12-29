@@ -1,0 +1,30 @@
+Received: from tfol.com ([221.236.5.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8820wkq006952
+	for <yang@ccert.edu.cn>; Thu, 8 Sep 2005 18:16:34 +0800 (CST)
+Received: (umta 23260 invoked by alias); Thu, 8 Sep 2005 10:28:33 -0000
+X-Lasthop: 61.139.64.53
+Received: from unknown (HELO happylele) (unknown@61.139.64.53)
+  by localhost with SMTP; Thu, 8 Sep 2005 10:28:33 -0000
+Message-ID: <001501c5b41a$dd6c9f80$2e838f0a@happylele>
+From: "xie" <xie@tanfoidc.com>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INeqyMPU0Li+t8C3+Mnkwu281w==?=
+Date: Thu, 8 Sep 2005 18:28:39 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2670
+Disposition-Notification-To: "zhangle" <zhangle@tanfoidc.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2670
+
+粗略看了一下。似乎是说按照离高压线远近分三组研究，分别是200m以内，200到600m
+和600m以上。结论：前两组的癌症发病率明显高于最后一组。
+但是这里边有两个问题
+1。按距离分组，没有按居住地的电磁场强度分组，削弱了说服力。
+2.最要命的是，超过200m后，高压线导致的电磁场已经低于背景噪声，为什么中间这一组的癌症发病率还是明显要高于最后一组？这个更削弱了结论。
+我的推测：
+或许是高压线辐射导致环境的某种变化，这种变化的分布和场强的分布不一致，从而导致上面的结果。那么辐射本身并不是导致癌症的直接原因。这个问题需要研究。
+     你俩真费劲

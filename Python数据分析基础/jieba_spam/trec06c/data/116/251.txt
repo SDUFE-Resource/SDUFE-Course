@@ -1,0 +1,47 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A7NDlm028500
+	for <bai@ccert.edu.cn>; Sun, 11 Sep 2005 17:38:31 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A7KBdR092194
+	for <bai@ccert.edu.cn>; Sun, 11 Sep 2005 17:36:04 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A7K7ld092190
+	for <bai@ccert.edu.cn>; Sun, 11 Sep 2005 17:35:26 +0800 (CST)
+	(envelope-from sxh@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 17:24:32 +0800
+Message-ID: <326336154.01040@mails.tsinghua.edu.cn>
+Received: from 59.66.122.238 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 11 Sep 2005 17:24:32 +0800
+From: "hong" <hong@mails.tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+Date: Sun, 11 Sep 2005 17:24:32 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INfcveG1xDGjrDPDrLbcUmU6IL3xzOy1xNDEx+m63LK7usO63LK7usN+?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: sxh <hong@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+我们就是做直接客户的
+因为中间会牵扯到一些技术及服务方面的问题
+没有通过渠道
+我也想好好考虑一个自己真正想做的行业，工作
+一头扎进去几年
+看看是不是会有些长进
+挺喜欢你的名字的，是常用JAVA编程吗？
+俺家公也是，所以看到特亲切：）
+     我到是挺想做销售的 觉得那样生活能充实一些
+     不过就现在来讲 不管做销售还是做市场 无线业务 电信 网络广告比较不错
+     做渠道 混个小头就差不多了 没有太多应酬

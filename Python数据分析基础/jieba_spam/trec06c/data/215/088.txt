@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3DEnC011057
+	for <hu@ccert.edu.cn>; Sun, 2 Oct 2005 16:33:45 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U37j6F080151
+	for <hu@ccert.edu.cn>; Sun, 2 Oct 2005 16:28:32 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U37hcH080147
+	for <hu@ccert.edu.cn>; Sun, 2 Oct 2005 16:28:14 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509300307.j8U37hcH080147@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodo-f4b2088bd3) (ksj00@202.112.4.221)
+	by localhost with SMTP; Sun, 2 Oct 2005 08:40:39 -0000
+Date: Sun, 2 Oct 2005 16:40:13 +0800
+From: "zhou" <zhou@mails.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvenJ3NK7uPbO0sjPyra1xMWuuqKjrLTzvNLGwMLb0rvPwg==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8U37hcH080147
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+她长得很小巧，五官清秀，笑起来很可爱，有点调皮，常捣蛋，是个半大不小的孩子。
+  她平时作事很认真，特别是学习方面，做起作业来很开心的样子，她说，读书满开心的。
+  有时候她很仔细，蛛丝马迹都能被她发现，有时候她又很马虎，很明显的错误都会范，比如说，她会忘了自己想说的话；在比如说，她会买完饭忘拿饭卡……
+  一见到她，给人的第一印象是文静，第二印象是腼腆…….第三印象是很活泼…….第四印象是疯子，哈哈，玩起来也是一心一意，笑容很灿烂，没有一点该有的样子。
+  还有，就是比较会体谅人，会关心人，但是总的说来感情比较比较内敛，不了解她的人，看上去她比较冷，不容易接近。
+   请大家说说看，这个女孩怎样？

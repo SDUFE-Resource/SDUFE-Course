@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <ye@ccert.edu.cn>; Sat, 24 Sep 2005 08:31:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <ye@ccert.edu.cn>; Sat, 24 Sep 2005 08:42:43 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 00:19:43 -0000
+From: "zhou" <zhou@mail.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Cc: <han@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMflu6rV4r/pu6q2+LK7yrW1xNXQxcbV5srHuqbIy7qm0tEhKM7SttTH5buqtcTJ7r/MuNDK
+3Ck=?=
+Date: Sat, 24 Sep 2005 08:42:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+简直莫名其妙
+感觉楼主不超过12岁
+     我和清华北大这中国两大牛校从来没有任何关系.但我小时候曾经特别景仰这两大牛校.
+     考北京的研究生之前,我就考虑过清华.后来,我发现清华的研究生收入远低于中国科学院,的任何一个研究所,我明白,清华只是有一个招牌,没有任何实惠.于是,我考上了中科院.
+     在北京的这几年,由于学术关系,我们经常和清华打交道.

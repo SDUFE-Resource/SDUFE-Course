@@ -1,0 +1,29 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <sun@ccert.edu.cn>; Mon, 29 Aug 2005 06:50:01 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 07:00:34 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Mon, 29 Aug 2005 07:00:34 +0800
+From: "xia" <xia@ctbu.edu.cn>
+To: sun@ccert.edu.cn
+Date: Mon, 29 Aug 2005 07:00:34 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "xia" <xia@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INK7uPbR0L6/yfq1xNf3z6LKsbzkse2jrMfrtPO80ta41f0=?=
+Content-Type: text/plain
+
+我的作息时间表：
+                08：30 起床、洗漱、早饭,顺便灌点水
+                09：30 - 11：30 学术科研
+                11：40 - 12：30 午饭
+                12：40 - 13：20 饭后灌水消化
+                13：30 - 14：30 午睡
+                15：00 - 17：30 学术科研 
+                17：40 - 18：30 晚饭
+                19：00 - 23：30 玩乐时间
+                00：00 睡觉
+     新学期作息时间表：
+                     07：00 起床、洗漱、早饭
+                     08：00 - 12：00 学术科研

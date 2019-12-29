@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <zheng@ccert.edu.cn>; Sat, 20 Aug 2005 07:16:25 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <zheng@ccert.edu.cn>; Sat, 20 Aug 2005 07:49:45 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Sat, 20 Aug 2005 07:30:44 +0800
+From: "you" <you@mail.nisac.gov.cn>
+Reply-To: you@mail.nisac.gov.cn
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILGxvqnA7b/GtdrSu8P7t8XG+sflu6rRodTxz+O427bBtPPRp6O/ICjXqtTYKQ==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+本来是恨正常的现象。
+不过“英语”的吸引力这么大，俺有点伤感
+     北京理科第一名放弃清华选择香港读大学？ 
+     ◇字体：［大 中 小］ 来源： 竞报 (08/17 03:53) 
+     　　本报讯　昨天是清华大学新生报到唯一的一天，在学校的接待处人们并没有见到今年北京的理科第一名陈秀野。据悉，这位第一名接到两张大学的录取通知书―――香港科技大学和清华大学。记者从香港科技大学驻京办事处了解到的情况是，该大学的新生报到截止日期为8月27日

@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j826MNsm028905
+	for <zheng@ccert.edu.cn>; Fri, 2 Sep 2005 14:28:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j826YvNG017832
+	for <zheng@ccert.edu.cn>; Fri, 2 Sep 2005 14:40:38 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Fri, 2 Sep 2005 06:28:49 -0000
+Message-ID: <00b101c5af87$e9547800$787d6fa6@hotline>
+From: "lei" <lei@mail.tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+vOytK7z8KjrEFDTcr9vt3A77XEzsTVwtT1w7TR+bLFxNzFqrW9cGRmzsS1tbCiICjXqtTY
+KQ==?=
+Date: Fri, 2 Sep 2005 14:36:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00AE_01C5AFCA.F7623430"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 Graduate 讨论区 】
+发信人: anger (paper！), 信区: Graduate
+标  题: 请问一下，ACM数据里的文章怎么样才能弄到pdf文档阿
+发信人: anger (paper！), 信区: DEE
+标  题: 请问一下，ACM数据里的文章怎么样才能弄到pdf文档阿
+怎么查到的都是网页形式的阿，还没法显示公式和图表

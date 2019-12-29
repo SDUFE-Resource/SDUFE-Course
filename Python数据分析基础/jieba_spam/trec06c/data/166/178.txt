@@ -1,0 +1,22 @@
+Received: from smtp.263.net (mx04.x263.net [211.150.96.24])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LDnGRe032370
+	for <gong@ccert.edu.cn>; Thu, 22 Sep 2005 05:23:35 +0800 (CST)
+Received: by smtp.263.net (Postfix, from userid 500)
+	id 62B4343643; Thu, 22 Sep 2005 05:35:02 +0800 (CST)
+From: =?gb2312?B?bmFtZQ==?= <gan@263.net>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMj1yPW1xM7KOrDmyc+1xNDWtdzKx7K7ysfDv7j21MK2vNKquPi4uMS40rvQqceuPw==?=
+Date: Thu, 22 Sep 2005 05:35:12 +0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+MIME-Version: 1.0
+X-Mailer: XMail-3.0
+Content-Type: multipart/mixed;
+	boundary="----=NextPart_263Mail-XMAIL-000-000-1127311244Ti4"
+Message-Id: <20050921140045.62B4343643@smtp.263.net>
+
+笨阿，每年给一次，显得数额很大，呵呵
+一个月给2000没啥感觉，过年一个红包装20000还是很厚的，要大号的才装得下
+     我实验室的同学大多数结婚了.他们是不是每个月给父母钱,我就不知道了.没有问过,也不好问这些.
+     但我们读博士大多数月收入2000多一点,我的任务多一些,导师给我的是3000多一点(保密哟,呵呵!).我们的硕士生是1500多元.
+     我不知道我们组的同学才那么一点钱是怎么给父母寄钱的.总之,我从来没有寄钱给任何人,我的父母并不缺我那一点钱.他们甚至经常还想给我寄一些钱.我想,就算我以后钱挣多了,我父母也不会需要我的钱.

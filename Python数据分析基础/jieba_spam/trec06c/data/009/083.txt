@@ -1,0 +1,36 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <xiao@ccert.edu.cn>; Thu, 18 Aug 2005 22:45:35 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <xiao@ccert.edu.cn>; Thu, 18 Aug 2005 22:58:53 +0800 (CST)
+Date: Thu, 18 Aug 2005 22:52:58 +0800
+From: "ma" <ma@sohu.com>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8/GuLjfvLbI7bz+uaSzzMqm?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+单位：清华同方数字电视系统本部媒体工程事业部
+招聘岗位：      高级软件工程师     2名
+岗位职责：
+负责卡拉OK点播及KTV业务系统相关产品软件的分析、设计和开发工作；
+负责关键技术研究，依据项目需求进行系统框架设计和核心模块的详细
+设计和开发工作。
+任职要求：
+        计算机或相关专业本科以上学历，有较强的技术实力
+        4年以上软件开发经验，一年以上项目管理经验
+        熟悉多媒体资源管理技术、数字水印技术、数字版权和VOD系统开发技术
+        熟练掌握C++/VC++、SQL等编程语言以及COM/DCOM开发技术
+        精通数据库设计，有SQL SERVER，MYSQL等数据库应用开发经验
+        有MPEG1、MPEG2、MPEG4文件的编码/解码系统开发经验
+        熟悉多媒体文件音视频轨道技术
+        有Windows、Linux等多操作系统平台的应用软件开发经验
+        熟悉DRM技术，并有实际应用开发经验者优先
+        具有良好的技术文档撰写能力
+        工作踏实，敬业，有良好的合作精神和沟通能力
+简历请发至：liaoyanhua@thtf.com.cn

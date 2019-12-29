@@ -1,0 +1,29 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <yi@ccert.edu.cn>; Thu, 29 Sep 2005 16:26:32 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 08:37:42 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 16:37:42 CST
+Date: Thu, 29 Sep 2005 16:37:42 +0800 (CST)
+From: liang ming <kang@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INf3zqrN9dvztcTNrNGno6zO0rXE0ru147+0t6g=?=
+To: yi@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+我建议版面禁止再讨论这个主题.没有多少讨论的意义了.
+     标  题: Re: 作为王垠的同学，我的一点看法
+     
+     这片要狂赞，很中肯
+     : 看到事情越来越像一出闹剧，这是大家都不愿意看到的情况。
+     : 作为跟王垠一个实验室并且是一个导师的同学，我想说说自己的一点看法。
+     : 首先，这件事情王垠处理的不够妥当。大家从他的文章措辞就以看出，他是
+     
+     --
+     

@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <zhao@ccert.edu.cn>; Sun, 21 Aug 2005 23:59:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <zhao@ccert.edu.cn>; Mon, 22 Aug 2005 00:12:40 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 16:07:17 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "chi" <chi@mail.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Cc: "tunet" <tian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0fnL487Sz7K7tsv7wvA/ztIuLi4u?=
+Date: Mon, 22 Aug 2005 00:09:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+网络怎么了
+这里可都是好人啊
+     通过先进的网络让我认识了他,仅仅是几小时的时间,最后竟然让我难以忘记.
+     那是一个周末的下午,在无聊的情况下就上网去聊了会天,平时是很少上网聊天的,因为我不喜欢网上聊天,跟一些陌生人有什么好聊的.可是那天抱着好奇的心进入了聊天室,双方聊的很好就互换了QQ,我的原则是QQ里不准有陌生人.就跟他说下线后将其删入黑名单,他一再请求我要留下他,

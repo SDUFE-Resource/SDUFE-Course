@@ -1,0 +1,22 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBHaMG026280
+	for <hua@ccert.edu.cn>; Thu, 15 Sep 2005 01:54:34 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id A7E89718597; Thu, 15 Sep 2005 02:06:25 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 139F3733E57; Thu, 15 Sep 2005 02:06:24 +0800 (CST)
+Message-ID: <053901c5b91f$8fe966d0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <hu@dlut.edu.cn>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?ofEgt8ezo8TVu/AssrvWqrXAuMPU9cO00aHU8SE=?=
+Date: Thu, 15 Sep 2005 02:06:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0536_01C5B962.9DFC0500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+最近几天很郁闷， 面临着要不要转博的选择：我是清华硕士,06年毕业，现在有机会转博,专业不是很好，自己也不是很感兴趣，但觉得放弃这个机会又有点可惜，想着读了博士以后起点毕竟要高一点。另外我男朋友在上海读博士，学校专业也都不错，两个人感情也很好，他不太赞成我在北京继续读，一方面认为两个人距离太远，分开太久，异地太累；另一方面也觉得我读博士太辛苦，他说我先工作一段时间等他毕业了两个人安定下来了我再读个在职的会好一点（如果有必要的话）。唉，不知道怎么办，好象怎么选择都有道理似的……有过来人给点建议么？谢谢啦！

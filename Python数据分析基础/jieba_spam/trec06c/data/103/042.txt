@@ -1,0 +1,27 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j874iPdV032722
+	for <kang@ccert.edu.cn>; Thu, 8 Sep 2005 18:21:58 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by smtp119.sohu.com (Postfix) with ESMTP id 84D5F0526C87
+	for <kang@ccert.edu.cn>; Thu, 8 Sep 2005 18:34:00 +0800 (CST)
+Date: Thu, 8 Sep 2005 18:34:09 +0800
+From: "xu" <xu@sohu.com>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob68sc7Kob9NS1a48cq9tcS159Ow08NncmVlbk1QQ7Klt8XDu9PQ19bEu6Os1PXDtLDso78g
+KNeq1Ng=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907045627.84D5F0526C87@smtp119.sohu.com>
+
+【 以下文字转载自 NewSoftware 讨论区 】
+发信人: alinasky (我爱木木), 信区: NewSoftware
+标  题: 【急问】MKV格式的电影用greenMPC播放没有字幕，怎么办？
+：（（（
+我用GreenMPC播放MKV格式的电影。很奇怪的是，
+在我台式机器里可以有中英文字幕，而且屏幕右下角出现DirectVobSub的图标（一个小箭头那个）
+可是我把GreenMPC放到本本里，就怎么也出现不了字幕了。
+不知道怎么回事？唯一不同的是，台式机是2000的系统，本本是XP的。
+哪位高手能帮帮我啊，急坏了。。。我是电盲，麻烦告诉一个最简单的方式～～～

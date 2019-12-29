@@ -1,0 +1,48 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AD9Mx3029876
+	for <qian@ccert.edu.cn>; Mon, 12 Sep 2005 11:13:36 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6dUu093533
+	for <qian@ccert.edu.cn>; Mon, 12 Sep 2005 11:11:07 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bluebox.CS.Princeton.EDU (bluebox.CS.Princeton.EDU
+	[128.112.136.38])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6ZAN093529
+	for <qian@ccert.edu.cn>; Mon, 12 Sep 2005 11:10:50 +0800 (CST)
+	(envelope-from wangyi@ns.6test.edu.cn)
+Received: from [140.180.169.187] (yiwang.student.Princeton.EDU
+	[140.180.169.187]) (authenticated bits=0)
+	by bluebox.CS.Princeton.EDU (8.12.11/8.12.11) with ESMTP id
+	j8ADL2a8029505
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <qian@ccert.edu.cn>; Sun, 11 Sep 2005 23:25:17 -0400 (EDT)
+Message-ID: <4322DDBC.1080807@ns.6test.edu.cn>
+Date: Sun, 11 Sep 2005 23:25:14 -0400
+From: Yi Wang <tang@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+MIME-Version: 1.0
+To: qian@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?vczKpr3av+zA1g==?=
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 mlx=-1
+	adultscore=0 adjust=0 reason=safe engine=3.0.0-05090301
+	definitions=3.0.0-05090911
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+还有，今天看到清华的失误真的很伤心!
+     高科技必然带来高风险，我觉得我们的失误可以原谅，大胆尝试挑战才是“挑战杯”的初衷，不过我觉得我们确实有几个很明显的硬伤：一是主题太杂了，不统一，又是申奥，又是教师节，又是风物，又是科技，分散注意力；二是节奏感不强，可能是科技含量比较高，不太成熟，三是
+     综上，成绩和努力有的，不过我们完全可以做的更好！
+     还有，

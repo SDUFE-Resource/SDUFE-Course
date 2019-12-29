@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J3gCnM014711
+	for <yuan@ccert.edu.cn>; Mon, 22 Aug 2005 14:04:59 +0800 (CST)
+Received: (eyou send program); Mon, 22 Aug 2005 14:12:56 +0800
+Message-ID: <324423409.11928@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 22 Aug 2005 14:12:56 +0800
+Message-ID: <324423409.11903@mail.tsinghua.edu.cn>
+Received: from 202.112.4.166 by 166.111.8.18 with HTTP; Mon, 22 Aug 2005 14:12:56 +0800
+From: guan@mail.tsinghua.edu.cn
+To: yuan@ccert.edu.cn
+Date: Mon, 22 Aug 2005 14:12:56 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgvLHH88flu6qhsMn6zu/Qxc+i0ae3vc/yobG/vNHQscq8xw==?=
+Content-Type: text/plain
+
+诸位xdjm，我有一个同学想考咱们学校生物信息学方向的研究生，让我帮他找专业课的笔记，具体为以下几门：
+    1，程序员教程 沈林兴、张淑平主编
+    2.系统设计师（高教程序员）教程   清华大学   
+    3.网络程序员教程   清华大信息产业部计算机软件专业技术资格和水平考试办公室  编  
+    4.电路原理 《电路》 邱光源 高等教育出版社99年（第4版） 
+    5.《电路原理》 江辑光 清华大学出版社 
+  尤其是1和5的笔记，他十分需要。呵呵，要是能有往年考研真题，那真是要感激涕零了。
+想想考研人很不容易，再加上他原本是学数学的，没有相关基础，呵呵，能帮一把的就伸出援助之手吧。当然，也不会白要的。
+  呵呵，如有意，回站内信箱吧。

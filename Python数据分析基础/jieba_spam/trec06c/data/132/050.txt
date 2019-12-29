@@ -1,0 +1,26 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <ding@ccert.edu.cn>; Wed, 14 Sep 2005 19:52:24 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Wed, 14 Sep 2005 20:04:23 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <ding@ccert.edu.cn>; Wed, 14 Sep 2005 20:04:22 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <che@dlut.edu.cn>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVv7TN6qG2zNOz9r/LwqG1uqG3?=
+Date: Wed, 14 Sep 2005 20:04:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+话说回来：
+原贴的意思，就是《the island&gt;这电影创意“不落俗套”，而不是“开一时风气”；前面有部《the clonus horror》创意彷佛，只说明它不是“史无前例”，没否定它“不落俗套”；你要做到否定它“不落俗套”，无疑得举证这个创意被N多电影用过，人们看厌了听烦了。
+另外后者的舆论评价似乎也不高，在IMDB上只有2.2/10的分数，简介认为“but it fails as the lead actor is so annoying and whiny you want him dead”，可以想见，当下大多数观众不会熟悉这影片；他的创意不为人知，相形而下创意彷佛的逃出克隆岛便更是“不落俗套”
+所以我不认为原贴说错了什么。
+     这电影我不知道，寡闻了。

@@ -1,0 +1,45 @@
+     1                                  ; hello.asm       print a string using printf
+     2                                  ; Assemble:	  nasm -f elf64 -l hello.lst  hello.asm
+     3                                  ; Link:		  gcc -m64 -o hello  hello.o
+     4                                  ; Run:		  ./hello > hello.out
+     5                                  ; Output:	  cat hello.out
+     6                                  
+     7                                  ; Equivalent C code
+     8                                  ; // hello.c
+     9                                  ; #include <stdio.h>
+    10                                  ; int main()
+    11                                  ; {
+    12                                  ;   char msg[] = "Hello world\n";
+    13                                  ;   printf("%s\n",msg);
+    14                                  ;   return 0;
+    15                                  ; }
+    16                                  	
+    17                                  ; Declare needed C  functions
+    18                                          extern	printf		; the C function, to be called
+    19                                  
+    20                                          section .data		; Data section, initialized variables
+    21 00000000 48656C6C6F20776F72-     msg:	db "Hello world", 0	; C string needs 0
+    21 00000009 6C6400             
+    22 0000000C 25730A00                fmt:    db "%s", 10, 0          ; The printf format, "\n",'0'
+    23                                  
+    24                                          section .text           ; Code section.
+    25                                  
+    26                                          global main		; the standard gcc entry point
+    27                                  main:				; the program label for the entry point
+    28                                          push    rbp		; set up stack frame, must be aligned
+    28          ******************       error: instruction not supported in 32-bit mode
+    29                                  	
+    30                                  	mov	rdi,fmt
+    30          ******************       error: instruction not supported in 32-bit mode
+    31                                  	mov	rsi,msg
+    31          ******************       error: instruction not supported in 32-bit mode
+    32                                  	mov	rax,0		; or can be  xor  rax,rax
+    32          ******************       error: instruction not supported in 32-bit mode
+    33 00000000 E8(00000000)                    call    printf		; Call C function
+    34                                  
+    35                                          pop     rbp		; restore stack 
+    35          ******************       error: instruction not supported in 32-bit mode
+    36                                  
+    37                                  	mov	rax,0		; normal, no error, return value
+    37          ******************       error: instruction not supported in 32-bit mode
+    38 00000005 C3                      	ret			; return

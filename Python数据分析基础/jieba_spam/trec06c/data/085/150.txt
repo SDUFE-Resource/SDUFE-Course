@@ -1,0 +1,57 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82FLbGe032642
+	for <pu@ccert.edu.cn>; Sun, 4 Sep 2005 14:58:29 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FJdh8031910
+	for <pu@ccert.edu.cn>; Sun, 4 Sep 2005 14:57:05 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j82FJK7s031906
+	for <pu@ccert.edu.cn>; Sun, 4 Sep 2005 14:56:27 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 4 Sep 2005 14:45:24 +0800
+Message-ID: <325673713.12029@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 4 Sep 2005 14:45:23 +0800
+From: yu@mails.tsinghua.edu.cn
+To: pu@ccert.edu.cn
+Date: Sun, 4 Sep 2005 14:45:23 +0800
+X-Priority: 3
+Content-Type: text/plain
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjTI1bmk1/e8x8K8?=
+Precedence: list
+Reply-To: yu@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+报失：
+王奇光     13811610867   钱包：咖啡色，内有IC卡、饭卡、照片、电话卡等；
+           62778531      丢失时间：9-4晚7:40；丢失地点：紫荆超市斜对面报刊亭
+周鲁飞     13810776664   钱包：棕色，内有研究生证、身份证、2张银行卡，2张餐卡;
+           62788120      丢失时间：9-4；丢失地点：西门-二校门-照澜院-南门一路
+           51534653
+陈文华     13810090973   打火机：zippo打火机，装在白色小盒;
+                      丢失时间：9-3晚；丢失地点：3号楼
+温曙光     13581542775   被套：02级入学发的那种;
+                      丢失时间：28号左右；丢失地点：十四食堂
+辛以（从） 13810776664   洗澡用具：塑料袋内装，洗澡用具、洗浴用品、拖鞋;
+                      丢失时间：9-3晚7:00；丢失地点：紫荆操场
+韩小英     13693314902   银色的京卡;
+                      
+李小鹏     51533510   新京卡：蓝色;
+                      丢失时间：9-1~9-3；丢失地点：十食堂取款处
+送交：
+曹毕飞     钥匙：三把，黑色胶柄，一大两小；
+           拣获地点：信托附近；拣获时间：9-4
+好心人     IC卡，餐卡
+领取：
+姬颖敏     IC卡，餐卡          

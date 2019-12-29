@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <yu@ccert.edu.cn>; Sun, 14 Aug 2005 21:42:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <yu@ccert.edu.cn>; Sun, 14 Aug 2005 21:55:40 +0800 (CST)
+Received: (eyou send program); Sun, 14 Aug 2005 21:50:35 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Sun, 14 Aug 2005 21:50:35 +0800
+From: guan@mail.tsinghua.edu.cn
+To: yu@ccert.edu.cn
+Date: Sun, 14 Aug 2005 21:50:35 +0800
+Reply-To: guan@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IFvT9MPGXdLRvq3O3reo0MXIzsq10enK0sHL?=
+Content-Type: text/plain
+
+典型的小孩的想法
+事情哪有你想的那么如意公平的
+等你上3年班，你再回想一下今天，你的理是不是可笑了点
+     真是典型70年代人的想法，什么“并且，不管老板让干什么，如果用一种积极的心态去面对，最终还是有收获的” 我觉得一定要和老板据理力争。
+     我下学期就是直博的第五年了，还在使劲做实验。我发觉现在没有作出结果的，除了特别笨的那种，都是被老板使唤来使唤去，中途调整了很多次题目的人。我4年时间多时间做了3个课题，前两个是作出了结果，但是老板不想深入于是被停掉，当然发了小文章，可能能够达到毕业SCI

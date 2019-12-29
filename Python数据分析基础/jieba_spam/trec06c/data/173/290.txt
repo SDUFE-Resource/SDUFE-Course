@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <peng@ccert.edu.cn>; Fri, 23 Sep 2005 18:03:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <peng@ccert.edu.cn>; Fri, 23 Sep 2005 18:14:59 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 09:51:59 -0000
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: peng@ccert.edu.cn
+Cc: <pu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgQ0NUVjbD5rbUxbfDwLnb1tqypbP2t6i5+rzNwrzGrKG2usa92aG3U0hPQUijoQ==?=
+Date: Fri, 23 Sep 2005 18:14:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+播出时间：北京时间凌晨1点。
+    针对时差问题，CCTV6特意将播出时间定为欧洲的晚上黄金时间，大受好评！美国观众也可在下午观看。
+    唯一遗憾的是，如果播放原版电影加以字幕配合，就完美了。否则导演特意选择多语言，就白费苦心了。
+    至于中国观众，由于太晚看不了的话，大可不必硬撑，用录像机定时录像即可，只是需注意节目播出时间误差半小时。
+以下是《浩劫》的有关介绍：
+http://zhongdian.net/shownews.asp?newsid=504
+http://www.qingyun.com/cgi-bin/ut/threaded_show.cgi?tid=80572&amp;pid=321748&amp;h=1&amp;age=100&amp;bpg=1

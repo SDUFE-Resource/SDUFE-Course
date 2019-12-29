@@ -1,0 +1,24 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <lin@ccert.edu.cn>; Sat, 20 Aug 2005 05:56:44 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <lin@ccert.edu.cn>; Sat, 20 Aug 2005 06:09:48 +0800 (CST)
+Date: Sat, 20 Aug 2005 06:04:05 +0800
+From: "zeng" <zeng@sohu.com>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMj9w+az/rjoKGEgbm92ZWwgb2YgbXlzZWxmLGFuZCBqdXN0IGEgbm92ZWwp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+我注意到这段了
+" 我一直是个很敬业的作者，敬业到了疯狂的地步
+一点点的悲痛都要无尽地去体会，并将它扩大到无穷，然后还满心期待如果将它们用文学
+形式完满地表现出来会是多么动人，继而把悲伤无限玩味。"
+这又何必呢....折磨自已又不是一件好事,唉
+     三 面 楚 歌
+                                       （一）
+     初识他，是在一个云集了各校尖子的数奥班。那时她九岁，蓓蕾一般的年龄。看到他的第一眼，她就预感到他们之间会有故事。

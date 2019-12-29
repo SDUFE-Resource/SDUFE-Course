@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <chi@ccert.edu.cn>; Thu, 1 Sep 2005 21:58:34 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <chi@ccert.edu.cn>; Thu, 1 Sep 2005 22:11:09 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 14:00:20 -0000
+From: "tan" <tan@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <tan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1eLKx9K7uPbOscP8zOJSZTogwM+5q7rN19S8urXEysLStaOsxOO74dGh1PHExNK7uPajvw==?=
+Date: Thu, 1 Sep 2005 22:11:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+当这两条放上天平的时候，二者已经不等价了
+把他们放上去的人显然心里已经有了答案
+提出这个问题很无聊，因为根本就不存在问题
+简化这个问题，就是“是不是还爱这个男人”
+答案很明显，就是不爱了（这里没有对错的概念，只是事实的判定）
+因为如果还爱，根本就不会提这个问题
+其余的都是废话和借口
+     假设这是一道单选题，你会选择哪一个？
+     一边是一个不那么爱自己但是也不是特别过分的丈夫，也是最亲爱的孩子的父亲，选择他意味着拥有完整的家庭
+     一边是能够让自己的精神和物质双重独立的事业，但是可能会失去完整的家庭，孩子会在

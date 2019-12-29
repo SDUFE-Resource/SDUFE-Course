@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3DEnC011057
+	for <zhuang@ccert.edu.cn>; Fri, 30 Sep 2005 22:37:44 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U37j6F080151
+	for <zhuang@ccert.edu.cn>; Fri, 30 Sep 2005 22:32:31 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U37hcH080147
+	for <zhuang@ccert.edu.cn>; Fri, 30 Sep 2005 22:32:13 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509300307.j8U37hcH080147@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodo-f4b2088bd3) (ksj00@202.112.4.221)
+	by localhost with SMTP; Fri, 30 Sep 2005 14:44:38 -0000
+Date: Fri, 30 Sep 2005 22:44:12 +0800
+From: "zhang" <zhang@mails.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9Pfwtu197LpXdK7z8I=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8U37hcH080147
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+    单位一个平时和你（女）没什么业务往来的同事（平常见面也不说什么话的）突然在你的生日给你写了封生日贺信，临到信最后还问你最近刚刚戴到手上的戒指有没有真实的含义？你的想法：
+A。同事之间相互问候，没什么的，谢谢人家就完了。
+B。有可能准备追求自己，少安毋躁。等等看，是不是还有下文。
+C。神经病，别是个性骚扰吧
+D。直接告诉他是不是有真实含义，省得今后说不清。（或者引入第三者，或者丢了一个追求者。）

@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <yang@ccert.edu.cn>; Fri, 26 Aug 2005 12:23:55 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 12:42:18 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 12:42:18 +0800
+Date: Fri, 26 Aug 2005 12:42:18 +0800
+From: wu@cernet.com
+Subject: =?gb2312?B?ofEgMjbL6sDPw7Sjvw==?=
+To: yang@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+每次回到家妈妈总是说，你岁数不小了，不该那么挑了，赶紧找个男朋友吧。因为心里年龄比较小的缘故呢，还是因为别的？我很少为这个操心，现在也是，多少是因为想结婚才想找个男朋友呢？只是希望能有个人在身边，高兴不高兴的事情可以和他说，无聊的时候就呆在他身边不用说很多话，只是安安静静的呆在他身边，静静的看着他。喜欢的人来了又去去了又来，到最后还是只剩下自己。
+我的个性其实挺强的，虽然看起来是个很温顺的女生。有时候很懂事，有时候又很任性。人其实都是一样的，对于喜欢的人，总是很体贴很懂事，不喜欢的就会变得很残忍。可是我觉得这样是对的，不该让别人误会，也不该给别人希望，满怀希望后失望才是最痛苦的。
+世界上的事情都是循环的，你让别人痛苦的时候，也该想想有一天这样的事情也会发生在自己身上的。以前一个追过我的男生变成了好朋友，在听完我的感情故事后他的一句话让我哑然“我当时也难过了一两个月才好起来的”。一瞬间因果报应的理论浮现在我的脑海里，我又有什么权利去抱怨别人呢？
+记得以前看过一篇文章，里面说男生和女生的区别就是，男生认为和不同的人都会获得幸福，而女生认为这个世界上只有那么唯一的一个人能带来幸福。我以前也这么想，而且因为这个想法难过的无法自拔，以为他带走了我这一生的幸福。后来才明白这就叫天真无邪。我的脑海里还存有很多天真的想法，也许我不该再坚持这些想法了，因为幸福才是最终的目标。

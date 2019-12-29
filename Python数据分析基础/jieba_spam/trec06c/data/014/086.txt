@@ -1,0 +1,32 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <he@ccert.edu.cn>; Fri, 19 Aug 2005 23:52:59 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <he@ccert.edu.cn>; Sat, 20 Aug 2005 00:26:19 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Sat, 20 Aug 2005 00:07:18 +0800
+From: "yuan" <yuan@mail.nisac.gov.cn>
+Reply-To: yuan@mail.nisac.gov.cn
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMKl1vfE1L/Hu7XBy1JlOiBDQ1RWMtX9t8W51cL006S2+bC4o6zO0tT1w7S+9bXDsLi3uMrH
+1No=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+上次在CCTV看到一个解救行动
+孩子几乎已经不认识亲生母亲了，等警察叔叔把他从养父母的手中抱走的时候还大哭
+养父母家里比较宽裕，能够给孩子一个良好的成长环境
+可惜孩子的亲生母亲是个未婚妈妈，没有文化，没有工作
+只能靠打零工赚钱养活他
+当时记者还就说了一句话：等他张大以后就会明白，即便是这样，和自己的亲生母亲
+相依为命也更好
+真的是这样吗？
+     其实我觉得说得也并不是完全没有道理
+     这些孩子来说
+     跟着那样狼心狗肺的父母

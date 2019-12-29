@@ -1,0 +1,54 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <weng@ccert.edu.cn>; Mon, 5 Sep 2005 20:00:31 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <weng@ccert.edu.cn>; Mon, 5 Sep 2005 19:58:47 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <weng@ccert.edu.cn>; Mon, 5 Sep 2005 19:58:27 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Mon, 5 Sep 2005 11:47:39 -0000
+Date: Mon, 5 Sep 2005 20:08:31 +0800
+From: "peng" <peng@mails.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgudjT2jIwMbvh1LG/qNDeuMTD3MLruvPWsb3TsuW/qLK7xNzTw7XEzsrM4iAo16rU2Ck=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <xu@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 INET 讨论区 】
+发信人: sea8382093 (萧墙), 信区: INET
+标  题: 关于201会员卡修改密码后直接插卡不能用的问题
+《201俱乐部会员服务手册》第8页：
+“3、注意：……”
+一般出现的问题是在未插卡状况下通过2012语音提示修改了密码
+这个密码只是修改了在总服务器上的密码
+但是电话卡的芯片密码并没有改掉
+解决修改密码后插卡提示密码错误的问题可按照以下流程
+写卡流程：
+1、插入201卡，按电话机上“写卡”会听到“嘟”的一声提示
+2、按2012#
+3、1#
+4、卡号#
+5、新密码#
+6、按电话机上“确定”会听到“嘟嘟”表示写卡成功

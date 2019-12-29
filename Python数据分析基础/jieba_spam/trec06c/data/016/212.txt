@@ -1,0 +1,29 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <lin@ccert.edu.cn>; Sat, 20 Aug 2005 11:23:20 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <lin@ccert.edu.cn>; Sat, 20 Aug 2005 11:36:22 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 11:59:50 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: huang@126.com
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTN0+jO0rfWyta1xNPCxviwyQ==?=
+Date: Sat, 20 Aug 2005 11:31:04 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+         和gg在鹊桥相识，当时初识网络，不知深浅，发帖时写了一两句我认为的事实，不料这句没啥恶意的话却让水车们吵得不可开交，有人觉得我很幽默，有人觉得我太可恶。gg就在那时给我发信，只有两个字，“呵呵”。那个时候我不怎么上网，觉得这两个字憨得可爱（怎知原是被
+         后来矛盾就来了。他往我这跑得很勤，每天在我这吃两顿。开始没什么，几个月过去后我觉得有些不大对头，憨也不是这个憨法吧，他的补助加兼职收入是我的好些倍呢，并且我们除了吃饭几乎没有别的开销（电话费各付各的）。征求了水车们的意见后，我决定跟他挑明的说：他
+         私生活方面也有问题，以至于很长一段时间我都怀疑自己是不是xld，由于不和谐，我对这方面完全没了兴趣，但他不是，他恨不得每天都ml就好。于是我很抵触他，每次他打电话说，“我来了哦！” 我就会尽可能的推脱掉，于是感情也就没法好起来了，他认为我只有不想下楼吃

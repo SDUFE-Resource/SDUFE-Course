@@ -1,0 +1,57 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <wu@ccert.edu.cn>; Wed, 14 Sep 2005 21:04:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <wu@ccert.edu.cn>; Wed, 14 Sep 2005 21:16:36 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 12:59:24 -0000
+From: "zhou" <zhou@mail.tsinghua.edu.cn>
+To: wu@ccert.edu.cn
+Cc: <he@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjEyyNW5pNf3vMfCvA==?=
+Date: Wed, 14 Sep 2005 21:16:31 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+报失
+贾璐盈  51531208     3个水杯：600ml粉色，1000ml蓝色，800ml蓝色
+                     丢失时间：9月10日，          丢失地点：西操
+向征    51532298     钥匙：有2005 English camp钥匙扣，还有一把防盗门钥匙
+                     IC卡
+                     丢失时间：9月11日晚，        丢失地点：东区浴室
+贾煜亮  13810747308  钥匙：十字钥匙一把，门钥匙一把，小钥匙、铜钥匙各一
+                     IC卡
+                     丢失时间：9月12日晚，        丢失地点：紫荆操场
+孙洛丹  62791667     学生IC卡，
+                     丢失时间：9月12日中午，      丢失地点：路上
+田磊    62778543     学生IC卡，
+                     丢失时间：9月11日晚，        丢失地点：东区澡堂
+高翔飞  51531256     学生IC卡，
+                     丢失时间：9月12日中午，      丢失地点：不详
+刘华羽  13581803121  学生IC卡，
+                     丢失时间：9月初，            丢失地点：不详
+冯秀娟  51531078     眼镜，蓝黑色，有框
+                     丢失时间：8月19日，          丢失地点：不详
+孔睿    13581878039  书包，红黑色，内有笔袋、水壶、笔记本等
+                     丢失时间：9月10日晚，        丢失地点：十四食堂
+蔡万里  13141301942  钱包，黑色，内有身份证，
+                     丢失时间：9月11日晚          丢失地点：荷塘
+邵佰能  13466535288  钱包，黑色，内有身份证，IC卡，2张银行卡等
+                     丢失时间：9月12日晚     丢失地点：开放实验室到图书馆路上
+王强    51534333     钱包，灰色，内有学生证IC卡，邮政储蓄卡等
+                     丢失时间：9月1日后      丢失地点：公寓到中央主楼的路上
+送交
+李腾                 钥匙：三把钥匙，其中一把为宿舍钥匙，一把指甲刀。
+                     捡获时间：9-12日12:30，捡获地点：十食堂向北不远
+李茸                 钥匙：一串三大两小。
+                     捡获时间：9月12日10:00，捡获地点：紫荆5#南2门外
+好心人               IC卡               
+领取
+刘静                 IC卡
+友情提醒：请大家骑自行车时不要听随身听，以免掉落物品不知！ 

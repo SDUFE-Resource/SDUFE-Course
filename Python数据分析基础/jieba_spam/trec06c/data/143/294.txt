@@ -1,0 +1,44 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <zhong@ccert.edu.cn>; Sat, 17 Sep 2005 02:15:18 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <zhong@ccert.edu.cn>; Sat, 17 Sep 2005 02:31:53 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <zhong@ccert.edu.cn>
+	; Sat, 17 Sep 2005 02:31:53 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <zhong@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 01:56:54 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "lian" <lian@njnu.edu.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INDEveG08rK7v6rByyy087zSsO/PwsOmsMk=?=
+Date: Sat, 17 Sep 2005 02:27:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+免了，呵呵，你真热心
+     标  题: Re: 心结打不开了,大家帮下忙吧
+     
+     找到了吗？要不给你介绍一个。
+     
+     : 其实我最想找的，是一个让我心甘情愿听他的话的男人。
+     
+     
+     --
+     你曾是我梦想里的梦想；
+     我却是你回忆中的回忆；
+     秋风起处，落叶分飞，
+     只留下忘却后的忘却。
+     这个冬天会很冷。 
+     
+     

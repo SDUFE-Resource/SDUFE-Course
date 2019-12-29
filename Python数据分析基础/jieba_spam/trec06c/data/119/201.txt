@@ -1,0 +1,54 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <han@ccert.edu.cn>; Mon, 12 Sep 2005 08:08:58 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <han@ccert.edu.cn>; Mon, 12 Sep 2005 08:06:13 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <han@ccert.edu.cn>; Mon, 12 Sep 2005 08:05:15 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Mon, 12 Sep 2005 08:16:47 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Mon, 12 Sep 2005 08:19:23 +0800
+From: "jin" <jin@runway.cn.net>
+To: han@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILfowcsuLi4=?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: jin@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+我的理解力不行？
+     标  题: 疯了...
+     
+     我们宿舍集中班的mm说起她当初答应给床位借宿的过程：
+     
+     收到短信：我是xxx 我有点事儿想找你帮忙
+     mm想：嗯？我认识的人里有叫xxx的么？高中同学？初中同学？
+     回短信：哦 我的宿舍电话xxxxxxxx 你打过来吧
+     说了老半天 宿舍mm最后问了一句：不好意思 我还没想起来你是谁
+     电话那头3s没声 最后说：我是结31的xxx
+     
+     - - 晕死...
+     
+     
+     --
+      

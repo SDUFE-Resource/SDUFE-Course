@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U53DPo005755
+	for <lin@ccert.edu.cn>; Thu, 1 Sep 2005 16:33:25 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM000EEHS793G@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 1 Sep 2005 16:51:21 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 1 Sep 2005 16:51:21 +0800
+Date: Thu, 1 Sep 2005 16:51:21 +0800
+From: kong@cernet.com
+Subject: =?gb2312?B?u9i4tA==?=:Re: =?gb2312?B?zOG42aOs17zI67/Y1sa8vMr1?=
+To: lin@ccert.edu.cn
+Message-id: <b4fd5b8fe1.b8fe1b4fd5@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+发信人: Wilczek (Asymptotic Freedom), 信区: AimGraduate
+标  题: 物理类SCI论文寻求署名合作者
+如果您拥有一篇署名的SCI论文，那么您在考研的征程中就具有了更大的优势！本人现在有一些文章初稿已经完成，但是还需要一些数值方面的工作和结果，很简单，用matlab就能搞定。现在寻找合作者，一起合作完成论文，然后投稿给核心期刊或SCI刊物。署名顺序可按照姓氏笔划排序，或者其他方式。你要先付一定的订金，并写好合同，如果成功发表，再付剩下的报酬。如果最终没有被发表，我将退还定金。
+强调：是合作，你必须参与到论文工作中，当然我会尽力帮助你。
+请志同道合者站内联系。或发短信到13811119662。
+本人已发表SCI论文：Chinise Physics Letters 1篇，Physical Review D一篇，Physics Letters B 一篇， Modern Physics Letters A 一篇。

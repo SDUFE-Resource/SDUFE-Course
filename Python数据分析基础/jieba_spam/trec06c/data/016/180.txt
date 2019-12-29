@@ -1,0 +1,36 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8V0cL023464
+	for <liu@ccert.edu.cn>; Sat, 20 Aug 2005 10:56:14 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 40F4F0045593
+	for <liu@ccert.edu.cn>; Sat, 20 Aug 2005 11:09:32 +0800 (CST)
+Date: Sat, 20 Aug 2005 11:03:38 +0800
+From: "xin" <xin@sohu.com>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9eqyMNd0rvQqcr90ae6zbzGy+O7+rXEyumjqNPQwvTT0MvNo6k=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084420.40F4F0045593@sohumx06.sohu.com>
+
+站内联系：
+高等数学简明教程（1-3册）  李忠 周建莹  编著 北大出版社  很新的
+                       （原价分别为15元，13.5元，14元；现价每本5元）
+线性代数  第二版   居余马 编     清华大学出版社  很新的（原价16元，现价5元）
+线性代数引论   蓝以中、赵春来等编   北大出版社   很新的（原价16.5元；现价5元）
+05年数学 考研复习指南-经济类   陈文灯（原价47元，现价15元）
+00年数学 考研复习指导-理工类   李正元编  （原价31元，现价10元）
+C语言程序设计   谭浩强    清华大学出版社（原价26元，现价15元）
+C程序设计题解与上机指导   谭浩强 清华大学出版社（原价19.5元，现价10元）
+C++程序设计语言教程（语言基础） 麦中凡  北京航空航天大学出版社（原价25元，现价10元）
+C++程序设计语言教程（编程技术） 麦中凡  北京航空航天大学出版社（原价22元，现价10元）
+买以上书者，送下列书：
+离散数学三分册的相应习题集：数理逻辑、集合论与图论、代数结构与组合数学  北大出版社（北大计算机软件专业考研必用）       
+软件工程   第一版   王立福等编     北大出版社
+数据结构   陈本林等编    南京大学出版社
+操作系统    孙钟秀  高教出版社
+数据库    南京大学用书
+程序设计   南京大学用书
+数据结构习题集  严蔚敏 

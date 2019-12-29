@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <xiao@ccert.edu.cn>; Sun, 21 Aug 2005 22:23:02 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <xiao@ccert.edu.cn>; Sun, 21 Aug 2005 22:36:16 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 22:04:57 +0800
+Date: Sun, 21 Aug 2005 22:36:07 +0800
+From: "lin" <lin@wnt.com.cn>
+To: xiao@ccert.edu.cn
+Cc: "lic" <lei@ccert.edu.cn>, "sunt" <mo@ccert.edu.cn>, "caoy" <xing@ccert.edu.cn>,
+        "wangb" <zeng@ccert.edu.cn>, "songhm" <wua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/W1NrJ7cnP0rvXpdK7xqzGrLXEuO208Q==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+良久没有过敏症状以后，即便停药，症状也会好转甚至消失。
+扑尔敏的抗药性，好像还没有临床报告和记录
+     标  题: Re: 现在身上一抓一片片的疙瘩
+     
+     这种抗过敏药停了就没有用了吧？
+     
+     : 不幸言中。
+     : 扑尔敏管用，多吃一段时间，其实也不是很困
+     
+     
+     --
+     真理＝好好学习，天天向上
+     
+     

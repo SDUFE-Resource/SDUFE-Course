@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85Brq7S017804
+	for <pan@ccert.edu.cn>; Wed, 7 Sep 2005 14:38:35 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j85C6Fu5015902
+	for <pan@ccert.edu.cn>; Wed, 7 Sep 2005 14:50:58 +0800 (CST)
+Message-Id: <200509051206.j85C6Fu5015902@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 7 Sep 2005 06:37:24 -0000
+From: "liu" <liu@mail.tsinghua.edu.cn>
+To: pan@ccert.edu.cn
+Cc: <jian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S0qrKx8Tjxa7F89PRvvi21Lj6xOO31srWUmU6INfyze3DqNPWxNbBy9K70rk=?=
+Date: Wed, 7 Sep 2005 14:50:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5B255.40DC4970"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWyEjKLgqxyovE3TYCvYclclUUw1Q==
+
+mm不要激动
+我觉的这里食肉的，还没到残害动物那层。。。
+         我不是学生物的，不知对不对，而且我可能是理想主义者，
+     所以，我觉得，现在我们所处的生态环境是不是有点不平衡？为啥每天都有物种要从地球上永远消失？
+         如果平衡了，呵呵，不知是什么样子，我个人认为那样的话每个物种对大家所共有的生存环境做的贡献是一样多的。虽然按照达尔文的适者生存理论仍然不能避免出现我所不愿看到的“死亡”，尤其是可爱的、娇小的动物的死亡，但是没办法，这个食物链，是自然规律。

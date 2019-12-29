@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <zhuang@ccert.edu.cn>; Mon, 26 Sep 2005 18:15:27 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <zhuang@ccert.edu.cn>; Mon, 26 Sep 2005 18:26:45 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 26 Sep 2005 10:02:11 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "hou" <hou@mail.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Cc: <tian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyq7Su76pvby2rNTmssnVqsDW?=
+Date: Mon, 26 Sep 2005 18:26:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+我种植园是离市区最近的零售及采摘冬枣.梨.葡萄于一体的种植园.距离颐和园4公里,百望山国家森林公园1.5公里,圆清路直达,交通便利.
+我园采用绿色食品标准生产,施用优质有机肥料,农家肥.生产出的产品口感纯正,原汁原味,保证是无污染的安全,优质,营养的农产品.我园以采摘销售为主,批发零售为辅,.本园为您金秋采摘游提供了一个好去处,为十一旅游增添一景.我们真诚的欢迎您的光临!
+ 主营产品：冬枣,梨，葡萄
+联系人：赵鑫 联系电话：13661219280，13691415070
+北京农欣冬枣种植园
+十一京郊冬枣采摘乐~~欢迎光临
+十一我给朋友打工卖冬枣~`所以在这里先吆喝一下下

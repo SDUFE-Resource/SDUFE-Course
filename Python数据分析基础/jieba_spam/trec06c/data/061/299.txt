@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <tan@ccert.edu.cn>; Wed, 31 Aug 2005 14:07:19 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 14:10:11 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 14:10:11 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 14:10:11 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 06:03:34 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 13:55:44 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 13:55:44 +0800
+From: xu@mails.tsinghua.edu.cn
+To: tan@ccert.edu.cn
+Cc: li@ccert.edu.cn
+Date: Wed, 31 Aug 2005 13:55:44 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILbBsqnSu8C0tdrSu7TO1ebV/dDEt7M=?=
+Content-Type: text/plain
+
+那也是很好的能力啊
+善于交流和写报告，就善于写文章了，只要有paper还怕毕不了业吗？
+     hehe，谢谢hitboy和joojle的安慰：）
+     但是，老师好像没有耐性等我：）昨天还批了一顿，他接的工程项目要做那：（没有时间容我象蜗牛一样起步：（这就是我目前的问题症结。一旦他对我失去interesting，瞧不上我，我怕我难以毕业压：（  问题实在是太实际了，我也相信自己一定能学好，可毕竟需要时日压：（小

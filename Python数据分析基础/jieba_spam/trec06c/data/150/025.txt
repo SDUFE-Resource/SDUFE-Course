@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <tian@ccert.edu.cn>; Sun, 18 Sep 2005 06:17:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <tian@ccert.edu.cn>; Sun, 18 Sep 2005 06:29:03 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 22:09:45 -0000
+From: "zhu" <zhu@mail.tsinghua.edu.cn>
+To: tian@ccert.edu.cn
+Cc: <pan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsq24MnZyMvU3s2so78=?=
+Date: Sun, 18 Sep 2005 06:28:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+感情好时还可以，
+但即使好时也各有一本帐，
+也只有女生才会想以后是一家人。
+     不赞同
+     自然就好
+     我和GG是一起商量着来的，见面了再商量
+其实算起来，这段时间还是我花得多，不过我也不心疼我的钱，给自己家里人买东西么，呵呵
+PS：我一边上学一边还在公司里实习，收入还可以了，GG最近还没出去实习，所以只有实验室发的一些银子，不过他再搞一篇SCI就能出去实习了，到时肯定比我哦银子拿的多，嘿嘿，到时就吃他穿他了
+感情好，钱都是大家的，谁花都一样

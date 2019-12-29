@@ -1,0 +1,54 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <liu@ccert.edu.cn>; Fri, 2 Sep 2005 01:32:05 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <liu@ccert.edu.cn>; Fri, 2 Sep 2005 01:44:41 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 17:33:16 -0000
+From: "sun" <sun@mail.tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Cc: <chen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgwarP69HQvr/UutGnyfrR0L6/1LHV0Ma4xvTKwg==?=
+Date: Fri, 2 Sep 2005 01:44:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+           联想研究院学生研究员招聘启事
+A)      招聘对象:  在校硕士/博士
+B)      工作地点:  北京
+C)      岗位职责:  研究多设备动态互联环境下P2P网络应用、协议及原型系统开发
+D)      岗位要求
+        (1) 电子/通信/计算机相关专业
+        (2) 熟练掌握C/C++语言，熟练掌握VC应用程序开发，熟悉COM编程技术
+        (3) 熟悉TCP/IP、HTTP、RTP等相关网络协议
+        (4) 有过实际项目开发经验
+E)      能力要求
+        (1) 良好的逻辑推理能力
+        (2) 良好的沟通技巧及团队合作精神
+F)      性格特征:  乐观，开朗，想象力和创新精神，喜欢运动
+G)      联系人:
+        黄先生
+        010-58861046
+        huangjnb@lenovo.com
+附：联想研究院学生研究员简介
+    联想研究院通过设立学生研究员岗位一方面为在校学生提供国内一流企业技术研究和开发环境，使得学生研究员能够将学校里学到知识加以实践，另一方面，联想研究院不断的通过学生研究员岗位获取更多的创新思维和潜在的人才。
+附：网络架构与标准研究室简介
+    网络架构与标准研究室隶属于联想中央研发机构联想研究院，该研究室负责联想研究院协同计算及3C融合领域内的中长期基础技术研发。该研究室的方向目前集中于3C融合应用标准研究/国际标准合作/国内标准制定、3C融合背景下的关键应用场景/原型系统/基础技术/专利布局等方面的探索与研究。
+附：新联想研发状况简介
+    新联想拥有以中国北京、美国罗利、日本大和三大研发基地为支点的全球研发架构。在中国大陆，联想还拥有北京、深圳、上海和成都四大研发机构。联想和IBM PCD都具有悠久的技术创新传统，新联想将秉承双方在创新方面的特质，持续不断地进行技术研发投入。创新将是联想的品牌基因。
+    近800名原IBM PCD研发人员加入联想的研发团队（其中有许多世界级的著名技术专家），他们与联想原有的1000余名研发人员融合在一起。这个优秀的团队，过去曾获得过数百项技术和工业设计大奖，拥有超过2000项专利技术，开创了业界诸多第一。
+    联想最大的创新优势，在于把最新的研发成果从实验室带到市场，转化为生产力并改善人们的工作和生活。新联想研发领域集中于：
+--&gt;    PC（笔记本电脑、台式电脑）创新性技术
+--&gt;    THINKVANTAGE技术
+--&gt;    以关联应用为核心的协同计算技术
+--&gt;    移动及无线技术
+--&gt;    可信计算技术
+--&gt;    用户研究及创新设计
+--&gt;    3C融合的新产品、新技术
+--&gt;    其他创新技术

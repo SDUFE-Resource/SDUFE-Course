@@ -1,0 +1,44 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <fu@ccert.edu.cn>; Thu, 29 Sep 2005 12:25:08 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 04:36:19 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 12:36:18 CST
+Date: Thu, 29 Sep 2005 12:36:18 +0800 (CST)
+From: liang ming <fan@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgW9eqzPldus3L/bfWytajrMrH0vLOqs7SuuG0qcLtwrc=?=
+To: fu@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+ [转贴]和她分手了，是因为我横穿马路
+发信站: BBS 自由空间站 (Tue Sep 27 14:00:15 2005), 站内
+和蓝分手了，蓝是个很好的女孩，很漂亮也很温柔，虽然很多朋友说我离开她很傻，可我还
+是放手了，虽然我很舍不的。
+第一天， 她没有起床，把自己用被子捂的严严实实的，她宿舍的人都不敢去安慰她，她一
+天都没有吃饭，连刷牙洗脸都没有，晚上睡觉的时候我听 到她在被子里抽泣。
+第二天， 今天她吃饭了，是她的宿舍同学强制性的让她吃的，她的眼眶红红的，我总说她
+是个爱哭鬼，她每次都噘着小嘴说她不是。
+第三天， 今天她穿的很妖艳，走进一家酒吧，喝了好多酒，用一种很诱惑的眼光环视全场
+，好多人上来搭腔“小姐，你好漂亮啊”。她喝了很多， 当一个年纪可以做她爸爸的男人
+对她说“小姐，我送你回家吧”的时候她把手中的酒全泼在他的脸上，那个该死的老头扬起
+他的手掌就要 打下去的时候，小睦他们来了，救了蓝，这一切我都知道，我就在酒吧的一
+个角落里看着。
+第四天， 今天她早早就起床了，忙忙碌碌一上午，然后把自己关在浴室里好久，当舍友们
+踹门进去的时候都惊呼到：好干净啊。
+第五天， 她开始学习了，其实她原来学习很好，我们开始后受我影响她的成绩也退步了，
+这也好，转移一下注意力，恢复的也快。
+三个月后。。。。她做了学生会主席，她越来越能干，也开朗了不少，马上她就要靠研了。
+一年后。。。。。在她身边的男人很多，比我优秀的也很多，可她根本没在意过，不过她和
+凌很好，校园里传他们的关系很暧昧。她只是 把他当哥哥，可是流言是挡不住的。
+三年后。。。。。她要结婚了，新郎是凌，她在写结婚请贴，一张，两张，三张，，，写到
+第十二张的时候她哭了，趴在桌上眼泪完全抑 制不住，我上前一看，所有的喜贴新郎写的
+都是我的名字。
+我也很想哭，可是鬼魂是不能哭的，我没有眼泪。
+三年前，我横穿马路，遇上车祸，手里提着要给她庆祝生日的蛋

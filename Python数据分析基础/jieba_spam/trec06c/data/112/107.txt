@@ -1,0 +1,45 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j887XQsh010493
+	for <kong@ccert.edu.cn>; Sat, 10 Sep 2005 19:18:15 +0800 (CST)
+Received: from cernet27fd8164 ([211.68.120.195])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMH00N00N4S0F@mail.cernet.com> for
+ report@ccert.edu.cn; Sat, 10 Sep 2005 19:35:41 +0800 (CST)
+Date: Sat, 10 Sep 2005 19:30:34 +0800
+From: noc-serv <huang@cernet.com>
+Subject: =?gb2312?B?ofEgudjT2rX31fuyqcq/yfq1vMqmu/m98Leit8Ww7Leo09C52M7KzOK1xM2o1qp6eg==?=
+To: kong@ccert.edu.cn
+Cc: lai@ccert.edu.cn
+Message-id: <044d01c5b449$526d3c30$c37844d3@cernet27fd8164>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+
+关于调整博士生导师基金发放办法有关问题的通知
+清校发〔2005〕39号
+各相关单位：
+我校博士生导师基金（以下简称博导基金）自1999年设立，学校按额度下发给博士生导师，
+由导师根据博士生的学术表现及业绩，作为其生活补贴按月发放。博导基金发放几年来，对
+我校吸引优秀生源、确保博士生基本生活水平起到重要作用。随着我校博士生培养规模不断
+扩大，博士生在通过承担导师科研项目来完成自身培养的过程中，为学校近年来科研经费的
+不断增长做出了重要贡献；另一方面，博导基金占学校整体经费比例逐年加大，已对研究生
+教育教学基本建设投入造成影响。综上原因，经2004～2005学年度第21次校务会议（2005年
+6月27日）讨论通过，决定在不降低博士生基本生活水平的基础上，自2005年秋季学期开始
+调整我校博导基金发放办法。现就有关问题通知如下：
+一、允许参加课题研究工作的博士生的生活补贴从其导师所支配的课题经费中列支，学校不
+再额外发放博导基金。
+二、上述博士生生活补贴按学期结算，每学期初由导师交转至所在院（系）统一帐号，由院
+（系）核定发放名单及额度后发放给博士生。
+三、学校对长期从事基础理论研究、科研经费确有困难的博士生导师继续提供博导基金，以
+确保其博士生的基本生活水平。该基金以学期为单位，由导师申请，学校审核，定期调整。
+每位导师最多申请3名博士生的博导基金支持。
+四、博士生导师根据其博士生在课程学习以及学位论文工作方面的实际表现，可降低或停发
+上述生活补贴。降低或停发生活补贴应经所在院（系）主管副院长（副系主任）批准，并通
+知到博士生本人。
+五、调整博导基金发放办法的实施细则由研究生院负责制定。
+六、本通知由研究生院负责解释。
+清华大学
+二○○五年九月一日

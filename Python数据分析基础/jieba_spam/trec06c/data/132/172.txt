@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <ke@ccert.edu.cn>; Wed, 14 Sep 2005 22:06:11 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <ke@ccert.edu.cn>; Wed, 14 Sep 2005 22:18:09 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 14:00:57 -0000
+From: "fan" <fan@mail.tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+Cc: <lu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INTasfC1xLXYt72/tLW9wcujrLeowsm21LzSsvq1xMu1w/c=?=
+Date: Wed, 14 Sep 2005 22:18:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+恩,和俺理解的一样
+     看到有人说到遗产继承，给大家提供点法律意见：
+     在没有遗嘱的情况下，中国的法律规定是：首先分割夫妻财产，夫妻各占一半儿；其次将死者的那份财产（总数的一半儿）作为遗产分割，顺序是：第一顺序继承人――配偶、父母、子女，三等分，各三分之一。那么在死者的遗产中，配偶又得到三分之一，父母得到三分之一（无论父
+     如果没有父母或者没有子女，那么配偶和子女或者父母平分遗产，各得二分之一；如果配偶父母子女都没有，才轮到第二顺序继承人：祖父母、孙子女、兄弟姐妹。

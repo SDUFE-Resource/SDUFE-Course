@@ -1,0 +1,42 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBMZaM026296
+	for <gao@ccert.edu.cn>; Wed, 14 Sep 2005 19:24:51 +0800 (CST)
+Received: (eyou send program); Wed, 14 Sep 2005 19:18:33 +0800
+Message-ID: <326696577.15347@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 14 Sep 2005 19:18:33 +0800
+Message-ID: <326696577.15331@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 14 Sep 2005 19:18:33 +0800
+From: qian@mail.tsinghua.edu.cn
+To: gao@ccert.edu.cn
+Date: Wed, 14 Sep 2005 19:18:33 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1eayu8P3sNc=?=
+Content-Type: text/plain
+
+为什么演员角色名都用英文
+向外国人宣传中国电影么
+导演张艺谋 Yimou Zhang    
+演员Yuying Feng   TV Receptionist 
+Enman Gao   Teacher Gao 
+Ma Guolin   Bus station man 
+Rong Huimin   Student 
+Jiao Jie   Student 
+Fanfan Li   TV Host 
+Li Lingyu   Student 
+Hanzhi Liu   Zhang Huike\'s mother 
+Mei Bai   Manager, Juxin Restaurant 
+Li Mel   Student 
+Zhang Mingshan   Student 
+Liu Ru   Train station announcer 
+Wang Shulan   Stationery store clerk 
+Zhimei Sun   Sun Zhimei 
+Zhenda Tian   Village Chief 
+Wu Wanlu   TV station manager 
+Minzhi Wei   Wei Minzhi 
+Ming Xinhong   Student 
+Fu Xinmin   TV station director 
+Tian Xuewei   Student 
+Zhang Yichang   Mr Zhang, instructor 
+Huike Zhang   Zhang Huike 
+Xu Zhanqing   Brick factory owner 
+Sun Zhiwei   Student 

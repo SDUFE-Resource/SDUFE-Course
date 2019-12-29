@@ -1,0 +1,31 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <wua@ccert.edu.cn>; Sat, 27 Aug 2005 02:08:49 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 02:27:09 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 02:27:09 +0800
+Date: Sat, 27 Aug 2005 02:27:09 +0800
+From: zhu@cernet.com
+Subject: =?gb2312?B?UmU6ILuqzqrSqsjLIQ==?=
+To: wua@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+够生活
+     标  题: Re: 华为要人!
+     
+     
+     这点钱在深圳能干吗啊?
+     : 只要本科，CET4,计算机、通讯、电子、信息相关工程专业，
+     : 无需工作经验。
+     : 3000元以上起薪，工作地点深圳。
+     
+     --
+                                                  

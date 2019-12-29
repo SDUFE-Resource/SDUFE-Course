@@ -1,0 +1,47 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <ning@ccert.edu.cn>; Fri, 2 Sep 2005 00:33:24 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <ning@ccert.edu.cn>; Fri, 2 Sep 2005 00:45:59 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 16:35:10 -0000
+From: "zhong" <zhong@mail.tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Cc: <ni@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPWxKrD+8bkw+6xu2tpa8HL?=
+Date: Fri, 2 Sep 2005 00:45:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+202.194.73.5:1080 @SOCKS5# 31.8 09/02 19:32  山东建材学院(山东省) 
+202.102.239.179:1080 @SOCKS5# 153.6 09/02 19:30  网通用户(河南省郑州市) 
+210.31.64.115:1080 @SOCKS5# 178.1 09/02 19:30  (北京师范大学) 
+202.38.244.41:1080 @SOCKS5# 198.6 09/02 19:30  研五(女生宿舍)(华南理工大学) 
+202.38.248.247:1080 @SOCKS5# 227.8 09/02 19:30  西十八(华南理工大学) 
+202.38.250.11:1080 @SOCKS5# 238.5 09/02 19:33  东六(华南理工大学) 
+61.141.228.200:1080 @SOCKS5# 241.4 09/02 19:34  南山区ADSL用户(广东省深圳市) 
+219.245.170.212:1080 @SOCKS5# 422.2 09/02 19:32  东19舍(西安交通大学) 
+61.144.139.198:1080 @SOCKS5# 644.0 09/02 19:32  ADSL用户(广东省广州市) 
+162.105.17.153:1080 @SOCKS5# 2131.2 09/02 19:34  北阁/遥感所(北京大学) 
+61.128.246.86:1080 @SOCKS5# 3839.8 09/02 19:33  (重庆市) 
+210.22.189.100:3128 @HTTP# 430.1 09/02 18:39  (末知物理地址) 
+61.145.10.40:8080 @HTTP# 457.3 09/02 18:40  (广东省江门市) 
+218.25.251.168:3128 @HTTP# 466.6 09/02 19:35  (辽宁省) 
+202.97.142.41:3128 @HTTP# 493.3 09/02 19:35  (山西省太原市) 
+61.141.231.62:8080 @HTTP# 621.4 09/02 18:41  ADSL用户(含南山区)(广东省深圳市) 
+218.57.243.37:3128 @HTTP# 624.6 09/02 18:38  (山东省) 
+218.57.243.50:3128 @HTTP# 631.2 09/02 18:38  (山东省) 
+61.129.47.11:8080 @HTTP# 705.5 09/02 18:40  (上海市) 
+61.152.175.146:8080 @HTTP# 758.6 09/02 18:40  (上海市) 
+61.142.106.88:3128 @HTTP# 795.2 09/02 18:40  163拨号(广东省中山市) 
+202.97.142.40:3128 @HTTP# 797.4 09/02 19:30  (山西省太原市) 
+61.179.12.212:3128 @HTTP# 831.0 09/02 19:30  网通光纤(山东省济南市) 
+61.144.128.11:3128 @HTTP# 857.9 09/02 18:41  越秀区/荔湾区ADSL用户(广东省广州市) 
+140.113.214.219:3128 @HTTP# 923.2 09/02 18:39  (台湾省) 
+218.25.251.170:3128 @HTTP# 1068.6 09/02 19:35  (辽宁省) 

@@ -1,0 +1,25 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <weng@ccert.edu.cn>; Tue, 23 Aug 2005 05:41:48 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <weng@ccert.edu.cn>; Tue, 23 Aug 2005 05:54:59 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "gong" <gong@126.com>
+To: weng@ccert.edu.cn
+Cc: <yun@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL7ctfTBy8Sz1vjD+7XEzeLXysjLytm1xEhSuLHX3LXE1vrA7cq1z7CjrMm1srvJtQ==?=
+Date: Tue, 23 Aug 2005 05:54:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+     实习职位的情况是：马上工作，持续半年时间，一周四天，地点离学校较远，800――1000rmb/月，主要协助HR副总约请，安排面试，以及员工业绩考核的报表。公司在同行业的知名度和声誉的很高。
+     我的情况是：人大经济类硕士，开学研二，女生，有理工科背景。在之前有同行业国内公司的类似职位实习经历。
+     利：本人认为在这样的公司，这样的职位的实习经历对即将面临的找工作帮助很大。因为根据我的总结，实习经历对找工作帮助很大，甚至是实习经历对找实习都帮助很大。我最近接到的两个实习offer都是分别和之前做过的两个实习工作类似。
+锯了就不要后悔，你一点不傻

@@ -1,0 +1,20 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q8Ih5e007338
+	for <wang@ccert.edu.cn>; Tue, 27 Sep 2005 05:59:52 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q8M1b01723;
+	Tue, 27 Sep 2005 06:03:10 +0800
+Message-Id: <200509260822.j8Q8M1b01723@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 22:03:10 UT
+To: wang@ccert.edu.cn
+From: yun@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+
+作什么样的人，走什么样的路都是自己选择的。
+赞成你文章里的观点。但王同学觉得放弃是一种更好的最求，其实也无可厚非，毕竟这种选择更附和他自己的心愿。
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。

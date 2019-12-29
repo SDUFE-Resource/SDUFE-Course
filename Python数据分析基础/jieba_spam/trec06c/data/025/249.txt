@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <xue@ccert.edu.cn>; Mon, 22 Aug 2005 11:10:30 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <xue@ccert.edu.cn>; Mon, 22 Aug 2005 11:23:48 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 03:18:25 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "guan" <guan@mail.tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+Cc: "tunet" <yun@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgPT09PT09PT1DYXJlZXKw5rPPxriw5tb3PT09PT09PT0=?=
+Date: Mon, 22 Aug 2005 11:20:11 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    新的校园招聘季又将开始，为了能更好的为广大找工作的同学服务，保持Career版的
+，繁荣稳定，Career版从即日起开始征召版副若干名，具体要求如下：
+    1、热爱水木，热爱Career版，有充足的上站时间管理版面；
+    2、希望申请人最好有过版主经验，能够合理的运用版主权限管理版面以引导版面话
+题；
+    3、熟悉Career版精华区，具有基本的找工作经验，能够为广大网友解决疑难问题；
+    4、最好是2006年毕业的同学，能够及时地获取学校招聘和就业信息；
+    申请方式：
+    1、请在信件标题注明“ID申请Career版版副”，在信件中介绍一下自己的BBS经历
+及相关的版主经验（主要包括个人基本情况，上网条件和时间，对Career版精华区的看法，自己对于Career版以后发展的设想）
+    2、统一发信给cjmm版主。
+    我们会通过一定的筛选流程来最终决定版副人选，欢迎广大热爱Career版的网友积
+极申请！
+                                                    Career版务组

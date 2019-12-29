@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <pan@ccert.edu.cn>; Tue, 23 Aug 2005 11:16:02 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <pan@ccert.edu.cn>; Tue, 23 Aug 2005 11:29:20 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 03:23:57 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: pan@ccert.edu.cn
+Cc: "tunet" <zhao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFpawu3Uxrj40cW7otSxuaTR3b2yo7qwrrXPyfrG28atwcvKwL3no6E=?=
+Date: Tue, 23 Aug 2005 11:25:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我嘲笑马云出于三个原因：
+1、马云的“断章取义”还不是一般的断章取义，而是从根本上彻底把意思搞反了。
+这归结于他的无知。
+2、他的整个演讲立论就是说爱迪生骗了大家、大家应该懒得有方法。
+殊不知爱迪生原话的意思就是他演讲的意思。
+而且他演讲的内容一点没有新意、陈腐不堪。
+爱迪生的原话比他讲的高明多了、精辟多了。
+3、马云本身就是一个大bc。
+     所以说受众的认可是第一位的，事实也不总是赤裸的展现给所有人。
+     当然，受众的认可源于教育或是宣传的“主流”传统了。
+     呵呵，不过马云的话也该看全文了，重点在“懒出方法”了

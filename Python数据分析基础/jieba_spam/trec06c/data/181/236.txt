@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <zhou@ccert.edu.cn>; Sun, 25 Sep 2005 04:27:24 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <zhou@ccert.edu.cn>; Sun, 25 Sep 2005 04:38:49 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 20:15:46 -0000
+From: "lin" <lin@mail.tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Cc: <huang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM31zazRp8Wj1NrEx8Dvo7rFo9Tay/u4ybHwyMuyu7jJtcTKwsfp?=
+Date: Sun, 25 Sep 2005 04:38:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+得奖也没人说他不牛，
+但是瞧不起别人就是他的不对，
+到底是谁不厚道？
+说别人的文章都不怎么样？
+不怎么样你就做一个好的阿，
+即使有一点牛的idea也没有啊，
+其实也没有，
+就在这里说都是垃圾，那也是垃圾。
+faint，
+到底谁不厚道？
+他抨击制度不一定有错，
+可惜论据中有多少是对制度的抨击，
+大多是说导师也不好，同学也太差，都是抱怨别人和瞧不起别人。。。
+     人家的paper得奖难道也是因为这个？
+     不厚道
+     为什么大家都这么看不惯特立独行呢，我看应该大大的提倡这种精神，虽然不一定学他

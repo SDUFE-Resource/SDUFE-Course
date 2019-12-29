@@ -1,0 +1,23 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <gong@ccert.edu.cn>; Tue, 27 Sep 2005 08:43:28 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Tue, 27 Sep 2005 08:46:46 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 00:46:44 UT
+To: gong@ccert.edu.cn
+From: wei@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfzvcy49867o7rU9cO0ssXE3LK7xMfDtLih1Oqjvw==?=
+
+咳咳，偶当时跟你一样啊，提前2个月开始跟人说写论文啦。
+结果..全是最后一周写的..:(
+不逼的没办法是写不出来滴
+         毕业论文写了一些，实在是写不下去了，把那些相对容易写的东西写了，但是目前初稿还没写完，更是懒得去改，根本静不下心来。只想快点找个工作，赶快进入社会，这么多年一直呆在学校里实在是憋的慌啊。
+         自己的兴趣完全不在学术上，想去企业工作，可是不拿专业当敲门砖的话，不知道能找到什么样的其它工作，去外企基本也得从研发口进去吧？
+         几年下来锐气全无，这个研究生念的，唉。

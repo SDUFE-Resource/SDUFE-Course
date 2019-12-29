@@ -1,0 +1,40 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <pan@ccert.edu.cn>; Tue, 30 Aug 2005 10:50:43 +0800 (CST)
+Received: (eyou send program); Tue, 30 Aug 2005 10:53:35 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 30 Aug 2005 10:53:35 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Tue, 30 Aug 2005 10:53:35 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Tue, 30 Aug 2005 02:46:58 -0000
+Received: (eyou send program); Tue, 30 Aug 2005 10:39:08 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Tue, 30 Aug 2005 10:39:08 +0800
+From: bi@mails.tsinghua.edu.cn
+To: pan@ccert.edu.cn
+Cc: ding@ccert.edu.cn
+Date: Tue, 30 Aug 2005 10:39:08 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILnY09q6otfTtcSz9sn61qQ=?=
+Content-Type: text/plain
+
+fesco。
+四达是什么？
+     标  题: 关于孩子的出生证
+     
+     打电话问了fasco,老公的户口在那,她说孩子的户口不能上.
+     又问了四达,我的户口在那.
+     说是拿了户口卡,上户口所在地的街道办事处开 计生证
+     然后孩子出生时在医院开出生证明.
+     拿着出生证明去四达落户口.
+     
+     感觉太简单了点,是这样吗?
+     
+     
+     --
+     

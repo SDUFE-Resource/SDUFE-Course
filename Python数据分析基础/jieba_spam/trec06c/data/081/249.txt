@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <ding@ccert.edu.cn>; Sat, 3 Sep 2005 20:36:49 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <ding@ccert.edu.cn>; Sat, 3 Sep 2005 20:48:35 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 12:36:06 -0000
+From: "zhou" <zhou@mail.tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Cc: <liu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09q4+Murt724uMS4tuDJ2ceuo6zV98fz0rvPwrzSsOa087zStcTS4rz7?=
+Date: Sat, 3 Sep 2005 20:47:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+    如果是给钱的话，双方父母还是要公平对待吧，一碗水要端平啊
+    你说算借的那就回头还掉，这跟孝敬爸妈给些钱没有直接的关系
+    如果你想另外给自己爸妈单表心意，还是买点东西比较合适
+    说到底，双方父母的经济能力的差别，不代表他们对子女的关心程度不同
+    也不应该因此遭到不同的待遇，呵呵
+    
+     我爸妈和lg的爸妈照理说是应该公平对待的，但是我们买房子
+     的时候，我爸妈帮我们借了10w，又把自己的3.5w都给我们了，
+     我跟爸妈说好了，那3.5w也算我们借的。而lg的爸妈由于能力

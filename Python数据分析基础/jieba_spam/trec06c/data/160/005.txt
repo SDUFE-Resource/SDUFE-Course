@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KB1TcO022822
+	for <yuan@ccert.edu.cn>; Tue, 20 Sep 2005 17:23:26 +0800 (CST)
+Received: (eyou send program); Tue, 20 Sep 2005 17:13:40 +0800
+Message-ID: <327213503.11311@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 20 Sep 2005 17:13:39 +0800
+Message-ID: <327213502.11296@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Tue, 20 Sep 2005 17:13:39 +0800
+From: rao@mail.tsinghua.edu.cn
+To: yuan@ccert.edu.cn
+Date: Tue, 20 Sep 2005 17:13:39 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgxMm/xry809DP3rmry77V0Ma4yO28/rmks8zKpqOh?=
+Content-Type: text/plain
+
+优纳科技有限公司是一家硅谷归国人员创办的外资高科技公司，致力于图像识别领域的产品和系统开发，公司因业务扩展需要，招聘软件工程师2～3名，具体要求如下：
+1、 本科以上学历，计算机/EE等相关专业
+2、 有三年以上的C/C++编程经验，熟悉常用的开发工具
+3、 熟悉软件项目管理，能根据需求进行软件模块划分。
+4、 熟悉软件开发的整个流程，包括开发过程中的项目进度和工作量管理，CVS管理，程序测试的TestDirector管理。
+5、 有较好的沟通能力和团队合作精神。
+联系方式
+请将中英文简历发送至 
+hr@unic-tech.com

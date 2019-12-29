@@ -1,0 +1,22 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C5ZHks008458
+	for <huang@ccert.edu.cn>; Mon, 12 Sep 2005 17:26:07 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8C50nS32226
+	for <huang@ccert.edu.cn>; Mon, 12 Sep 2005 16:51:20 +0800
+Message-Id: <200509120500.j8C50nS32226@mail.cert.org.cn>
+From: "lin" <lin@cert.org.cn>
+To: huang@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: CNCERT/CC=CD=F8=C2=E7=B0=B2=C8=AB=D3=A6=BC=B1=BC=BC=CA=F5=B9=AB=BF=AA=BF=CE=CD=A8=D6=AA?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 12 Sep 2005 17:35:39 +0800
+
+         今天心情真的很差，大二时的成绩出来了，全系220人，我竟然到了120名。而我心仪的一个女孩从一个外系转来的到了系的第二名。心里真的很痛，感觉很是丢山东人的脸。
+         瞧瞧大学这2年，我都学会了什么？高三八个月的苦读好不容易换来了一个大学，而现在，已经白白的过去了2年了。
+         大学的第一个学期，感觉好不容易考上了大学，应该歇歇了，于是就天天去机房，去聊QQ，去打cs，一直到期末考试，我的心都没有收下来，但由于我的基础比较好吧，大一的上学期，我不但没有挂科，而且成绩还在前面。
+我也已经大三了,以前怎么样不重要,现在开始还来得及.....

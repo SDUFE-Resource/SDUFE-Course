@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <hong@ccert.edu.cn>; Sun, 21 Aug 2005 15:49:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <hong@ccert.edu.cn>; Sun, 21 Aug 2005 16:02:59 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 07:57:36 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "ren" <ren@mail.tsinghua.edu.cn>
+To: hong@ccert.edu.cn
+Cc: "tunet" <wen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKG2xt+9o6G3xcS1w8yrsPTBy6Oh?=
+Date: Sun, 21 Aug 2005 15:59:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+应该是商业考虑吧。
+四个小时的电影没法在影院放，一个厅一天能排几场？
+两个半小时已经够让院线头疼了。
+     标  题: Re: 《七剑》拍得太棒了！
+     
+     这事儿是越传越神了
+     你这个“审查时硬剪”的出处在哪里？
+     
+     : 都说原来是四个小时的片子，在审查时硬给剪成了两个小时罗～这样情节和节奏当然乱七八糟～
+     
+     
+     --
+     五千个千日之前，上帝产下了八个创世之蛋。
+     它们孵化，世界由此诞生。
+                                       －－《圣卷》之一
+     
+     

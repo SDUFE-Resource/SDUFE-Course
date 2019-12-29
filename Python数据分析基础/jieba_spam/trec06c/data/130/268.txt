@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <shen@ccert.edu.cn>; Wed, 14 Sep 2005 13:33:27 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <shen@ccert.edu.cn>; Wed, 14 Sep 2005 13:45:22 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 05:27:39 -0000
+From: "mei" <mei@mail.tsinghua.edu.cn>
+To: shen@ccert.edu.cn
+Cc: <luo@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgy7zE7g==?=
+Date: Wed, 14 Sep 2005 13:45:17 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+人海中只因为看你一眼， 
+　　注定今生梦系魂牵。 
+　　无论你在海角天边， 
+　　永远是我心中最旖旎的画卷。 
+　　 
+　　美丽的故事也许相隔久远， 
+　　真诚依旧从来不曾改变。 
+　　也许这一生你都不能发现， 
+　　就这样悄悄为你敞开心田让思念蔓延！ 
+　　 
+　　前尘往事不是过往云烟， 
+　　风雪相迎因有你而感觉春光无限。 
+　　聚少离多暗恨时光短暂， 
+　　深情厚意充溢每段字里行间！ 
+　　 
+　　曾经在你停留的时空驻足流涟， 
+　　曾经在与你携手的地点忘了时间！ 
+　　紫蝶随风轻舞不在花丛间往返， 
+　　为了美丽的艳阳天任凭岁月随意变迁！

@@ -1,0 +1,28 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j863eH8r023838
+	for <feng@ccert.edu.cn>; Tue, 6 Sep 2005 22:10:02 +0800 (CST)
+Received: (eyou send program); Tue, 6 Sep 2005 22:08:33 +0800
+Message-ID: <325977928.03325@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 6 Sep 2005 22:08:33 +0800
+Message-ID: <325977928.03308@mail.tsinghua.edu.cn>
+Received: from 166.111.8.254 by 166.111.8.18 with HTTP; Tue, 6 Sep 2005 22:08:33 +0800
+From: zeng@mail.tsinghua.edu.cn
+To: feng@ccert.edu.cn
+Date: Tue, 6 Sep 2005 22:08:33 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IL7TyLvE3NPDwcs=?=
+Content-Type: text/plain
+
+CPU　　　 AMD sempron64 2500+  盒装           490 三年质保
+CPU风扇　 自带
+主板　　　华硕K8S－MX                         560 三年质保
+内存　　  宇瞻512M DDR400                     360 终身质保
+硬盘　　  WD 800BB                            465 一年质保  好像涨了
+显卡      集成
+光驱      华硕16XDVD                          200 一年质保
+机箱电源　pp机箱+鑫谷250V+                   300？三年质保
+键鼠　　　上普光电套装                         70 一年质保
+显示器    philips107H6                       980  一年质保
+          优派E70FSB                         950  三年质保
+     女生用啊，看看电影上上网而已
+     没有游戏的啥高要求

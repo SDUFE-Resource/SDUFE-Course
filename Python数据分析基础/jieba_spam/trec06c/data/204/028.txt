@@ -1,0 +1,23 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <xia@ccert.edu.cn>; Thu, 29 Sep 2005 12:48:29 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Thu, 29 Sep 2005 12:51:27 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Thu, 29 Sep 2005 04:51:27 UT
+To: xia@ccert.edu.cn
+From: zeng@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INP0w8a1xMn6u+6jrMfrvcy087zS0ru49sirw/HQ1M7KzOI=?=
+
+校友啊^_^
+换个环境不错，虽然会有一段不适应期
+btw，川大不是早就取消了直博制度了吗？即使提前攻博考试和普博也差不多吧。
+       我现在研二了，当初是报送生，所以老板对我期望还是挺大的，希望我直博，可是在上了研究生以后，我逐渐发现我并不是很喜欢作试验，而且我对我们实验室的条件也是比较失望的，所以就打算出国，去找老板聊过这件事情，他表示对我的试验能力很失望，不放心我出去，而且本
+     想直博的理由
+     1，省钱，省时间

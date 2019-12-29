@@ -1,0 +1,33 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <kong@ccert.edu.cn>; Thu, 25 Aug 2005 14:38:26 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 14:56:49 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 14:56:49 +0800
+Date: Thu, 25 Aug 2005 14:56:49 +0800
+From: ou@cernet.com
+Subject: =?gb2312?B?UmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0=?=
+To: kong@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+             华为本部不知道，说说华为3com的情况吧。
+             偶一同事lp今年硕士毕业进了华为3com做研发，工资税前5k，忘了转正后有
+             没有浮动，另有每月800的补助。不过，好像公司只给交最基本的保险，住房
+每天法定加班到9点（没有加班费），周六是法定加班日。说白了就是一周六
+        天工作，每天12小时。
+上面这句完全是谣言。
+公司实行责任制，每个月有一个周六是上班，但这个周六是累积到下年的年休假中去的。
+每天加班到9点更是荒谬。加班是有的，担不是强制性的，只要你能在规定时间内完成
+任务，是不用加班的。华为很多刚去的，要猛学东西，所以自己加班多。
+以前在总部，住的近，我大部分时间8点10起床，下午6点30就躺在家里看电视了
+我考，如果有公司领导看到我这篇帖子，心里肯定不爽

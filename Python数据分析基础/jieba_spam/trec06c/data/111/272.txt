@@ -1,0 +1,27 @@
+Received: from v-wall.ihep.ac.cn (v-wall1.ihep.ac.cn [202.38.128.11])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A67I7W028126
+	for <long@ccert.edu.cn>; Sat, 10 Sep 2005 17:28:42 +0800 (CST)
+Received: from v-wall1.ihep.ac.cn (v-wall1.ihep.ac.cn [127.0.0.1])
+	by v-wall.ihep.ac.cn (8.11.6/8.11.6) with SMTP id j8A632u31254
+	for <long@ccert.edu.cn>; Sat, 10 Sep 2005 17:24:26 +0800
+Received: from post.ihep.ac.cn (202.38.128.5)
+  by localhost with SMTP; Sat, 10 Sep 2005 09:24:25 -0000
+Received: from ihep.ac.cn (localhost.localdomain [127.0.0.1])
+	by post.ihep.ac.cn (8.12.10/8.12.10) with ESMTP id j8A6JW0W008447
+	for <long@ccert.edu.cn>; Sat, 10 Sep 2005 17:40:56 +0800
+From: "cai" <cai@ihep.ac.cn>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILW8yqajrL3QztLWqrXAyrLDtMrHwOTFr9fU1qo=?=
+Date: Sat, 10 Sep 2005 17:40:56 +0800
+Message-Id: <20050910061836.M92112@ihep.ac.cn>
+In-Reply-To: <000a01c5970a$d8f48da0$26cb6fa6@liuwu>
+X-Mailer: Open WebMail 2.51 20050228
+X-OriginatingIP: 202.38.128.57 (shuhang)
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset=gb2312
+
+这就是你的不对了.显然你和老师缺乏沟通.现在老师这么多学生,如果你自己不努力沟通,争取机会的话,就怪不得别人了.建议你自己努力吧,在哪沟通都是很重要的.否则,象你现在这样到哪都要吃亏.个人认为跟你是否是外校学生无关.我读研的时候也是外校生,刚开始也没得到老师的重视,也不熟悉环境.可我用一个月的时间,证明了自己,得到了老师的关注.我现在很好啊!
+     今年，相同的饭店，相同的包间，同门聚会
+     不同的是，我们成了师兄、师姐
+     而去年，我们刚进门，有些紧张和手足无措

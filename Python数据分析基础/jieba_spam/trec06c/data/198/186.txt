@@ -1,0 +1,24 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <kang@ccert.edu.cn>; Wed, 28 Sep 2005 15:05:17 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 07:16:24 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 15:16:24 CST
+Date: Wed, 28 Sep 2005 15:16:24 +0800 (CST)
+From: liang ming <bi@yahoo.com.cn>
+Subject: =?gb2312?B?ofEg1eLW1sfpv/bU9cO0sOw=?=
+To: kang@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+如果你们楼上的人整天2点睡觉6点起床（先别考虑她怎么可以这么有精力），在她安定
+之前在你头顶上制造出各种各样的声音来，让你入睡不得直至崩溃，而你跟她已交涉过
+5次，她态度好，但总也改不了坏习惯，走路重，桌椅板凳照旧在地面上拉来拉去，遇到
+这样的邻居你们有什么好办法解决这个问题呢？快把人搞崩溃了，我现在神经极度衰弱了，
+刚才差点没尖叫出来，那种感觉好可怕，觉得自己快要成疯子了。大家帮我出出主意吧，
+thanks a million！

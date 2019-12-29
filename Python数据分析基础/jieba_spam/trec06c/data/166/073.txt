@@ -1,0 +1,23 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LBx02i031610
+	for <pu@ccert.edu.cn>; Thu, 22 Sep 2005 03:02:17 +0800 (CST)
+Message-ID: <200509211959.j8LBx02i031610@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO dfder-09mhatbya) (xy-liu04@166.111.53.221)
+  by localhost with SMTP; Wed, 21 Sep 2005 19:10:10 -0000
+From: "qiu" <qiu@mails.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: Re: =C5=A3=BD=CC=CA=DA=B5=C4=B1=A8=B8=E6=BB=C3=B5=C6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon337264054058_====="
+Date: Thu, 22 Sep 2005 03:15:09 +0800
+
+看常见问题
+Q：我是移动用户，为何不能使用免费自写短信？
+A：免费自写短信服务商的正常下发需要手机使用用户开通北京移动梦网服务，成为梦网服务用户方能正常发送和接收免费自写短信。开通移动梦网服务可以登陆梦网主页：
+              ~~~~~~~~~~~~~
+http://www.monternet.com/moneditor/cs/index.html，进行注册，或者拨打1860。
+不仅自己,发送和接受的手机都必须开通这个
+开通就是注册一下,不花钱
+     大家也又这样的问题吗？？？

@@ -1,0 +1,18 @@
+Received: from nankai.edu.cn (sun.nankai.edu.cn [202.113.16.21])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N7Br6G015829
+	for <tan@ccert.edu.cn>; Sun, 25 Sep 2005 06:25:43 +0800 (CST)
+Received: (eyou send program); Sun, 25 Sep 2005 06:42:36 +0800
+Message-ID: <327460528.07655@nankai.edu.cn>
+Received: from 222.30.48.129 by 202.113.16.21 with HTTP; Sun, 25 Sep 2005 06:42:36 +0800
+From: "zhou" <zhou@nankai.edu.cn>
+To: tan@ccert.edu.cn
+Date: Sun, 25 Sep 2005 06:42:36 +0800
+Reply-To: "zhou" <zhou@nankai.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Content-Type: text/plain
+
+刚回复了十大上转载的那篇文章，跟阁下的意思差不多。王垠这孩子虽不懂事也要教育啊，要不就永远是一个没心没肺的人了。所以强烈号召各位把flyingdream的文章顶上十大！
+     我和他曾经一个教研室过。
+     说实在话，我们都佩服王垠，能对计算机“专业”这么有热情，我们都希望他能够有很好的发展。
+     但是我们看到今天的王垠已经不是单纯的玩着linux向我们演示他的bbs机器人的程序能人了。他成了一个符号，一个象征，在一些人眼中成了有理想，有追求的偶像了！

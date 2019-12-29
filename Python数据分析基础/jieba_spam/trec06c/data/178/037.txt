@@ -1,0 +1,18 @@
+Received: from nankai.edu.cn (sun.nankai.edu.cn [202.113.16.21])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N7Br6G015829
+	for <shi@ccert.edu.cn>; Sat, 24 Sep 2005 11:58:57 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 12:15:50 +0800
+Message-ID: <327460528.07655@nankai.edu.cn>
+Received: from 222.30.48.129 by 202.113.16.21 with HTTP; Sat, 24 Sep 2005 12:15:50 +0800
+From: "tu" <tu@nankai.edu.cn>
+To: shi@ccert.edu.cn
+Date: Sat, 24 Sep 2005 12:15:50 +0800
+Reply-To: "tu" <tu@nankai.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7SvvW1w8312/Oyu7auv8bRpw==?=
+Content-Type: text/plain
+
+赞同你对windows的看法
+     我的话题跟他退学无关，是从他的主页上对linux和windows的看法想起来的。顺便我也为windows说几句话。
+     王垠看重的是技术，一般对技术有疯狂爱好的人会有这个看法。不可否认，很多饱受windows痛苦的人也有这个看法。但是windows能够如此成功是有他的道理的。
+     其实任何方向都可以做科学研究。windows之所以能够成功，是它在人的认知领域方面的成功。windows的开发使得大多数人能够在短时间内掌握实用，能够简单的用鼠标就能完成绝大多数操作。这种易于理解易于操作的特性难道不是成功的科学吗？Unix出现很多年了，他在技术上趋于

@@ -1,0 +1,117 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4IHBi027559
+	for <yi@ccert.edu.cn>; Mon, 12 Sep 2005 00:39:07 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4FUPC090242
+	for <yi@ccert.edu.cn>; Mon, 12 Sep 2005 00:36:41 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A4FRlG090238
+	for <yi@ccert.edu.cn>; Mon, 12 Sep 2005 00:36:17 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509100415.j8A4FRlG090238@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Sun, 11 Sep 2005 16:25:26 -0000
+Date: Mon, 12 Sep 2005 00:46:41 +0800
+From: "hong" <hong@mails.tsinghua.edu.cn>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?ofEga2F0eXVzemG1xL+80dDCt9auo7rK/dGntcS4tM+wIND4?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1379827140=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+开始进入正题啦。
+首先说一点，我不是聪明人；
+上初中的时候搞不明白三角函数，
+上高中的时候不会算值域、定义域，
+到了大学又被牛顿、高斯们的无数定理公式整得死去活来。
+所以，我去搞考研数学注定了是一件痛苦的事情。
+到了04年九月份前后，我已经把陈文灯的复习指南看了第一遍。
+提一下，我用的数学指南是02年出版、针对03年考研的。
+考研辅导教材其实基本没有时效性，
+辅导“专家”们不停强调“新大纲新版本”，
+其实就是为了多赚钱。
+~
+把灯哥的指南搞定了第一遍之后，
+我的数学复习思路就有点乱了，
+以至于十月十一月的时候我几乎是在抓瞎。
+线性相关线性无关，大数定律，数理统计，
+这些东西我不知道花了多少时间去啃教科书、钻研数学指南。
+别人向我建议，复习指南至少要做上三遍，
+但我手实在太慢；指南只看了一遍，
+就开始仓促地做模拟题。
+模拟题用的是二李（2003年版、针对04年考研）的400题。
+这本书彻底摧毁了我考清华的信心，
+我发现我啥啥都不会，以至于最后竟然习惯了接受三四十分这样的成绩。
+后来总结出了一些门道，成绩才稍微好看了一点，偶尔也能模个七八十分了。
+这段时间我是教材-复习指南-400题同时对照参考着看；
+到了一月份的时候，我觉着时间差不多了，该下手做历年真题了。
+我跑到海淀书城，买了一本恩波出的真题，开始摩拳擦掌。
+~
+我第一套真题做的是04年那套，
+做完之后一对答案我差点晕倒过去：
+这套据别人说是“非常，非常，非常简单”的考卷，
+我竟然只打了70多分。
+依稀中，
+我仿佛看见清华大学已经开始冲我wave goodbye，祝我一路走好。
+在这个关键的时候，
+我想起了我的妈妈，
+我已经好几个星期没有给她打过一次电话的妈妈。
+我给我妈妈打电话，告诉她我模拟考得很糟糕，今年可能又要完蛋了。
+我妈妈说不要紧，没什么，
+你只管好好看书，别想别的，考不上我和你爸也不怪你。
+放下电话，我的心理坦然了很多。
+于是，下午，我又鼓足勇气，模了一套03年的卷子。
+03年的卷子，据我身边的同学说，很难，能打到100分就不错了。
+没想到，我竟然模到了110分，当时的我喜出望外，
+开始给朋友们发短信报告这一喜讯。
+~
+这就是我做真题的第一天。
+（吃饭去啦，下午接着写~~~）
+~
+03年这套数学卷给了我无比的动力和继续搏下去的信心。
+最后的几个星期，
+我孜孜不倦地在真题、400题、指南、教材中间游荡，
+做题、看题、背公式、看书……
+两个小插曲：
+1 我曾经听一个哥们儿说过恩波的八套卷不错，
+于是一月份那趟去海淀书城买真题的时候，
+我捎带着也买了这份模拟试卷。
+结果直到考完试这套卷子我都没动过，
+想想满有趣的。
+当时真是丧心病狂啊，
+也不想想自己长了几个脑袋几只手，
+都这个节骨眼生了还在买新题。。。-__-||
+2 一月份去海淀书城买书的这趟旅行是我考研之前最后一次出远门。
+在回来的路上，看着中关村一幢幢拔地而起的玻璃墙写字楼，
+想想我那正在微软亚洲研究院实习的同学，
+心中生出无限感慨。
+我心想，
+要是我能考上清华，
+那该多好啊……
+~
+时间一分一秒地过去。
+2005年1月21日下午，我从午睡中一觉醒来的时候
+（在教室里面睡午觉，的确不太厚道，我认错-_-），
+惊奇地发现已经空了半年的教室竟然坐满了人，
+不消说，都是明天就要去搏命的同道中人们了。
+我不禁也紧张起来。
+没办法；书还是要看的。
+你肯定想知道考试的前一天晚上我在干什么。
+考数学的前一天晚上，我在背公式。
+尤其是曲线积分、曲面积分、高斯公式、斯托克斯公式。
+我生怕我一紧张就把这些公式全忘光了。
+就连考试那天早上我都在看笔记、看公式，
+直到进考场。

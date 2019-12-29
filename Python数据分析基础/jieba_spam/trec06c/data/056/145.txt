@@ -1,0 +1,36 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q8frpZ012129
+	for <liu@ccert.edu.cn>; Mon, 29 Aug 2005 21:17:12 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <430ED8CA.0000D0.32715@m115.126.com>
+Date: Mon, 29 Aug 2005 21:29:25 +0800 (CST)
+From: "yi" <yi@126.com>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IHpqMrP9wcvX1Lavu6+8xsvju/qjrLu516HBy8qyw7TPtbXEo78=?=
+X-Priority: 3
+X-Originating-IP: [222.82.97.251]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_nydxdIXIQAMDkzacqLhDtoxLoZym"
+
+部分old
+寄信人: vivas (维子※有人懂得转圜而我太绝对)
+标  题: 本科生分布
+发信站: BBS 水木清华站 (Thu Sep 25 16:25:31 2003)
+来  源: 219.224.182.29
+紫荆
+1。生物，生医，电子
+2. 计算机，自动化
+3。土木，水利
+4。女生楼。法学院，电子，力学，生物，生医，计算机，自动化，
+           化工，材料，电机
+5。女生楼。土木，人文，数学，水利，化学，建筑，环境，
+           工业工程，新闻，经管，物理，软件学院
+6。机械，工业工程，汽车，传播，精仪，软件学院
+7。力学，材料
+8。男女混住楼  男生：工物
+               女生：汽车，热能，精仪，工物，机械，美院
+9。数学，物理
+10。环境，美院，化学
+11。电机，建筑，热能
+12。化工，人文，法学院
+13。经管

@@ -1,0 +1,31 @@
+Received: from softedit ([159.226.100.150])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UJNl022027
+	for <cao@ccert.edu.cn>; Sat, 20 Aug 2005 01:50:09 +0800 (CST)
+Received: from mail pickup service by softedit with Microsoft SMTPSVC;
+	Sat, 20 Aug 2005 02:15:50 +0800
+From: <peng@iscas.ac.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?ofEge7yxxrh9uN+8trmks8zTptPDv6q3ormks8zKpg==?=
+Date: Sat, 20 Aug 2005 02:15:50 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Message-ID: <SOFTEDITGJ2TUSzbAUf0000003c@softedit>
+
+高级工程应用开发工程师
+招聘人数：2人
+性别：不限
+学历：本科以上
+年龄：40岁以下
+任职资格：
+1、工科硕士学历，掌握有限元分析和软件工程的实践知识
+2、具有3年提供工程解决方案的实践经验，具有CAE,CAD,CFD、PDM工程工具的知识
+(如：ADAMS,NASTRAN,LS-DYNA,MADYMO,Fluent,CATIA,Unigraphics,TeamCenter,
+andENOVIAetc.)
+3、熟悉面向对象的编程模式，3年JAVA开发经验
+4、具有JNI,I18N的开发经验者优先考虑
+5、具有很强的分析和沟通能力
+职位描述：
+1、了解企业工程应用信息化的需求
+2、参与完成企业工程应用信息化的软件解决方案
+3、实现工程应用信息化软件的开发
+公司网站：www.sightna.com
+有意者请将简历发送至christina@sightna.com

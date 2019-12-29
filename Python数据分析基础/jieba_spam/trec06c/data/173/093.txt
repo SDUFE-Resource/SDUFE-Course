@@ -1,0 +1,22 @@
+Received: from nankai.edu.cn (sun.nankai.edu.cn [202.113.16.21])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N7Br6G015829
+	for <jin@ccert.edu.cn>; Fri, 23 Sep 2005 15:20:15 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 15:37:08 +0800
+Message-ID: <327460528.07655@nankai.edu.cn>
+Received: from 222.30.48.129 by 202.113.16.21 with HTTP; Fri, 23 Sep 2005 15:37:08 +0800
+From: "ding" <ding@nankai.edu.cn>
+To: jin@ccert.edu.cn
+Date: Fri, 23 Sep 2005 15:37:08 +0800
+Reply-To: "ding" <ding@nankai.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ICLX7rzRwtvOxL2xIg==?=
+Content-Type: text/plain
+
+百度了一下，这个会是在上海开的，呵呵，东道主显然有优先性，得个奖也不奇怪。
+我们组还有人去法国开会捧个“青年科学家”奖回来；
+也有人拿了个什么什么的优秀博士论文，全世界就3个，当然是某一级学科
+从成果上看，哪个都不比他差，没什么了不起的
+其实都是一般人，不用盲目崇拜。
+     http://news.tsinghua.edu.cn/new/news.php?id=9756
+     计算机系师生撰写的学术论文获ASP-DAC国际会议最佳论文奖
+     　　【新闻中心讯】近日，由我校计算机系软件所设计自动化教研组师生王垠、洪先龙、经彤、杨

@@ -1,0 +1,41 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <jiang@ccert.edu.cn>; Thu, 1 Sep 2005 00:08:34 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 00:11:26 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 00:11:26 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 00:11:26 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 16:04:49 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 23:56:59 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 23:56:59 +0800
+From: long@mails.tsinghua.edu.cn
+To: jiang@ccert.edu.cn
+Cc: zheng@ccert.edu.cn
+Date: Wed, 31 Aug 2005 23:56:59 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IL3xzOy+9bXDusPOr8f8o6zSu9axv94=?=
+Content-Type: text/plain
+
+把伤心事说出来，泻出来就好了
+     标  题: 今天觉得好委屈，一直哭
+     
+     本来只是小事情
+     可是想了太多太多
+     心情也就越来越不好
+     抑制不住的哭呀哭
+     
+     突然发现，朋友再好，也不是一辈子的，也不可能在你最伤心的时候，给你最坚强的依靠
+     
+     
+     --
+        想你，是一中甜蜜的忧伤，是一种痛苦的期待，是一种幸福的惆怅，更是一种不想去想而又不能不想的无奈！
+                                       ――fz，竟然是我写的，估计现在什么都写不出了
+     
+     

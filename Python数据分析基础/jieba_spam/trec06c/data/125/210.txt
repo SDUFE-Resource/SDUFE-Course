@@ -1,0 +1,35 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <zhang@ccert.edu.cn>; Tue, 13 Sep 2005 13:20:15 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Tue, 13 Sep 2005 13:32:14 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <zhang@ccert.edu.cn>; Tue, 13 Sep 2005 13:32:13 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <mei@dlut.edu.cn>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsbG+qdG2t8nV0Ma4yO28/sjL1LE=?=
+Date: Tue, 13 Sep 2005 13:32:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+北京讯飞信息技术有限公司成立于2001年4月，是一家以网络通讯、数字视频传输、多媒体数据广播技术为研究方向，并使之产业化的高新技术企业，是北京中关村高科技园区内的一家拥有自主知识产权，专注于网络视频通信与多媒体信息科技应用的解决方案提供商和系统产品供应商(www.xunfei.com.cn)。因业务需要，现急招如下人员：
+软件开发工程师
+电子邮箱：hr@xunfei.com.cn 
+工作所在地：北京市 
+人数：4 
+工作职责：
+产品软件开发，参与产品测试和部分技术支持工作；
+要求：
+1、计算机等相关专业本科以上学历； 
+2、至少1年以上的Visual C++开发经验，熟悉MFC、ActiveX编程，网络编程
+   具备视频应用开发和DirectShow经验者优先； 
+3、熟悉linux下C和C++的应用程序开发，对多线程、socket、IPC、信号中断处理
+   等概念必须有深刻的认识
+4、良好的人际关系沟通能力、学习能力和团队工作作风；

@@ -1,0 +1,46 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <rao@ccert.edu.cn>; Mon, 29 Aug 2005 01:10:28 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 01:21:01 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Mon, 29 Aug 2005 01:21:01 +0800
+From: "zheng" <zheng@ctbu.edu.cn>
+To: rao@ccert.edu.cn
+Date: Mon, 29 Aug 2005 01:21:01 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "zheng" <zheng@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgob5TVFbXqrKlob+jqDguMjejrTguMjmjqdfjx/LW3MSpo6i24LOhxbfW3ralvLbBqsj8o6kg
+KNeq1Ng=?=
+Content-Type: text/plain
+
+又一个周末，又一组球迷的不眠夜！
+英超、德甲激战正酣，意甲、西甲拉开大幕，中超进来做个点缀（冠军已经没有悬念，亚军竞争倒蛮激烈：）
+为方便清华校内没有电视但能联网且又关注欧洲联赛的广大用户收看现场直播，学生网络电视（STVNET）将调整电视转播频道，对赛事进行转播！欢迎大家通过学生清华视听媒体专区的网络电视转播直击现场！
+本周末的球赛转播表如下（均为北京时间）
+周六（8.27）
+19:30   中超  北京现代－深圳健力宝 （BTV6）
+21:30   德甲  沃尔夫斯堡 VS 勒沃库森 (CCTV5)
+21:35   英超  托特纳姆队－切尔西队（BTV6）
+周日（8.28）
+02:00  西甲  阿拉维斯 VS 巴塞罗那(CCTV5)
+04:00  西甲  瓦伦西亚 VS 贝蒂斯 (CCTV5）
+21:00  意甲  阿斯科利 VS AC米兰 (CCTV5)
+23:00  德甲  杜伊斯堡 VS 多特蒙德 (CCTV5)
+周一（8.29）
+02:30  意甲  尤文图斯 VS 切沃 (CCTV5)
+19:30  《天下足球豪门周》八大俱乐部超级球迷颠峰对决
+看勒沃库森、多特蒙德强力复苏，看巴萨、米兰开门见红，看天下足球豪门盛宴
+尽在STVNET转播（当然，感谢各体育电视台提供版权：）
+具体收看办法：
+点击学生清华视听媒体右部顶端的“电视转播”下的“Gridmedia”蓝色背景图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+　　1.选择“打开”(或者OPEN/RUN)等本地打开按钮直到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网用户或CCTV-5)”频道收看这场直播。
+　　2.选择“保存”(或者SAVE)等按钮保存到您的计算机上，运行保存下来的“Gridmedia学生网络电视版”程序，即可看到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gidmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网用户或CCTV-5)”频道收看这场直播。
+　　另外由于将从远处服务器以及一些动态的转发节点获得数据，所以在选择频道弹出windows media player播放器后，您会看到播放器下端将出现“正在连接到媒体...”字样以及后来的“缓冲 XX％”字样，此时请您耐心等待数据的接收。
+　　为保证您的收看效果，建议安装windows media player 8.0或以上版本。
+                                                        学生网络电视
+http://www.student.tsinghua.edu.cn/media/default.aspx
+　　
+转播周末，球迷的节日！
+Enjoy！！

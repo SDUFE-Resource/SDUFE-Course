@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <chen@ccert.edu.cn>; Tue, 23 Aug 2005 14:43:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <chen@ccert.edu.cn>; Tue, 23 Aug 2005 14:56:24 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 06:50:57 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "jin" <jin@mail.tsinghua.edu.cn>
+To: chen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKGwx+W7qsnZxOq/xtGnvNKhsc/uxL/V0Ma4?=
+Date: Tue, 23 Aug 2005 14:52:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+现在这样的多了，北大清华周围大厦里面的基本上都是打着这个牌子，他们以到各地招加盟商，骗地方百姓的钱，大家回家都跟家里说，这种东西不可信。
+不过大家也都差不多明白事情了。
+     显现给你的是来自“清华少年科学家”的事业机会！如果你选择了我们，这里将是你可以完成向一个自信、严谨、自立的人转变的环境。 人生来自于选择！一次又一次的选择将影响到你的今后的人生！ 
+     公司简介：
+     北京数字博识科技有限公司于2004年3月在清华大学科技园成立，公司定位于从事教育培训项目的投资和运营

@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <ning@ccert.edu.cn>; Tue, 27 Sep 2005 20:53:05 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 12:39:21 -0000
+Date: Tue, 27 Sep 2005 21:05:05 +0800
+From: "shi" <shi@mail.tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+自己出的书，干吗不送给老师啊
+     计算机系的大牛基本没人和你玩，我就勉为其难吧，
+     其实我当初就是计系一小面，只不过大二时候发过
+     一本linux的书，二百多页,邮电出版，
+     销量还不错，以至于教研组的老师都买了一本
+     计系比我强的基本上车载斗量...
+     所以我就不知道博士生会玩tex, linux究竟算什么
+     ※ 修改:・Hurricane 于 Sep 28 04:46:24 修改本文・[FROM: 131.151.101.*]

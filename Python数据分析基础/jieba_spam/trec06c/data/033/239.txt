@@ -1,0 +1,45 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <lu@ccert.edu.cn>; Wed, 24 Aug 2005 13:54:27 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 14:07:34 +0800 (CST)
+Date: Wed, 24 Aug 2005 14:01:20 +0800
+From: "hu" <hu@sohu.com>
+To: lu@ccert.edu.cn
+Cc: "yxl" <yuan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7StcTAp7vzo7q40Mfp0Oiyu9Do0qrSqr+80emjvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+     标  题: Re: 我的困惑：感情需不需要要考验？
+     
+     
+     我不这么认为。
+     前景理论认为，人们习惯从一个局部去推断整体。
+     人们对于“得到”不愿意去冒风险，而对“失去”愿意去冒风险。
+     
+     开始，谁都不了解谁。
+     接触，女生对同一个男生的评价是恒定的。
+     女生有两种选择，对于对方表现比较满意，对于对方表现不满。
+     当女生表示满意的时候，男生倾向于能够得到这份感情。
+     当女生表示不满意的时候，男生倾向于不能够得到这份感情。
+     同样都是想得到这份感情为前提，后者中，男生首选是更努力地去追求这份感情。
+如果是这样，女生总是表示不满意，岂不是能够在局部实现最优解，获得最大的利？
+男生应该怎么办？
+博弈论认为，最优解在于首先表示出诚意，然后遵循最简单的跟随策略。
+当对方表现合作，我方合作。对方表现不合作，我方不合作。
+男生首先应该表示满意。
+当女生表示不满意的时候，男生也应该表示出不满意。
+而当女生表示出满意时，再跟着表示满意。
+     
+     : 这两件事情未必相关
+     : 也许前面那个人即使表现出对他不大喜欢也不会拼命追她
+     : 而后面那个即使表现出喜欢他也会拼命追
+     
+     --
+     

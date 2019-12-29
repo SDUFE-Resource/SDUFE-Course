@@ -1,0 +1,22 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T2QvLi001892
+	for <lu@ccert.edu.cn>; Fri, 30 Sep 2005 00:04:08 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8T2U2h24691;
+	Fri, 30 Sep 2005 00:07:13 +0800
+Message-Id: <200509290230.j8T2U2h24691@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Thu, 29 Sep 2005 16:07:13 UT
+To: lu@ccert.edu.cn
+From: lu@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTjv7S5/bXEtefTsNbQo6zE49fuz7K7trXEzKi0ysrHyrLDtKO/?=
+
+别处看来的
+“海明威说：‘这世界是美好的，值得我们为之奋斗。’――我相信后半句。” 
+Anyhow, the world is a fine place, it\'s worth fighting for.
+　 大卫．芬查的《七宗罪》是一部让人很绝望的影片。片子临了，摩根．弗里曼饰演的老警察看七宗罪一一兑现，不管好人还是坏人，都不可避免地堕入灵魂的深渊，于是老弗里曼冒出这么一句，影片到此，结束。  
+     我比较喜欢的是东邪西毒中的一句：有些事情你越想忘记，就会记得越牢。当有些事情你无法得到时，你惟一能做的，就是不要忘记。

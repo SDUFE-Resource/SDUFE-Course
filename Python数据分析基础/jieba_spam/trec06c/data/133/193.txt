@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <liao@ccert.edu.cn>; Thu, 15 Sep 2005 03:31:40 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <liao@ccert.edu.cn>; Thu, 15 Sep 2005 03:43:41 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 19:26:14 -0000
+From: "pu" <pu@mail.tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Cc: <chi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S1qq1wNXi0fnSstDtsru21KOsv8nKx7K71qq1wLjD1PXDtLDso78=?=
+Date: Thu, 15 Sep 2005 03:43:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+过日子还是实在男人好
+         请各位帮助我，如果可以给我意见，批评我也接受！
+         简单说说：我26岁，和男朋友谈了2年，前些天到他家吃饭，他妈妈和我提起：你们已经交往有段时间了，想这个国庆节双方的父母亲见个面，意思就是说想定下来。我很矛盾，我并不想这么早定下来，先说说我们的情况：我朋友是个很正统上进的人，性格很内向，不善和人打交

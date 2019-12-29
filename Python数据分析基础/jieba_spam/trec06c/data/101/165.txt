@@ -1,0 +1,48 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86CullB027407
+	for <zhao@ccert.edu.cn>; Thu, 8 Sep 2005 10:47:27 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j86Cs0vQ066125
+	for <zhao@ccert.edu.cn>; Thu, 8 Sep 2005 10:45:30 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j86Crvrj066117
+	for <zhao@ccert.edu.cn>; Thu, 8 Sep 2005 10:44:37 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509061253.j86Crvrj066117@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Thu, 8 Sep 2005 02:33:48 -0000
+Date: Thu, 8 Sep 2005 10:54:45 +0800
+From: "hu" <hu@mails.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j86Crvrj066117
+Subject: =?gb2312?B?ofEgv6jM2LHIwNW6zdK7uPbQocivycwgtcRvZmZlctGh1PEgKNeq1Ngp?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 Career_Plaza 讨论区 】
+发信人: Gabbler (真诚 生活), 信区: Career_Plaza
+标  题: 卡特比勒和一个小券商 的offer选择
+大家比较一下，都是上海。
+卡特的采购职位，压力不是很大，福利待遇要稍高一些；个人对外企的发展不甚清楚,
+希望有过来人指点一下。
+卡特的氛围还好吧，更多的就不清楚了..不知道卡特的待遇能够在上海生存下去不？
+中型券商的行业研究员，压力交大，前景的问题，目前待遇不高（属较低的吧）。但是
+行业研究员做好了，据说挺有发展的。希望大家能给我一些你们对券商行业研究员的看
+法吧。
+很着急，今天下午就要给答复了。郁闷阿_____

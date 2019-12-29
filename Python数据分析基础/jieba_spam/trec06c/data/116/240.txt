@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5NG8m027911
+	for <zhao@ccert.edu.cn>; Sun, 11 Sep 2005 17:19:32 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5KeKS091336
+	for <zhao@ccert.edu.cn>; Sun, 11 Sep 2005 17:17:05 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5Kblh091332
+	for <zhao@ccert.edu.cn>; Sun, 11 Sep 2005 17:16:53 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 17:06:02 +0800
+Message-ID: <326328986.06301@mails.tsinghua.edu.cn>
+Received: from 59.66.112.135 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 11 Sep 2005 17:06:02 +0800
+From: weng@mails.tsinghua.edu.cn
+To: zhao@ccert.edu.cn
+Date: Sun, 11 Sep 2005 17:06:02 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgudjT2rK/t9bR0L6/yfq/zrPM1tjQwrPpx6m1xM2o1qogKNeq1Ngp?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: weng@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 CampusInfo 讨论区 】
+发信人: fascforever (闲看落花), 信区: CampusInfo
+标  题: 关于部分研究生课程重新抽签的通知
+各位研究生同学：
+　　在研究生选课抽签过程中，因为临时进行二外日语课程的扩容，导致需要抽签的
+课程暂时呈全部中签状态。11日20：30－21：00时已重新进行选课抽签处理，选课抽
+签结果以11日21时后数据为准。
+　　由于我们工作失误，给研究生选课带来了不便，请同学们多加谅解。

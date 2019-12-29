@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <tang@ccert.edu.cn>; Wed, 14 Sep 2005 03:57:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <tang@ccert.edu.cn>; Wed, 14 Sep 2005 04:08:58 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 19:51:46 -0000
+From: "qing" <qing@mail.tsinghua.edu.cn>
+To: tang@ccert.edu.cn
+Cc: <fu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgw8DXyrS00rW5q8u+1dDGuLL6xre+rcDt1vrA7SAo16rU2Ck=?=
+Date: Wed, 14 Sep 2005 04:08:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+【 以下文字转载自 ParttimeJob 讨论区 】
+发信人: opacs (opacs), 信区: ParttimeJob
+标  题: 美资创业公司招聘产品经理助理
+公司简介
+亿览公司（Yeelion, Inc.）是由美国和亚洲资深风险投资家和高科技行业资深人士（如20亿美金风险投资公司的创始人，微软前全球市场副总裁等）联合投资创立的外资公司。公司由两位美国斯坦福大学商学院工商管理硕士 (MBA)归国创立。创始人之一曾任国内著名互联网公司的首席架构师兼技术总监。另一位创始人曾在美国著名管理咨询公司任高级咨询顾问。公司致力于互联网相关的软件开发，以服务广大互联网用户。公司地址：海淀区五道口
+招聘要求
+职位：产品经理助理（兼职）
+要求：在校应届本科、硕士毕业生(2006年毕业)， 认真负责，积极主动，遇事愿意动脑筋，喜欢上网。性别不限，专业不限。由于要求兼职，希望该同学学有余力，有较多空闲时间。
+有意者请将简历寄到HR@yeelion.com， 我们将尽快与您联系。

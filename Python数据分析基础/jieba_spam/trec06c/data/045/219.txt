@@ -1,0 +1,24 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <huang@ccert.edu.cn>; Fri, 26 Aug 2005 22:10:30 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Fri, 26 Aug 2005 14:00:05 -0000
+From: "wen" <wen@mails.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 22:23:47 +0800
+
+如果你随便上宽带网的话，我有一个好东西推荐给你。
+我现在的房子里面没有安装固定电话，但是有宽带。
+我一周以前发现了EPN，非常好用。网址是www.myepn.com（好像在做广告一样）
+这个应该算网络电话卡吧，我就是买了一张50元的卡，现在优惠期，打无论是国际还是国内，无论是固定电话还是手机，都是每分钟0.15元。当然如果对方能够上网就是免费的乐。
+通话效果非常好，和固定电话一样。
+唯一的  缺点是，不能接电话，只能打电话。
+优点是：在任何一台能上网的电脑上有音箱和mic，就可以。
+         老公出门在外，很是想念，每天长途电话一小时起步，以解相思之愁，长期下来话费承担有些困难了，请问各位朋友，什么电话卡打长途最划算，最好还能是不收市话费的。请各位帮忙，我和老公先谢过了！

@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2Dh1P009817
+	for <ren@ccert.edu.cn>; Sun, 18 Sep 2005 05:06:21 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G2ifhm004555
+	for <ren@ccert.edu.cn>; Sun, 18 Sep 2005 05:37:19 +0800
+Message-Id: <200509160244.j8G2ifhm004555@stmp.nisac.gov.cn>
+Date: Sun, 18 Sep 2005 05:17:27 +0800
+From: "pan" <pan@mail.nisac.gov.cn>
+To: ren@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+00Oy/y8LKobbG372jobfIq7DgyMvC7dD7tKujrLG70e6yysTduNC2rw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+冬泳听说过没有？一个大气压下冰层下的水保持4摄氏度，
+如果气压大到零下20-30度水不结冰，那杨采妮已经挂了，这场景也不可能在天山雪原
+记者没有能力把话说得符合常识，或没有能力纠正剧组的不符合常识的宣传，
+但读者还要附和，这样无原则的捣浆糊真的把大家都当成白痴么
+     第一，这话是有点问题，但是人家想说的意思是在-20～-30的气温的大冷天的水里。
+     第二，-20～-30的水不结冰也是很有可能的。
+     不要太抬杠了，兄弟。

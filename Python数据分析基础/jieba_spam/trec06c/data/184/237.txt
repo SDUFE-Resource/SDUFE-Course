@@ -1,0 +1,40 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <yuan@ccert.edu.cn>; Sun, 25 Sep 2005 20:14:26 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Sun, 25 Sep 2005 12:21:54 -0000
+From: "gao" <gao@mails.tsinghua.edu.cn>
+To: yuan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sun, 25 Sep 2005 20:31:35 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+晕，什么提供的宽松的环境，
+大家都是学生，谁不知道你想要挤时间的话，可以有大把的时间。
+但是，导师浪费了你更多的时间，要是导师能好好听一下学生的需求的话，
+他的发展决不至此。
+很多老师都自认为很牛，只顾着自己挣钱，根本不考虑学生的感受和需求。
+不可否认，每个人都有自己的性格，可能王垠的性格会得罪很多身边的同学，
+但他的问题绝对是反映了很现实的问题。
+他能得best paper，那是他牛，你为什么不得？
+不可能是你作的成果，然后让他来发表论文吧，估计你没有那个能力，也没那么大度吧。
+在一个教研室待过，你可能知道他，但是，从你的文章中，我看出你根本不了解他，根本不
+知道他真实得感受。
+还有，什么是大家都盲目崇拜他？
+大家都是大学生，这点思考能力还是有得吧，怎会盲目崇拜？
+因为他说出了大家的心神，所以大家才有这么热烈的放映，这也是我们现阶段教育所遇到的问题。
+从文中的口气，我可以看出，你很鄙视linux，就这一点，就足可见，你没有什么学术的眼光。
+请别在这儿丢人现眼了，拜托。
+     我和他曾经一个教研室过。
+     说实在话，我们都佩服王垠，能对计算机“专业”这么有热情，我们都希望他能够有很好的发展。
+     但是我们看到今天的王垠已经不是单纯的玩着linux向我们演示他的bbs机器人的程序能人了。他成了一个符号，一个象征，在一些人眼中成了有理想，有追求的偶像了！

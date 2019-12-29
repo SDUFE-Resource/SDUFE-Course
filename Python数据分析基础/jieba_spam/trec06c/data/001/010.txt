@@ -1,0 +1,37 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <zeng@ccert.edu.cn>; Sun, 14 Aug 2005 19:47:44 +0800 (CST)
+Received: (qmail 5448 invoked from network); Sun, 14 Aug 2005 11:58:31 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 14 Aug 2005 11:58:31 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "liao" <liao@jdl.ac.cn>
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyO28/r+qt6LIy9Sx1dDGuA==?=
+Date: Sun, 14 Aug 2005 20:02:30 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+上海同捷数字化技术有限公司是上海同济同捷科技股份有限公司下属的高科技公司
+，于2003年8月正式成立。
+前身为美国UGS公司中国研发中心和上海同济同捷科技股份有限公司软件研发中心。
+为美国UGS公司研发UG软件(三维设计软件)和同捷科技股份IPDM产品、IDQC产品。为
+通用（GM）、福特（Ford）、伟世通（Visteon）等开发工程应用软件。
+    本公司是国内从事技术信息化和管理信息化开发和服务的最大公司之一，主要
+产品有PDM、IDQC和DPS系统，集团公司是国内唯一能从事汽车设计的专业公司，共
+有员工600人，公司位置位于浦东金桥高新技术开发区;
+   工作地点:北京(公司北京的研发分部)
+C++程序员：
+1)      本科以上学历，包括本科；一年以上开发经验；
+2)      熟悉Windows编程，精通Visual C++ 6.0和MFC类库；
+3)      熟练使用Oracle和MS SqlServer，精通SQL；
+4)      精通并熟练使用COM/ActiveX技术；
+5)      能够独立根据设计文档进行编码工作；
+6)      具备良好的沟通能力；
+7)      具有机械制造知识者优先；

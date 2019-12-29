@@ -1,0 +1,56 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TNZmZm009556
+	for <lai@ccert.edu.cn>; Sat, 1 Oct 2005 13:37:40 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8TNkmaV017714
+	for <lai@ccert.edu.cn>; Sat, 1 Oct 2005 13:48:40 +0800 (CST)
+Message-Id: <200509292346.j8TNkmaV017714@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 1 Oct 2005 05:22:15 -0000
+From: "xing" <xing@mail.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Cc: <qian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxMfOu9Oi0++6wyy4+LCzt63S69K7z8I=?=
+Date: Sat, 1 Oct 2005 13:48:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5C593.18C0F390"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXFUAn0NYzCGVdZSOy1gVwHMkt8UA==
+
+Dear Science Researcher,
+We are seeking your participation in a survey of scientific researchers
+based in, or with collaborative links to, the Asia-Pacific region.
+UNESCO and the Australian Expert Group in Industry Studies (AEGIS) at
+the University of Western Sydney (UWS) are collaborating on a study of
+the rapid expansion of scientific knowledge production in the
+Asia-Pacific region. You have been selected from the Science Citation Index
+(SCI), and we are interested to learn more about your research training,
+collaborative links and research interests. Although the survey asks
+several questions about international collaboration, we are equally
+interested in those researchers who are more nationally focused, as national
+science systems form the basis of knowledge production.
+The survey is short (5-8 minutes) and has been designed for:
+          scientists and researchers based in the Asia-Pacific region;
+          scientists and researchers based elsewhere who have
+collaborated
+          with colleagues from the Asia-Pacific region.
+Due to its scientific activity and economic significance in the region,
+Chinese Taipei is included as an option in the country menus. The One
+China Policy is officially recognised by both Australia (where the
+researchers are based) and UNESCO.
+The outcomes of the study will be valuable for enhancing the role of
+science and the careers of scientists in the region. We very much hope
+you will participate in this important study on this emerging area of
+international science.
+To access your survey please click on the link below:
+Your UserID = 136x29618
+Your password = 4026
+http://www.asr3.com/sm/loginform.asp?cl=136
+or paste the address into your browser.
+We thank you for your time in supporting this project and helping build
+knowledge about science and research in the Asia-Pacific region.  The
+survey will close on October 8, 2005.
+Professor Steven Hill, UNESCO
+Professor Tim Turpin, AEGIS

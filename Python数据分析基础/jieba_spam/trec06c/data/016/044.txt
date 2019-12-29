@@ -1,0 +1,40 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <zhan@ccert.edu.cn>; Sat, 20 Aug 2005 08:58:17 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <zhan@ccert.edu.cn>; Sat, 20 Aug 2005 09:11:19 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 09:34:47 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: ren@126.com
+To: zhan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+0zerBy8bfvaM=?=
+Date: Sat, 20 Aug 2005 09:06:01 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+ 一般说来一段文字的价值与里面的感叹号成反比……
+     标  题: Re: 看完了七剑
+     
+     你懂什么！！！
+     冲着徐克的大名你也不应该这样说！！
+     这部电影决不容许这样的指责！！
+     一次大胆的创新就被你说成这样，实在可悲！！
+     
+     : 好几次想关掉，强忍住，终于看完了。
+     : 真想把导演/编剧拉出来痛扁。。。。。。。痛扁。。。。。。
+     : 赔我宝贵的两个半小时啊。。。
+     
+     --
+     

@@ -1,0 +1,75 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <pan@ccert.edu.cn>; Mon, 12 Sep 2005 10:31:54 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <pan@ccert.edu.cn>; Mon, 12 Sep 2005 10:29:09 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <pan@ccert.edu.cn>; Mon, 12 Sep 2005 10:28:11 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Mon, 12 Sep 2005 10:39:43 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Mon, 12 Sep 2005 10:42:19 +0800
+From: "bi" <bi@runway.cn.net>
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNLSu8bwwLSywrLCv7Q=?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: bi@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+1  死亡诗社
+2  不可饶恕
+3  宇航员的妻子
+4  黑衣人
+6  黑客帝国
+8  辛德勒名单
+10 肖申客的救赎
+11 指环王
+12 哥斯拉
+13 天使爱美丽
+15 本能
+18 第六感
+19 布里奇思的日记
+20 卧虎藏龙
+22 变相怪杰
+23 垂直极限
+26 斗阵俱乐部
+27 惊声尖笑或绝命终结站
+28 生死时速
+33 阿甘正传
+36 宾虚
+38 洛丁山
+43 洛奇
+44 人工智能
+45 沉默的羔羊
+46 教父
+47 蝴蝶效应
+48 三个国王
+49 红磨坊
+52 泰坦尼克
+54 美国丽人
+55 出租车司机
+56 楚门的世界
+61 拯救大兵瑞恩
+     一些著名电影的场景，不过人物被抹去了，考验大家对电影的熟悉程度咯
+     答得时候英文名不对也是不会记入成绩的
+     集体的智慧是无穷地

@@ -1,0 +1,32 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <xiao@ccert.edu.cn>; Thu, 25 Aug 2005 11:14:28 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 11:32:48 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 11:32:48 +0800
+Date: Thu, 25 Aug 2005 11:32:48 +0800
+From: zheng@cernet.com
+Subject: =?gb2312?B?UmU6ILfFvNnSu9bcLL+0wcu8uLK/xqzX0yzNxrz2IQ==?=
+To: xiao@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+用了特殊手法,用牛奶代替了某些血液
+     标  题: Re: 放假一周,看了几部片子,推荐!
+     
+     sin city还不血腥啊？
+     : 逃出克隆岛:要场面有场面,要悬疑有悬疑,很耐看,缺点是前后感觉不像一个人导的,风格反差比较大.
+     : 铁血教练:励志片,最后结局很精彩,最近很少有励志片了,感动...
+     : 罪恶城市:暴力而不血腥,猛男一个接着一个,过瘾.
+     
+     --
+     如果有人为你泪如雨下，记住要带她回家
+     
+     

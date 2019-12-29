@@ -1,0 +1,31 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <tan@ccert.edu.cn>; Sat, 17 Sep 2005 01:02:39 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <tan@ccert.edu.cn>; Sat, 17 Sep 2005 01:19:14 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <tan@ccert.edu.cn>
+	; Sat, 17 Sep 2005 01:19:14 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <tan@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 00:44:15 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "xue" <xue@njnu.edu.cn>
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INbQx+/HsM+m?=
+Date: Sat, 17 Sep 2005 01:14:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+和我半年前的心境好相似啊，兄弟别气馁，记得主动去争取，一定会赢得浪漫与纯真的爱情的！
+         天气真好，用小朋友们的话来说就是“阳光明媚，万里无云，秋高气爽”。
+         又是一个中秋节，是我离家以来过得第5个中秋了。前几次班里都有中秋晚会，大家热热闹闹的好不快活，这次看来是只好自己找活动了。（b4下可笑的纵向班制度）

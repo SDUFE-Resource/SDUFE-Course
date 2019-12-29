@@ -1,0 +1,28 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8K70uu2021601
+	for <lu@ccert.edu.cn>; Thu, 22 Sep 2005 04:07:59 +0800 (CST)
+Message-ID: <200509201500.j8K70uu2021601@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO treasurema) (malb03@166.111.203.148)
+  by localhost with SMTP; Wed, 21 Sep 2005 20:16:03 -0000
+From: =?gb2312?B?wu3A8rKo?= <qing@mails.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjIwyNW5pNf3vMfCvA==?=
+Date: Thu, 22 Sep 2005 04:19:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BDF5.B30D5600"
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+Thread-Index: AcW9MX5NLlb6rf5aRbGY2O7inwzyRQAfeqLQ
+In-Reply-To: <327144872.22776@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+
+报失：
+楼宇  51532153    钱包972  黑色钱包，内有身份证，两张银行卡，两张书店卡，约82元钱 
+李靖  51532311    钱包973  黑绿色，内有学生证，餐卡，约150元钱
+周帆  13811656502 钱包974  黑色，内有身份证，银行卡
+钟昱  51532207    钱包975  红色上有英国国旗标志，内有学生证，京卡，餐卡，二百多元钱
+边超  62787693    其他670  一个白色袋子，内有一个手机盒，手机盒里有资料 
+送交：
+钱执熙    钱包397（以领取）
+领取：
+张达     钱包397

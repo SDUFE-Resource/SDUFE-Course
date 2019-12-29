@@ -1,0 +1,27 @@
+Received: from tfol.com ([221.236.5.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8820wkq006952
+	for <kang@ccert.edu.cn>; Sat, 10 Sep 2005 05:15:46 +0800 (CST)
+Received: (umta 23260 invoked by alias); Fri, 9 Sep 2005 21:27:45 -0000
+X-Lasthop: 61.139.64.53
+Received: from unknown (HELO happylele) (unknown@61.139.64.53)
+  by localhost with SMTP; Fri, 9 Sep 2005 21:27:45 -0000
+Message-ID: <001501c5b41a$dd6c9f80$2e838f0a@happylele>
+From: "yan" <yan@tanfoidc.com>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/zztLV4tbWx+m/9rXEtuDC8KO/?=
+Date: Sat, 10 Sep 2005 05:27:51 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2670
+Disposition-Notification-To: "zhangle" <zhangle@tanfoidc.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2670
+
+哗塞，太赞了，你家不用购地么？？如果要购地的话，造价不可能只是二十来万呀
+便宜呀，二十万在北京也就刚更首付
+     我家盖的不是楼房，而是2栋四合院似的房子，院子很大
+     房子周围的空地很大，我妈妈开出来2片才小菜园，在路边中了好多柳树，榕树，旁边还盖了一个容纳2个车的车库，战地面积应该在1k平方米左右吧
+     房子的确非常舒服，不过其实就是位置好，房子的料子都是差不多的，就是地板全是大理石的，所以贵出一些

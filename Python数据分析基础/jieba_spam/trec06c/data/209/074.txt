@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3XRsq011198
+	for <jiang@ccert.edu.cn>; Fri, 30 Sep 2005 12:43:18 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U3S2Fd080380
+	for <jiang@ccert.edu.cn>; Fri, 30 Sep 2005 12:38:04 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U3RxnO080376
+	for <jiang@ccert.edu.cn>; Fri, 30 Sep 2005 12:37:49 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Fri, 30 Sep 2005 12:50:14 +0800
+Message-ID: <328051624.14203@mails.tsinghua.edu.cn>
+Received: from 202.112.4.39 by mails.tsinghua.edu.cn with HTTP;
+	Fri, 30 Sep 2005 12:50:14 +0800
+From: ma@mails.tsinghua.edu.cn
+To: jiang@ccert.edu.cn
+Date: Fri, 30 Sep 2005 12:50:14 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IHphbtXiuPajrLTzvNLX7M/CwfTH6bDJ?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: ma@mails.tsinghua.edu.cn
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+虽然这么说，程序上！但是面试完结果就要出了。
+她面试完本系据掉外系，其实这个时候哪几个学生被录取，都是谁的学生，导师都知道了。
+我们当年，你一面试完，里面的老师出来就可以知道自己有没有被录取，根本不需要等到郑重其事的通知！
+部分导师也是打好招呼的，你不知道推研内部的情况就不要乱说。
+     根据楼主说的，系里还没有确定录取最后一个，直到系里最后听说他到A系的事之后才这样决定的，因此本来就不存在告诉最后一个他被录取了的事情。

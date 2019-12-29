@@ -1,0 +1,35 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <yu@ccert.edu.cn>; Fri, 30 Sep 2005 20:02:55 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Fri, 30 Sep 2005 12:13:51 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Fri, 30 Sep 2005 12:13:51 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <yu@ccert.edu.cn>; Fri, 30 Sep 2005 05:35:30 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <yu@ccert.edu.cn>; Fri, 30 Sep 2005 07:20:23 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Fri, 30 Sep 2005 20:13:46 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <sun@motorola.com>
+To: yu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1rvPo837wqXW99LUuvO2rrXD16XXobv6u+E=?=
+Date: Fri, 30 Sep 2005 20:13:44 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+这个市老师选择，但是你能让老师选择的前提不就是成绩吗？
+你能力再强，排名不够高，一样读不了研究生
+这个就和没钱就买不起房子和车子一样，很现实的问题
+     老师选择不仅仅是看成绩，还要看是否能干活，是否在本教研组做过或者是否对研究领域有兴趣或者有基础
+     就如同美国大学录取也要看你的ps、推荐信而不仅仅是成绩
+     既然你也没有好办法，那对以后想推研本科的ddmm们最现实的事情不就是搞好学习成绩吗？

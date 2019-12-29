@@ -1,0 +1,26 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T2QvLi001892
+	for <gao@ccert.edu.cn>; Sat, 1 Oct 2005 01:25:47 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8T2U2h24691;
+	Sat, 1 Oct 2005 01:28:52 +0800
+Message-Id: <200509290230.j8T2U2h24691@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 17:28:52 UT
+To: gao@ccert.edu.cn
+From: hong@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgobAyMDA1xOq5+rzKyfrO78i8wc+74dLpobHV97jlxvTKwg==?=
+
+“2005年国际生物燃料会议”征稿启事
+   能源短缺是目前全人类面临的共同难题。特别是在中国，近年来对石油的需求正以惊人的速度增长，目前已成为世界第二大石油消耗和进口国。由于石油等化石能源储量有限，而且不可再生，因此必须大力发展可再生能源，以减少能源需求中对不可再生能源的依赖程度。作为一种可再生能源，生物能源具有气、液、固等多种形式，并且蕴藏丰富、分布广泛。由杰能科国际公司赞助，无锡杰能科生物工程有限公司和清华大学化学工程系主办的“生物能源”专题现向北京地区高校及科研院所广大研究生同学征稿，并将从来稿中评选出十篇优秀论文。优秀论文获得者将免费参加2005年11月13-15日在北京举行的国际生物燃料会议（www.wbschina.com, www.worldbiofuelssymposium.com）并出席在人民大会堂举行的宴会。稿件具体要求如下：
+内容范围：我国生物能源现状与未来、生物能源与可持续发展等（文献综述或研究论文均可）。
+截稿日期：2005年10月25日。
+稿件请通过E-mail投至：              zhaoxb04@mails.tsinghua.edu.cn
+zhouyujie99@mails.tsinghua.edu.cn                       
+主办：无锡杰能科生物工程有限公司和清华大学化学工程系    
+赞助：杰能科国际公司 
+   2005年国际生物燃料会议将于11月13-15日在北京举行，获选优秀论文的作者将由杰能科国际公司赞助免费参加该会议，并出席在人民大会堂举行的宴会。关于2005年国际生物燃料会议的具体事宜请登陆www.wbschina.com（中文）或者www.worldbiofuelssymposium.com（英文）查看。

@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j88NO7DZ015484
+	for <tang@ccert.edu.cn>; Fri, 9 Sep 2005 17:16:21 +0800 (CST)
+Received: (eyou send program); Fri, 9 Sep 2005 17:13:14 +0800
+Message-ID: <326221660.20544@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 9 Sep 2005 17:13:14 +0800
+Message-ID: <326221660.20503@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Fri, 9 Sep 2005 17:13:14 +0800
+From: tian@mail.tsinghua.edu.cn
+To: tang@ccert.edu.cn
+Date: Fri, 9 Sep 2005 17:13:14 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILjf0bnP377gyMu24MnZw9fT0M6juqY=?=
+Content-Type: text/plain
+
+偶是电机系研究高压线电磁环境的。
+国标规定，高压线在设计应该能够使，距高压线20米处，高压线对人体的影响很小
+具体来讲对于50万伏的线路距高压线20米处，电磁干扰水平应该低于55dB
+对于其他低电压等级，电磁干扰水平会依次降低
+结论：影响是有的，不过影响不大
+     最近想买一套房子，但房子距高压线仅20米，不知各位大牛对成人和3个月左右的胎儿有多大危害？
+     先谢谢各位了，网上说法都不一样，不知该听谁的？

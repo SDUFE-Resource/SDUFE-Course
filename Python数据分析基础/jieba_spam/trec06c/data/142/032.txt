@@ -1,0 +1,32 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <gu@ccert.edu.cn>; Fri, 16 Sep 2005 18:41:18 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <gu@ccert.edu.cn>; Fri, 16 Sep 2005 18:57:53 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <gu@ccert.edu.cn>
+	; Fri, 16 Sep 2005 18:57:53 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <gu@ccert.edu.cn>; Fri, 
+	Fri, 16 Sep 2005 18:22:54 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "pu" <pu@njnu.edu.cn>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SwbWwrsHLo6y1q87SsrvQ0rij?=
+Date: Fri, 16 Sep 2005 18:53:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+罗列几个爱情的箴言，希望对各位有所帮助：
+1，要找一个善良的人爱，善良的人也会犯错误，但他永远不会走得太远。
+2，要想真正得到一个人，就必须给他自由，如果他飞走了再也没有回来，说明他从来就没有真正属于你，如果他飞走了又飞回来，说明他一直是你的。爱一个人也要给自己自由，如果你很容易移情别恋，说明你从来就没有真正在乎他，那样的爱是不堪一击的，如果你千山万水地一定要回到他身边，才说明你的爱是真实的。
+3，跟一个自己不爱的人在一起，不是宽容，而是欺骗，是不道德的。跟一个不爱自己的人在一起，不是执著，而是浪费生命，是可悲的。

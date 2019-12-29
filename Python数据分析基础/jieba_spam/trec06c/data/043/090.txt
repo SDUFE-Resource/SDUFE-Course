@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <rao@ccert.edu.cn>; Fri, 26 Aug 2005 10:39:48 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 10:58:08 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 10:58:08 +0800
+Date: Fri, 26 Aug 2005 10:58:08 +0800
+From: hong@cernet.com
+Subject: =?gb2312?B?UmU6IEpNU7DvztKz9rj21vfS5aOsztK4w9T1w7TRodTxtcDCt7XEsKE=?=
+To: rao@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+     有的时候真的很难说，我拥有很多别人没有的东西，但是同样承受很多人没有的压力，就
+                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                            这句话其实用在其他人身上也是可以的，不同的人拥有的东                        西以及所承受的压力不一定要有交集的
+好象现在，连个能谈心的人都没有，其实不是我不会做人，而是我身边的朋友都觉得我是拥有太多，而不舍得放弃了。。。
+总该有些取舍的，哎，自己也觉得抉择是一个很痛苦的事情：（
+换我自己的吧，我想读研期间的怎么也不会说养不起自己那样的吧：0
+是否闯出一片天地，那就看看自己是不是有那份心态和魄力了……
+我大概会选择前者……

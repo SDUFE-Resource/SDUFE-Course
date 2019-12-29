@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LBHc26031385
+	for <zhuang@ccert.edu.cn>; Thu, 22 Sep 2005 06:04:36 +0800 (CST)
+Message-ID: <200509211917.j8LBHc26031385@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO dfder-09mhatbya) (xy-liu04@166.111.53.221)
+  by localhost with SMTP; Wed, 21 Sep 2005 22:12:28 -0000
+From: "tao" <tao@mails.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: =C5=A3=BD=CC=CA=DA=B5=C4=B1=A8=B8=E6=BB=C3=B5=C6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon024143317611_====="
+Date: Thu, 22 Sep 2005 06:17:27 +0800
+
+【 以下文字转载自 SEM.THU 讨论区 】
+发信人: iliuzhongqi (我爱清华，更爱我的小猪), 信区: SEM.THU
+标  题: 咨询一个相关分析的问题
+我看到某权威期刊上的一篇论文，
+做1952到2002年中国 “GDP――人口死亡率”之间的相关性验证
+对数据没有作任何处理
+用的是pearson相关系数
+GDP和人口死亡率都不是正态分布的数据
+能用pearson相关系数来验证吗？
+似乎应该用等级相关分析呀？

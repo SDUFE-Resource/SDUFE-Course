@@ -1,0 +1,27 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <kong@ccert.edu.cn>; Wed, 28 Sep 2005 22:43:19 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 14:54:26 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 22:54:26 CST
+Date: Wed, 28 Sep 2005 22:54:26 +0800 (CST)
+From: liang ming <zeng@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILTzvNKw787Sz+vP6y4uLg==?=
+To: kong@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+这么小@-@！
+好吧，既然才不到20岁，
+那她对你生气的行为可以看做一种非理性的偶然事件，
+即不是基于利益取向上审慎而理智的决择，
+既然如此，那就很好办了，
+首先，用真诚打动她，肉麻点无所谓，小女孩子都把肉麻当浪漫；
+其次，用魅力征服她，霸道点无所谓，用激烈的言语告诉她，她的做法多么伤害你，她对两个人的感情多么不负责任，要不是你力挽狂澜，你们这一辈子将于幸福失之交臂等等，总之，让她认识到她作的很不对，幸亏你中流砥柱，你们的感情才能到达幸福彼岸。
+不要总是对女孩子认错，认得多了就变成懦夫了，丧失自己应有的地位和高达的形象。
+     我21.MM 19?

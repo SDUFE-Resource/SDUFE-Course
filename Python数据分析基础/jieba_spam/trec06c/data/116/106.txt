@@ -1,0 +1,26 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j89DoFew023590
+	for <wu@ccert.edu.cn>; Sun, 11 Sep 2005 15:03:11 +0800 (CST)
+Received: from th105034.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.34)
+  by localhost with SMTP; Sun, 11 Sep 2005 06:50:00 -0000
+From: "ke" <ke@mails.tsinghua.edu.cn>
+To: wu@ccert.edu.cn
+Cc: "'Duan Haixin'" <ren@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrvcyjus7SuMPI57rOveLKzQ==?=
+Date: Sun, 11 Sep 2005 15:15:26 +0800
+Message-ID: <000001c5b547$1fe2f440$2269423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+Importance: Normal
+In-Reply-To: <326258248.07457@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+
+近期就是诚实点，希望谅解。远期就是努力发表一篇
+     曾有一篇文章被ieee transactions 一审接收，但二审被拒了，因为审稿者还是不满意我的修改稿，主编就据了，建议重投。
+     我在一审被接受的情况下，在我的求职简历里面写上了:to appear
+     可能因为这篇文章，东大教授接受我到他那里做博后研究（那时候二审还没有结果），而我当时并不知道是这篇文章的对他接收我的分量，所以被拒后也没和他说。

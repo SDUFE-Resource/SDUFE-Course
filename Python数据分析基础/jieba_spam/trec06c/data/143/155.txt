@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <ma@ccert.edu.cn>; Sat, 17 Sep 2005 00:17:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <ma@ccert.edu.cn>; Sat, 17 Sep 2005 00:29:18 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 16:10:00 -0000
+From: "chi" <chi@mail.tsinghua.edu.cn>
+To: ma@ccert.edu.cn
+Cc: <qian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgMjAwNcTqsbG+qbn6vMrC7cCty8nI/LGow/so16q8xCkgKNeq1Ngp?=
+Date: Sat, 17 Sep 2005 00:29:11 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+来  源: 211.151.90.88 
+【 以下文字转载自 ninayoung 的信箱 】
+发信人: Alagar (SuDenPaSion), 信区: Shaanxi
+标  题:  2005年北京国际马拉松赛报名
+1．     比赛时间为2005年10月16日上午8:30，比赛地点为天安门广场（学校统一组织乘车
+，在紫荆公寓上车）。
+2．     比赛项目有三项可选：10公里，半程马拉松，全程马拉松。
+3．     本次比赛清华大学得到李宁公司的资助，所有参赛的清华学生都能得到大会提供的
+服装等参赛用品，完成者还能获得李宁公司提供的运动服，参加全程项目的同学还可得到来
+自学校的额外惊喜。
+4．     本次比赛学校另外组织5字班同学参加10公里的项目，不需要占用系里名额，因此
+希望5字班在系内报名的同学能够参加半程或者全程项目，如果5字班同学想参加10公里项目
+的不需要在系内报名。
+5．     参加全程和半程的运动员，必须保证自己身体健康，经常进行长跑锻炼，而且能在
+参加比赛前（一个月内）有完成数次超过15公里以上练习。
+6．     由于马拉松比赛总名额有限制，希望每一位报名参赛的同学都能珍惜机会，保证当
+日按时参加比赛。
+由于时间紧急，请到各班体委处填好报名表。
+报名截止时间9月19日（周一）晚22:00
+请各班体委务必在9月19日（星期一）22:00前把本报名表交到王长林处（紫荆1号楼615A，
+手机13810306311），并制定好电子版报名表发到wangcl03@mails.tsinghua.edu.cn。

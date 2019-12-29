@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <gu@ccert.edu.cn>; Sat, 17 Sep 2005 06:17:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <gu@ccert.edu.cn>; Sat, 17 Sep 2005 06:29:04 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 22:10:34 -0000
+From: "rao" <rao@mail.tsinghua.edu.cn>
+To: gu@ccert.edu.cn
+Cc: <qian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3oyMvG+Mj1yPW12M7K0ru+5CCjutXi0fm1xEJGuMOyu7jDs7S19A==?=
+Date: Sat, 17 Sep 2005 06:28:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+他不是马虎 今天早上还问我有没有钱 我说同事借了我200先支撑一下 他就没说什么了 还说要是没钱 就向他那去取 
+     昨天下班 随身背的包包被小偷割开了 偷走了我的手机小灵通和所有的现金（上个月的工资没有存起来都放在钱包了） 俺刚毕业参加工作没有什么积蓄 现在俺是穷光蛋一个 啥都没有了 吃饭都成问题 BF就口头上说要支援俺一下 竟然没有任何实际行动 俺很要面子 自然不会向他伸手要钱 憋了一肚子委屈 觉得BF很过分 俺到公司说明了俺的情况 公司的人都慷慨解囊 要帮助俺渡过难关 俺拒绝了 向财务预支了这个月的工资 请大家说说 这样的BF该不该下岗 还不如公司的同事呢！ 请大家支支招 我该怎么办？

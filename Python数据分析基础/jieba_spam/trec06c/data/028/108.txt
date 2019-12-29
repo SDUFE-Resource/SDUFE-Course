@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <tang@ccert.edu.cn>; Tue, 23 Aug 2005 02:04:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <tang@ccert.edu.cn>; Tue, 23 Aug 2005 02:18:10 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 18:12:47 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "qian" <qian@mail.tsinghua.edu.cn>
+To: tang@ccert.edu.cn
+Cc: "tunet" <rao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEguNDH6dXmtcS1rcHLwvCjvw==?=
+Date: Tue, 23 Aug 2005 02:14:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我和男友相恋半年，原来我们感情很好，每天都要发几十条短信，我一下班他就在学校门口等我，那时候对见面的期待是那么的强烈。但是现在，我们有时一天也不发一条短信，他说要写论文不能天天见面，我们两三天才见一次。我问他是不是没那么喜欢我了，他又否认，让我别乱想。我现在真的怀疑我们的感情已经越来越淡，今天我终于向他提出分开一阵子，看是不是还需要彼此。我不知道我这样做对还是不对，但我真的不想这样勉强下去。

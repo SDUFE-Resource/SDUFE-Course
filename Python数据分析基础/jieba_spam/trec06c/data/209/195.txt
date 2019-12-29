@@ -1,0 +1,19 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T2QvLi001892
+	for <xia@ccert.edu.cn>; Fri, 30 Sep 2005 14:48:45 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8T2U2h24691;
+	Fri, 30 Sep 2005 14:51:50 +0800
+Message-Id: <200509290230.j8T2U2h24691@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 06:51:50 UT
+To: xia@ccert.edu.cn
+From: fu@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTjv7S5/bXEtefTsNbQo6zE49fuz7K7trXEzKi0ysrHyrLDtKO/?=
+
+Listen, Rose. You’re going to get out of here. You’re going to go on. You’re going to make lots of babies, and you’re going to watch them grow. You’re going to die and old, an old lady in her warm bed, not here, not this night, not like this. Do you understand me?  
+     我比较喜欢的是东邪西毒中的一句：有些事情你越想忘记，就会记得越牢。当有些事情你无法得到时，你惟一能做的，就是不要忘记。

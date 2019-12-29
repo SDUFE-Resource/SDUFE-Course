@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <ling@ccert.edu.cn>; Sat, 24 Sep 2005 09:28:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <ling@ccert.edu.cn>; Sat, 24 Sep 2005 09:40:13 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 01:17:10 -0000
+From: "ning" <ning@mail.tsinghua.edu.cn>
+To: ling@ccert.edu.cn
+Cc: <gong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzfXb86Os?=
+Date: Sat, 24 Sep 2005 09:39:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+有机会的话去Princeton, 或者MIT吧。
+只要你是天才，肯专心研究，抛去一切杂念，那里就适合你。
+不过，我并不能确定你是否真正能做到，能做到的人毕竟是少数。
+就算，在清华失败了，也不算什么。很多大学者，在Priceton或者
+MIT也受到过挫折，关键，还是看你自己。
+不过，我要说，Princeton之所以好，就是因为她的博大胸怀。正是
+这种胸怀，一个8年没有论文，苦心研究的数学家终于解决了困扰数学
+界300年的数学难题，获得菲尔茨终生成就奖。
+正是这样的胸怀，才有博弈均衡论的大师Nash战胜病魔，走向诺贝尔
+获奖台。不过，要在科学上有所作为，必须面临很多挫折。

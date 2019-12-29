@@ -1,0 +1,31 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <mei@ccert.edu.cn>; Sat, 17 Sep 2005 17:06:17 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <mei@ccert.edu.cn>; Sat, 17 Sep 2005 17:22:52 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <mei@ccert.edu.cn>
+	; Sat, 17 Sep 2005 17:22:52 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <mei@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 16:47:53 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "wang" <wang@njnu.edu.cn>
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SuMPU9cO0tKbA7dfFs6HS7Ln6wbU=?=
+Date: Sat, 17 Sep 2005 17:18:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+你的意思是你的理想是找一个有某个国籍的男人？
+     这是一场我没预料到的异国恋情...
+     我和他已经5个月了，他现在回美国了， 但为了我他想要放弃在美国上大学的机会，他是很认真的想和我厮守一辈子， 我喜欢他但是我不能保证未来。 因为和他在一起我会有遗憾， 他不是我喜欢的那种类型的男生，尤其是他的血统和国籍（这一点是最主要的，我也知道和一个人在

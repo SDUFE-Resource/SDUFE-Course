@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <ling@ccert.edu.cn>; Mon, 15 Aug 2005 21:33:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <ling@ccert.edu.cn>; Mon, 15 Aug 2005 21:46:45 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 21:41:40 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 21:41:40 +0800
+From: qian@mail.tsinghua.edu.cn
+To: ling@ccert.edu.cn
+Date: Mon, 15 Aug 2005 21:41:40 +0800
+Reply-To: qian@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILTzvNK+9bXDwarP69HQvr/UutT1w7TR+T8=?=
+Content-Type: text/plain
+
+外企中如果设立了研究中心，还是有一些做核心技术的。如果只是研发中心，那作核心技术的确实比较少。
+不过有一点疑问，联想，如此大的一个企业，为什么没有一个很知名的软件品牌？
+它的软件研发水平实际上还是相当不错的，所谓有所为，有所不为，它的有所不为指的是什么？
+     标  题: Re: 大家觉得联想研究院怎么样?
+     
+     我也在那里，感觉还是不错的。论待遇在国内公司算不错了，估计比不上外企，不过整体氛围还不错。
+     而且外企在中国的研究院有几个在做核心技术的？恐怕也就微软亚洲研究院等几个少数公司把核心技术放在中国做，其他的外企都是ABCDE lab.很多硕士博士在里面做的都是很easy的东西。在联想研究院，有一些项目还是比较有挑战性的。
+     当然，英语确实用得少了一点。
+     
+     
+     --
+     

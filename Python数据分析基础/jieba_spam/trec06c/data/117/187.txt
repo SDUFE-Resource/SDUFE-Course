@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ACNovr029742
+	for <cen@ccert.edu.cn>; Sun, 11 Sep 2005 21:48:04 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8ACKv6Q093262
+	for <cen@ccert.edu.cn>; Sun, 11 Sep 2005 21:45:35 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8ACKomW093258
+	for <cen@ccert.edu.cn>; Sun, 11 Sep 2005 21:45:08 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+Message-Id: <200509101220.j8ACKomW093258@gradinfo.net.edu.cn>
+Received: from free-qhkbi6e7yv (unknown [59.66.201.85])
+	by smtp2 (Coremail) with SMTP id QsA3yF3IIkPPuYAD.1
+	for <cen@ccert.edu.cn>; Sun, 11 Sep 2005 21:14:07 +0800 (CST)
+X-Originating-IP: [59.66.201.85]
+Date: Sun, 11 Sep 2005 21:15:54 +0800
+From: "cao" <cao@163.com>
+To: cen@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8ACKomW093258
+Subject: =?gb2312?B?UmU6IMHuztK3s8TVtcTGxcbF?=
+Precedence: list
+Reply-To: cao@163.com
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+恩，我也很郁闷，还有比我婆婆更抠的吗。昨天有人来俺家，俺用一次性纸杯给她们到的水，人走了，我婆婆说她要把纸杯洗洗再用。上市场只买土豆和大白菜。如果我们买别的菜，婆婆会非常生气的说啊买这些干什么，浪费钱，吃只是为了填饱肚子。不洗澡然后嫌我洗澡浪费水。不冲马桶，省水。上卫生间不开灯（俺家是暗卫），蹲在里面洗衣服，省电。一般只要她醒着嘴就不歇着，总要不停的说。俺给她买衣服她从晚上说到早上，从早上说到晚上，说我浪费，但她照样穿在身上。那会我都想拿针把她嘴缝上。

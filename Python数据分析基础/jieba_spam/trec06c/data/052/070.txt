@@ -1,0 +1,30 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q8frpZ012129
+	for <che@ccert.edu.cn>; Sun, 28 Aug 2005 17:01:45 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <430ED8CA.0000D0.32715@m115.126.com>
+Date: Sun, 28 Aug 2005 17:13:58 +0800 (CST)
+From: "luo" <luo@126.com>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuMir1rDKtc+wyfo=?=
+X-Priority: 3
+X-Originating-IP: [222.82.97.251]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_nydxdIXIQAMDkzacqLhDtoxLoZym"
+
+ 职位：视频编码器研发人员 2 
+         要求： 
+               1、精通c\\c++语言，有linux开发经验；
+               2、熟悉RTP/RTCP/SDP流媒体传输协议，并有一定的开发经验；
+               4、熟悉h.264视频编码标准，有一定算法开发经验；
+               3、有Mplayer、MPEG4IP开发经验的优先。
+         研发内容：
+               1、实时编码器的研发；
+               2、多码率文件的研发；
+               3、解码器的相关配合工作。
+         工作地址：北京师范大学东门附近。
+         注意：需要全职实习，且需要至少半年的实习时间。
+         具体待遇面谈。
+         联系方式：sulei@ctid.com.cn       
+    请有意的同学注意，本职位是给有一定经验，同时熟悉多媒体技术的同学提供的一个机会，请非相关领域的同学不要发简历了，对这些简历，我们不会回信，谢谢配合。
+    公司会提供较优越的补助以及早中两餐，同时该项课题十分先进，给大家很大的发展空间，希望有能力的同学前来尝试。

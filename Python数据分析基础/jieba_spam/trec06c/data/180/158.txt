@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <lei@ccert.edu.cn>; Sat, 24 Sep 2005 22:23:56 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <lei@ccert.edu.cn>; Sat, 24 Sep 2005 22:35:25 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 14:12:31 -0000
+From: "feng" <feng@mail.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Cc: <hua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILjDsru4w7jmy9/Az8bF1ebP4A==?=
+Date: Sat, 24 Sep 2005 22:35:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+     我在国内，老婆目前在国外学习，因各种原因不能回国，老婆姐妹五个，她最小。上周岳父病危，我知道后立即告诉她家人瞒着我老婆，我立刻回去。她家人不愿意，认为要让老婆知道好，我也没有办法，只好告诉了老婆。
+     我回去后，岳父病逝，我要求她家人暂时瞒着我老婆，就说还在医院治疗，我认为她没有能力做些事情，一个人在外，怕她受不了打击，这样我还得担心她。本来我订的23号的机票，上周去看她呢。
+     现在处理完一切，她还不知道父亲已经病逝，不过她知道病非常严重，我也试探她能不能承受，她说可以。

@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <xue@ccert.edu.cn>; Sun, 25 Sep 2005 14:33:02 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <xue@ccert.edu.cn>; Sun, 25 Sep 2005 14:44:27 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 06:21:24 -0000
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+Cc: <jin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sun, 25 Sep 2005 14:44:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+这篇文章说明作者是一个充满自卑和怯懦感的人！学校不可能为你提供所需的一切，更多的东西要靠自己拼搏奋斗来实现。很多牛人在恶劣的环境下不也取得了惊人的成就吗？一天到晚只会抱怨老师不好、氛围不好，像作者这样的人，只怕给他再好的氛围和环境，他也同样是见异思迁，不停地找客观原因，而不去找找自身的原因，如果他不改掉自己这个恶劣的毛病，他必将终身一事无成！！！
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)
+     发信站: 水木社区 (Fri Sep 23 12:00:32 2005)

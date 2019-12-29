@@ -1,0 +1,24 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <wang@ccert.edu.cn>; Sat, 20 Aug 2005 22:27:56 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <wang@ccert.edu.cn>; Sat, 20 Aug 2005 23:01:16 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Sat, 20 Aug 2005 22:42:15 +0800
+From: "lai" <lai@mail.nisac.gov.cn>
+Reply-To: lai@mail.nisac.gov.cn
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INfy0rmjrM7Sv961w7K7yfmyu8/s?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+re你最后一句话
+都分手了 别想了
+         那一夜，我哭的不声不响。
+         好困，头一天晚上，辗转往复，睡不着，一直折腾到两点多钟才慢慢有了一点睡意，于是模模糊糊睡去。

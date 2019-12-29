@@ -1,0 +1,22 @@
+Received: from 163.com (bj44-212.i.netease.com [202.108.44.212])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J18GIe011523
+	for <ma@ccert.edu.cn>; Wed, 21 Sep 2005 00:58:27 +0800 (CST)
+Message-ID: <200509190908.j8J18GIe011523@spam-gw.ccert.edu.cn>
+Received: from tsinghua-i1p2se (unknown [219.223.254.137])
+	by smtp4 (Coremail) with SMTP id 1kOJjikSLkOuktkC.1
+	for <ma@ccert.edu.cn>; Wed, 21 Sep 2005 01:09:59 +0800 (CST)
+X-Originating-IP: [219.223.254.137]
+From: "cen" <cen@163.com>
+Reply-To: cen@163.com
+To: ma@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: =B2=E2=CA=D4=B3=CC=D0=F2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 21 Sep 2005 01:09:54 +0800
+
+下面是在清华招生公告上的一段文字，不知道什么意思，是不是在京外地区参加考试的考生同样要求打印和邮寄《报考攻读硕士学位研究生登记表》，谢谢了，第一次考没经验，请大虾指点！
+（3）登录成功后，考生可以查询报考信息，并打印《2006年清华大学硕士研究生报名信息表》（报考京外招生单位考生打印《报考攻读硕士学位研究生登记表》）。请不要采取任何形式修改该表已经确认的栏目，一经查出，后果自负。《2006年清华大学硕士研究生报名信息表》（报考京外招生单位考生为《报考攻读硕士学位研究生登记表》）必须本人签字，无须考生人事所在单位盖章。
+（4）报名者务必于2005年11月7日之前将《2006年清华大学硕士研究生报名信息表》（报考京外招生单位考生提交《报考攻读硕士学位研究生登记表》）粘贴好考生本人当月免冠正面一寸黑白照片或彩色白底照片后寄达/送达清华大学研究生招生办公室（邮政编码100084），11月10～14日可登录清华大学网上报名系统查询本人照片，有本人照片即完成报名程序。

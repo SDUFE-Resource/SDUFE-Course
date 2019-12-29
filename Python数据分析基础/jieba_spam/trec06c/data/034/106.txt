@@ -1,0 +1,29 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <xia@ccert.edu.cn>; Wed, 24 Aug 2005 16:32:18 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Wed, 24 Aug 2005 08:21:53 -0000
+From: "cao" <cao@mails.tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 24 Aug 2005 16:45:35 +0800
+
+根据8月22日国家自然科学基金委公布的2005年度国家杰出青年科学基金及
+国家杰出青年科学基金（外籍）候选人名单，我校翁征宇教授被选为今年的
+杰出青年基金（外籍）候选人。
+名单
+2005年度国家杰出青年科学基金（外籍）候选人名单
+序号 姓名 性别 学位 专业技术职务 研究领域 单位名称
+1 张卫平     男 博士     教授     量子光学和原子光学；原子分子物理 华东师范大学
+2 岳澄波     男 博士     教授     动力系统、几何与拓扑、Kleinian群、神经科学     
+中国科学院数学与系统科学研究院
+3 卢建新     男 博士     教授     超弦/M-理论及其在粒子物理和宇宙学中应用     
+中国科学技术大学
+4 翁征宇     男 博士     教授     超导电性     清华大学
+。。。。。。

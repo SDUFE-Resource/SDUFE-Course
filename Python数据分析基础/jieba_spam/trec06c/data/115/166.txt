@@ -1,0 +1,30 @@
+Received: from v-wall.ihep.ac.cn (v-wall1.ihep.ac.cn [202.38.128.11])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A67I7W028126
+	for <zhan@ccert.edu.cn>; Sun, 11 Sep 2005 11:13:10 +0800 (CST)
+Received: from v-wall1.ihep.ac.cn (v-wall1.ihep.ac.cn [127.0.0.1])
+	by v-wall.ihep.ac.cn (8.11.6/8.11.6) with SMTP id j8A632u31254
+	for <zhan@ccert.edu.cn>; Sun, 11 Sep 2005 11:08:54 +0800
+Received: from post.ihep.ac.cn (202.38.128.5)
+  by localhost with SMTP; Sun, 11 Sep 2005 03:08:53 -0000
+Received: from ihep.ac.cn (localhost.localdomain [127.0.0.1])
+	by post.ihep.ac.cn (8.12.10/8.12.10) with ESMTP id j8A6JW0W008447
+	for <zhan@ccert.edu.cn>; Sun, 11 Sep 2005 11:25:24 +0800
+From: "lei" <lei@ihep.ac.cn>
+To: zhan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/W1Nq2r9f3xqy1xMSjyr2+zcrHo7o=?=
+Date: Sun, 11 Sep 2005 11:25:24 +0800
+Message-Id: <20050910061836.M92112@ihep.ac.cn>
+In-Reply-To: <000a01c5970a$d8f48da0$26cb6fa6@liuwu>
+X-Mailer: Open WebMail 2.51 20050228
+X-OriginatingIP: 202.38.128.57 (shuhang)
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset=gb2312
+
+以前的动作片模式：
+孤胆英雄往往不得志，退隐江湖，这时上头或者一伙莫名其妙的坏蛋刺激
+他往日的雄心壮志，使得他背起机枪，重现当年的肌肉（可能揩了很多油）
+独闯虎穴，虽然坏蛋怎么射都射不到要害，在坏蛋临死的时候废话总是特别多。
+对了，还忘记了，英雄旁边总会有一个惊叫不断的美女来衬托英雄的威猛，
+并随时解决英雄的生理需要以便更好地作战。
+     一大帮人全副武装气势凶凶的去找茬，不幸遇到更狠的，结果主力轻易被灭，只剩下两个最不起眼的（或者最业余的，最弱智的，最萎缩的，也可能是个狠手，不过一定是属于民间科学家性质自学成材的）经过种种巧合居然把对方boss灭掉，最后顺利完成任务凯旋而归

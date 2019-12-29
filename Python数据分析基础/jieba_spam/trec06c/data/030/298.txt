@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <cheng@ccert.edu.cn>; Tue, 23 Aug 2005 19:02:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <cheng@ccert.edu.cn>; Tue, 23 Aug 2005 19:15:27 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 11:10:04 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "jiang" <jiang@mail.tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Cc: "tunet" <lai@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx7HBprmry76zz8a406KyxQ==?=
+Date: Tue, 23 Aug 2005 19:11:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+诚聘英才：
+公司简介：
+该公司是在Cayman注册的网络公司，从事人才资源管理业务，目前正处创业阶段，公司业务预计在国内、国际有巨大发展潜力。目前已与在美国为世界500强提供人力业务服务公司开始正式合作关系。 
+公司总裁拥有多年国际上大规模软件公司操作经验，并有多种华尔街关系，以便公司上市，使股东通过所持有股份而获得最大的经济收益。公司的创办人拥有美国斯坦福大学学士学位和美国西北大学凯洛格管理学院工商管理硕士学位。曾就职微软, 美国VERITAS SOFTWARE公司, 还曾在美国马萨诸塞州富达风险投资担任重要职务。
+只要您经公司考核，聘为正式员工，并顺利完成公司的网站建设项目，您除了得到固定的工资外，你还会得到相应的股份，你的收入会伴着公司一起成长。
+如果您满怀创业的激情并想同我们共享成功创业的特殊回报，请加入我们当中来
+人才需求：行政/市场人员：
+主要工作内容：从事公司的工作日程安排管理，客户联系，市场策划
+其他要求：认真负责、富有创业激情，需要思维灵敏，善于表达，交际能力强，吃苦耐劳，办事细心周到，全职，兼职均可，全职优先考虑
+理想条件：会开车，英语水平较好的优先考虑，如果你被成功试用，公司考虑对你的开车技能和英语水平进行培训。
+联系方式：madelinewong@lfhcompany.com发简历到邮箱
+请不要回站内邮箱

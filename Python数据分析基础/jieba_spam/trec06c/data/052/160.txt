@@ -1,0 +1,26 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <chen@ccert.edu.cn>; Sun, 28 Aug 2005 18:59:42 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 19:10:15 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sun, 28 Aug 2005 19:10:15 +0800
+From: "zhao" <zhao@ctbu.edu.cn>
+To: chen@ccert.edu.cn
+Date: Sun, 28 Aug 2005 19:10:15 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "zhao" <zhao@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INK7uPbR0L6/yfq1xNf3z6LKsbzkse2jrMfrtPO80ta41f0=?=
+Content-Type: text/plain
+
+先保留第一条和最后一条看是否能做到
+新学期作息时间表：
+                07：00 起床、洗漱、早饭
+                08：00 - 12：00 学术科研
+                12：00 - 13：30 午饭、午休
+                13：30 - 17：30 学术科研
+                17：30 - 19：00 打拳
+                19：00 - 21：00 晚饭、休闲娱乐
+                21：00 - 23：00 游泳
+                23：00 上床睡觉

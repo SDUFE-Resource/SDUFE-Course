@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <zheng@ccert.edu.cn>; Sun, 28 Aug 2005 17:57:28 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 18:01:51 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 28 Aug 2005 18:01:51 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Sun, 28 Aug 2005 18:01:51 +0800
+From: "cheng" <cheng@mail.tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Date: Sun, 28 Aug 2005 18:01:51 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgse3A77K70rujurXYx/LE2rrLscjN4r/H16q1w7/sICjXqtTYKQ==?=
+Content-Type: text/plain
+
+【 以下文字转载自 Astronomy 讨论区 】
+发信人: celespace (北岭星空), 信区: Astronomy
+标  题: 表里不一：地球内核比外壳转得快
+2005年08月28日 格林尼治标准时间13:20北京时间 21:20发表
+宋晓东等人96年第一次提出，地核自转速度可能比地壳快 
+美国科学家称，他们证实地球内核自转的速度比外壳每年快大约0.009秒。 
+这一研究小组根据在不同时间里、在同一地点的地震波速度的不同，得出这一结论。 
+地球的地核是结晶状的铁和镍构成，直径为2440公里。在固态地核之外是液态的外层地核，直径为7000公里。最外层是厚度约为3000公里的地幔和地壳。 
+由伊利诺伊大学地质学教授宋晓东和哥伦比亚大学的保罗・理查德1996年就第一次提出，地核自转速度可能比地壳快，但这一观点一直受到质疑。 
+他们撰写的论文，将发表在最新出版的一期《科学》杂志上。 
+地震波速度 
+美国的科学家称，他们新的发现为关于地核与地壳自转速度的争论提供了更有说服力的证据。 
+宋晓东、理查德和他们的同事们研究了过去南大西洋的地震资料，从中找出17对发生年份不同、但震源和强度非常相似的地震波，并通过阿拉斯加的地震监测站接收到的数据，来比较它们穿越地核的速度变化。 
+结果宋晓东等人发现，在地壳同一位置、不同年份的地震所产生的地震波，在穿越地核时速度的变化有所不同。 
+他们表示，得到的证据表明，地球的内核自转速度比地壳稍快，如果以角度衡量，地核每年要“领先”地壳0.3至0.5度，大约每900年就要多转一圈。

@@ -1,0 +1,29 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <guo@ccert.edu.cn>; Mon, 26 Sep 2005 09:14:27 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Mon, 26 Sep 2005 01:21:55 -0000
+From: "lin" <lin@mails.tsinghua.edu.cn>
+To: guo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzZyejV4tH50rvW1sfpv/ajrM312/PNy9GntcTKwg==?=
+Date: Mon, 26 Sep 2005 09:31:36 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+不一样。你说的这个情况，我们系就有一个这么做的，原本和我是同级。
+但是人家退学，不是因为觉得清华环境不好，也不是觉得清华师生不过尔尔，等等
+他家里给联系到了一个极好的去处，呵呵
+         清华本科直博退学也不是什么新鲜事儿了
+     
+     : 假设王垠的本科是在清华读的，那么今天他就不会退学。
+     : 为什么？因为我已经看到有太多的原本很狂的高中生，在这里学会了夹着尾巴做人。
+     : 而王同学是来读研的，自然与同学的接触面就很窄，一般仅限于实验室的几个人，这样

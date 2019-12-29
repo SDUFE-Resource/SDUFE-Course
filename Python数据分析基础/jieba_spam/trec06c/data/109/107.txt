@@ -1,0 +1,27 @@
+Received: from 126.com (m31-158.126.com [220.181.31.158])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j882ghpL007899
+	for <weng@ccert.edu.cn>; Sat, 10 Sep 2005 03:54:12 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <431FA7F0.0000D5.13645@m118.126.com>
+Date: Sat, 10 Sep 2005 04:06:02 +0800 (CST)
+From: "xin" <xin@126.com>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+W7qrTz0ae7+bShuaTStdG1wbfW0NDE1dDGuA==?=
+X-Priority: 3
+X-Originating-IP: [60.180.154.180]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_NjeVtzYBfOkaFrBLeRSRAzHQbPND"
+
+招聘单位：清华大学基础工业训练中心CAD/CAM培训部
+招聘职位：CAD教材编辑
+职位描述：协助从事Pro/E教材的编辑工作，能够把旧版本Pro/E的培训教材转换成
+          最新软件版本的教材。从事Pro/E技术开发。
+任职条件：重点大学毕业的本科生或硕士生；女性；对Pro/E比较熟悉。熟悉Visual C++， 
+          能够编程。具有较强的文字表达能力
+招聘人数：2人
+工作地点：北京
+薪酬：2500至3000元
+年龄：26岁以下
+应聘者请将简历发至以下邮箱：
+hongliang@mail.tsinghua.edu.cn
+简历包含：姓名、出生年月、户口所在地、免冠近照、毕业院校、专业、毕业时间、最终学位。从高中以来的简历。何时学习的Pro/E，三维造型能做到什么程度，提供作品更佳。请注明：本人的联系方式。

@@ -1,0 +1,54 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M9u4Oh007208
+	for <cao@ccert.edu.cn>; Fri, 23 Sep 2005 01:25:08 +0800 (CST)
+Received: from USER-8A61F7734D (tu203210.ip.tsinghua.edu.cn [166.111.203.210])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8MA7Wo22604;
+	Fri, 23 Sep 2005 01:36:36 +0800 (CST)
+Message-Id: <200509221007.j8MA7Wo22604@netarchlab.tsinghua.edu.cn>
+Date: Fri, 23 Sep 2005 01:33:54 +0800
+From: "jiang" <jiang@netarchlab.tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuA==?=
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+北京艺酷公司，是一家由国际知名风险基金投资的Startup，拥有一批具有丰富电子商务运营及技术开发经验的团队，致力于新一代电子商务平台及模式的创新与开发。艺酷平台能为广大用户提供一个展示个性的网上空间，具有巨大的市场前景。
+在此，公司真诚欢迎有志于在电子商务领域从事研发的人员加入。在艺酷，您将获得宽广的发展空间和具竞争力的待遇。
+联系Email：yiikoojob@china.com, 电话：86905176
+Yiikoo Job Openings:                    2005-09-23
+1.    资深网站开发工程师/网站架构师 (Senior Web Development Engineer/Web Architect)
+&amp;#61485;    2-3年商用网站的设计开发经验
+&amp;#61485;    有电子商务网站开发经验者从优，如：付费(payment)、发运(shipping)等
+&amp;#61485;    能进行网站架构设计、性能优化等
+&amp;#61485;    至少能熟练在以下一种技术平台上进行开发：PHP、Java或.NET
+&amp;#61485;    有数据库设计、优化、管理经验者从优
+&amp;#61485;    具有敬业、好学、团队合作精神
+&amp;#61485;    大学本科以上，或相当学历
+2.    网站开发工程师(Web Development Engineer)
+&amp;#61485;    1-2年商用网站的开发经验
+&amp;#61485;    有电子商务网站开发经验者从优考虑，如：付费(payment)、发运(shipping)等
+&amp;#61485;    至少能熟练在以下一种技术平台上进行开发：PHP、Java或.NET
+&amp;#61485;    具有敬业、好学、团队合作精神
+&amp;#61485;    大学本科以上，或相当学历
+3.    数据库管理员(DBA)
+&amp;#61485;    1-2年数据库设计、优化、管理经验
+&amp;#61485;    有电子商务网站开发经验者从优
+&amp;#61485;    能熟练运用MySQL者从优
+&amp;#61485;    具有敬业、好学、团队合作精神
+&amp;#61485;    大学本科以上，或相当学历
+4.    网站管理员 (Webmaster)
+&amp;#61485;    1-2年商用网站的管理经验，有电子商务网站经验者从优
+&amp;#61485;    熟悉网站的配置、管理、及运维
+&amp;#61485;    熟悉Linux、网络、防火墙、及其他网络设备
+&amp;#61485;    具有敬业、好学、团队合作精神
+&amp;#61485;    大专以上，或相当学历
+5.    网站产品设计师(Product Developer/Producer)
+&amp;#61485;    1-2年商用网站的产品设计经验，有电子商务网站经验者从优
+&amp;#61485;    能分析市场、用户等的需求，进行产品设计
+&amp;#61485;    有网站开发经验或知识者从优
+&amp;#61485;    具有良好的沟通及表达能力
+&amp;#61485;    具有敬业、好学、团队合作精神
+&amp;#61485;    大专以上，或相当学历

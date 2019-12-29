@@ -1,0 +1,69 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <guo@ccert.edu.cn>; Sat, 27 Aug 2005 05:57:50 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 06:16:10 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 06:16:10 +0800
+Date: Sat, 27 Aug 2005 06:16:10 +0800
+From: che@cernet.com
+Subject: =?gb2312?B?ofEgSUJNyO28/r+qt6LW0NDEVGl2b2xpz+7Ev9fp1dDGuA==?=
+To: guo@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+本招聘信息不是面向应届毕业生和intern，该项目的intern招聘信息已经发在intern板，而校园招聘稍后才开始进行。所以没有毕业的学生请不用发简历应聘本次的职位，后面还有机会。
+本招聘信息已经发布在IBM的正式招聘网站上，但由于项目比较紧，所以希望通过BBS能快速收集到合适的简历。另外，对于应聘不同职位的，请使用对应的EMAIL标题（详见各个职位的描述），谢谢。
+另：所有职位的工作地点均在北京。
+1. Java Developer
+Responsibilities:
+Java Developer for SOA Monitoring project
+Desired Skills and Experience:
+. 2 years plus J2EE programming experience  
+. Minimal 4 years experience with Java programming
+. Familiar with Web Serivces, good understanding of SOA.
+. Familiar with one of following Application Server runtime environments: WebSphere, WebLogic, Netweaver, Oracle, CICS, 
+JBoss.
+. Good programming skills on C++ is a big plus.
+. Good skills on one of following: Eclipse, RAD, WSAD.
+Qualification:
+.Bachelor Degree or above in Computer Science or relevant with at least 2 years experiences in software development
+.Good communication and team work, Fast learner
+.Self-motivated to solve problems
+.Good verbal and written English skills
+Please send your resumes to lijbin@cn.ibm.com with subject: "Apply for Java Developer" 
+2. CICS Developer
+Responsibilities:
+CICS Developer for SOA Monitoring project
+Desired Skills and Experience:
+. 2 years plus CICS developing experience(C/Java/COBOL).
+. Familiar with CICS installation and configuration.
+. Familiar with IBM OS390 installation and administration.
+. Good understanding of SOA and Web Services is a big plus.
+Qualification:
+.Bachelor Degree or above in Computer Science or relevant with at least 2 years experiences in software development
+.Good communication and team work, Fast learner
+.Self-motivated to solve problems
+.Good verbal and written English skills
+Please send your resumes to lijbin@cn.ibm.com with subject: "Apply for CICS Developer" 
+3. QA 
+Responsibilities:
+QA for SOA Monitoring project
+Desired Skills and Experience:
+. Knowledge of software engineering and quality assurance 
+. Good programming skills on .NET or J2EE 
+. System administrator skills on Unix/Linux/Windows 
+. Familiar with one of following: WebSphere, WebLogic, Netweaver, Oracle, CICS, JBoss.
+. Having OS390 experiences is a big plus.
+Qualification:
+.Bachelor Degree or above in Computer Science or relevant with at least 2 years experiences in software development
+.Good communication and team work, Fast learner
+.Self-motivated to solve problems
+.Good verbal and written English skills
+Please send your resumes to zhouyb@cn.ibm.com with subject: "Apply for SOA Monitoring project QA" 

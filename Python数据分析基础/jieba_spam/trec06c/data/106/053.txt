@@ -1,0 +1,29 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <luo@ccert.edu.cn>; Fri, 9 Sep 2005 10:37:20 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <luo@ccert.edu.cn>; Thu, 8 Sep 2005 19:49:27 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Thu, 8 Sep 2005 19:49:27 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Thu, 8 Sep 2005 19:49:27 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Fri, 9 Sep 2005 10:49:27 +0800
+From: =?GB2312?B?1/O+pw==?= <xin@gmail.com>
+Reply-To: xin@gmail.com
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SuMOyu7jDvty++NXiuPbFrrqixNijvw==?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+唉。。。
+不要封闭自己的心灵，也许错过的时候你会后悔。
+一个女孩子这样做，需要的是多大的勇气。
+     偶然的机会认识了这个女孩，很好的一个女孩。我对她感觉挺好的，可是并没有特别强烈的欲望去追求她。当她从车站回来的时候，我忽然心血来潮的说要去接她，她没有拒绝，然后就送她到宿舍，休息了一会还和她一起吃了pizza.
+     后来，她要买笔记本电脑，然后我帮她选了n个机型作推荐，但是那一天我有事情没能陪她一起去中关村，结果她跟同学一起去，最后挑了一款.然后央我给伊装系统，因为她不是本校的，所以我说你过来方便一些，在我宿舍是不可能的(我不会领女生来宿舍的)，所以在六教吧,然后她

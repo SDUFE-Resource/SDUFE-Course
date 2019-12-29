@@ -1,0 +1,42 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <kang@ccert.edu.cn>; Thu, 18 Aug 2005 18:38:52 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <kang@ccert.edu.cn>; Thu, 18 Aug 2005 18:51:56 +0800 (CST)
+Date: Thu, 18 Aug 2005 18:46:13 +0800
+From: "chi" <chi@sohu.com>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXQxrjUuNLitNPKwsjtvP6/qreitcTH5buqtcSxz9K1yfqjqM7evq3R6dKyv8mjqQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+还是清华毕业的同学更加了解清华
+     标  题: 招聘愿意从事软件开发的清华的毕业生（无经验也可）
+     
+     本公司为软件开发为主的技术型公司，成员均为清华毕业。目前有比较多的软件开发项目。主要是用于j2ee和c++。现在想招聘部分人，由有经验的技术人员进行培养，并且在项目中实习和工作同时也作为公司的人才储备。
+     要求如下：
+     1、有计算机编程的基础。要对c或vb或dephi或java等任何一种语言有编程基础，并且做过一些大作业或项目。热爱软件开发，热爱编程。
+     2、人要聪明，学习能力强，能吃苦。在培训过程中能边学边干。
+     3、为人诚信。有团队合作精神。人品要好。
+     4、将来希望能够从事软件开发的行业。要热爱技术。对计算机技术比较敏感和喜欢。
+     5、我公司为创业团队开始工资会不高，但是可以把你带领到软件开发的领域。同时我公司和许多国内外的大公司都有外包的业务，可以把人送到那里去边学边干，提高的很快。
+     6、如果你是清华冷门专业毕业，现在没什么正经稳定的工作又想学技术，来我这里很适合你。公司的团队氛围很好。
+     7、不在乎你在学校学习多差，有没有毕业证、学位证都无所谓的。我门不看中这个，看中的是你是否能很快的学习，工作主动性强和能吃苦的精神。公司一定会给你一个重新树立信心和再创辉煌的机会。
+     8、如果你有意向就速来联系我。
+     
+     电话：13910187956
+     email：lanbo@tsinghua.org.cn   lan-bo@263.net
+     
+     --
+     
+     昔之得一者
+     天得一以清
+     地得一以宁
+     神得一以灵
+     谷得一以盈
+     
+     

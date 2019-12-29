@@ -1,0 +1,30 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U53DPo005755
+	for <qian@ccert.edu.cn>; Thu, 1 Sep 2005 10:39:52 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM000EEHS793G@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 1 Sep 2005 10:57:48 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 1 Sep 2005 10:57:48 +0800
+Date: Thu, 1 Sep 2005 10:57:48 +0800
+From: jian@cernet.com
+Subject: =?gb2312?B?u9i4tA==?=:Re: =?gb2312?B?zOG42aOs17zI67/Y1sa8vMr1?=
+To: qian@ccert.edu.cn
+Message-id: <b4fd5b8fe1.b8fe1b4fd5@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+一般不发其他言，突然想说几句。
+这个bbs站点已经没有灵气了，不管采取什么样的措施变相开放校外用户，因为大家对它没有信心。人气一旦丧失，很难再凝聚。
+原来的水木之所以这么旺盛，是因为它的机制让每个id都在这里感受到平等，感受到信息充分。所以，会有一大批热心网友无偿出来做站务、版主，为这个bbs站贡献力量。
+当伤了这批热心网友（站务、版主和活跃在一些版面的“大佬”）对这个站点失去热情和动力的时候，再也无法挽回颓势了。
+我倒是真心建议一句，为了不浪费纳税人的钱财，这个站关站吧！我相信这个“官方”站点的站务、主要版面的版主都是有助管岗位或者有勤工俭学经费的；当然如果是教工的话有岗位津贴。
+     【 以下文字转载自 foolsnoopy 的信箱 】
+     发信人: SYS01 (SYSOP), 信区: sysop
+     标  题: [公告] 关于本站开通全球通手机认证功能的公告

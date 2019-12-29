@@ -1,0 +1,86 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <cheng@ccert.edu.cn>; Tue, 13 Sep 2005 09:01:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <cheng@ccert.edu.cn>; Tue, 13 Sep 2005 09:13:06 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 00:55:54 -0000
+From: "hong" <hong@mail.tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Cc: <tang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg3+2jrLLCwcuw68zso6yywrP2wLQzNLj2?=
+Date: Tue, 13 Sep 2005 09:13:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+1:dead poets society
+2:Unforgiven
+3:
+4:men in black
+5:
+6:matrix
+7:
+8:schindler\'s list
+9:Full Monty
+10:
+11:
+12:godzilla
+13:amelie
+14:the bridges of madison county
+15:Basic Instinct
+16:eyes wide shut
+17:
+18:The Sixth Sense
+19:
+20:
+21:
+22:the mask
+23:Vertical Limit
+24:
+25:
+26:
+27:scream
+28:speed
+29:A Clockwork Orange 
+30:
+31:Memento
+32:batman
+33:Forrest Gump
+34:
+35:
+36:ben hur
+37:Vanilla Sky
+38:Notting Hill
+39:
+40:In The Line Of Fire
+41:Pulp Fiction
+42:
+43:Rocky
+44:
+45:The Silence of the Lambs
+46:The Godfather
+47:
+48:Three Kings
+49:Moulin Rouge
+50:
+51:
+52:Titanic
+53:
+54:American Beauty
+55:
+56:The Truman Show
+57:
+58:
+59:
+60:shining
+61:
+62:
+63:
+     直到现在都没人猜出51
+     我现在就很好奇者是什么片子，从图象上看应该是科幻……

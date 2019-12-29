@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FBhgV9003152
+	for <tang@ccert.edu.cn>; Sat, 17 Sep 2005 22:35:26 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FBtVIH029758
+	for <tang@ccert.edu.cn>; Sat, 17 Sep 2005 22:47:15 +0800 (CST)
+Message-Id: <200509151155.j8FBtVIH029758@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 14:28:28 -0000
+From: "xia" <xia@mail.tsinghua.edu.cn>
+To: tang@ccert.edu.cn
+Cc: <wang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7StcTKrtK7vMa7rqOs1ffSu8jLzazQ0KOoxNDFrrK7z96jqQ==?=
+Date: Sat, 17 Sep 2005 22:47:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BA2F.69B84380"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW57Ftgyg2sMjsQQOq8TagbU/Od5Q==
+
+我是mm，路费900，住宿在杭州一晚，200左右，两天吃饭100；
+苏州住宿免费，吃饭及其他500，总共大约2000吧；
+     十一长假，终于可以自由了，呵呵。打算28号飞机去杭州，待两天，火车去苏州，在苏州待到假期结束，做苏州直达北京的火车（不经停）回京，回京的车票托人早点儿买。
+     就是这样了，征一个人同行，男女不限，性格豪爽、独立，喜欢旅游休闲，人品好，善良不能打扰我，可以照顾我，希望大家快快乐乐，团团结结， 休闲娱乐，度过美丽的十一长假。
+     应征吧，欢迎，回站内：）无意者勿扰，谢谢！

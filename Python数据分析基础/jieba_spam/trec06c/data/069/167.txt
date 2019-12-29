@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <liu@ccert.edu.cn>; Fri, 2 Sep 2005 05:27:25 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 05:30:17 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 05:30:17 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 05:30:17 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 21:23:40 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 05:15:50 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 05:15:50 +0800
+From: yana@mails.tsinghua.edu.cn
+To: liu@ccert.edu.cn
+Cc: tang@ccert.edu.cn
+Date: Fri, 2 Sep 2005 05:15:50 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INX30ru49r/J0tS0+G1tyc/X1M+wtcTH5buqc2c=?=
+Content-Type: text/plain
+
+遥控机器人啊
+        mm决心考研，可是学校的自习室已经让mm产生了强烈的审美疲劳，加上离宿舍只有五分钟的路，其后果惨不忍睹！现在想换一个环境，找点新鲜感，所以征一位勤奋热心的清华sg带mm在清华上自习，顺便可以帮mm的数学解解惑。mm呢可以陪gg聊天，吃饭，散散步。时间嘛相互协调

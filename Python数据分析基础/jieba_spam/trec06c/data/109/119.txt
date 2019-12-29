@@ -1,0 +1,27 @@
+Received: from mail.datangmobile.cn ([219.142.67.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8892WtN010943
+	for <wen@ccert.edu.cn>; Sat, 10 Sep 2005 04:07:06 +0800 (CST)
+X-MimeOLE: Produced By Microsoft Exchange V6.0.6249.0
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----_=_NextPart_001_01C5B455.B334AA92"
+Subject: =?gb2312?B?ofEgKiog1eK49tTCtcTDv9bctv6jrNbcwfm2vNPQtq+7rcasv7TFtiAqKg==?=
+Date: Sat, 10 Sep 2005 04:18:50 +0800
+Message-ID: <D728AD1FA2543948B89DE29C5BF4CD0704702305@bjmail1.bj.datangmobile.com>
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+Thread-Topic: =?gb2312?B?Rlc6usPP+8+i?=
+Thread-Index: AcWzVeLIdAsKA274TtK/X9/Q8e7fPQAAQx2QAAD0grAAPoMbQA==
+From: <zhan@datangmobile.cn>
+To: wen@ccert.edu.cn
+
+盒子咖啡馆每周二周六都会放映优秀影片，九月将以动画片为主题，向观众推出国内外一系列优秀动画片，欢迎广大电影爱好者前来观看
+放映时间及篇目如下：
+9月10日周六  《龙猫》 My Neighbor Totoro  日本宫崎骏
+小女孩五月和妹妹阿明跟随爸爸一起搬入了乡下的新居，“龙猫”的故事也在一片如画的田园风光中展开。由于爸爸经常要去医院探望有病的妈妈，两个女孩只得自己去认识周围这崭新的环境，乡下天空是那么蓝、空气是那么好，没有车水马龙的喧嚣声，没有了高高厚厚的水泥于是在庭院里看见了搬家的小龙猫，看到了神秘高耸的老橡树，还有树洞里那一窝大大小小的龙猫。虽然像小山似的肥大，但一点儿也不让人害怕，胖胖的龙猫啊，你愿意交个朋友吗？
+9月13日周二  《鼹鼠的故事》The Mole捷克 兹德内克・米莱尔    
+没有对白，轻柔的音乐，宁静的画面，这就是《鼹鼠的故事》的特色。敦厚、善良、天真的小鼹鼠，他常说“HELLO，HELLO！”声音美妙，时常发出唧唧咕咕的笑，但又常常轻叹，它好奇，贪玩，又喜欢帮助别人。《鼹鼠的故事》是以情节内涵取胜的动画片，每一小段内都讲述一个小小的故事，耐人寻味，让人琢磨，愉悦视听。
+9月17日周六  《小马王》 Stallion of the Cimarron美国梦工厂
+1800年美国西部，一匹雄性野马经历西部拓荒的故事。就在那一片视野无际的大草原上，小马王在芸芸的马匹中独树一帜，任性、狂傲和勇敢的

@@ -1,0 +1,60 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <xiao@ccert.edu.cn>; Sat, 17 Sep 2005 08:20:17 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <xiao@ccert.edu.cn>; Sat, 17 Sep 2005 08:36:52 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <xiao@ccert.edu.cn>
+	; Sat, 17 Sep 2005 08:36:52 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <xiao@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 08:01:53 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "he" <he@njnu.edu.cn>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxOO+9bXDucK1pcLwo7/E48/rtuC9u9K70KnF89PRwvCjv7Gxyqa081BQTU3QxMDty83OwsWv
+o6GjoaM=?=
+Date: Sat, 17 Sep 2005 08:32:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+“幸福虹桥”自我成长小组招募
+常常觉得别人总是光鲜美好，而自己不够可爱……
+常常觉得生活总是忙忙碌碌，却常常感觉不到自己的存在……
+总是期望与人亲近，却好像总是彼此很难走近……
+发现虽然生活的地方人不少，还是常常感到孤独……
+我们期待自己更加可爱，我们我们向往生活更加轻松自在，我们渴望有良好的人际关系，我们希望能未来明确而不迷茫，我们渴望幸福就在身边……
+那么快快加入我们的小组，让我们大家一起携手走过通往幸福的彩虹桥吧
+开始认识和了解自己、接纳自己、尊重欣赏和爱自己
+我也曾这样一路走来，我只是愿意真诚陪伴。
+组长：喻莉 北京师范大学心理学院2004级硕士研究生
+督导：张西超      北京师范大学心理学院团体咨询课老师
+人数： 8～12人
+对象：在校大学生（包括硕士和博士研究生）
+小组形式：组长将带领组员在固定的时间和地点一起创设一个真诚开放的氛围，进行个人化的分享与交流，以各种活动穿插其中，帮助大家认识自己，接纳自己，学会欣赏和爱自己，建立良好的自我形象，能更轻松地面对今后的生活。
+活动时间： 9月23日（周五）晚18：00～21：00，9月24、25日（周六、日）全天
+活动地点：北京师范大学心理学院团体咨询室（英东楼359）
+2004年8月，北京师范大学心理学院举办的“焦点解决短期治疗工作坊”
+组长：喻莉 北京师范大学心理学院2004级硕士
+督导：张西超   北京师范大学心理学院团体咨询课老师
+活动时间和地点： 9月23日晚18：00～21：00，9月24、25日全天
+所修心理咨询相关课程：
+本科：《发展心理学》，《教育心理学》、《心理咨询》、《团体咨询》
+《健康心理学》、《家庭治疗》、《变态心理学》
+硕士：《团体咨询》、《咨询员个人成长》
+所受相关专业培训：
+2005年6月24～7月1日    美国心理辅导与治疗临床技术培训基础班   
+2005年3月                satir个性拓展工作坊
+2004年9月                satir模式的家族治疗工作坊
+2004年8月                焦点解决短期治疗工作坊
+报名方式：邮件至yuangelli@163.com 或   短信至：13810161963
+         或QQ63079805（验证请求请注明：“幸福虹桥”）

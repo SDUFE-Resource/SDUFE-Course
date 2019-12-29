@@ -1,0 +1,30 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2svQX010170
+	for <ou@ccert.edu.cn>; Fri, 16 Sep 2005 11:07:17 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G3Pt3h004638
+	for <ou@ccert.edu.cn>; Fri, 16 Sep 2005 11:38:18 +0800
+Message-Id: <200509160325.j8G3Pt3h004638@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 11:18:25 +0800
+From: "zhou" <zhou@mail.nisac.gov.cn>
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMDPuavIpcHLw8C5+tPQtePSqtDFu/m2vbXE0uLLvMHL?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+呵呵，这基本上是一个类似韦小宝的故事
+据说，鹿鼎记就是以它为原型写的
+     标  题: Re: 老公去了美国有点要信基督的意思了
+     
+     他干嘛要复仇?找他爹复仇?
+     
+     : 本来不算
+     : 但是他为了复仇，却找不到仇人
+     : 就是他的难了
+     
+     --
+     

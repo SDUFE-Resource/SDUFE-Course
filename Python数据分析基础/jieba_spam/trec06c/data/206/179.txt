@@ -1,0 +1,31 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <yuan@ccert.edu.cn>; Thu, 29 Sep 2005 23:36:53 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 15:48:04 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 23:48:03 CST
+Date: Thu, 29 Sep 2005 23:48:03 +0800 (CST)
+From: liang ming <tu@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgTXkgTmF0aW9uYWwgSG9saWRheSBpcyBzcG9pbGVko6xzaWdooauhq0VyaWMgQ2xhcHRvbqGv
+cyChsFQ=?=
+To: yuan@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+My National Holiday is spoiled，sigh～～Eric Clapton’s “Tears in heaven” expresses the best feelings deep inside me, but “I must be strong and carry on”!
+【原稿】 发表在 Mr 嘿姆嘿姆－Vincent沈 的MSN空间
+http://spaces.msn.com/members/sjtuvincentshen/
+在知道自己被咔嚓的可能性为99.99999999999999％的情况下，还是厚着脸皮给那家公司的HR姐姐打去了电话！毕竟这个机会是我多么的渴望的啊，而且为了这么一个机会，我准备了N多资料，准备了N久时间，还跑到图书馆恶补自己以前根本没有接触过的知识点，同时也把大学时代“依靠一个晚上填鸭式的临时抱佛脚应付考试“的高超技术发挥的淋漓尽致，把所有重要的知识点通过各种途径烂熟于心，毕业之后第一次象学生一样，那么的充满了求知欲，那么的渴望认可，那么的期待成功！
+这个公司的笔试激发了潜藏在自己内心深处的东西，让我突然想到了小时候作数学题目时候的兴奋以及冲动，正是因为这次笔试愉悦了自己，让自己重新找回了当年的感觉！重新激发了自己强烈的求知欲以及那种用好奇的眼光看待整个世界的状态～～～第二轮的面试感觉也很顺利，只是因为没有作presentation的经验，比较紧张，而且分析的时候说话太罗嗦了！不过后面的free talk感觉很舒服，和那两个女面试官聊的也很欢快，还聊了一些私人的事情，所以从紧张进而发展到了放松，进而就是放肆了，聊的太轻松了，所以我话又多起来了，感觉自己可能说了一些不该说的话，sigh～～～
+anyhow，HR姐姐拒绝我得理由是那么的冠冕堂皇“我们customized部门这次招收的MT，希望有日语背景的，因为这个部门的客户涉及到很多日本客户！你的面试各方面都比较好，你也表现出对于media部门的兴趣，我们可以把你的简历转到media部门，如果以后有通知，有面试机会的话再通知你！”听着至少还是温馨的，^_^，嘿姆嘿姆，得到了oral上面的认可！还让我充满了希望，还有可能加入这家公司的media部门作research的！（前辈都说了，这些话都是鼓励你的话，99.99999999999999999999％是没有下文的，不过我还是会寄托希望于这个0.000000000000000000001％的机会的，^_^，嘿姆嘿姆）
+当hr 姐姐说“customized部门这次MT要找有日语背景，其他我都表现的都还不错，就是因为没有这个背景，所以不合适“的时候，我很想马上就说我学过一年日语的，日语基础还可以的，工作之后我会努力学习日语的，毕竟我得语言基础还可以的，但是我想还是不要为难HR姐姐了，HR姐姐做人这么委婉也不容易了，能够找出这么一个理由不打击我（我想找这个理由其实就是借口啦，可能我面试时候的某些方面他们觉得不合适，但是不方便说，不想打击我，所以就随便找了这么一个理由），为什么我自己要拆穿这个white lies呢！很多时候善意的谎言还是让我一直成为美好的回忆比较好，不必要去刨根究底咯，为难人家还让自己难堪，^_^，嘿姆嘿姆
+突然一下子爽了很多，可能是因为这一个多月来一直提心吊胆，一直渴望着成功，渴望着可以进入下一轮再下一轮！！投出去简历，期待着面试，着急啊！第一轮笔试和面试完了，又焦急的期待能够进入下一轮，焦急啊！第二轮面试完了，又满心欢喜的期待着last面，总算在今天一下子，所有的焦虑都没有了，轻松了很多！不过真的特别的难过特别的不开心，^_^，嘿姆嘿姆，anyhow，还是需要笑着面对失败的，嘿嘿，嘿姆嘿姆，^_^，哈哈大笑一下，然后嘿嘿嘿窃喜一下，最后嘿姆嘿姆自豪的笑一下，^_^！
+虽然我得十一长假缺少了一份期待和憧憬，但是突然特别的relaxing，生活突然变得如此的简单！^_^，嘿姆嘿姆！正如Eric Clapton’s “Tears in heaven” 中唱到的那样子“Time can bring you down, time can bend your knees. Time can break your heart, have you begging please, begging please.”我还是应该好好祈祷吧，^_^，嘿姆嘿姆
+二十分钟搞定了这么一篇乱七八糟的文章，突然发现自己话还是那么多，sigh～～下次面试一定要话少一点，“言多必失”！
+がんばってね！！！

@@ -1,0 +1,36 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 19:06:20 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 18:28:38 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "wei" <wei@cert.org.cn>
+To: gao@ccert.edu.cn
+CC: "he@ccert.edu.cn" <sun@ccert.edu.cn>,
+   "ding@ccert.edu.cn" <hu@ccert.edu.cn>,
+   "yan@ccert.edu.cn" <lin@ccert.edu.cn>, "tu@ccert.edu.cn" <ren@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+W7qrK7yLG0z8P3yMs=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 19:14:05 +0800
+
+很久很久以前，科学是贵族悠闲的时候的娱乐活动，
+因此比起现在不那么功利，显得神圣。
+现在科学研究成为一项职业，已经世俗化了。
+抱着理想主义的观点来要求环境，是注定要碰壁的。
+ 
+在清华呆了7年，我发现清华不缺聪明的人。
+每个人都会有自己某个地方特别突出的，
+如果你觉得别人不如你很可能只是你不了解他。
+但大部分很有天分的人最终都暂时的湮灭，
+也许他们进入社会以后会重新发挥自己的才能吧。
+一个聪明的人要成材，真是很不容易的事情，
+周围环境总是有太多的干扰。
+ 
+现在进入社会工作，更加领会到这一点。
+这个世界不缺乏聪明的人，
+而是缺乏能够把自己和别人的才智组织在一起发挥出来的人。
+ 

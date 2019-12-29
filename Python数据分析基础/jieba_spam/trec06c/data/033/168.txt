@@ -1,0 +1,20 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <lin@ccert.edu.cn>; Wed, 24 Aug 2005 12:47:19 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 13:00:26 +0800 (CST)
+Date: Wed, 24 Aug 2005 12:54:12 +0800
+From: "xing" <xing@sohu.com>
+To: lin@ccert.edu.cn
+Cc: "yxl" <xie@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILyxxrijrLuv0ae5pLPMu/K7r7mkuaTS1deo0rW5pLPMyqbSu8P7o6G0/dP2t+G68Q==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+     我公司为北京一高新技术企业，主要从事石油、石化设备、工艺技术研发，现想招一名化工工艺或化学工程、石油加工等专业工程师一名，待遇优厚。要求最好有两年以上石化炼厂工作经验，熟悉工艺计算和化工装置调试等，本科以上学历，有意者请发简历至：litz@newbaron.com或leetzee@vip.sina.com,勿回站内，电话：13321199559多谢，公司网址：www.newbaron.com 
+现在学工艺的真难找吗，不应该啊

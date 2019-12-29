@@ -1,0 +1,24 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <fan@ccert.edu.cn>; Tue, 27 Sep 2005 23:56:35 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Tue, 27 Sep 2005 23:59:53 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 15:59:51 UT
+To: fan@ccert.edu.cn
+From: qing@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEZyZWVkb20gaXMgTk9UIGZyZWUgo7q4+M31zazRp7rNtNPKwr/G0dC5pNf3tcTNrMjK?=
+
+说得很好。
+当年我有了两篇烂文章以后，我导师就告诉我，做学问要慢慢来，耐得住性子。
+随着时间得推移，你得积累就越多，知识面也就越宽了。
+所以啊，做研究是不能急得。
+     这些天王同学的事情引起了大家的关注，我觉得是件好事情，给大家一个机会，
+     讨论一下科研工作的理想和现实是怎么样的。我看了王同学的文章，评价就8个字：
+     精神可嘉，涉世未深。我是很佩服王同学对科研工作孜孜以求的，但不得不说

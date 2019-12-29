@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <zhan@ccert.edu.cn>; Fri, 23 Sep 2005 20:21:46 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <zhan@ccert.edu.cn>; Fri, 23 Sep 2005 20:33:15 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 12:10:21 -0000
+From: "yana" <yana@mail.tsinghua.edu.cn>
+To: zhan@ccert.edu.cn
+Cc: <pan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMu1yrW7sKOsztKxyL3PxeW3/rzGy+O7+sTHuPbN9dvz?=
+Date: Fri, 23 Sep 2005 20:32:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+nod, 这个要re
+     标  题: Re: 说实话，我比较佩服计算机那个王垠
+     
+     抛开其他不说，有想法的人我就很欣赏，哪怕他偏激，总比混日子的人好点。
+     : 至少还敢跳出来搅一搅这趟混水
+     : 哪怕他说的一些东西带有了他个人的感情色彩
+     : 但是无论如何
+     
+     --
+               *       =┴=    

@@ -1,0 +1,34 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UNMoHg011058
+	for <lai@ccert.edu.cn>; Wed, 31 Aug 2005 22:39:05 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 22:41:10 +0800
+Message-ID: <325444295.10797@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 22:41:10 +0800
+Message-ID: <325444295.10780@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 22:41:10 +0800
+From: guan@mail.tsinghua.edu.cn
+To: lai@ccert.edu.cn
+Date: Wed, 31 Aug 2005 22:41:10 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW9XQxrjN+NW+w8C5pLzm1rBdICjXqtTYKQ==?=
+Content-Type: text/plain
+
+【 以下文字转载自 ParttimeJob 讨论区 】
+发信人: fantasyNo1 (最初幻想), 信区: ParttimeJob
+标  题: [招聘网站美工兼职]
+娱乐网站，要求：
+1.掌握html，css等web页面的开发，熟悉简单脚本为佳
+2.对dw,photoshop熟练应用，会flash制作为佳
+3.有大量的成熟作品，非初学乍到，有娱乐网站制作经验为佳
+4.美术专业素质好，专业人士为佳
+工作要求：
+9，10两个月能够有充足时间，因属于美术部增补人员，所以需要配合工作，能全天到公
+司为佳，如果不能全天，也需要每周有固定时间到公司配合工作（每周不少于2天，不含
+周末）
+公司地址在清华大学东门，清华科技园内。本公司属于传媒集团下属IT娱乐公司。
+待遇从优，如果合作顺利，欢迎长期加盟
+如有意向，请发简历到站内信箱，或者发送到sweetdeer@sina.com
+注意，来信一定要附上作品，尤其是网站的作品/链接
+我们会在近期组织面试，希望大家支持。
+btw，在时间方面如果不能达到我们的期望的就不用联系了，我们不会整体外包的（主要
+是项目需要）谢谢合作 

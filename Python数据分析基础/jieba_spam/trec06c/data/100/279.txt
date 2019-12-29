@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j87BlNH3002554
+	for <zhao@ccert.edu.cn>; Thu, 8 Sep 2005 07:19:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j87Bxb76001146
+	for <zhao@ccert.edu.cn>; Thu, 8 Sep 2005 07:31:20 +0800 (CST)
+Message-Id: <200509071159.j87Bxb76001146@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 7 Sep 2005 23:16:47 -0000
+From: "fu" <fu@mail.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Cc: <ren@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IG1ltcTH6b/2LM+jzfu087zSsO/O0sTDxMPP68/ruMPU9cO0sOw/?=
+Date: Thu, 8 Sep 2005 07:31:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C5B3E6.AA53DD40"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzo5wDUyjmuLAhQNybYzBBmyxuiw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+我也一帮一，就是徐本禹的学生，现在那个小孩刚上二年级。
+我个人认为，高中毕业之后就不该让人资助了，因为她自己可以勤工俭学了。
+如果有余钱，也应该用来资助那些连初等教育还没有机会接受的孩子。。。
+     me现在在中科院读研,开始上研二,从8月份开始是每个月工资840吧(研一是550)
+     在本科的时候三下乡的时候,和一个女生建立了一帮一的关系.
+     当时她还是初中,我也是升大二那年吧.

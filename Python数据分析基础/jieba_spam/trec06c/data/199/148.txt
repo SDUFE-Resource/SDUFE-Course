@@ -1,0 +1,26 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <lei@ccert.edu.cn>; Wed, 28 Sep 2005 18:20:41 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 10:31:48 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 18:31:48 CST
+Date: Wed, 28 Sep 2005 18:31:48 +0800 (CST)
+From: liang ming <jian@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMfrzsrKssO0xcbX07XE06S2+bO1usOjrLzbuPHU2jF+Mms=?=
+To: lei@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+淘宝上面有个卖家，卖从澳门带过来的原装奶粉，有购物小票，价格
+和国内卖的差不多。这个人本来是做奶粉的，在sohu上面有个出名的
+关于奶粉评价的帖子。恩贝儿也是原装进口奶粉，口碑不错，但前阵
+子传要放弃北方市场专做南方，没有卖的，现在ms又有卖了。恩贝儿
+在港澳叫牛栏牌，据说比国内卖的质量好。唉，好多东西都是国内卖
+的和外面质量不一样。
+     分装的多了一个受污染的机会.
+     雅培的是原装的.还有美素.

@@ -1,0 +1,100 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <you@ccert.edu.cn>; Thu, 29 Sep 2005 23:41:41 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Thu, 29 Sep 2005 15:27:15 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "shen" <shen@mail.tsinghua.edu.cn>
+To: you@ccert.edu.cn
+Cc: "Duan Haixin" <chen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgv7nS6aOhZ29vZ2xlIG1hcL2rzKjN5dbDzqq2wMGiufq80qOh?=
+Date: Thu, 29 Sep 2005 23:52:32 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+http://fivestone.yculblog.com/post.887658.html
+　
+突然发现，昨天，9月27日，由于一小群人(http://blog.yam.com/lifeshot/archives/
+530747.html)的无端抗议，google map将其网站上
+　
+"Taiwan, Province of China"
+　
+中的"Province"移除，并在地图上和China同级别显示。
+　
+http://www.yculblog.com/photo/f/fivestone/google_taiwan_1.jpg
+　
+http://www.yculblog.com/photo/f/fivestone/google-taiwan_2.jpg
+　
+我不知道为什么会无端生出这样的事来，如果这就是民主的话，相信我们至少能够以同
+样的方式把这样的错误改回来。
+　
+抗议方法：
+　
+一、点击http://www.google.com/support/maps/bin/request.py后选Suggestion
+　
+二、填上你的电子邮件地址，SUBJECT写上Object for removing Province from Taiwa
+n
+　
+三、拷贝下面内容（或自己认为更合适的表述）到MESSAGE，然后按SUBMIT
+　
+Dear Google,
+　
+In your map listings, I noticed that you mistakenly removed "Province of Chi
+na" from the list of Taiwan, maybe because of some people\'s weird mail-sugge
+stion, on Sep 27 2005. It is not a good change. Please fix the display as th
+e reasonable format.
+　
+Taiwan is NOT an independent nation. More than 161 countries in United Natio
+nals claim that Taiwan is an integral part of China. Something such as curre
+ncy, election, and funny government cannot uxtapose a province with its moth
+er country. Whether some minority satisfy or not, a province of a country is
+ much more appropriate than a nation by definition.
+　
+Although we all know Taiwan is a complex problem, anyway, we are a whole fam
+ily. Listing Taiwan separated from China hostility is not good to the peace 
+and stability of the large part of people and area in the world.
+　
+Google, as a venerable hi-tech company, what can change your represent hasti
+ly without justness? Democracy? Minoral unreasonable remonstrate? I am sure 
+we will have a much larger number of mail to show the right way.
+　
+Pease readd “Province of China” on the statement of Taiwan. And, do not di
+splay Taiwan (Hongkong, Macro) with China together in the same screen resolu
+tion (such as 1000km scale). Like the Hawaii and United States on your websi
+te.
+　
+Thanks.
+　
+请大家团结起来，互相号召！
+　
+另外我的E文不大好，有需要改正的地方，还请大家指正。谢谢！
+　
+---------------------------
+台湾最初的抗议信：
+Dear Google,
+In your map listings, I noticed that you mistakenly list Taiwan as a provinc
+e of China. Please remove “Province of China” from the list of Taiwan.
+Taiwan is an independent nation and does not consider itself a province of C
+hina. The only country in the world that still thinks that Taiwan is a provi
+nce of China is China. Other countries have kowtowed to China\'s fantasies, b
+ut the reality is that Taiwan is a state with its own government, own electi
+ons, its own currency and its own defined territory. Taiwan negotiates its o
+wn treaties and has its own president. By definition, a province of a countr
+y, can not and does not do this.
+Taiwan does not claim to represent China, but China wrongly claims to repres
+ent Taiwan. Listing Taiwan as a province of China is incorrect.
+A country, such as China, regardless of how economically powerful, should no
+t dictate to a venerable hi-tech company such as Google, what to write and h
+ow to write it. As a hi-tech portal site, Google Maps, should strive to list
+ the truth. This listing of Taiwan as a province of China, smacks against th
+is principle.
+Again, please remove “Province of China” from the list of Taiwan.
+Thanks.
+大家帮忙到处转吧，我各大论坛帐号不多的
+如果只是发信就能占主导声音的话，我死也不相信台湾能比的过我们的.....

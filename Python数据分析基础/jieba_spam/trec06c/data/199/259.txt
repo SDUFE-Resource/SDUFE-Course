@@ -1,0 +1,43 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <pan@ccert.edu.cn>; Wed, 28 Sep 2005 19:43:48 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 11:54:59 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 19:54:58 CST
+Date: Wed, 28 Sep 2005 19:54:58 +0800 (CST)
+From: liang ming <sun@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgsbG+qcP31sLO3s/e0MXPory8yvXT0M/euavLvrjf0L2zz8a4SjJNRS9TeW1iaWFuyO28/rmk
+s8zKpg==?=
+To: pan@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+    北京明致无限信息技术有限公司是一家长期专注于手机应用开发的高科技公司，具
+有丰富的经验和强大的研发实力。
+    我们的业务正面临巨大的市场需求和广阔的市场前景，提供顾客满意的产品是我们对自身的要求，提供全方位优质服务是我们对客户的承诺，创建行业名牌企业是我们不懈追求的目标。北京明致无限信息技术有限公司以满足客户需求为己任，凭着一流的技术、一流的产品和服务，推动中国网络技术的发展。我们虚位以待,诚邀广大有识之士加盟。
+资深J2ME软件工程师
+职位描述：
+1.    熟练掌握J2ME开发，具备至少一年以上的使用J2ME进行手机应用开发的经验；
+2.    熟悉J2ME MIDP及各主要手机厂家编程API；
+3.    精通JAVA编程语言，熟悉JSP、XML技术和J2SE技术；
+4.    有两年以上软件项目开发经验，熟悉项目开发流程； 
+5.    工作认真负责，学习能力强，能够在短时间内承担公司项目开发工作； 
+6.    有强烈的事业心，具有良好的团队合作精神。
+资深Symbian软件工程师
+职位描述：
+1、    熟悉symbian手机开发，最好有一年以上symbian开发经验；
+2、     有一年以上手机开发或嵌入式应用程序开发经验者优先；
+3、    大学以上学历，两年以上软件开发工作经验；
+4、    扎实的计算机基本功，熟练掌握C++和面向对象的思想；
+5、    思路清晰，思维敏捷，快速的学习能力，良好的英文资料阅读能力；
+6、    有强烈的事业心，具有良好的团队合作精神。
+联系人:李小姐
+地址:清华东门外财智国际大厦C-808
+联系电话:82600011-609
+E-MAIL:HR@KIWI.CN

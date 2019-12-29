@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <cai@ccert.edu.cn>; Thu, 1 Sep 2005 19:45:43 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <cai@ccert.edu.cn>; Thu, 1 Sep 2005 19:58:25 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 19:48:04 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 19:48:04 +0800
+From: lai@mail.tsinghua.edu.cn
+To: cai@ccert.edu.cn
+Date: Thu, 1 Sep 2005 19:48:04 +0800
+Reply-To: lai@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgvczT/c3408O7p7/J0tS00yAyMDIuMjA1LjIuMjAwILSpy/Mst8ezo7fHs6O/7CAo16rU2Ck=?=
+Content-Type: text/plain
+
+【 以下文字转载自 NewExpress 讨论区 】
+发信人: gywtnge (Shirley内衣), 信区: NewExpress
+标  题: 教育网用户可以从 202.205.2.200 穿梭,非常非常快
+发信人: gywtnge (Shirley内衣), 信区: sysop
+标  题: 教育网用户可以从 202.205.2.200 穿梭,非常非常快
+  
+   telnet : 202.205.2.200  
+   端口： 23, 8001
+  
+   ssh : 202.205.2.200
+   端口： 22, 33
+   教育网进入，公网连出， see my ip  
+ 

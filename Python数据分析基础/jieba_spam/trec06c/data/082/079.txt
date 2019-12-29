@@ -1,0 +1,51 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j822KE0j026900
+	for <hu@ccert.edu.cn>; Sat, 3 Sep 2005 22:38:09 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j822I2Cp027723
+	for <hu@ccert.edu.cn>; Sat, 3 Sep 2005 22:36:49 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j822Hw7X027719
+	for <hu@ccert.edu.cn>; Sat, 3 Sep 2005 22:35:54 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 3 Sep 2005 22:24:56 +0800
+Message-ID: <325626821.22783@mails.tsinghua.edu.cn>
+Received: from 202.38.188.130 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 3 Sep 2005 22:24:56 +0800
+From: ning@mails.tsinghua.edu.cn
+To: hu@ccert.edu.cn
+Date: Sat, 3 Sep 2005 22:24:56 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILXn19PNqNDFt73P8jzQxbrF0+vPtc2zPrK7v7y1xMTayN0=?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: ning@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+（首先说一点，我今年的信号考得依旧不高，
+所以如果按照我的思路复习，风险自担哦~~）
+郑老师的教科书，一定要反复咀嚼、深刻领会里面的每一句话，
+比方说，（又是老生常谈了）cs不等式当中等号成立的条件是什么？
+教材当中讲cs不等式的时候并没有明确指明这一条件，
+只是后面在应用当中提到了一句，就看你有没有注意到了。
+还有就是务必把书上所有的例题、习题吃透，
+我在考场上才深刻意识到书上例题的重要性。。
+貌似经常会有书上例题或者习题改编的考题，而一般也就是改个数而已……
+然后就是做真题，
+我当时做真题的时候郁闷死了，一个人搞，做了也不知道对错，
+就只好到版上来拉人讨论。
+然后就是看看奥本的牛书，如果时间允许，
+就按照看郑老师教科书那样的要求来看奥本的书。
+差不多就酱紫了吧
+     你咋复习信号的？我知道你考了不是一年很不容易，能不能给我说说，我也不容易。

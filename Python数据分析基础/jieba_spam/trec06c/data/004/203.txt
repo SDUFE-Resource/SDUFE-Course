@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <wei@ccert.edu.cn>; Tue, 16 Aug 2005 11:52:26 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <wei@ccert.edu.cn>; Tue, 16 Aug 2005 12:05:57 +0800 (CST)
+Received: (eyou send program); Tue, 16 Aug 2005 12:00:52 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Tue, 16 Aug 2005 12:00:52 +0800
+From: huang@mail.tsinghua.edu.cn
+To: wei@ccert.edu.cn
+Date: Tue, 16 Aug 2005 12:00:52 +0800
+Reply-To: huang@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgx+vOytK7z8KjrMa1t7Gz9s/W19S2r7nYu/q74crHxMS49tOyvP6z9s7KzOKjvyAo16rU2Ck=?=
+Content-Type: text/plain
+
+【 以下文字转载自 CompMarket 讨论区 】
+发信人: everautumn (独立寒秋，追梦中), 信区: CompMarket
+标  题: 请问一下，频繁出现自动关机会是哪个硬件出问题？
+请问一下，频繁出现自动关机会是哪个硬件出问题？
+清华校内是否有学生提供硬件维修服务（台式机）
+平常运行小型程序和软件，没有任何问题。硬盘经检测也没有坏道。
+但是运行大型程序（WORD，matlab等），就会自动关机（非死机）
+重新安装2k和xp，复制完文件也莫名其妙自动关机，无法正常安装。
+目前只能用一下安装xp的iso光盘进行镜像恢复安装。
+哪位大牛帮忙支一下招，多谢了
+//bow

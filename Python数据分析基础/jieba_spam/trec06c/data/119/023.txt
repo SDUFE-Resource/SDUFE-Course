@@ -1,0 +1,54 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5cufv027982
+	for <yun@ccert.edu.cn>; Mon, 12 Sep 2005 05:04:57 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5aHKJ091531
+	for <yun@ccert.edu.cn>; Mon, 12 Sep 2005 05:02:31 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5aEwf091527
+	for <yun@ccert.edu.cn>; Mon, 12 Sep 2005 05:02:15 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 04:51:24 +0800
+Message-ID: <326329923.15072@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 04:51:24 +0800
+From: shen@mails.tsinghua.edu.cn
+To: yun@ccert.edu.cn
+Date: Mon, 12 Sep 2005 04:51:24 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMDPsOW08sC0tee7sMu1sqm7+bzM0Pixo7PW?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: shen@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+不对吧，看看那个“通知”的文件
+   根本不是“博导基金先下拨给导师，导师需上交给所在院系”
+而是学校不发，让导师自己发！
+一、允许参加课题研究工作的博士生的生活补贴从其导师所支配的课题经费中列支，学校不
+再额外发放博导基金。
+二、上述博士生生活补贴按学期结算，每学期初由导师交转至所在院（系）统一帐号，由院
+（系）核定发放名单及额度后发放给博士生。
+三、学校对长期从事基础理论研究、科研经费确有困难的博士生导师继续提供博导基金，以
+确保其博士生的基本生活水平。该基金以学期为单位，由导师申请，学校审核，定期调整。
+每位导师最多申请3名博士生的博导基金支持。
+     标  题: 老板打来电话说博基继续保持
+     
+     发信人: Wilczek (Asymptotic Freedom), 信区: PhD
+     标  题: 老板刚打来电话说博基继续保持
+     
+     学校文件说：博导基金先下拨给导师，导师需上交给所在院系，然后由各个院系统一发放，金额仍然为2000元/年。另外，学校文件要求各院系、导师想办法多发钱，增加博士生收入，确保博士生安心从事科学研究。
+     
+     --
+         只要我还能有所选择，我就只想生活在这样的国家里，这个国家所实行的是：公民自

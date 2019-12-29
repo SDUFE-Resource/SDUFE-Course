@@ -1,0 +1,23 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <wu@ccert.edu.cn>; Thu, 29 Sep 2005 20:51:33 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 13:02:44 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 21:02:43 CST
+Date: Thu, 29 Sep 2005 21:02:43 +0800 (CST)
+From: liang ming <xia@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILCuyc/By9K7uPayu7CuztK1xMTQyMs=?=
+To: wu@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+谢谢！我想不明白，为什么他作为受伤害的一方，而过去的感情就不能放下呢？我对他一心一意，却得不到他的一点爱。难道男人真的只能真爱一次吗？难道真爱过一次的男人再也不会爱上第二个女人吗？其实我很害怕，跟这样一个男人在一起没有一点安全感，即使将来结婚了，他是不是也会去外面风流？他会不会因为过去的伤害，而把感情当成游戏？
+     需要用小心翼翼来形容的联系,亲爱的楼主你认为它能持续多久?
+     他说不爱了就是不爱了,分手或许会难过但是绝对不会真正悲伤.爱情不是可以求来的东西,你可以继续无怨无悔的陪在他身边为他付出一切,没有人有权力说你什么.但是不要希望会有等价的爱作为回报了.
+     再找一个,能有多大的困难?不要为了一棵不属于你的树放弃一片森林,哪怕它们需要你再一次的用心浇灌.

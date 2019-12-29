@@ -1,0 +1,27 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <cao@ccert.edu.cn>; Fri, 26 Aug 2005 01:45:14 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 17:34:49 -0000
+From: "long" <long@mails.tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 01:58:31 +0800
+
+西门子公司招聘实习生(IT)：
+招聘职位：  IT Support Assistant
+实习生需求：1。网页编辑能力
+            2。数据库操作能力（sql server 2000）
+            3。帮助文档编写能力
+            4。良好的逻辑思维能力
+            5。熟练掌握office软件 
+            6。清晰的语言表达能力 
+            7。工作能够吃苦耐劳
+如果您对这个职位感兴趣，请将您的中英文简历E-mail到 ad.csit@siemens.com
+本条招聘信息有效期: 2005-09-04之前

@@ -1,0 +1,28 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <chi@ccert.edu.cn>; Fri, 9 Sep 2005 20:19:25 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <chi@ccert.edu.cn>; Fri, 9 Sep 2005 05:31:32 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 05:31:32 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 05:31:32 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Fri, 9 Sep 2005 20:31:32 +0800
+From: =?GB2312?B?1/O+pw==?= <xie@gmail.com>
+Reply-To: xie@gmail.com
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXi0fnKx7K7yse63Mfdyt6jvw==?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+     偶然遇见了一个mm，第一眼就惊为天人，后来又见了一次
+     然后第三次她约我一起出去逛街，玩的都挺高兴的。
+     真是觉得她才貌双全，是偶见过的最pp和最有气质的mm了
+人总是要有责任的，见一个爱一个，人人都会有这种感觉。但是你就这样抛弃了自己的mm，然后去追那个mm，就算搞到手，你一定幸福嘛？你一点都不受良心责备？用伤害一个人去换取自己的幸福（而且未必幸福！）这恐怕不好。或者你天生是个多情种子，这也没关系，只要无论你和哪个mm相处时，你都要郑重其事地告诉她你见一个爱一个，永远不要指望你能和她长久地在一起。如果不是这样，就不要对爱情不忠，因为世界上的好男人好女人多着呢，但是“弱水三千，只取一瓢”啊，如果你的mm见一个好的马上抛弃你，你会如何？珍惜你已经拥有的美好爱情吧！

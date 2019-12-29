@@ -1,0 +1,42 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <gong@ccert.edu.cn>; Wed, 24 Aug 2005 20:38:57 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 24 Aug 2005 20:57:20 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 20:57:20 +0800
+Date: Wed, 24 Aug 2005 20:57:20 +0800
+From: kong@cernet.com
+Subject: =?gb2312?B?ofEg0ru49rKpyr+687v6u+E=?=
+To: gong@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+受人之托，请勿回本信箱！
+School of Engineering
+James Cook University
+Queensland
+Australia
+Postdoctoral Research Fellow and Visiting scholar
+Mechanics and Materials have been the research strength in School of Enginee
+ring, James Cook University. The school is seeking to appoint a number of po
+stdoctoral research fellows and/or visiting scholars to work on such an emer
+ging area. A specific research project that is funded by Australian Research
+ Council is computational design of microstructural materials.
+The applicants should have solid background in computational mechanics, fini
+te element methods, heat transfer and mechanics of composite materials. Demo
+nstrated experience in computational topology optimization and advanced prog
+ramming will be an advantage. Application for a postdoctoral research fellow
+ should have, or be close to gaining, a PhD degree. The positions will be pr
+ovided for one to three years and are available immediately.
+The enquiries and application should be forwarded to Dr. Qing Li in School o
+f Engineering, James Cook University, Townsville, QLD 4811, Australia, Telep
+hone: 61-7-4781 5762, Fax: 61-7-4781 4660,  Email: Qing.Li@jcu.edu.au.

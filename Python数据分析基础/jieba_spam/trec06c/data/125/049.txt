@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <xue@ccert.edu.cn>; Tue, 13 Sep 2005 10:13:34 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <xue@ccert.edu.cn>; Tue, 13 Sep 2005 10:25:32 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 02:08:20 -0000
+From: "wu" <wu@mail.tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+Cc: <yana@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgV1O1xMz519Oyxc780v3IyyzP4MfXvMfPtcHQ1N245tK7ts7C5A==?=
+Date: Tue, 13 Sep 2005 10:25:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+我决定相亲记系列文学目前暂时告一段落.因为,暑假已经结束.我的导师已经分配了大量的课题任务给我.以后没时间相亲了.
+不过也说不准.如果有合适的,我还是相一相亲.
+虽然相亲记系列暂停,但是我还会搞一些其他WS的贴子出来的.
+目前此事正在酝酿之中.
+最后声明:
+我就是当年在鬼版叱咤风云的waln,另外,春节晚上的皮衣男事件,也是我干的.
+我也许过几个月就要出国了,出国之前,我决定把我以前所有的经典贴子公布在网上,供大家作永久的怀念.

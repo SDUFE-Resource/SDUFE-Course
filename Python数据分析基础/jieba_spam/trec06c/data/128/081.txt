@@ -1,0 +1,50 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBVolI019299
+	for <ye@ccert.edu.cn>; Wed, 14 Sep 2005 01:28:05 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8DBSOBg018678
+	for <ye@ccert.edu.cn>; Wed, 14 Sep 2005 01:25:10 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn ([166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8DBSHbY018673
+	for <ye@ccert.edu.cn>; Wed, 14 Sep 2005 01:24:37 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 14359 invoked by uid 512); Tue, 13 Sep 2005 17:32:59 -0000
+Message-ID: <20050913113644.14358.qmail@stu.ee.tsinghua.edu.cn>
+From: qiu@stu.ee.tsinghua.edu.cn
+To: ye@ccert.edu.cn
+Date: Wed, 14 Sep 2005 01:32:59 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?ofEgo9tBSUVTRUMgSlNUo924sMjVsb7T0NC9yrXPsLv6u+Egvt/M5bvutq+wssXF?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+简介：
+J S T (Japan Study Tour)是清华大学学生对外交流协会(ASIC)和国际经济学商学学生组织(AIESEC)合作为清华学生提供有薪实习机会的项目。几年来，这个项目已经成功运作数次。已有大约100名的学生去了日本企业实习，通过在日本的实习对于面对自己的将来和技能提升都有很大的帮助。
+    今年九月的J S T主要提供两个项目的实习：Management Internships(简称MT)，Technical Internship(简称TT)。
+在日本的实习项目最短期限为2-3个月。在实习过程当中为了使您全心全意地投入实习项目的环境，实习开始之前与之后，分别由中国和日本的AIESEC成员为您服务。如果你可以长期参与实习并且有一定的IT技术（程序设计（C/C++，JAVA等）、网络设计，数据库设计等）机会将会更多。
+以下是我们这次活动的具体安排。请不要错过机会。
+Information Seminar：
+日期：9月17日：15：00 ～ 17：00
+地点：四教4102
+Consulting Service：
+日期：9月20日：14：00 ～ 17：00
+地点：清青快餐
+负责人 菅 哲雄
+guanzx03@mails.tsinghua.edu.cn
+13811924240
+清华大学学生对外交流协会（ASIC）
+◆    AIESEC(国际经济学商学学生组织)由世界上91个国家和地区形成全球网络，其目的是通过海外实习项目为未来承担国际社会的学生提供建立发现并发展自身潜能的平台。不仅已经成功地为3500名以上的学生提供了在海外学习和生活的机会，而且举办了350余次国际国内会议，使5000名以上的成员有机会参与到组织的运作当中发挥自身的领导能力。AIESEC自1948年成立以来，始终以促成国际实习项目、通过“国际实习项目”和“国际间互相理解”所获得的经验培养能够活跃在国际社会舞台上的年轻人，现已是世界上最大规模的学生组织。

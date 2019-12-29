@@ -1,0 +1,32 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <tu@ccert.edu.cn>; Wed, 14 Sep 2005 01:37:06 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Wed, 14 Sep 2005 01:49:05 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <tu@ccert.edu.cn>; Wed, 14 Sep 2005 01:49:04 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <rao@dlut.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0afJ+s34udy74dfPvqPN+MLn08O7p7f+zvHV/cq9xvS2ryAo16rU2Ck=?=
+Date: Wed, 14 Sep 2005 01:49:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 THUNet 讨论区 】
+发信人: SNS (清华大学学生宿舍网络管理员联席会), 信区: THUNet
+标  题: 学生网管会紫荆网络用户服务正式启动
+清华大学学生网管会网络用户服务正式启动
+　　9月12日起，校学生网管会针对紫荆学生宿舍地区的网络用户服务在经过暑假为期两周的试运行后，正式启动了。
+　　6月26日至7月10日两周的服务试运行时间内，用户服务组的工作人员为紫荆地区的同学共接到八十余个求助电话，并赴现场解决了14起网络故障，向网络中心反映较重要问题12起，工作效果显著，得到了同学的好评。在新学期中，学生网管会将继续为大家进行此项服务，为了把紫荆地区的网络建设得更完善，给大家的学习生活带来更多方便而努力。
+　　用户服务组的工作时间是从9月12日起的每晚19:00-22:00，在这个时段内，居住在紫荆学生公寓的同学们遇到任何网络问题，只要拨打电话51777622，就可获得相应的技术支持。在非工作时段内，则发电子邮件至sns_help@mails.tsinghua.edu.cn，给出故障的详细描述并留下自己的住址、联系方式，工作人员会在工作时间主动与您联系。
+　　求助热线：51777622
+　　电子邮箱：sns_help@mails.tsinghua.edu.cn
+--------------------------------------
+请BM帮忙置底，谢谢

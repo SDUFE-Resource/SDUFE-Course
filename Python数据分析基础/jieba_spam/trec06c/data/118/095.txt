@@ -1,0 +1,22 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <zhong@ccert.edu.cn>; Mon, 12 Sep 2005 01:18:52 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Mon, 12 Sep 2005 01:30:51 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Mon, 12 Sep 2005 01:30:47 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "ning" <ning@dlut.edu.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxOPDx8u1ztK4w7zM0PjFrMGmu7nKx7fFxvo=?=
+Date: Mon, 12 Sep 2005 01:26:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+和mm吵架后，她说我们不合适，不想这样互相委屈的生活，还是分开好。我说我们风风雨雨走到现在不容易，这样分了太可惜，我也不甘心，她说没什么不甘心。然后就这样没有谈出结果。第二天一天没联系，晚上的时候她给朋友的短信错发到我这，然后又发错一条到我这说是她朋友不该晃她让她把信息发到最不想见的人那。我猜她是故意发给我看的因为不可能两条都发错啊。觉得还有戏，于是打电话道歉，没结果，再打，不接，后来接了说我以后不要再打，烦死了。我问：为什么烦啊？答：没有原因。问：就像你没有原因的爱我？答：我从来没爱过你（这句话明显是违心的），还说：你赶紧去跳搂吧，你跳搂我就消停点。我说：俺就不跳搂，好好活着慢慢折腾你。然后mm就被我气乐了。后来又说以前那话。说的我一点信心没有了。你们说我该怎么办？郁闷啊。（背景资料，我们是异地恋，以前也经常吵架闹过分手，但好几次总是又合好了因为谁也舍不了谁，我知道她还是很爱我）

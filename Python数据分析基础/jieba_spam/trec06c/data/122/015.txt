@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5NG8m027911
+	for <lu@ccert.edu.cn>; Mon, 12 Sep 2005 18:35:17 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5KeKS091336
+	for <lu@ccert.edu.cn>; Mon, 12 Sep 2005 18:32:50 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5Kblh091332
+	for <lu@ccert.edu.cn>; Mon, 12 Sep 2005 18:32:38 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 18:21:47 +0800
+Message-ID: <326328986.06301@mails.tsinghua.edu.cn>
+Received: from 59.66.112.135 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 18:21:47 +0800
+From: shen@mails.tsinghua.edu.cn
+To: lu@ccert.edu.cn
+Date: Mon, 12 Sep 2005 18:21:47 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgy63E3M3GvPbO0tK7sb66w7XEufrD8b6tvMPRp7XEyumwySAo16rU2Ck=?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: shen@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+《国民经济学》刘瑞主编，中国人民大学出版社2004年版
+《国民经济学》,钱伯海著,中国经济出版社,2002
+《国民经济管理学》,王海平、吴春波主编,中国人民大学出版社,1994
+《国民经济管理学》：李华、刘瑞主编，高等教育出版社2002年版  
+大家看看上面哪本比较好啊？另外《国民经济学》和《国民经济管理学》有何区别啊？
+真晕
+     谁能推荐我一本好的国民经济学的书吧，拜托。不过最好是中文的，另外不要翻译的。
+     3X!!!

@@ -1,0 +1,31 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <che@ccert.edu.cn>; Sun, 11 Sep 2005 01:14:34 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <che@ccert.edu.cn>; Sat, 10 Sep 2005 10:26:41 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Sat, 10 Sep 2005 10:26:41 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Sat, 10 Sep 2005 10:26:41 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sun, 11 Sep 2005 01:26:41 +0800
+From: =?GB2312?B?1/O+pw==?= <lei@gmail.com>
+Reply-To: lei@gmail.com
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztK4w8vNy/vDtKOuo66jrqOu?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+怎么说呢．．．．就说结果吧．
+我感觉我们不合适，于是就很坚决，果断，明确的说了．（应该算是昨天晚上说的吧）甚至结束时的表现很坏，就为了不拖泥带水，不要让他有一点的希望和可能存在．
+刚才接到电话说他明天要走了（暂时离开北京很而已，也许很长一段时间）．问我要不要送他．我态度很恶劣的说不送了，他就问是不是永远不见了，我说恩．
+可是放下电话又想，这样说是不是很过分，很决情．可是又不想见他，也不想让他感觉自己还有机会．
+所以在犹豫，该不该送一下？？？？（不想送）
+我这样做对么，该不该送一下呢？？？
+说明：我希望能够和平的分开．不希望在这里有人受到伤害．我只是想做的利落一些，不要有反复而已．不要谴责我呀．．．

@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <jian@ccert.edu.cn>; Wed, 24 Aug 2005 12:29:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <jian@ccert.edu.cn>; Wed, 24 Aug 2005 12:42:43 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 04:37:16 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "ni" <ni@mail.tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgUmVzZWFyY2ggUG9zaXRpb24gYXQgTWljcm9zb2Z0IFJlc2VhcmNoIEFzaWE=?=
+Date: Wed, 24 Aug 2005 12:39:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+Position Title:         Researcher/Associate Researcher/Postdoc in Visual Computing Group
+Working location:  Beijing, P. R. China
+ 
+ 
+The Visual Computing Group of Microsoft Research Asia, Beijing, China, has two immediate openings for Researcher/Associate Researcher/Postdoc in the areas of pattern recognition, computer vision, Image/graphics processing, and applied machine learning.
+ 
+Candidates are expected to hold a Ph.D. or MS in CS, EE or related fields with a strong publication record in major journals and conferences. Candidates need to demonstrate strong interpersonal skills, be able to work independently on problems, be an effective team player and be willing to accept challenges and responsibility. 
+ 
+Please send resume to Xiao Rong, rxiao@microsoft.com.
+About Microsoft Research Asia
+Founded in 1991, Microsoft Research (MSR) is dedicated to conducting both basic and applied research in computer science and software engineering. Its goal is to develop new technologies that simplify and enhance the computing experience, reduce the cost of writing and maintaining software, and facilitate the creation of new types of software.
+ 
+Microsoft Research Asia (MSRA), formerly known as Microsoft Research China, was founded in November of 1998.  Located in Beijing, China, it is Microsoft’s second fundamental research facility to be established outside of the United States. Key research areas include digital media, user interfaces, networking and system, graphics and vision as well as information search and mining. One hundred and eighty researchers, under the leadership of Dr Harry Shum, Managing Director, work at MSRA’s laboratories.
+很抱歉，昨天发的联系人的email写错了。应该为：rxiao@microsoft.com。

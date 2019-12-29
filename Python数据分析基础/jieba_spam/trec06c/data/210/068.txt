@@ -1,0 +1,29 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T2QvLi001892
+	for <li@ccert.edu.cn>; Fri, 30 Sep 2005 17:55:37 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8T2U2h24691;
+	Fri, 30 Sep 2005 17:58:42 +0800
+Message-Id: <200509290230.j8T2U2h24691@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 09:58:42 UT
+To: li@ccert.edu.cn
+From: shi@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgSW50ZXJuuNDP66Gqoaq90r+qsaa94MrQs6HR0L6/sr/J8cPYw+bJtNautv4oenopICjXqtTY
+KQ==?=
+
+【 以下文字转载自 Career 讨论区 】
+发信人: tulipblue (no matter), 信区: Career
+标  题: Intern感想――揭开宝洁市场研究部神秘面纱之二(zz)
+冷静与热情之间－－宝洁CMK之体验
+Cheryl Lin   P&amp;G CMK Summer Intern
+    光阴似箭，转眼间在宝洁公司暑假实习的七个星期一下子就过去了。回顾这一段时间
+的实习生活，让我真切体验到了象牙塔之外的另一种忙碌而又充实的生活，感受到了跨国
+企业的氛围和文化。 
+    宝洁公司是一家从事快速消费品行业的公司，它长年坚持以消费者为本，注重跟消费
+者的沟通，每推出一个产品，每做一个决策，都必须根据消费者的反馈，必须是消费者真
+正需要的，这也是它被人津津乐道的成功之道，而我实习所在的部门是市场研究部

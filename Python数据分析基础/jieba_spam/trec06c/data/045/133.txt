@@ -1,0 +1,35 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <chi@ccert.edu.cn>; Fri, 26 Aug 2005 20:28:57 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 20:36:27 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 20:36:27 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 20:36:27 +0800
+From: qiu@mail.tsinghua.edu.cn
+To: chi@ccert.edu.cn
+Cc: li@ccert.edu.cn
+Date: Fri, 26 Aug 2005 20:36:27 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgo6i0+tPRt6LOxKOpVEQtU0NETUHN+MLnsvrGt7rP18rNqNDFuavLvtXQyMs=?=
+Content-Type: text/plain
+
+朋友原来是西门子做TD-SCDMA的基站，年初和华为合资做TD-SCDMA全套网络产品，现在他们部门招人，地点在望京。
+1.requirment:
+   -Major in telecommunication, computer software, electronic engineering
+   - Good background of wireless communication and 3GPP standard
+   - Strong background in SW development, especially embedded system
+   - Master C, C++ language
+   - Fluent English in spoken and written
+   - Background with Unix/Linux
+   - Has experience in UMTS ATM/FP/MAC/RLC/PDCP/RRC/ NAS/NBAP development
+2.requirment:
+     - Master C language 
+     - Embedded real time system knowledge   
+     - Ability to work on own initiative, strategic thinking, high degree of  
+         analytical skills. 
+      - minimum 2-3 years of professional experience in the O&amp;M development. 
+      - Good background know-how in GSM and UMTS Node B 
+      - Good knowledge of O&amp;M technologies. 
+      - Operating system knowhow 
+3.好像是做FPAGF

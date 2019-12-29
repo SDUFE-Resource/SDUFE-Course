@@ -1,0 +1,23 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82NbfwP002626
+	for <xue@ccert.edu.cn>; Sun, 4 Sep 2005 09:13:37 +0800 (CST)
+Received: (eyou send program); Sun, 4 Sep 2005 09:13:57 +0800
+Message-ID: <325704282.09716@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 4 Sep 2005 09:13:57 +0800
+Message-ID: <325704282.09698@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sun, 4 Sep 2005 09:13:57 +0800
+From: yana@mail.tsinghua.edu.cn
+To: xue@ccert.edu.cn
+Cc: xiao@ccert.edu.cn
+Date: Sun, 4 Sep 2005 09:13:57 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMCtwbe56cC0?=
+Content-Type: text/plain
+
+2005011919      盛蓬    035     材51    95      oo64o772        10
+2005011671      黄立华  032     工物52  95      oo64o772        10
+2005011898      张鹏程  034     化53    95      oo64o772        14
+2005012042      冯琢络  041     基科53  95      oo64o772        14
+2005012434      崔海晶  051     经53    96      oo64o772        6
+2005012333      曹圣皎  045     生52    97      oo64o772        14
+     慢。。。

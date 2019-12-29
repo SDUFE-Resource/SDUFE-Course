@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <yu@ccert.edu.cn>; Fri, 30 Sep 2005 14:22:42 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Fri, 30 Sep 2005 06:08:16 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "rao" <rao@mail.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Cc: "Duan Haixin" <zhuang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK71qq1wMjnus7Iocnho6y087zSvajS6dK7z8I=?=
+Date: Fri, 30 Sep 2005 14:33:33 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+兴趣吧。
+     一直准备考北大的微电子的，从8月开始准备的，数学现在差不多看完了，专业课也复习了1/3了。现在突然可以有资格保研到校内一个研究所，（本来一直认为保研希望不大的，所以也就完全没管这事），真是不知道如何决定，请大家给点意见。
+     我本科是学的电子的，就是偏器件、材料的，但是那个研究所是搞图像的，以算法为主。
+     最主要的是如果我现在放弃，不知道以后会不会后悔自己没有努力。

@@ -1,0 +1,30 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <wua@ccert.edu.cn>; Fri, 19 Aug 2005 13:54:24 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <wua@ccert.edu.cn>; Fri, 19 Aug 2005 14:07:26 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Fri, 19 Aug 2005 14:30:54 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: lin@126.com
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILXa0rvGqrei1Nq/vNHQsOY=?=
+Date: Fri, 19 Aug 2005 14:02:08 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+中科院退学好象不要违约金，前两年是这样的，不知道现在要不要。
+         我现在跟lp一起在清华某系读研，我们都是直推的，开学就要研二了。一年过去了，觉得这里的学习和研究跟我所想要的实在是差得很远，老板就像一个刚爆发了的资本家一样，不学无术且自以为是。当初推研的时候成绩不好，觉得不管什么地方都行，好歹混个清华的硕士文凭吧
+         虽然浪费了一年时间，可是在这一年里近水楼台追到了lp，实在是很划算。谢谢lp支持我，跟你结婚是我有生以来作出过的最英明的决定。要让爸爸失望了，他老人家一直想让我安安稳稳读到毕业。我还是觉得如果我不这样做，以后我会后悔一辈子。对现在的老板，虽然有一肚子
+         以后就常驻这边了，跟各位xdjm一起好好做准备。我想考CS，数学英语忘得差不多了，专业课除了数据结构别的也一窍不通，要做的事情还有很多。大家一起加油吧：）

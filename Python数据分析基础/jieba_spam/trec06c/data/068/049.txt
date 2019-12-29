@@ -1,0 +1,44 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81DNZ1D022628
+	for <xu@ccert.edu.cn>; Fri, 2 Sep 2005 00:38:48 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j81DLued024767
+	for <xu@ccert.edu.cn>; Fri, 2 Sep 2005 00:37:34 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j81DLpFM024763
+	for <xu@ccert.edu.cn>; Fri, 2 Sep 2005 00:37:06 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Message-Id: <200509011321.j81DLpFM024763@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodof4b2088bd2) (sxx03@202.112.4.222)
+	by localhost with SMTP; Thu, 1 Sep 2005 16:26:17 -0000
+From: =?gb2312?B?ydvz4+q/?= <wei@mails.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Date: Fri, 2 Sep 2005 00:49:37 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWaTfmPRuCxvfElTl6VznZ6NS+/XQUq0wYg
+In-Reply-To: <323308814.29508@mails.tsinghua.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j81DLpFM024763
+Subject: =?gb2312?B?UmU6IMH1z/7H7KO6u7nSqtf21tC5+tfuusO1xMWu0d3UsSB6eg==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+业界为什么对流晓庆评价这么高
+     --------------------------------------------------------------------------------
+     http://news.jschina.com.cn  2005-8-29 9:18:57
+         多年不见，刘晓庆往台上那么一站，依然光彩照人，魅力不减当年，如果你走进剧场亲眼看到她扮演的“金大班”，就会有这样的感受。为邀请“浑身是戏”的刘晓庆拍片，中国著名制片人刘大印也在前天赶到排练场，他的评价是：这个角色是刘晓庆一生艺术的集中展示，表演炉

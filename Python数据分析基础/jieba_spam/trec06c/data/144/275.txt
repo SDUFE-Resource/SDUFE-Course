@@ -1,0 +1,26 @@
+Received: from mailgate1.neusoft.com ([210.83.210.153])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F2h5xA032120
+	for <li@ccert.edu.cn>; Sat, 17 Sep 2005 06:07:45 +0800 (CST)
+Received: from smtp3.neusoft.com (mail.neusoft.com [210.83.210.139])
+	by mailgate1.neusoft.com (8.12.11/8.12.11) with ESMTP id j8F2pa4i001038
+	for <li@ccert.edu.cn>; Sat, 17 Sep 2005 06:16:12 +0800
+Received: from win2003 ([192.168.74.50])
+ by smtp3.neusoft.com (iPlanet Messaging Server 5.2 Patch 1 (built Aug 19
+ 2002)) with ESMTPA id <0IMU0027B80HRF@smtp3.neusoft.com> for
+ weike@ccert.edu.cn; Sat, 17 Sep 2005 06:17:41 +0800 (CST)
+Date: Sat, 17 Sep 2005 06:18:49 +0800
+From: SQL <bai@neusoft.com>
+Subject: =?gb2312?B?UmU6ILG7s/XW0Mn6scnK08HLo6zH873MuN/Iyw==?=
+To: li@ccert.edu.cn
+Message-id: <001e01c5b9a0$c21b92a0$324aa8c0@win2003>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+X-MailScanner: Not scanned: please contact your Internet E-Mail Service Provider for details
+
+你真弱 学文的吧
+     初中的一个妹妹问我一道题，结果我居然没有做出来。被妹妹鄙视了一番。自己也很没有面子，难道自己真的是学历越来越高，智商越来越低？哪位高人能够帮忙，最好给出具体解答步骤，让我也学习学习！
+     A种酒精中纯酒精的含量为40%B种酒精中纯酒精的含量为36%，C种究竟中纯酒精含量为35%，它们混合在一起得到了纯酒精含量为38。5%的酒精11升，其中B种酒精比A种酒精多3升那么A种酒精有多少升？ 

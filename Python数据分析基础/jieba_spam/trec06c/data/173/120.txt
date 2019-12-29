@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <wen@ccert.edu.cn>; Fri, 23 Sep 2005 15:43:20 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <wen@ccert.edu.cn>; Fri, 23 Sep 2005 15:54:49 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 07:31:55 -0000
+From: "chi" <chi@mail.tsinghua.edu.cn>
+To: wen@ccert.edu.cn
+Cc: <gong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Fri, 23 Sep 2005 15:54:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+我不觉得他在显示自己很牛，在他得字里行间他都觉得他做得事情是他自己应该做得，可以作得，只是那些事情被别人看来很高深，这只能说明我们自己的无能。
+我很支持他！我也不觉得他是一个理想主义者。他是想说不想为了Paper而Paper，而是想作自己喜欢得事情，真正得研究以及生活。呵呵，我也是一个无能的笨蛋，有想法，没实力，只能祝福大牛人生顺利哦！
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)
+     发信站: 水木社区 (Fri Sep 23 12:00:32 2005)

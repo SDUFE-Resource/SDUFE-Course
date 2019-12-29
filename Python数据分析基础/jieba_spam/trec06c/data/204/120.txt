@@ -1,0 +1,23 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <cai@ccert.edu.cn>; Thu, 29 Sep 2005 14:00:48 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 06:11:59 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 14:11:58 CST
+Date: Thu, 29 Sep 2005 14:11:58 +0800 (CST)
+From: liang ming <mo@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILnY09p3ZWK1xMzWwtvKx7rcv8nQprXEysI=?=
+To: cai@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+说得挺好的
+     这几天讨论得热闹，经常来看看。姑且不论事情本身，看到上面某些关于Web和telnet的讨论，忍不住说几句。也许在这种场合，应当先表明一下自己的身份，免得被某些人指摘。上水木也有六七年了，土著出身，水木常来，公网的论坛也常上。简单说，对小圈子里的种种规矩是心领神会的。
+     王的事情我不了解，也不予置评。对于一个理想主义者，祝福他走好就是了，毕竟这个世界上的理想主义者不是太多而是太少了。至于我们，依旧平平淡淡过自己的小日子，做自己的普通人，继续认同规则，继续按部就班，当然，这并不会影响我们的真实幸福。喜欢王的人，也许是与他心有同感，也许是激起了一贯潜藏在犬儒的心理中的不甘心，无论如何，是引起了共鸣的。
+     也许很多人对此是不以为然的，但是不赞同的方式有很多种，有理有力有节这几个字我们都学过，即便是在BBS上。用小圈子里的行为方式去讪笑，和嘲笑进城务工的农民兄弟“土包子”没什么差别。这里并不是joke，BBS也并不是纯粹拿来灌水的，特别当别人试图认真讨论一个问题的时候。如果你相信真理在手，那么请说服他们。

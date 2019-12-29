@@ -1,0 +1,32 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <zheng@ccert.edu.cn>; Thu, 29 Sep 2005 16:06:22 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 08:17:29 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 16:17:29 CST
+Date: Thu, 29 Sep 2005 16:17:29 +0800 (CST)
+From: liang ming <hu@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMTRtcDTw3RlbG5ldNKy1rW1w8jntMvS/dLUzqq6wD8=?=
+To: zheng@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+ft  correct mm还没说呢
+     标  题: Re: 难道用telnet也值得如此引以为豪?
+     
+     X！
+     
+     
+     
+     嗯，mm说让我干嘛，我就干嘛
+     : 咱们一起来歧视他们telnet用户吧！
+     
+     
+     --
+         _----_             长江后浪推前浪，mj晒在沙滩上
+      |\\/      \\/                

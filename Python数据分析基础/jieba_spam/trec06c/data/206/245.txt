@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8SBi0E8029027
+	for <sun@ccert.edu.cn>; Fri, 30 Sep 2005 00:41:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SBtAlB017695
+	for <sun@ccert.edu.cn>; Fri, 30 Sep 2005 00:52:20 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 29 Sep 2005 16:26:36 -0000
+Message-ID: <000c01c5c423$728140e0$0c42423b@tunoc1a645037e>
+From: "yuan" <yuan@mail.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILWxza+7sLDjtcSwrsfp1MnC5C4uLi4uLg==?=
+Date: Fri, 30 Sep 2005 00:52:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C466.808A4220"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+童话天天有，可是各有各的不同，酸甜苦辣，个中滋味儿，也只有自己才能明白。明明知道这样的伤心不对，可就是忍不住的伤心，听着她或他留下的音乐，泪水偷偷的流了下来，看着她的照片，想起以前一起开心的事儿，难过了，可是又能怎么办呢？该走的人始终要走，留给自己的是永远的伤痛和无穷的哀愁！！！
+     当他远渡重洋的时候，我就有点不安，我担心我们从此就会像白天和黑夜一样永不相逢；
+     当他生日的时候，我就有些内疚，我痛恨自己不能陪他一起度过；
+     当他深夜返回宿舍的时候，我就感到心酸，我怜惜他外出求学的寂寞和不易；

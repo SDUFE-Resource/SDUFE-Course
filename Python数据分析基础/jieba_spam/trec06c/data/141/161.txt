@@ -1,0 +1,32 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <zhong@ccert.edu.cn>; Fri, 16 Sep 2005 15:56:54 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <zhong@ccert.edu.cn>; Fri, 16 Sep 2005 16:13:29 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <zhong@ccert.edu.cn>
+	; Fri, 16 Sep 2005 16:13:29 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <zhong@ccert.edu.cn>; Fri, 
+	Fri, 16 Sep 2005 15:38:30 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "lian" <lian@njnu.edu.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjnufvE48WuxfPT0bzSyMu21MTjy7XBy9Xi0Km7sKOsxOPU9cO0v7SwoqO/?=
+Date: Fri, 16 Sep 2005 16:08:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+是不太礼貌
+     我以前想去看看她家人，她说机会不成熟。今天第一次去女朋友家，本来女朋友是好意，怕我今天孤单。今天女朋友的爷爷，爸妈，姑妈，姑夫都去了。吃着饭的时候，女友的爸爸就说了，说女儿是他们的心肝，谁也别想让她受气，还说他宠爱女儿是附近出了名的，他就直接说他是护
+     她爸说，这次不算正式的认门，意思是说是普通朋友的关系，来家里坐坐。这个我能理解。而且我感觉她爸喜欢吹牛，也许是喝了酒的原因。她爸说他能养活女儿一辈子，他不求我家什么，只希望她的男朋友能对他女儿好。类似的话说了很多，我只是感觉她家人虽然很直爽，但是也太
+     后来女友说他家人对我印象挺好，可我怎么对她家人有点不爽的感觉。我理解父母的心情，可我看不惯那些自以为是的人。我对女友也挺好，她对我也挺好，可以后我同她家人需要共处的时间还是很多的。

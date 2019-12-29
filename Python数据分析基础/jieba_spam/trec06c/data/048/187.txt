@@ -1,0 +1,37 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <rao@ccert.edu.cn>; Sat, 27 Aug 2005 16:27:32 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 16:38:05 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sat, 27 Aug 2005 16:38:05 +0800
+From: "hu" <hu@ctbu.edu.cn>
+To: rao@ccert.edu.cn
+Date: Sat, 27 Aug 2005 16:38:05 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "hu" <hu@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEg09DP3tSqt9bO9tPFu6+5pLPMyqY=?=
+Content-Type: text/plain
+
+公司简介：
+赛特达公司是工业设计集成自动化和多学科优化的软件销售和咨询公司。其解决方案出自GE航空部门，实现多种CAD/CAE/CAM软件的集成，并利用数学探索工具（实验设计、近似建模、多目标优化、专家知识、可靠分析和设计、田口和六西格玛稳健设计等），实现产品仿真和设计的自动化，最终为用户提供横跨组织部门、专业领域和产品周期的统一协作的设计方案。应用领域覆盖航空航天、机械制造、汽车工业、电力电子、过程工业、国防科研等部门，为客户在工程设计和制造成本方面节省了上亿美元。
+赛特达的软件产品是围绕着 iSIGHT/FIPER 的成套产品，不仅为客户提供了多学科集成优化，稳健设计等一系列极为先进的“后台”设计能力，而且能针对客户的不同需要提供 EASA 的前端集成和封装能力以及 Morpher 和Sculptor的前处理和参数化能力，再加上 iWEBSIM 提供的网络式调用仿真分布计算能力等等。整个产品链能够形成了赛特达独特的 CIDO（ Collaborative Integrated Design Optimization Platform 协同式集成设计优化平台）技术平台并能和用户的软件相辅相成而形成一个完整的“价值链”。 
+公司提供的社保福利：“五险一金”
+此外，公司为员工提供和谐的工作环境和广阔的个人发展空间。
+联系方式：
+公司地址：北京市海淀区长春桥路11号万柳亿城C1座605室
+邮政编码：100089
+电子邮箱：hr@sightna.com　  christina@sightna.com
+公司网站：www.sightna.com
+备注：请在简历中注明应聘职位及招聘来源
+任职资格：
+1、流体、结构或机械相关本科或以上学历
+2、至少熟练使用一种仿真工程软件进行具体工程项目分析：ANSYS、MSC、FLUENT、CFX等
+3、至少熟练使用一种通用CAD软件:UG、ProE、CATIA、Solidworks等
+4、具有概率统计分析和优化设计算法的理论基础
+5、很强的表达、客户沟通和内部沟通能力
+6、有吃苦耐劳，善于钻研，能在压力下发挥水平的素质
+职位描述:
+1、主抓多学科的软件集成、设计建模、方案选择等咨询服务
+2、与销售部门进行配合完成客户沟通、售前演示、解决方案策划和实施工作

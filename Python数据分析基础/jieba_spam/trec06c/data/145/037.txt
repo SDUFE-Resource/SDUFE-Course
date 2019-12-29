@@ -1,0 +1,23 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2svQX010170
+	for <zhong@ccert.edu.cn>; Sat, 17 Sep 2005 07:08:17 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G3Pt3h004638
+	for <zhong@ccert.edu.cn>; Sat, 17 Sep 2005 07:39:18 +0800
+Message-Id: <200509160325.j8G3Pt3h004638@stmp.nisac.gov.cn>
+Date: Sat, 17 Sep 2005 07:19:25 +0800
+From: "luo" <luo@mail.nisac.gov.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SwbWwrsHLo6y1q87SsrvQ0rij?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+有些东西是可以培养的，比如爱情。你们相处才一个月，要说有那种很深的感觉是不太现实的，都没有经历什么风浪，哪得来刻骨铭心。但是一开始应该有些甜蜜得吧，而且有时候这种感觉是要靠两个人去营造得，不是什么美丽的东西都是天上掉下来的。我觉得如果时间能够让两个人越走越近，那证明是真正的爱情，相反，一开始的时候就轰轰烈烈，越到后面越平淡疏远的，就有可能就经不住考验了。
+    我和他恋爱有一个月了，见了他父母，他们都非常喜欢我。
+    但是我总觉得有些茫然，心里似乎没有幸福的感觉。（我们两个都是很有责任心的人，这段感情以婚姻为导向）
+    很平淡，他握着我的手，我觉得就像左手握右手。
+    请大家告诉我：我找不到爱的感觉，这是怎么回事？

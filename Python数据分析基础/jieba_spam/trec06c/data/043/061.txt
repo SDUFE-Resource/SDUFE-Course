@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <xia@ccert.edu.cn>; Fri, 26 Aug 2005 10:19:29 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 10:37:52 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 10:37:52 +0800
+Date: Fri, 26 Aug 2005 10:37:52 +0800
+From: ni@cernet.com
+Subject: =?gb2312?B?UmU6IL30vLHH89b6o7rU9dH5z/vD8PLa8rw=?=
+To: xia@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+家庭蜈蚣驱除主要有两种方法可以尝试：第一，滞留喷洒。祝先生可以从药店购买一些除虫菊酯（高效氯氰菊酯、胺菊酯等），在蜈蚣经常出没的地方洒上一些，当蜈蚣经过这些地方，就会死去。此外，下水口处不妨多喷洒一些，通常潮湿的地方是蜈蚣比较多的地方。
+    第二，密闭烟熏。在滞留喷洒后，还可以将房间密封起来，买一些烟熏除虫片（一般超市可以买到），进行密闭烟熏。
+    以上两种方法，一般都可将蜈蚣杀净。如果前两种方法还不十分见效，那就需要用专业设备进行灭杀。
+     不知何时开始，家里出现了蜈蚣，晚上起来给孩子加餐，
+     通常都看见蜈蚣，这东西毒性很大，怕怕啊，尤其是什么
+     都不懂的新生儿

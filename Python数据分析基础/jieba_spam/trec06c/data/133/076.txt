@@ -1,0 +1,33 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBHaMG026280
+	for <xu@ccert.edu.cn>; Thu, 15 Sep 2005 01:32:45 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id A7E89718597; Thu, 15 Sep 2005 01:44:36 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 139F3733E57; Thu, 15 Sep 2005 01:44:35 +0800 (CST)
+Message-ID: <053901c5b91f$8fe966d0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <yan@dlut.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX3uPbIy7jmy9/O0tT1w7TM4bjfcnA=?=
+Date: Thu, 15 Sep 2005 01:44:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0536_01C5B962.9DFC0500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+你说的没错
+我是该反思一下,可是有些是我不能控制的啊,
+1.电脑主板为什么会烧我真的不知道
+2.我真的不知道那是N不是H,因为当时我在睡觉;
+3.我真的不知道勺子为什么会飞出去;
+4.我真的不知道老板为什么这几天不烤烤肠;
+5.我真的不知道为什么会有块碎玻璃在桌上;
+6.我真的不知道蚊子为什么追着我咬,
+如果我知道原因,我就不会归结为自己人品不好了
+     提高人品没用
+     还是想想怎么才能解决那些问题以及以后如何不再出现那些问题吧
+     理性||建设性

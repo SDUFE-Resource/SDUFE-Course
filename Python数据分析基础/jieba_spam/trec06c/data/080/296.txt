@@ -1,0 +1,22 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <lian@ccert.edu.cn>; Sat, 3 Sep 2005 17:35:32 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Sat, 3 Sep 2005 18:07:01 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Sat, 3 Sep 2005 17:48:06 +0800
+From: "ou" <ou@mail.nisac.gov.cn>
+Reply-To: ou@mail.nisac.gov.cn
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCuyc/By8THxOq1xLCux+lb1K20tF0tLcfrzvDXqtTY?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+果树靠养不靠种
+          曾经以为爱情应该就是很简单，碰到一个人，莫名的心动了，然后愿意和她（他）在一起，最后走在了一起，手牵着手，在寒冷的夜里，你替她暖手，她为你戴上了手织的围巾；于是无论风风雨雨，在夏日里，你头顶上总有把遮阳的伞；冬日里，回到家，总有热热的茶……日子

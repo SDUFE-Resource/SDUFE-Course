@@ -1,0 +1,35 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <liao@ccert.edu.cn>; Sat, 17 Sep 2005 03:39:01 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <liao@ccert.edu.cn>; Sat, 17 Sep 2005 03:55:36 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <liao@ccert.edu.cn>
+	; Sat, 17 Sep 2005 03:55:36 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <liao@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 03:20:37 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "cen" <cen@njnu.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tDH7w==?=
+Date: Sat, 17 Sep 2005 03:50:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+今天是中秋，一个对于我而言并没有太深刻意义的节日。
+月饼倒是吃了，不过多少有些例行公事。吃过月饼，按道理还应该赏赏月，谈谈天，品品时鲜的水果，却一件一件都被我省掉了。
+我是从小到大都没怎么离开过家，而爸爸妈妈就算出差，过节也必定赶回来，所以过中秋的时候，总是一家人在一起。内容坚定不移，形式自然就不那么重要。
+有时候觉得过不过节真的无所谓：该一家人的，还是一家人；该两个人的，还是两个人；该一个人的，还是一个人。如此简淡散漫。
+就像昨天和朋友聊天时说的，现在真是懒了，一切都只想交给上天安排：安排得好，就好；安排得坏，就坏；要是一时太忙忘了安排，我也不抱怨。
+说完发现好像太宿命了。也不知道什么时候自己就变成这样了。因为隐约意识到生命的不可把握、不可捉摸，所以不敢也不愿再过多的期望什么了吧。
+在这动荡的世界里，有什么是可靠的呢。我甚至不及倾城下的流苏呢。

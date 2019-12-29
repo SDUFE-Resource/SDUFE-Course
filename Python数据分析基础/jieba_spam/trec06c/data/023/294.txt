@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <lian@ccert.edu.cn>; Mon, 22 Aug 2005 00:57:05 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <lian@ccert.edu.cn>; Mon, 22 Aug 2005 01:10:23 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 17:05:00 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "jian" <jian@mail.tsinghua.edu.cn>
+To: lian@ccert.edu.cn
+Cc: "tunet" <yun@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMflu6rGrcHLy7bKv8n6?=
+Date: Mon, 22 Aug 2005 01:06:46 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+你这话也太搞笑了，貌似我们系也有一个第一的，难道其他三十来个院系那么差.....
+光论清华的工科专业，谦虚一点，20％以上排名第一还是不算多的，怎么算都不止3个吧。
+再说，你知道专业排名是怎么排的吗？以教育部那边的考核来说，有一项是培养的学生人数，有的学校扩招之后一个专业毕业的博士能比我们的硕士还多，咔咔，一下子就下去了。
+     这是我们系主任讲话说得，因为三个专业两个在我们系，还有我这么说决不是说各位博士生不努力，而是学校的设备和学术积累不够，弄得大家费力不讨好，费了力气学术水平媒体上去，不能和北大那些文理学校比，即使和很多工科院校，清华的研究生阶段都没有优势，甚至很多优势

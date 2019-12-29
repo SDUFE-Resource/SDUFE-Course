@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AF39fI030243
+	for <gong@ccert.edu.cn>; Mon, 12 Sep 2005 08:48:42 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AF0L4C093997
+	for <gong@ccert.edu.cn>; Mon, 12 Sep 2005 08:46:12 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8AF0IZY093993
+	for <gong@ccert.edu.cn>; Mon, 12 Sep 2005 08:45:50 +0800 (CST)
+	(envelope-from mayuanchen@tsinghua.org.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 09:05:15 +0800
+Message-ID: <326365583.28602@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: mayuanchen@tsinghua.org.cn
+Received: from unknown (HELO mayc-d400) (220.207.80.1)
+	by 210.77.143.232 with SMTP; Mon, 12 Sep 2005 09:05:15 +0800
+From: "xu" <xu@tsinghua.org.cn>
+To: gong@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [TOEFL] =BD=CC=CA=A6=BD=DA=BF=EC=C0=D6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Date: Mon, 12 Sep 2005 08:58:04 +0800
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0061451654=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     我和老公相恋三年多，领证一个多月，一直感情很好，但是今天大吵了一架，谁都很生气，也没哟办法说服对方，所以决定到家版上来说一说，大家给点意见，我们再反思改进。
+     我们虽说相恋三年多，其实在一起只有一年多时间，后来我就被学校公派到国外学习，一去就是两年，今年七月刚刚回国的。
+     我很感激老公为了我的前途和事业等了我两年。所以这两年中，不管多累多辛苦，我都起码拿出一个小时和老公网上聊天。后来没有了网络，就天天打电话。出去旅行，每到一处都给老公寄postcard买礼物。两年中，三次回国看他。今年夏天回国后，每天都在家里给老公做饭洗衣拖地。他下班回家，都是干干净净，饭菜早就放在桌上了。
+多和他交流吧，那样会好些。。。

@@ -1,0 +1,45 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 02:27:25 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 01:49:43 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "tu" <tu@cert.org.cn>
+To: ning@ccert.edu.cn
+CC: "ning@ccert.edu.cn" <xu@ccert.edu.cn>,
+   "chen@ccert.edu.cn" <jiang@ccert.edu.cn>,
+   "feng@ccert.edu.cn" <su@ccert.edu.cn>, "yang@ccert.edu.cn" <rao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgU2FuZHZpayAwNS0wNiBjYW1wdXMgcmVjcnVpdG1lbnQgKNeq1Ngp?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 02:35:10 +0800
+
+ WE MAKE IT POSSIBLE  - Sandvik Day at Tsinghua University
+October 12th
+Part 1: Campus talk
+ 13:30 ~ 17:30
+ Lecture hall of School of Science (理学院报告厅)
+ SPECIAL NOTICE: 40 job oppurtunities and 2 chances of free travel to Sweden are waiting for you!!
+Part 2: Dinner
+ 18:30 ~ 20:30
+ Banqueting hall of Tsinghua Unisplendour International Center
+ (清华紫光国际交流会议中心）
+Purveyor: Association of Student International Communication (ASIC)
+(Detailed information could be found in the attached file)
+******************************************************************************
+Who is Sandvik?
+ Sandvik is a high-technology, engineering group with advanced products and a world-leading position within selected areas.
+- 130 countries where business activities are conducted.
+- 38 000 employees worldwide.
+- SEK 55 billion annual sales.
+What is Sandvik Day?
+ First &amp; tremendous event of 2005 Sweden Day at Tsinghua University.  Enjoy these campus talks and culture rover on this Sweden festival!!
+What\'s on Sandvik Day?
+- Well understanding of Sandvik culture &amp; group!!!
+- 40 technical and commercial job opportunities!!!
+- 2 chances of free travel to Sweden &amp; visit company Sandvik!!!
+- Delicious dinner &amp; interesting games!!!
+Don\'t miss it,  WE MAKE IT POSSIBLE !

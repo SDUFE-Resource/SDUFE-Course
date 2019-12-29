@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bkPe006750
+	for <yu@ccert.edu.cn>; Mon, 26 Sep 2005 15:15:51 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4j00838;
+	Mon, 26 Sep 2005 15:19:09 +0800
+Message-Id: <200509260741.j8Q7f4j00838@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 07:19:07 UT
+To: yu@ccert.edu.cn
+From: cao@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzZyejV4tH50rvW1sfpv/ajrM312/PNy9GntcTKwg==?=
+
+马君朝在华盛顿邮报工作~~~
+     不懂历史的同学不要乱说话
+     当年院系调整的时候理科都被调到北大去了，80年代以后才逐渐开始重建的。研究这个东西要靠积累。如果说本科教育清华立刻也不算差，怎么也是理科基地之一，而且评比的时候还曾是示范基地（现在不知道还是不是了）。你没在这里呆过就不要乱说好不好。见过一个奥赛金牌就整
+     而且他本来是理科又去学理科算什么牛，我上一级一个强人学生物觉得没意思去yale学历史了，那岂不更牛？那人家也没在走之前说清华屈了他的才。

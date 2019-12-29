@@ -1,0 +1,29 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <ning@ccert.edu.cn>; Sat, 17 Sep 2005 18:39:52 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <ning@ccert.edu.cn>; Sat, 17 Sep 2005 18:56:27 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <ning@ccert.edu.cn>
+	; Sat, 17 Sep 2005 18:56:27 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <ning@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 18:21:28 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "he" <he@njnu.edu.cn>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO80su1y7XO0rjD1PXDtLDs?=
+Date: Sat, 17 Sep 2005 18:51:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+   我和bf是本科同学。他来自农村，家里条件不太好，有个姐姐刚工作了。我家里条件一般，在城市。现在我们都研二，不在同一学校，都在北京。最近半年我们经常吵架，原因是我觉得他太节省了，对他自己特别的节省，对吃和穿都很节省，从舍不得给自己买一件衣服。以前读本科的时候，家里他和姐姐都上大学，条件不好，他很节省，我理解并给他买过几件衣服。他觉得我很好，我们感情还好。现在她姐姐工作一年多了，家里条件改善了，他还是那么的节省，我就不能理解了。我想要他吃好些穿好些，买些必备的东西。他身体也不是很好，我很担心，所以想要他吃好些。他家里和姐姐从来不给他买衣服什么的，所以我想他自己买点，可他从不买，觉得自己的衣服够了。我和他说过我的想法，他觉的让我担心这么多很内疚，可是他说要对自己好，可做得我还是不满意，我们好好的谈过，我也吵过。但是问题还是解决不了，他还是很节省。我还是很担心，他的身体不好，吃大不营养。他的意思是家里条件不是很大改善，他不能多花钱。他是公费的，导师每月给他发700快钱，他基本不用姐姐的钱。姐姐的工资也没有向家里寄，他父母让她存着和给我bf不够时用。现在bf很节省，而她姐姐确改变很大一年，买的吃的都很好，还给她自己男友买衣服（男友在读研），可从来不给我bf买，，说是让我bf自己买，可是bf根本舍不得买啊。现在我们因为这事吵架，我生气，他也内疚把，可是还是解决不了。我该怎么办，分手吗，我想到过

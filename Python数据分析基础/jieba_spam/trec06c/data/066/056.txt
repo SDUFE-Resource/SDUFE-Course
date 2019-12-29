@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <qian@ccert.edu.cn>; Thu, 1 Sep 2005 17:13:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <qian@ccert.edu.cn>; Thu, 1 Sep 2005 17:25:59 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 17:15:38 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 17:15:38 +0800
+From: zhong@mail.tsinghua.edu.cn
+To: qian@ccert.edu.cn
+Date: Thu, 1 Sep 2005 17:15:38 +0800
+Reply-To: zhong@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILKpyr9sZ9K7tqjKx8exwaa5ycLwo78=?=
+Content-Type: text/plain
+
+偶一直认为博士与其说是一种学位
+还不如说是一种经历、一种状态、一段工作
+毕竟这个世界上大部分人对于大部分领域是外行
+特别是对于一些人，水平相差很远
+让他们拥有推研时读硕还是读博
+或者博士找工作时的细腻心态几乎不可能
+特别是文化较低的朋友
+自然而然地会有对高学历的羡慕
+如果谈到收入
+社会上崇拜的很多东西几乎起不到作用
+因为收入不是选举
+     lg在读博士的时候，他一个月的收入800多就当零花了，我当时光每个月纳税就2千多。
+     朋友们一直很羡慕我们说：“你lg是潜力股，以后你30岁就退休了。”
+     事实真是这样吗？

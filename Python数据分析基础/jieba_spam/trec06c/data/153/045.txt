@@ -1,0 +1,40 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <tang@ccert.edu.cn>; Sun, 18 Sep 2005 23:20:42 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Sun, 18 Sep 2005 15:31:43 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Sun, 18 Sep 2005 15:31:43 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <tang@ccert.edu.cn>; Sun, 18 Sep 2005 08:42:40 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <tang@ccert.edu.cn>; Sun, 18 Sep 2005 10:40:06 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Sun, 18 Sep 2005 23:31:30 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <cai@motorola.com>
+To: tang@ccert.edu.cn
+Cc: hong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+0zeqhtrjWx9nKpqG3o6zO0tC0tcTTsMbAOik=?=
+Date: Sun, 18 Sep 2005 23:31:04 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+     标  题: Re: 看完《钢琴师》，我写的影评:)
+     
+     这个片子太沉重了，我强忍着跑出电影院的冲动把电影看完
+     如果要说波兰斯基的真实意图，可能在于那个德国军官的悲惨遭遇
+                                        ~~~~~~~~~~~~~~~~~~~~~不对，波兰斯基当初应邀拍摄辛德勒的名单，但是他走不出童年的阴影据掉了。
+     战争对于哪一方的伤害都超过了人类可以承受的范围
+     
+     
+     :                                                              
+     :     其实之前我对波兰斯基的作品不是很熟悉，但是看了《钢琴师》，我隐隐感到了一些东西，对比别人的评论，我印证了自己的感觉。宣传海报上是说，“本片讲述了一位天才的波兰犹太钢琴师，凭借音乐才华感染了一名德国军官，在他的保护下，钢琴家终于捱到战争结束，迎来了自由的曙光。”然而等我看完了整部片子，觉得这简直就是胡扯。那位军官的出场时间在整部片子中不过17分钟，远远构不成片子的主旋律。那么这部片子讲的是什么呢？有位评论者说：“影片反映的是德国纳粹对犹太人无情的残害和杀戮。”我承认这是一个很重要的方面，但是如

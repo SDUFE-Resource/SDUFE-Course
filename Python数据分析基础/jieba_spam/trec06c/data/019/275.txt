@@ -1,0 +1,23 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <feng@ccert.edu.cn>; Sun, 21 Aug 2005 02:36:20 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 18:46:34 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 18:46:34 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "luo" <luo@jdl.ac.cn>
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL30vLHV97j2tefE1LjfytY=?=
+Date: Sun, 21 Aug 2005 02:50:42 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+病毒把这些程序的默认打开方式改成了它自己，你再改回来就好了～
+     征个电脑高手，请教以下情况：
+     我的电脑刚才把金山毒霸升了一下级，然后查杀了一下病毒，找到4个病毒，然后就清除了。后来，居然电脑上的QQ、MSN、REALONE PLAY、打印机程序、FOXMAIL等应用程序居然都启动不了，双击以后显示为“WINDOWS找不到文件***，请确定文件名是否正确后，再试一次。要搜索文件

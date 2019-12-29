@@ -1,0 +1,131 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <wen@ccert.edu.cn>; Sat, 24 Sep 2005 18:11:49 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <wen@ccert.edu.cn>; Sat, 24 Sep 2005 18:23:18 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 10:00:24 -0000
+From: "gao" <gao@mail.tsinghua.edu.cn>
+To: wen@ccert.edu.cn
+Cc: <lei@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgSUVFRSAyMDA2xOq2yNGnyfq74dSx16Ky4c2o1qogKNeq1Ngp?=
+Date: Sat, 24 Sep 2005 18:22:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+【 以下文字转载自 DCST 讨论区 】
+发信人: mermaidy (小美人鱼), 信区: DCST
+标  题: IEEE 2006年度学生会员注册通知 (转载)
+发信人: mermaidy (小美人鱼), 信区: DEE
+标  题: IEEE 2006年度学生会员注册通知
+发信人: mermaidy (小美人鱼), 信区: IEEETHUB
+标  题: IEEE 2006年度学生会员注册通知
+ IEEE简介
+        IEEE是全世界最大的专业技术学会。它现在拥有超过38万的会员，其中包括7万多名学生会员，覆盖150个国家和地区，由4个联合会（Council）、37个专业学会（Society）和300个地区分会（Section）组成。分会下设专业委员会（Chapter）以及学生分会（Student Branch），共有将近1300个专业委员会和2000个学生分会。IEEE主办或合办300多个国际学生会议，每年出版发行占全世界30％强的电力、电子及计算机科学技术类的书报、杂志和其他各种刊物，已制定了将近900个行业标准。
+        IEEE是一个持续成长的专业学会组织。从1963年至2004年，IEEE会员以平均每年将近6000人的数量在增长，他们在各自的领域作出的贡献、发表的文章，大大提高了IEEE在全世界的影响力。
+        加入成为会员将会使您的研究之路如虎添翼！
+加入IEEE成为学生会员的好处
+经济方面：
+?       可以按会员价格订购IEEE所有的出版物
+?       凡参加IEEE举办的学术会议，注册费将获得很大的优惠，此优惠相对于学生会员申请费用而言是可观的
+?       例如，参加
+学术方面：
+?       发表在IEEE及其分会直接主办的国际学术会议上的文章可以代替博士生论文答辩要求的核心期刊文章
+?       可以和国际上的同行专家建立联系，开展各种交流和合作活动
+?       可以收到有关自己专业的技术信息和会议消息
+?       发表IEEE主办国际学术会议的论文，有可能获得IEEE提供的奖学金。有的金额在1.5万美元以上
+其他方面：
+        可以获得一个IEEE网上的终身email地址
+                IEEE 2006年度学生会员注册流程
+一．    时间和地点
+时间：9.26 ~ 9.28 中午 12:00~14:30
+        地点：FIT 大楼 3区 502 , FIT楼在东门旁，进门左手边楼，具体位置请参见FIT楼内指示牌。
+二．    注册流程
+本年度只接受学生会员在线注册，具体流程如下：
+1．     登陆http://www.ieee.org/services/join
+?       点击右上方"JOIN IEEE NOW！"
+?       进入下一个页面，点击"Begin Membership Application"
+2．     按照网页上的提示逐步填写申请表：
+注意以下重要信息不要填错：
+(1) Postal Address
+(2) Email
+(3) Degree
+(4) Society
+填写完毕选择"Print and Mail with Payment"，网上提交申请表电子版。
+之后会有（Please print this form, sign it, and return it with Payment to…）字样，打印一份申请表，并手写签名（在最后一页右下角）。
+如果不小心填错了，可以重新注册一个。
+3．     将 申请表和注册费（请自备零钱） 一并带到指定注册地点。工作人员会帮助您将您的申请表和费用一并寄到IEEE总部，完成您的注册。
+4．     在分会处注册的支付方式：
+现金或者校内转账单，具体注册细节工作人员将协助您完成。
+5．     注册费用： 
+学生会员基本会费（IEEE student member dues）+ 手续费 + Society Fees
+学生会员基本会费：      $25.00
+手续费：                                ￥50.00
+Society Fees：          请参照注册过程中相应的金额
+总费用：        $25+Society Fees+￥50（其中美元部分的汇率按照8.11计算，相应人民币金额的小数点后不计）
+06 年Society Fees见下表：
+Society Membership Dues
+Society Member
+Full year       Member
+Half year *     Student
+Full Year       Student
+Half year *
+IEEE Aerospace and Electronic Systems   $25.00  $13.00  $13.00  $7.00
+IEEE Antennas and Propagation   24.00   12.00   12.00   6.00
+IEEE Broadcast Technology       15.00   8.00    8.00    4.00
+IEEE Circuits and Systems       18.00   9.00    9.00    5.00
+IEEE Communications     40.00   20.00   20.00   10.00
+IEEE Components, Packaging, and Manufacturing Technology        12.00   6.00    6.00    3.00
+IEEE Computational Intelligence Society 20.00   10.00   10.00   5.00
+IEEE Computer   46.00   23.00   23.00   12.00
+IEEE Consumer Electronics       15.00   8.00    8.00    4.00
+IEEE Control Systems    25.00   13.00   13.00   7.00
+IEEE Dielectrics and Electrical Insulation      20.00   10.00   10.00   5.00
+IEEE Education  20.00   10.00   10.00   5.00
+IEEE Electromagnetic Compatibility      25.00   13.00   13.00   7.00
+IEEE Electron Devices   11.00   6.00    6.00    3.00
+IEEE Engineering in Medicine and Biology        35.00   18.00   18.00   9.00
+IEEE Engineering Management     30.00   15.00   15.00   8.00
+IEEE Geoscience and Remote Sensing      20.00   10.00   10.00   5.00
+IEEE Industrial Electronics     10.00   5.00    5.00    3.00
+IEEE Industry Applications      20.00   10.00   10.00   5.00
+IEEE Information Theory 30.00   15.00   15.00   8.00
+IEEE Instrumentation and Measurement    20.00   10.00   10.00   5.00
+IEEE Intelligent Transportation Systems Society 25.00   13.00   13.00   7.00
+IEEE Lasers and Electro-Optics  25.00   13.00   13.00   7.00
+IEEE Magnetics  20.00   10.00   10.00   5.00
+IEEE Microwave Theory and Techniques    14.00   7.00    7.00    4.00
+IEEE Nuclear and Plasma Sciences        20.00   10.00   10.00   5.00
+IEEE Oceanic Engineering        19.00   10.00   10.00   5.00
+IEEE Power Electronics  20.00   10.00   10.00   5.00
+IEEE Power Engineering  30.00   15.00   15.00   8.00
+IEEE Product Safety Engineering 35.00   18.00   18.00   9.00
+IEEE Professional Communication 30.00   15.00   15.00   8.00
+IEEE Reliability        30.00   15.00   15.00   8.00
+IEEE Robotics and Automation    21.00   11.00   11.00   6.00
+IEEE Signal Processing  27.00   14.00   14.00   7.00
+IEEE Society on Social Implications of Technology       24.00   12.00   12.00   6.00
+IEEE Solid-State Circuits       18.00   9.00    9.00    5.00
+IEEE Systems, Man, &amp; Cybernetics        9.00    5.00    5.00    3.00
+IEEE Ultrasonics, Ferroelectrics, and Frequency Control 20.00   10.00   10.00   5.00
+IEEE Vehicular Technology       18.00   9.00    9.00    5.00
+Other Options   Member
+Full year       Member
+Half year *     Student
+Full Year       Student
+Half year *
+Proceedings of the IEEE
+(Print OR Online)       $29.00  N/A     $29.00  N/A
+Proceedings of the IEEE
+(print and online combination)  $37.00  N/A     $37.00  N/A
+IEEE Standards Association
+(IEEE-SA)       $36.00  Full Year Only  $36.00  Full Year Only
+Women in Engineering (WIE)      $25.00  Full Year Only  Free    Full Year Only
+Potentials Magazine
+(outside US and Canada) $15.00  $8.00   $5.00   $3.00

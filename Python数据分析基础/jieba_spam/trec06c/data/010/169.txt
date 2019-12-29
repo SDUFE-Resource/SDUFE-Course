@@ -1,0 +1,40 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <lai@ccert.edu.cn>; Fri, 19 Aug 2005 06:07:46 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <lai@ccert.edu.cn>; Fri, 19 Aug 2005 06:41:06 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 06:22:05 +0800
+From: "xu" <xu@mail.nisac.gov.cn>
+Reply-To: xu@mail.nisac.gov.cn
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK7uPa087mry77V0Mflu6qyqcq/o6E=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+软件强？什么叫软件强？
+     标  题: 一个大公司招清华博士！
+     
+     一个大公司，招清华博士，
+     专业：
+     生医，计算机，自动化，工程物理
+     要求：
+     软件强，英语流利
+     
+     月薪大概1w多
+     据说待遇很好
+     将来还可以出国工作
+     有意者请联系
+     
+     史东庆
+     13501167794
+     owen_opo@126.com
+     
+     --
+     

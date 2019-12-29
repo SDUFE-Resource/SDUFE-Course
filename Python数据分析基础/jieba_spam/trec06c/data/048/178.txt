@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <zhong@ccert.edu.cn>; Sat, 27 Aug 2005 16:17:23 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 16:35:43 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 16:35:43 +0800
+Date: Sat, 27 Aug 2005 16:35:43 +0800
+From: lai@cernet.com
+Subject: =?gb2312?B?ofEgobDWsNK1uKi1vKGxvbLX+dDFz6KjraOttPPRp8n6tLTStc/WyrW31s72?=
+To: zhong@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+你了解创业吗？－－实践创意，成就未来
+你想创业吗？－－海阔天高，大有可为
+你知道怎样创业吗？－－设定目标，享受成功
+在创业中职业，为职业而创业

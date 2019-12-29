@@ -1,0 +1,27 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdWEc032356
+	for <ni@ccert.edu.cn>; Tue, 27 Sep 2005 02:58:19 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 03:14:01 +0800
+Message-ID: <327652915.11497@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Tue, 27 Sep 2005 03:14:01 +0800
+Message-ID: <000201c5c1cf$bb5d1d80$0301a8c0@CCERTDAWEI>
+Reply-To: "cen" <cen@ccert.edu.cn>
+From: "cen" <cen@tsinghua.org.cn>
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SzPnU2tXiwO+wySy087zSx8bHxi4=?=
+Date: Tue, 27 Sep 2005 00:14:02 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+第一句的society是单数还是复数阿？
+      我写的一篇essay,大家帮忙看看,U of TEXAS-Austin要求的,大家多提宝贵意见,指出一些语法错误,谢谢了.发在别的版没人搭理.
+     Topic:
+     Many students expand their view of the world during their time in college. Such growth often results from encounters between students who have lived different cultural, economic, or academic experiences. With your future growth in mind, describe a po

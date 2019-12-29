@@ -1,0 +1,30 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <luo@ccert.edu.cn>; Sat, 20 Aug 2005 12:24:39 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <luo@ccert.edu.cn>; Sat, 20 Aug 2005 12:37:41 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 13:01:09 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: bai@126.com
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsLPWqrXAtcTSu7zSyMs=?=
+Date: Sat, 20 Aug 2005 12:32:23 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+俺认识的一家，鳏居老人跟小女儿住，但是想外地的儿子，儿子还不收留。
+小女儿就把她哥哥嫂子两个退休的人接来一起住，房饭全包，因为自己要上班，请他们照顾老人一顿午饭，为此还每月给500块；晚饭都是小女儿或者女婿下班以后做这么多人的。
+有一次偶然发现，她哥哥嫂子从搬来的第二天，就去批发了两箱方便面，藏在老人床底下，让老人中午自己泡。他们每天去公园跳舞。
+老人居然一直忍着没有说，被发现了以后，才在小女儿面前哭了一次。

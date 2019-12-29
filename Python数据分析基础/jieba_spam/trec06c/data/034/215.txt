@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <xin@ccert.edu.cn>; Wed, 24 Aug 2005 18:31:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <xin@ccert.edu.cn>; Wed, 24 Aug 2005 18:44:31 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 10:39:04 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "zhou" <zhou@mail.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM27yLvP67eiuNC/rqOsztKwrrXExMe49sTQyfo=?=
+Date: Wed, 24 Aug 2005 18:40:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+怎么那么凄凉啊
+         我在一塌糊涂遇到了我爱的那个男生，呵呵，一年半了，经历了那么多事情，他依然是那个我爱的男生！
+        记得去年夏天杨梅上市不久的一天，他晚上过来找我玩，一起去买西瓜吃的时候看见杨梅，他问我爱吃杨梅吗，他的家乡在南方，呵呵，那里也是杨梅的故乡，我说没有吃过，呵呵，后来10点多他要回去了，我就回去宿舍了。大约40分钟以后他突然打电话叫我下来，吓我一跳，还

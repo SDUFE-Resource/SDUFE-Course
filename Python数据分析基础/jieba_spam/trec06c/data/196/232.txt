@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <xin@ccert.edu.cn>; Wed, 28 Sep 2005 07:39:08 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 23:25:24 -0000
+Date: Wed, 28 Sep 2005 07:51:08 +0800
+From: "hong" <hong@mail.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+http://www.qingdaonews.com/content/2005-07/09/content_5030495.htm
+早报讯  昨天，央视名嘴白岩松为制作10期专题节目―――《岩松看台湾》，开始了为期10天的台湾之旅。这10天里，白岩松将与连战、宋楚瑜、李敖、龙应台、侯孝贤、蔡明亮、余光中、刘文正、高金素梅等岛内经济、政治和文化界名人对话。该节目将于本月11日至22日，在央视《东方时空》栏目和台湾东森电视台同时播出。 
+    据悉，每期《岩松看台湾》的专题都将由《台湾印象》和《台湾人物》两部分组成，长约25分钟。《台湾印象》以记者现场报道为主，路线囊括了台湾主要城市，将涉及岛内各地的风土人情、社会习俗等。《台湾人物》则通过电视人物专访形式，由白岩松舌战台湾“群英”。白岩松表示，至于提问方式，尖锐也好，和缓也罢，他准备不一而足，随机而动。对于观众来说，则更希望出现舌战群英的精彩场面。 
+    白岩松特地在央视网站开辟了一个名为“你想了解台湾什么”的BBS主题，征询网友意见。一时激起千层浪，网友的建议滚滚而来：“问问台湾同胞对大陆究竟了解多少”、“不要删减李敖的话”、“不要做成《艺术人生・台湾版》”……在嘉宾人选方面，网友们也补充了林志玲、周杰伦、琼瑶等人选，对此，央视方面表示，嘉宾还是会在台湾政治、经济和文化人物当中选择，偏娱乐的人物则暂时不考虑。邱俪华 

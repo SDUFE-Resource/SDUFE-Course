@@ -1,0 +1,26 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R2Ql7k015088
+	for <sun@ccert.edu.cn>; Wed, 28 Sep 2005 09:50:00 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8R2U2q21285;
+	Wed, 28 Sep 2005 09:53:15 +0800
+Message-Id: <200509270230.j8R2U2q21285@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 01:53:15 UT
+To: sun@ccert.edu.cn
+From: zhuang@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMWuuqLX09KqsrvSqrbBsqnKvw==?=
+
+你可以读了博之后，学到了相关的技能，但是不告诉别人你是博士。
+这样可以照顾到某些男人（我不在其内，哈哈）的自尊心，同时不影响自己的事业。
+而且也没必要让别人知道你是博士，毕竟现在不是文凭社会了，看的是能力
+  以前一直梦想自己成为一个科研工作者 但当大学将近毕业 我迷茫了 现在有两个选折
+读博以后可能博士后在国外回来可以做大学老师，可是我不太想做老师 但是这是很多人
+蒙昧以求得生活，或许是什么都安排好了 我都知道我以后的命运了 还有一条是读不是本
+专业的硕士 以后找工作 我不知道以后的命运 从现在来看，硕士的实验条件和我们学校
+硕士专业在全国排名都不是很前 而我读的博士专业排名和实验经费都很好 
+   我不知道怎么样才能让自己不后悔

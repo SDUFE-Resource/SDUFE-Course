@@ -1,0 +1,44 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j876CnL9000865
+	for <weng@ccert.edu.cn>; Fri, 9 Sep 2005 09:07:59 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j876A5E8070573
+	for <weng@ccert.edu.cn>; Fri, 9 Sep 2005 09:05:58 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j876A3Mm070556
+	for <weng@ccert.edu.cn>; Fri, 9 Sep 2005 09:05:13 +0800 (CST)
+	(envelope-from dais00@mails.tsinghua.edu.cn)
+Message-Id: <200509070610.j876A3Mm070556@gradinfo.net.edu.cn>
+Received: from unknown (HELO new) (dais00@221.221.31.105)
+	by localhost with SMTP; Fri, 9 Sep 2005 00:54:18 -0000
+From: "zhang" <zhang@mails.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0LS4+LDmtPM=?=
+Date: Fri, 9 Sep 2005 09:19:22 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWv0E/9DqOJiKH/TE65FHy62kAsmwDoy0PQ
+In-Reply-To: <325673768.25177@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+	j876A3Mm070556
+Cc: 
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+    其实对你的了解并不多，而且接触也不多。可是还是记得我第一次参加版聚，只有你和我一起干完了那一大杯扎啤，一点也不含糊，用我们重庆话来说叫“耿直”。那天晚上其实我是因为心情很不好才出来版聚的，可是那一杯酒下去，我感觉心情好象好一点了。先声明，这不是因为我醉了，而是因为我发现，原来很多事情并没有我想象的那样严重和不堪忍受。
+    那也是我参加的唯一一次版聚。到清华这个地方两年，我一直觉得自己并不属于这个地方。可是到了水木，到了GIRL版，当我渐渐融入这样的一种生活方式和人群中时，我才感到了自己是一个清华人。其实最初是很怕版大的，因为你总是很严肃，总是在我们灌水灌得正高兴的时候发威删水。可是，后来也发现了你的另一面。其实大家都一样，都是在这里寻找着一种心情的释放和寄托。所以我们惺惺相惜，互相安慰，也互相扶持。
+    我知道，你辞职，并不表示你离开。况且，天下没有不散的筵席，总会有说再见的一天。但不管怎样，相信我们都会记得GIRL版，记得在这里的每一天。

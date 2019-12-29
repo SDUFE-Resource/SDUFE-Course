@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j84BWCO8010390
+	for <wang@ccert.edu.cn>; Mon, 5 Sep 2005 06:09:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j84BiZ6j013553
+	for <wang@ccert.edu.cn>; Mon, 5 Sep 2005 06:21:50 +0800 (CST)
+Message-Id: <200509041144.j84BiZ6j013553@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 22:08:48 -0000
+From: "yan" <yan@mail.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Cc: <wua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbUu7DFqcPxuaTN9bHz0+CjutK7uPbLwMf0tcTE2tDEtsCw16Oox+u087zStqWhraGto6k=?=
+Date: Mon, 5 Sep 2005 06:21:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0013_01C5B189.0E6B0DE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWxRgAkfQvScnIOSFuuPXHC6GmLbg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+re,社会的进步体现在对每一个个体的尊重，这至少包括个体的生存权，有了生存权，才有可能考虑发展权，党和政府一再强调“以人为本”，但真的要做到，又需要我们付出多少努力
+     新华网银川9月4日电（记者孟昭丽、刘佳婧、刘晓莉）王斌余，一个普普通通的农民工，带着改变贫穷生活的美好憧憬，17岁开始到城市打工，却在艰辛的生活中不断地痛苦挣扎，备受欺侮。数次讨要工钱无果，他愤怒之下连杀4人，重伤1人，后到当地公安局投案自首。
+      
+      

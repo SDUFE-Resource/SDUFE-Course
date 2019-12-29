@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <ke@ccert.edu.cn>; Tue, 23 Aug 2005 21:06:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <ke@ccert.edu.cn>; Tue, 23 Aug 2005 21:19:58 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 13:14:31 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "zheng" <zheng@mail.tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDE0yrPMw8W80/bD17PmvMc=?=
+Date: Tue, 23 Aug 2005 21:16:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+食堂自然有食堂应负的责任，要注意买新米，应该把米保管好，同学已经说了。
+只是作为一个农民的儿子，我可以告诉你，今年的新米，这个季节能收获的还非常少。赶上今年夏天天潮，过夏的米非常容易生虫，如果在农村生活过，你会知道，米生虫与米是否新鲜关系不大。
+我不是食堂的工作人员，只是一个农民的儿子，说一点常识而已。
+锄禾日当午，汗滴禾下土，
+谁知盘中餐，粒粒皆辛苦。
+     到14吃早餐，要了一份小米粥，刚要举勺，突然发现一只米虫漂在上面，食欲顿无。
+     米中长了虫，这米怕不仅仅是不新鲜而已吧！
+     是食堂囤积粮食太多，保藏工作没做好？还是采购的本来就不是新鲜粮食？只有当事者心

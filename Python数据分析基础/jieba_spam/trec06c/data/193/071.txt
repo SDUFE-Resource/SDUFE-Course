@@ -1,0 +1,21 @@
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q25iG8003971
+	for <zhang@ccert.edu.cn>; Tue, 27 Sep 2005 16:36:35 +0800 (CST)
+Message-ID: <200509261005.j8Q25iG8003971@spam-gw.ccert.edu.cn>
+Received: from LJF (unknown [221.2.147.100])
+	by smtp2 (Coremail) with SMTP id FsDnWBRaN0OCCNUE.1
+	for <zhang@ccert.edu.cn>; Tue, 27 Sep 2005 16:47:37 +0800 (CST)
+X-Originating-IP: [221.2.147.100]
+Date: Tue, 27 Sep 2005 16:47:38 +0800
+From: "wang" <wang@163.com>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEZyZWVkb20gaXMgTk9UIGZyZWUgo7q4+M31zazRp7rNtNPKwr/G0dC5pNf3tcTNrMjK?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/related;
+	boundary="=====002_Dragon056103722146_=====";
+	type="multipart/alternative"
+
+我就不说什么了，我们这里大家都会latex,linux是不是都是cs ph.d水平了。这里好多玩linux玩的很好的，不少都是对科研没什么兴趣，真正cs的还整天拿linux说事还真是少见。
+     我是计算所02级硕士，刚毕业，希望你不要以别人的背景来推测他的话语是否有道理，好不好？很奇怪你知道吗？
+     你看好我的原文，我说是“体现”好不好，linux难道不比windows这种把所有东西都封装起来的os更能体现os原理的内部吗？

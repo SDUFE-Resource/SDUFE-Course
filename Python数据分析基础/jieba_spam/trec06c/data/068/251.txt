@@ -1,0 +1,44 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <he@ccert.edu.cn>; Fri, 2 Sep 2005 03:00:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <he@ccert.edu.cn>; Fri, 2 Sep 2005 03:12:41 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 19:01:52 -0000
+From: "tu" <tu@mail.tsinghua.edu.cn>
+To: he@ccert.edu.cn
+Cc: <long@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgysC959b4w/u+rbzD0ae80qGiwte22NX+1s6+rbzD0afUuihMU0UpTWFyayBTY2hhbmtlcm1h
+br3Myto=?=
+Date: Fri, 2 Sep 2005 03:12:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+清华大学中国与世界经济研究中心（CCWE）
+近日邀请到
+世界著名经济学家、伦敦政治经济学院(LSE)教授Mark Schankerman教授访华，
+并将在2005年9月9日下午3点整，
+于清华大学作题为《大学的激励与创新》（Incentives and Invention in Universities）讲演。
+Schankerman教授将就大学的激励和科技转移，创新和专利权等问题做深入而广泛的阐述。
+我们期待着您能出席！
+顺致问候！
+研讨会时间：2005年9月9日（周五）下午3：00―5：30 
+研讨会地点：经济管理学院舜德楼(新楼)北202
+工作语言:   中英文同声传译   
+会议日程：
+3:00   中心主任李稻葵教授致辞
+3:05   教授讲演
+4:30   提问讨论
+5:00   总结
+ 
+附：
+Mark Schankerman教授 简介
+Mark Schankerman是伦敦政治经济学院(LSE)教授。他在Brandeis University获得经济学学士学位，并在哈佛大学获得经济学博士学位，师从兹维&amp;#8226;格里利克斯。在加入LSE之前，他曾在纽约大学执教。
+Mark Schankerman是伦敦经济学院经济政策研究中心 (CEPR)研究员，主要从事产业组织和转轨经济学方向的研究，并担任《转轨经济学》的编委。他曾在1980-1990年间担任美国剑桥国家经济研究局(NBER)的研究员，1995-2000年间担任过欧洲重建和发展银行(EBRD)的政策研究室主任和顾问委员会的首席经济学家，并在1992-1993年间为世界银行工作。他拥有广泛的在国际研究机构担任顾问的经验，包括世界银行和经济合作与发展组织(OECD)，以及很多私人企业。他是国际著名咨询公司――法律与经济咨询集团的董事之一。
+他的首要研究兴趣是产业经济学，特别是知识产权、创新和生产力方面。

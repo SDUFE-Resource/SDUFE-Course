@@ -1,0 +1,54 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <tian@ccert.edu.cn>; Fri, 26 Aug 2005 16:36:56 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 16:55:19 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 16:55:19 +0800
+Date: Fri, 26 Aug 2005 16:55:19 +0800
+From: zhang@cernet.com
+Subject: =?gb2312?B?ofEg0afJ+rSmysLO8bDsuKi1vNSxo6i5pNf31vrA7aOp1dDGuMb0ysI=?=
+To: tian@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+    因工作需要，学生处学生事务管理办公室（以下简称事务办）拟招聘学生辅导员（工作助理）二名，具体事宜见下。
+【工作内容】
+    学生处事务办辅导员（工作助理）主要是辅助办公室老师，做好本科生的学生经济资助、学生事务管理方面的工作。
+（1）   协助本科生奖助学金的评定工作，组织各类奖助学金颁奖会、座谈会和相关活动；
+        协助本科生助学贷款和困难补助工作。
+（2）   参与组织家庭经济困难学生的勤工助学、公益劳动工作。
+（3）   办公室值班，协助处理学生处日常事务及其他临时性事务。
+【工作要求】
+（1）   要求为在校研究生，有较丰富的社会工作经验。博士生优先。
+（2）   人品端正，热爱清华，热爱学生工作，有奉献精神。
+（3）   负责奖助贷勤补的同学能够熟练使用常用办公软件，能够处理计算机软硬件方
+        面的基本故障。
+（4）   要求有一定的课余时间。在工作日（周一~~周五）至少能有两个半天的时间值
+        班，每周的累积工作时间约为20个小时。今后工作年限能保证两年以上（含）。
+（5）   能够协助起草有关规章制度和报告，文笔流畅，具备一定的政策水平。
+（6）   具有较高的外语听说读写能力者优先。
+（7）   努力掌握学生工作规律，每年至少结合工作完成一篇德育论文或工作总结。
+【工作待遇】
+    如受聘用，相应的管理和待遇参照99年4月15日校务会通过的《清华大学助教博士生制度实施办法》和《清华大学助教博士生制度实施细则》执行。
+【招聘人数和流程】
+（1）   拟招聘辅导员（工作助理）二名。
+（2）   8月29日开始在学生清华、smth BBS的Graduate等版上发布此通告，开始接受
+        同学报名。
+（3）   同学通过Email报名，信箱是：xscswb@mail.tsinghua.edu.cn，截止日期为
+        9月7日（周三）晚上12点。报名材料要求有以下内容：个人简历（姓名，学
+        号，系别，住址，联系办法，历年奖惩情况，学生工作经历）和自我介绍
+       （内容不限，可尽量展现个人的风采，限400字以内）。
+（4）   9月9日（周五）前告知初选结果，9月13日（周二）左右组织初选后的同学面试。
+（5）   学生处通知入选同学来办公室参加试用工作，试用期三周，而后确定是否留用。
+【联系人】
+方能炜、南彬：62782028，62771692
+E-mail：xscswb@mail.tsinghua.edu.cn

@@ -1,0 +1,27 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C1ElfM005929
+	for <tu@ccert.edu.cn>; Tue, 13 Sep 2005 19:57:21 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.144.133)
+  by localhost with SMTP; Tue, 13 Sep 2005 11:43:46 -0000
+From: "ke" <ke@mails.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG+x+u9zKG/09DDu9PQy8279brcv+y1xM34teOjvw==?=
+Date: Tue, 13 Sep 2005 20:15:00 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLKEKCCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+Importance: Normal
+In-Reply-To: <326450489.02480@mails.tsinghua.edu.cn>
+
+刚才试验过了。超市工作人员说的不错，先拨到70度的位置，灯灭了再拨到40度，
+放奶瓶进去，很快就热好了，并且恒温在40度。整个过程大概20分钟。如果先用
+40度，确实不到40灯就灭掉；其实即使已经到了40，把奶瓶放下去，温度也不到
+40了。40度的时候奶可以保存多少时间？1－2小时应该没问题吧？
+     我明白。其实，每一次灯灭，应该是温度传感器所在的地方的温度达到了指定温度，水温并没有达到，奶瓶里的奶更没有达到。要等足够长的时间才可以，而且如果没有温度计，用户无法知道到底什么时候达到了指定温度。
+     如果没有一个明确的指示，还不如用热开水烫来得快且方便。多试几次后用多少热水烫多多长时间就有数了，而且人工试温还保险。

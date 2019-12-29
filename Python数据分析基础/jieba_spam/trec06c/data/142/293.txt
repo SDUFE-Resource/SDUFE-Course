@@ -1,0 +1,25 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBHaMG026280
+	for <jian@ccert.edu.cn>; Fri, 16 Sep 2005 21:56:21 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id A7E89718597; Fri, 16 Sep 2005 22:08:12 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 139F3733E57; Fri, 16 Sep 2005 22:08:11 +0800 (CST)
+Message-ID: <053901c5b91f$8fe966d0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <cao@dlut.edu.cn>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVv7TN6qG2zNOz9r/LwqG1uqG3?=
+Date: Fri, 16 Sep 2005 22:08:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0536_01C5B962.9DFC0500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     我没查过前面的评论，不知道别人怎么评价，但至少我认为没什么创意。就好比现在詹姆斯卡梅隆已经拍了一部铁达尼号，你如果再按类似剧情拍一部铜达尼号，我估计票房也不会好。
+看过the clonus horror的观众不多吧？甚至耳闻过这片子的也不多。《克隆岛》票房凄惨，得找其它原因
+     片子的细节的确很重要，但最重要的还是其主线，撇开主线来谈细节是没有意义的，至少对于票房来说我觉得是这样。当然，我承认这部片子的场面是做的很好的，但看完却有一种故意烧钱的感觉。
+     片子的伦理是稍微少了一点，不过对于商业片来说，这个应该不是重点吧，AI也不能算一部很成功的商业片吧。我印象中它的全美票房还没过亿。

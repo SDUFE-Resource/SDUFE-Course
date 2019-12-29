@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83Navcu007784
+	for <mei@ccert.edu.cn>; Mon, 5 Sep 2005 09:38:03 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83NnJli001115
+	for <mei@ccert.edu.cn>; Mon, 5 Sep 2005 09:50:25 +0800 (CST)
+Message-Id: <200509032349.j83NnJli001115@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 01:37:42 -0000
+From: "fu" <fu@mail.tsinghua.edu.cn>
+To: mei@ccert.edu.cn
+Cc: <bi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsq5q8u+srvK2NDF08OjrLP2tvu3tLb7ztK4w9T1w7Sw7KO/?=
+Date: Mon, 5 Sep 2005 09:50:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B125.2476A9F0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWw4hYhpZKPpUbwSle4S7/Xq9uNDg==
+
+辞职走人..我和我的一个同学都是这样的...
+毕业之前本来说好我试用期工资是1200，试用期过后就是1800的底薪还有提成
+可是现在我已经顺利通过了试用期，前两天经理把我叫到办公室里告诉我我的工资每月只有1500，而且其他的补助之类的什么都没有
+我很痛恨他们，可是要实现在离开，我就已经算是往届生了，还听说往届生是很不好找工作的
+请你们帮我支支招，我该怎样才能保护自己的利益?
+我还没有和公司签协议，应为他们说要试用期过后才签，可试用期过了他们就这样说了
+大家说我该怎么办？刚毕业谁都不容易，那些衣冠禽兽怎么会这么坏呢？
+他们现在肯定就是把住了这种情况，就让我觉得现在的工作是鸡肋，食之无味，但又弃之可惜，我该怎么办呀......
+等待救助的可怜的我......

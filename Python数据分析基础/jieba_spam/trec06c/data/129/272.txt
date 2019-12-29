@@ -1,0 +1,28 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <long@ccert.edu.cn>; Wed, 14 Sep 2005 09:04:58 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Wed, 14 Sep 2005 09:16:57 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <long@ccert.edu.cn>; Wed, 14 Sep 2005 09:16:56 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <zhu@dlut.edu.cn>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVv7TN6qG2zNOz9r/LwqG1uqG3?=
+Date: Wed, 14 Sep 2005 09:16:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+这部电影在北美市场吃亏只能说明今夏观众的口味变了，谁也不能怪。
+虽然这部电影可能立意就在于克隆主题，但我是不会冲着这点去看的，
+很明显Michael Bay先生可能更加玩弄的是他的动作场面，这点在电影
+中表现非常合格，Michael Bay依然是Michael Bay，这次只是出轨一点点。
+     场面可看，不是滥片，呵呵
+     养殖克隆人获取健康器官，这个创意不落俗套，好事者还可以诠释一下伦理，者学内涵；关于未来的场面非常立体，可以说是全景式的，很有动感，真实感。
+     不足之处也很明显，剧情编排弱，传统的英雄美女格式已经落了窠臼，偏偏主角似乎是天才加福星，无师自通得身手敏捷，莫名其妙的死里逃生；反方尽管是战斗老贼，却打一个挂一个

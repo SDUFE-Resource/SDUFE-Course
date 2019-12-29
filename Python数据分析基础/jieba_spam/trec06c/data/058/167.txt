@@ -1,0 +1,25 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q8frpZ012129
+	for <yi@ccert.edu.cn>; Tue, 30 Aug 2005 12:05:06 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <430ED8CA.0000D0.32715@m115.126.com>
+Date: Tue, 30 Aug 2005 12:17:19 +0800 (CST)
+From: "yu" <yu@126.com>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzz7rNxrz20rvPwqO6v7zX1Lavu6+1xNDFusXT68+1zbO/vNHQss6/vMrp?=
+X-Priority: 3
+X-Originating-IP: [222.82.97.251]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_nydxdIXIQAMDkzacqLhDtoxLoZym"
+
+就考试而言，最后是看成绩了
+但是专业课有选考的，你就选择你最拿手的就是了
+信号和自控，这些年都是信号难，自控相对的简单一点，虽说自动化所说的是最后的成绩有调整，但是怎么操作的也不知道
+但是有个事实那就是考信号的平均成绩要比自控的低，ms还不是说个位数的差距
+以前别人也是这么给我说的，我不信，实践过后服了
+不过什么事情也不是绝对的，建议你看看以前的试卷比较一下再做决定
+这里有你要的试卷
+http://www.hfcas.ac.cn/graduate/shitixiazai.htm
+对了，这个网页上下的是出题老师自己做的答案，但是有错误
+我说的是信号
+     能不能说具体点，比如考两们课的优劣，谢谢。

@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <wang@ccert.edu.cn>; Sat, 3 Sep 2005 00:14:56 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <wang@ccert.edu.cn>; Sat, 3 Sep 2005 00:27:32 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 16:16:07 -0000
+From: "you" <you@mail.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Cc: <he@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbBsqnSu8C0tdrSu7TO1ebV/dDEt7M=?=
+Date: Sat, 3 Sep 2005 00:27:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+gingging jj居然在这里看到你的文章，真是吓了一大跳
+     硕博连读，今天开学就博2了，虽然本科硕士成绩优秀，但愈发现学习和科研风牛马不相及！！！！不喜欢编程，我想主要是我保研后就只顾着玩了，落的太多，该学的super 多，感觉没有补救了：（  熟悉的同学们马上明年就毕业了，不知自己到时能不能挺下来，我编程能力很差！

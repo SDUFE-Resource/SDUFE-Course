@@ -1,0 +1,52 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4Zstp027650
+	for <gan@ccert.edu.cn>; Sat, 10 Sep 2005 14:23:24 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4XGsQ090589
+	for <gan@ccert.edu.cn>; Sat, 10 Sep 2005 14:20:58 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (bj44-206.i.netease.com [202.108.44.206])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A4XDLS090585
+	for <gan@ccert.edu.cn>; Sat, 10 Sep 2005 14:20:43 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+Message-Id: <200509100433.j8A4XDLS090585@gradinfo.net.edu.cn>
+Received: from free-qhkbi6e7yv (unknown [59.66.201.85])
+	by smtp3 (Coremail) with SMTP id PAAxj1tlIkNF9_0C.1
+	for <gan@ccert.edu.cn>; Sat, 10 Sep 2005 14:35:00 +0800 (CST)
+X-Originating-IP: [59.66.201.85]
+Date: Sat, 10 Sep 2005 14:36:49 +0800
+From: "jiang" <jiang@163.com>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILKpvfCjusv5zr2hsLX31fuhscq1vMrJz77Nysew/rbhwcujoaOh?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8A4XDLS090585
+Precedence: list
+Reply-To: jiang@163.com
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+关键是学校这个搞法
+算什么东西？
+     标  题: Re: 博金：所谓“调整”实际上就是剥夺了！！
+     
+     不就1年2k么...
+     干点儿啥不都有了
+     : 学校太无耻了，不给就不给吧，还要用这种办法”调整“
+     : 所谓调整，就是变相剥夺这部分钱，为什么这么说？
+     : 原来博金直接有学校给，导师还另外给一部分钱
+     
+     --
+           我是                               这是                 

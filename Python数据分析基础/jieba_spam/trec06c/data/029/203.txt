@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <ye@ccert.edu.cn>; Tue, 23 Aug 2005 10:18:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <ye@ccert.edu.cn>; Tue, 23 Aug 2005 10:31:47 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 02:26:24 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "hou" <hou@mail.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Cc: "tunet" <mei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILfWyta687j4o+2j7dC0tcTQxaOoo+2j7bvhuf3AtL+0o6k=?=
+Date: Tue, 23 Aug 2005 10:28:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+想好了，知道再努力是否值得，再行动即可。一般地讲，分手后别尝试着去挽回了。
+     　写在分手后：
+     　　想想还是给你写封信比较合适。最后再和你聊聊心理话......

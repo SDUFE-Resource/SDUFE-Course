@@ -1,0 +1,26 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 11:19:59 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 10:42:17 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "tian" <tian@cert.org.cn>
+To: yang@ccert.edu.cn
+CC: "chi@ccert.edu.cn" <sun@ccert.edu.cn>,
+   "jian@ccert.edu.cn" <yu@ccert.edu.cn>,
+   "liao@ccert.edu.cn" <lv@ccert.edu.cn>, "zhao@ccert.edu.cn" <bi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 11:27:44 +0800
+
+re
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。
+     首先，我们学习是为了什么？我觉得即使是我们学理工科的人，也不是为了成为所谓的爱因斯坦和牛顿。我这里用了所谓的爱因斯坦和牛顿，因为我们从小受到的教育就对爱因斯坦和牛顿扭曲了，我们那个时候不知道什么叫做科学只知道爱因斯坦和牛顿是非常非常牛的人。其实真正了
+     我是搞材料的，对于量子力学，凝聚态物理，统计物理之类的东西还比较熟。我就我所懂的东西谈谈我的看法。如果你深入的去研究这些东西，你就会发现任何一门科学大厦绝对不会建立在某一两个人的基础之上的。我们可以去看看曾谨言的《量子力学》，里面有爱因斯坦和波尔的一
+     那么我们要成为什么样的人？爱因斯坦，牛顿还是无名小卒？就我的感觉，要想在科研上取得成功需要的因素有智商，勤奋，基本功，和运气。很难给出一个公式精确的说明各个因素占多大的成分，但是我们必须要清楚爱因斯坦和牛顿是可遇而不可求的，不是说你想成为就可以成为的
+     我不是说王同学想成为爱因斯坦，牛顿是错误的。我只是想说，在成为爱因斯坦，牛顿之前，你必须接受默默无闻的现实，即使你在网上发了很引起争议的文章，导致大家都认识你了，你在学术上和爱因斯坦，牛顿依然相去甚远。
+     我本科和研究生都是在清华念的，我觉得我在清华最大的收获就是学会了“夹着尾巴做人”。这是导师亲口和我说的，我觉得对我这一辈子都是受益无穷的。我在读研究生的时候也取得过一些小小的成绩，当然和王同学比起来差的还是比较远的，不过是一些专利和一些SCI罢了。当时

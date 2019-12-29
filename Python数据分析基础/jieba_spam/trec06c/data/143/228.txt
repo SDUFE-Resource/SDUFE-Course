@@ -1,0 +1,27 @@
+Received: from ig3.lenovo.com (lenovo.com [219.142.122.37])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G8Werd013430
+	for <xiao@ccert.edu.cn>; Sat, 17 Sep 2005 01:15:46 +0800 (CST)
+Received: from [10.99.20.45] by 10.99.20.36 with StormMail ESMTP id 11324.1580586014;
+	Sat, 17 Sep 2005 01:17:56 +0800 (CST)
+Subject: =?gb2312?B?ofEgsai/vMDgsfDA78PmysfExLj2o78=?=
+To: xiao@ccert.edu.cn
+Cc: long@ccert.edu.cn
+X-Mailer: Lotus Notes Release 5.0.2a (Intl) 23 November 1999
+Message-ID: <OF8C5302A7.D09F2F39-ON4825707E.002D0A71@legend.com.cn>
+From: tang@lenovo.com
+Date: Sat, 17 Sep 2005 01:27:01 +0800
+ 16:44:22
+MIME-Version: 1.0
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+
+普通的要选哪一个？
+研究生培养类别分国家计划内非定向研究生、国家计划内定向培养研究生、委托培养和自筹经费研究生四种。
+　　① 非定向研究生 
+　　　　非定向研究生在录取时不确定未来的工作单位。在校期间享受国家规定的奖学金和其它生活待遇。毕业时应服从国家就业指导，在国家规定的服务范围内进行安排或实行双向选择。
+　　② 定向培养研究生 
+　　　　定向培养研究生培养费用由国家提供。在录取时就确定将来的就业单位，并由考生与招生单位和定向单位分别签订定向培养合同书，毕业后到合同规定的单位工作 
+　　③ 委托培养研究生
+　　　　 委托培养研究生的培养费用由委托单位提供，毕业后到委托单位工作。其它均与定向培养研究生相同。
+　　④ 自筹经费研究生
+　　　　 自筹经费研究生是招生单位根据社会需求，在培养条件、指导力量具备的前提下，用导师的科研经费、学校创收的经费或社会集资的自有经费培养的研究生。自筹经费生国家不负责分配。

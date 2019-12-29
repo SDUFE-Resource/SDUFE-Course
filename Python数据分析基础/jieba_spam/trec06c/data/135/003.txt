@@ -1,0 +1,27 @@
+Received: from mailgate1.neusoft.com ([210.83.210.153])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F2h5xA032120
+	for <cen@ccert.edu.cn>; Thu, 15 Sep 2005 09:59:22 +0800 (CST)
+Received: from smtp3.neusoft.com (mail.neusoft.com [210.83.210.139])
+	by mailgate1.neusoft.com (8.12.11/8.12.11) with ESMTP id j8F2pa4i001038
+	for <cen@ccert.edu.cn>; Thu, 15 Sep 2005 10:07:49 +0800
+Received: from win2003 ([192.168.74.50])
+ by smtp3.neusoft.com (iPlanet Messaging Server 5.2 Patch 1 (built Aug 19
+ 2002)) with ESMTPA id <0IMU0027B80HRF@smtp3.neusoft.com> for
+ weike@ccert.edu.cn; Thu, 15 Sep 2005 10:09:18 +0800 (CST)
+Date: Thu, 15 Sep 2005 10:10:26 +0800
+From: SQL <shen@neusoft.com>
+Subject: =?gb2312?B?ofEg9qa458unvePH6734o6GjoaOho6GjoaOho6GjoaOho6GjoaOho6GjoaOho6GjoaOho6E=?=
+To: cen@ccert.edu.cn
+Message-id: <001e01c5b9a0$c21b92a0$324aa8c0@win2003>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+X-MailScanner: Not scanned: please contact your Internet E-Mail Service Provider for details
+
+我有一小师妹今年复习考研！目前她遇到的最紧迫问题是“英语作文”和“政治”这两项内容！她根本就没复习思路，越急越没思路，越没效果！
+  她（她在外地读书）要我在这里多征求一下高人的高见！麻烦大家伙不吝赐教！在此俺替她多谢谢大家了！
+  请大家伙谈谈自己的复习经验，或者给些建议，看法等等！要不推荐些好书，好的学习网站，好的资料也可！再次谢谢大家了！
+  烦请大家伙多帮帮忙啊！这可是政治任务！她要是复习不好，考不到北京来！俺会好伤心的！她报的是北大，希望明年能在北大请大家伙吃饭以表谢意！

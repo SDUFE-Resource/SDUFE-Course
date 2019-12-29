@@ -1,0 +1,24 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <lian@ccert.edu.cn>; Tue, 16 Aug 2005 01:08:35 +0800 (CST)
+Received: (qmail 5448 invoked from network); Mon, 15 Aug 2005 17:19:22 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Mon, 15 Aug 2005 17:19:22 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "liu" <liu@jdl.ac.cn>
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXQxrhKQVZBuaSzzMqmus3N+MLnyO28/rmks8zKpg==?=
+Date: Tue, 16 Aug 2005 01:23:21 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+俺曾经跟这家公司的上海分公司的人有一些接触，提醒一下大家，
+他们普通员工的公积金保险之类是按1600基数还是多少交的，出差补助一天是41元，
+俺还有个同事，跳槽到他们那里，做了个什么经理，薪水是税前6k
+        北京直真节点技术开发有限公司成立于1999年10月15日，是一家总部位于北京中关村科技园区的高新技术软件企业。公司自成立以来专注于从事电信领域的高技术产品开发、系统集成及相关的服务。公司发展迅速，公司2001年5和2002年7月分别在上海、广州成立子公司和分公司，

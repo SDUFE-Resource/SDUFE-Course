@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <ning@ccert.edu.cn>; Wed, 14 Sep 2005 04:08:37 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <ning@ccert.edu.cn>; Wed, 14 Sep 2005 04:20:35 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 20:03:23 -0000
+From: "su" <su@mail.tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Cc: <tian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/XuPjL+dPQwLTX1MWptOW1xLjnuOc=?=
+Date: Wed, 14 Sep 2005 04:20:30 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+bless
+     城市姑娘和农村小伙儿就构成了那么强烈的对比吗？
+     人和人之间总是会有差异的，两个人相处久了不和谐的地方自然就冒出来了。把矛盾都扣在“农村出身“这一条上恐怕也不大公平。偶冒出来说上两句，只是想摆个反例，也借此对所有“农村哥哥们”说：“请不要为农村出身、父母没有太多文化、兜里没有几个money而感到不安！请

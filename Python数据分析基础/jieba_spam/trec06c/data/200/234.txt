@@ -1,0 +1,38 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <yun@ccert.edu.cn>; Wed, 28 Sep 2005 23:05:04 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 15:16:15 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 23:16:14 CST
+Date: Wed, 28 Sep 2005 23:16:14 +0800 (CST)
+From: liang ming <che@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgztK1xMWutvkoMzAp?=
+To: yun@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+     2005年7月1日,一个对我有极其重要意义的日子.
+     这一天,是党的生日.
+     但是更重要的是,这一天......
+     嘉卉会叫妈妈啦!
+     下班回到家,如常地跟嘉卉玩,嘉卉手里捏着一个小兔子,小嘴嘟嘟囔囔地,不
+知道在自言自语些什么.我也象往常一样,得空就教她:嘉卉,叫妈妈,妈---妈!
+     嘉卉头也不抬,嘴里"姆姆"地念.念了一阵子,那声音听起来渐渐步上正轨,"姆
+-姆-嫫-嫫-妈-"
+ 
+     嘉卉的爸爸也凑过来,耐心地教她:妈--妈---
+     再练多一阵子,嘉卉发出一声非常标准的"妈妈......"
+     啊呀呀!我心里那个甜啊!嘉卉叫妈妈的声音很甜美呢!
+     
+     看样子,嘉卉自己也很喜欢这个新词的发音,一晚上妈妈妈妈地叫个不停.我的
+心啊,是温暖的湖水,幸福啊!
+     快要睡觉了,我还激动地看着嘉卉,嘉卉呢,又开始尝试新的词语,小嘴抿在一起,
+调皮地往外吹气:卜卜卜...
+     然后又惦记着练习叫妈妈,于是连在一起就成了"妈...卜..."
+     怎么听着象"抹布"呢?

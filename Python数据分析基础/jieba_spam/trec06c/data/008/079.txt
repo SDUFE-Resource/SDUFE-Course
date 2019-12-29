@@ -1,0 +1,98 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EEiS1q009384
+	for <lai@ccert.edu.cn>; Thu, 18 Aug 2005 16:47:10 +0800 (CST)
+Message-ID: <200508142244.j7EEiS1q009384@spam-gw.ccert.edu.cn>
+Received: from pisclubjhb (unknown [219.238.168.2])
+	by smtp4 (Coremail) with SMTP id RkBfofVb_0IPEu83.1
+	for <lai@ccert.edu.cn>; Thu, 18 Aug 2005 17:00:39 +0800 (CST)
+X-Originating-IP: [219.238.168.2]
+From: "guan" <guan@126.com>
+To: lai@ccert.edu.cn
+Cc: <kang@ccert.edu.cn>,
+	<che@ccert.edu.cn>,
+	<he@ccert.edu.cn>,
+	<jiang@ccert.edu.cn>,
+	<shi@ccert.edu.cn>,
+	<shi@ccert.edu.cn>,
+	<yu@ccert.edu.cn>,
+	<zhong@ccert.edu.cn>,
+	<wang@ccert.edu.cn>,
+	<lei@ccert.edu.cn>,
+	<bi@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsbG+qdbHyKS/xry81dDGuMe2yOvKvc+1zbO/qreiyMvUsQ==?=
+Date: Thu, 18 Aug 2005 17:01:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5A123.AB2C1F50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWg2iclErE9vEwpQUuF46XqYTUSdgABkatA
+In-Reply-To: <42FF5137.0076B3.03512>
+
+2003 年 4 月，北京智趣科技有限公司在国家中关村科技园区成立，同时被批准为高新技术企业并在同年入驻清华创业园。公司致力于发展嵌入式网络应用系统和解决方案，是国内最具研发实力的嵌入式产品及服务供应商之一。
+智趣科技掌握了从嵌入式操作系统底层协议、驱动程序、到应用软件和硬件设计的部分核心技术，拥有完全的自主知识产权。主要产品包括网络计算机、NC系统软件、嵌入式浏览器、VOD视频点播软件、NC桌面管理软件，并针对厂家提供嵌入式产品整体设计方案和技术服务。 
+智趣科技已与国内外知名机构和企业展开了广泛的技术合作，开发了基于中国芯(方舟2号CPU)的网络计算机，努力为NC产品国产化和产业化作出贡献。 
+智趣科技拥有一支管理经验丰富的团队和一批从事操作系统级开发的高级技术人才，其中多名团队核心人员来自于Motorola、Intel、NEC等知名计算机企业，大部分员工具有名牌院校硕士学历。
+公司坚持"质量、速度、创新、服务"的经营理念，在众多新兴高新技术企业中脱颖而出，目前已通过高新技术企业和软件企业认定并拥有多项产品著作权证书。公司凭借自身的实力和技术优势，与业内众多公司（富士施乐、长城、方舟科技等）建立了长期稳定的合作关系，公司在快速发展中能保持稳健，诚信的作风得到同行的首肯。
+ 
+ 
+联系方式：
+E-mail：Hr@injoytech.com
+ 
+网址：http://www.injoytech.com 
+ 
+招聘职位
+ 
+Linux驱动开发工程师 1人 （编号：SE072） 
+ 
+工作性质：全职 截止日期：2005-9-7 
+招聘人数：1人 月薪范围：面议 
+工作经验：2年 学历：本科以上 
+工作地点：北京    
+ 
+职位描述及要求
+职位要求
+1．计算机相关专业毕业
+2．两年以上在linux上进行系统开发的经验
+3．两年以上在实际项目使用C/C++进行程序开发的经验
+4．精通Linux驱动程序设计与开发，有类似的项目经验
+5．良好的沟通和表达能力
+ 
+ 
+嵌入式Linux应用开发 2人  
+ 
+工作性质：全职 截止日期：2005-9-14 
+招聘人数：2人 月薪范围：面议 
+工作经验：2年 学历：本科以上 
+工作地点：北京    
+ 
+职位描述及要求
+计算机相关专业本科
+熟悉Linux应用开发
+熟悉GCC等交叉编译工具
+有实际项目开发经验
+良好的团队精神和沟通能力 
+ 
+ 
+DSP开发工程师 2人  
+ 
+工作性质：全职 截止日期：2005-10-14 
+招聘人数：2人 月薪范围：面议 
+工作经验：2年 学历：本科以上 
+工作地点：北京    
+ 
+职位描述及要求
+计算机，电子相关专业本科
+C和汇编编程经验，熟悉DSP编程和底层硬件
+有实际音视频项目开发与调试经验
+ 
+ 
+有意者请发送简历到HR@injoytech.com并注明职位名和本论坛，谢谢
+www.injoytech.com
+ 
+人力资源部
+智 趣 科 技
+Beijing Injoy Technology Ltd.
+北京市海淀区 静淑苑路2号   清华创业园 创业广场301#
+Tel:         8237.6990  Fax:        8237.6022
+Email:    HR@injoytech.com

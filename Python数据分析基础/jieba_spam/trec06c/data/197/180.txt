@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R9oOdP018957
+	for <ren@ccert.edu.cn>; Wed, 28 Sep 2005 11:03:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8RA1dYd023981
+	for <ren@ccert.edu.cn>; Wed, 28 Sep 2005 11:14:25 +0800 (CST)
+Received: (eyou send program); Wed, 28 Sep 2005 10:49:22 +0800
+Message-ID: <327813796.02359@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Wed, 28 Sep 2005 10:49:22 +0800
+From: shi@mail.tsinghua.edu.cn
+To: ren@ccert.edu.cn
+Date: Wed, 28 Sep 2005 10:49:22 +0800
+Reply-To: shi@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM6qyrLDtE1JVLrNy67EvrbUtP3N9dvztcTMrLbIsrvNrKO/?=
+Content-Type: text/plain
+
+呵呵，我觉得cs的research安心在国内好好做
+不会比美国差
+像王小弟做的大方向(dac)
+真正牛的是公司研究所
+甚至对于整个eecs真正牛的也就是大公司的研究所
+那里做的东西很实在
+大方向上说，以后这些公司都会想办法利用中国的脑力资源
+，不管有没有技术控制这是一个趋势，
+竞争压力很大阿，呵呵
+     欧就不信，如果中国的大学跟真正的大学只是外在不同，那么多优秀的人还要出来。
+     闹半天，是你整天喝免费咖啡啊？看来你对外在不同也是颇在意的喽，念叨个不停

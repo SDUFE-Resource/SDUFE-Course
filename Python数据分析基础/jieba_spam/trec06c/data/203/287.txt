@@ -1,0 +1,33 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <gong@ccert.edu.cn>; Thu, 29 Sep 2005 12:14:26 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 04:25:37 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 12:25:36 CST
+Date: Thu, 29 Sep 2005 12:25:36 +0800 (CST)
+From: liang ming <gu@yahoo.com.cn>
+Subject: =?gb2312?B?ofEg1dDGuLzm1rDN+NW+v6q3osjL1LE=?=
+To: gong@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+工作性质：兼职
+招聘目标：研一、研二学生
+职位描述：
+  主要负责开发WAP网站相关业务
+具体要求：
+  -有网站开发经验，熟悉大型数据库与网站开发工具软件
+  -熟悉linux系统
+  -熟悉J2EE架构、JAVA/SERVLET/JSP编程
+  -至少熟悉RESIN、WEBLOGIC、TOMCAT中的一种应用服务器的开发部署
+薪资待遇：面议
+特殊要求：一周至少有四天能来公司(包括六日)
+招聘公司：北京邦邦网络科技有限公司
+我公司主要在移动互联网领域进行产品研发和运营，旗下wap.81088.com是目前国内领先的免费WAP业务门户，手机IM客户端产品邦邦通在专业评测中全面领先。
+兼职人员在毕业后可以择优录用。公司气氛和谐向上，欢迎加入我们的邦邦大家庭！

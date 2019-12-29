@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <pu@ccert.edu.cn>; Thu, 29 Sep 2005 20:53:09 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Thu, 29 Sep 2005 12:38:43 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Cc: "Duan Haixin" <chi@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1qW807jntPPRp8nM0afUurGxvqnQ+72yu+E=?=
+Date: Thu, 29 Sep 2005 21:04:00 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+Learn more about Chicago GSB ... 
+Join us for our Beijing Admissions Reception:
+&gt; meet local alumni and hear about their Chicago MBA experience
+&gt; tips on applying to Chicago GSB 
+&gt; chat with our Admissions Team 
+When: Monday 10 October 19:00 

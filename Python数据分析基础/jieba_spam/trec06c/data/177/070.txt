@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <zhou@ccert.edu.cn>; Sat, 24 Sep 2005 08:28:04 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 08:17:04 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 24 Sep 2005 08:17:03 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 24 Sep 2005 08:17:03 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 00:17:03 -0000
+From: "ma" <ma@mail.tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO80rbUs/XBtcfpyMu7ubvhsru74dLAwbWjvw==?=
+Date: Sat, 24 Sep 2005 08:39:25 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+最近看了《叠影危情》，苏玉华在里面的角色造型太像我的初恋情人了，虽然苏玉华胖一些老一些，但眼神和发型及脸型都很像。这让我非常想念起她，虽然有7年没见过她了，虽然当时连她的手都没牵过，只是互相喜欢着对方。
+我又觉得很自责，因为我已经结婚了，老婆很好。但怎么也忘不了那种初恋的感觉，这个第一次真的很刻骨铭心。
+我是不是做得很不好呀？但我控制不了自己的心。不过我肯定不会再去联系她的。

@@ -1,0 +1,23 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <yuan@ccert.edu.cn>; Thu, 29 Sep 2005 10:07:20 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 02:18:31 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 10:18:30 CST
+Date: Thu, 29 Sep 2005 10:18:30 +0800 (CST)
+From: liang ming <ren@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMz4v6rN9dvztcS49sjL0NDOqqOstNO087jftsjJz7e0y7y/xtHQxsC828zl1sY=?=
+To: yuan@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+你指出了问题，但没有给出任何解决问题的方法。
+     王垠的公开信毫无疑问体现了很多不成熟和幼稚的地方，已经遭到了广泛和严厉的批评。但他所揭示或试图揭示的问题也同样毫无疑问是很有价值的，那就是，我们当前的科研体制尤其是科研激励体制是不是存在着严重的弊端，以paper-drive为特征的现行科研评价是不是符合科研事业自身的特征和本体目标。这个问题显然具有很大的现实性和紧迫性，不然也不会受到如此众多的共鸣。
+     由于王垠公开信里那些个人的具体细节吸引了很多目光，以至他所想冲击的这个大问题都被多数人忽视了。批评王垠无视学校和导师教育之恩和指出王垠过于理想化、世界上没有他所幻想的理想境界的人都没有错，但多日讨论后，到了今天很多细节已经很清楚的这个地步，还纠缠在这些个人具体行为，显然有些不合适了。
+     虽然也许从王垠这么个“小人物”、这么个已经被标注上“眼高手低”的不合适的人物来导出反思科研体制这么个大问题，有些人会很不屑，如果诺贝尔得主级别的出来大声疾呼还差不多。但平心静气想想，在难得吸引了大量眼球的时候，不正是推动一下关于科研评价体制大讨论的好机会么。

@@ -1,0 +1,23 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <tan@ccert.edu.cn>; Wed, 28 Sep 2005 00:54:07 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 17:05:18 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 01:05:17 CST
+Date: Wed, 28 Sep 2005 01:05:17 +0800 (CST)
+From: liang ming <jian@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM312/OjrMTjtb21183L0afBy8O709CwoaO/?=
+To: tan@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+家家有本难念的经。外人看来，王同学的导师那么好，该很幸福了，但他必定有他自己的苦楚。偶也认识国外退学的，导师是控制领域世界级的大师，人又好，也有钱，但他还是退学了。  有些事情只有当事人清楚。我觉得还是多些宽容，少些苛责。
+     松鼠，我也写blog的。  很多人都写blog诉说自己迷惘的。 写blog的不都是芙蓉。
+     他们都是我们的ddmm，我们不要这么狠心吃人吧。
+     退学不是什么happy幸运的事情。 

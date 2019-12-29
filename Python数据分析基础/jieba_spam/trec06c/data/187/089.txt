@@ -1,0 +1,34 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <peng@ccert.edu.cn>; Mon, 26 Sep 2005 11:07:30 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 03:18:24 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 03:18:24 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <peng@ccert.edu.cn>; Sun, 25 Sep 2005 20:29:31 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <peng@ccert.edu.cn>; Sun, 25 Sep 2005 22:25:57 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Mon, 26 Sep 2005 11:18:12 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <kang@motorola.com>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Date: Mon, 26 Sep 2005 11:17:47 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+说得真好。
+其实原本就是这样的
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。
+     首先，我们学习是为了什么？我觉得即使是我们学理工科的人，也不是为了成为所谓的爱因斯坦和牛顿。我这里用了所谓的爱因斯坦和牛顿，因为我们从小受到的教育就对爱因斯坦和牛顿扭曲了，我们那个时候不知道什么叫做科学只知道爱因斯坦和牛顿是非常非常牛的人。其实真正了
+     我是搞材料的，对于量子力学，凝聚态物理，统计物理之类的东西还比较熟。我就我所懂的东西谈谈我的看法。如果你深入的去研究这些东西，你就会发现任何一门科学大厦绝对不会建立在某一两个人的基础之上的。我们可以去看看曾谨言的《量子力学》，里面有爱因斯坦和波尔的一

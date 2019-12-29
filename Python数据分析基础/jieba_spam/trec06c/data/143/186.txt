@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <cheng@ccert.edu.cn>; Sat, 17 Sep 2005 00:45:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <cheng@ccert.edu.cn>; Sat, 17 Sep 2005 00:56:58 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 16:37:40 -0000
+From: "xin" <xin@mail.tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Cc: <mei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMnL0MS1xM7K0ru+5LDJo7q087zSt9bK1rXE1K3S8srHyrLDtLXE?=
+Date: Sat, 17 Sep 2005 00:56:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+MM坚持一下吧，爱情本身是会让人心累的，这是成长的必然，一定要调整自己的心态渡过去。我以前也曾经因为这个原因放弃过，现在才知道，恋爱的大概模式就是这样，只有调整自己，没有别的办不法，只有让自己成熟面对，不是换一个人就能解决的。
+     我有时真希望他放弃我…… 
+     我不值得，他该拥有更美好的爱情。他英雄好汉，我不过尘埃。比不了
+     难道爱比恨，更难宽恕

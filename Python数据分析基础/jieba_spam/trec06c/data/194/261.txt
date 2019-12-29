@@ -1,0 +1,23 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <xing@ccert.edu.cn>; Tue, 27 Sep 2005 23:40:27 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 15:51:38 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 23:51:37 CST
+Date: Tue, 27 Sep 2005 23:51:37 +0800 (CST)
+From: liang ming <ye@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM7Sw8fKtdHpytK1xMqm0NbKprXcyqa948qmw8PV5s3FveHRvaGj?=
+To: xing@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+呕吐
+     看了这么多大家的讨论，作为洪老师的学生，我的感受是：
+     1 实验室的同学们好团结呀。不论是在国外的，还是国内的，大家都对我们实验室充满了感激。我也好希望，日后，大家能对实验室有所回报，对实验室日后的建设有所贡献。
+     2 我的导师，洪老师，是一个真正的长者。每当我回忆起实验室的生活，洪老师对我人生和学识上的教导都让我无比感动。还记得写博士论文的致谢的部分，我眼含热泪修改了很多遍，再华丽的词语都无以表达我对导师的感激。

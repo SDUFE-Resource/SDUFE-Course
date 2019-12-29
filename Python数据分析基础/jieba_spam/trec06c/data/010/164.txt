@@ -1,0 +1,29 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <ning@ccert.edu.cn>; Fri, 19 Aug 2005 06:05:36 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <ning@ccert.edu.cn>; Fri, 19 Aug 2005 06:38:56 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 06:19:55 +0800
+From: "tian" <tian@mail.nisac.gov.cn>
+Reply-To: tian@mail.nisac.gov.cn
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7KuPZhc3Nlc3NtZW50IGNlbnRyZbXEzsrM4g==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+先都看一遍，找些你觉得重要的记住。
+然后就开始编吧，注意把各方面的都考虑到，
+然后一定要找到1，2个最重要的和不重要的。
+问题是，一定要有理由，别管对错，一定要说理由。
+别太在意你到底是对是错，实际上就在看你的思路。
+错了也没关系，有的还没有所谓的对错。
+     比较惧怕一种面试，
+     给一堆english paper，其中还包括一些fax和email等，要求在很短的时间内迅速看完文章并且解答文章最后提出的问题。
+     比如：制定一周生产计划表，提出一个建厂方案等。

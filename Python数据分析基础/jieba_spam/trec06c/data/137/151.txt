@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <wang@ccert.edu.cn>; Thu, 15 Sep 2005 21:28:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <wang@ccert.edu.cn>; Thu, 15 Sep 2005 21:40:03 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 13:21:33 -0000
+From: "wei" <wei@mail.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Cc: <zhang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQw7vT0LfFxvqxo9HQo6zX1Ly6v7y1xKO/?=
+Date: Thu, 15 Sep 2005 21:39:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+个人建议你既然有这样的想法，还是选择考。我当时（现在已从清华毕业了）在准备考研之前就知道可以保送（我当时是班上第一名，西安交大的），个人觉得考清华不仅仅是一种追求，也是对自己多方面的一种锻炼。我觉得很多时候做事情不要留遗憾，不要因为有风险就犹豫，自己认定的事就努力去做。
+     兄弟所在的大学也算是重点大学，但肯定没清华重点
+     今年不幸获得个保研名额，很郁闷
+     保研的话可能就在本校或同等水平的学校了

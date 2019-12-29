@@ -1,0 +1,30 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M9u4Oh007208
+	for <lai@ccert.edu.cn>; Fri, 23 Sep 2005 01:26:20 +0800 (CST)
+Received: from USER-8A61F7734D (tu203210.ip.tsinghua.edu.cn [166.111.203.210])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8MA7Wo22604;
+	Fri, 23 Sep 2005 01:37:48 +0800 (CST)
+Message-Id: <200509221007.j8MA7Wo22604@netarchlab.tsinghua.edu.cn>
+Date: Fri, 23 Sep 2005 01:35:06 +0800
+From: "wu" <wu@netarchlab.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjIyyNW5pNf3vMfCvA==?=
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+报失：
+王丹   62777424/13810636023   钱包979     黑色，皮质，内有北航饭卡，银行卡，现金若干
+阎亚茹 51531025               钱包980     黑色牛仔，印有流氓兔 
+姜康   13581803135            钱包981     李宁，深蓝色，内有身份证，学生证，饭卡，银行卡，现金200多元，电                                          话卡等
+胡强   13810348285            钱包982     黑色，IC卡,身份证,两张银行卡,餐卡,100多元现金
+许赫男 13811621501            钱包983     深蓝色,皮质,身份证,银行卡,学生卡,现金70元左右
+阎彬   13810849554            钥匙779     钥匙一串,4-5把
+巫顺超 13810903810            钥匙780     门钥匙,车钥匙,小钥匙,指甲刀,小剪刀,耳挖,洗衣卡
+送交:
+苏晨    文具248: 笔记本
+陈龙    电器141:手机
+领取:
+冯乐耕   电器141:手机

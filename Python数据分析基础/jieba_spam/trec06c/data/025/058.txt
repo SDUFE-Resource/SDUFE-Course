@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <chi@ccert.edu.cn>; Mon, 22 Aug 2005 07:40:13 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <chi@ccert.edu.cn>; Mon, 22 Aug 2005 07:53:27 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 07:22:08 +0800
+Date: Mon, 22 Aug 2005 07:53:18 +0800
+From: "zhou" <zhou@wnt.com.cn>
+To: chi@ccert.edu.cn
+Cc: "lic" <xie@ccert.edu.cn>, "sunt" <yana@ccert.edu.cn>, "caoy" <ni@ccert.edu.cn>,
+        "wangb" <wu@ccert.edu.cn>, "songhm" <lin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09rG372jo6y087zSu/LQ7dOmuMPU2cTN0MTSu7Xj?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+最后一句话太做作
+     关于七剑，大家或许应该再耐心一点
+     徐克在我心目中的印象很奇怪，对他本人很模糊，清晰的是他每一部影片中感受到的不同的意境。从笑傲江湖新龙门客栈倩女幽魂黄飞鸿青蛇蜀山传一直到刀，从每一部影片中都能看出他在尝试突破，据说他是中国导演中美术修养最高的一位，然而刀的画面构图却已经颠覆了美术的基
+     七剑是我今年最期待的电影。提前三天在华星订了票，全场最佳的位置。两个多小时后出来，跟很多人一样，我很失望。

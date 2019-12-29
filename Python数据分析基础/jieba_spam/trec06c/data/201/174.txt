@@ -1,0 +1,35 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RB80BW019815
+	for <guo@ccert.edu.cn>; Thu, 29 Sep 2005 02:32:38 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 02:18:49 +0800
+Message-ID: <327818451.29271@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 29 Sep 2005 02:18:49 +0800
+Message-ID: <327818451.29255@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 02:18:49 +0800
+From: yan@mail.tsinghua.edu.cn
+To: guo@ccert.edu.cn
+Cc: yuan@ccert.edu.cn
+Date: Thu, 29 Sep 2005 02:18:49 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgx+vOysr90afSu7i0z7C1xLXa0ruhorb+wtbE3LrPsqLC8KO/?=
+Content-Type: text/plain
+
+网上抄来的数学一四轮复习必看书：
+第一轮：课本（同济大学主编），大纲。
+第二轮：陈文灯或李永乐的（很厚的）
+第三轮：真题
+第四轮：李永乐的模拟题
+我想第一二轮和很多人的复习方案都吻合吧？
+但我就自己情况看来，把第一二轮复习合起来更好
+因为我之前看的高数第一章的内容现在再翻来看发现已经忘了不少
+就算第一遍看得怎么仔细，倒头再来看时已经忘得七七八八了，
+那第一遍复习不几乎等于废了？
+而且第二遍复习也是分章节的（至少我看陈文灯的书是这样）
+所以我想能不能这样做：把第一遍和第二遍结合起来
+看了课本某章节后马上做足够的习题，并进行第二轮后才进行的习题分析、总结
+直到做该章节的习题已经没什么困难后，再看下一个章节
+以上是我的个人想法
+但我看见别的同学几乎都是先把课本全看一遍的
+我想既然有这种传统的复习方法，会不会其中有什么奥妙？
+所以我想先问问站上的各位的意见，实在不敢拿自己做实验品
+哪位有经验、看法的，望请不吝赐教。

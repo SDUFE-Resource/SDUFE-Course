@@ -1,0 +1,41 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <cao@ccert.edu.cn>; Fri, 19 Aug 2005 09:21:38 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Fri, 19 Aug 2005 09:38:04 +0800 
+Date: Fri, 19 Aug 2005 09:34:40 +0800
+From: "jin" <jin@admin.iscas.ac.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgwb249m9mZmVyLLzoxNHRodTx1tCjrNLRwdCz9s/qx+mjrMfrtPO80rDvztK31s720rvPwg==?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+大家帮我分析分析，谢谢了。
+两个offer,一个是SAS，一个CA
+名气：（个人意见）
+SAS，是全球软件500强中的37位，统计学软件中的老大，现在搞BI，但在中国好像目前名气不大。
+CA，这个在中国名气比较大，我个人认为仅次于微软，ibm,sun,oracle，好像以前是三大软件公司。
+待遇环境：
+SAS给的待遇比CA高10％（主要是有年底奖）
+企业文化：（初步印象，都是听说）
+SAS的人都很nice,公司也组织各种活动让大家形成好的团队。
+听说CA的文化很tough，压力大，但不知道具体指什么，面试的时候感觉CA的人还是挺不错的。
+工作性质：
+SAS目前只有测试和少量国际化开发，所以暂时做不了我喜欢的开发。
+到CA是去做开发，开发数据备份产品，但具体做的事情的性质也不清楚，我估计应该是用VC来作设计与开发吧。
+我的情况：
+25岁，工作三年，小本，非名校，接触计算机编程很喜欢，想有一天成为技术大牛。
+我的困惑：
+如果去了SAS：怕几个月不做编程开发，自己生锈了，而且我梦想能去微软，ibm，担心微软的牛们更青睐CA出来的，SAS不太知名，CA的背景更好一点。
+如果去了CA：因为最近看到网上有人说Dell,CA的企业文化比较tough,压力大，企业文化不是很好，我不知道这是说做sales的，还是也包括研发的，我不反感加班，只要让我做喜欢的编程开发工作，我少拿点钱，加加班无所谓，但就怕，钱也少拿了，还没做喜欢的事情，而且文化还不好。PS：另外在这个版上还看到文章说CA试用期裁人，真的假的，社招的出过这种事么？
+欢迎知情的，不知情的，牛的，非牛的大哥大姐指点，批评，引导.
+欢迎写信给我，也欢迎加我qq:4320727

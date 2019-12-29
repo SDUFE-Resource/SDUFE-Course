@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <pu@ccert.edu.cn>; Sun, 25 Sep 2005 02:27:42 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <pu@ccert.edu.cn>; Sun, 25 Sep 2005 02:39:07 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 18:16:04 -0000
+From: "jin" <jin@mail.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Cc: <wei@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjIzyNW5pNf3vMfCvA==?=
+Date: Sun, 25 Sep 2005 02:38:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+送交
+张学一 衣物NO469：NO470：2005英语夏令营H，运动上衣一件；
+刘佳   钱包NO399：内有ic卡等，葛坦
+报失
+肖良华 眼镜NO280:黑色镜框，于9月21日在六教6A414丢失；
+任竹唏 钥匙NO781：一串，7-8把，钥匙链上有“上高地”字样；
+葛坦   钱包NO984：已领取；
+刘超   钱包NO985：黑色，内有IC卡、银行卡、饭卡、洗衣卡、饮水卡等，于9月23日丢失；
+孙晖   其它（玉坠）NO671：绿色，侧面有貔貅像，近似三角形，于今天中午在游泳馆丢失；
+高靖仑 其它（钥匙包）NO672:内有多把钥匙，于9月21日晚在东操篮球场丢失；
+杨丽楠 证件NO1259：工商银行卡，于9月20日左右丢失；
+刘怀俊 证件NO1260：IC卡，2004211707，于9月22日丢失；
+叶圣奇 证件NO1261：No1262：NO1263：IC卡，2005011408，北京银行卡，饭卡，于9月23日在学服乒乓球馆丢失；
+李思贤 书籍NO318：gre红宝书，gre阅读理解，于9月17日左右在六教丢失；
+刘钟淇 电器NO616：摩托罗拉手机C318，蓝色，彩屏，直板，于9月23日晚7：30-9：30在校内丢失；
+领取
+葛坦   钱包NO399；

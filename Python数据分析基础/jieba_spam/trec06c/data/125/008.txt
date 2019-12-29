@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C2BpmJ006744
+	for <xin@ccert.edu.cn>; Tue, 13 Sep 2005 09:40:27 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28l5c009623
+	for <xin@ccert.edu.cn>; Tue, 13 Sep 2005 09:37:45 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28iWw009619
+	for <xin@ccert.edu.cn>; Tue, 13 Sep 2005 09:37:20 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EEefy-0005d0-00
+	for toefl@gradinfo.net.edu.cn; Tue, 13 Sep 2005 10:36:46 +0800
+Message-ID: <016301c5b740$c2f51a00$2fcb6fa6@wanglanjia>
+From: "wu" <wu@ns.6test.edu.cn>
+To: xin@ccert.edu.cn
+Date: Tue, 13 Sep 2005 09:50:08 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Subject: =?gb2312?B?UmU6IM7StcTU8cW8udvE7qOsztLP69OmuMO63MirwcujrLu2062087zSsrmz5A==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1871831781=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+“从小比较富裕的生活条件决定他是否是贫贱不移，富贵不淫的人“这句话是什么意思阿？
+难道是饥寒生盗心，饱暖思淫逸的意思？
+     1.良好的家庭背景，非常非常有必要，因为良好的家教决定这个人是不是有责任心，从小比较富裕的生活条件决定他是否是贫贱不移，富贵不淫的人
+     良好得家庭背景，就是说，父母双方知书达理，都有工作，特别是男方的母亲，有自己的工作，哪怕是种地。家里母亲说了算，父亲尊重母亲，父母从小给孩子灌输儒家思想，如：滴水之恩，当涌泉相报，做人最重要的是诚信，君子爱财取之有道，永远不要做伤害别人的事情，不要自私，人要独立自强，凡事要靠自己之类的教导。而且家里不能穷的揭不开锅。
+     2.受过比较系统的教育，至少是大学

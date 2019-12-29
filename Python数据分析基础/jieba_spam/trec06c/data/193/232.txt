@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <chi@ccert.edu.cn>; Tue, 27 Sep 2005 18:53:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <chi@ccert.edu.cn>; Tue, 27 Sep 2005 19:04:56 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 27 Sep 2005 10:40:22 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "mei" <mei@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <bi@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgu7bTrbzTw8vJz7qjvbvNqLTz0afWxsDk0+u1zc7CuaSzzNHQvr/L+Q==?=
+Date: Tue, 27 Sep 2005 19:04:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+欢迎全国兄弟院校制冷、暖通空调专业的优秀学生
+          加盟上海交通大学制冷与低温工程研究所
+  上海交通大学制冷与低温工程研究所是国家重点学科，本学科于1958年由著名教授夏安世博士创建，是国内大学中最早的制冷专业之一。本学科于1962年开始招收研究生，1981年首批被赋予硕士学位授予权，1986年获博士学位授予权。本学科拥有一批治学严谨，造诣深厚，科研成果卓著的著名老教授和站在学科前沿、学术思想活跃的青年学科带头人。本学科承担了许多国家重点攻关、国家自然科学基金、国家重大基础研究项目“973”、国防预研、部委级科技攻关以及大量企业委托项目任务，取得了多项处于国内领先的研究成果，有的已达到国际先进水平。
+本学科国际联系广泛，已和九个国家建立不同程度人员、学术和信息交流关系和渠道,除了本专业的青年教师和研究生出国进行学术交流和攻读学位外，现已有外国留学生在本专业攻读研究生。本学科以“基础研究带动学科发展，产业需要引导研究方向”，与国际和国内的著名企业如Carrier、Lennox、York、Daikin、海尔集团、春兰集团等有着广泛和长期的合作。专业现有的联合研究中心有上海汽车工业总公司-上海交大车用空调工程中心、上海交大－大金联合研究室、交大－海尔仿真研究中心、Lennox Training Centre等。本学科正在为建成国家级工程中心而努力发展。
+   2006年入学的外校免试直升研究生工作即将开始，上海交大制冷与低温研究所这次将扩大外校的名额，从原来的6个外校名额增加至10个左右，我们热忱的希望和欢迎兄弟院校的优秀学生选择上海交通大学制冷与低温工程研究所。
+联系人：
+谷 波 教授/博士生导师
+制冷与空调研究所 常务副所长
+上海交通大学
+200030
+上海市华山路1954号
+Tel: 021-62933240
+Email: gubo@sjtu.edu.cn

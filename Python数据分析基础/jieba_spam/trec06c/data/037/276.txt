@@ -1,0 +1,33 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <shi@ccert.edu.cn>; Thu, 25 Aug 2005 11:02:48 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 11:21:08 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 11:21:08 +0800
+Date: Thu, 25 Aug 2005 11:21:08 +0800
+From: ye@cernet.com
+Subject: =?gb2312?B?ofEg1tC/xtS619S2r7uvy/mzz8a4yO28/rmks8zKpg==?=
+To: shi@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+中科院自动化所现诚聘软件工程师2名，条件如下：
+一、职位要求： 
+1. 代码编写，Windows 或 Linux下编程，界面与模块设计；
+2.  从事语音合成、动画系统软件模块实现、测试；
+3. 与系统接口的代码编写；
+4. 系统的搭建与优化;
+二、任职资格： 
+1. 计算机、电子等相关专业本科以上学历，能熟练进行计算机编程；
+2. 二年以上开发经验，精通C/C++程序设计，擅长界面设计或嵌入式平台软件开发；
+3. 有语音处理、图像处理开发经验者优先；
+4. 优秀的团队合作精神，善于学习。
+三、待遇面议
+如有意者，请将简历发至:sxlan@nlpr.ia.ac.cn (请不要回站内邮箱）

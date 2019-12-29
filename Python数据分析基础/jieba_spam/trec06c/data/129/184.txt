@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <chen@ccert.edu.cn>; Wed, 14 Sep 2005 07:43:02 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <chen@ccert.edu.cn>; Wed, 14 Sep 2005 07:55:03 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 23:37:36 -0000
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: chen@ccert.edu.cn
+Cc: <long@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg08DUtrXEobbC7cK3zOzKuaG3?=
+Date: Wed, 14 Sep 2005 07:54:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+真没想早年间，中国曾有那么一部优秀的电影。前天重看《马路天使》，激动得一塌糊
+涂。
+如果当年有什么金鸡百花什么的，这部电影完全有实力拿下最佳影片，最佳男女演员，
+最佳男女配角，最佳电影音乐，等等等等的奖项。当然这些都是其次的事。
+这部片子用充满激情的语调，表现了旧上海底层市民的苦乐。人物塑造极具张力。很多
+角色都让人难以忘怀。周旋饰演的小红，无法形容的精彩。就连那个只有一句半台词的
+口吃男，都活生生的。就是这样一些灰黑色背景下的鲜红的形象，给我们诠释了美丽与
+丑恶，快乐与悲伤，赞美与控诉，希望和绝望。电影内涵的深刻性，加上表演，音乐等
+元素的完美结合，使之成为永远的经典。
+忘不了周旋在窗前唱起《天涯歌女》的样子。忘不了她的那句安慰“不要不要哭噢~噢呀
+！”。当然也忘不了赵丹的那句黑色幽默“原来打官司还要钱的！”……
+中国电影史上，《马路天使》应该是怎样一个地位呢？

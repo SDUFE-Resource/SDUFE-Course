@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83Navcu007784
+	for <yuan@ccert.edu.cn>; Mon, 5 Sep 2005 02:30:03 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83NnJli001115
+	for <yuan@ccert.edu.cn>; Mon, 5 Sep 2005 02:42:25 +0800 (CST)
+Message-Id: <200509032349.j83NnJli001115@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 18:29:42 -0000
+From: "wua" <wua@mail.tsinghua.edu.cn>
+To: yuan@ccert.edu.cn
+Cc: <lai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IElzIHRoZXJlIHBhcnR0aW1lIFBIRCBhdmFpbGFibGUgaW4gVHNpbmdodWEgb3IgQmVpIERh
+Pw==?=
+Date: Mon, 5 Sep 2005 02:42:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B125.2476A9F0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWw4hYhpZKPpUbwSle4S7/Xq9uNDg==
+
+兼职的比全职的容易毕业,呵呵
+     标  题: Re: Is there parttime PHD available in Tsinghua or Bei Da?
+     
+     全职还毕不了业呢！
+     
+     : I am working now. But I really want to take a PhD degree with hand.
+     : Is there any parttime PHD available now?
+     : Thanks a lot.
+     
+     
+     
+     --
+     

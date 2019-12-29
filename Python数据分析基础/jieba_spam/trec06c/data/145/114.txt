@@ -1,0 +1,55 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <zhu@ccert.edu.cn>; Sat, 17 Sep 2005 08:16:52 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <zhu@ccert.edu.cn>; Sat, 17 Sep 2005 08:33:27 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <zhu@ccert.edu.cn>
+	; Sat, 17 Sep 2005 08:33:27 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <zhu@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 07:58:28 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "xin" <xin@njnu.edu.cn>
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7H89b6ob+4+k1N09C/ycTct6LVuaO/?=
+Date: Sat, 17 Sep 2005 08:28:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+今天跑到政法去看MM了
+很开心的一个下午
+本来坐车说1点到的，但是稍微弯了点路，快2点才到
+第二次见她，感觉比第一次好多了
+开始她把我带到一条散步走廊里面
+顶上是绿色藤条覆盖
+不远处有一对情侣抱在一起，我们离了一段距离坐下
+很正经的聊天，她说想出国，我说应该到时候再看
+聊了一会儿，走进她们的图书馆
+不太大，但很干净
+坐在一条长凳上说话，身边不时走过学生
+说了一会儿，混进政法对面的石油大学
+里面有一间咖啡屋，环境不错
+她吃了冰激凌，我喝了一杯什么摩卡咖啡，太甜
+走的时候她去洗手间，我付了帐，回来她有些生气，要自己付帐，我说你下次再请我吧
+然后跑去KTV唱歌
+虽然电话里听她的声音挺好的，但唱歌说实话可不怎么样，呵呵
+反正我也是喊的，最后两个人嗓子都哑了
+然后她说请我吃饭，在政法旁边的一个环境很不错的餐馆
+里面菜一点也不贵，一大堆政法的在里面吃（清华要是有这样的就好了）
+点了一个冷菜，一盘辣子鸡（比紫荆里面的好吃多哈）不太饿
+然后她去洗手间，我喝茶，服务生跑来问我是否结帐
+我说好，反正才22块
+她回来之后似乎很生气，我说我不能跟服务生说等一下有女生来帮我结帐啊
+叫她下次在请我吧
+然后匆忙赶了末班车，又堵车，好不容易到了清华东门，然后走到西门拿车，飙回寝室
+请问跟MM有没有可能进一步发展呢？

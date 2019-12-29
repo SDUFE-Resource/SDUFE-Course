@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <tao@ccert.edu.cn>; Fri, 2 Sep 2005 21:08:03 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <tao@ccert.edu.cn>; Fri, 2 Sep 2005 21:20:39 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 13:09:14 -0000
+From: "liu" <liu@mail.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Cc: <ling@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S08PSu7j2yu682cil17fL/aOs08PSu8zsyqfIpcHLy/2joQ==?=
+Date: Fri, 2 Sep 2005 21:20:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+失之东隅，收之桑榆。
+     我们一自习，一起吃饭，一切都发展进很快。但即便如此，我还是在犹豫，我是否可以好好地照顾她！ 
+     给她找资料，带好，给她送饭。她从家回来了，第一个就给我电话，我知道有好几个人在追她，而这一切...... 
+     她看到了我的移动硬盘中写有“情书”字样的WORD文件，她问是写给谁的，我说我乱写的，没敢说其实就是写给她的；在她的宿舍本来有机会去抱她，但我没有，而是径直地走开了...... 

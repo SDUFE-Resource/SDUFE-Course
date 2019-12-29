@@ -1,0 +1,23 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8464SY3009167
+	for <liao@ccert.edu.cn>; Mon, 5 Sep 2005 10:21:01 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMA008AX4CVO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Mon, 5 Sep 2005 10:38:40 +0800 (CST)
+Date: Mon, 5 Sep 2005 10:34:45 +0800
+From: =?gb2312?B?wre0utPq?= <zhu@cernet.com>
+Subject: =?gb2312?B?UmU6IMfrzsq087zSy63T0NaqtcDN4sbzyseyu9PDx6nI/be90K3S6b7N1rG908epwM22r7rPzay1
+xMI=?=
+To: liao@ccert.edu.cn
+Cc: ylu4859 <yan@ccert.edu.cn>, "grey.wang" <ma@ccert.edu.cn>,
+ zy <bai@ccert.edu.cn>
+Message-id: <0IMA008AY4CVO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/mixed; boundary="Boundary_(ID_mtIjcpm6pV5fNK0/E3Q5IQ)"
+
+我也在外企，就是直接签的劳动合同
+     本人今年毕业,经过几个月的考试和面试才拿到一家美国大外企的通知.
+     但问了这个公司人力资源,说是他们跟毕业生只签劳动合同,其它的三方协议什么都不管
+     问户口档案什么的都说是统一存放在FESCO中心,但后来上FESCO网站上查了查,感觉还是商社还是应该跟毕业生签的,所以现在我就纳闷了,究竟是怎么一回事儿,我这个是个个例吗?还是都这样?

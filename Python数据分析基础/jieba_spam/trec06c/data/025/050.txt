@@ -1,0 +1,23 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <yu@ccert.edu.cn>; Mon, 22 Aug 2005 07:32:41 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <yu@ccert.edu.cn>; Mon, 22 Aug 2005 07:45:52 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "hu" <hu@126.com>
+To: yu@ccert.edu.cn
+Cc: <lei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfyzOyjrM7SyqfBtaOh?=
+Date: Mon, 22 Aug 2005 07:45:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+有了第一次就好了.以后就会习惯了
+     上个月的１９号，我们确定了恋人的关系，但由于放假在家的原因一直没见，所以恋人一直是空有其名．还没到开学我早早就来了，想和他多待几天，第一面，我们散步的时候他紧紧抓住我的手，我问他是不是想好了，他的回答很坚定．那一天离开的时候，他吻了我．

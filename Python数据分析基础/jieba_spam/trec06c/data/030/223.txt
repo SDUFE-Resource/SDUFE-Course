@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <gong@ccert.edu.cn>; Tue, 23 Aug 2005 17:19:21 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <gong@ccert.edu.cn>; Tue, 23 Aug 2005 17:32:39 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 09:27:16 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "fan" <fan@mail.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Cc: "tunet" <xia@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgt+vQobjVus29qs7E?=
+Date: Tue, 23 Aug 2005 17:29:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我忘了是从哪里听来的了。
+姜文对冯小刚说，我们的电影都是源与生活的，但是我们不同。就象是都有一堆新摘的葡萄。你想方设法给大家带了了鲜扎的葡萄汁，而我要把它酿成酒。
+我也明白了为什么我看姜文的电影（如鬼子来了）远远不同于冯小刚电影（手机，或是天下无贼）。
+在鬼子来了一片中，总是能品出电影别于其他艺术形式（如小说，舞蹈，绘画）的特有的醇。
+找到原话了
+冯小刚自传《我把青春献给你》中提到，导演姜文同志曾经语重心长地对导演冯小刚同志说：“电影应该是酒，哪怕只一口，但它得是酒。你拍的东西是葡萄，很新鲜的葡萄，甚至还挂着霜，但你没有把它酿成酒，开始时是葡萄，未了还是葡 萄……你应该把葡萄酿成酒，不能仅仅满足于做一杯又一杯的鲜榨葡萄汁。”冯小刚自言对他电影的诸多批评中，姜文以上的话是最道破实质的。

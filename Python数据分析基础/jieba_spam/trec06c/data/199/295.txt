@@ -1,0 +1,28 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q8Ih5e007338
+	for <qian@ccert.edu.cn>; Wed, 28 Sep 2005 20:10:55 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q8M1b01723;
+	Wed, 28 Sep 2005 20:14:13 +0800
+Message-Id: <200509260822.j8Q8M1b01723@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 12:14:13 UT
+To: qian@ccert.edu.cn
+From: guan@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzhvvbFxMvAzfXb89Xi0fnN/Lb3uLrS5bXEsNfR28DH?=
+
+客观点讲：
+如果他老板或者他所在的实验室是“学霸”类型的，他的做法有可能类似学术上的“孙志刚”，可以起到净化学术风气，清洗学术腐败；
+无数的人，也就是从这个“想当然”的角度开始猛批学术制度。（中国的学术空气不好，谁tm都承认，这是价值体系崩溃的在教育领域的反映）
+但你考虑过没有：
+若他老板或实验室是在国内为数不多，还算是再作学问的，结论就完全不同了。
+除了他这种反击没有任何力度，成为一个纯粹的个案外。
+更深远一点，是浮躁的学术气氛，在博士生群体（而不仅仅是老板们）的另外一种反映。
+（不能专下心来作小，作深；只贪大，贪名。）
+当然，必须承认，他的学术理想确实是值得钦佩的，但做法与理想背道而驰。
+不说了，coding去。
+     每个人选择不同。阁下可以在浮躁的环境中真正做学问（希望你没有用脚投票。我这人从不看别人id的，假设你在国内某名校高就吧），为什么别人就不能脱离这个环境去做学问呢？ 为什么别人就批评不得这种环境呢？ 

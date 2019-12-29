@@ -1,0 +1,57 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86DlBho027727
+	for <pu@ccert.edu.cn>; Wed, 7 Sep 2005 12:27:57 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j86DixEj066825
+	for <pu@ccert.edu.cn>; Wed, 7 Sep 2005 12:26:02 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from smtp.blacksburg.ntc-com.net (dapp1.blacksburg.ntc-com.net
+	[204.111.169.34])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j86DitfF066821
+	for <pu@ccert.edu.cn>; Wed, 7 Sep 2005 12:25:42 +0800 (CST)
+	(envelope-from hswu02@vt.edu)
+Received: from hswu (n140s066.ntc.blacksburg.shentel.net [204.111.140.66])
+	by smtp.blacksburg.ntc-com.net (Postfix) with ESMTP id 1518E130877;
+	Wed, 7 Sep 2005 00:39:46 -0400 (EDT)
+From: "yu" <yu@vt.edu>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgQU5TWVMtQ0hJTkGxsb6psOzKwrSm1dDGuKO6tee0xbjfvLbTptPDuaSzzMqm?=
+Date: Wed, 7 Sep 2005 00:39:44 -0400
+Message-ID: <000001c5b2eb$21c5ff90$6800a8c0@hswu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+Importance: Normal
+In-Reply-To: <200509061253.j86Crvrj066117@gradinfo.net.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+	j86DitfF066821
+Cc: 
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+ANSYS-CHINA北京办事处招聘：电磁高级应用工程师
+职位要求:  
+1. 通讯、电磁场与微波技术及其相关专业，硕士以上学历，博士优先；
+2. 精通电磁场数值算法和高频近似算法，电磁基本功扎实；
+3. 有大型高低频电磁有限元分析程序的使用或者工程分析经验或者编程经验；
+4. 独立科研能力强，思路清晰，严谨科学地分析问题和解决问题能力；
+5. 有较好的人际沟通、协作和表达能力。
+优先条件等其他说明:
+1. 具有航空航天或兵器行业的电磁工程经验或者相关知识，独立承担过该行业电磁工程项目的有限元分析和相关工作；
+2. 具有深厚电磁理论或者数值计算专业背景，有丰富的有限元编程经验；
+3. 能够随时正式上班。
+联系方式：techsupp.bj@ansys.com.cn

@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <cao@ccert.edu.cn>; Thu, 1 Sep 2005 13:56:31 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 13:59:23 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 13:59:23 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 13:59:23 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 05:52:46 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 13:44:56 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 13:44:56 +0800
+From: pu@mails.tsinghua.edu.cn
+To: cao@ccert.edu.cn
+Cc: bai@ccert.edu.cn
+Date: Thu, 1 Sep 2005 13:44:56 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7S1+69/Ne30ru49m1tLMvAxqTAtcGztcTXty4=?=
+Content-Type: text/plain
+
+现在想想我前几次就是因为没坚持被拒了，但现在想来并不可惜，因为这么快就放弃一定没感觉，
+所以，哥们儿
+要是发现自己真的力量无限就要坚持不懈
+如果发现是在死撑面子坚持，就放弃把
+     人家说不 理我,而且她有男朋友,我说做普通朋友死皮赖脸约出来表白了一番被拒绝,我最后
+     还亲了她的手一下,还把她抱起来了.后来又给她发短信说给我最后一次机会,又把她约出来了,和她聊了几个小时,后来她走了.我现在还在死皮赖脸的追她,唉.

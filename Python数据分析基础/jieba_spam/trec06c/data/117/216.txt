@@ -1,0 +1,72 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4thuT027743
+	for <qiu@ccert.edu.cn>; Sun, 11 Sep 2005 22:22:09 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4r30e090926
+	for <qiu@ccert.edu.cn>; Sun, 11 Sep 2005 22:19:43 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A4qgGS090788
+	for <qiu@ccert.edu.cn>; Sun, 11 Sep 2005 22:19:08 +0800 (CST)
+	(envelope-from tianying00@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 22:08:17 +0800
+Message-ID: <326327311.25345@mails.tsinghua.edu.cn>
+Received: from 166.111.66.12 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 11 Sep 2005 22:08:17 +0800
+From: "ling" <ling@mails.tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+Date: Sun, 11 Sep 2005 22:08:17 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgMjAwNMTqvq28w9Gnx+W7qtXmzOI=?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: tianying00 <ling@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+ 2004清华研究生入学考试----经济学(初试＼复试) 2005-4-30 03:38 AM
+2004清华研究生入学考试807经济学
+（下面没道题都是15分，可参照去年的试题，有几道是重复的）
+一．
+1、 当消费者的收入或商品的价格发生变化时，无差异曲线本身是否会发生变化
+？
+2、 怎样理解经济学中所说的成本？
+3、 试论述萨伊定律背后的经济学原理
+二．经济学中经常将商品的需求曲线看作一条直线，这样做有没有什么理论依据
+和实践基础？
+三．为什么劳动力供给曲线向后弯曲？
+四．试证明：劳动和资本的产出弹性为常数当且仅当生产函数具有Cobb－Doulgo
+us的形式时即F（L，K）＝AKαLβ
+五、试论述囚徒困境对于经济学的意义
+六、某人有10万元的存款，存入银行可以获取2％的利率。他可以将一部分钱投入
+股票市场，现在假设股票市场仅仅存在一种股票，收益率和方差服从正态分布N（
+0.1，1），他对于均值和方差的偏好为U（μ，σ）＝10μ－σ2，他应该将多少
+钱投放到股票市场上？
+七、某国国内对于某产品的需求和供给具有如下形式：
+需求函数：Q＝16000/P^2
+供给函数：Q＝P^2/10
+（1）   求完全竞争情况下的社会福利
+（2）   如果政府对该产品实行P＝25元的最低限价，社会福利的损失是多少？
+（3）   假设国际市场上该产品的价格是10元，其生产成本远远低于国内。该国政
+府为了保护国内的生产者，对于进口的每单位产品征收税收5元。与不征收关税相
+比，社会福利的损失为多少？
+八．经济中达到一般均衡是否意味着充分就业？为什么追求高就业目标会导致通
+货膨胀？
+九．论述税收和公债的挤出效应。
+十．一国财政支出为8000亿，税收8000亿，出口为7000亿，进口5000亿，边际消
+费倾向为0.5，自发消费为1000亿，边际投资倾向为0.3，自发投资为1200亿。试
+求该国的国民收入。
+(复试)这三个大题是：
+第一，一家商家已知下月的可能衣服销量和对应的概率，并且给出了卖出一件的盈利和滞销一件的亏损。现在要求给出最佳进货量。用决策论和生产运作都可以做的。
+第二，谈谈数据，信息，知识的定义和确切含义并举例说明，这个没有标准答案的。
+第三，问现在的信息系统的类型有哪些，并根据它们处理问题的特点：两个方面（1）知识型，战略型，运作型...（2）结构化问题还是非结构化问题 按照二维矩阵进行分类。

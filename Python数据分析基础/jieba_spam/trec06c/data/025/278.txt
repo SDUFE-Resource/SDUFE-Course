@@ -1,0 +1,35 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <weng@ccert.edu.cn>; Mon, 22 Aug 2005 11:41:00 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <weng@ccert.edu.cn>; Mon, 22 Aug 2005 11:54:11 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "shen" <shen@126.com>
+To: weng@ccert.edu.cn
+Cc: <hou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvK/dGnXSDOyrj2zOLEvw==?=
+Date: Mon, 22 Aug 2005 11:54:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+好久不做了
+大概是这样考虑把，你再去整理
+设在x0处f(x)取最大值
+先考虑x0在（a，b）开区间内（在端点处类似）。
+则存在任意小的正数e,有
+S(a,b)[f(x)]^ndx&gt;=S(x0-e,x0+e)[f(x)]^ndx
+由于连续，在区间[x0-e,x0+e]上，f(x)存在最小值m
+于是S(x0-e,x0+e)[f(x)]^ndx&gt;=m^n*2e
+从而{S(a，b)[f(x)]^ndx}^1/n&gt;=m*2e^1/n
+从而lim&gt;=m
+而m是在x0的任意小领域内的最小值，由于连续性，容易证明m&gt;=M减去一个任意小正数
+     设f(x)在[a,b]上连续，且f(x)&gt;=0,M=maxf(x),证明
+     lim{ S(a,b)[f(x)]^n dx}^(1/n)} =M  (n-&gt;无穷)
+     其中 S(a,b)[f(x)]^n dx表示对[f(x)]^n从a到b积分. 

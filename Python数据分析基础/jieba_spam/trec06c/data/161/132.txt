@@ -1,0 +1,63 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J3Tsuc012204
+	for <bi@ccert.edu.cn>; Wed, 21 Sep 2005 01:30:20 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J3P05T085835
+	for <bi@ccert.edu.cn>; Wed, 21 Sep 2005 01:26:35 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (m13-67.163.com [220.181.13.67])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J3OphQ085831
+	for <bi@ccert.edu.cn>; Wed, 21 Sep 2005 01:25:20 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+MIME-Version: 1.0
+Message-ID: <432E330C.000184.26953@bj163app67.163.com>
+Date: Wed, 21 Sep 2005 01:40:21 +0800 (CST)
+From: "pu" <pu@163.com>
+To: bi@ccert.edu.cn
+X-Priority: 3
+X-Originating-IP: [192.168.208.154(210.25.128.99, 202.38.188.130)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com -->
+	163com
+Subject: =?gb2312?B?ofEg18qy+r3XvLYt1tCy+r3XvLYtzt6y+r3XvLYtx+vE47bUusXI69f5eno=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1569947849=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+http://news.xinhuanet.com/comments/2005-09/20/content_3514616.htm
+中国贫富悬殊达警戒线
+ 作者　魏梦杰
+    中国居民的收入差距自从2003年以来急剧加大，目前已达到第二严重的“黄灯”警戒
+水平，今后5年内若不采取有效措施，将恶化到“红灯”危险水平。
+    近日，中共中央党校主办的《学习时报》刊载《贫富差距：高度重视，妥善处置》，
+对中国日益严重的贫富差距提出预警。
+    联合国开发计划署公布的一组数据显示，中国目前的基尼系数为0.45，占总人口20%
+的最贫困人口在收入或消费中所占的份额只有4.7%，占总人口20%的最富裕人口占收入或
+消费的份额则高达50%。
+    文章指出，当前较为普遍的看法是，中国的贫富悬殊之大已经突破合理的限度（国际
+公认的基尼系数警戒线为0.4），且有继续扩大之势。长此以往，不仅难以实现共同富裕
+，还很可能引发各种社会不稳定现象。特别值得注意的是，人均GDP由1000美元向3000美
+元过渡的时期，是社会矛盾的多发期。中国恰好处在这个阶段。
+    文章指出，中国富裕者阶层尽管不乏凭才智和勤劳致富的个私经营者，但也确有相当
+一部分人（主要是那些暴富阶层）的发家靠的是官商勾结、权钱交易等“寻租”行为。而
+在国有经济领域，一方面，一大批企业倚仗其行政垄断地位排挤其他参与者，谋取高额利
+润；另一方面，更有一些国企经营者和国家公职人员，通过种种不正当手段大肆侵吞国有
+资产。“机会的不平等”不仅影响到收入公平。而且首先是由于损害社会公正而损害社会
+经济效率（那些效益低下的垄断行业就是例证）。
+    该文主张不宜急于重新定位效率和公平的关系，而应着眼于如何在“效率优先”的同
+时真正把公平“兼顾”好。
+    文章提到，近日，全国人大常委会正式启动了修改个人所得税法起征点的立法程序，
+这是一个很好的信号，说明国家已经注意到一些过时的法规和政策在调节收入差距方面的
+“无力”甚至“负效应”。但需要政府去做的事还有很多，尤其是在确保国有资产产权改
+革的有序推进、打破各种行政性垄断和建立健全社会保障等方面。
+    文章同时强调，有人把市场取向的改革视作导致贫富分化的“罪魁”。对这种一叶障
+目的观点，必须予以澄清和纠正。《国际金融报》 (2005年09月20日 第一版) 

@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBMZaM026296
+	for <cen@ccert.edu.cn>; Thu, 15 Sep 2005 14:50:13 +0800 (CST)
+Received: (eyou send program); Thu, 15 Sep 2005 14:43:55 +0800
+Message-ID: <326696577.15347@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 15 Sep 2005 14:43:55 +0800
+Message-ID: <326696577.15331@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 15 Sep 2005 14:43:55 +0800
+From: bai@mail.tsinghua.edu.cn
+To: cen@ccert.edu.cn
+Date: Thu, 15 Sep 2005 14:43:55 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgzbzK6bndtcTK6aOsud2y2Ne0zKyhsLLp1dLW0KGxysfKssO00uLLvLCho78gKNeq1Ngp?=
+Content-Type: text/plain
+
+【 以下文字转载自 CampusLife 讨论区 】
+发信人: katyusza (生如夏花), 信区: CampusLife
+标  题: 图书馆的书，馆藏状态“查找中”是什么意思啊？
+发信人: katyusza (生如夏花), 信区: NewExpress
+标  题: 图书馆的书，馆藏状态“查找中”是什么意思啊？
+rt
+我想借的书已经没了，
+我去预约那本已经在预约架上的好呢，
+还是预约这本“查找中”的更好，
+哪种情况能够保证以较大概率尽快拿到书？

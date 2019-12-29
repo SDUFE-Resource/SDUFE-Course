@@ -1,0 +1,30 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdW0h032355
+	for <kang@ccert.edu.cn>; Tue, 27 Sep 2005 05:35:08 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 05:50:51 +0800
+Message-ID: <327652915.84524@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Tue, 27 Sep 2005 05:50:51 +0800
+Message-ID: <000101c5c1cf$bb387e80$0301a8c0@CCERTDAWEI>
+Reply-To: "zhu" <zhu@ccert.edu.cn>
+From: "zhu" <zhu@tsinghua.org.cn>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INT1w7TR+cTcubvT69fUvLrJ7rCutcTFrrqi19PX9sXz09HE2D8=?=
+Date: Tue, 27 Sep 2005 02:50:41 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+1 要始终代表先进生产力的发展方向:即好好学习，好好工作，多多赚钱，给女友安全感；
+2 要始终代表先进文化的前进方向:琴棋书画，无所不通，花前月下，卿卿我我，给女友浪漫感；
+3 要始终代表最广大人民群众的根本利益:最重要的是要代表女友的利益；
+最后要强调的就是要：求真务实
+踏踏实实，别着急，慢慢发展着，女友就会有的:)
+     坚决追求之。发扬一不怕拒，二不怕拍的大无畏的乐观主义精神。
+     就像推研一样，你不交申请书，是不会有导师找你的。

@@ -1,0 +1,41 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <cen@ccert.edu.cn>; Fri, 26 Aug 2005 01:11:58 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 01:30:21 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 01:30:21 +0800
+Date: Fri, 26 Aug 2005 01:30:21 +0800
+From: xing@cernet.com
+Subject: =?gb2312?B?ofEgvLHV0Ly8yvXIy9Sxo6GjoaOh?=
+To: cen@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+一、J2EE软件开发工程师（5人）
+岗位要求：
+1、有1年以上大中型项目工作经验，有基于J2EE架构大型应用系统的开发经验；
+2、熟练掌握一到两种J2EE开发工具（最好是BEA WORKSHOP 和 Jbuilder）；
+3、熟练掌握jsp、servlet、javabean、EJB、XML等软件开发技术；
+4、熟练掌握html、javascript、tablib等web开发技术；
+5、有STRUTS和HIBERNATE项目开发经验；
+6、熟悉主流的J2EE应用服务器，如BEA的Weblogic和IBM的Websphere等；
+7、熟悉ORAClE等大型数据库环境；
+8、工作责任心强、具备良好的团队合作精神，有较强的沟通、协作能力；
+二、java软件工程师（5人）
+要求：
+1、有2年以上大中型项目工作经验，至少1年以上java开发经验；
+2、熟悉java的体系结构，熟悉JVM；
+3、熟练掌握JSP、SERVLET、JAVABEAN、EJB、XML等软基纳开发技术；
+4、有java swing开发经验，采用STRUTS和Weblogic开发过产品；
+5、熟悉Oracle或Sybase数据库开发技术及相关工具，熟练掌握SQL；
+6、工作责任心强，具备良好的团队合作精神，较强的沟通、协作能力；
+有意者发简历至whomissme2008@126.com，写上期望薪水，绝对不是骗人的，非诚勿扰。

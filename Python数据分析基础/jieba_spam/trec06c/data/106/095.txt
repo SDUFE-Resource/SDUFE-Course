@@ -1,0 +1,38 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j888M6Jx010719
+	for <mei@ccert.edu.cn>; Fri, 9 Sep 2005 11:24:55 +0800 (CST)
+Received: from cernet27fd8164 ([211.68.120.195])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMH00NKBPDV0F@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 9 Sep 2005 11:42:19 +0800 (CST)
+Date: Fri, 9 Sep 2005 11:37:11 +0800
+From: noc-serv <gan@cernet.com>
+Subject: =?gb2312?B?UmU6ILTzvNKw787Stq+2r8TU19M=?=
+To: mei@ccert.edu.cn
+Cc: lian@ccert.edu.cn
+Message-id: <047d01c5b450$1df5d280$c37844d3@cernet27fd8164>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+
+    好歹科技园翻译成science and technology park
+     标  题: Re: 大家帮我动动脑子
+     
+     XXkijiyuan a zuo 4 ceng s danyuan
+     
+     : 这个地址怎么翻译？
+     : ××科技园a座4层s单元。。
+     
+     
+     --
+     2004五大偶像及名言：
+     赵颖/饶忠祥     饶忠祥说不认识赵颖， 全中国人民都笑了。
+     周鲞/秦鲎鳞   “我想我要特别去祝福她，希望她也能找到她所爱的人。”  
+     杨梵/翁鸩凝   “它是上帝恩赐的最后礼物”。
+     郭魉/霍精精     胡嘉真是有狗屎运。
+     左绣羯/王饯如 “我们一切都是按照程序招聘的。”
+     
+     

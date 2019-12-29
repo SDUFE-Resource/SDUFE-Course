@@ -1,0 +1,32 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R2Ql7k015088
+	for <zheng@ccert.edu.cn>; Tue, 27 Sep 2005 20:03:14 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8R2U2q21285;
+	Tue, 27 Sep 2005 20:06:29 +0800
+Message-Id: <200509270230.j8R2U2q21285@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 12:06:29 UT
+To: zheng@ccert.edu.cn
+From: ye@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCuIMfpIL7NIMrHINHbIMDh?=
+
+第六句：她？
+大男孩儿这样对小男孩说： 
+          “爱情呀！就是眼泪。” 
+          小男孩听不懂其中的韵味， 
+          为什么爱情就是眼泪？ 
+          爱情应该很美才对…… 
+          小男孩慢慢品尝爱情的滋味， 
+          她终于明白：美中含着眼泪！ 
+          爱一个人时会流泪 因为很累 
+          想一个人时会流泪 因为疲惫 
+          念一个人时会流泪 因为憔悴 
+          恨一个人时会流泪 因为心碎 
+          眼里总有流不完的泪！ 
+          小男孩对小小男孩说： 
+          “爱情就是眼泪！” 

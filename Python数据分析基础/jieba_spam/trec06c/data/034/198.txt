@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <wang@ccert.edu.cn>; Wed, 24 Aug 2005 18:11:17 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Wed, 24 Aug 2005 18:29:40 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 18:29:40 +0800
+Date: Wed, 24 Aug 2005 18:29:40 +0800
+From: qing@cernet.com
+Subject: =?gb2312?B?UmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0=?=
+To: wang@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+没有强制加班，但是常常都在加班（1、2、4晚上，3有时加班，有时体育活动，5晚上休息），因为大家都在加班，我要不加班，我的考评可能就是D。这个和能力没有直接关系，也和你是否已经完成了任务无关，只是用于表现你积极工作，而且任务是饱满的（谁以后到华为会常听到这个词：任务是否饱满）。
+不过，你有重要的私事的话，跟领导打个招呼也可以回家，次数不多没关系，比较灵活，华为这点人情味还是有的。
+             关于加班这个我只是听人说的。没在华为待过。但是
+             好像听一些在华为待过的人都这么说。

@@ -1,0 +1,23 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <cheng@ccert.edu.cn>; Fri, 30 Sep 2005 11:01:25 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Fri, 30 Sep 2005 11:04:23 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 03:04:23 UT
+To: cheng@ccert.edu.cn
+From: fu@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+
+你上的bbs的版权就是非法的，合法的在清华大学网络中心，哈哈哈哈！！！！！！！
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+！！！！！！！！1
+     你小胆子真大，敢网上吹牛阿。
+     不过我很同情你，因为我知道从不认真使用计算机和软件，同时又买不起软件的人的衰样。
+     这样吧，我的电脑里全是有合法版权的软件，我允许你虔诚的提几个问题来考考我如何完成你认为必须由“盗版”软件才能完成的事。哦，对了，我的桌面用的当然是linux，我的电脑是联想预装的oem版windows xp home，虽然我从来不用，但我也没删掉。

@@ -1,0 +1,19 @@
+Received: from 163.com (m13-20.163.com [220.181.13.20])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j897B1aC019635
+	for <ke@ccert.edu.cn>; Sun, 11 Sep 2005 10:29:47 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4321385B.0000FC.08953@bj163app20.163.com>
+Date: Sun, 11 Sep 2005 10:41:48 +0800 (CST)
+From: "yuan" <yuan@163.com>
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+u9zKO6ztK4w8jnus694srN?=
+X-Priority: 3
+X-Originating-IP: [192.168.208.155(210.72.197.14)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 163com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_zaEKjQWroZbskVmCcRNRUtYjFkpl"
+
+曾有一篇文章被ieee transactions 一审接收，但二审被拒了，因为审稿者还是不满意我的修改稿，主编就据了，建议重投。
+我在一审被接受的情况下，在我的求职简历里面写上了:to appear
+可能因为这篇文章，东大教授接受我到他那里做博后研究（那时候二审还没有结果），而我当时并不知道是这篇文章的对他接收我的分量，所以被拒后也没和他说。
+我现在已经在他的实验室了，但他把我给别的教授介绍的时候这么说： He is very hard waorking as well as  very polite, and his publication includes a paper in IEEE Transactions.
+我不知道怎么解释这件事，大家给个建议？如果我告诉他，会有什么样的不好印象？

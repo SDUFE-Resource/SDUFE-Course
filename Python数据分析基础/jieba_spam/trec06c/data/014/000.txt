@@ -1,0 +1,30 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <yun@ccert.edu.cn>; Fri, 19 Aug 2005 22:30:33 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <yun@ccert.edu.cn>; Fri, 19 Aug 2005 23:03:53 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 22:44:52 +0800
+From: "jian" <jian@mail.nisac.gov.cn>
+Reply-To: jian@mail.nisac.gov.cn
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCmo6yws7DXu+zBy8G9xOrBy6OszKvKp7Dcwcs=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+仁兄说得对
+我是工科基本没有正规的管理经验
+更要命的是根本没法管，好几个老员工职位都比我高，我说不上话
+跟我一块来的新人也挺牛*,我安排工作不合适或者催得急了就跟我急，
+还说让我给他发工资他就干，不然让老板直接找他
+没法说了，俺努力找一个合适的坑待着吧，省得同学朋友见了面就说我
+丢院子的人干的活都是shit。
+     不那么容易吧，小公司里面都没有什么好的管理。
+     所以lz估计没有什么正规或者优秀的管理经验。
+     打击一把：）

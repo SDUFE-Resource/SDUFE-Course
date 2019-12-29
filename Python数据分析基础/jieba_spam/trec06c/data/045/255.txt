@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <wei@ccert.edu.cn>; Fri, 26 Aug 2005 22:51:09 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 22:58:39 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 22:58:39 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 22:58:39 +0800
+From: ling@mail.tsinghua.edu.cn
+To: wei@ccert.edu.cn
+Cc: chen@ccert.edu.cn
+Date: Fri, 26 Aug 2005 22:58:39 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgofKh8qHyUHJvZi5DdWkgYXQgVUEgRUNFIGlzIHJlY3J1aXRpbmcgUGguRCBzdHVkZW50?=
+Content-Type: text/plain
+
+Prof. Cui finished his Ph.D at Stanford University in 2005 and is now 
+working at the ECE department of the University of Arizona. He is 
+interested in recruiting Ph.D students from Tsinghua. His main research 
+interest lies in wireless communications. Please check his web at 
+http://ece.arizona.edu/~cui
+Before you contact him, please make sure you statisfy the following 
+conditions:
+1. Close to finishing your Master\'s degree or already finished;
+2. Have solid background in Communications or Math;
+3. Good English writing skills;
+4. Have one paper submitted or published;
+If you think you are qualified, please send him your resume to 
+cui@ece.arizona.edu
+For excellent candidates, he can help with an accelerated admission 
+process and the starting date can be as early as Spring of 2006.

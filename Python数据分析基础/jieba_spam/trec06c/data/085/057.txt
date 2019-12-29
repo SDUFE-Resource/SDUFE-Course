@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <zeng@ccert.edu.cn>; Sun, 4 Sep 2005 13:30:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <zeng@ccert.edu.cn>; Sun, 4 Sep 2005 13:42:52 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 05:32:03 -0000
+From: "han" <han@mail.tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Cc: <liu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzOzM7LrD0MTH6Q==?=
+Date: Sun, 4 Sep 2005 13:42:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+有没有最近过的比较郁闷的JJMM啊，我和另一个MM都悟出了一个道理，女孩子，真的不能太亏自己，我们都是工作三年左右，工作都很努力，生活方面总是为别人打算，为将来打算，到了这个时候，发现自己被磨的一点热情，一点激情都没有了。换个想法吧，在生活工作还都没有达到自己理想的状态的时候，就应该学会尽情享受生活，同时又不断做出新的努力。只有放松了，交往的更多了，适当的满足自己了，才会有更大的激情去在其它方面努力！前几天在《心理访谈》上看了一个节目，一个月薪7000元的软件工程师特别特别地自卑,因为与一个高干家的女儿恋爱而在这个大都市丢失了对自我的认同.心理医生告诉他,人的欲望分为以下几个方面(由低至高):生理需求(包括衣食住行和对性的欲求)、安全需求、爱与被爱的需求、对尊重的需求、自我实现的需求、以及超越。我们现在都在为自己的衣食住行的改善而在不断地努力，但我们不要忘记，在这个需求还没有被满足的时候，其它方面的需求都不能忽视，都要同时兼顾和发展，如果我们的注意力向这边倾向的多一点，我们的心态会很轻松，我们会发现自己许许多多的优点。做出努力，给自己一个好状态，一个好心情去面对每天的学习、工作和生活！

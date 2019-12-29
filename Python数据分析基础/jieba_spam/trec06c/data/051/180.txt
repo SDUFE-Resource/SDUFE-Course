@@ -1,0 +1,19 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <hu@ccert.edu.cn>; Sun, 28 Aug 2005 12:27:35 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 12:38:08 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sun, 28 Aug 2005 12:38:08 +0800
+From: "jian" <jian@ctbu.edu.cn>
+To: hu@ccert.edu.cn
+Date: Sun, 28 Aug 2005 12:38:08 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "jian" <jian@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IFNRTKGhU2VydmVyuN+8tsr9vt2/4rncwO0vv6q3ormks8zKpg==?=
+Content-Type: text/plain
+
+还没有找到吗？都看到好多次招聘了。
+     公司简介：
+     赛特达公司是工业设计集成自动化和多学科优化的软件销售和咨询公司。其解决方案出自GE航空部门，实现多种CAD/CAE/CAM软件的集成，并利用数学探索工具（实验设计、近似建模、多目标优化、专家知识、可靠分析和设计、田口和六西格玛稳健设计等），实现产品仿真和设计的自

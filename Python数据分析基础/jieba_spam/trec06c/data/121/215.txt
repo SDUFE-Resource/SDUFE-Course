@@ -1,0 +1,63 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ACNovr029742
+	for <rao@ccert.edu.cn>; Mon, 12 Sep 2005 17:08:46 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8ACKv6Q093262
+	for <rao@ccert.edu.cn>; Mon, 12 Sep 2005 17:06:17 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8ACKomW093258
+	for <rao@ccert.edu.cn>; Mon, 12 Sep 2005 17:05:50 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+Message-Id: <200509101220.j8ACKomW093258@gradinfo.net.edu.cn>
+Received: from free-qhkbi6e7yv (unknown [59.66.201.85])
+	by smtp2 (Coremail) with SMTP id QsA3yF3IIkPPuYAD.1
+	for <rao@ccert.edu.cn>; Mon, 12 Sep 2005 16:34:49 +0800 (CST)
+X-Originating-IP: [59.66.201.85]
+Date: Mon, 12 Sep 2005 16:36:36 +0800
+From: "shi" <shi@163.com>
+To: rao@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8ACKomW093258
+Subject: =?gb2312?B?ofEg0cW7otbQufrV0Ma40MXPoqOto63I7bz+uaSzzMqmo6i0+tPRt6KjqQ==?=
+Precedence: list
+Reply-To: shi@163.com
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+据悉雅虎中国最近由于业务需要，希望招收几名软件工程师，具体要求如下：
+Do you know about Yahoo,would you like to be one member of Yahoo!Now we do want to find some engineers,are you interested? 
+what\'s our request?
+General request:
+- Excellent self study ability
+- Good team work and communication skill
+- having encoding experiences will be a plus
+- work in beijing
+Detail:
+1.Software Engineer
+- Hard background in Unix or Linux
+- Familiar with HTTP,HTML,JavaScript
+- Familiar with PHP/Perl/C++  
+- Familiar with MySQL
+- having some project experiences will be a plus
+if you are interested at it and you think you can fit our requirements,
+please send your resume to ytest2003@yahoo.com.cn soon,we will answer you
+as quickly as possible.
+Just remind you:when you send your email to yahoo,please make sure you have written telephone number in 
+your resume.
+OK,Yahoo is waiting for you! 
+感兴趣的同学赶紧行动啊！
+特别注明：目前暂时不需要实习生，此次招聘只面对毕业生。

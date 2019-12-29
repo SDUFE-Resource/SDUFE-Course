@@ -1,0 +1,127 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <peng@ccert.edu.cn>; Thu, 25 Aug 2005 14:59:47 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 06:49:22 -0000
+From: "cheng" <cheng@mails.tsinghua.edu.cn>
+To: peng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 25 Aug 2005 15:13:04 +0800
+
+帮朋友发的，请勿回我的信箱
+About Kulicke &amp; Soffa Industries, INC.
+Kulicke &amp; Soffa (NASDAQ: KLIC) is the world\'s leading supplier of semiconductor wire bonding
+assembly equipment. K&amp;S is the only major supplier to the semiconductor assembly industry
+that provides customers with semiconductor wire bonding equipment along with the complementing
+packaging materials and test interconnect products that actually contact the surface of the 
+customer\'s semiconductor devices. The ability to control all of these assembly related products 
+is unique to Kulicke &amp; Soffa, and allows us to develop system solutions to the new technology
+challenges inherent in assembling and packaging next-generation semiconductor devices.
+software engineer
+ 
+Duties and Responsibilities:
+"       Specify, Design, develop and test application and embedded software for high-speed wire bonder,
+focusing on control system and hard real-time.  A wire bonder is a manufacturing capital equipment 
+machine used in the semiconductor industry.
+"       Participate in software development process improvements that increase the velocity and reduce 
+the cost by which software features are specified, designed, implemented, tested, and made available
+to customers.
+"       Travel internationally
+o       Other development sites: US, India ~4x/yr, 
+o       Customers in the Pacific Rim  ~4x/yr
+Required Experience and Skills:
+"       Three or more years (3+) developing embedded software.
+o       Understanding of hardware and software interactions
+o       Device drivers is preferred
+o       Multi threaded software
+"       Three or more years (3+) developing object oriented software, including 
+o       Design
+o       Automated Regression Testing
+"       Excellent analytical skills, including
+o       Software modeling, performance, testability, extendibility, and reuse
+o       Defect resolution
+"       Excellent communication skills with other developers and managers
+"       Work independently under tight deadline pressures
+"       English Proficiencies:
+o       Read and write proficiently in English.
+o       Understand spoken English
+"       Education:  Masters\' degree in electrical engineering or computer science, or 
+                  Bachelor\'s degree in engineering, physical science and 2 or 3 yrs of additional experience,
+                  or equivalent experience.
+"       Desired beneficial experiences and skills, but not absolutely required:
+o       Speak English, and be understood by a native English speaker
+o       C/C++ in Unix environment
+o       VxWorks OS
+o       PowePC platform
+o       Design with UML
+o       TDD, Test Driven Development (Agile technique of writing test cases before coding)
+Location:  Suzhou, China
+SW test engineer
+Duties and Responsibilities:
+"       Design, develop &amp; execute tests to ensure product verification &amp; specification 
+compliance for high-speed wire bonder, focusing on control system and hard real-time. 
+A wire bonder is a manufacturing capital equipment machine used in the semiconductor industry.
+"       Perform functional, integration and system level testing.
+"       Provide engineering support to internal &amp; external customers
+"       Review specification documents to prepare test documentation &amp; effort estimates
+"       Timely completion of product verification within defined schedule and generate defect reports
+"       Travel internationally
+o       Other development sites: US, India, SG ~2x/yr, 
+o       Customers in the Pacific Rim  ~2x/yr
+Required Experience and Skills:
+"       One or two years working in software testing
+o       Understanding of Software QA process
+o       Considerable hardware &amp; software knowledge, PowerPC and VxWorks is preferred
+"       Good analytical &amp; test skills,  &amp; knowledge of lab test equipments
+"       Excellent communication skills with other team members and managers
+"       Work independently under tight deadline pressures
+"       English Proficiencies:
+o       Read and write proficiently in English.
+o       Understand spoken English
+"       Education:  Bachelor\'s degree in engineering, physical science and 1 or 2 yrs of additional experience,
+                  or equivalent experience.
+"       Desired beneficial experiences and skills, but not absolutely required:
+o       Speak English, and be understood by a native English speaker
+o       Test Automation
+Location:  Suzhou, China
+ 
+senior SW test engineer
+Duties and Responsibilities:
+"       Design, develop &amp; execute tests to ensure product verification &amp; specification 
+compliance for high-speed wire bonder, focusing on control system and hard real-time. 
+A wire bonder is a manufacturing capital equipment machine used in the semiconductor industry.
+"       Perform functional, integration and system level testing.
+"       Provide engineering support to internal &amp; external customers
+"       Effectively communicate issues cross-functionally and with project management
+"       Review specification documents to prepare test documentation &amp; effort estimates
+"       Participate in Software Requirement Specification(SRS) reviews for completeness &amp; accuracy
+"       Timely completion of product verification within defined schedule and generate defect reports
+"       Travel internationally
+o       Other development sites: US, India, SG ~2x/yr, 
+o       Customers in the Pacific Rim  ~2x/yr
+Required Experience and Skills:
+"       Three or more years (3+) working in embedded software testing
+o       Understanding of Software QA process
+o       Considerable hardware &amp; software knowledge, PowerPC and VxWorks is highly preferred
+"       Good analytical &amp; test skills,  &amp; knowledge of lab test equipments
+"       Excellent communication skills with other team members and managers
+"       Work independently under tight deadline pressures
+"       English Proficiencies:
+o       Read and write proficiently in English.
+o       Understand spoken English
+"       Education:  Masters\' degree in electrical engineering or computer science, or 
+                  Bachelor\'s degree in engineering, physical science and 2 or 3 more yrs of additional experience,
+                  or equivalent experience.
+"       Desired beneficial experiences and skills, but not absolutely required:
+o       Speak English, and be understood by a native English speaker
+o       Test Automation experience
+Location:  Suzhou, China
+ 
+联系方式：chwang@kns.com
+cnjshi@kns.com

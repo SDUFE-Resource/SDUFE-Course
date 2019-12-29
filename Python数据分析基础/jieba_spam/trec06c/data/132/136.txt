@@ -1,0 +1,29 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBHaMG026280
+	for <xue@ccert.edu.cn>; Wed, 14 Sep 2005 21:23:40 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id A7E89718597; Wed, 14 Sep 2005 21:35:31 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 139F3733E57; Wed, 14 Sep 2005 21:35:30 +0800 (CST)
+Message-ID: <053901c5b91f$8fe966d0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <shen@dlut.edu.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtM/W1Nq1xLjQx+nKx8THw7TI3dLXxsbL6cTYo78=?=
+Date: Wed, 14 Sep 2005 21:35:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0536_01C5B962.9DFC0500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+一开始两个不熟悉的人更多的是靠外在的东西互相吸引
+在一起时间久了，这方面的因素就弱多了
+还能继续在一起，无非是出于性格合得来，能够分享对方的想法和感受，一起玩开心，生活上互相照顾等等因素，总的来说是心理的愉悦
+如果在激情冷却之前还没有发掘出对方性格上的可爱之处，就会迅速冷淡下来
+不知道你们具体情况怎样，是吵架伤了和气，还是纯粹地冷淡了
+     不是吸引不吸引的问题，开始的时候，他总是说他是多么地幸运，找到了我
+     说离不开我，不可否认，刚开始时，是因为我的外貌深深地吸引着他，而
+     现在我们连起码的交流都没有了 ，我是清华的文科生，而他是工科的，

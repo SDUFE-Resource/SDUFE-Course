@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EBDbnN008658
+	for <hong@ccert.edu.cn>; Wed, 17 Aug 2005 03:55:19 +0800 (CST)
+Received: (eyou send program); Wed, 17 Aug 2005 04:03:45 +0800
+Message-ID: <324018523.18139@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 17 Aug 2005 04:03:45 +0800
+Message-ID: <324018523.18120@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 17 Aug 2005 04:03:45 +0800
+From: guo@mail.tsinghua.edu.cn
+To: hong@ccert.edu.cn
+Cc: shi@ccert.edu.cn
+Date: Wed, 17 Aug 2005 04:03:45 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgzfjS17mry76jqLGxvqmjqdXQxrjIq9awyO28/rmks8zKpg==?=
+Content-Type: text/plain
+
+欢迎加入一个迅速发展的团队，希望你和我们同样热爱互联网，以及其中洋溢着的新意。
+( 优秀的兼职学生可以考虑，今年应届毕业生可以提前考虑 )
+工作地点：
+北京，联想桥附近
+职位要求：
+1. 对技术的热爱，对创新的激情
+2. 良好的数据结构和算法分析设计基础
+3. 强的C/C++编码能力
+4. 熟悉Linux系统，以及相应的开发与调试工具
+5. 独立工作能力，主动性和良好的沟通能力;
+6. 严谨的工作态度，良好团队精神;
+7. 良好的英文功底
+8. 计算机、数学相关专业优先，硕士优先考虑；
+联系方式：
+    sfwang@corp.netease.com

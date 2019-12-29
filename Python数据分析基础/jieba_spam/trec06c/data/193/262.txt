@@ -1,0 +1,33 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q8Ih5e007338
+	for <xie@ccert.edu.cn>; Tue, 27 Sep 2005 19:15:20 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q8M1b01723;
+	Tue, 27 Sep 2005 19:18:38 +0800
+Message-Id: <200509260822.j8Q8M1b01723@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 11:18:38 UT
+To: xie@ccert.edu.cn
+From: zhou@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INf20afOys/I0qrRp7vh1/bIyw==?=
+
+这个例子举得很糟糕.  
+内衣和袜子是不能同时洗的
+     标  题: Re: 做学问先要学会做人
+     
+     
+     其实，说道做人，我倒是很有感触，
+     我隔壁就是水房，曾经眼见过一个哥们，
+     在洗衣机中只放了两条内裤和几双袜子狂洗。
+     一句话，一屋不扫何以扫天下，
+     我们自己确实存在很多问题
+     : 很显然，王同学还不知道什么做人的道理。这个和学术水平无干。
+     : 如果在国外他还是这个样子，恐怕下场更糟糕。
+     
+     
+     --
+     

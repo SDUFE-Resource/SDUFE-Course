@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ID8DYi008045
+	for <rao@ccert.edu.cn>; Tue, 20 Sep 2005 23:08:19 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8IDJqRe004245
+	for <rao@ccert.edu.cn>; Tue, 20 Sep 2005 23:19:58 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 20 Sep 2005 14:59:35 -0000
+Message-ID: <017301c5bc53$c8f1e290$787d6fa6@hotline>
+From: "kong" <kong@mail.tsinghua.edu.cn>
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjnuOejrM7Su7nT0LTm1Nq1xLHY0qrC8KO/o7+jv6O/o7+jv6O/o7+jvw==?=
+Date: Tue, 20 Sep 2005 23:20:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0170_01C5BC96.D6F872D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+问号超过一个就是符号错误
+     今天逛街的时候，我对哥哥说你把手机拴到裤子上，（为了怕手机被摸，我特用十字秀的绳子编了一股绳子给他拴在手机上让他拴在裤子上），他毫不在意的说：没有绳子。我就纳闷了，我说我给你的绳子呢。他头也没回的说脏了剪了扔了。我无语。
+     今天，哥哥兴奋的说昨天晚上我跑步了。我很高兴哥哥能去跑步了。可是哥哥接着说有个女生一直在走。我超了她五次，每次到她后面我都要停下来跟着走。我说为啥。哥哥说：因为它头发很香，我喜欢闻。我的心很疼。

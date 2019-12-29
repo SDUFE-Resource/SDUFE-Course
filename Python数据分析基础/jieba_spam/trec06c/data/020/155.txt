@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <cen@ccert.edu.cn>; Sun, 21 Aug 2005 05:58:12 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <cen@ccert.edu.cn>; Sun, 21 Aug 2005 06:11:26 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 05:40:07 +0800
+Date: Sun, 21 Aug 2005 06:11:17 +0800
+From: "cheng" <cheng@wnt.com.cn>
+To: cen@ccert.edu.cn
+Cc: "lic" <zhou@ccert.edu.cn>, "sunt" <qiu@ccert.edu.cn>, "caoy" <fu@ccert.edu.cn>,
+        "wangb" <tan@ccert.edu.cn>, "songhm" <rao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMn6yNW1xM3tyc+xu7DWsNbC6MLowu6/3sHLfn4=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+唉，人比人气死人阿，我已经有六年没和家人过过生日了。有一次妈妈打电话说你爸惦记着还有一个月你过生日，这样我都已经高兴很久。也就去年有了bf后过了一个像样的生日，以前都是买个蛋糕，一宿舍人用几分钟时间迅速解决战场。最快的一次6个人用三分钟解决完一个大蛋糕。
+     本来想和同学一起过的，可是爸爸希望一家人在一起
+     于是我想可以一家人吃完饭后，找同学一起去K歌，爸爸说还是他带我去洗脚吧
+     我想想现在在家的朋友也只有2个，没什么劲，

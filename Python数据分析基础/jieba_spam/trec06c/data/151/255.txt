@@ -1,0 +1,24 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2qIUC010144
+	for <ni@ccert.edu.cn>; Sun, 18 Sep 2005 15:37:53 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <432A361D.0000C0.29343@m115.126.com>
+Date: Sun, 18 Sep 2005 15:49:29 +0800 (CST)
+From: "sun" <sun@126.com>
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?ofEgu6rOqrGx0dDL+c7ez9+yv8PF1dDGuCAo16rU2Ck=?=
+X-Priority: 3
+X-Originating-IP: [222.82.99.17]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_qcLtUtrIOHetfVDqRvFQeohZwyJq"
+
+【 以下文字转载自 DP 讨论区 】
+发信人: Dennychen (corona), 信区: DP
+标  题: 华为北研所无线部门招聘
+华为北研所无线部门招聘
+岗位是从事3G或后3G技术预研/研发，主要工作任务是申请技术专利或者向国际标准组织
+输出提案、参加会议，或者从事链路仿真、系统仿真平台研发工作，要求对无线通信技
+术有一定技术基础、或者对C语言编程比较熟悉、更欢迎能比较快就岗者，待遇、工作环
+境参照最近华为应届、社招有关政策。本广告长期有效，有意者请将简历发往chenlinh
+ong@tsinghua.org.cn，对合适者本人将与您联系面试事宜，也欢迎其他欲了解详情者联
+系，请不要联系本id。

@@ -1,0 +1,19 @@
+Received: from nankai.edu.cn (sun.nankai.edu.cn [202.113.16.21])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N7Br6G015829
+	for <zheng@ccert.edu.cn>; Sat, 24 Sep 2005 17:33:59 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 17:50:52 +0800
+Message-ID: <327460528.07655@nankai.edu.cn>
+Received: from 222.30.48.129 by 202.113.16.21 with HTTP; Sat, 24 Sep 2005 17:50:52 +0800
+From: "mei" <mei@nankai.edu.cn>
+To: zheng@ccert.edu.cn
+Date: Sat, 24 Sep 2005 17:50:52 +0800
+Reply-To: "mei" <mei@nankai.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Content-Type: text/plain
+
+现在的学术界也讲成王败寇。假如一个有个性的人，出道时被众人所唾弃的人，
+有朝一日侥幸成功了，舆论界立马来一个180度的转弯：纷纷指责腐朽的权威压制天才的成长。
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。
+     首先，我们学习是为了什么？我觉得即使是我们学理工科的人，也不是为了成为所谓的爱因斯坦和牛顿。我这里用了所谓的爱因斯坦和牛顿，因为我们从小受到的教育就对爱因斯坦和牛顿扭曲了，我们那个时候不知道什么叫做科学只知道爱因斯坦和牛顿是非常非常牛的人。其实真正了
+     我是搞材料的，对于量子力学，凝聚态物理，统计物理之类的东西还比较熟。我就我所懂的东西谈谈我的看法。如果你深入的去研究这些东西，你就会发现任何一门科学大厦绝对不会建立在某一两个人的基础之上的。我们可以去看看曾谨言的《量子力学》，里面有爱因斯坦和波尔的一

@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <che@ccert.edu.cn>; Fri, 16 Sep 2005 11:46:21 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <che@ccert.edu.cn>; Fri, 16 Sep 2005 12:17:29 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 11:57:36 +0800
+From: "gan" <gan@mail.nisac.gov.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQ1tzSu8/CzufIpcnP087TvrjfvLaw4LXEv861xM2s0afC8D8=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+   高级班应该是一样的，本科和研究生不一样的要求
+    本科是 3000米30分，考勤10分(迟到早退一次扣1分，病假有校医院假条扣2分，事假扣5分，缺席扣10分)，如果自由泳可以游50米是40分，100米是45分，100米时间2\'05"是50分，1\'55"是55分，1\'45"是60分。
+    研究生很轻松，只要每次都去了，然后可以游25米就通过了
+    下次上课的时候准备10块钱买泳帽，如果自己有黄色的泳帽也可以自己带
+     这周周一下午自己居然忘了去了, 
+     去的同学说说, 老师都 讲什么了啊
+     有没有说这学期的教学内容是什么啊, 是以什么为主:?

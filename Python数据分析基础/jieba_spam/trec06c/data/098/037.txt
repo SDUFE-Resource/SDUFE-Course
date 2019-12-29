@@ -1,0 +1,31 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <kong@ccert.edu.cn>; Wed, 7 Sep 2005 17:20:00 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <kong@ccert.edu.cn>; Wed, 7 Sep 2005 17:32:17 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "tian" <tian@126.com>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7KuPa52NPav6rM4rXEzsrM4g==?=
+Date: Wed, 7 Sep 2005 17:32:09 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+我好像记得十一和五一是两道坎，过了这两个时间开题就要等一个学期，请问有这种说法吗？这种东西有没有一个正式的文字通知和规定，搞得很儿戏......
+     标  题: Re: 问个关于开题的问题
+     
+     开题到毕业一般不少于1年
+     
+     : 弱问一个问题。请问想要两年半毕业，是否必须在十一之前开题，十一之后开题是否就已经晚了
+     
+     
+     --
+      (

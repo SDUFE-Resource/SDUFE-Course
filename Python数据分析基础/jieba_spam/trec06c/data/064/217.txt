@@ -1,0 +1,36 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <shen@ccert.edu.cn>; Wed, 31 Aug 2005 22:36:02 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 22:38:54 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 22:38:54 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 22:38:54 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 14:32:17 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 22:24:27 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 22:24:27 +0800
+From: bai@mails.tsinghua.edu.cn
+To: shen@ccert.edu.cn
+Cc: sun@ccert.edu.cn
+Date: Wed, 31 Aug 2005 22:24:27 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMjnufuzpLXEzNix8FBQo6zE49TauvXL/bXE0afA+sO0?=
+Content-Type: text/plain
+
+     红颜薄命
+     女人的历史由男人书写
+     一个成功男人后面总有一个好女人
+一个成功女人后面总有一堆坏男人
+漂亮的女人因为漂亮带来的艰难也比平常女人多
+你没看见学计算机的女孩都是苦菜花一样的脸孔么
+                          ~~~~~~~~~~~~~~~~ 反对，虽然不清楚你们那边的情况
+                                        但PPMM还是有的
+漂亮女孩哪里有什么智慧可言？
+     呵呵，漂亮的很可能经历过更多的事情呢
+     没有智商还有社会经验吗，你们这些小屁孩有啥啊

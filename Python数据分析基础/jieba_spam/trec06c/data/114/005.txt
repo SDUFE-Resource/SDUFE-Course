@@ -1,0 +1,67 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AD9Mx3029876
+	for <tan@ccert.edu.cn>; Sun, 11 Sep 2005 02:44:11 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6dUu093533
+	for <tan@ccert.edu.cn>; Sun, 11 Sep 2005 02:41:42 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bluebox.CS.Princeton.EDU (bluebox.CS.Princeton.EDU
+	[128.112.136.38])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6ZAN093529
+	for <tan@ccert.edu.cn>; Sun, 11 Sep 2005 02:41:25 +0800 (CST)
+	(envelope-from wangyi@ns.6test.edu.cn)
+Received: from [140.180.169.187] (yiwang.student.Princeton.EDU
+	[140.180.169.187]) (authenticated bits=0)
+	by bluebox.CS.Princeton.EDU (8.12.11/8.12.11) with ESMTP id
+	j8ADL2a8029505
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <tan@ccert.edu.cn>; Sat, 10 Sep 2005 14:55:52 -0400 (EDT)
+Message-ID: <4322DDBC.1080807@ns.6test.edu.cn>
+Date: Sat, 10 Sep 2005 14:55:49 -0400
+From: Yi Wang <xing@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+MIME-Version: 1.0
+To: tan@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?vczKpr3av+zA1g==?=
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 mlx=-1
+	adultscore=0 adjust=0 reason=safe engine=3.0.0-05090301
+	definitions=3.0.0-05090911
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+看完jj的帖子（恩，应该是个女生吧)，可以理解jj的心情
+被孤立被冷落，不被认可不被接受的感觉
+会让人觉得天都是灰暗的
+尤其是当发现只有自己一个人或者很少有人和自己一样时
+这种郁闷的感觉就更为强烈
+这是一种内心深处的孤独和凄凉
+但，jj,换一种视角，我们可能会看到不同的答案
+也许你觉得别人很世故，很圆滑
+也许你觉得导师很偏心，很不公
+但如果仔细想想，自己的做法就能保证是完美无瑕？
+步入新的环境，面对新的人新的事
+不像土著那样和导师熟悉，和学校熟悉
+而jj可能又有点内向，不太善于和人沟通，和人交流
+从而使得导师不够了解你，熟悉你，也就不够认可你
+有时候，勇敢的展示自己，更重要的是，多站在对方的立场上，为对方考虑一下
+就会为自己打开一个理想的局面
+而这些，并不是非要需要金钱，需要昂贵的礼物作为敲门砖
+沟通，需要我们的自信，需要我们的主动
+沟通，是一门学问，也是达到成功所不可或缺的条件
+不知道应不应该说这些，其实我在这方面也做得不够好，也没什么经验，只是把自己心里的一点点不够成熟的想法说给jj听，bless jj ,everything goes well
+     今年，相同的饭店，相同的包间，同门聚会
+     不同的是，我们成了师兄、师姐
+     而去年，我们刚进门，有些紧张和手足无措

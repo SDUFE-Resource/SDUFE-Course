@@ -1,0 +1,55 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <liao@ccert.edu.cn>; Wed, 7 Sep 2005 18:24:37 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <liao@ccert.edu.cn>; Wed, 7 Sep 2005 18:22:53 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <liao@ccert.edu.cn>; Wed, 7 Sep 2005 18:22:33 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Wed, 7 Sep 2005 10:11:45 -0000
+Date: Wed, 7 Sep 2005 18:32:37 +0800
+From: "gan" <gan@mails.tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILXIyr3BvbHfzazKscih0K23vbLu1PXDtLet0uujvyAo16rU2Ck=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <wu@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+ 我觉得你就写“kiss correct into ashes of time”，肯定发表
+     标  题: 等式两边同时取协方差怎么翻译？
+     
+     【 以下文字转载自 NewExpress 讨论区 】
+     发信人: zhangsu (从别后，忆相逢，几回魂梦与君同), 信区: NewExpress
+     标  题: 等式两边同时取协方差怎么翻译？
+     
+     get covarice on each side of the equation ,这个get是不是不对，应该用什么词？
+     --
+     
+      年幼时一定要看到菊黄蟹肥才知道秋来                
+          长大些也要天蓝些，云淡些才承认有秋的意味      
+                再往后，发现这些原来都不是很重要的      
+     
+                  　　一片叶子已经足够了                
+     
+     

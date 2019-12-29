@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FDF2nP003737
+	for <lu@ccert.edu.cn>; Sat, 17 Sep 2005 16:58:55 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FDQpvs001563
+	for <lu@ccert.edu.cn>; Sat, 17 Sep 2005 17:10:44 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sat, 17 Sep 2005 08:51:56 -0000
+Message-ID: <003701c5b9f9$461a6f60$787d6fa6@hotline>
+From: "zheng" <zheng@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0tXK9ca3us25pNLVxre1xLLusfA=?=
+Date: Sat, 17 Sep 2005 17:11:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0034_01C5BA3C.5412CED0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    一般人容易混淆艺术品和工艺品的差别：具有较高价值的艺术品是独特的不可复制的特殊文化产品，是成熟技法、深厚学养、文化积淀和高尚情操的结晶；工艺品是工匠在作坊中重复大量生产的，满足人们对制造工艺等方面好奇心的文化产品。艺术品是复杂劳动的产品，其价值远远高于工艺品。
+    什么才是好的艺术品？
+    好的艺术作品可能被认为是：
+    1.艺术家自己满意的作品；
+    2.需求者满意的作品；
+    3.经得起历史检验的、具有较高收藏和欣赏价值的作品。  
+    一般说来，经得起历史检验的、具有较高收藏和欣赏价值的作品首先是创作者自己满意的作品，而需求者满意的作品则不一定具有较高艺术价值。
+    如何才能获得一件好的艺术品？
+    慎重选择具有成熟技法、深厚学养、文化积淀和高尚情操艺术家，给予充分尊重和信任，艺术家才能自由、充分地展现技法、学养、文化积淀和高尚情操，才能创造出较高艺术价值的艺术品。

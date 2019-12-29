@@ -1,0 +1,53 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <yan@ccert.edu.cn>; Thu, 25 Aug 2005 01:31:33 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 01:49:56 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 01:49:56 +0800
+Date: Thu, 25 Aug 2005 01:49:56 +0800
+From: zhang@cernet.com
+Subject: =?gb2312?B?ofEguavLvrOkxtrV0Ma4yO3Tsrz+yMvUsaOow7vT0L6t0enSsrPJo6k=?=
+To: yan@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+北京诺德世讯科技开发有限公司（www.nodinfo.com）专业致力于音、视频编解码核
+心算法的研究和实现，是美国Analog Devices和TI公司的全球第三方合作伙伴。提供
+基于DSP平台的音、视频产品完整解决方案。
+因业务发展需要，现面向社会诚聘，欢迎有志于视频嵌入式领域，谋求更大发展平台
+的人士加盟。（工作地点均为北京）
+应用软件开发工程师：
+  职位描述：主要负责PC端应用软件的开发。
+  要求：1、本科及本科以上
+        2、熟练使用C、C++
+        3、会用VC编程开发中型软件项目
+        4、英语4级以上
+        5、有LINUX或数据库开发经验者优先
+招聘人数：5-8人
+嵌入式软件开发工程师：
+  职位描述：熟悉DSP程序设计和优化，并基于DSP平台开发音视频软件。
+  要求：1、本科及本科以上
+        2、熟练使用C、C++
+        3、英语4级以上
+        4、具有LINUX或ARM开发经验者优先
+  招聘人数：2-3人
+公司地址：海淀区成府路45号海升集团C座209
+联 系 人：吴小姐
+邮    箱：nodinfo@sohu.com      hr@nodinfo.com   
+联系电话：010－62559962－11      
+传    真：010－62559962－17
+QQ:              108463121(可以咨询)
+其实工作的好坏，是看一个公司是否有潜力，从事的职业是否前途，个人是否有未来
+？而我们能给您最好的答案。如笔试面试通过，公司将会进行一些专业培训。我们需
+要的是优秀的人才,我们能不惜全力塑造培养人才，对人才的希望也是宁缺毋滥，如
+果您有目标有梦想,就赶快加入我们。
+谢谢关注！

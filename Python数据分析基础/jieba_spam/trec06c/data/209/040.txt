@@ -1,0 +1,32 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <che@ccert.edu.cn>; Fri, 30 Sep 2005 12:05:03 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Fri, 30 Sep 2005 04:15:59 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Fri, 30 Sep 2005 04:15:59 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <che@ccert.edu.cn>; Thu, 29 Sep 2005 21:37:38 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <che@ccert.edu.cn>; Thu, 29 Sep 2005 23:22:31 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Fri, 30 Sep 2005 12:15:54 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <bai@motorola.com>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztLKx9OmuMPXsMm1xNijrLu5ysfTprjDuMm148qyw7Sjv6O/?=
+Date: Fri, 30 Sep 2005 12:15:52 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+   
+  因为要搬到另一个城市，所以老公的两个女同学请我们晚上一起出去吃西餐。四个人边吃边聊，吃到中途，一个女同学看老公的菜少，就要把自己的牛排切一半给他。我当时头一下子大了，却说不出来她有哪里不对。我觉得她的行为的确有点暧昧，却又说不出来哪里不对，后来她又问老公是不是会一个人回学校住答辩。我只知道我老公蛮喜欢这个女孩，我这人也不太吃醋，而且我跟着两个女孩关系也都挺好的，所以也觉得没什么。
+  今天我实在觉得有点郁闷，不会他们俩对上眼了吧？我是应该装傻呢，还是应该干点什么？？ft,高手们赶紧帮我分析分析。

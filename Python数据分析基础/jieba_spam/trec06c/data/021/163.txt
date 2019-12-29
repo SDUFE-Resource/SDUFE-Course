@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <hu@ccert.edu.cn>; Sun, 21 Aug 2005 12:00:02 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <hu@ccert.edu.cn>; Sun, 21 Aug 2005 12:13:16 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 11:41:57 +0800
+Date: Sun, 21 Aug 2005 12:13:07 +0800
+From: "qing" <qing@wnt.com.cn>
+To: hu@ccert.edu.cn
+Cc: "lic" <lin@ccert.edu.cn>, "sunt" <ke@ccert.edu.cn>, "caoy" <weng@ccert.edu.cn>,
+        "wangb" <ling@ccert.edu.cn>, "songhm" <fan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/rsrvD97DXQkbU9cO01eLR+Q==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+我觉得你说的可能有点道理吧,其实从一开始我就有很多地方都很郁闷,比如他刚追我约我出去玩,门票加吃饭一共只有不到五十块钱,但是他都是和我AA的,在后面的很长一段时间,我们去超市买东西,无论是多便宜的东西我们都是各付各的,过圣诞节时，他把以前买给他妈妈的一套化妆品送给了我，说是他让他同学专门从韩国给我带回来的（为这件事我们吵了两次，每次他都认为我在无理取闹，到现在我的心里也接受不了），这些事情始终都在我心里面留下了阴影,始终觉得他不是一个大方的人,也始终让我怀疑他是不是足够爱我。
+     说白了就是小气
+     事后的理由很容易是搪塞的
+     lz肯定对bf小气早有不满，只不过这件事情做了个导火索

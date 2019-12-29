@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j875hi24000645
+	for <weng@ccert.edu.cn>; Wed, 7 Sep 2005 20:59:28 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMF00DGINE211@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 7 Sep 2005 21:16:58 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Wed,
+ Wed, 7 Sep 2005 21:16:58 +0800
+Date: Wed, 7 Sep 2005 21:16:58 +0800
+From: liao@cernet.com
+Subject: =?gb2312?B?ofEgvOK35bzGy+O7+s+1zbPT0M/euavLvtXQxrg=?=
+To: weng@ccert.edu.cn
+Message-id: <3ad323df3a.3df3a3ad32@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+北京尖峰计算机系统有限公司聘用职位要求
+有意者可将简历发到公司人事部邮箱 hr@jfsys.com，或是邮箱lduan@jfsys.com
+一、职位名称：Software Engineer 

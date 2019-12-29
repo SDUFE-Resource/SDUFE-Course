@@ -1,0 +1,123 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J65V6j013138
+	for <jian@ccert.edu.cn>; Tue, 20 Sep 2005 20:15:35 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J61MoI086766
+	for <jian@ccert.edu.cn>; Tue, 20 Sep 2005 20:11:52 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J61Hls086762
+	for <jian@ccert.edu.cn>; Tue, 20 Sep 2005 20:11:23 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15003 invoked by uid 512); Tue, 20 Sep 2005 12:19:46 -0000
+Message-ID: <20050919060943.15002.qmail@stu.ee.tsinghua.edu.cn>
+From: hua@stu.ee.tsinghua.edu.cn
+To: jian@ccert.edu.cn
+Date: Tue, 20 Sep 2005 20:19:46 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEguN/QvbPPxrjI7dOyvP65pLPMyqYosbG+qSk=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+公司招聘介绍
+－ROXUS Technology (China) Ltd.  华诺信息技术有限公司
+－外商独资企业，专业拥有和开发IP / STB / DTV网络机顶盒/数字电视/各种多媒
+体终端产品技术。具有技术和市场领先地位
+－现寻求高质量工程研发人员，以下职位均要求：
+计算机或电子工程相关本科以上学历；
+具有一年以上工作经验或相当水平；
+英语读写水平优良；
+软件职位需熟练掌握C语言编程；
+具有团队协作精神及敬业精神，有良好的沟通能力, 较强的学习能力和独立工作能
+力，能承受相应的工作压力；
+－工作地点：北京，（北二环雍和宫地铁站）
+www.roxus.net   
+有意加入者请将您的个人简历传真或寄往如下地址。
+xujing@roxus.net
+现招工作人员：
+Linux操作系统设备驱动软件工程师
+职位描述：
+  在多个Linux平台下移植、调试设备驱动；
+  研究多核CPU架构的开发模式以及在其之上移植、调试设备驱动  
+职位要求：
+ 熟悉Linux操作系统，具有一年以上Linux应用程序或内核程序开发经验；
+  熟悉USB体系结构者优先；
+  有驱动开发经验者优先；
+Linux内核开发工程师
+  职位描述：
+对现有的linux系统进行维护及开发；
+将linux-2.6操作系统移植到嵌入式平台上；
+根据现有的linux系统开发新的操作系统。
+职位要求：
+熟悉Linux操作系统；
+具有相关操作系统开发经验；
+精通Linux内核者优先。
+DSP多媒体编解码软件开发工程师
+职位描述：
+根据项目需求在嵌入式系统中开发、优化音视频编解码模块，或者移植、优化第三
+方音视频编解码模块，主要包括：
+        H.264
+        WM9
+        Echo Cancellation
+        AC3
+职位要求：
+电子工程或计算机专业
+熟悉H.264编解码标准，有DSP嵌入式系统开发经验者优先考虑。
+系统软件开发工程师
+职位描述：
+负责公司软件产品及项目的开发、维护；
+能够引导软件开发，从定义用户需求到最终提交软件产品的整个流程，其中包括协
+助调研，设计，开发，写文档，测试以及售后支持等环节；
+职位要求：
+精通C语言
+了解Linux操作系统， 掌握网络通讯和操作系统基本知识
+有网络编程或者Linux应用开发经验者优先考虑
+网络多媒体系统测试软件开发工程师
+热爱测试工作，认真细致 ；
+熟悉TCP/IP及相关网络协议 ；
+对测试有一定的了解 。
+硬件开发工程师
+  具有数字和模拟电路设计经验；
+  3年以上硬件设计经验（原理图、PCB、FPGA等）；
+  了解通讯原理、具有音/视频知识或具有RF设计经验者优先。
+BSP软件开发工程师
+职位描述：
+完成底层软件模块设计,编程及调试工作；
+ 协助硬件工程师进行电路板的调试；
+ 编写相关的模块设计及测试文档。
+职位要求：
+有嵌入式系统BSP软件的开发经验者优先；
+有硬件经验者优先
+硬件平台测试开发工程师
+能熟练使用C语言；
+对硬件有一定的了解；
+了解测试设计和测试代码编写。
+测试工程师 
+职责描述:
+负责黑盒测试 
+根据相关文档（需求文档、产品说明等）生成测试用例并执行测试，最后生成测试
+报告 
+编写自动测试脚本
+ 
+职位要求：
+热爱测试工作，认真细致 
+熟悉测试工作流程，从事过一年以上的测试工作 
+CET-4，能够阅读英文资料 
+善于与人交流，沟通协调能力强 
+学习能力强 
+至少应具备下列条件之一：
+  熟悉TCP/IP相关协议 
+  熟悉HTML、JavaScript等，有网页编程经验 
+  掌握一门脚本语言

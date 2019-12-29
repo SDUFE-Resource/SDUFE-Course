@@ -1,0 +1,31 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <xing@ccert.edu.cn>; Tue, 6 Sep 2005 14:13:13 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <xing@ccert.edu.cn>; Tue, 6 Sep 2005 14:25:30 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "zhou" <zhou@126.com>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7KuPa/vNHQ1f7WzszisKGjrGJvdw==?=
+Date: Tue, 6 Sep 2005 14:25:22 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+再说两句
+这两句话应该所说的是由于新技术新的生产工具的应用，从而促进了生产力的发展，也
+就最终导致了社会制度的变革。因此，应该是着重说明生产工具对于生产力促进的重要
+作用。而用什么生产工具进行生产，也就成为了衡量生产力水平重要的参照尺度。
+而B的答案所表述的是生产力与生产关系的相互关系，没有强调生产工具的重要作用。所
+以我选A
+别人也说说？
+     题目：“手推磨产生的是封建主为首的社会，蒸气机产生的是工业资本家为首的社会”，这句话揭示了（   ）
+     A。生产工具是衡量生产力水平的重要尺度
+     B。物质生产的发展需要建立相应的生产关系。

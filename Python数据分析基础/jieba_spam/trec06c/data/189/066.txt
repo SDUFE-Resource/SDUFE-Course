@@ -1,0 +1,30 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <lu@ccert.edu.cn>; Mon, 26 Sep 2005 21:53:32 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Mon, 26 Sep 2005 21:56:50 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 13:56:48 UT
+To: lu@ccert.edu.cn
+From: jiang@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTEzrvNrNGnvPK1pcu10rvPwmthaWZ1IExpIL3xzOy1xNHdvbLE2sjdICjXqtTYKQ==?=
+
+开复先生的演讲题目是“选择的智慧”，他分以下七小点展开：
+1.用中庸反对极端
+2.用理智反对片面
+3.用务实发挥影响
+4.用冷静掌控抉择
+5.用学习积累经验
+6.用自觉端正态度
+7.用真心追随智慧
+然后又谈了一些关于选择专业和选择工作的问题，最后是回答问题
+感觉讲得挺不错的，有其独特的智慧
+     【 以下文字转载自 Graduate 讨论区 】
+     发信人: jjmd (积极面对), 信区: Graduate
+     标  题: 哪位同学简单说一下kaifu Li 今天的演讲内容

@@ -1,0 +1,24 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C1ElfM005929
+	for <wua@ccert.edu.cn>; Mon, 12 Sep 2005 20:51:56 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.144.133)
+  by localhost with SMTP; Mon, 12 Sep 2005 12:38:21 -0000
+From: "gao" <gao@mails.tsinghua.edu.cn>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDQ0OE3E2rTmtcS158TUus3O0sPH0rvG8LbIuf21xMjV19M=?=
+Date: Mon, 12 Sep 2005 21:09:35 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLKEKCCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+Importance: Normal
+In-Reply-To: <326450489.02480@mails.tsinghua.edu.cn>
+
+赞~ 我第一台电脑99年初买的。现在已经6年半了。换了主板cpu升级了内存和显卡。
+     我的电脑5周岁了，昨天进行了一次比较大的升级，重新开机后，看着“系统信息”里显示出怪异的448M内存容量，不禁想起5年来它伴着我们走过的路，写两句作为纪念吧。
+     这台电脑诞生于2000年8月。当时是即将去报到读研，捏造了很多冠冕堂皇的名目，跟家里要来6000元预算，跟着一位开电脑店的老兄，杀到中关村热闹非凡的攒机市场。

@@ -1,0 +1,48 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AD9Mx3029876
+	for <kong@ccert.edu.cn>; Sun, 11 Sep 2005 10:17:17 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6dUu093533
+	for <kong@ccert.edu.cn>; Sun, 11 Sep 2005 10:14:48 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bluebox.CS.Princeton.EDU (bluebox.CS.Princeton.EDU
+	[128.112.136.38])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6ZAN093529
+	for <kong@ccert.edu.cn>; Sun, 11 Sep 2005 10:14:31 +0800 (CST)
+	(envelope-from wangyi@ns.6test.edu.cn)
+Received: from [140.180.169.187] (yiwang.student.Princeton.EDU
+	[140.180.169.187]) (authenticated bits=0)
+	by bluebox.CS.Princeton.EDU (8.12.11/8.12.11) with ESMTP id
+	j8ADL2a8029505
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <kong@ccert.edu.cn>; Sat, 10 Sep 2005 22:28:58 -0400 (EDT)
+Message-ID: <4322DDBC.1080807@ns.6test.edu.cn>
+Date: Sat, 10 Sep 2005 22:28:55 -0400
+From: Yi Wang <chi@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+MIME-Version: 1.0
+To: kong@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?vczKpr3av+zA1g==?=
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 mlx=-1
+	adultscore=0 adjust=0 reason=safe engine=3.0.0-05090301
+	definitions=3.0.0-05090911
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+两人一起努力一定可以在一起的。
+     去年在北京认识了GG，那时那还在读研。我们相处很愉快，就是性格很合适很兼容和谐。由于我这个人比较喜欢开玩笑，有些幽默。他也是这种类型，在一起确实过了一段愉快时光。今年由于某些原因我离开北京到另一个城市，他还在北京，现在工作了。我们中间分开了一段时间，因
+     可是现在问题是：我和他在两地，他有北京户口，研究生刚毕业，能力也不是很强（找了很久才找到工作，现在薪水和我差不多）；他比我大3岁，但是由于一直在学校呆着，觉得他不是很适应社会。我妈对他也不是很满意，她催促我尽快找男朋友结婚。我不知道他到底3年后会不会来
+     他说他现在在努力，让我和他一起努力，等3年以后他来这里或我去北京。可是我总是觉得他有北京户口再出来很不划算了。我也在这个城市算站了脚跟，也不想再漂泊了。。。我们到底能在一起吗？

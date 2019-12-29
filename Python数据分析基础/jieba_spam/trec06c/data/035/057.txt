@@ -1,0 +1,30 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <zeng@ccert.edu.cn>; Wed, 24 Aug 2005 20:55:10 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Wed, 24 Aug 2005 12:44:45 -0000
+From: "zhang" <zhang@mails.tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 24 Aug 2005 21:08:27 +0800
+
+清华同方股份有限公司
+JSP网站开发工程师  1名（急聘！）
+工作职责：
+负责公司外网的技术开发和日常维护工作；对网站内容进行编辑、审核、发布；对相关人员提供技术支持。
+任职资格：
+熟悉JAVA，JSP/Servlet等编程语言；
+有过大型网站的开发经验；
+熟练使用Tomcat等应用服务器、MySQL等各种常用数据库；
+具备良好的语言表达和沟通能力；
+较强的学习新知识的能力； 
+具有团队协作和创新精神；
+英语具有国家六级或相应水平；
+简历请发到：zhaowei@thtf.com.cn,一定要在邮件标题中注明您所应聘的职位，并在邮件中注明您所期望的薪水。
+请不要站内回复（代友发文）

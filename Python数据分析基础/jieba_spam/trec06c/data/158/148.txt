@@ -1,0 +1,35 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <pan@ccert.edu.cn>; Tue, 20 Sep 2005 08:08:38 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 00:19:39 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 00:19:39 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <pan@ccert.edu.cn>; Mon, 19 Sep 2005 17:30:36 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <pan@ccert.edu.cn>; Mon, 19 Sep 2005 19:28:02 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Tue, 20 Sep 2005 08:19:26 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <su@motorola.com>
+To: pan@ccert.edu.cn
+Cc: shen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG+16rM+6G/0KTJ6r/LtcS+yMrq1tC1xMPYw9x6enp6enp6enp6?=
+Date: Tue, 20 Sep 2005 08:19:00 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+     称不上秘密 细节罢
+     这是一部称得上伟大的电影，剧中有很多细节不知道大家是否留意：
+     * 是否记得片尾有一行字幕"in memory of allen greene"？翻译成中文就是"纪念allen greene "。allen greene是《刺激1995》编导frank darabont的经纪人，在影片完成的前夕死于aids的并发症。 
+* 是否记得刚来到监狱的新囚犯们走下囚车时，嘲笑他们的人群中有一个年轻的黑人？该演员就是片中主角老黑人red的扮演者morgan freeman的儿子。 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~演得真象

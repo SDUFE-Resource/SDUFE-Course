@@ -1,0 +1,52 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <yuan@ccert.edu.cn>; Tue, 23 Aug 2005 23:22:44 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Tue, 23 Aug 2005 23:35:51 +0800 (CST)
+Date: Tue, 23 Aug 2005 23:29:37 +0800
+From: "ning" <ning@sohu.com>
+To: yuan@ccert.edu.cn
+Cc: "yxl" <cheng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgSGlBbGyhtsfz1rBGQVGhtw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+《求职FAQ》是HiAll团队全体成员为广大在校生奉献的又一力作！在过去的日子里，HiAll团队相继为您推出了《剪裁人生》《求职胜经》等书的电子下载版，受到了大家的一致好评，在此表示感谢！不要忘记，您的关注和支持正是我们一直以来前进的动力！我们也不会忘记HiAll的宗旨和原则那就是一如既往的按照您的需要提供我们的求职资讯，我们的风采源自您的精彩！
+这本书将为您勾勒完整的求职路线，无论是横向而言，IT、传媒等不同的领域，还是纵向而言，同一领域的外企、国企、私企，在这里，您都能找到第一手的求职攻略，您的疑问也将会在这里得到答复。按图索骥，逐章阅读，您也会成为一个Hi职场新鲜人！
+本电子书目录：
+求职FAQ    0
+[前言]    20
+第1章  不同企业，不同文化    21
+1.1 国企、外企、私企的区别    21
+1.2 不同类型外企文化区别    22
+1. 欧美型企业文化：以人为本、开放民主    22
+2. 港台型企业文化：苦其心智、劳其筋骨    23
+3. 日韩型企业文化：约束个性、突出等级 1）日资企业：    24
+第2章 不同行业，不同流程    25
+2.1    一般招聘流程    25
+2.2    不同行业具体招聘流程    25
+第3章 不同渠道，不同规则    42
+3.1求职常规渠道    42
+3.2 求职特殊渠道    44
+第4章 求职的N个关键字    49
+4.1简历    49
+4.2 求职信/cover letters    50
+4.3求职笔试    51
+4.4面试    54
+4.5面试礼仪    55
+4.6电话礼仪    55
+4.7迎送礼仪    55
+4.8名片&amp;介绍礼仪    55
+4.9握手的礼仪    56
+4.10面试Tips    56
+4.11劳动合同    56
+4.12 Freshman成长手册    57
+4.13 学生VS上班族    58
+4.14了解公司的组织方针    58
+4.15 新兴花样职位    58
+附录1. 全国各地固定招聘会的时间

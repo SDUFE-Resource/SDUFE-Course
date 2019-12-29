@@ -1,0 +1,32 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <luo@ccert.edu.cn>; Sun, 21 Aug 2005 14:13:43 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <luo@ccert.edu.cn>; Sun, 21 Aug 2005 14:26:45 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 14:50:13 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: tan@126.com
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?ofEgobbHp7GtsrvX7aG3o6xnb29k?=
+Date: Sun, 21 Aug 2005 14:21:27 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+虽然算不上非常好，故事虽然算不上很精彩，情节虽然算不上有新意，内容虽然略显
+简单，但是这是一部相当好的娱乐片，也为喜剧爱情片。其中的幽默是相当精彩的，
+《干材烈火》对港片要求不高的我来说是部不错的片子，但同样由杨千桦主演的
+这部《千杯不醉》（女主角的绰号也为千杯不醉）比它要更高一筹，建议看一下。
+还有就是这样的片子在电影院看估计和在电脑上看效果差不多的，电影还不是宽银幕的。
+在此片前面看到了《世界大战》的预告，怎么感觉下面的观众没什么反应？

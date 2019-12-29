@@ -1,0 +1,24 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R2Ql7k015088
+	for <fan@ccert.edu.cn>; Wed, 28 Sep 2005 18:38:39 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8R2U2q21285;
+	Wed, 28 Sep 2005 18:41:54 +0800
+Message-Id: <200509270230.j8R2U2q21285@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 10:41:54 UT
+To: fan@ccert.edu.cn
+From: fu@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEg1eazz7XYzsrSu77koaM=?=
+
+    今天下午，新浪的专栏记者之一采访我，说你们学校一个博士生王垠
+退学了。我说这事儿不用看也知道怎么回事儿啊，不就一小破孩儿壮志未
+筹发点儿牢骚吗？退学之前他要没想好退路，或者没有一定把握找到一个
+好退路，根本没这屁事儿。
+    然后她就惊讶了一下……我回来看了看这里，觉得也没啥啊。就是没
+看到王垠自己发的那篇文章。现在就遇到了一个问题：哪位学弟学妹或者
+其他朋友给我发一篇王垠自己的那篇原创吧。让我也深入了解了解。

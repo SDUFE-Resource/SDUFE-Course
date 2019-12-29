@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <gong@ccert.edu.cn>; Thu, 1 Sep 2005 00:09:32 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 00:12:24 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 00:12:24 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 00:12:24 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 16:05:47 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 23:57:57 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 23:57:57 +0800
+From: hou@mails.tsinghua.edu.cn
+To: gong@ccert.edu.cn
+Cc: jian@ccert.edu.cn
+Date: Wed, 31 Aug 2005 23:57:57 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILK71qrO0tf2tcS21LK7o78=?=
+Content-Type: text/plain
+
+她动情比你深。
+如果你外部条件具备，和她关系推进一步也不坏。用不着躲。
+          前段时间认识一个女孩，大家也谈得来，住得也很近，经常晚上见面谈天，昨天晚上MM问我到底是不是在认真的在对待感情!!我确实当时没有考虑太多，而且并不确定对他是否真是是那种感情，本来是明天再给其答复的，但昨天晚上冲动之下就说我是一时冲动，而和她在一起(没
+         我不知做的是否正确，因为我想如果进一步发展下去，MM是个好人，但我想可能也最终会伤害她，所以割舍了!？？？？？

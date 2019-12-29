@@ -1,0 +1,27 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBHaMG026280
+	for <fu@ccert.edu.cn>; Thu, 15 Sep 2005 09:54:34 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id A7E89718597; Thu, 15 Sep 2005 10:06:25 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 139F3733E57; Thu, 15 Sep 2005 10:06:24 +0800 (CST)
+Message-ID: <053901c5b91f$8fe966d0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <mei@dlut.edu.cn>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?ofEguPfOu82s0aejusfrvau/tLK7zeq1xMrpwfS4+Mbky/vIyw==?=
+Date: Thu, 15 Sep 2005 10:06:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0536_01C5B962.9DFC0500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+自从图书馆增加借书限额后，图书馆的好书日渐减少，剩下的全是些老书和三流作者的大作。
+且不说借满，仅按借15本来说，平均两天（除去上课，做作业，运动的时间）要读一本书，估计，一个月下来，人不疯也会神经衰弱。
+所以各位同学，借书前，估计一下自己的时间，选出最想读的几本书，其余的实在没有必要屯到寝室里，像过冬一样。
+我借书是这个样子，每次借3本书（若只借一本则缺乏调剂），看完紧接着更新，一方面不用操那么多心怕把书弄丢，再者也不会影响其他人。
+谢谢大家理解
+理解万岁

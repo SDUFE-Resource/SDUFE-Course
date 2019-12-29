@@ -1,0 +1,28 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <ou@ccert.edu.cn>; Thu, 29 Sep 2005 21:11:23 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 13:22:34 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 21:22:33 CST
+Date: Thu, 29 Sep 2005 21:22:33 +0800 (CST)
+From: liang ming <zhong@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM37z/LE48C019S1xLXYt70tLcG6z/7J+b2y1/m1xLzH0uTGrLbP?=
+To: ou@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+re
+他的书俺基本都看了
+     标  题: Re: 望向你来自的地方--梁晓声讲座的记忆片断
+     
+     恩，我喜欢他的书
+     
+     : 听完讲座，觉得不错，总结一下，与大家共享吧（敲字真得很慢）
+     : 今天见了传说中的梁，觉得很儒雅，也觉得搞文学的人对社会有很深刻地了解，也明白了为何唐大（我的导师）让我选当代文学评论这门课了，看来文学反映社会还是比较丰富全面。
+     : 梁在讲座中提到了人文精神，大为感叹现在中华文化的迷茫浮躁和根基缺失，他说人文在西方成为一种主义已经有200年，西方人天天在讲人文精神，并且体现在社会生活的各个方面，比如《指环王》，中国孩子看了只能惊叹其中的电脑特技，并没有看到渗透在其中的责任感，友情，

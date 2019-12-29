@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ID8DYi008045
+	for <wua@ccert.edu.cn>; Mon, 19 Sep 2005 20:27:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8IDJqRe004245
+	for <wua@ccert.edu.cn>; Mon, 19 Sep 2005 20:38:39 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 19 Sep 2005 12:18:16 -0000
+Message-ID: <017301c5bc53$c8f1e290$787d6fa6@hotline>
+From: "fan" <fan@mail.tsinghua.edu.cn>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvH673Mx+W7qrjfssXJ+l3Su7XAuN/W0Mr90afBqsj8zOLEvw==?=
+Date: Mon, 19 Sep 2005 20:39:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0170_01C5BC96.D6F872D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+首先2000人是可能的，一种简单的解释：假设题目有ABCDEF六道，让每人做对三题且分布为
+ADF,ACE,BCF,BDE各五百人，这样就保证了每题一千人做对且任意两人不“互补”。
+如果少于2000人，比如1999人，则根据抽屉原理，答对题数最多的那个人答对至少四题，做如下分析：
+若此人答对四题，比如ABCD，则E和F在另外1998人中不可以被同一人答出，根据抽屉原理显然不可能；
+若此人答对五题，则意味着还有一题不能被别人答出，不可能；
+此人答对六题显然不行。故参加考试的至少2000人。
+一群学生参加考试，试卷都是一样的，每张试卷有6到题目
+考完试后，发现每道题目都恰好有1000人做出
+若找不到2人，使任一道题目至少被2人中1人答出（也就是任意2人不可能一起把题目都做出
+）
+问至少有多少人参加比赛？

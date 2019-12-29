@@ -1,0 +1,43 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <xing@ccert.edu.cn>; Fri, 23 Sep 2005 19:34:32 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <xing@ccert.edu.cn>; Fri, 23 Sep 2005 19:45:53 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 11:22:53 -0000
+From: "weng" <weng@mail.tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Cc: <ou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvQobX3suldx+u498670dDT0bbgtuCw78OmIKO6LaOp?=
+Date: Fri, 23 Sep 2005 19:45:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+1）B
+2）我现在还在re你这篇文章，你说该选什么
+     标  题: [小调查]请各位研友多多帮忙 ：-）
+     
+     1）您现在处于读研的哪个阶段？
+     
+     A：课程学习（一般可以认为是一年级的同学）
+     B：科研阶段
+     
+     
+     2）您非节假日一般几点起床？
+     
+     A：7点左右，一般都是作息很规律的同学
+     B：7:30左右，一般是为了上第一大节课
+     C：8:00-8:50am，一般是为了9点钟去实验室工作 或者去上第二小节课
+     D：9点半左右，一般是为了上第二大节课
+     E：超过10点，一般是熬夜过度......
+     
+     就这两个问题，谢谢大家啦 ：-）
+     
+     --
+     

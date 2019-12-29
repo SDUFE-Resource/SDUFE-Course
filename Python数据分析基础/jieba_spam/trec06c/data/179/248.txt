@@ -1,0 +1,50 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <long@ccert.edu.cn>; Sat, 24 Sep 2005 19:23:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <long@ccert.edu.cn>; Sat, 24 Sep 2005 19:35:07 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 11:12:13 -0000
+From: "peng" <peng@mail.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Cc: <lei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09rN9dvzyqbQ1rXEzsrM4rXEyPS4ydLJu/M=?=
+Date: Sat, 24 Sep 2005 19:34:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+ paper的确没用 ieee数据库里面烂文无数
+ 不过没paper就不能毕业和评职称 中国国情
+ 老外其实也差不多 但是老外当faculty考察独立工作得能力＋教育背景 出身之类得
+ 等你到一定高度 paper是自然出来得 但是国内很难到这个层次
+ 
+     标  题: 关于王垠师兄的问题的若干疑惑
+     
+      我是本校一名大四的学生
+     首先,声明我绝对从精神上,是支持这位师兄的
+     虽然之前并未曾闻过其名,其实在很多时候,我
+     也是一个理想主义者
+     我的疑问是:
+     其一,几乎所有搞科研的人都是在追求paper数目
+     这是绝对没错的.在中国如此,不知道在外国又没
+     有差别.我完全不了解,不敢妄下结论.
+          在这里,我要问的重点是,难道每个老板都会
+     做到象他的老板们这么绝情,连表面上功夫都不多
+     做点给他看看.
+     
+     其二,我是一个理科生,正处在推研的紧张阶段,这
+     个时候想到的一个相关问题当然是如果推研失败
+     要何去何从的问题.其实我从来不认为找工作就比
+     读个研更失败.我想的是,在大学四年学的这些理科
+     的东西,在找工作时是派不上什么用场的.难道就叫
+     我们这样的理想主义者丢掉这几年的东西,象个高中
+     毕业生一样去只身打拚么?
+     --
+     
+※ 修改:・S0S0 于 Sep 24 15:08:14 修改本文・[FROM: 210.77.27.*]

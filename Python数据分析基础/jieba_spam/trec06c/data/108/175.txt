@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j87BlNH3002554
+	for <qiu@ccert.edu.cn>; Fri, 9 Sep 2005 23:46:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j87Bxb76001146
+	for <qiu@ccert.edu.cn>; Fri, 9 Sep 2005 23:59:02 +0800 (CST)
+Message-Id: <200509071159.j87Bxb76001146@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 9 Sep 2005 15:44:29 -0000
+From: "sun" <sun@mail.tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+Cc: <xin@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtcvQoca9vq28w8u8z+vQwsy9oaqhqtPrw6vU87arvq28w8u8z+vWrrHIvc8=?=
+Date: Fri, 9 Sep 2005 23:58:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C5B3E6.AA53DD40"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzo5wDUyjmuLAhQNybYzBBmyxuiw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+邓小平经济思想新探――与毛泽东经济思想之比较 
+【专业】经济思想史 
+【导师】郑学益 　　　　 
+【导师单位】北京大学 经济学院　　 　　
+【中文摘要】探索中国式的社会主义道路，实现中国的社会主义现代化，是毛泽东邓小平两代领导人共同的宏伟愿望，两位领导人都在认真分析中国国情的基础上提出了实现我国社会主义现代化的思想。然而由于他们各自所处的国内外政治经济环境不同，对社会主义本质的认识也不同，所以两位伟人对现代化的内涵、实现现代化的途径和动力，及实现现代化的过程的分析论述都存在很大的差异。如果说毛泽东是我国社会主义现代化建设的开拓者和奠基人的话，那么邓小平就是我国现代化建设的继承人和突破者，邓小平在继承毛泽东思想精髓的基础上，提出并健全了建设有中国特色社会主义理论；社会主义经济发展战略是实现两位伟人终身奋斗目标的关键，不同的经济发展目标和不同的时代背景决定了两位伟人不同的经济发展战略，邓小平在借鉴毛泽东思想的基础上，提出了“三步走”战略、科教兴国战略、先富带后富战略以及对外开放战略，这些战略都是在毛泽东几十年社会主义经济建设实践的经验总结基础上发展起来的，而且也是已经被20年改革开放证明了的科学真理；社会主义经济发展模式是邓对毛社会主义经济建设理论突破最大、创新最多的部分，在经济体制模式上，邓小平彻底地摆脱了市场姓“社”姓“资”的困惑，突破了毛一贯坚持的单一计划经济体制，提出建立社会主义市场经济体制：在所有制模式上，邓小平也打破了毛固守的单一公有制模式，提出在当前我国生产力水平落后的条件下，应该鼓励多种所有制共同发展，以“三个有利于”为判断所有制模式的标准；在分配模式上，邓小平彻底否定了毛主张的平均主义的供给制，提出按劳分配为主，其他分配方式为辅的模式：在经济发展的产业模式上，邓小平继承了毛产业发展思想中科学合理的部分，同时发展了自己的产业发展思想，他更加重视了农业、基础产业和高科技产业的发展。 

@@ -1,0 +1,28 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <cai@ccert.edu.cn>; Tue, 27 Sep 2005 22:14:21 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 14:25:32 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 22:25:31 CST
+Date: Tue, 27 Sep 2005 22:25:31 +0800 (CST)
+From: liang ming <hua@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgzsq49rnY09qxqMP7tcTOyszioa2hrQ==?=
+To: cai@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+地址和户口档案所在地必须一样吗？？
+我现在人在北京，本来是在这工作的，准备辞职考研，继续在北京复习、考试，也就是说考试地点肯定是北京了
+但是我户口和档案都在原籍……
+现在知道户口不在北京也可以在北京考
+但是联系地址必须写北京的地址吗？
+辞职之后，单位宿舍就住不成了，必须得租房子，举目无亲的，也找不到个可靠的人替我接收复试通知或者其他的东西，租来的房子通信地址要么干脆没有，要么有但是不知道好不好用，比如某小区某号楼某单元某户……万一居委会大妈忘了这茬，就死定了
+寄回家倒是保险，但是家不在北京，还有要寄的话只能寄给父母，然后转交。
+那地址能不能写北京以外的地方，收信人可以写别人，然后转交给自己吗？
+或者能不能到时候自己去学校取复试通知，如果能有机会复试的话，省掉邮寄？

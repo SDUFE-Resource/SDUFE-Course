@@ -1,0 +1,43 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <jin@ccert.edu.cn>; Thu, 22 Sep 2005 22:37:01 +0800 (CST)
+Received: (eyou send program); Thu, 22 Sep 2005 22:26:01 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 22 Sep 2005 22:26:00 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Thu, 22 Sep 2005 22:26:00 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 14:26:00 -0000
+From: "xie" <xie@mail.tsinghua.edu.cn>
+To: jin@ccert.edu.cn
+Subject: =?gb2312?B?ofEgKioqSUVFRSAyMDA2xOq2yNGnyfq74dSx16Ky4c2o1qoqKiogKNeq1Ngp?=
+Date: Thu, 22 Sep 2005 22:48:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+【 以下文字转载自 IEEEINFO 讨论区 】
+发信人: jackghost (小脸盆儿大轮胎), 信区: IEEEINFO
+标  题: ***IEEE 2006年度学生会员注册通知***
+加入IEEE成为学生会员的好处
+经济方面：
+    可以按会员价格订购IEEE所有的出版物
+   凡参加IEEE举办的学术会议，注册费将获得很大的优惠，此优惠相对于学生会员申请费用而言是可观的   
+学术方面：
+    发表在IEEE及其分会直接主办的国际学术会议上的文章可以代替博士生论文答辩要求的核心期刊文章
+    可以和国际上的同行专家建立联系，开展各种交流和合作活动
+    可以收到有关自己专业的技术信息和会议消息
+    发表IEEE主办国际学术会议的论文，有可能获得IEEE提供的奖学金。有的金额在1.5万美元以上
+其他方面：
+    可以获得一个IEEE网上的终身email地址
+注意：时间和地点
+时间：9.26 ~ 9.28 中午 12:00~14:30
+    地点：FIT 大楼 三区 502 , FIT楼在东门旁，进门左手边楼，具体位置请参见FIT楼内指示牌。
+会有我们工作人员配合大家
+信息学院的同学注册可以使用转账单
+注意:具体的注册的流程和Society的费用请参考附件
+可以直注册基本会员就成Society的费用会提供额外的杂志

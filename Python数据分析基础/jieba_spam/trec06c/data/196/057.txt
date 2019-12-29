@@ -1,0 +1,27 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <zhuang@ccert.edu.cn>; Wed, 28 Sep 2005 05:28:21 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 21:39:31 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 05:39:31 CST
+Date: Wed, 28 Sep 2005 05:39:31 +0800 (CST)
+From: liang ming <gan@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IGdmsbvIy7HtsNc=?=
+To: zhuang@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+嗯，是啊！她比较容易被人表白，一年多，都有好几次了。以前每次都让我比较不爽。
+现在我的想法是，这种事情不告诉我比较好，我应该相信她自己能处理好。我对她好就
+行了，不用担心这担心那的。真是自己的就不会走。
+这样想合适否？
+呵呵，mm要是干脆点儿骗我说去弄个海报、板报什么的就好了。
+     恩，最好的处理方式就是你mm自己解决好了，就不用告诉你
+     这样你也不会瞎想，她也不会觉得有压力
+     其实出现这样的情况说明你mm不错才是，呵呵，至少魅力挺大

@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <tian@ccert.edu.cn>; Mon, 22 Aug 2005 05:11:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <tian@ccert.edu.cn>; Mon, 22 Aug 2005 05:24:51 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 21:19:28 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "sun" <sun@mail.tsinghua.edu.cn>
+To: tian@ccert.edu.cn
+Cc: "tunet" <wua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFu6z7yvXSDM/bTzvNK2vMu1u6rOqqOsztLSssu1wb2+5A==?=
+Date: Mon, 22 Aug 2005 05:21:14 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+嗯，看来是老手。网速太慢，学习着。。。。
+不过有两点你没有弄清楚：
+1，华为中兴的比较不是我写的，我不了解中兴，不敢写这种比较
+2，我没有拼命维护华为。我说过，华为是怎样就是怎样的。
+既然常和华为打交道，那以后碰面的机会是有的。
+             今天看大家谈的很兴起，我也来谈两句。
+             因为和华为打的实在是太多了，所以对华为不敢说了解，但是也还是知道一些。
+             看了前面两个哥们说的，代表了两种观点，我总结一下：

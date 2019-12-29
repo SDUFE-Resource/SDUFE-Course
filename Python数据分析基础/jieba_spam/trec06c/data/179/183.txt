@@ -1,0 +1,27 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 18:27:03 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 17:49:21 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "rao" <rao@cert.org.cn>
+To: hua@ccert.edu.cn
+CC: "mei@ccert.edu.cn" <ye@ccert.edu.cn>,
+   "bi@ccert.edu.cn" <long@ccert.edu.cn>,
+   "han@ccert.edu.cn" <tu@ccert.edu.cn>, "jin@ccert.edu.cn" <ning@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsrOw9fTtqPBy7Cs18yyocjLo6zU2baiztK74bK7u+G0q8i+o78=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 18:34:48 +0800
+
+如果蚊子刚叮了一个发病的病人，它身体中不到一毫升的血中也不会有多少病菌
+而且病菌离开人体有存活时间，除非它刚叮完艾滋病人，马上就叮你
+这种几率太小太小了，发病的病人都会在专门的医院了
+如果你实在不放心，觉得你有过与艾滋病接触的可能，可以做自愿检测，免费的
+一个星期就可以知道结果
+     反正我觉得是个概率问题
+     比如乙肝病人发病后，血液里的病毒浓度非常高
+     这个时候有蚊子，就比较可怕了

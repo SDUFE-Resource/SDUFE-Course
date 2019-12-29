@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <wei@ccert.edu.cn>; Sun, 21 Aug 2005 22:32:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <wei@ccert.edu.cn>; Sun, 21 Aug 2005 22:45:32 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 14:40:09 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "xiao" <xiao@mail.tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Cc: "tunet" <gong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILXa0rvGqrei1Nq/vNHQsOY=?=
+Date: Sun, 21 Aug 2005 22:41:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+退学出国该受罚？
+(8月11日17:12)
+ 
+　　２月２８日，《中国青年报》收到一位清华大学研究生的“投诉信”。信的原文是这样的： 
+　　我们是清华大学的在校研究生，在此向您们反映一个情况。 
+　　在清华大学，每年都有一些硕士生、博士生自愿退学赴国外继续深造。除按有关教育主管部门和校方规定缴清教育培养等费用外，还须向所在系缴纳“退学协议”违约金。这份协议书实则是一张系方事先拟好的数万元高额罚款单。系方要求每个研究生在入校前必须在此协议书上签名，否则不予注册或不发给学生证。该协议规定：不得以任何理由中途退学（除病外），否则须向所在系缴纳违约金。签署的协议书一式一份，并未明确签署双方的权利和义务，未经现场公证即被系方收存。　　 
+　　请问您们认为这样的协议书具有法律效力吗？这样的“违约金”合理吗？我们是否应当缴纳“违约金”？　　 
+　　真诚感谢您们的帮助和指导！ 
+　　此致敬礼！ 
+　　以下是清华大学某系学生小李在来信中提到的保证书： 
+　　 
+　　　　　　　保证书 
+　　清华大学×××系： 
+　　我保证按学校及系里的规定，在确认免试推荐研究生资格后，不以任何理由反悔违约；同时在入学后，保证按教学计划的要求，全面完成学业，不无故中途退学。如反悔违约或入学后中途退学，愿按规定向学校交纳教育资源补偿费2．5万元。 
+　　保证人报考系： 
+　　报考专业： 
+　　保证人签字： 
+　　清华大学×××系 
+　　年

@@ -1,0 +1,49 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U301rY010973
+	for <long@ccert.edu.cn>; Sat, 1 Oct 2005 01:37:51 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s67T079931
+	for <long@ccert.edu.cn>; Sat, 1 Oct 2005 01:32:35 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.200])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s2q2079927
+	for <long@ccert.edu.cn>; Sat, 1 Oct 2005 01:31:52 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id t9so856482wxc
+	for <long@ccert.edu.cn>; Fri, 30 Sep 2005 10:48:06 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=W8KmBVYgtJQpTKJHhyqBPQpNMrndwd0y2MpDtldR3I4RhE6Kc4T1HsM706J0vp9CsI6L8ZXwRUVAEpb0VeWHwwgHOmzIJg3N5ezU1rxXNE5OB77ZnjAGIUptwrX52M2CpQAbjQGH9u8CAY2rjKNU/w6Ll7Ao3skKpgKarKaNhNI=
+Received: by 10.70.28.8 with SMTP id b8mr798445wxb;
+	Fri, 30 Sep 2005 10:48:06 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Fri, 30 Sep 2005 10:48:06 -0700 (PDT)
+Message-ID: <a00ed9800509292010qaccea32sfc4e2251cb90c982@mail.gmail.com>
+Date: Fri, 30 Sep 2005 10:48:06 -0700
+From: Shaozhi Ye <gong@gmail.com>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3G0dDLxLSmxfax2qOstPO80rj4ztKz9rP21vfS5bDJo6y40Lyksru+oQ==?=
+In-Reply-To: <200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+	<200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j8U2s2q2079927
+Precedence: list
+Reply-To: Shaozhi Ye <gong@gmail.com>
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+这种待遇估计只有各省的前几十名有戏，其他就算了吧，还要在你没填志愿的前提下
+而且高考填志愿的时候，你上线了的前提下，第一志愿填的是清华，不可能去第二志愿的北大。（顺便说说，这种事我当年还干过，当年我们那北大分数比清华低。从上到下是：清华，北大，中科大，复旦，上交。那叫一个壮观啊！）
+     很明显他现在选择的两个系水平差不多
+     假如清华和北大在高考的时候都要你（你暴牛），但是不给你任何考虑的时间
+     你一考虑，两个学校都没戏，你会作何感想？

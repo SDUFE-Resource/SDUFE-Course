@@ -1,0 +1,31 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <qian@ccert.edu.cn>; Tue, 27 Sep 2005 23:52:56 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 16:04:03 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 00:04:03 CST
+Date: Wed, 28 Sep 2005 00:04:03 +0800 (CST)
+From: liang ming <hou@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+To: qian@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+图大利和图小利本质上没有区别， 除非你是不图利那种，否则没必要鄙视。
+     标  题: Re: 请问各位大牛做了什么比王垠更了不起的事了
+     
+     大利与小利
+     许多人往往选择了小利
+     
+     
+     : 如果制度有益于自己,那当然安于
+     : 否则就去尽力搞掉,这有什么好鄙视的,换了你不也是这样做么? 
+     
+     
+     --
+     

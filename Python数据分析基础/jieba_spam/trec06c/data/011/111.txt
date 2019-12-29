@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7FBL9jQ015986
+	for <yan@ccert.edu.cn>; Fri, 19 Aug 2005 10:23:24 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7FBr5I2010935;
+	Fri, 19 Aug 2005 10:55:20 +0800
+Message-Id: <200508151153.j7FBr5I2010935@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 10:36:20 +0800
+From: "gu" <gu@mail.nisac.gov.cn>
+Reply-To: gu@mail.nisac.gov.cn
+To: yan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvM3E7g==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+一起走过的日子太多太多，你说我们在一起一年经历的事情相当于别人3年。
+昨天大雨，下班的时候我在大厦门口看着大雨正在犹豫是否冲进大雨，抬头看见了你，没有往日的亲密，就说了声你好。你站在我面前犹豫了一下，说，你自己在这里等着打车回家吧，就不顾雨大跑进雨里走远了
+想起某年某月的某一天，我们漫步在闹市街头，路灯下你突然将我抱起，我惊诧、羞涩，从那以后我们恋爱了
+去年冬天每天晚上下班你都送我回家，不管我加班到多晚。真幸福，你让我一个冬天都没有感觉到寒冷。。。今年冬天我不知道自己要怎么过
+可以回忆的事情太多太多，可是又有太多的现实我们不能逾越，希望你以后能够幸福，也同样祝福自己找到一个好的归宿。

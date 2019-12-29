@@ -1,0 +1,42 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <ma@ccert.edu.cn>; Mon, 19 Sep 2005 19:08:14 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Mon, 19 Sep 2005 11:19:15 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Mon, 19 Sep 2005 11:19:15 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <ma@ccert.edu.cn>; Mon, 19 Sep 2005 04:30:12 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <ma@ccert.edu.cn>; Mon, 19 Sep 2005 06:27:38 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 19:19:02 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <zhan@motorola.com>
+To: ma@ccert.edu.cn
+Cc: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILu7uPa/07DJo6zO0tPQuPa3uMTRtcTKwg==?=
+Date: Mon, 19 Sep 2005 19:18:36 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+结合上一篇你说的现状，正好，让你家幽灵出去摆酒请客，你和孩子在家躲着
+让他做做坏人多赔赔罪就可以了。带上孩子的相册作为替代
+     标  题: Re: 换个坑吧，我有个犯难的事
+     
+     还礼是肯定不会的，而且吃一次饭也抵不上这个人情啊，
+     就是觉得人家送了东西我们不能没个表示
+     : 想请就请，别把这个当成还礼
+     : 不过我是不主张请客，那么小的孩子，好几十人过来摸摸，亲亲，抱抱，我觉得很不爽。
+     
+     
+     --
+           

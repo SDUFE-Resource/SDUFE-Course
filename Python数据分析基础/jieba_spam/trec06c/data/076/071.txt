@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j826MNsm028905
+	for <zheng@ccert.edu.cn>; Sat, 3 Sep 2005 02:20:45 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j826YvNG017832
+	for <zheng@ccert.edu.cn>; Sat, 3 Sep 2005 02:33:15 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Fri, 2 Sep 2005 18:21:26 -0000
+Message-ID: <00b101c5af87$e9547800$787d6fa6@hotline>
+From: "rao" <rao@mail.tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsrvWqrXAuMOyu7jDyfrG+KO/?=
+Date: Sat, 3 Sep 2005 02:29:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00AE_01C5AFCA.F7623430"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+   昨天我爸妈和我哥女朋友的妈妈正式见了面提亲，结果她妈妈说让我们家出10多万块钱，作为彩礼。还说她们那里农村结婚都得花10多万块钱。我哥和她女朋友都是中专毕业，在中部地区的一省会城市工作，我哥每月1000块钱的工资。所以昨天说着的时候我爸妈和她妈妈就言语不合了，我哥也生气了，事后他女朋友抱怨我哥不懂事。
+  事实上我们家现在我爸爸、我的工资加上我哥的一年也差不多能拿出来，就是不想拿，也不看看自己什么条件就狮子大开口。本来想帮助他们买房子，现在决定不买了。爱怎么着怎么着。
+  她妈妈说我们家骗他们了，说连个房子都没有。事实上，那个女孩子长得不高，也不好看，只是我哥年龄也有27了，而且是乙肝携带者，所以就忍让了他们一把，结果他们得寸进尺，要求越来越高，还说如果不拿出10多万就让我们开车去他们家把她女儿娶过去，我们两家相距超过600里。
+  我爸妈意见是不同意这门婚事了，我哥没有发表意见。他女友也没说分不分手。我不在现场，但是我很生气，尤其是讨厌她妈妈。

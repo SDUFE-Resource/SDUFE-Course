@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AF39fI030243
+	for <wu@ccert.edu.cn>; Sun, 11 Sep 2005 18:20:04 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AF0L4C093997
+	for <wu@ccert.edu.cn>; Sun, 11 Sep 2005 18:17:34 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8AF0IZY093993
+	for <wu@ccert.edu.cn>; Sun, 11 Sep 2005 18:17:12 +0800 (CST)
+	(envelope-from mayuanchen@tsinghua.org.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 18:36:37 +0800
+Message-ID: <326365583.28602@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: mayuanchen@tsinghua.org.cn
+Received: from unknown (HELO mayc-d400) (220.207.80.1)
+	by 210.77.143.232 with SMTP; Sun, 11 Sep 2005 18:36:37 +0800
+From: "qian" <qian@tsinghua.org.cn>
+To: wu@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [TOEFL] =BD=CC=CA=A6=BD=DA=BF=EC=C0=D6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Date: Sun, 11 Sep 2005 18:29:26 +0800
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0061451654=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+hopeluck (陈靖～天道酬勤・醉中醒・戎装・盐) 共上站 924 次，发表过 9494 篇文章
+上次在  [Sun Sep 11 22:38:22 2005] 从 [221.219.70.228] 到本站一游。
+离线时间[因在线上或非常断线不详] 信箱：[  ] 生命力： 身份: [版主]。
+目前在站上，状态如下：
+发表文章 查询网友                                                              
+个人说明档如下：                                                               
+If you are a teardrop in my eye, for fear of losing you,I will never cry.

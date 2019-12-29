@@ -1,0 +1,32 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <xin@ccert.edu.cn>; Fri, 26 Aug 2005 16:49:30 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 17:07:53 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 17:07:53 +0800
+Date: Fri, 26 Aug 2005 17:07:53 +0800
+From: han@cernet.com
+Subject: =?gb2312?B?UmU6INbQv8bUurGj0dC7+rvh?=
+To: xin@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+现有信息安全国家重点实验室下属的国家计算机网络入侵防范中心（隶属中科院）招收保研名额 2~3 人，专业：信息安全专业，有意者请发简历至 zhouj@nipc.org.cn  或 zhangyq@nipc.org.cn ，电话：010-68860988  
+要求：
+1、专业：计算机、通信、电子、数学、密码学、信息安全等
+2、英语过6级
+3、211高校
+4、专业排名10%以内
+        ~~~~~~~~~~~要求这么高啊！        
+国家计算机网络入侵防范中心简介
+    国家计算机网络入侵防范中心（以下简称中心），是国家应急响应体系的一个固定技术支撑机构。
+    中心以保护我国网络空间安全为综旨，主要从事黑客防范技术的研究，占领网络安全的技术制高点，作为国家计算机网络与信息安全的依靠力量，承担和协调国内各种黑客事件的防范处理，协助国加有关部门完成关键部分的应急处理任务，协助解决社会上的应急/救援组织难以解决的网络安全疑难问题，是国家计算机网络应急处理体系中心的重要部门。

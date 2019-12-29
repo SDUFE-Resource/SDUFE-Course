@@ -1,0 +1,31 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j875hi24000645
+	for <long@ccert.edu.cn>; Fri, 9 Sep 2005 14:45:10 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMF00DGINE211@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 9 Sep 2005 15:02:40 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Wed,
+ Fri, 9 Sep 2005 15:02:40 +0800
+Date: Fri, 9 Sep 2005 15:02:40 +0800
+From: su@cernet.com
+Subject: =?gb2312?B?UmU6IMTjw8fU9cO0trzV4sO0xNy54LCh?=
+To: long@ccert.edu.cn
+Message-id: <3ad323df3a.3df3a3ad32@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+8849  ◇  Boy               [感性]      男孩子                 14 NalaFish
+1096  ◇  CampusLife        [校园]      大学生活                2 wcgbrain
+1467  ◇  Freshman          [校园]      新生・年轻・起飞        5 ninayoung
+2918  ◇  Friends           [感性]      好朋友在一起            4 thanosx
+6935  ◇  Girl              [感性]      女孩子                 37 wsn2002
+这是我某个文件夹里的定制区
+        发现很多水车都在这个几个版一起灌
+        而我在这些地方灌的很少
+     ctrl a 一下你，就知道你有多虚伪了。

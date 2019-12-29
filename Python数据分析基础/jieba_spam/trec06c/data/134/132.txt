@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <ling@ccert.edu.cn>; Thu, 15 Sep 2005 07:21:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <ling@ccert.edu.cn>; Thu, 15 Sep 2005 07:33:28 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 23:14:58 -0000
+From: "lai" <lai@mail.tsinghua.edu.cn>
+To: ling@ccert.edu.cn
+Cc: <yang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7KuPa80sDvucy2qLXnu7C1xM7KzOI=?=
+Date: Thu, 15 Sep 2005 07:33:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+去电话局查清单吧
+160分钟不可能这么贵
+     标  题: 问个家里固定电话的问题
+     
+     我们是合租，3个人。我统计了一下，上个月打了160多分钟电话，误差不会超过30分钟。另外两个人说基本上没用过。
+     
+     结果电话费是80多，包括了21的月租费。
+     
+     请问现在家庭电话的市话怎么算的，版上有没有人知道？
+     
+     --
+     

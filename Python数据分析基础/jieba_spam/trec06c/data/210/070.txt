@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8SBi0E8029027
+	for <fu@ccert.edu.cn>; Fri, 30 Sep 2005 17:55:59 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SBtAlB017695
+	for <fu@ccert.edu.cn>; Fri, 30 Sep 2005 18:07:09 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 30 Sep 2005 09:41:25 -0000
+Message-ID: <000c01c5c423$728140e0$0c42423b@tunoc1a645037e>
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsbG+qcSz1qTIr7mry76zz8a41a7Ir6GivfDI2rmks8zR0L6/yrXPsMn6?=
+Date: Fri, 30 Sep 2005 18:06:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C466.808A4220"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+北京某较有实力的证券公司欲招聘债券研究员4人、金融工程研究员2人、产品设计师2人。
+     工作性质：全职实习
+     招聘人选条件：
+     1、具有数理统计和经济学（金融学）教育背景；
+     2、有相关领域学习研究经验1年以上，其中金融工程研究员要求从事过风险控制、基金业绩评价或衍生产品等方面的研究为时1年以上；
+     3、事业心强，具有较强的团队合作精神
+如果实习期间表现良好,可以被公司以有竞争力的薪酬录用.
+合适者请将简历发至：firstlu1@yahoo.com.cn；

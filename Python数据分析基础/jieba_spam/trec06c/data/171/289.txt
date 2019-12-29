@@ -1,0 +1,38 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M5vbgt005692
+	for <yan@ccert.edu.cn>; Fri, 23 Sep 2005 09:02:45 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8M5qUEM011899
+	for <yan@ccert.edu.cn>; Fri, 23 Sep 2005 08:58:35 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8M5qPKG011895
+	for <yan@ccert.edu.cn>; Fri, 23 Sep 2005 08:57:36 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 19856 invoked by uid 512); Fri, 23 Sep 2005 01:05:59 -0000
+Message-ID: <20050922060051.19855.qmail@stu.ee.tsinghua.edu.cn>
+From: tan@stu.ee.tsinghua.edu.cn
+To: yan@ccert.edu.cn
+Date: Fri, 23 Sep 2005 09:05:59 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?UmU6IL3xzOy5xMbw08LG+M/ybW2x7bDXo6y1w7W91eLR+dK7uPa72Li0oaM=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+"你可以想象，如果她很讨厌你或者根本不想接受你的话，怎么可能去写诗？啧啧！也许会有例外的，但是小概率事件实在不需对之进行过分的心理准备。"
+zz from xiaoyu2\'s blog 
+http://www.newsmth.org/pc/pccon.php?id=3621&amp;nid=165739&amp;s=all
+          若非流光度，何苦为难归，不是久远心，又怎落浮云，了不了，何必草？弦断也听音.
+         大家帮忙分析分析啊，不甚明了，看看我还有希望没有？

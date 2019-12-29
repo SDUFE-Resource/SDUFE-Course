@@ -1,0 +1,54 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <ye@ccert.edu.cn>; Sun, 28 Aug 2005 02:36:49 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 02:47:22 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sun, 28 Aug 2005 02:47:22 +0800
+From: "zhuang" <zhuang@ctbu.edu.cn>
+To: ye@ccert.edu.cn
+Date: Sun, 28 Aug 2005 02:47:22 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "zhuang" <zhuang@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgudjT2rO1wb65pLPM?=
+Content-Type: text/plain
+
+初试
+427
+ 控制工程基础
+ 《控制工程基础》
+ 清华大学
+ 董景新
+ 
+428
+ 应用电子学
+ 《模拟电子技术基础》
+ 高等教育出版
+ 童诗白
+ 
+《数字电子技术基础》
+ 高等教育出版社
+ 阎石
+ 
+ 431
+ 工程力学
+ 《理论力学》上下册
+ 高等教育出版社
+ 哈工大理力教研组
+ 
+《材料力学》
+ 高等教育出版社
+ 刘鸿文
+ 
+《材料力学》
+ 高等教育出版社
+ 孙训芳
+ 
+三门任选一门，教材书店就能买到，清华的练习册只有托同学买了
+历年试题考研共济网有卖
+复试
+汽车理论（第三板），清华大学 余志生 主编，机械工业出版社；书店有售
+汽车设计（第二版），吉林工业大学 张洪欣 主编，机械工业出版社
+已经绝版，市面上没有，清华和吉林大学南岭校区图书馆里有，超星图书馆也有
+试题无法弄到

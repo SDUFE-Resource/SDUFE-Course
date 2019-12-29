@@ -1,0 +1,49 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8V0cL023464
+	for <lei@ccert.edu.cn>; Fri, 19 Aug 2005 07:46:27 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 40F4F0045593
+	for <lei@ccert.edu.cn>; Fri, 19 Aug 2005 07:59:45 +0800 (CST)
+Date: Fri, 19 Aug 2005 07:53:51 +0800
+From: "lian" <lian@sohu.com>
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgz9bV0Ma4Rmxhc2i438rWKLzm1rCjqQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084420.40F4F0045593@sohumx06.sohu.com>
+
+普佳（中国）致力于为公司提供移动市场营销方案以及为品牌、代理和分销商提供手机折价券等服务。
+现招聘Flash高手(兼职）
+注明:
+1 水平要高，最好有作品。(初级者勿扰)
+2 工作期可兼职或是休息时间工作
+3 诚信可靠,不得不负责任
+4 良好的交流沟通能力和团队意识。能及时把握客户需求，有独特的创意。
+5 可以用英语进行交流。
+6 熟练使用FLASH、Photoshop、Dreamweaver等设计软件，了解HTML、CSS、JavaScript；
+7 在校学生及设计专业毕业优先
+8 请把个人简历、作品以及期望薪水发送到:yufeng@cn.puca.com
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+Puca China focus on mobile marketing solutions and Mobile coupon for brands, agencies, and retailers.
+Flash Developer(part time job)
+Puca China are looking for an Flash Developer to work on a mixture of web and software for a variety of internal and commercial projects. As the successful candidate you will need to have: 
+Very strong graphic skills (a Graphic Diploma/Degree an advantage)
+Strong FLASH,Photoshop and Dreamweaver needed
+Sound web interface design skills
+Sound knowledge in 
+Illustrator/Freehand 
+ImageReady 
+HTML 
+CSS 
+JavaScript
+The Person 
+Will have a can-do attitude and like being challenged. 
+Have the ability to work in a tight team, with excellent time management, prioritising and problem solving skills. 
+Have strong effective communication skills. 
+Will preferably have English skills spoken/written CET-4, CET-6 (Not essential). 
+Experience with portal design desirable 
+If you are interested in this role please forward your resume in Chinese and English, along with your portfolio of work (include a minimum of 1 case that you have designed), along with your salary expectation to us.
+Email:yufeng@cn.puca.com

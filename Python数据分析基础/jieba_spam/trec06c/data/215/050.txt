@@ -1,0 +1,48 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U301rY010973
+	for <tu@ccert.edu.cn>; Sun, 2 Oct 2005 12:31:40 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s67T079931
+	for <tu@ccert.edu.cn>; Sun, 2 Oct 2005 12:26:24 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.200])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s2q2079927
+	for <tu@ccert.edu.cn>; Sun, 2 Oct 2005 12:25:41 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id t9so856482wxc
+	for <tu@ccert.edu.cn>; Sat, 1 Oct 2005 21:41:55 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=W8KmBVYgtJQpTKJHhyqBPQpNMrndwd0y2MpDtldR3I4RhE6Kc4T1HsM706J0vp9CsI6L8ZXwRUVAEpb0VeWHwwgHOmzIJg3N5ezU1rxXNE5OB77ZnjAGIUptwrX52M2CpQAbjQGH9u8CAY2rjKNU/w6Ll7Ao3skKpgKarKaNhNI=
+Received: by 10.70.28.8 with SMTP id b8mr798445wxb;
+	Sat, 1 Oct 2005 21:41:55 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Sat, 1 Oct 2005 21:41:55 -0700 (PDT)
+Message-ID: <a00ed9800509292010qaccea32sfc4e2251cb90c982@mail.gmail.com>
+Date: Sat, 1 Oct 2005 21:41:55 -0700
+From: Shaozhi Ye <yu@gmail.com>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNK+9bXD1eLM9bbM0MXq08PBwvCjvw==?=
+In-Reply-To: <200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+	<200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j8U2s2q2079927
+Precedence: list
+Reply-To: Shaozhi Ye <yu@gmail.com>
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+您想的太多了，这东西，得拿的起放的下
+     短信内容是：
+     师兄是今天下午回家吗？在家多待几天好好陪一陪爸爸妈妈吧，预祝节日快乐！btw：庆相识一周整：）
+     是我主动去认识师兄的，对他也确实有企图，认识一周以来表现得也比较明显，师兄从一开始也是知道的，而且感觉他对我也是蛮有好感的，之前都比较顺利，可是为什么今天中午给他发了这条消息，他到现在还没有回复？是这条短信有什么问题吗？

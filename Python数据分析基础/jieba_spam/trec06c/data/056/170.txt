@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <yi@ccert.edu.cn>; Mon, 29 Aug 2005 21:44:03 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 21:48:26 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 29 Aug 2005 21:48:26 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Mon, 29 Aug 2005 21:48:26 +0800
+From: "li" <li@mail.tsinghua.edu.cn>
+To: yi@ccert.edu.cn
+Date: Mon, 29 Aug 2005 21:48:26 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW9GnyvWxqLjmXcq1yrG3tMChxKO6/b/Y1sbU2tK90afW0LXE06bTww==?=
+Content-Type: text/plain
+
+报告题目：Real-Time Feedback Fuzzy Control of  Mean Arterial 
+          Pressure in Postsurgerical patients at Cardiac Intensive Care Unit
+报 告 人：Hao Ying,Professor
+          Department of Electrical and Computer Engineering 
+          Wayne State University, Detroit, Michigan, USA
+报告时间：2005.8.30 上午9∶00-10∶00
+报告地点：中央主楼508
+报告摘要：      
+    In this seminar, we present a fuzzy control system to provide closed-loop control of mean arterial pressure (MAP) in postsurgical patients in a cardiac surgical intensive care unit setting, by regulating intravenous infusion of sodium nitroprusside (a vessel dilation drug).  The fuzzy controller was mathematically proved to be a nonlinear proportional-integral controller whose proportional gain and integral gain inherently adjusted continuously according to error and rate change of error of the process output (e.g., blood pressure).  The gains became larger when the pressure was far from the desired pressure setpoint and smaller when it was close to the setpoint, resulting in more dynamic and stable control performance than the regular PI controller, especially when a linear process with time-delay or a nonlinear process was involved.  Clinical trial results showed that the average percentage of time in which MAP stayed between 90% and 110% of the MAP setpoint was 89.31%, with a standard deviation of 4.96%, which were much better than manual control of the nurses.  These were calculated based on 12 patient trials, with total trial time of 95 hours and 13 minutes. Accomplished in the late 1990\'s, this is the world\'s first real-time fuzzy control application in clinical medicine.
+报告人研究领域：
+Theory and/or biomedical applications of the following technologies:  Fuzzy logic control and systems,  intelligent information processing, control, modeling, fuzzy discrete event  systems, acoustic sensor systems, digital signal/image processing, soft computing, artificial intelligence,  artificial neural networks, and expert systems
+报告人主页： http://www.ece.eng.wayne.edu/~hying/ 

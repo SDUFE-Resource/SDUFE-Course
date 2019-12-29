@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <xia@ccert.edu.cn>; Mon, 22 Aug 2005 02:55:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <xia@ccert.edu.cn>; Mon, 22 Aug 2005 03:08:40 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 19:03:17 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "yana" <yana@mail.tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+Cc: "tunet" <yang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob6zz8a4ob/XqLzm1rDOxLC4yMvUsQ==?=
+Date: Mon, 22 Aug 2005 03:05:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+本公司为国际消费品品牌在中国大陆地区的代理机构，因业务发展需要，现诚聘专兼职文案人员各两名。
+主要工作：
+广告文案的撰写；
+软性宣传文章的撰写；
+刊物编辑；
+市场活动的策划；
+其它文案工作。
+要求：
+本科或以上学历（在读但有一定空闲时间亦可）；
+良好的文字能力；
+较为敏锐的市场触觉；
+人品好，工作勤奋，有过广告设计经验者优先考虑。
+以上职位具备良好的发展前景，性别不限，待遇面议。有意者请将简历邮件至lqjwxd@163.com

@@ -1,0 +1,20 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8OB6nor025292
+	for <rao@ccert.edu.cn>; Mon, 26 Sep 2005 01:14:47 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 01:02:42 +0800
+Message-ID: <327559284.25099@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 26 Sep 2005 01:02:42 +0800
+Message-ID: <327559284.25083@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Mon, 26 Sep 2005 01:02:42 +0800
+From: fu@mail.tsinghua.edu.cn
+To: rao@ccert.edu.cn
+Cc: zhan@ccert.edu.cn
+Date: Mon, 26 Sep 2005 01:02:42 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Content-Type: text/plain
+
+原文中好像没有提到迫害这个词吧。本来读博士是要真正做学术的，现在却没有什么真正的学术好做，这本身已经是极大的伤害，无论这个伤害隐藏在多么善良的外衣下。犹如我们把本应飞翔的老鹰关在笼子精心喂养一样，无论多么精美的食物也不能让它感到丝毫的快乐。鸟儿本应该飞翔在蓝天，就像王垠之于学术 研究。
+     是导师工作的一部分又怎么样呢
+     学生对导师没这篇paper什么意义，不想做
+     结果在老师劝导之下做了，还得了best award

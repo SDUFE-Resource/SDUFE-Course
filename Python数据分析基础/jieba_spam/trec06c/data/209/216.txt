@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <zeng@ccert.edu.cn>; Fri, 30 Sep 2005 15:15:38 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Fri, 30 Sep 2005 07:01:12 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "lu" <lu@mail.tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Cc: "Duan Haixin" <wua@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg16rGqk1JVLXEzsTVwjrP1tTatcTQobqi1ebFo0I=?=
+Date: Fri, 30 Sep 2005 15:26:29 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+除了Tex,王同学研究的东西从没坚持过，方向换了一个又一个，
+博四还没发过文章。几个月不去教研组，出去旅游两个月不给老板打招呼。
+退学还可以名正言顺的痛骂中国的教育体制，清华束缚学术自由...
+我看这都是他老板管得太松了。中国教育体制最不足的就是老板对学生要求不够严格。
+放在哪个国家，几个月不去教研组不会被赶走？
+我也觉得很有同感，做学术有学术的规范，自由到想干嘛就干嘛啦？
+这在任何地方都说不通

@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <ou@ccert.edu.cn>; Sun, 21 Aug 2005 06:53:39 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <ou@ccert.edu.cn>; Sun, 21 Aug 2005 07:06:53 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 06:35:34 +0800
+Date: Sun, 21 Aug 2005 07:06:44 +0800
+From: "hu" <hu@wnt.com.cn>
+To: ou@ccert.edu.cn
+Cc: "lic" <liao@ccert.edu.cn>, "sunt" <cao@ccert.edu.cn>, "caoy" <lin@ccert.edu.cn>,
+        "wangb" <xie@ccert.edu.cn>, "songhm" <lai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILCz1qq1wLXE0ru80sjL?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+后来老人去了，妹妹立刻出钱买了火车票就把兄嫂送走了。
+据说现在除了哥哥电话过来哭穷，更无联系
+     标  题: Re: 俺知道的一家人
+     
+     那真是自己找的
+     还害了自己的女儿女婿
+     
+     : 俺认识的一家，老人跟小女儿住，但是想外地的儿子，儿子还不收留。
+     : 小女儿就把她哥哥嫂子两个退休的人接来一起住，房饭全包，因为自己要上班，请他们照顾老人一顿午饭，为此还每月给500块；晚饭都是小女儿或者女婿下班以后做这么多人的。
+     : 有一次偶然发现，她哥哥嫂子从搬来的第二天，就去批发了两箱方便面，藏在老人床底下，让老人中午自己泡。他们每天去公园跳舞。
+     
+     --
+     
+     (高露洁广告：“姨姨，我可不可以画你吖……）
+     MM：如果我有一个这样的女儿就好了
+     GG：如果我有一个这样的姨姨就好了
+     
+     
+※ 修改:・shenok 于 Aug 21 04:10:08 修改本文・[FROM: 213.107.250.*]

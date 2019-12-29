@@ -1,0 +1,33 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <sun@ccert.edu.cn>; Fri, 2 Sep 2005 14:17:26 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 14:20:18 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 14:20:18 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 14:20:18 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 06:13:41 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 14:05:51 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 14:05:51 +0800
+From: tang@mails.tsinghua.edu.cn
+To: sun@ccert.edu.cn
+Cc: li@ccert.edu.cn
+Date: Fri, 2 Sep 2005 14:05:51 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgz9bU2tXixOrNt7Cho6E=?=
+Content-Type: text/plain
+
+ 我认识一个北大毕业的在杭州xx公司头
+ 老婆一直在北京高校当老师 比较pp
+ 愣是上海养了一个 不pp也不kl 恩
+ 现在北京的老婆和孩子去杭州了 那个小的回成都了
+ 定期还来杭州相会相会 也不结婚 甘心当小了 只不过元配可能不知道
+ 杭州这样的case还很多的
+     我前些天发过异地恋，他不太理我，在犹豫他将要放弃在北京的事业，不来我所在的上海。大家提了好多意见，很感谢。
+     一周前，他说，让我找个更好的吧，他对我不好。前天，一个女人给我打电话，问我是不是我男朋友的女朋友，她说她是他北京的同事，他们都相处了半年了。她很了解他的家里，和他以前有几个女朋友，说得还都对，我们很平和的聊了1小时，我也一直在怀疑他是否有人，但没想到

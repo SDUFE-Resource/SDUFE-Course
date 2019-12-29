@@ -1,0 +1,20 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <wua@ccert.edu.cn>; Mon, 15 Aug 2005 14:13:25 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <wua@ccert.edu.cn>; Mon, 15 Aug 2005 14:26:56 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 14:21:51 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 14:21:51 +0800
+From: che@mail.tsinghua.edu.cn
+To: wua@ccert.edu.cn
+Date: Mon, 15 Aug 2005 14:21:51 +0800
+Reply-To: che@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMrWu/rDv9TC09DDu9PQxKrD+8bkw+6xu7/bwcvSu9Cpx64sxMfDtMfrv7Q=?=
+Content-Type: text/plain
+
+不会发00000又被扣10块吧？
+       看运营商等的一些手段
+       1、 同时给很多手机（当然包括你喽！）发一条很类似是朋友发来的短信，于是你的手机收到这样的信息“不好意思，我不小心在电话本里删了你，请你再告诉我你是谁？”发来的号码是 551881389827363。20%左右的人以为真是朋友发来的，于是发回各种各样的信息回复过去，比

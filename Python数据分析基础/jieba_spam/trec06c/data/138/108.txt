@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <cen@ccert.edu.cn>; Fri, 16 Sep 2005 01:24:59 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <cen@ccert.edu.cn>; Fri, 16 Sep 2005 01:36:58 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 17:19:12 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "xin" <xin@mail.tsinghua.edu.cn>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1qq1wNXi0fnSstDtsru21KOsv8nKx7K71qq1wLjD1PXDtLDso78=?=
+Date: Fri, 16 Sep 2005 01:32:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+纠正一点：精神上的愉快是不假外求的，你觉得愉快，你就愉快，和你过的日子无关，这世上多少人过着你所认为的千篇一律的日子，可是他们也很愉快。
+         请各位帮助我，如果可以给我意见，批评我也接受！
+         简单说说：我26岁，和男朋友谈了2年，前些天到他家吃饭，他妈妈和我提起：你们已经交往有段时间了，想这个国庆节双方的父母亲见个面，意思就是说想定下来。我很矛盾，我并不想这么早定下来，先说说我们的情况：我朋友是个很正统上进的人，性格很内向，不善和人打交

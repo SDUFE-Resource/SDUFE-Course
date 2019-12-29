@@ -1,0 +1,20 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M1t1iU004027
+	for <cai@ccert.edu.cn>; Sat, 24 Sep 2005 04:03:09 +0800 (CST)
+Message-ID: <200509220955.j8M1t1iU004027@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO dfder-09mhatbya) (xy-liu04@166.111.53.221)
+  by localhost with SMTP; Fri, 23 Sep 2005 20:10:55 -0000
+From: "jiang" <jiang@mails.tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [SPAM] Re: Re: [SPAM] Re: Re: Re: =C5=A3=BD=CC=CA=DA=B5=C4=B1=A8=B8=E6=BB=C3=B5=C6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon846281475675_====="
+Date: Sat, 24 Sep 2005 04:15:58 +0800
+
+具体收看方法：　
+  　点击学生清华视听媒体右部顶端的“直播转播 点击进入”图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+　　请选择“保存”将文件保存到本机,右健释放.运行文件夹的gmengine.exe,弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华教育网娱乐频道)”频道收看我们的直播。
+　　另外由于将从远处服务器以及一些动态的转发节点获得数据，所以在选择频道弹出windows media player播放器后，您会看到播放器下端将出现“正在连接到媒体...”字样以及后来的“缓冲 XX％”字样，此时请您耐心等待数据的接收。
+　　为保证您的收看效果，建议安装windows media player 8.0或以上版本。

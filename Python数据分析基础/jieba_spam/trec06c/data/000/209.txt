@@ -1,0 +1,30 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <mo@ccert.edu.cn>; Sun, 14 Aug 2005 16:59:56 +0800 (CST)
+Received: (qmail 5448 invoked from network); Sun, 14 Aug 2005 09:10:43 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 14 Aug 2005 09:10:43 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "cheng" <cheng@jdl.ac.cn>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILXBt/DP37u51eayu7Tto6y41b+0zeqjoaOh?=
+Date: Sun, 14 Aug 2005 17:14:42 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+”正当防卫必须具备下列条件：
+    1．起因条件。正当防卫的起因条件，是指存在着具有社会危害和侵害紧迫性的不法侵害行为。
+2．时间条件。正当防卫的时间条件，是指正当防卫只能在不法侵害正在进行之时实行，
+3．对象条件。正当防卫的对象条件，是指正当防卫只能针对不法侵害者本人实行
+4．主观条件。正当防卫的主观条件，是指防卫人主观上必须出于正当防卫的目的，
+5．限度条件。正当防卫的限度条件，是指正当防卫不能明显超过必要限度且造成重大损害“
+例如这样一种情况，小混混卡住喉咙要掐死对方，对方一肘致其死应属于正当防卫。当然这不是那人的情况，那人什么情况我们也不知道。
+     呵呵,法律上可不是这么解释的.
+     好比你有枪,我滋事,你一枪打死我了.
+     你说原本你只想打伤我,不小心没打准...

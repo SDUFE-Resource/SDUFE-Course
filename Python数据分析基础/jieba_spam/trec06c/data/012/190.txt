@@ -1,0 +1,46 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <che@ccert.edu.cn>; Fri, 19 Aug 2005 16:07:16 +0800 (CST)
+Received: (qmail 23946 invoked from network); Fri, 19 Aug 2005 08:17:30 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 19 Aug 2005 08:17:30 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "zhang" <zhang@jdl.ac.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuDogVGVhbSBMZWFkLCBsaW51eCBjL2MrKyC/qreiLCC8vMr11qez1rmks8zKpg==?=
+Date: Fri, 19 Aug 2005 16:21:38 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+莱克斯信息技术(北京)有限公司现进行下一代网关产品的研发工作，公开诚聘以下有识之士：
+1. Team Lead (1 名)
+职位描述： 
+1.计算机相关专业，本科（含）以上学历； 
+2.6年以上的Linux/Unix内核或者应用开发经验； 
+3.精通信息安全管理、安全策略、安全风险评估的模型、方法和理论。 
+4.2年以上项目管理经验，能够独自承担过大型项目的管理。 
+5.英语优秀，能阅读英文资料和撰写概要和详细设计文档； 
+6.注重软件开发质量。
+ 
+2. 职位：Linux 研发工程师  （2名） 
+要求：
+* 大学本科以上学力，计算机相关专业毕业； 沟通能力强，有团队合作精神； 能够熟练阅读英文手册及书写文档。
+1、2年以上Linux下C/C++语言开发经验, 其中有1年以上安全产品经验，FIREWALL，SSL VPN等 
+2、熟悉互联网协议，熟悉TCP/IP协议, 熟悉网络结构； 
+3、精通SSL/TLS协议；
+4、熟悉 UNIX/Linux/BSD操作系统； 
+5、熟悉Radius，LDAP协议； 
+6、熟悉XML
+3. 安全产品服务工程师
+职位描述： 
+1 计算机或相关专业毕业，大学专科以上学历。 
+2 有一年以上网络安全产品相关经验。 
+3 备较好的语言表述能力和文字功底。 
+4 为人正直诚恳，有较高的工作热情，有团队合作精神。 
+5 吃苦耐劳，能适应经常出差。

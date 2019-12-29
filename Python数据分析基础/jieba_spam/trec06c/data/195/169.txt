@@ -1,0 +1,23 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <jin@ccert.edu.cn>; Wed, 28 Sep 2005 02:40:46 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 18:27:02 -0000
+Date: Wed, 28 Sep 2005 02:52:46 +0800
+From: "zhou" <zhou@mail.tsinghua.edu.cn>
+To: jin@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+嗯，我想最最重要的是希望洪老师的教研组能够尽快的恢复正常的工作研究
+不要被这些事情影响太多，不希望善良的人受到伤害
+也希望王垠能够好好想想，成熟起来，我想洪老师，教研组的同学，你的副导师都会全心全意的帮你的。。。。。。
+        看了王垠的退学的帖子和他实验室同学写的帖子开始对这建事情有了一个全面的认识。
+     跟一些同学讨论过王退学的事情，大家都不以为然，认为这个小孩子太幼稚了。确实他充满了对技术的好奇和对人生的渴望，不想自己再压抑下去了。我认为王垠的帖子自少代表自己的一定心声。大家对他的攻击也不要那么激烈。清华大学要兼容百家，要容忍别人骂也要经得住人家赞
+        反过来思考我们的研究生培养制度。这个培养体制确实有很大的问题，至少有人舍弃这个制度而去。我们为什么不能改良一下这个制度。比如让王同学在社会上闯荡两年，再让他回来。让他自己明白学校是什么体制，怎么去适应这个 体制。

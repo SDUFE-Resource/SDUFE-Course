@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <bi@ccert.edu.cn>; Thu, 25 Aug 2005 02:12:57 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <bi@ccert.edu.cn>; Thu, 25 Aug 2005 02:26:11 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 18:20:44 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "luo" <luo@mail.tsinghua.edu.cn>
+To: bi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgIyPXqsjDIyMjI7+80dChorP2ufrK6b+v?=
+Date: Thu, 25 Aug 2005 02:22:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+《石春桢考研英语阅读理解220篇（2005年版）》  原价：52.00   现价15.00 （有小部分做题痕迹，已用涂改液覆盖，基本上完全可用）
+另有几本美国原版《读者文摘》（reader\'s digest），5元/本
+《近现代国际关系史》复旦大学出版社   原价：40.00   现价：30.00  （很新，因考研转向，基本上没用过）
+《3000美金，我周游了世界》  原价：25.00    现价：15.00  （较新）
+《我如何获得40国签证》（与上书为同一系列） 原价：28.00    现价：12.00  （有点旧）
+以上书刊若全要再作优惠！
+站内联系或手机：13488663224（限短信）

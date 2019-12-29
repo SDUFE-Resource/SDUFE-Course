@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <feng@ccert.edu.cn>; Fri, 23 Sep 2005 23:58:55 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <feng@ccert.edu.cn>; Sat, 24 Sep 2005 00:10:16 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 15:47:16 -0000
+From: "guan" <guan@mail.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Cc: <ding@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sat, 24 Sep 2005 00:10:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+又仔细看了一遍，发觉lz还是有些浮躁，聪明，但沉不住气。
+都到清华的博士了，想必智商没太大问题，出不出得了成果，关键看能不能沉下来努力和一些运气。
+我一直认为，人做事情要专业，一定要专业。
+当你是个中学生，成绩就是你的职业；考上好的大学就是你的本分工作。
+当你是大学生，建立独立思维的能力，独立的人格和过得去的成绩。
+但你是研究生，应当掌握过硬的技能，分数已经不重要了；
+当是你博士研究生，research就是你的工作，没人理会你那门课考满分还是考60分。
+我不欣赏除了本专业不懂，其他都懂的人。
+而博士阶段涉猎太广，不是好事。要懂得放弃，长时间专注于一个非常小的领域，才有可能出点好的成绩。
+另外，不要随便贬低别人的成果，哪怕是一篇烂文章，只要数据不是胡诌的，创新点非常非常的小，从构思，编程实现，写作，修改还是要费不少心机的。
+沉住气，做得专业一点，相信lz能出好的成绩的。
+     【 以下文字转载自 SJC.THU 讨论区 】
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)

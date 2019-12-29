@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <xie@ccert.edu.cn>; Sun, 4 Sep 2005 22:27:57 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <xie@ccert.edu.cn>; Sun, 4 Sep 2005 22:39:43 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 14:27:14 -0000
+From: "yuan" <yuan@mail.tsinghua.edu.cn>
+To: xie@ccert.edu.cn
+Cc: <tian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1cm38snty8CjrMbe19PHsczTu9i5+ih6eik=?=
+Date: Sun, 4 Sep 2005 22:39:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+毕业生开枪打死丈夫 女扮男装从美国逃回国内
+http://news.tom.com 2005年09月02日16时36分　　来源:新华网　　
+相关新闻：上海留学生在美国被残忍碎尸 警方怀疑其妻是凶手
+　　新华网上海频道9月2日消息：据悉，8月26日，在办理从芝加哥飞往上海的UA835航班入境边检手续时，留着短发、女扮男装企图潜逃入境的陈丹蕾被发现。据她交待，所持的护照上的何磊是其朋友，此次她因护照遗失，又急于回国探望病重的母亲，所以借用何的护照。
+　　有关方面发现陈丹蕾与何磊是夫妻关系。经进一步讯问，其交待两人本是清华大学同学，2001年1月陈丹蕾赴美国留学，同年5月回国与尚在清华大学攻读硕士研究生的何磊结婚。2002年1月，陈帮何申请了赴美陪读签证，两人共同赴美。到美国几个月后，两人出现感情问题，经常发生口角。2004年12月底，两人再次发生争吵，陈用刀将何胸部刺伤。
+　　为逃避司法机关处罚，陈变造了丈夫何的护照欲潜逃回国。
+　　据知情人透露，何与其妻子陈的感情不和，已于2004年底开始分居；陈的母亲已于多年前病故。8月19日晚，其与丈夫又一次发生了争吵，8月20日凌晨，其用事先准备好的手枪将熟睡中的丈夫打死。

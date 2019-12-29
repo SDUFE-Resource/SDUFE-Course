@@ -1,0 +1,32 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8431hfN008529
+	for <xie@ccert.edu.cn>; Mon, 5 Sep 2005 07:57:12 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM900833VWCO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Mon, 5 Sep 2005 08:14:54 +0800 (CST)
+Date: Mon, 5 Sep 2005 08:10:58 +0800
+From: =?gb2312?B?wre0utPq?= <jian@cernet.com>
+Subject: =?gb2312?B?ofEgQU5TWVMtQ0hJTkGxsb6psOzKwrSm1dDGuKO6tee0xbjfvLbTptPDuaSzzMqm?=
+To: xie@ccert.edu.cn
+Cc: "grey.wang" <zhuang@ccert.edu.cn>, swgui <qing@ccert.edu.cn>,
+ zhaohonglin82 <weng@ccert.edu.cn>
+Message-id: <0IM900834VWCO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_4iCo3BsWakluEN5O95QvqA)"
+
+―――――――――――――――――――――――――――――――――――――――――――――――――――
+ANSYS-CHINA北京办事处招聘：电磁高级应用工程师
+职位要求:  
+1. 通讯、电磁场与微波技术及其相关专业，硕士以上学历，博士优先；
+2. 精通电磁场数值算法和高频近似算法，电磁基本功扎实；
+3. 有大型高低频电磁有限元分析程序的使用或者工程分析经验或者编程经验；
+4. 独立科研能力强，思路清晰，严谨科学地分析问题和解决问题能力；
+5. 有较好的人际沟通、协作和表达能力。
+优先条件等其他说明:
+1. 具有航空航天或兵器行业的电磁工程经验或者相关知识，独立承担过该行业电磁工程项目的有限元分析和相关工作；
+2. 具有深厚电磁理论或者数值计算专业背景，有丰富的有限元编程经验；
+3. 能够随时正式上班。
+联系方式：techsupp.bj@ansys.com.cn

@@ -1,0 +1,46 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <he@ccert.edu.cn>; Sun, 21 Aug 2005 01:39:41 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <he@ccert.edu.cn>; Sun, 21 Aug 2005 01:52:43 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 02:16:11 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: xing@126.com
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8/GuCBqYXZhIHNlcnZlcqGhyO28/r+qt6K5pLPMyqY=?=
+Date: Sun, 21 Aug 2005 01:47:25 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+北京三代动力软件技术有限公司是一家从事移动数字通讯业务，致力于移动设备终端上的应用软件开发的创业型软件开发公司。我们看好移动应用开发行业的美好前景，努力为用户提供丰富的应用，构建生活、工作外的第三移动空间，我们相信并必将在3G时代中爆发出如发动机一般强劲的动力和能量。
+    为了共同成就这一份事业，一批杰出的志同道合之士已经聚集起来，我们热切期望更杰出的你，能加入我们，加入这个团队，加入这份事业。这里有一个全新的舞台，让你我去拼搏、发挥，在自己年轻的生命留下不会遗憾的一笔，并赢得精神和物质上的双重收获。
+3GV8，梦想成就之地！
+诚聘  java server　软件开发工程师
+1 人
+职责描述：
+1. 负责架设及优化java网络应用服务器
+2. 进行源代码的单元测试和质量控制
+3. 编写开发文档
+职位要求：
+1.扎实的计算机基本功，熟练掌握java和面向对象的思想
+2.掌握TCP/IP协议,有基于java socket服务器编程经验
+3.独立工作能力，快速学习能力，主动承担责任
+4.良好的沟通能力和团队协作能力
+5.良好的英文资料阅读能力
+有意者请把简历发至我们信箱，我们将尽快与您联系。
+联系方式：
+　　地址:北京东城区王家园10号商之苑大厦608(东四十条港澳中心后头)
+　　QQ:45110480
+    邮件:jobs@3gv8.com

@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85Brq7S017804
+	for <lai@ccert.edu.cn>; Wed, 7 Sep 2005 11:17:21 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j85C6Fu5015902
+	for <lai@ccert.edu.cn>; Wed, 7 Sep 2005 11:29:44 +0800 (CST)
+Message-Id: <200509051206.j85C6Fu5015902@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 7 Sep 2005 03:16:10 -0000
+From: "zhong" <zhong@mail.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Cc: <gan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7K0rvPwtDEvKHR19Kq16LS4sqyw7Q=?=
+Date: Wed, 7 Sep 2005 11:29:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5B255.40DC4970"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWyEjKLgqxyovE3TYCvYclclUUw1Q==
+
+如果年轻，问题不大，注意休息，调节好情绪。过一段就好了。这个病不是大病。
+俺当初也是，入学体检差点没过，这到是下了我一跳。
+现在该干嘛干嘛，篮球，游泳，爬山。。。。。。
+从来没有复发过。
+     老公吓唬我,说要吃一年的药,每天到吃药的时候都要提醒偶,觉得好麻烦.现在基本上已经不难受了,就是躺着的时候,有时会胸闷,在吃辅酶Q10,不知道还得多长时间好.
+     另外,老公还说会影响将来生宝宝,有那么严重么?

@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <shen@ccert.edu.cn>; Thu, 25 Aug 2005 00:26:42 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <shen@ccert.edu.cn>; Thu, 25 Aug 2005 00:39:56 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 16:34:29 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "qing" <qing@mail.tsinghua.edu.cn>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgobDH5buqydnE6r/G0ae80qGxz+7Ev9XQxrg=?=
+Date: Thu, 25 Aug 2005 00:36:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+显现给你的是来自“清华少年科学家”的事业机会！如果你选择了我们，这里将是你可以完成向一个自信、严谨、自立的人转变的环境。 人生来自于选择！一次又一次的选择将影响到你的今后的人生！ 
+公司简介：
+北京数字博识科技有限公司于2004年3月在清华大学科技园成立，公司定位于从事教育培训项目的投资和运营

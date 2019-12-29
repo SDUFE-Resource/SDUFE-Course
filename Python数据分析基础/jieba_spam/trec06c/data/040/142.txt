@@ -1,0 +1,35 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <tian@ccert.edu.cn>; Thu, 25 Aug 2005 22:40:06 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 22:58:29 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 22:58:29 +0800
+Date: Thu, 25 Aug 2005 22:58:29 +0800
+From: li@cernet.com
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+To: tian@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+现在或许还是你说的这样
+等再过两年未必会是这样
+与其被外包公司挣钱还不如自己建立一个相应的储备库比较好
+同样，与其华为自己招人，还不如让慧通招人，能省很多费用
+当然华为不会一个不招，华为少招，慧通多招
+前几天看了一篇关于华为和慧通关系的帖子
+华为有太多的国家贷款，慧通是任正非用来转移华为资产的
+不是说华为门口的牌子，本来就多少钱，让慧通去做，价格翻了十倍
+华为的资产也就被转移了
+同样，通过慧通招人，华为再给慧通一笔钱，可多可少华为说得算，
+华为的资产也就被顺利转移到慧通了
+     化为建立慧通主要是解决外包人员问题，与其被外包公司挣钱还不如自己建立一个相应
+     的储备库比较好，你要是优秀怎么可能不进入华为本部那？关键还是看个人

@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <che@ccert.edu.cn>; Sun, 21 Aug 2005 17:16:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <che@ccert.edu.cn>; Sun, 21 Aug 2005 17:29:49 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 09:24:26 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "zhu" <zhu@mail.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: "tunet" <wang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgz+u9u7j21LjS4svmyrGw787SveK+9rXnxNTOyszitcTF89PRXl9e?=
+Date: Sun, 21 Aug 2005 17:26:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    想交个年龄大一点的，脾气好一点的（呵呵，就是要有耐心的^_^）人比较朴实厚道的可以经常教我一些关于电脑维护知识的朋友。这样我就不用每当自己的电脑一遇到什么问题的时候就急得不行了，到处打电话寻求帮助。
+    当然只要我的朋友有什么问题需要我帮忙的时候，我也会尽自己的能力帮助的^_^
+    先站内信箱联系吧，或是QQ：6868685 注明SMTH就行了^_^
+    （BTW:最好是住在清华校内的朋友，这样方便一些）

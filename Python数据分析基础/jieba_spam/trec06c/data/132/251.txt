@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <shen@ccert.edu.cn>; Wed, 14 Sep 2005 23:22:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <shen@ccert.edu.cn>; Wed, 14 Sep 2005 23:34:12 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 15:16:29 -0000
+From: "tian" <tian@mail.tsinghua.edu.cn>
+To: shen@ccert.edu.cn
+Cc: <wu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtGZ0cMnPtcTN4rn6tefTsLa8ysfV4tH5tcQ=?=
+Date: Wed, 14 Sep 2005 23:34:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+我基本上是从画面表演、情节发展与台词之间的切合程度――这当然是自我判断的，来判断配音的好坏
+中文配音差的片和字幕差的片比，不在一个数量级
+你这个逻辑有问题。
+配音的时候你根本无法对照原音去看他配的是否有问题，所以无法推断出配音版本和字
+幕到底哪个更准确。
+     主要是感觉中文字幕经常翻译得很差
+     正规翻译后汉语配音的当然标准了，为什么都没有这样的片子？
+     你该不会为了符合你的nick跑去听配音吧？

@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <peng@ccert.edu.cn>; Wed, 24 Aug 2005 10:59:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <peng@ccert.edu.cn>; Wed, 24 Aug 2005 11:12:22 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 03:06:55 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "wen" <wen@mail.tsinghua.edu.cn>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsa2+xsjLyfpTaWRld2F5c7K7tO21xA==?=
+Date: Wed, 24 Aug 2005 11:08:46 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+影片讲了一个失意作家和他将要结婚的演员朋友（两人都是男的）度过的一个一周
+。失意作
+家离婚多年，对美好的前妻念念不忘，就像他对某种葡萄酒的迷恋（他对品葡萄酒
+很有研究
+）。而他的演员朋友一周后就要结婚了，所以他就陪伴他度过最后自由的一周。其
+间，他们
+游览产酒名地，品尝各种好酒，同时在感情上都经历了一次波澜。这当中，失意作
+家经历了
+得知前妻再嫁并怀孕、小说再遭出版商拒绝等人生痛事。而他的朋友恣意放纵，也
+遭受了生
+活不小的嘲弄。一周过后，一切归于正常，演员朋友如愿结婚，而作家又在一个女
+人的温柔
+鼓励下找到了生活的希望。
+一部讲述成年人生活的片子，轻松的节奏，表现了男人间的友谊和人到中年的对情
+感和事业
+的无奈与困惑。很好的故事，很好的制作与演绎。

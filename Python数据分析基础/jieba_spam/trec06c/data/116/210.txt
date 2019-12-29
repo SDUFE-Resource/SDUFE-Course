@@ -1,0 +1,48 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ACNovr029742
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 16:49:50 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8ACKv6Q093262
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 16:47:21 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8ACKomW093258
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 16:46:54 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+Message-Id: <200509101220.j8ACKomW093258@gradinfo.net.edu.cn>
+Received: from free-qhkbi6e7yv (unknown [59.66.201.85])
+	by smtp2 (Coremail) with SMTP id QsA3yF3IIkPPuYAD.1
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 16:15:53 +0800 (CST)
+X-Originating-IP: [59.66.201.85]
+Date: Sun, 11 Sep 2005 16:17:40 +0800
+From: "zhuang" <zhuang@163.com>
+To: long@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8ACKomW093258
+Subject: =?gb2312?B?UmU6IMfrzsrSu8/C1PXR+bLFy+PKx7Cuyc/Byw==?=
+Precedence: list
+Reply-To: zhuang@163.com
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+其实我们上周就约好吃饭了，只是我觉得下周接近中秋，更浪漫一点。
+可惜不知道从现在开始的七天里要干啥了。
+有时候真想打退堂鼓――我最怕的就是情人做不成之后，连朋友也做不成。
+嘻嘻，现在每天看她照片几次，都会傻笑。
+唉，我都老大不小了，怎么还会焕发这种孩子似的感情呢？
+     那当然是要经常询问她的意见，尽量不要勉强对方，
+     在交谈中慢慢了解她的性格。
+     （不知道会不会误导人啊，我也没和mm谈过这类事^_^）

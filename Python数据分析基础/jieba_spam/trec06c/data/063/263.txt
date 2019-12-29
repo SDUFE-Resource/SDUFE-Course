@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <lai@ccert.edu.cn>; Wed, 31 Aug 2005 20:06:00 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 20:08:52 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 20:08:52 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 20:08:52 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 12:02:15 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 19:54:25 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 19:54:25 +0800
+From: qiu@mails.tsinghua.edu.cn
+To: lai@ccert.edu.cn
+Cc: peng@ccert.edu.cn
+Date: Wed, 31 Aug 2005 19:54:25 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INXi1tbH6b/2o6zO0rjDus3L+7eisevC8A==?=
+Content-Type: text/plain
+
+faint，发biao这种话你还说得出来！
+         前天在LOVE版发了帖子，说GG出国到了一天都还没和我联系。给他发了封很长的mail，可是等到第二天的晚上，他到达48小时之后，还是没有任何消息。开始还是责怪他不和我联系，后来渐渐演变为有点担心他的安全。我做了三个一厢情愿的假设：1，那边没有公共电话，无法取

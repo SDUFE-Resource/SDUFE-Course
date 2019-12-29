@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7FBL9jQ015986
+	for <tu@ccert.edu.cn>; Thu, 18 Aug 2005 10:23:48 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7FBr5I2010935;
+	Thu, 18 Aug 2005 10:55:44 +0800
+Message-Id: <200508151153.j7FBr5I2010935@stmp.nisac.gov.cn>
+Date: Thu, 18 Aug 2005 10:36:44 +0800
+From: "rao" <rao@mail.nisac.gov.cn>
+Reply-To: rao@mail.nisac.gov.cn
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgudzA7bnLzsq5q8u+s8/GuLX30dDIy9Sx?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+本公司是国内最大的管理咨询公司之一，现诚聘调研人员4－5名，从事国内企业“一体化”专题研究
+要求：本科以上学历，专业不限，由于需要与客户沟通，因此希望应聘者具有良好的沟通能力、表达能力，逻辑思路清晰，对企业管理知识有一定基础，最好有过电话调研经验。 
+时间：从本周中期开始，至少工作两周；如果表现出色，可以续约,并推荐转正。 
+地址：北京市北京市朝阳区酒仙桥路14号兆维大厦8层 
+联系电话：周一至周五工作时间010－58671818－351（吕先生）；或回复站内信箱

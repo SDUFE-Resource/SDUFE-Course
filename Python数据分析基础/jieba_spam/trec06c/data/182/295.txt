@@ -1,0 +1,18 @@
+Received: from nankai.edu.cn (sun.nankai.edu.cn [202.113.16.21])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N7Br6G015829
+	for <gu@ccert.edu.cn>; Sun, 25 Sep 2005 10:27:06 +0800 (CST)
+Received: (eyou send program); Sun, 25 Sep 2005 10:43:59 +0800
+Message-ID: <327460528.07655@nankai.edu.cn>
+Received: from 222.30.48.129 by 202.113.16.21 with HTTP; Sun, 25 Sep 2005 10:43:59 +0800
+From: "xie" <xie@nankai.edu.cn>
+To: gu@ccert.edu.cn
+Date: Sun, 25 Sep 2005 10:43:59 +0800
+Reply-To: "xie" <xie@nankai.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgztLAtNfcveHSu8/CzfXNrNGn?=
+Content-Type: text/plain
+
+潜水半天，写点感想：
+1：王同学牛不牛？linux,tex确实牛，学术上不清楚，有best award，但那个会议不重要，而且老板是chair。另外没有SCI。相对来说，在清华，不算出色。
+2：王同学嘲笑导师水平不高对不对？而且只想压榨人对不对？据周边反映他老板是IEEE的fellow，看来很牛。而且据周围人说人品也不错。
+3：退学的根源何在？一：王同学有勇气与这个庸俗的科研制度决裂，值得钦佩。二：这个庸俗的科研制度，就是特别看重paper，也不能说完全是导师的错。导师也要评职称，评院士，没有paper也混不下去

@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QNo9MB013563
+	for <mo@ccert.edu.cn>; Tue, 27 Sep 2005 12:36:40 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8R01MBr028203
+	for <mo@ccert.edu.cn>; Tue, 27 Sep 2005 12:47:53 +0800 (CST)
+Message-Id: <200509270001.j8R01MBr028203@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 27 Sep 2005 04:23:03 -0000
+From: "xing" <xing@mail.tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Cc: <su@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMbkyrXO0tK71rHP687Kzso=?=
+Date: Tue, 27 Sep 2005 12:47:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C339.A353D6A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXC9pQv9PjT/MfrSEOqvQPxaHLccg==
+
+别整天喊创新了。连做了几十年的电机和发动机都做不好。
+     不是，大学没能培养出能为民族企业创新的人才，这不是责任么
+     据个例子，我以前接待过某个高校访问团  他们要花巨资买一个仿真器 
+     当时他们说他们专业每年招50名博士，几百名硕士。我们实验室的人都很惊讶：那么多人力，那么多钱，一年就可以做出中国自己的仿真器了，为什么还要买？
+放着有价值的研究不做做民工活，很自豪么？

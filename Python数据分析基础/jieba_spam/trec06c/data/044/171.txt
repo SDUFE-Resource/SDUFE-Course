@@ -1,0 +1,42 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <luo@ccert.edu.cn>; Fri, 26 Aug 2005 16:08:49 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 16:27:12 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 16:27:12 +0800
+Date: Fri, 26 Aug 2005 16:27:12 +0800
+From: yan@cernet.com
+Subject: =?gb2312?B?ofEgSW50ZWwgQVBBQyBNU0cgSW50ZXJuIE9mZmVy?=
+To: luo@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+Internship offer
+Intel, the world\'s largest manufacturer of microprocessors, is also a leading manufacturer of computer, networking and communications products and a provider of infrastructure to and services for the world-wide Internet economy.
+We are seeking a qualified intern for our Corporate Marketing Group\'s Marketing Services Department, to work in our Asia Pacific Sales and Marketing Headquarters in Beijing, China. This position involves 
+The key activities of this Internship will include:
+-       Coordinating event &amp; marketing communication data in Asia Pacific
+-       Assisting APAC marketing service marcom &amp; event team in the design and of primacy marcom event data coordination.
+-       Working with key stakeholders within Intel &amp; suppliers to consolidate marcom &amp; event data throughout Asia Pacific ( including all the Asia Pacific local countries, different business units within Intel and marcom/event vendors)
+-       Analyzing the data collected from these studies
+-       Preparing presentations to share the results with other functions within Intel. 
+-       Research &amp; analyse event/tradeshow trend in APAC
+-       Presenting periodical data reports
+A successful candidate will have a background in data management and a basic understanding of the principles of marketing or events. Experience in the IT industry as well as previous work experience - ideally in the marketing, marcom or event operations field - will be a plus. 
+The right candidate for this internship will be comfortable working in a self-directed environment. He/she will also possess excellent written and verbal communication skills; demonstrate strong analytical ability and an excellent knowledge of standard MS Office programs. (Excel, word, PowerPoint) Website design or familiar with web tool will be definitely plus. MUST Detail oriented, good with numbers/numerical data. He/She should be comfortable working in multitasking environment and dealing with accurate data numbers. Detail oriented. Experience with IT industry events/conferences/tradeshows or previous print production data management or inventory management experience will be plus.
+Educational/Language Requirements:
+A minimum of three years University study of marketing, social sciences, economics or business mathematics/statistics. MUST be Fluent in written and spoken English as the working environment at Intel Beijing is English.
+Duration of the Internship: Minimum of 6 months. 
+Starting date: September 1 of 2005
+Please note: The candidate will be working with information confidential to Intel, and will be required to sign a non-disclosure agreement indicating that they will not share information externally. As a result, it is not intended that the material studied in the internship be used for individual / external dissertations.
+Contact:
+Please send English Cover letter &amp; Resume to Suyoung.yoo@intel.com 

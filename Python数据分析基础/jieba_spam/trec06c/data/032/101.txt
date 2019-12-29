@@ -1,0 +1,30 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <shen@ccert.edu.cn>; Wed, 24 Aug 2005 04:04:22 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 04:17:29 +0800 (CST)
+Date: Wed, 24 Aug 2005 04:11:15 +0800
+From: "wen" <wen@sohu.com>
+To: shen@ccert.edu.cn
+Cc: "yxl" <peng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQuPbQobeiz9Y=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+我这个就是在作信号与系统的时候用两种方法求取
+一个周期信号的平均功率导出来的
+第一种是直接对一个周期内的f(t)^2求平均；
+第二种是求取该周期信号的Fourier级数，用sin和
+cos表示的，然后套用sin和cos信号的功率普公式，
+然后对该累加形式的功率普进行无穷区间上的积分
+再除以2pi
+大家也可以推导出来的，不过已经有人用纯粹数学的
+方法帮我证明出来了，^_^
+     今天作专业课题目，居然被我导出了一个公式:
+     对(2n-1)^(-4)从n=1到正无穷累加，最后结果为
+     pi^4/96

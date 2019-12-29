@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <zhong@ccert.edu.cn>; Sat, 20 Aug 2005 18:22:44 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <zhong@ccert.edu.cn>; Sat, 20 Aug 2005 18:56:04 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Sat, 20 Aug 2005 18:37:03 +0800
+From: "weng" <weng@mail.nisac.gov.cn>
+Reply-To: weng@mail.nisac.gov.cn
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX309HX9tK7z7XB0LLOudu3w87K?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+茶道就茶道，要跟宗教粘一起作甚么，还要去各大使馆这那
+感觉真的很怪啊。再说，茶文化不是很好么，茶道有点日本感觉
+不过，如果mm对茶文化很有心得，给大家上上课吧，嗯
+btw. 阿姨喝茶很多，可以交流一下看看
+     我已经给北京市政府写过信了，希望在北京成立北京茶道协会，北京市政府将信转发给民政部门，现在我们所需要做的就是满足注册协会的三个基本条件，一是50个人以上，二有注册场所，三有注册资金3万元以上，只要我们满足这三个条件，我们就可以继续与民政部门交流成立协会

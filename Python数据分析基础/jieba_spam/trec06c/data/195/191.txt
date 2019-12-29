@@ -1,0 +1,28 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <xin@ccert.edu.cn>; Wed, 28 Sep 2005 02:57:23 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 19:08:30 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 03:08:30 CST
+Date: Wed, 28 Sep 2005 03:08:30 +0800 (CST)
+From: liang ming <gu@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMfzvcyjutHP1ti1xNfUsbDQxMDt1PXDtLDso78=?=
+To: xin@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+我想大部分进清华的人都会面临这样的落差，不再优秀，趋于平庸
+关键是自己怎么调节
+没有必要很自卑
+想起大一思修课我们班一个男生的话，我承认我并不聪明，但是我相信我可以做到最勤奋
+不要拿自己和那些天才型的人比，这样很没有意义
+ps: 超常发挥在我看来只是挖掘了自己的潜力而已，是能力的证明，
+加油！
+      大一刚进清华时，自己就有一股严重的自卑感，首先是因为我高考属于
+     超常发挥的那种类型，其实也不算是完全超常发挥，只是那一年我们高中
+     所有的尖子生全部没有考好。而我作为其中之一，是我们学校（湖北某重点高中）

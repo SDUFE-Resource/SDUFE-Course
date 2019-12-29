@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ID8DYi008045
+	for <tian@ccert.edu.cn>; Tue, 20 Sep 2005 07:08:34 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8IDJqRe004245
+	for <tian@ccert.edu.cn>; Tue, 20 Sep 2005 07:20:13 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 19 Sep 2005 22:59:50 -0000
+Message-ID: <017301c5bc53$c8f1e290$787d6fa6@hotline>
+From: "qing" <qing@mail.tsinghua.edu.cn>
+To: tian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFu99Lyxx/PW+l3K17TOvPvD5rrz1PXR+cGqz7WyxbK7yqfMxs27xNg/?=
+Date: Tue, 20 Sep 2005 07:21:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0170_01C5BC96.D6F872D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+给泥一个还算比较成功的例子吧：到她住或者读书的地方附近玩的时候，发短信
+或者电话她，问她某个地方怎么走，然后开始聊。。。
+     大家支持一下吧
+        前两天同学带了个MM来我家,后来我请他们在外面吃了一顿,了解了下。突然发现有了些感觉，同学也私下鼓励我．
+        当时由于其他原因一直犹豫不绝,连MM的电话号码都没要；当时她们邀请我第二天和另外几个人去居庸也推掉了。

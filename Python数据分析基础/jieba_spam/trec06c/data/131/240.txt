@@ -1,0 +1,44 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <wei@ccert.edu.cn>; Wed, 14 Sep 2005 17:58:23 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Wed, 14 Sep 2005 18:10:22 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <wei@ccert.edu.cn>; Wed, 14 Sep 2005 18:10:21 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <xia@dlut.edu.cn>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgSUVFRcflu6q089Gn0afJ+rfWu+HWvtS41d/V0NDCwcujoSAo16rU2Ck=?=
+Date: Wed, 14 Sep 2005 18:10:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 IEEEINFO 讨论区 】
+发信人: jackghost (小脸盆儿大轮胎), 信区: IEEEINFO
+标  题: IEEE清华大学学生分会志愿者招新了！
+IEEE清华大学学生分会是个什么样的组织？
+    IEEE清华大学学生分会草创于2001年，依托于中国电子学会，由一批富有工作热情的志愿者组成，每年为同学提供会员注册服务并组织各种学术报告活动。随着国际交流的增加以及IEEE对学生分会的重视，分会决定扩大志愿者工作队伍，欢迎热衷于科研学术、国际校际交流、活动组织管理的本科、研究生、博士生同学加盟。
+加入IEEE清华学生分会而成为一名志愿工作者有何益处？
+学术交流方面：
+更多和同行及专家的交流合作机会
+    书信以及面对面的交流机会
+    和IEEE的学术权威、管理核心的交流
+    和全世界其他分会的教授、学生的交流
+    和全国其他高校教授、学生的交流
+英语学习：
+    国际交流都将运用英语进行交流，对提高英语交流能力大有裨益
+工作能力锻炼：
+    活动的开展需要领导能力和合作精神，国际交流的要求更高，更具挑战性！
+如何成为IEEE清华大学学生分会的志愿工作者？
+    清华大学在校本科生、硕士研究生、博士研究生都有资格加入协会，不要求是IEEE的注册会员。欢迎广大同学来信询问、加盟！截至日期2005年9月20日，来信请发送至如下邮箱： zhouc@mails.tsinghua.edu.cn,chenyujun03@mail.tsinghua.edu.cn加盟同学请注明姓名、年级、系别、分会工作意向、兴趣爱好等。尤其欢迎具有美工经验的同学参加！
+     水木BBS用户可直接发送信件至 ieeeTHU。 
+附：IEEE清华大学学生分会参与或组织的活动：
+        2001年，第一届亚太地区学生分会主席会议在新加坡召开，学生分会的重要性进入视野。
+        2004年7月中旬，第二届亚太地区学生分会主席会议在香港召开，北京分会下的四个学生分会（清华、北邮、北交大、西电）均派出代表参加。会上讨论了学生分会的发展，并初步拟定两年一次的学生分会主席会议增加为一年一次。2006年我们将主办亚太地区IEEE学生分会大会。
+        2005年6月中旬，首次“学术工程--走进fellow”活动由分会成功组织，会上邀请洪先龙教授和同学们进行了深入的交流。以后该系列活动将力争成为分会的品牌系列活动而继续下去。

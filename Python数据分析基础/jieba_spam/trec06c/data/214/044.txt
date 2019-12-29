@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TNZmZm009556
+	for <jin@ccert.edu.cn>; Sat, 1 Oct 2005 21:59:25 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8TNkmaV017714
+	for <jin@ccert.edu.cn>; Sat, 1 Oct 2005 22:10:25 +0800 (CST)
+Message-Id: <200509292346.j8TNkmaV017714@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 1 Oct 2005 13:44:00 -0000
+From: "ning" <ning@mail.tsinghua.edu.cn>
+To: jin@ccert.edu.cn
+Cc: <yi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IHphbtXiuPajrLTzvNLX7M/CwfTH6bDJ?=
+Date: Sat, 1 Oct 2005 22:10:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5C593.18C0F390"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXFUAn0NYzCGVdZSOy1gVwHMkt8UA==
+
+re，我觉得很多回帖都很过分，或者按高考填志愿的政策分析的，和清华推研的实际情况不符。
+我觉得楼主固然有错，也不是原则性问题。A系虽有故意刁难之嫌，也有情可原。不过他的本息政策上比较过分，同样的情况我所在的系中就不会发生，因为大家都认为除去交叉实际上就是给其他人留在本息提供了机会，算是做贡献，交叉不成再回来也是天经地义的。
+很多人说的第一志愿第二志愿的问题，那是与清华的推研具体情况不符的，推延没有第几志愿，只有先面试的后面试的时间上的前后。你想去的后面，你不太感兴趣的先面，很常见的情况。这就像找工作一样。
+     现在lz心理很不好受，大家该教育的教育一下，适可而止吧

@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <wei@ccert.edu.cn>; Sat, 24 Sep 2005 09:15:18 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 09:04:18 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 24 Sep 2005 09:04:17 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 24 Sep 2005 09:04:17 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 01:04:17 -0000
+From: "ou" <ou@mail.tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM31zazRp9eq0afKx7j2utzV/bOjtcTKwsfpo6jWuNTaufrN4qOp?=
+Date: Sat, 24 Sep 2005 09:26:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+"一个一个半途而废" 这样的态度放在哪都做不成学问,
+不要归结为体制原因,推卸责任到学校和身边的人身上。
+不说别的，几个月不来实验室，出去旅游两个月不打招呼，
+这在国外能毕业才怪。
+     不过这哥们也不给自己留条退路，先申请到国外的学校，再退学也不迟啊。
+        多半早就联系好了，新东方都读过了，离出国还远吗
+     骂人我倒没看出来，只不过他说得很多老板的不好我倒觉得他的老板实际上挺好的。
+     从他的文章看，他对一些问题的看法很个人化。这些看法对他以后的学习工作可能还会造成一些伤害。

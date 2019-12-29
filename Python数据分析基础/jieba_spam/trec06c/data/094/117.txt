@@ -1,0 +1,57 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85FFJ7F018850
+	for <wang@ccert.edu.cn>; Tue, 6 Sep 2005 21:24:25 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j85FCtFd055076
+	for <wang@ccert.edu.cn>; Tue, 6 Sep 2005 21:22:37 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j85FCqUH055072
+	for <wang@ccert.edu.cn>; Tue, 6 Sep 2005 21:21:58 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509051512.j85FCqUH055072@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Tue, 6 Sep 2005 13:11:07 -0000
+Date: Tue, 6 Sep 2005 21:32:00 +0800
+From: "han" <han@mails.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j85FCqUH055072
+Subject: =?gb2312?B?ofEg1dK5pNf3x+m/9g==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+年前找了几个公司
+包括东芝、西门子、百度
+都被据了
+特别是百度，我现在想起来还特别的恼火！
+他们面试的时候，
+问我memset()函数怎么用，strtok()函数怎么用，问我有几种排序算法，又几种检索算法
+ft！！还问我continue怎么用！这是本科内容啊，他们这是面试博士吗？这是在面试
+低级程序员！我极为恼火！
+还有一个烂烂的专利局的小公司，做mis！主要看源码、写文档，
+我当时就说：这些工作，本科生就可以做阿，
+他们的负责人说：我也是这么跟人事说的
+我窝火极了
+根本没有参加笔试，转头就走！
+我发了不少文章，但是几乎没有高质量的文章
+如果去深圳的哈工大深圳研究生院
+要发EI5篇
+家里认为这个对我太难，不让我去冒险
+让我在北京找个学校，当老师吧
+上午和我老师谈了不少，在msn上面谈的
+我也在考虑。

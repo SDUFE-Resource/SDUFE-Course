@@ -1,0 +1,25 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <gan@ccert.edu.cn>; Tue, 27 Sep 2005 18:39:42 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 10:50:53 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 18:50:52 CST
+Date: Tue, 27 Sep 2005 18:50:52 +0800 (CST)
+From: liang ming <qing@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMTjv7S5/bXEtefTsNbQo6zE49fuz7K7trXEzKi0ysrHyrLDtKO/?=
+To: gan@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+　 “我爱你。” 
+　　“我知道。” 
+　 《星球大战：帝国反击战》中，哈里森．福特饰演的“万年鹰号”宇宙飞船船长韩素罗被敌人抓住，要被做成碳化固体来把他囚禁。他与莉亚公主从第一集开始就一直脉脉含情间，却都盈盈不得语。如今生离死别，莉亚公主忍不住说出“我爱你”，老韩却极酷地扯了一下嘴唇，说“我知道”。据说乔治．卢卡斯原来的剧本中，他的答话是俗套的“我也爱你”，但被哈福灵机一动，改成了这个，顿时成为不朽。爱一个人是美好的，更美好的是爱他，并且他知道，就像《鼓手》中张国荣与女友的顺势一吻，《暗战》中蒙嘉慧向刘德华肩头的轻轻一靠。
+     别处看来的
+     “海明威说：‘这世界是美好的，值得我们为之奋斗。’――我相信后半句。” 
+     Anyhow, the world is a fine place, it\'s worth fighting for.

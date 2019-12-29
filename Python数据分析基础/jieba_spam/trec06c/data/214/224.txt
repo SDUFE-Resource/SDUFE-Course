@@ -1,0 +1,36 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <gao@ccert.edu.cn>; Sun, 2 Oct 2005 05:34:54 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sat, 1 Oct 2005 21:45:50 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sat, 1 Oct 2005 21:45:50 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <gao@ccert.edu.cn>; Sat, 1 Oct 2005 15:07:29 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <gao@ccert.edu.cn>; Sat, 1 Oct 2005 16:52:22 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sun, 2 Oct 2005 05:45:45 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <gao@motorola.com>
+To: gao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7K0ruyv7m5y7zG5sfJtcS159OwLS2wosHpttm5q8K3o6jO3tC4v8m796Op?=
+Date: Sun, 2 Oct 2005 05:45:43 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+是啊
+看了一会儿，我就觉得很无聊沉闷
+实在是下半夜没别的片子也没事情可干，才忍着继续看
+没想到结尾抖了这么个包袱，一下子惊叹了
+可能这是我印象特别深刻的一个原因
+人总是喜欢惊喜的
+     看过呀，蒂姆罗宾斯的经典反派形象～～只有结尾很赞，感觉角斗俱乐部是抄袭此片结尾思路，虽然我现在不确定哪个先出的，只记的无懈可击看的早点，基本上属于那种前边全是铺垫，而且没有亮点，而仅靠结尾震撼的类型片，此片前边铺垫较少，不如普通嫌疑犯在前边有很多暗示

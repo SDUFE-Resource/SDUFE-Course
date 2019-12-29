@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3DEnC011057
+	for <ou@ccert.edu.cn>; Sun, 2 Oct 2005 10:51:23 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U37j6F080151
+	for <ou@ccert.edu.cn>; Sun, 2 Oct 2005 10:46:10 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U37hcH080147
+	for <ou@ccert.edu.cn>; Sun, 2 Oct 2005 10:45:52 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509300307.j8U37hcH080147@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodo-f4b2088bd3) (ksj00@202.112.4.221)
+	by localhost with SMTP; Sun, 2 Oct 2005 02:58:17 -0000
+Date: Sun, 2 Oct 2005 10:57:51 +0800
+From: "han" <han@mails.tsinghua.edu.cn>
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+0wLTAz8qmttS0/dGnyfrKx7K7yN3JzMG/tcSw1LXA?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8U37hcH080147
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+“志愿”一词本来就是计划经济的产物
+好像我的志向愿望都是朝着这个了
+试问有多大比例的学生真正的志向愿望就是去读他 选择的那个导师的研究生？
+所以“志愿”在当前市场经济条件下只能称为一种意愿，
+解释为我有意愿读你的研究生，你同意了，我还可以根据你给我开出来的课题研究方向、福利待遇等决定是否真的读取
+国外研究生招生就是这样做的，你感觉他给你的课题不爽，offer奖学金钱不多就可以拒绝
+我们国家虽然不能和国外比，但是连让学生跟家里商量一下的权利都不给，就显得非常蛮横和欺负弱势群体了
+     难道志愿的先后顺序不算选择的一种表示么？
+     我觉得A所没错，但lz系里不厚道

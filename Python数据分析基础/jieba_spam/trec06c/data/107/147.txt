@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j88NO7DZ015484
+	for <hu@ccert.edu.cn>; Fri, 9 Sep 2005 17:56:55 +0800 (CST)
+Received: (eyou send program); Fri, 9 Sep 2005 17:53:48 +0800
+Message-ID: <326221660.20544@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 9 Sep 2005 17:53:48 +0800
+Message-ID: <326221660.20503@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Fri, 9 Sep 2005 17:53:48 +0800
+From: weng@mail.tsinghua.edu.cn
+To: hu@ccert.edu.cn
+Date: Fri, 9 Sep 2005 17:53:48 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgus7Yuef5vczK2qGi1dTHp7SovczK2sv5ytqhtri01NPPtc2z0NTE3MbAvNvT69PFu6+ht7/O
+s8y12tI=?=
+Content-Type: text/plain
+
+【 以下文字转载自 CampusInfo 讨论区 】
+发信人: happystudent (tomy), 信区: CampusInfo
+标  题: 何毓琦教授、赵千川教授所授《复杂系统性能评价与优化》课程第

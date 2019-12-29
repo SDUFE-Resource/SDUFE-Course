@@ -1,0 +1,28 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <jin@ccert.edu.cn>; Wed, 28 Sep 2005 14:25:42 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 06:36:49 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 14:36:49 CST
+Date: Wed, 28 Sep 2005 14:36:49 +0800 (CST)
+From: liang ming <cai@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMWusqnKv9XmtcS+zcTHw7TE0bSmxa7F89PRwvCjvw==?=
+To: jin@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+上次在pie看到一些文字：
+大部分女博士(包括部分女硕士)一般是智商高,情商低
+　　解数理化题,做研究可能比较拿手
+　　但是,她们自以为自己是博士了,往往自视清高,认为自己是高等知识分子了,往往从心底里看不起普通人,认为这些人俗不可耐没必要与他们打交道,一般自恋情结,而且缺少生活情趣,与外界有交际方面的障碍,他们把在实验室里做研究的严谨精神带到现实生活中来了，所以显得刻板与无趣，而且因为一直在学校里呆着，所以思想很单纯，对外界纷繁复杂的各种关系毫无知觉，所以从外表气质和行事方式很快就能分辨出直博与工作数年后再来读博的人出来．
+　　与女博恋爱的话，男方可能会遇到下列情况，被对方忽略(整天沉溺于研究中去了)，被轻视（博士对比自己学历低多的人一种态度），生活沉闷与无趣（可能过多考虑研究去了，忽略了生活的乐趣，而且通常不会收拾自己把自己打扮得漂漂亮亮让人喜欢，更不会为了讨好男友而屈尊自己）,
+　　凡此种种表现，女博士一直被妖魔化，被男人嘲称为科学家，甚至被呼之“灭绝师太“，加之男的一般不太喜欢女的太强势，所以要区分清
+　　（研究）工作和家庭的关系也非常重要，而那种在工作上强势，回家后在老公面前表现得（那怕装也要装得象一点）象个弱小得需要保护的乖乖女的样子肯定讨大部分男人喜欢,而且男人喜欢那种有气度，懂浪漫又会生活的女人.....这种女人我见过，大学时一个女院长（国外留学博士）就是，她老公只是一个校内邮局的普通工人（听说是大学时的校友），但是他们却恩爱有加，比如会她下了班尽快回家做饭，下雨了他老公会送伞到她办公室来（虽然离家不太远），．．．．虽然只是一些非常非常平凡的生活细节，但从里面可以看出他们是多么的恩爱，当然，我这只是举个小实例而已，并不是说女博士非要嫁个比自己差太多的人才会幸福，只是说明，爱情与学历无关，而只与个人的性格表现有关，
+     学术问题上最好还是让着博士，不管是男博士还是女博士
+     俺是女博士，俺bf是男博士，经过无数次争吵，我决定在他讲他的专业时，我只用显示出
+     无限崇拜样就可以，在我讲我的专业时，他也只需要无限崇拜地看着我就可以，哈哈

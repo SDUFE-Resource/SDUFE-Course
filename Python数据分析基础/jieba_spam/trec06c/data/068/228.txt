@@ -1,0 +1,26 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7V1socv011928
+	for <xu@ccert.edu.cn>; Fri, 2 Sep 2005 02:49:26 +0800 (CST)
+Message-ID: <200508310954.j7V1socv011928@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO malibotreasure) (malb03@166.111.203.148)
+  by localhost with SMTP; Thu, 1 Sep 2005 18:37:40 -0000
+From: =?gb2312?B?wu3A8rKo?= <shen@mails.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvLGjrMfrzsrV4rfiwM+w5bXE0MXKx8qyw7TS4su8?=
+Date: Fri, 2 Sep 2005 03:01:53 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+Thread-Index: AcWI/xWUiTh2uxm6QWyTJ93ncFaG0Ak0M1Ug
+In-Reply-To: <321405761.05160@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+
+Thank you for your email.  Is it possible to send me a soft copy of your
+ publications (including those in Chinese) so that I can have a better i
+dea of your expertise?  Also, are you planning to work in academia or in
+ the industry after you get your Ph.D.?  I am just trying to see how wor
+king in xxxx fits into your career path as I always hope that any resear
+ch work here will be beneficial to both parties. Thank you very much.
+是不是想问我想不想做工程方面的东西呀，我是CS专业的

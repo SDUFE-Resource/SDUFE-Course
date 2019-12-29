@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <jin@ccert.edu.cn>; Sat, 24 Sep 2005 04:10:55 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 03:59:55 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 24 Sep 2005 03:59:54 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 24 Sep 2005 03:59:54 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 19:59:54 -0000
+From: "liao" <liao@mail.tsinghua.edu.cn>
+To: jin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG2sKK4ytX9tKuhtw==?=
+Date: Sat, 24 Sep 2005 04:22:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+荒谬的情节和深刻的哲理并不矛盾。
+有时荒谬比真实更加“真实”。
+阿甘是内涵丰富的讽刺艺术。当然讽刺中饱含着作者的美好理想。
+阿甘不是那种“王子与公主幸福的生活在一起直到永远”式的童话，
+就像阿Q不是一个可笑的大Joke一样。
+     第一，全面扭曲现实，和渲染某个事物，不一回事。前者叫唯美童话，后者是一般艺术。
+           《美丽人生》不过是以极为夸张方式歌颂爱情和奉献，和全面扭曲现实规则的《阿甘
+           不同。

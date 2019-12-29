@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KNVQWO026957
+	for <qing@ccert.edu.cn>; Fri, 23 Sep 2005 11:17:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8KNgrSA012901
+	for <qing@ccert.edu.cn>; Fri, 23 Sep 2005 11:28:54 +0800 (CST)
+Message-Id: <200509202342.j8KNgrSA012901@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 03:07:10 -0000
+From: "lv" <lv@mail.tsinghua.edu.cn>
+To: qing@ccert.edu.cn
+Cc: <ke@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILzSsOa1xEdHSkpNTUREw8e9+MC0sO/O0r+0v7TV4rj2tdi3vdT1w7TX36GjoaOhow==?=
+Date: Fri, 23 Sep 2005 11:28:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0056_01C5BE80.0E54D8A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW+PP+dE9Zps0Q1RamkdUKgZkzF9Q==
+
+厉害厉害，争论之余还抽空查这个，真实热心人亚
+     是这个嘛?
+     华尔森宾馆位于西城区金融商业区，交通便利，是集培训、会议、旅游、出差办事、度假首选宾馆。宾馆共有客房120套，标准间面积35平方米，配有高级卫生洁具、中央空调、卫星光缆电视系统等服务。有风格各异的大小会议室、商务中心、票务中心、购物中心、美容美发、停车场

@@ -1,0 +1,28 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PBM1hB031975
+	for <guan@ccert.edu.cn>; Sun, 25 Sep 2005 17:51:29 +0800 (CST)
+Received: (eyou send program); Sun, 25 Sep 2005 17:38:49 +0800
+Message-ID: <327646561.19141@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 25 Sep 2005 17:38:49 +0800
+Message-ID: <327646561.19123@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Sun, 25 Sep 2005 17:38:49 +0800
+From: pan@mail.tsinghua.edu.cn
+To: guan@ccert.edu.cn
+Cc: zhuang@ccert.edu.cn
+Date: Sun, 25 Sep 2005 17:38:49 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM312/Mgsrux2LXAx7ijrNff19S8urXEwrewyaOh?=
+Content-Type: text/plain
+
+hehe, metapost的作者都没那么nb
+     标  题: Re: 王垠 不必道歉，走自己的路吧！
+     
+     你是说这个主页？
+     http://cm.bell-labs.com/who/hobby/MetaPost.html
+     能搞网上运动可以去当版主
+     : 王垠 出名是因为 linux， tex，metapost
+     : 你拿google 古一下 metapost，就是王垠的主页，
+     : 作为一个在校学生，能在网上搞些“运动”起来，不错了，
+     
+     --
+     

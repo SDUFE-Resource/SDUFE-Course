@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5IQ6E027876
+	for <cai@ccert.edu.cn>; Sun, 11 Sep 2005 13:23:36 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5Fd1q091174
+	for <cai@ccert.edu.cn>; Sun, 11 Sep 2005 13:21:10 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5FXOV091170
+	for <cai@ccert.edu.cn>; Sun, 11 Sep 2005 13:20:43 +0800 (CST)
+	(envelope-from yang.feng00@mails.tsinghua.edu.cn)
+Received: from unknown (HELO zyyf) (yang.feng00@61.49.179.73)
+	by localhost with SMTP; Sun, 11 Sep 2005 05:09:51 -0000
+Message-ID: <002601c5b5c8$a46bebf0$0c01a8c0@zyyf>
+From: "gong" <gong@mails.tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrvcyjus7SuMPI57rOveLKzQ==?=
+Date: Sun, 11 Sep 2005 13:34:45 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0168757630=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+晕，还有这样啊
+我们专业的稿子一般接收了不会二审据的，最多让你不停的修改。。。
+     曾有一篇文章被ieee transactions 一审接收，但二审被拒了，因为审稿者还是不满意我的修改稿，主编就据了，建议重投。
+     我在一审被接受的情况下，在我的求职简历里面写上了:to appear
+     可能因为这篇文章，东大教授接受我到他那里做博后研究（那时候二审还没有结果），而我当时并不知道是这篇文章的对他接收我的分量，所以被拒后也没和他说。

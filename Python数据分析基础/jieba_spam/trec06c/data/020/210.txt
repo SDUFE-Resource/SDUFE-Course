@@ -1,0 +1,31 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <yana@ccert.edu.cn>; Sun, 21 Aug 2005 07:03:44 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <yana@ccert.edu.cn>; Sun, 21 Aug 2005 07:16:46 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 07:40:14 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: wua@126.com
+To: yana@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILDWsNa1w8HLsNfE2tXP?=
+Date: Sun, 21 Aug 2005 07:11:28 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+我奶奶以前也得过白内障，只是视线模糊，而且会越来越模糊，好像没有其他的不舒服。
+而且做手术可以痊愈。不过当时做手术要等到那个障把眼睛长满了才能做手术，不知道现在有没有先进些。
+     这次回家要陪他去医院做检查。现在还不到特别严重的地步，但是老爸说自己右眼
+     有时像开水烫一样疼。纯粹的白内障是无痛感的吧。
+     所以，想问一下，这次检查，还应该查些什么？比如眼压之类的，不是很清楚相关

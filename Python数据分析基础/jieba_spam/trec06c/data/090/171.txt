@@ -1,0 +1,35 @@
+Received: from ict.ac.cn (webmail.ict.ac.cn [159.226.39.7])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j857bP4P016205
+	for <xue@ccert.edu.cn>; Tue, 6 Sep 2005 00:02:06 +0800 (CST)
+Received: (qmail 13088 invoked by uid 507); Mon, 5 Sep 2005 15:43:09 -0000
+Received: from unknown (HELO Computer) (liwei@159.226.40.3)
+  by ict.ac.cn with SMTP; Mon, 5 Sep 2005 15:43:09 -0000
+From: "ke" <ke@ict.ac.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?ofEgQU5TWVMtQ0hJTkGxsb6psOzKwrSm1dDGuKO6tee0xbjfvLbTptPDuaSzzMqm?=
+Date: Tue, 6 Sep 2005 00:14:08 +0800
+Message-ID: <000001c5b1ee$60e52550$0302000a@Computer>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+In-Reply-To: <010301c5af72$bae79980$26cb6fa6@liuwu>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+
+―――――――――――――――――――――――――――――――――――――――――――――――――――
+ANSYS-CHINA北京办事处招聘：电磁高级应用工程师
+职位要求:  
+1. 通讯、电磁场与微波技术及其相关专业，硕士以上学历，博士优先；
+2. 精通电磁场数值算法和高频近似算法，电磁基本功扎实；
+3. 有大型高低频电磁有限元分析程序的使用或者工程分析经验或者编程经验；
+4. 独立科研能力强，思路清晰，严谨科学地分析问题和解决问题能力；
+5. 有较好的人际沟通、协作和表达能力。
+优先条件等其他说明:
+1. 具有航空航天或兵器行业的电磁工程经验或者相关知识，独立承担过该行业电磁工程项目的有限元分析和相关工作；
+2. 具有深厚电磁理论或者数值计算专业背景，有丰富的有限元编程经验；
+3. 能够随时正式上班。
+联系方式：techsupp.bj@ansys.com.cn

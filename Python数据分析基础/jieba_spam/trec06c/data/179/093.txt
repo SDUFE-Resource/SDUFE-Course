@@ -1,0 +1,23 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 17:13:01 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 16:35:19 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "ou" <ou@cert.org.cn>
+To: weng@ccert.edu.cn
+CC: "zhou@ccert.edu.cn" <zhou@ccert.edu.cn>,
+   "che@ccert.edu.cn" <shen@ccert.edu.cn>,
+   "ye@ccert.edu.cn" <yu@ccert.edu.cn>, "huang@ccert.edu.cn" <rao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09q21NK7w/vIq7n6yMu087T6se3I9LjJzsrM4rXEt7TTs6Oo16rM+aOpICjXqtTYKQ==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 17:20:46 +0800
+
+     发信人: boycpu (boycpu), 信区: PhD
+     标  题: 关于对一名全国人大代表若干问题的反映（转贴）
+看了一下附件，应该是真的啦，这样的垃圾，还他妈的人大代表？如果不严肃处理，不是丢他自己的人，丢了我们国家的人啦。
+哎！99年都知道他是一个造假高手啦（说是香港、澳门区旗是自己设计的），还能让他做人大代表，也不知道是怎么当上的。监督机制可真的有问题啊

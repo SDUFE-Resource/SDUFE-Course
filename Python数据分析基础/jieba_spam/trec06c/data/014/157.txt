@@ -1,0 +1,21 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <jin@ccert.edu.cn>; Sat, 20 Aug 2005 01:14:29 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <jin@ccert.edu.cn>; Sat, 20 Aug 2005 01:27:33 +0800 (CST)
+Date: Sat, 20 Aug 2005 01:21:50 +0800
+From: "jin" <jin@sohu.com>
+To: jin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMPAufrC28yzwO/GwLzbtcTW0Ln6yMujqNeqo6k=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+     中国人缺乏诚信和社会责任感。 
+     中国人不了解他们作为社会个体应该对国家和社会所承担的责任和义务。 
+     普通中国人通常只关心他们的家庭和亲属，中国的文化是建立在家族血缘关系上而不是建立在一个理性的社会基础之上。中国人只在乎他们直系亲属的福址，对与自己毫不相关的人所遭受的苦难则视而不见。 
+很遗憾地发现美国人的评价基本上是客观的。尽管有一些是因为传统价值观的不同造成的，但大部分都令人无地自容。
+而发现自己却也终究要过这种狗苟蝇营的生活，sigh。不过我想，如果有一天不必为生活而劳碌了，我大概可以做一点公益的事情吧。

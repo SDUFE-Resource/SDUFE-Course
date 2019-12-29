@@ -1,0 +1,37 @@
+Received: from 163.com (bj44-212.i.netease.com [202.108.44.212])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J2mLj7012065
+	for <pan@ccert.edu.cn>; Wed, 21 Sep 2005 15:10:27 +0800 (CST)
+Message-ID: <200509191048.j8J2mLj7012065@spam-gw.ccert.edu.cn>
+Received: from tsinghua-i1p2se (unknown [219.223.254.137])
+	by smtp4 (Coremail) with SMTP id DkAhVaYpLkMLBk0E.1
+	for <pan@ccert.edu.cn>; Wed, 21 Sep 2005 15:21:58 +0800 (CST)
+X-Originating-IP: [219.223.254.137]
+From: "zhong" <zhong@163.com>
+Reply-To: zhong@163.com
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhd1tC5+syptvvKtdHpytLO3s/fzajQxbK/xrjTw8q1z7DJ+g==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 21 Sep 2005 15:21:54 +0800
+
+中国泰尔实验室无线通信部聘用实习生
+为学生提供社会实践机会
+中国泰尔实验室无线通信部隶属于信息产业部电信研究院，主要从事无线通信领域的技术研究、标准制定以及无线通信产品的检验工作。实验室配有国际一流的高精度、高智能化的检测系统和仪表。其测试研究项目包括：各类无线通信终端、各类移动通信系统、点对点、点对多点宽带无线接入系统、数字集群系统、微波通信系统、卫星通信系统、无线局域网、广域网、蓝牙等。测试和研究范围覆盖了从无线终端到通信网络的各个领域。
+中国泰尔实验室无线通信部长期向在校生提供实践机遇，为应聘实习人员提供面向:移动通讯；无线接入；微波领域；卫星领域的实践机会。有助于参与人员接触前瞻性技术并结合个人研究课题进行论文创作。本实验室也可就其研究方向提供技术支持和指导，并在实践结束后为实践人员提供书面工作经历证明。
+应聘条件：1.面向大三以上和研一以上学生。
+2.对电子通信行业有浓厚兴趣，同时选修过以下基础课程：
+模拟电子技术基础、数字电子技术基础、信号与系统、通信原理、无线基础理论等课程。
+3.有半年左右的科研时间(不得有兼职)。
+4.遵守作息时间、实验室规章制度和保密协议。
+5.自行解决北京住处
+6．月薪500.00元
+招聘方式：面试。面试内容为：无线通信基础理论和电子技术技能。 
+招聘人数：3人/半年
+工作内容：根据工作需求参与部分研究课题和部分测试工作
+如有意请速将简历发至wxtxb@chinattl.com邮箱，如想了解我们请看www.chinattl.com
+                                                   
+中国泰尔实验室
+2005年 9日

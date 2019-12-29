@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <peng@ccert.edu.cn>; Thu, 25 Aug 2005 12:39:50 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 12:58:10 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 12:58:10 +0800
+Date: Thu, 25 Aug 2005 12:58:10 +0800
+From: xia@cernet.com
+Subject: =?gb2312?B?UmU6INC0uPjK6dDF1+6687XExOq0+g==?=
+To: peng@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+以前同学们,笔友们写的信至今仍在保留
+感谢他们在那段时间陪我走过天真烂漫的岁月!
+         真的不知道如今我身边的世界里还有什么人在用笔和纸传递感情。就是我自己，也不知道是不是已经和书信永别了。
+         青春时光中最爱写信的几年恰恰正是书信退出历史舞台的那最后几年。现在正值花季的朋友们恐怕早已习惯了只用e-mail。
+         那段时间我正好处在大学的头两年，其实写信在刚进大学的时候就是一个非常流行的风尚，不晓得现在怎样，那个时候，大一的学生无论是在自习室还是在寝室，大约有一半的时间在写信。给家人写，给过去的同学写。那个时候电话在校园里还是一种难于使用的工具。偌大的校园只有几部IC或者投币电话。宿舍楼里常常能看见急匆匆赶下楼去传达室接电话的同学。

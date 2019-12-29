@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R2Ql7k015088
+	for <feng@ccert.edu.cn>; Thu, 29 Sep 2005 00:25:46 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8R2U2q21285;
+	Thu, 29 Sep 2005 00:29:01 +0800
+Message-Id: <200509270230.j8R2U2q21285@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 16:29:01 UT
+To: feng@ccert.edu.cn
+From: wen@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMWusqnKv9XmtcS+zcTHw7TE0bSmxa7F89PRwvCjvw==?=
+
+性格不强势,走到这一步干嘛
+     认识了一个女孩，博士毕业，
+     感觉平时她性格还可以，一谈论到学术就总是象5.4运动的热血青年那样，很是小马乍行
+     恨天低的样子，今天居然因为一点小事情在手机短信里和我大吵了一次，我在尽力克制自己，可她讲话的语气居然口气硬得让我吃惊，很是恼怒之极的样子。我一直希望找个比较温柔点的GF，可今天她的表现真让我感觉困惑。是不是多数女博士的性格都很强硬啊？

@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RB80BW019815
+	for <cen@ccert.edu.cn>; Thu, 29 Sep 2005 07:48:06 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 07:34:17 +0800
+Message-ID: <327818451.29271@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 29 Sep 2005 07:34:17 +0800
+Message-ID: <327818451.29255@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 07:34:17 +0800
+From: peng@mail.tsinghua.edu.cn
+To: cen@ccert.edu.cn
+Cc: che@ccert.edu.cn
+Date: Thu, 29 Sep 2005 07:34:17 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILbUwcssw/fM7M7StPLL48il0KOzpL3TtP3I1SAo16rU2Ck=?=
+Content-Type: text/plain
+
+     标  题: Re: 对了,明天我打算去校长接待日 (转载)
+     
+     
+     : 食堂何时涨价？游泳馆为何涨价？
+     ~~~~~~~~~~~~~这句也去掉
+     : 博导基金为什么没了，而硕士基金居然还在
+                           ~~~~~~~~~~~~~~~~~~~~~可以把这句去掉吗？
+     : 食堂何时卖兔肉:P
+     
+     --
+     

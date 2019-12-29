@@ -1,0 +1,17 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KB1TcO022822
+	for <shi@ccert.edu.cn>; Wed, 21 Sep 2005 03:17:57 +0800 (CST)
+Received: (eyou send program); Wed, 21 Sep 2005 03:08:11 +0800
+Message-ID: <327213503.11311@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 21 Sep 2005 03:08:10 +0800
+Message-ID: <327213502.11296@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 21 Sep 2005 03:08:10 +0800
+From: mei@mail.tsinghua.edu.cn
+To: shi@ccert.edu.cn
+Date: Wed, 21 Sep 2005 03:08:10 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgvczRtbfWz+2jur2o0um087zSsrvSqsilxanQ0Lvjv+4=?=
+Content-Type: text/plain
+
+领了第一个月的工资，兴冲冲的跑到农行给家里寄钱。因为农行离家最近，所以就寄到父母在家乡农行的账户上，先填了一个无比复杂的单子，包括父母在农行的分支行名称等等。交了1％的手续费（好高啊，几十块的银子）。结果，过了几天，农行给我打电话，说是汇不过去，让我去把钱领会来。到了那里，我问他们为什么农行对农行还寄不过去，他们说是因为父母家乡那边的账号不能接受汇款，可是我后来问了父母，他们办的账号就是普通的账号，办的时候并没有被告知不能接受汇款。如果账户不能接受汇款，为什么汇款的时候不告诉我，农行的人说，他们没有核实账户的义务。我又问他们为什么父母开户时没有人告知他们账户不能接受汇款，农行的人说，这是家乡那边农行的责任，跟他们没关系。无奈只能退款，结果只退寄的钱，几十块的手续费却不退。我问他们为什么，他们说没什么为什么，银行就是这么规定的，当时真的觉得很生气。
+后来，让父母又开了一个招行的账户，结果汇款单子就只填一个账户名称，账户号，金额（农行要填金额和手续费的数字和中文，招行只填一个汇款金额的数字就ok了）就搞定了，手续费只有0.5％，而且汇款后直接到帐（农行要等好几天）。经过这次经历，以后再也不去农行汇款了，把此教训告诉大家，省得象我一样花冤枉钱。

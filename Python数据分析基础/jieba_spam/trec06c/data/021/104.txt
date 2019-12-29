@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <zeng@ccert.edu.cn>; Sun, 21 Aug 2005 10:52:39 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <zeng@ccert.edu.cn>; Sun, 21 Aug 2005 11:05:53 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 10:34:34 +0800
+Date: Sun, 21 Aug 2005 11:05:44 +0800
+From: "qing" <qing@wnt.com.cn>
+To: zeng@ccert.edu.cn
+Cc: "lic" <gong@ccert.edu.cn>, "sunt" <qian@ccert.edu.cn>, "caoy" <pan@ccert.edu.cn>,
+        "wangb" <wen@ccert.edu.cn>, "songhm" <ke@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9XQxrhdx6fP8Lmry76zz9XQamF2Yb+qt6LIy9Sx?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+公司简介：
+千橡公司是集互联网社区、移动增值服务、互联网内容传输等多元化业务为一身的综合性互联网公司。
+公司的目标是借力高速增长的中国互联网市场，发展顶尖的，可持续发展的事业。
+千橡公司的历史是创新的历史，我们努力成为中国互联网的先锋力量，我们相信技术革新及一流的执行是事业成功重要的因素：当我们将眼光锁定某个特定市场，我们就会努力在这个领域中做到最好。
+实践证明，在短短一年半的历史中，我们已经赢得了青少年网络社区和内容传输网络等诸多领域的领先地位。
+公司的主要社区产品包括，猫扑，朋友圈等。
+公司地址：朝阳区朝阳门外大街16号中国人寿大厦1805
+电子信箱：yuzong.yin@dudu-inc.com
+现诚招java开发人员：
+      要求：
+       1。熟悉java开发，包括基础知识，web开发常用设计模式，流行技术，具备设计开发完成项目的能力。
+       2。熟悉常用应用服务器，resin，tomcat，apache。
+       3。熟悉mysql，sql server，oracle等数据库应用
+       4。上进，好学，沟通能力强
+       5. 两年以上工作经验
+     谢谢您的关注。
+     有疑问的话可以先发站内信件咨询
+        或加我msn:xiaostream@hotmail.com
+：）

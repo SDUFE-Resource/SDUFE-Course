@@ -1,0 +1,25 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <yun@ccert.edu.cn>; Tue, 13 Sep 2005 06:33:42 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Tue, 13 Sep 2005 06:45:41 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <yun@ccert.edu.cn>; Tue, 13 Sep 2005 06:45:40 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <ning@dlut.edu.cn>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0MTH6dP0w8bLwMHLo6E=?=
+Date: Tue, 13 Sep 2005 06:45:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     迫于无奈，发贴于此，借人气求大家帮俺想个办法，要不俺要被逼疯了。
+     最近，偶常被一BT手机骚扰。无奈手机关机，扔在家里不敢用。第一次打手机时，因俺不知道，便用公司电话回了，等俺的手机关了后，他居然打到公司来不说，竟来公司找我。幸好那天俺感觉不对头，告诉同事就说我不在，躲过一关后，后来发短信骗他说俺已结婚。。。对方有十来
+     今天早上居然又打电话到公司，正好俺接的，一听说要来公司，吓得俺腿都软了。不过俺从始至终说“我”也差了，不知道对方是不是听出俺声音了。
+     求大家帮俺想个办法，俺实在。。。。

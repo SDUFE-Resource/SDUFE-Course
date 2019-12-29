@@ -1,0 +1,31 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <shi@ccert.edu.cn>; Sat, 10 Sep 2005 10:04:57 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <shi@ccert.edu.cn>; Fri, 9 Sep 2005 19:17:04 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 19:17:04 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 19:17:04 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sat, 10 Sep 2005 10:17:04 +0800
+From: =?GB2312?B?1/O+pw==?= <han@gmail.com>
+Reply-To: han@gmail.com
+To: shi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgo9vH86Pdwb3Dxb/OtcTJz7/Otdi14yAo16rU2Ck=?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+【 以下文字转载自 THUExpress 讨论区 】
+发信人: tsst (BME2001: 一生的挚爱), 信区: THUExpress
+标  题: ［求］两门课的上课地点
+一门是电子系郑友泉老师的《数字和DSP系统平台级设计和实现》，
+一门是自动化系宋靖雁老师的《系统建模理论与方法》。
+以上两门课皆已选满，无法且无法查询上课地点信息，
+希望知道的同学告知一下，谢谢。

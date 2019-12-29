@@ -1,0 +1,39 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <li@ccert.edu.cn>; Sat, 24 Sep 2005 04:44:30 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <li@ccert.edu.cn>; Sat, 24 Sep 2005 04:55:59 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 20:33:05 -0000
+From: "xing" <xing@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Cc: <zhang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMTHxOO1sbP11dLAz7mrtcTU9cO0srvV0tPQx661xKO/?=
+Date: Sat, 24 Sep 2005 04:55:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+ 我一个哥们月薪1.5w 租了个床位400/月
+ 吃的公司免费... 成天加班 恩 用小灵通
+ 骑自行车 貌似月消费低于1k
+     标  题: Re: 那你当初找老公的怎么不找有钱的？
+     
+     上次不是看了极品省钱牛人说的么：
+     1、给人当门房，省房租
+     2、电话使用办公室的，手机基本不用
+     3、近处走去，远处跑去，既省车费又省锻炼费
+     : 我要是不买衣服不买化妆品不租房子可以做到
+     
+     
+     --
+     世界是个小小屋檐。
+     不论谁指挥，能解放台湾，宁愿当炮灰！
+     
+     
+※ 修改:・S0SO 于 Sep 25 20:09:09 修改本文・[FROM: 159.226.40.*]

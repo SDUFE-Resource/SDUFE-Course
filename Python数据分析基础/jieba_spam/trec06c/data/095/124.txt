@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85Brq7S017804
+	for <zhou@ccert.edu.cn>; Wed, 7 Sep 2005 03:01:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j85C6Fu5015902
+	for <zhou@ccert.edu.cn>; Wed, 7 Sep 2005 03:13:51 +0800 (CST)
+Message-Id: <200509051206.j85C6Fu5015902@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 6 Sep 2005 19:00:17 -0000
+From: "chen" <chen@mail.tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Cc: <luo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INbcyNW/tMHLobbQxLyxs9Syu8HLyMi2ubivobe6zaG2xa+0uqG3?=
+Date: Wed, 7 Sep 2005 03:13:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5B255.40DC4970"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWyEjKLgqxyovE3TYCvYclclUUw1Q==
+
+这部片子让我想起两个已经思考过很久的问题：
+    世上真有那样的恶媳妇？！好久前电视剧《儿女情长》里的小媳妇也是这样。我很奇怪居然家人能忍受这样的人，尤其是做丈夫的；要是我早拿刀砍了
+    中国农村的赡养问题真的如此严重？我有农村的远房亲戚就是好几个儿子不肯养她，死的时候都没人管――感觉农村人应该很纯朴，很在乎“孝”的啊
+     奥，呵呵，我觉得看电影就看它好的地方就行了。
+     就像一个人如果只有背影很好看，那就只看他的背影好了，忽略正面

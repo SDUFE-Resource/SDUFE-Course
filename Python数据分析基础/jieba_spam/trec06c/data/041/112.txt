@@ -1,0 +1,36 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <gan@ccert.edu.cn>; Fri, 26 Aug 2005 02:25:23 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 02:43:46 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 02:43:46 +0800
+Date: Fri, 26 Aug 2005 02:43:46 +0800
+From: wua@cernet.com
+Subject: =?gb2312?B?ofEgusvR0NS60MLQzcTc1LTT67LEwc+7r9Gn0dC+v8rS1dDR0L6/yfrNqNaqICjXqtTYKQ==?=
+To: gan@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+【 以下文字转载自 DCE 讨论区 】
+发信人: salli (毕业了), 信区: DCE
+标  题: 核研院新型能源与材料化学研究室招研究生通知
+                        新型能源与材料化学专业热招研究生
+    国际石油期货每桶价格已突破75美元，资源争夺愈演愈烈，发展电动汽车迫在眉捷。
+    中国的移动电话已近2亿，3G移动通讯正在走向市场，功能越来越强，耗电越来越多。
+社会发展需要电池，电池发展需要人才。抓住机遇，前途无量。
+    新型能源与材料化学是一个以化学及化学工程为基础, 与材料科学及电池技术相交叉的新型学科。新学科於1994年5月开始筹建，先后得到了863计划、211计划、985计划的支持。实验室面积已达600多平方米，专门从事先进电池系统及关键材料方面的研究与开发工作,所选课题均属该领域的研究前沿。
+    材料化学工艺学是本学科的主要研究方向，包括结晶过程和结晶反应器、固体化学和固相反应过程、电化学过程和电沉积工艺、溶胶凝胶工艺学以及高分子材料的分子设计、化学合成与物理改性等。其中自主开发的控制结晶新工艺和电化学沉积新工艺已经成功地应用于纳米氢氧化物、纳米氧化物和纳米合金的制备。主要课题包括：
+1.    新型电池系统： 以复合型纳米硫为正极材料做成的新型电池可望成为新一代的锂离子电池，与现有的锂离子电池相比，比能量可提高一倍，原料成本可下降一倍；正负极材料均采用金属氧化物，再与固态聚合物电解质相配合，所组成的新型电池可靠性高，安全性好，完全可以满足军事用途的特殊需要。
+2.    新型正极材料：所研制的球形系列正极材料已进入产业化阶段，并在2004年的上海国际发明展览会上获得了银奖；正在研制的层状多元氧化物以及LiFePo4和LiVPO4等新一代正极材料也取得了一系列突破性进展。
+3.    新型负极材料： 所研制的天然石墨和裂解碳改性技术也已经进入了实用化阶段；对纳米合金负极材料的研究已达到国际先进水平；在复合型负极材料的研制方面正逐步形成独特的优势；对复合型纳米硅负极材料的研究工作正在筹备之中。
+4.    聚合物固体电解质：  凝胶型固态电解质的新型成型工艺已经可以实用化；原位合成的纳米SiO2有效地改进了凝胶型固态电解质的电化学特性；新型凝胶电解质的开发已进入工艺优化和物理改性阶段；全固态聚合物电解质的分子设计、化学合成与物理改性等各个方面均有可喜进展。
+    联系人：何向明 hexm@tsinghua.edu.cn

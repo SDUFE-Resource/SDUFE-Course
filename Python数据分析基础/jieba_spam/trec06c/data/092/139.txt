@@ -1,0 +1,49 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8542Gjk014940
+	for <wen@ccert.edu.cn>; Tue, 6 Sep 2005 11:41:55 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j853xQ7i048852
+	for <wen@ccert.edu.cn>; Tue, 6 Sep 2005 11:40:09 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j853xNkR048838
+	for <wen@ccert.edu.cn>; Tue, 6 Sep 2005 11:39:02 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050359.j853xNkR048838@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Tue, 6 Sep 2005 03:28:08 -0000
+Date: Tue, 6 Sep 2005 11:48:59 +0800
+From: "qiu" <qiu@mails.tsinghua.edu.cn>
+To: wen@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j853xNkR048838
+Subject: =?gb2312?B?UmU6IL3xxOo31MKxz9K1tcTT0NLRvq3C5LuntcTDtA==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+这个不好说了，要看在哪里办理的
+人事局的话是9月开始办，一般在10、11月拿到
+通过人事部办理的，时间上就比较不确定了
+有的很快，有的很慢，9-12月都有可能拿到
+据我所知，有些在人事部审批通过的同学
+户口卡都已经拿到了，呵呵，但只是一少部分
+北京居民身份证往往要等户口落下来以后
+才可以办理，而且有的时候还要等人才的统一通知
+往往不是刚刚落下就能办理
+     rt
+     心理比较着急
+     不知道到底什么时候才能拿到北京居民身份证或者户口卡

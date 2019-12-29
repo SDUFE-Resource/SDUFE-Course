@@ -1,0 +1,36 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 02:34:09 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 01:56:27 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "tao" <tao@cert.org.cn>
+To: qian@ccert.edu.cn
+CC: "weng@ccert.edu.cn" <ou@ccert.edu.cn>,
+   "wen@ccert.edu.cn" <huang@ccert.edu.cn>,
+   "wang@ccert.edu.cn" <cen@ccert.edu.cn>, "su@ccert.edu.cn" <tang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM312/PNy9Gno6zSu7j2yrXR6crSzazRp7XEv7S3qCjXqtTYKQ==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 02:41:54 +0800
+
+这怎么能说是打击呢，工程技术，科学，都是中性的词，
+选择什么完全是个人兴趣。有人好奇心特强，活着就一定要找原因，
+他们只好去学科学，作研究。有人就是喜欢做点儿什么，找解决方案，
+他们就去学工程技术。是你自己敏感吧，说明自己就对“工程技术”不自信。
+     标  题: Re: 王垠退学，一个实验室同学的看法(转载)
+     
+     你打击面太宽了吧？除非你做过所有cs和ee的东西
+     否则不能这样说
+     : 这篇是客观冷静讨论的，支持。
+     : 这么看来也许王垠是选错了专业。
+     : CS或者EE没有什么真的研究的，本来就是工程技术。
+     
+     --
+     永远支持兵工厂
+     
+     
+※ 修改:・saucer 于 Sep 25 14:05:53 修改本文・[FROM: 220.232.84.*]

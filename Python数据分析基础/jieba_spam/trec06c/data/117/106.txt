@@ -1,0 +1,38 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4thuT027743
+	for <wang@ccert.edu.cn>; Sun, 11 Sep 2005 20:19:14 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4r30e090926
+	for <wang@ccert.edu.cn>; Sun, 11 Sep 2005 20:16:48 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A4qgGS090788
+	for <wang@ccert.edu.cn>; Sun, 11 Sep 2005 20:16:13 +0800 (CST)
+	(envelope-from tianying00@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 20:05:22 +0800
+Message-ID: <326327311.25345@mails.tsinghua.edu.cn>
+Received: from 166.111.66.12 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 11 Sep 2005 20:05:22 +0800
+From: "zhang" <zhang@mails.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Date: Sun, 11 Sep 2005 20:05:22 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgvbuyu8bw0ae30bXE0afJ+tLRvq3Xoc/Cwcs=?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: tianying00 <zhang@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+学生已经住下，我的心理稍稍踏实了一点，但是他的父亲写下了两周内交钱的保证书。也从那个时候过来的我知道她的父亲回去借钱是一件都难的事，我祝愿他能顺利！
+暂且放下这个问题不说，我更明白了我的责任和义务。对所有的学生我要倾注我的关爱，对教学我更要倾注我的热情的努力。我的学生虽然不是那些高分的学生，但是我相信他们也是优秀的人，而且我要告诉他们他们全是牛人，我要传授给他们知识，更要激发他们的学习热情。我要他们知道通过学习可以改变他们的命运，贫穷不是买死的。而我甘愿做他们的饲料。我就是牛饲料，生来的意义就是喂养他们的，而且就是他们的存在才让我的存在有意义！

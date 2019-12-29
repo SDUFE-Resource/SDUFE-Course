@@ -1,0 +1,30 @@
+Received: from smtp.263.net (mx04.x263.net [211.150.96.24])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LDnGRe032370
+	for <qian@ccert.edu.cn>; Fri, 23 Sep 2005 16:35:43 +0800 (CST)
+Received: by smtp.263.net (Postfix, from userid 500)
+	id 62B4343643; Fri, 23 Sep 2005 16:47:10 +0800 (CST)
+From: =?gb2312?B?bmFtZQ==?= <zeng@263.net>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8m5pr7NysfSu7j2zsLcsLXEvNKjrM/gsK61xNXJt/KjrL/JsK61xLqi19M=?=
+Date: Fri, 23 Sep 2005 16:47:20 +0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+MIME-Version: 1.0
+X-Mailer: XMail-3.0
+Content-Type: multipart/mixed;
+	boundary="----=NextPart_263Mail-XMAIL-000-000-1127311244Ti4"
+Message-Id: <20050921140045.62B4343643@smtp.263.net>
+
+今天去听水木心曲樊老师的讲座，讲到了成功是什么，
+如果用一副画来表示的话，你会画些什么呢？
+樊老师说，有人画站在高山之巅挥着旗子，有人画在讲台上高举奖杯，呵呵
+每个人对幸福的定义都不一样吧，或许是财富，是职位，是荣誉。。。
+我想要的幸福其实很简单，
+有一个很温馨的家，一家人相亲相爱，哪怕不富裕，也会觉得幸福吧，
+就象我现在的家，并不富裕，但特别幸福，
+始终都保持着一种快乐的气氛，
+父母都是善良、通情达理的人，很爱很爱我们，
+妹妹很懂事，聪明可爱，整个一个开心果^_^
+呵呵，到现在妈妈都还会跟我们一块作游戏，
+恩，幸福就是这样的吧，如果我以后也可以有这样的一个家，
+我想我就会是最最幸福的人了！

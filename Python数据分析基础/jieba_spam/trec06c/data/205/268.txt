@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <su@ccert.edu.cn>; Thu, 29 Sep 2005 20:25:49 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Thu, 29 Sep 2005 12:12:05 -0000
+Date: Thu, 29 Sep 2005 20:37:49 +0800
+From: "ling" <ling@mail.tsinghua.edu.cn>
+To: su@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+     不错，好了很多了，假以时日，日后定为“水木新车”；
+     稍微反驳一下，
+     1。正如re你几个说的，缺乏逻辑。你将在bbs上消遣的灌水和在ieee上严肃的“灌水”进行类比，简直是，，，ieee trans上的水是很难灌的。
+鉴定中....鉴定结果：逻辑强人，先说我缺乏逻辑，然后说类比不当，因为xxx trans上不好灌。（潜台词：我都灌了几年了，楞没滴进一滴汗）。
+拜托，我没有逻辑，你得说因为我没有给出xx前件，就给出xx后件阿。类比错误是什么性质的错误阿？事实不清？

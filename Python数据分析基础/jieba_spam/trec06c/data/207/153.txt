@@ -1,0 +1,22 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <long@ccert.edu.cn>; Fri, 30 Sep 2005 04:23:52 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Fri, 30 Sep 2005 04:26:50 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Thu, 29 Sep 2005 20:26:50 UT
+To: long@ccert.edu.cn
+From: jin@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3ou/rM4dK7z8LFo7W8us3E6sfhwM/Kpg==?=
+
+哪儿都是一样。
+导师忙，不想管你，在世界的任何地方都不会管你。
+只不过中国的体制更差一些罢了。
+美国一样有这样的问题，导师已经tenure在手，管你不管你，对他个人的利益来说，区别不大。
+     牛导，尤其是牛导学校领导、院士这一级的，估计都不会有啥时间和闲功夫辅导手下的学生吧？ 乍看牛导们的话都极有分量，引领大方向，可如果你自己不够牛，不能自己全盘搞定的话……  这里不得不提到小王同学了，小王同学估计会受不了这种导师的，只会要求你发什么档次的

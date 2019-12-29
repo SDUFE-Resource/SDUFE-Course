@@ -1,0 +1,53 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <mei@ccert.edu.cn>; Thu, 25 Aug 2005 06:16:28 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 06:34:51 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 06:34:51 +0800
+Date: Thu, 25 Aug 2005 06:34:51 +0800
+From: xiao@cernet.com
+Subject: =?gb2312?B?ofEguei5yL/GvLy0tNK10M2/xry8uavLvtXQxrjWsM67?=
+To: mei@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+北京某科技公司招聘广告
+公司背景：科技创业型企业文化，美国硅谷技术团队，业务连续成长。
+（1）金融工程业务：为大型企业数据中心提供网络存储与数据备份集成运维服务，包括：实施存储、备份系统以及相关硬件与软件产品；金融工程技术与业务解决方案；参加客户规划设计、技术开发、业务流程、运行维护以及培训等工作。
+（2）教育资源平台与信息化工程：学校与企业网络教育培训系统开发。
+（3）其他业务：产品代理和销售、业务咨询与行业解决方案。
+公司网站：www.zaptron.com
+工作地点：北京市西城区复兴门金融街(近地铁站)。
+工作待遇：具市场竞争力，面议。工作优秀者推荐攻读名校硕士（博士）研究生。
+联络方式：Send resume （Chinese and English）with salary requirement and supporting materials to dongping_zhu@yahoo.com
+数据存储工程师 Network Storage Engineer（2名）
+要求：计算机专业本科以上学历，文笔好，熟炼英语（4级为好，能阅读英文技术资料、说明书及计算机设备日志log信息）。熟悉下述技术与产品：
+数据存储设备及SAN架构，包括：数据安全性、FC与SATA磁盘、磁盘柜JBOS、磁盘冗余RAID技术、磁盘阵列、控制器，LUN设置；业务的数据容量计算与存储设备配置，等等。
+数据备份与业务容灾，包括：数据安全、业务连续性、备份软件backup、增量备份incremental backup、数据复制replication，数据恢复recovery,备份存储池配置，备份策略，容量计算，等等。
+计算机系统（Windows， Unix， Linux操作系统，SUN v880、Sun v1280、IBM M80、HP、Dell、Legend服务器），Cluster与服务器热备份，standby。
+网络技术与设备（Brocade光交换机， 设备IP地址配置）、网络布线等技术。
+工作责任：维护存储与备份系统，保证客户生产连续；发生设备故障能独立修复，或配合其他技术人员解决问题。与客户的业务和技术人员沟通交流，了解和分析客户的新需求。编写相关业务与技术的解决方案、系统维护值班记录；指导与培训客户人员。跟踪国内外存储与备份及相关技术的发展趋势，提供竞争情报，参加技术交流活动。其他相关任务。
+数据存储实习工程师 Network Storage Trainee（1－2名）
+要求：计算机本科在校实习生，文笔好，能读技术英文及计算机log信息。
+责任：兼职，每天在客户现场值班2－3小时，检查系统，做好记录，包括：
+数据存储设备及SAN架构，包括： FC与SATA磁盘、磁盘柜JBOS、磁盘阵列、控制器，LUN；等等。
+数据备份与业务容灾，包括：使用备份软件backup、与数据恢复recovery软件, 备份存储池配置，备份策略，容量计算，等等。
+学习计算机系统（Windows， Unix， Linux操作系统，SUN v880、Sun v1280、IBM M80、HP、Dell、Legend服务器），服务器热备份，standby。
+公司将对上述实习工程师提供技术与产品的培训。
+总裁（国内）商务助理 Business Assistant to President（1名）
+&amp;#61548;    
+要求：仪表端庄，精通英语听说写，本科以上学历（IT、管理、经济、市场或英语等）。具有独立工作能力、领导才能；市场开拓能力、产品销售能力、PR公关能力；工作主动，富有创造力；表达和文笔能力强；熟悉信息计算机技术与IT行业的业务逻辑。熟悉政府与企业公共关系者更佳。
+责任：与供应商和客户的业务和技术人员沟通交流，了解和分析客户需求；编写和实施业务方案；享有独立工作空间，领导团队开展工作。其他相关任务。直接对总裁负责。
+待遇：具市场竞争力，面议。优秀者可推荐攻读名校硕士（博士）研究生。
+总裁行政助理Executive Assistant to President（1名）
+要求：仪表端庄，精通英语听说写，本科以上学历（IT、管理、经济、市场或英语等）。具有独立工作能力、领导才能；市场开拓能力、产品销售能力、PR公关能力；工作主动，富有创造力；英语听、说、写能力强；熟悉信息计算机技术与IT行业的业务逻辑。熟悉政府与企业公共关系者更佳。
+责任：与供应商和客户的业务和技术人员沟通交流，了解和分析客户需求；编写和实施业务方案；享有独立工作空间，领导团队开展工作。其他相关任务。直接对总裁负责。

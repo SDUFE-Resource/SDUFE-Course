@@ -1,0 +1,30 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <ke@ccert.edu.cn>; Wed, 28 Sep 2005 18:29:49 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 10:40:59 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 18:40:59 CST
+Date: Wed, 28 Sep 2005 18:40:59 +0800 (CST)
+From: liang ming <lei@yahoo.com.cn>
+Subject: =?gb2312?B?ofEg1fTSu867sK7DqLXExfPT0bj4ztLDx7zStPOw17Wxwug=?=
+To: ke@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+大白曾经是只流浪猫，实在不舍的他在外面辛苦的游荡，把他抱回了家。
+加上原来的俩猫一狗，我自己已经照顾不过来了。
+有没有人愿意做大白的妈呢？
+或者拜托版上各位帮我问一下朋友亲戚，不胜感激！
+男猫，一岁。
+温顺粘人，不破坏东西。
+不挑食，总是心满意足的把盘子里的食物吃光。
+会用猫砂。
+喜欢安静的待着，不会调皮捣蛋。
+希望大白在冬天来临之前找到一个温暖的家。
+请联系62340479，袁。或者站内信箱。谢谢。

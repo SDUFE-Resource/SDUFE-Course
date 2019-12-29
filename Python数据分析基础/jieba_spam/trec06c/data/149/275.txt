@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <xiao@ccert.edu.cn>; Sun, 18 Sep 2005 05:17:52 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <xiao@ccert.edu.cn>; Sun, 18 Sep 2005 05:34:27 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <xiao@ccert.edu.cn>
+	; Sun, 18 Sep 2005 05:34:27 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <xiao@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 04:59:28 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "xia" <xia@njnu.edu.cn>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SwbWwrsHLo6y1q87SsrvQ0rij?=
+Date: Sun, 18 Sep 2005 05:29:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+有些东西是可以培养的，比如爱情。你们相处才一个月，要说有那种很深的感觉是不太现实的，都没有经历什么风浪，哪来的刻骨铭心。但是一开始应该有些甜蜜得吧，而且有时候这种感觉是要靠两个人去营造得，不是什么美丽的东西都是天上掉下来的。我觉得如果时间能够让两个人越走越近，那证明是真正的爱情，相反，一开始的时候就轰轰烈烈，越到后面越平淡疏远的，有可能就经不住考验了。
+    我和他恋爱有一个月了，见了他父母，他们都非常喜欢我。
+    但是我总觉得有些茫然，心里似乎没有幸福的感觉。（我们两个都是很有责任心的人，这段感情以婚姻为导向）
+    很平淡，他握着我的手，我觉得就像左手握右手。
+    请大家告诉我：我找不到爱的感觉，这是怎么回事？

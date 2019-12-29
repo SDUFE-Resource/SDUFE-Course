@@ -1,0 +1,46 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3XRsq011198
+	for <liao@ccert.edu.cn>; Sat, 1 Oct 2005 14:10:18 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U3S2Fd080380
+	for <liao@ccert.edu.cn>; Sat, 1 Oct 2005 14:05:04 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U3RxnO080376
+	for <liao@ccert.edu.cn>; Sat, 1 Oct 2005 14:04:49 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 1 Oct 2005 14:17:14 +0800
+Message-ID: <328051624.14203@mails.tsinghua.edu.cn>
+Received: from 202.112.4.39 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 1 Oct 2005 14:17:14 +0800
+From: kong@mails.tsinghua.edu.cn
+To: liao@ccert.edu.cn
+Date: Sat, 1 Oct 2005 14:17:14 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INfyzOzSucDv?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: kong@mails.tsinghua.edu.cn
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+        以我超人的理解能力和分析能力
+        给大家翻译一下试试看
+        首先此“齐天大圣”应为男性
+        因称其异性朋友为“伊”
+        “伊”在“伊”的同学的宿舍里
+        然后“齐天大圣”问“伊”“伊的同学”之性别
+        “伊”回答为女
+        “齐天大圣”对“伊”之回答半信半疑
+        遂下线
+        但我不明白挖这个坑的目的是什么
+     上qq碰到一个异性朋友,伊在同学的宿舍里,问了一句,男同学的还是女同学?伊说"当然女
+     的啦".偶半信半疑的下了线

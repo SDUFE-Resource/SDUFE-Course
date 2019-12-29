@@ -1,0 +1,126 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <yana@ccert.edu.cn>; Fri, 2 Sep 2005 08:04:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <yana@ccert.edu.cn>; Fri, 2 Sep 2005 08:17:24 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 00:05:59 -0000
+From: "xiao" <xiao@mail.tsinghua.edu.cn>
+To: yana@ccert.edu.cn
+Cc: <long@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0fvE+rzTw8styKvH8tfutPO2wMGiyta7+tHQt6LW0NDE?=
+Date: Fri, 2 Sep 2005 08:17:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+Cellon 
+o4年全球最大的独立手机研发中心，邀您加盟
+请将简历发送到 cathy.yang@cellon.com.cn。 谢谢。
+1) Software Engineer
+(http://www.zhaopin.com/jobseeker/ps_request.jsp?vacancyid=12381387&amp;language
+=1)
+Description 
+1.Software development in wireless value added service domain. 
+2.Software design, development and testing 
+Requriement 
+1.Bachelor/Master degree in computer science or equivalent 
+2.Mininum 2 years experience on software development 
+3.Strong J2EE programming skills. 
+4.Strong Database programming skills 
+5.Strong RAD development skills 
+6.Good knowledge of TCP/IP WAP HTML XML 
+7.DRM, Security, Multimedia knowledge is a plus 
+8.Good communication skills 
+9.Good written and oral english skills
+------------------
+2) Software Architect
+(http://www.zhaopin.com/jobseeker/ps_request.jsp?vacancyid=12381363&amp;language
+=1)
+JOB PURPOSE: 
+Software architecture design, software requirements management, technical so
+lution proposal and evaluation, lead software development activities. 
+RESPONSIBILITIES: 
+1. Collaborate with marketing and product management team to generate and si
+gn off software requirements specification based on marketing requirements. 
+2. Software system architecture design. 
+3. Create technical solutions proposal according to customer and marketing t
+eam’s requirements. Evaluate existing technical solutions. 
+4. Create design and coding guidelines. 
+5. Lead software design and code review, ensure modules design and implement
+ations are complaint with system architecture. 
+6. Software development time and effort estimation, assist program manager t
+o create and execute development plan. 
+7. Cooperate with QA and testing team, analyze issues and assign proper soft
+ware engineers. 
+8. Mentor junior software engineer of technical skills, knowledge transfer. 
+JOB REQUIREMENTS: 
+1. Bachelor or Master Degree major in Computer Science or equivalent area. 
+2. Minimum 3 years working experience of J2EE development. 
+3. In-depth knowledge and experience of OOA/OOD, UML, Design Patterns. 
+4. Demonstrate knowledge and skills of Java and J2EE programming, including 
+JSP, Servlet, EJB, Struts, and Spring Framework. 
+5. Good knowledge of J2EE persistent frameworks. 
+6. Familiar with Oracle and other relational database development. 
+7. Practical knowledge of software development methodologies of RUP, XP, Cry
+stal, FDD, Scrum and so on. 
+8. Technical knowledge of mobile services, such as SMS, MMS, WAP, DRM. 
+------------
+3) Test Engineer
+(http://www.zhaopin.com/jobseeker/ps_request.jsp?vacancyid=12381368&amp;language
+=1)
+JOB PURPOSE: 
+Test cases design, document and execution, test result reporting and trackin
+g. 
+RESPONSIBILITIES: 
+1. Writing test cases specifications for both functional and non-functional 
+test. 
+2. Using automation tool to create automated test scripts. 
+3. Executing test cases manually, with automation or other tools as necessar
+y. 
+4. Using coding skills and experience as applicable in testing. 
+5. Validating test results through the UI and through the analysis of variou
+s system/application error logs as well as database queries. 
+6. Analyzing, reporting and documenting test results. 
+JOB REQUIREMENTS: 
+1. Bachelor or above Degree major in Computer Science or equivalent area. 
+2. Knowledge of software testing theory and methodology. 
+3. Strong knowledge of J2EE and mobile services. 
+4. Good teamwork spirit and like to accept challenging assignment.
+------------------
+4) Test Lead
+(http://www.zhaopin.com/jobseeker/ps_request.jsp?vacancyid=12381370&amp;language
+=1)
+JOB PURPOSE: 
+Lead test team; establish full testing process, to improve quality of Mobile
+ service products. 
+RESPONSIBILITIES: 
+1. Establish test processes, includes planning, documentation, execution rev
+iew and summary. 
+2. Manage and lead test activities. 
+3. Writing test cases specifications for both functional and non-functional 
+test. 
+4. Using automation tool to create automated test scripts. 
+5. Executing test cases manually, with automation or other tools as necessar
+y. 
+6. Using coding skills and experience as applicable in testing. 
+7. Validating test results through the UI and through the analysis of variou
+s system/application error logs as well as database queries. 
+8. Analyzing, reporting and documenting test results. 
+9. Maintaining and updating content of test tracking document. 
+10. Manage and track bugs and issues. Communicating regularly with program m
+anager, architect regarding status. 
+JOB REQUIREMENTS: 
+1. Bachelor or Master Degree major in Computer Science or equivalent area. 
+2. Minimum 3 years working experience of software testing. 
+3. Solid knowledge of software testing theory and methodology. 
+4. Strong knowledge of J2EE and mobile services. 
+5. Experience of a variety of bug tracking tools, test management tools and 
+automation testing tools. 
+6. Leadership and good communication skills. 
+----------------

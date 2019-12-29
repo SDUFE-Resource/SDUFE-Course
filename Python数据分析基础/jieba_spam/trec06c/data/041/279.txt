@@ -1,0 +1,23 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <cao@ccert.edu.cn>; Fri, 26 Aug 2005 04:40:47 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 20:30:22 -0000
+From: "pu" <pu@mails.tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 04:54:04 +0800
+
+老板去美国出差，得知总部要在上海成立这个部门，共5个人，录用后马上送往美国Mount
+ View接受培训，然后回国协助建立此部门。要求具有EE背景，两年左右IC后端设计经验，
+对Timer有比较清楚的认识，英语要好。工作属于开发性质，绝非测试之类。因为只是内部
+通知，老板让我们推荐，所以暂且没有标准的招聘信息。个人觉得是蛮好的机会，一来可
+以直接到美国，二来可作为元老员工参与这个部门的创立。希望合适的兄弟不妨一试，将
+简历发到我的邮箱junxu@synopsys.com，我择优上报。
+说得不清楚的地方，大家尽管问！

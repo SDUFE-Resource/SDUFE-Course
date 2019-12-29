@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j826MNsm028905
+	for <pu@ccert.edu.cn>; Sat, 3 Sep 2005 16:39:26 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j826YvNG017832
+	for <pu@ccert.edu.cn>; Sat, 3 Sep 2005 16:51:56 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sat, 3 Sep 2005 08:40:07 -0000
+Message-ID: <00b101c5af87$e9547800$787d6fa6@hotline>
+From: "cen" <cen@mail.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1NpNZW50YWxpdHmw5r+0tb3Su7j2yMvQtMHLutyzpLXETG92ZQ==?=
+Date: Sat, 3 Sep 2005 16:48:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00AE_01C5AFCA.F7623430"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+  7393   allenyu      Sep  2  Re: 抑郁，怎么办？
+&gt; 7394   sobastar     Sep  2. ● 不知爱情问题发到这个版合不合适,但我只想知道?  
+  7395   WaterFairy   Sep  2. Re: 不知爱情问题发到这个版合不合适,但我只想?     
+  7396   sophiadw     Sep  2  Re: 都没啥，俺被凉水烫伤过 (转载)                
+  7397   sobastar     Sep  2. Re: 不知爱情问题发到这个版合不合适,但我只想?     
+  7398   czylox       Sep  2  Re: 抑郁，怎么办？                               
+  7399   flysolo      Sep  2. Re: 不知爱情问题发到这个版合不合适,但我只想?     
+  7400   sobastar     Sep  2. Re: 不知爱情问题发到这个版合不合适,但我只想?     
+     好长好长

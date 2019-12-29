@@ -1,0 +1,47 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <jian@ccert.edu.cn>; Mon, 19 Sep 2005 17:07:28 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Mon, 19 Sep 2005 09:18:29 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Mon, 19 Sep 2005 09:18:29 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <jian@ccert.edu.cn>; Mon, 19 Sep 2005 02:29:26 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <jian@ccert.edu.cn>; Mon, 19 Sep 2005 04:26:52 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 17:18:16 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <bai@motorola.com>
+To: jian@ccert.edu.cn
+Cc: chi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXms8+1xM7Ko7rT0MjL09DE3NTaz9bKtdbQvMzQ+L27zfm1xM3409HC8KO/?=
+Date: Mon, 19 Sep 2005 17:17:50 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+         为什么我遇不到呢，一般见一次就byebye了。
+  有啊:)
+ 
+  不过一般而言，我在现实中继续交往，且成为好朋友的网友
+  大多不是征来的，而是自然地成为朋友，现在也都保持联络
+  其中有几个朋友，还熟到我们都忘记原来是网路上认识的呢...:p
+ 
+  我认识了一些大陆网友，此次暑假我到大陆去，还特别拜访他们
+  在我去之前，我们就常以电话、简讯联络
+  我回来之后，还是常联络，而且都会跟对方倾吐心事、谘询意见
+  还相约下次去再找他们玩:)
+  其实我觉得网路也是一个认识朋友的管道
+  并不必要用异样的眼光看待
+  人呢，有时候越刻意就越得不到，保持平常心反而会有所收获
+  像我自己，曾经在网上征过友，但最后都没下文
+  却有随意在板上发了篇文章，引起某人的共鸣，然后就变成朋友了的经验:)
+  我还会介绍我的网友给我男友认识呢...:p

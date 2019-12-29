@@ -1,0 +1,17 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q8frpZ012129
+	for <hu@ccert.edu.cn>; Tue, 30 Aug 2005 19:35:05 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <430ED8CA.0000D0.32715@m115.126.com>
+Date: Tue, 30 Aug 2005 19:47:18 +0800 (CST)
+From: "che" <che@126.com>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMvEwfm8ttakyum2qsHLo6zU9cO0sOzWpMP3xNijvw==?=
+X-Priority: 3
+X-Originating-IP: [222.82.97.251]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_nydxdIXIQAMDkzacqLhDtoxLoZym"
+
+学校把成绩单给开出来了,盖了个章不知道能否有用?
+     好像办不了证明了，:(。
+     “证书遗失只能补证明。凡参加2002年1月至2005年1月各次考试的考生，如证书遗失，则只能补发成绩证明。需要补发成绩证明的考生，须凭学籍所在院校教务处出具的证明和身份证复印件，向考试委员会办公室提出申请。经核实后，补发“CET考试成绩证明”，不再补发证书。如考

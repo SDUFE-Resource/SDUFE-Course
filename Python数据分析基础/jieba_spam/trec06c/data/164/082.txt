@@ -1,0 +1,44 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8JBii0m015387
+	for <kong@ccert.edu.cn>; Wed, 21 Sep 2005 16:31:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8JBuNSM005175
+	for <kong@ccert.edu.cn>; Wed, 21 Sep 2005 16:42:53 +0800 (CST)
+Message-Id: <200509191156.j8JBuNSM005175@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 21 Sep 2005 08:22:00 -0000
+From: "feng" <feng@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: <gao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW7mruOZdIL+qyeggQUdfTWFya2V0L7+80dDK0LOhILi9yvSw5sPmICjXqtTYKQ==?=
+Date: Wed, 21 Sep 2005 16:42:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD54.315C4400"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW9ESMViAP3rUc6TpGavIn8JvsLVg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+【 以下文字转载自 AG_Market 讨论区 】
+发信人: yeting (阿随|乖), 信区: AG_Market
+标  题: [公告] 开设 AG_Market/考研市场 附属版面
+发信人: SYSOP (System Operator), 信区: Announce
+标  题: [公告] 开设 AG_Market/考研市场 附属版面
+    经站务委员会讨论，同意 AimGraduate/考研和推研 版
+    开设附属版面 AG_Market/考研市场，并任命该版版主
+    flydove 为 AG_Market/考研市场 版初始版主。
+    新版面的属性如下
+    具体放置位置：5) 社会信息
+    是否计发文数：计
+    是否计入十大统计：计
+    是否直接提供附件功能：直接提供
+    是否调整原申请时的中英文版名：不调整
+    需要改变上述属性的，请在开版满两周后在 Board_Apply 按格式提
+    出申请。
+    本版其他版主申请，请到 BM_Apply 版按精华区版主申请的格式进
+    行。
+    新版主要给考研以及考过研的同学提供一个相互交换资料的场所，主要包括
+考研书籍，课件，听课证，考题等一切与考研有关的资料。
+    版主还可以在 Service 版申请版务会议室，讨论新开版面的版务情
+    况。
+    另外，版主需在一周内在版面通过 W-&gt;4 提交正式的治版方针。

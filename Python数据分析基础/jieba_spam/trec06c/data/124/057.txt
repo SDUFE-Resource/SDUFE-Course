@@ -1,0 +1,20 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8BNCpQ4005027
+	for <zhuang@ccert.edu.cn>; Tue, 13 Sep 2005 05:08:20 +0800 (CST)
+Received: (eyou send program); Tue, 13 Sep 2005 05:03:30 +0800
+Message-ID: <326480081.20005@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 13 Sep 2005 05:03:29 +0800
+Message-ID: <326480080.19987@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Tue, 13 Sep 2005 05:03:29 +0800
+From: xin@mail.tsinghua.edu.cn
+To: zhuang@ccert.edu.cn
+Date: Tue, 13 Sep 2005 05:03:29 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgyM/Su7j2ttSy2df3z7XNs9PIxuTKtcqxstnX98+1zbPK7M+ktcTKpri1o7qjqSAo16rU2Ck=?=
+Content-Type: text/plain
+
+【 以下文字转载自 PieFriends 讨论区 】
+发信人: greenpigeon (简单真好), 信区: PieFriends
+标  题: 认一个对操作系统尤其实时操作系统熟悉的师傅：）
+   我是mm,研二，非电子计算机专业，老板要让做一个实时操作系统相关的项目，实验室除了一个外国专家之外没有人熟悉这方面的东东，现在专家也回国了，根本没有人能指导，郁闷死了，今天跟别人越说越难受，鼓足勇气，在这里找个师傅吧，呵呵。
+   其实就是想问一些很简单的问题，谁要是有空的话就回信箱吧，3X:)

@@ -1,0 +1,44 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5fkNO028028
+	for <mei@ccert.edu.cn>; Sun, 11 Sep 2005 21:09:17 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5dB7Y091681
+	for <mei@ccert.edu.cn>; Sun, 11 Sep 2005 21:06:51 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5d8ol091677
+	for <mei@ccert.edu.cn>; Sun, 11 Sep 2005 21:06:39 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 4247 invoked by uid 512); Sun, 11 Sep 2005 13:15:14 -0000
+Message-ID: <20050910054743.4246.qmail@stu.ee.tsinghua.edu.cn>
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn> 
+From: zhang@stu.ee.tsinghua.edu.cn
+To: mei@ccert.edu.cn
+Date: Sun, 11 Sep 2005 21:15:14 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: [TOEFL] Re: =?gb2312?b?vczKpr3av+zA1g==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     关于
+     学术背景、曾参与过的科研工作、科研学术兴趣、读研究生阶段的学习和研究计划、其它特长以及你认为对于申请有参考价值的内容
+     问题：
+     1。学术背景:是教育背景吗？
+指你本科期间从事过哪些科研活动吧 比如做过srt啊和导师或同学搞过什么课题啊 都可以扯进去
+     2。读研究生阶段的学习和研究计划：这个怎么说呢？能具体到什么程度
+扯就行了，不要太虚，最好有个明确方向
+     3。你认为对于申请有参考价值的内容：？？不知道该写什么？？
+自己有什么nb的地方 表上没写够的 扯之
+     先谢谢了

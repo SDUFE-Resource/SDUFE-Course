@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8JBii0m015387
+	for <zhang@ccert.edu.cn>; Tue, 20 Sep 2005 01:02:25 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8JBuNSM005175
+	for <zhang@ccert.edu.cn>; Tue, 20 Sep 2005 01:14:04 +0800 (CST)
+Message-Id: <200509191156.j8JBuNSM005175@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 19 Sep 2005 16:53:11 -0000
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: zhang@ccert.edu.cn
+Cc: <guan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3M0bW31s/to7q9qNLptPO80rK70qrIpcWp0NC747/u?=
+Date: Tue, 20 Sep 2005 01:13:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD54.315C4400"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW9ESMViAP3rUc6TpGavIn8JvsLVg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+我以前一直用农行汇款的。
+因为以前都不用手续费。但是一般都是当天到帐，没有几天才到的情况出现过。
+现在收的手续费太高了
+我改用浦发银行。因为可以不用手续费，呵呵~
+     领了第一个月的工资，兴冲冲的跑到农行给家里寄钱。因为农行离家最近，所以就寄到父母在家乡农行的账户上，先填了一个无比复杂的单子，包括父母在农行的分支行名称等等。交了1％的手续费（好高啊，几十块的银子）。结果，过了几天，农行给我打电话，说是汇不过去，让我

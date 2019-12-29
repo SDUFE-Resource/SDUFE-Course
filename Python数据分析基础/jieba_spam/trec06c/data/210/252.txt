@@ -1,0 +1,16 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TBAtQH005875
+	for <ma@ccert.edu.cn>; Fri, 30 Sep 2005 21:29:53 +0800 (CST)
+Received: (eyou send program); Fri, 30 Sep 2005 21:14:55 +0800
+Message-ID: <327991357.01131@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 30 Sep 2005 21:14:55 +0800
+Message-ID: <327991357.01115@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Fri, 30 Sep 2005 21:14:55 +0800
+From: wua@mail.tsinghua.edu.cn
+To: ma@ccert.edu.cn
+Date: Fri, 30 Sep 2005 21:14:55 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgbGlmZQ==?=
+Content-Type: text/plain
+
+当一个人上学时，他总会惶惶不可终日，发愁要考个好名次，上个好学校；待考上了大学，又会惶惶不可终日，发愁要找个好工作或出国；待找到了一个工作，更惶惶不可终日，发愁老板炒鱿鱼，同事落井下石；为了找到真爱，又更惶惶不可终日，发愁自己条件差，找不到好对象；待找到另一半，又惶惶不可终日，与别人攀比买个更大的房子和更好的车子；待有了孩子，又将这惶惶不可终日遗传给他，由他开始新的轮回；待退休后，依靠微薄的退休金或积蓄，在惶惶不可终日中死去。

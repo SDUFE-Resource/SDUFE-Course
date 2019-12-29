@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <hong@ccert.edu.cn>; Sun, 28 Aug 2005 01:53:36 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 02:01:06 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 28 Aug 2005 02:01:06 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sun, 28 Aug 2005 02:01:06 +0800
+From: gu@mail.tsinghua.edu.cn
+To: hong@ccert.edu.cn
+Cc: jiang@ccert.edu.cn
+Date: Sun, 28 Aug 2005 02:01:06 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgob7V0Ma4ob9KQVZBs8zQ8tSx?=
+Content-Type: text/plain
+
+工作性质：全职
+招聘人数：2人 月薪范围：6000~8000
+工作经验：2年以上 学历：本科以上
+工作地点：北京
+职位描述及要求
+1.大学本科以上学历，计算机软件或者相关专业
+2.精通html/javascript/JSP/java/J2EE等技术；
+3.熟悉 http,https,ftp,telnet 等网络协议
+4.有大型ICP网站开发与维护经验，本科生工作经验至少2年，硕士生至少1年；
+5.精通网站开发中常见的安全漏洞及避免方法优先考虑
+7.根据个人的能力进行待遇判定分级，一经录用，待遇从优
+工作地点：中信国安数码港，地理位置在稻香园桥桥东，中国航天大厦西边
+联系方式：简历mail to: wuwei-99@tsinghua.org.cn (公司的新网站和mail服务器都在
+建设中)
+联系电话：82652066 (工作日 9:00 - 18: 00 )

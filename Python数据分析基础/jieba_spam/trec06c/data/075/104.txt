@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <zhuang@ccert.edu.cn>; Fri, 2 Sep 2005 23:52:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <zhuang@ccert.edu.cn>; Sat, 3 Sep 2005 00:03:46 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 15:51:17 -0000
+From: "you" <you@mail.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Cc: <bai@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgcmU6W7rPvK9dILXn19PNqNDFt73P8jzQxbrF0+vPtc2zPrK7v7y1xMTayN0=?=
+Date: Sat, 3 Sep 2005 00:03:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+disjek老兄说的我很有同感：
+信号学得差不多的时候，真题做得对不对自己心里也就有数了。
+至于“郑书吃透”，我的感觉就是，
+书上每一道例题、每一道习题你都能搞定它的来龙去脉。
+你说的所谓“没用”的那些习题，无非就是基础题呗，
+不过你还真别小看了基础，有用没用的习题建议你都做一下。
+奥本牛书的习题的确不错，个人感觉如果全部弄懂，信号就可以无敌了。
+不过奥本习题最大的问题就是没有答案，这个就不爽了。
+其实这也不是大问题；在做奥本习题之前可以争取先把奥本例题全部搞定。
+如果真能搞定奥本所有例题，奥本习题也就不是问题了。

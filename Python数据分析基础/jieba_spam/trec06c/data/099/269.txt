@@ -1,0 +1,26 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j874iPdV032722
+	for <yu@ccert.edu.cn>; Thu, 8 Sep 2005 01:53:25 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by smtp119.sohu.com (Postfix) with ESMTP id 84D5F0526C87
+	for <yu@ccert.edu.cn>; Thu, 8 Sep 2005 02:05:27 +0800 (CST)
+Date: Thu, 8 Sep 2005 02:05:36 +0800
+From: "tian" <tian@sohu.com>
+To: yu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgP8flu6q7ucrHyP3E6tbG0dC+v8n6P7u5ysfSqsrVt9G1xMrHw7Q/1eLKx9Tay9G6/MnPtcTQ
+xc+i?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907045627.84D5F0526C87@smtp119.sohu.com>
+
+七、培养
+1.学制为3年，只招收全日制生。 
+八、学位授予 
+3年学习期满，学完规定的课程，成绩合格，修满学分，完成实习任务，并完成硕士论文，通过答辩者，经校学位委员会审核批准后，授予国家颁发的硕士研究生毕业证书和学位证书。
+九、学费标准 
+学生须按学年缴纳培养费。在北京就读，培养费总额为4.2万元；在深圳就读，培养费总额为4.6万元。
+------
+大家怎么看?读三年?别的好些大学不是两年了么 ?

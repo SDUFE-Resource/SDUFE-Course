@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <weng@ccert.edu.cn>; Tue, 23 Aug 2005 11:00:15 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <weng@ccert.edu.cn>; Tue, 23 Aug 2005 11:13:29 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 03:08:02 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "li" <li@mail.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgR0lTv6q3orywzfjVvr2oyei/qreiyMvUsdXQxrg=?=
+Date: Tue, 23 Aug 2005 11:09:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+GIS开发及网站建设开发人员招聘
+中国科学院地理科学与资源研究所对外（奥地利）合作项目“基于GIS的气候要素场制图系统研究”(Mapping of Climatological Fields on the Basis of GIS)招聘技术开发人员，基本情况和人员素质要求如下：
+1．开发内容
+主要工作包括两个部分：（1）地面气候和气象数据的空间化处理，并且提供网络发布服务（图形的显示、浏览和基本的分析功能）；（2）建立信息系统门户网站，达到企业化网站的服务标准（包括新闻发布、用户管理、信息处理、信息服务、后台管理等）。
+2．开发时间
+初步计划为两个月时间，可能随着项目的具体进展有所调整。
+3．人员学历要求
+具备成熟的技术开发经验即可，学历、资历不限，在读地学背景硕士研究生、英文较好者优先（可考虑做硕士论文）、具有成熟网站开发经验人员优先。
+4．人员能力要求
+（1）具备GIS的基本知识，尤其是在数据处理和地图发布方面；
+（2）能够熟练使用HTML\\Java Script\\ASP等网页制作语言；
+（3）能够熟练使用Oracle数据库管理和数据访问操作；
+（4）熟悉Tomcat\\Apache\\IIS等网络服务配置；
+（5）熟悉网站开发的软件流程，具有规范化开发的经验（如文档编写、代码规范、版本管理等）。
+5．招聘人数
+1-2人。
+6．报酬
+兼顾工作量和成果产出，具体可面议。
+7．联系方式
+本项目由中国科学院地理科学与资源研究所陈沈斌老师负责，可致电13522129608，E-mail:chensb@igsnrr.ac.cn。
+如有意参与本项目，请先把个人简历发送到陈老师信箱，再约时间面谈。简历除一般要求外，请写清楚自己的技能。

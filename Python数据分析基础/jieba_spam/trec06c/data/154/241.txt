@@ -1,0 +1,33 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <hou@ccert.edu.cn>; Mon, 19 Sep 2005 10:31:05 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Mon, 19 Sep 2005 02:42:06 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Mon, 19 Sep 2005 02:42:06 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <hou@ccert.edu.cn>; Sun, 18 Sep 2005 19:53:03 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <hou@ccert.edu.cn>; Sun, 18 Sep 2005 21:50:29 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 10:41:53 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <wang@motorola.com>
+To: hou@ccert.edu.cn
+Cc: hu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IG1ty7XO0sO709DKwtK10MQ=?=
+Date: Mon, 19 Sep 2005 10:41:27 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+还不错嘛,,,
+知道自我批评一下....
+      我和mm都大四了,都准备毕业去工作. 我家庭条件还不错,家里已经给联系好了一家有户口大型国企,毕业了直接去就行.mm家庭条件一般,比较有主见,是个很要强的人.我们大四课很少,她自己找了份兼职,每天回来的比较晚.而我几乎每天闲着,早晨等我起床的时候大家都去复习考研了.

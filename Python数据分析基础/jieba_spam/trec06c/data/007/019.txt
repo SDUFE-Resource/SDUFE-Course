@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EBDbnN008658
+	for <pu@ccert.edu.cn>; Thu, 18 Aug 2005 05:40:08 +0800 (CST)
+Received: (eyou send program); Thu, 18 Aug 2005 05:48:34 +0800
+Message-ID: <324018523.18139@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 18 Aug 2005 05:48:34 +0800
+Message-ID: <324018523.18120@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 18 Aug 2005 05:48:34 +0800
+From: che@mail.tsinghua.edu.cn
+To: pu@ccert.edu.cn
+Cc: qian@ccert.edu.cn
+Date: Thu, 18 Aug 2005 05:48:34 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IENTsqnKv8il1tC5+sqv082089Gno6ixsb6po6mjrLT90/bU9dH5o78=?=
+Content-Type: text/plain
+
+就看机遇和人脉了，如果不会处理人际关系，建议还是去做技术吧
+     标  题: Re: CS博士去中国石油大学（北京），待遇怎样？
+     
+     这也的看老板，我认识一位博士后留在学校，老板（长江学者）一年给一万，他觉得少，另外油田项目不象想象那样好赚钱，油田关系更复杂。
+     : 不错的说，没别的，就是项目比较多。大部分都跟油田相关的。
+     
+     
+     
+     --
+     

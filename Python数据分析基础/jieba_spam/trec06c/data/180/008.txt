@@ -1,0 +1,27 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <yana@ccert.edu.cn>; Sat, 24 Sep 2005 20:13:45 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Sat, 24 Sep 2005 12:21:13 -0000
+From: "tian" <tian@mails.tsinghua.edu.cn>
+To: yana@ccert.edu.cn
+Subject: =?gb2312?B?ofEgYnPN9c2s0aew0cflu6q50snPo6E=?=
+Date: Sat, 24 Sep 2005 20:30:54 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+典型自以为是！靠点没有深度没有新意的连研究都算不上的东西唬一群外行，博取同情！
+清华校内默默无闻的牛人多了去了！也没见过天天在外面蹦的！
+中国教育制度的问题是人都知道，难道这是清华整出来的？
+就你的想法nb，清华的研究都是垃圾，难道生物系的cell，化学系的jacs，nature，都是垃圾？
+4年发不出文章，也好意思说！本来按时毕业拿学位就玄了，早走转硕都是好的选择，拜托不要拉上清华给你垫背，你的行为越看越像fr！
+还有，中国最基本的宽容，感恩品德你一点没学到，不管你导师对你怎么样，他给了你直博的名额就应该感激了，不信拿这个名额出去，抢的人一跎一跎的。而且你开了一个非常不好的先例，相信以后cs的老师会非常慎重的考虑川大过来的学生，不过对你也无所谓，反正你对于川大只有非常恶劣的感觉，师弟师妹的死活和你无关！

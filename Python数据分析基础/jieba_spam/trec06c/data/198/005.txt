@@ -1,0 +1,22 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <hou@ccert.edu.cn>; Wed, 28 Sep 2005 12:47:30 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 04:58:37 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 12:58:37 CST
+Date: Wed, 28 Sep 2005 12:58:37 +0800 (CST)
+From: liang ming <ni@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILy4teO88rWltcS/tLeoo6y/tMHLzfXb87XEzcvRp9DFuvM=?=
+To: hou@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+要遭鄙视
+     1，赞同wangyin对中学教育的批判，中国的应试教育确实比较恶心，不过《南方周末》说过：这是“迫不得已的荒谬”
+     2，不赞同wangyin对高校科研的批判，科研向来就是这样，王垠太理想化了，也许是因为他有实现那种理想科研的能力
+     3，最最不赞同的一点－－他居然批判 Word，还捧Linux。 Word是多么伟大的软件啊，划时代的产品，我一直用它，包括写论文，没觉得哪里不好；；还有那个linux，超级恶心，比windows差远了，如果不是有一些自己独特的优点，使得它在某些条件和应用下有一些好处和优势，打死

@@ -1,0 +1,31 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <yun@ccert.edu.cn>; Wed, 28 Sep 2005 06:53:52 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 23:05:03 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 07:05:02 CST
+Date: Wed, 28 Sep 2005 07:05:02 +0800 (CST)
+From: liang ming <zheng@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMrHvfDHrrj4ztLQ0riju7nKx7jQx+m4+M7S0NK4ow==?=
+To: yun@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+你不是不学习就心慌吗？
+说明你很上进很好阿
+现在这个社会
+女人不独立是不行的
+估计这话说完，该被拍了
+不过，我真心这么认为
+小说里说：女人的车子房子都是自己买的，对这个女人来说不能不算可悲
+我20岁的时候觉得这话特沧桑，特有味道，
+现在觉得特扯淡
+不独立就没有尊严，没有尊严就没有幸福可言
+顶多是我有这个能力，但是我享受对方宠爱我的感觉
+     我也不喜欢现在这种状态,我确实有点虚荣,而且我这个人好像对生活缺少热情,没什么目标,也没什么动力,每天就在挨日子,希望马上到60岁

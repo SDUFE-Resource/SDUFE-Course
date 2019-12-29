@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <lin@ccert.edu.cn>; Sun, 21 Aug 2005 08:03:14 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <lin@ccert.edu.cn>; Sun, 21 Aug 2005 08:16:28 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 07:45:09 +0800
+Date: Sun, 21 Aug 2005 08:16:19 +0800
+From: "su" <su@wnt.com.cn>
+To: lin@ccert.edu.cn
+Cc: "lic" <kong@ccert.edu.cn>, "sunt" <ning@ccert.edu.cn>, "caoy" <jian@ccert.edu.cn>,
+        "wangb" <hong@ccert.edu.cn>, "songhm" <ye@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMTQyfrKx7fxv8nS1NK7sbLX07Wlye0/?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+那尼古怎么说啊？
+     和尚单身并不是因为结婚太繁，据我知道的，有以下这些原因
+     1。做和尚的目的是为了皈依佛法，达到身心自在，智慧明达的无上境界，从而不愿意受到各种尘世的羁绊，不能成就真正的自在无为，所以不愿和女人有些瓜葛
+     2。对于和尚来说，情视为“无明昏聩”的一种，甚至被视为“贪嗔痴”中的"贪欲“的一种表现，具体来说，就是看见别人"期期艾艾”，“青梅竹马”，“两小无猜”，"如胶似漆“，从而自己也想得到，从而就产生了”贪“的欲望

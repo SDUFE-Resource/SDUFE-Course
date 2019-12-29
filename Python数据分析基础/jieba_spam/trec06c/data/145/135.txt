@@ -1,0 +1,29 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2svQX010170
+	for <zhu@ccert.edu.cn>; Sat, 17 Sep 2005 08:36:12 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G3Pt3h004638
+	for <zhu@ccert.edu.cn>; Sat, 17 Sep 2005 09:07:13 +0800
+Message-Id: <200509160325.j8G3Pt3h004638@stmp.nisac.gov.cn>
+Date: Sat, 17 Sep 2005 08:47:20 +0800
+From: "feng" <feng@mail.nisac.gov.cn>
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFu6z7yvXSDG5Mq1d2FuZ3dhbmdlcrXEysLH6bbUvNKw5tKyyse49rjEvfi1xLv6u+E=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+你说错了，老id之间都是互相吹捧，有怨言也忍着，
+只有新人才会被攻击，顺便发泄一下平时不便表达的不满。
+     Freecell (空档接龙) (Sat Sep 17 09:53:06 2005):
+     对于老id来说，大家都很熟，说话比较没有顾虑，对方
+     也不会生气；但是对于很多新人，仍然用这种调侃的语气
+     说话，新人楼主可能就会觉得是对自己冷嘲热讽，当然
+     不快。前几天不就有人气得和人对骂起来，然后两个人
+     都被封了嘛。
+     自己觉得无所谓的调侃，别人可能会很难受。所以希望
+     大家灌水的时候分一下对象，如果是新人就最好注意
+     一下语气，觉得区分对象太累你可以不灌。

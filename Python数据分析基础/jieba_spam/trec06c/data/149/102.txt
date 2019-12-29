@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <ren@ccert.edu.cn>; Sun, 18 Sep 2005 02:13:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <ren@ccert.edu.cn>; Sun, 18 Sep 2005 02:25:30 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 18:06:12 -0000
+From: "huang" <huang@mail.tsinghua.edu.cn>
+To: ren@ccert.edu.cn
+Cc: <shi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKG2Y3Jhc2iht7nbuvM=?=
+Date: Sun, 18 Sep 2005 02:25:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+     crash不是讲种族歧视的，种族歧视是个手段，算是切入点。
+     crash讲的是人性，人自身的问题。
+     最后瑞恩菲利普枪杀那个男孩，其实就是片子里最纯洁的两个人物之间的悲剧。
+赞啊，这一点挖掘的好。我记下来。
+不过种族歧视也不能说仅仅是个视角，因为影片里体现的种族歧视是意识形态化的。比如那个最后没被打死的偷车贼，他对白人主流社会的反抗就带有意识形态色彩；还有导演的帮手建议导演把黑人角色的语言典型化，也是意识形态的象征。人性当然是根本，不过好电影基本都是好在对人性的挖掘和理解，如果从这个角度看，把一切表现形式、方法和故事都看作“视角”和“手段”也不是不可以。

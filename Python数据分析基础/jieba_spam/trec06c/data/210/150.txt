@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U2R6AL010810
+	for <long@ccert.edu.cn>; Fri, 30 Sep 2005 19:23:49 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8U2U2g26094;
+	Fri, 30 Sep 2005 19:26:45 +0800
+Message-Id: <200509300230.j8U2U2g26094@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 11:26:45 UT
+To: long@ccert.edu.cn
+From: che@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7StcSxtLGmo6y/ybCuo6zO3sTOoa2hraGj?=
+
+女人来自金星……
+     事迹1：过中秋节了，她让快递公司给我送月饼，我直到发稿时还没收到月饼，打电话问她，她告诉我说她把快递公司的电话忘了，我让她去查，她说不知道
+     事迹2：同样是中秋节，还是关于快递。她家人给她寄了月饼，快递效率低，寄到手时月饼已经坏了。她居然稀里糊涂地在签收单上签了字
+     事迹3：过马路的时间看不懂红绿灯：不明白那个指示向左转的红绿灯和指示直行的红绿灯的区别

@@ -1,0 +1,28 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 19:37:38 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 18:59:56 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "zhong" <zhong@cert.org.cn>
+To: you@ccert.edu.cn
+CC: "ke@ccert.edu.cn" <rao@ccert.edu.cn>,
+   "gu@ccert.edu.cn" <ni@ccert.edu.cn>,
+   "ren@ccert.edu.cn" <li@ccert.edu.cn>, "yana@ccert.edu.cn" <feng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyrXU2srHv97QprK7tcM=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 19:45:23 +0800
+
+王垠跟我一个老板。
+你们可以去计算机系打听一下，老师们学生中都问问，洪先龙老师是个什么样的人。
+你们也可以去美国日本有EDA实验室的大学里面问一问，认不认识Xianlong Hong，或者
+喊一声，有没有洪老师的学生在这里？要不google一下也行。
+无论是带着学生做研究，给学生指导，对自己博士生的关心，或者支持学生出国深造，
+这么多年以来，大家对于洪老师的评价都是很少碰到这么好的导师。
+如果一个人过着跟周围人一样的生活却体会到截然不同的感受得出完全相反的结论，
+呵呵，不知道该说什么。真的是从来没有见过这么说好听叫做幼稚说不好听叫做自私
+自以为是的人。

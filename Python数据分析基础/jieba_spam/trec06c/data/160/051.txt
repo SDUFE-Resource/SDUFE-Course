@@ -1,0 +1,32 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <han@ccert.edu.cn>; Tue, 20 Sep 2005 18:10:20 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 10:21:21 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 10:21:21 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <han@ccert.edu.cn>; Tue, 20 Sep 2005 03:32:18 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <han@ccert.edu.cn>; Tue, 20 Sep 2005 05:29:44 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Tue, 20 Sep 2005 18:21:08 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <xia@motorola.com>
+To: han@ccert.edu.cn
+Cc: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKOovLHGuKOho6mxsb6pxam/xtS60MXPosv5yO28/tHQt6LW0NDE1dDGuKOh?=
+Date: Tue, 20 Sep 2005 18:20:42 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+     北京市农林科学院农业科技信息研究所简介 
+         我所始建于1975年，原名农业科技情报所，1997年更名为农业科技信息研究所。本所是集信息资源建设、信息技术研究、信息咨询、农村培训、技术推广、科学普及于一体的农业综合信息研究和服务机构。 

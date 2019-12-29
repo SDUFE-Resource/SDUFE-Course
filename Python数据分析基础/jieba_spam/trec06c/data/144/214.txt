@@ -1,0 +1,31 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <luo@ccert.edu.cn>; Sat, 17 Sep 2005 05:16:09 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <luo@ccert.edu.cn>; Sat, 17 Sep 2005 05:32:44 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <luo@ccert.edu.cn>
+	; Sat, 17 Sep 2005 05:32:44 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <luo@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 04:57:45 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "yi" <yi@njnu.edu.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXi0fm1xLGjz8i40L71sci9z6GjoaOhow==?=
+Date: Sat, 17 Sep 2005 05:27:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+     典型的唯心论和虚无主义。这样说证明你没有完全领会做这种工作的实质是什么，重心是什么，有效方法是什么。
+     我想楼主的“形式主义”说法是批评“保先”的形式，而非“保先”本身。对于组织实施保先的同志，当然要做好工作，也应该谦虚听取意见，有则改之，无则加勉。如果老兄你自认为你的思想方法和工作方法已经无比先进了，那则是另外一回事情了。不知道你是否了解党章中关于“批评与自我批评”的论述。
+对，这位兄弟的话很有道理，“保先”其实本身没有错，错就错在它的形式让人不爽。要是党员们都能真的保持先进性的话，保先就真正达到目的了。

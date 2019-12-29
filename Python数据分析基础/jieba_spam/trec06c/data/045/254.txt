@@ -1,0 +1,23 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <qiu@ccert.edu.cn>; Fri, 26 Aug 2005 22:51:04 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 22:58:34 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 22:58:34 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 22:58:34 +0800
+From: wua@mail.tsinghua.edu.cn
+To: qiu@ccert.edu.cn
+Cc: che@ccert.edu.cn
+Date: Fri, 26 Aug 2005 22:58:34 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfrzsqjurGxtPO1xNfUtq+7r8+11PXDtNH5o78=?=
+Content-Type: text/plain
+
+差不多,力学系本来就是从前苏联搬过来的模式,象美国,好象只有Stanford和Umich有
+明确的力学系这种名称. 最初刚建国的时候叫数理力学系, 是3合1的后来慢慢分开了,
+力学其实算是应用数学的一个分支,力学系里的控制专业更是应用方面的研究很少很少,
+本来就是属于一般力学专业,研究什么多刚体运动那一套的.北大力学系最牛的专业也
+应当是流体专业.
+     是从数学方面研究吗
+     我记得力学系原来是数学力学系吧

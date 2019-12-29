@@ -1,0 +1,28 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <han@ccert.edu.cn>; Thu, 1 Sep 2005 01:08:57 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 01:11:49 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 01:11:49 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 01:11:49 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 17:05:12 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 00:57:22 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 00:57:22 +0800
+From: shi@mails.tsinghua.edu.cn
+To: han@ccert.edu.cn
+Cc: hu@ccert.edu.cn
+Date: Thu, 1 Sep 2005 00:57:22 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfXsK61xMDPuavSqr+qyry6w7rD0afPsMHLXi1e?=
+Content-Type: text/plain
+
+老公在哪里啊？
+       暑假结束后老公离开我有整整20天了。这20天里，我们每天电话，视频，老公几乎没有消停下来好好学习。我知道老公其实把学业看得非常重要，可是因为怕我孤单，每天花大量的时间陪我。我们每一次吵闹我的心里都非常的难受，我想对老公说的是，我对老公有的只是满心满意的
+       是老公第一次告诉我看这个家版的，水木改版以后他好像再也没来过这里。头一次在这里这样的发言，希望老公能看到。我爱老公。

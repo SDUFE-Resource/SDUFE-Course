@@ -1,0 +1,42 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <jian@ccert.edu.cn>; Fri, 19 Aug 2005 17:04:05 +0800 (CST)
+Received: (qmail 23946 invoked from network); Fri, 19 Aug 2005 09:14:19 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 19 Aug 2005 09:14:19 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "peng" <peng@jdl.ac.cn>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsK7BotDF0dC3otfc1LrV0Ma4z+7Ev76twO0=?=
+Date: Fri, 19 Aug 2005 17:18:27 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+Ericsson (China) R&amp;D Center recruits Project Manager.
+If interested, please send your Chinese and English resume to xiandong.kong@ericsson.com
+Thank you for your attention!
+Position:  Project Manager for Ericsson (China) R&amp;D Centre
+Location: Beijing
+Employment status: Long term
+1       MAIN TASKS
+・      Direct accountability to the project assigned by the Organization
+・      Provide project management leadership in product development
+・      Strictly implement budget, schedule and human resources control 
+・      Act as the primary interface to the regional and global organizations
+・      Ensure the consistent use of standard Ericsson project management methodology, tools and procedures
+2       QUALIFICATION
+・      Bachelor or master degree of first level University (engineering background is preferred)
+・      Business and management awareness 
+・      Strong leadership and communication skill 
+・      Well organized and have structure thinking
+・      Initiative and positive personal personality  
+・      Fluent in English speaking and excellent in English writing
+・      Development potential 
+・      Project management or team leader experience is highly preferred
+・      Good understanding of telecommunication knowledge is highly preferred

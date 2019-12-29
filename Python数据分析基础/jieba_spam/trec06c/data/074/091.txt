@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <lei@ccert.edu.cn>; Fri, 2 Sep 2005 20:38:59 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <lei@ccert.edu.cn>; Fri, 2 Sep 2005 20:50:45 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 12:38:16 -0000
+From: "cheng" <cheng@mail.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Cc: <hu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNKw787Sv7S/tCy/tL+0ztK4w9T1w7Sw7C4=?=
+Date: Fri, 2 Sep 2005 20:50:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+ 离婚，你还年轻，长痛不如短痛
+     大家好,今年6月我曾在此发表过关于以下事件的文章,但问题一直没解决掉.再次请大家帮忙看看我该怎么办.谢谢了.

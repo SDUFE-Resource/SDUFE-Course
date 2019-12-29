@@ -1,0 +1,45 @@
+Received: from tfol.com ([221.236.5.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8820wkq006952
+	for <bi@ccert.edu.cn>; Fri, 9 Sep 2005 05:51:49 +0800 (CST)
+Received: (umta 23260 invoked by alias); Thu, 8 Sep 2005 22:03:48 -0000
+X-Lasthop: 61.139.64.53
+Received: from unknown (HELO happylele) (unknown@61.139.64.53)
+  by localhost with SMTP; Thu, 8 Sep 2005 22:03:48 -0000
+Message-ID: <001501c5b41a$dd6c9f80$2e838f0a@happylele>
+From: "zhou" <zhou@tanfoidc.com>
+To: bi@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0cW7otbQufrV0Ma40MXPoqOto63I7bz+uaSzzMqmo6i0+tPRt6KjqQ==?=
+Date: Fri, 9 Sep 2005 06:03:54 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2670
+Disposition-Notification-To: "zhangle" <zhangle@tanfoidc.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2670
+
+雅虎中国招聘信息－－软件工程师（代友发）
+据悉雅虎中国最近由于业务需要，希望招收几名软件工程师，具体要求如下：
+Do you know about Yahoo,would you like to be one member of Yahoo!Now we do want to find some engineers,are you interested? 
+what\'s our request?
+General request:
+- Excellent self study ability
+- Good team work and communication skill
+- having encoding experiences will be a plus
+- work in beijing
+Detail:
+1.Software Engineer
+- Hard background in Unix or Linux
+- Familiar with HTTP,HTML,JavaScript
+- Familiar with PHP/Perl/C++  
+- Familiar with MySQL
+- having some project experiences will be a plus
+if you are interested at it and you think you can fit our requirements,
+please send your resume to ytest2003@yahoo.com.cn soon,we will answer you
+as quickly as possible.
+Just remind you:when you send your email to yahoo,please make sure you have written telephone number in 
+your resume.
+OK,Yahoo is waiting for you! 
+感兴趣的同学赶紧行动啊！

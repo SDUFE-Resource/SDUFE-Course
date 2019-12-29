@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <hong@ccert.edu.cn>; Wed, 28 Sep 2005 01:48:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <hong@ccert.edu.cn>; Wed, 28 Sep 2005 01:59:59 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 27 Sep 2005 17:35:25 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "lin" <lin@mail.tsinghua.edu.cn>
+To: hong@ccert.edu.cn
+Cc: <fan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMGsx+W7qrKpyr+1xMa9vvnLrsa9try077K7tb2jrLPD1Oe59rWwo6GjoaOh?=
+Date: Wed, 28 Sep 2005 01:59:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+若说水平，这paper倒是次要的，埋头干些日子，师兄帮帮忙，导师署个名也就出来了。
+可这他没怎么用心这样干，所以，以此作为指标评判水平缺少些说服力。 
+不过偶奇怪怎么到了这么晚了他才下决心，偶看既往的一些退学事例都是那么几个月或者个把年。而且很快搞定了更好的出路。
+所以偶觉得现在判断水平为时过早，过些年再看。
+     若水平定义为：发paper，发牛paper；
+     他作为一个开始5年纪的博士生，在清华不知道，但在他们实验室，确属中等水平（他们实验室若从发牛paper来看，是牛棚）。
+     这个是他自己也承认的事实。（至于不愿发等等，那是原因层面的东西）

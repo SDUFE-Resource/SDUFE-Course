@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <zhou@ccert.edu.cn>; Wed, 28 Sep 2005 22:26:03 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 14:37:10 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 22:37:10 CST
+Date: Wed, 28 Sep 2005 22:37:10 +0800 (CST)
+From: liang ming <ni@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM/rzazFrtPRzay+06OswsW0zrG7vtyjrM7StO3By/fho78=?=
+To: zhou@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+     和女友在一起不是很久但也有半年了，我们是在一个写字楼上班的，认识了这么长时间
+     ，后来就自然的在一起了，感情很好，她很爱我，我也一样，我是一个外地来的，她是
+     本地人，同家里人住在一起，我是一个喜欢家庭生活的人，除了应酬外要是家里有人等
+可以理解楼主的心情!!!是一个正常的男人都回有这方面的需求的,很正常的啊!!!
+我觉得楼住的女朋友就是怕失身所以才不给你啊!!!  要是有个办法解决你的性欲问题又不至于让你女朋友失身,不就ok????

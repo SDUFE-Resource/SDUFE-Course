@@ -1,0 +1,30 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <sun@ccert.edu.cn>; Sat, 20 Aug 2005 01:37:17 +0800 (CST)
+Received: (qmail 23946 invoked from network); Fri, 19 Aug 2005 17:47:31 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 19 Aug 2005 17:47:31 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "zhou" <zhou@jdl.ac.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?ofEgOTljbGljay5jb20g1dK8vMr1yMvUsbzTyOu0tNK1zcW20w==?=
+Date: Sat, 20 Aug 2005 01:51:39 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    商助科技是一家互联网高科技公司，由美国留学人员回国创建，现位于清华大学高科技创业园内。创建以来发展迅速，有多家知名企业在使用我们的服务，包括百度、当当等；多个风险投资商都表示了浓厚的投资意向。我们寻求志同道合的人士加盟我们的事业。
+  
+Java程序员：
+  * 本科以上学历，计算机或其他理工专业
+  * 对技术工作有浓厚的兴趣，并具备软件从业人员的优秀品质，如敬业、钻研、互助等精神
+  * 良好的团队工作意识和沟通能力
+  * 精通JAVABEAN、JSP、SERVLET、JAVASCRIPT、HTML
+  * 熟悉 ORACLE 或 MYSQL 数据库
+  * 一年以上相关经验
+联系方式：resume@shangzhu.com

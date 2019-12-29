@@ -1,0 +1,92 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4DiK3027535
+	for <guo@ccert.edu.cn>; Sun, 11 Sep 2005 20:05:00 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4B6cm090089
+	for <guo@ccert.edu.cn>; Sun, 11 Sep 2005 20:02:34 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.198] (may be
+	forged))
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4B1Dx090072
+	for <guo@ccert.edu.cn>; Sun, 11 Sep 2005 20:02:19 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id h31so397064wxd
+	for <guo@ccert.edu.cn>; Sun, 11 Sep 2005 05:16:45 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=mK3sh9e2s8urWJV8dr6xYfe+ufEslUV77Fc7xpKe+/83yxpEAIoiFvFoCR39xu4+qkIxnQOkpiVLsdXaRhgPYIDejknAktNZ6Nf+ZoDrA10jgbMS3jc9SjADA4L7KwQSq0UI25YiDaxyftYpvUckSALRpXPPTJr9XNIEiA3yWaM=
+Received: by 10.70.112.2 with SMTP id k2mr34716wxc;
+	Sun, 11 Sep 2005 05:16:45 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Sun, 11 Sep 2005 05:16:45 -0700 (PDT)
+Message-ID: <a00ed980050909212543d66043@mail.gmail.com>
+Date: Sun, 11 Sep 2005 05:16:45 -0700
+From: Shaozhi Ye <tu@gmail.com>
+To: guo@ccert.edu.cn
+Subject: =?gb2312?B?ofEga2F0eXVzemG/vNHQz7XB0Nauo7rK/dGntcS4tM+w?=
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+	j8A4B1Dx090072
+Precedence: list
+Reply-To: tu@gmail.com
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+开始进入正题啦。
+首先说一点，我不是聪明人；
+上初中的时候搞不明白三角函数，
+上高中的时候不会算值域、定义域，
+到了大学又被牛顿、高斯们的无数定理公式整得死去活来。
+所以，我去搞考研数学注定了是一件痛苦的事情。
+到了04年九月份前后，我已经把陈文灯的复习指南看了第一遍。
+提一下，我用的数学指南是02年出版、针对03年考研的。
+考研辅导教材其实基本没有时效性，
+辅导“专家”们不停强调“新大纲新版本”，
+其实就是为了多赚钱。
+~
+把灯哥的指南搞定了第一遍之后，
+我的数学复习思路就有点乱了，
+以至于十月十一月的时候我几乎是在抓瞎。
+线性相关线性无关，大数定律，数理统计，
+这些东西我不知道花了多少时间去啃教科书、钻研数学指南。
+别人向我建议，复习指南至少要做上三遍，
+但我手实在太慢；指南只看了一遍，
+就开始仓促地做模拟题。
+模拟题用的是二李（2003年版、针对04年考研）的400题。
+这本书彻底摧毁了我考清华的信心，
+我发现我啥啥都不会，以至于最后竟然习惯了接受三四十分这样的成绩。
+后来总结出了一些门道，成绩才稍微好看了一点，偶尔也能模个七八十分了。
+这段时间我是教材-复习指南-400题同时对照参考着看；
+到了12月底的时候，我觉着时间差不多了，该下手做历年真题了。
+~
+我第一套真题做的是04年那套，
+做完之后一对答案我差点晕倒过去：
+这套据别人说是“非常，非常，非常简单”的考卷，
+我竟然只打了70多分。
+依稀中，
+我仿佛看见清华大学已经开始冲我wave goodbye，祝我一路走好。
+在这个关键的时候，
+我想起了我的妈妈，
+我已经好几个星期没有给她打过一次电话的妈妈。
+我给我妈妈打电话，告诉她我模拟考得很糟糕，今年可能又要完蛋了。
+我妈妈说不要紧，没什么，
+你只管好好看书，别想别的，考不上我和你爸也不怪你。
+放下电话，我的心理坦然了很多。
+于是，下午，我又鼓足勇气，模了一套03年的卷子。
+03年的卷子，据我身边的同学说，很难，能打到100分就不错了。
+没想到，我竟然模到了110分，当时的我喜出望外，
+开始给朋友们发短信报告这一喜讯。
+~
+这就是我真题的第一天。
+（吃饭去啦，下午接着写~~~）

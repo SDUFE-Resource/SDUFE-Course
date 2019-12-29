@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <jiang@ccert.edu.cn>; Tue, 23 Aug 2005 22:47:18 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <jiang@ccert.edu.cn>; Tue, 23 Aug 2005 23:00:32 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 14:55:05 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "rao" <rao@mail.tsinghua.edu.cn>
+To: jiang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjnufvE+tS40uLP1tTazbbXys7Sw8ejrM7Sw8e9q8qusba72LGo09rE+qGj?=
+Date: Tue, 23 Aug 2005 22:56:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+家里穷就别读研。
+本科出来工作蛮好的。
+         您好!如果您愿意现在投资我们，我们将十倍回报于您。
+         我是北京邮电大学01级本科生，今年考上北邮的研，专业：信号与信息处理。研究方向：移动IP技术。女朋友今年也考上北邮的研，专业：通信与信息系统。研究方向：下一代移动宽带因特网、光交换网、光以太网。
+         我们都是草根的孩子，决定不再依靠家里自己解决学费。如果我们现在所学,能为您以后所用,有公司现在愿意帮助我们解决读研期间的学费,毕业后我们愿意去贵公司尽心尽力的工作。而在今后读研的两年半里,公司可以给我们提要求,我们按照公司的方案来完善自己,毕业后更好的

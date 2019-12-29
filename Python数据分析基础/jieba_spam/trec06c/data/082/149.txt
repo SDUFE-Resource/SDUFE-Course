@@ -1,0 +1,57 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <che@ccert.edu.cn>; Sat, 3 Sep 2005 23:43:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <che@ccert.edu.cn>; Sat, 3 Sep 2005 23:56:04 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 15:44:39 -0000
+From: "chen" <chen@mail.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <yu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtPq3oqO6R25vdm8gVGVjaG5vbG9naWVzIEx0ZC7V0Ma40MXPog==?=
+Date: Sat, 3 Sep 2005 23:55:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+主要需要电子工程、机械设计、计算机专业的
+Gnovo Technologies Ltd. Profile
+Gnovo Technologies is a high-tech company that specializes in computer aided design area. The principal focus of the Company is system level electronic design, CAD/CAE/CAM engineering, feasibility analysis, and IC design, etc. We are the distributor of a broad range of excellent products. 
+The philosophy of our company is “integrity, collaboration and innovation”. We provide our clients with superior tools, outstanding technical support, as well as first class training and service. Our goal is to achieve success together with our clients.
+Gnovo Technologies has established excellent relationship with companies in the diverse fields of space, aviation, electronics, shipping, weaponry, machinery, consumer electronics, and institutions of higher education, etc. Based in Beijing, the Company has its operating branch in Hong Kong. 
+*************************************************
+Position: Account Manager
+Qualification
+Major in Electronic Engineering, Micro Electronics or Semi-conductor with Bechlors degree;
+Minimum 1 year working experience;
+Self-motivated and driven to succeed;
+Initiative, creative, strong learning ability, With teamwork spirit;
+Excellent communication skill and presentation ability;
+No requirement on gender.
+Responsibilities
+Managing account relationship and identifying new business opportunities;
+Works closely with technical &amp; marketing team to achieve all sales targets;
+Effectively communicate Value Proposition of product solutions to customers;
+Working location, Beijing.
+Please send your resume to hr@gnovo.com
+**************************************************
+Position: Application Engineer
+Qualification
+Major in Electronic Engineering, Micro Electronics or Semi-conductor with Bechlors degree or above;
+Minimum 2 years experience in electronic products design;
+Experience in PCB product design;
+Initiative, creative, strong learning ability, with teamwork spirit;
+Good communication skill and presentation ability.
+Responsibilities
+Qualify technical viability of the opportunity and communicate it to the sales team;
+Lead technical presentations, demonstrations, evaluations, and benchmarks;
+Influence factory or product group to meet customer\'s needs and shape product direction;
+Effectively communicate Value Proposition of EDA solutions to customers;
+Working location is in Beijing.
+Please send your resume to hr@gnovo.com
+***************************************************

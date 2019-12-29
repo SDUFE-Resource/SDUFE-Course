@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <gan@ccert.edu.cn>; Fri, 2 Sep 2005 20:12:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <gan@ccert.edu.cn>; Fri, 2 Sep 2005 20:24:53 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 12:13:28 -0000
+From: "qiu" <qiu@mail.tsinghua.edu.cn>
+To: gan@ccert.edu.cn
+Cc: <cao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILXbxvO27LXEyNW8xw==?=
+Date: Fri, 2 Sep 2005 20:24:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+我不喜欢，一年换一个伴侣，孩子生了不到一年就全家各奔东西了，我喜欢象群那样的N世同堂。
+     帝企鹅是一群可爱又可敬的动物，它们用爱和坚持将冰天雪地的地球一端融化成温馨的人间天堂。成群的帝企鹅列队前进，成双的帝企鹅载歌载舞，还有企鹅夫妇温情款款的眼神和姿态，企鹅爸爸用洁白柔软的腹部把小企鹅团团裹住的样子，看了让人好不感动。帝企鹅很爱自己的孩子，如果哪只小可怜没能经受住寒冷的考验而离开人世，企鹅爸爸妈妈会守着孩子的尸体仰天嚎叫，有时它们甚至会精神时常，抢夺别人的孩子！
+     帝企鹅的世界竟是如此充满爱意！
+     它们生存的环境却很险恶，在水里有怪兽的追捕，在岸上有狂风的肆虐。然而，无论遇到任何天灾人祸，帝企鹅们都高昂着黑色的小脑代，一扭一扭地继续前进。明媚的春天到来时，它们依然在水中快乐飞翔，漫长的冬季肆虐时，它们永远不离不弃，共同对抗黑暗和冰冷，一起等待爱人的归期，守护心爱的孩子。

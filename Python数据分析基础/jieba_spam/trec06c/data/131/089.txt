@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <guo@ccert.edu.cn>; Wed, 14 Sep 2005 15:30:53 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <guo@ccert.edu.cn>; Wed, 14 Sep 2005 15:42:48 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 07:25:05 -0000
+From: "ni" <ni@mail.tsinghua.edu.cn>
+To: guo@ccert.edu.cn
+Cc: <jin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfuvfzBvczsv7S1xLXn07A=?=
+Date: Wed, 14 Sep 2005 15:42:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+一直想看the usual suspects, 苦于始终找补到哪有dvd卖。
+imdb排名top20, 兄弟觉得如何？
+     标  题: 最近两天看的电影
+     
+     昨天先是Eternal Sunshine of the Spotless Mind
+     然后看了The Usual Suspect
+     晚上看的Memento
+     今天看了Crash
+     还有Adaptation
+     
+     我不是故意找来一起看的，但是个个编剧都巨强，
+     深受教育，嗯
+     --
+     Switching to LaTeX
+     When going gets tough, the tough gets going.
+     
+     

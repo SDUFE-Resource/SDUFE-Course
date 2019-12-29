@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <fu@ccert.edu.cn>; Fri, 23 Sep 2005 13:36:32 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <fu@ccert.edu.cn>; Fri, 23 Sep 2005 13:48:01 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 05:25:07 -0000
+From: "yang" <yang@mail.tsinghua.edu.cn>
+To: fu@ccert.edu.cn
+Cc: <kang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Fri, 23 Sep 2005 13:47:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+不爽，又看了遍全文，觉得自己说的不是很对。虽然不太情愿，可我还得承认，关于这个人，我说的不太对，他身上有很多值得人尊敬的地方，我看文时太草率了，我在这里为说他人格不健全而郑重道歉！
+唉，下次发文前要好好看看帖子啊，-_-
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)
+     发信站: 水木社区 (Fri Sep 23 12:00:32 2005)

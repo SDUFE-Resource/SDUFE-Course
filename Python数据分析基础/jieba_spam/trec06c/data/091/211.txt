@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83Navcu007784
+	for <cao@ccert.edu.cn>; Tue, 6 Sep 2005 07:17:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83NnJli001115
+	for <cao@ccert.edu.cn>; Tue, 6 Sep 2005 07:30:01 +0800 (CST)
+Message-Id: <200509032349.j83NnJli001115@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 23:17:18 -0000
+From: "hu" <hu@mail.tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Cc: <ren@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxuTKtdbQ0r3NprrDtcQ=?=
+Date: Tue, 6 Sep 2005 07:29:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B125.2476A9F0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWw4hYhpZKPpUbwSle4S7/Xq9uNDg==
+
+上周末我一个同学（mm）和一个同事（gg）都得了重感冒，
+而且我同学要严重些，同时还有急性肠胃炎，
+陪我同学去看一个熟识的老中医，花了10元诊费＋43元药费（中草药），回家自己熬药，
+第二天感冒和肠胃炎就都好的差不多了，周五走路都虚弱，周日竟然自己跑去潭柘寺玩了，
+我同事周五周六打了两天点滴，花了几百大洋，现在还没好利落，
+我已经很多年习惯看中医了，每次都是几十元搞定，而且中医院都是医保的，
+不过看中医，找个好医生非常重要，我一般只去大医院挂专家号，或者有些药店的坐堂医生也都不错，都是从医几十年，退休后的老中医
+     借鉴一下国外的经验，国外的医疗费用很高。但是如果你有保险的话，那就只用交很少一部分钱。当然，医院还是拿全部的钱。他们从政府的医疗保险金里面拿。但是作为患者，就不必理会这些，交了属于自己的那百分之几的钱之后，其他的就交给医院和政府了。
+     医生也不管收钱，他每个月拿自己的工资就行了。
+     我们这边主要是社保不完善。医生们从政府那里拿不到钱，自然只好从患者身上弄了。而且医疗还没有放开，垄断行业，利润自然也就高了。其实，凡是垄断，就比较黑，我觉得。

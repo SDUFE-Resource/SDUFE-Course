@@ -1,0 +1,48 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <che@ccert.edu.cn>; Fri, 16 Sep 2005 01:29:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <che@ccert.edu.cn>; Fri, 16 Sep 2005 01:40:47 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 17:22:17 -0000
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <cao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW83G0dDQxc+iXdDFz6Kwssirufq80tbYtePKtdHpytLV0MrVx+W7qtDFz6LRp9S6w+LK1Mn6
+tsHR0A==?=
+Date: Fri, 16 Sep 2005 01:40:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+信息安全国家重点实验室筹建于1998年，是信息安全领域的国家级重点实验室。实验室依托于中国科学院研究生院，中国科学院软件所参与共建。
+信息安全国家重点实验室（中国科学院研究生院部分）坐落在玉泉路校园内，环境幽雅，拥有足够的运动设施和场地。实验室拥有1500平米的办公场所，配有齐全的网络和计算设备，如大型存储设备，网络测试与分析设备，网络处理器开发设备等。实验室经过过年的努力，联合了众多国内知名的信息安全专家，许多科研成果获得了国家级奖励，在信息安全领域拥有很高的声誉。
+中国科学院研究生院信息安全国家重点实验室固定人员20余名，除了拥有国家给予的正常运营费用外，每年平均争取到的科研经费超过800万元。
+信息安全越来越重要，需要有才华的年轻人加入。为此，我们热情欢迎有志于研究信息安全的清华同学免试推荐到我们这里攻读硕士或博士学位。优秀的环境，良好的科研氛围，一定会让同学的才干得到全面发挥。
+2006年中国科学院研究生院信息安全国家重点实验室招收硕士生情况如下：
+学科专业        研究方向        导师姓名        招生
+人数    备注
+信息安全081220  密码学  
+叶顶锋 教授
+胡  磊 教授
+翟起滨 教授
+杨理 副教授 
+王鲲鹏副教授    29人    李宝只招硕博连读生
+        
+安全协议        
+李宝 研究员
+周展飞 副研
+吕克伟副教授
+李红达 副研
+姬东耀 副研             
+        
+网络与信息系统安全      冯登国 研究员
+荆继武 教授
+张玉清 副研 
+连一峰 副研             冯登国、荆继武只招硕博连读生
+具体招生信息请参见：http://www.is.ac.cn

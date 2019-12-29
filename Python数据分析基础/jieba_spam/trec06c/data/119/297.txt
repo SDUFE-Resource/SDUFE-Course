@@ -1,0 +1,48 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5NG8m027911
+	for <xin@ccert.edu.cn>; Mon, 12 Sep 2005 09:43:12 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5KeKS091336
+	for <xin@ccert.edu.cn>; Mon, 12 Sep 2005 09:40:45 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5Kblh091332
+	for <xin@ccert.edu.cn>; Mon, 12 Sep 2005 09:40:33 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 09:29:42 +0800
+Message-ID: <326328986.06301@mails.tsinghua.edu.cn>
+Received: from 59.66.112.135 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 09:29:42 +0800
+From: gan@mails.tsinghua.edu.cn
+To: xin@ccert.edu.cn
+Date: Mon, 12 Sep 2005 09:29:42 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgxa7Iy7K7v8+83rj4xNDIy7XEyP249sDt08m6zcTQyMuyu7/PyKLFrsjLtcTI/bj2wO3TyQ==?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: gan@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+女人的第一个理由：你身高不满180
+（真实理由：你不够牛）
+女人的第二个理由：我和你不合适
+（真实理由：你还不够牛）
+女人的第三个理由：对你没感觉
+（真实理由：其实你还是可以的，但是还是因为你不够牛，所以。。。）
+男人则相反
+他的第一个理由：我太忙了所以没接你的电话
+（真实理由：你很丑，虽然你很温柔）
+他的第二个理由：我怕骚扰你所以没给你打电话
+（真实理由：其实主要是你长得不够漂亮）
+他的第三个理由：别过来看我，真的谢谢你！
+（真实理由：你实在太丑了，想爱你也很难啊！）

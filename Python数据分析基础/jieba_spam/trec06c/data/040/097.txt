@@ -1,0 +1,50 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <che@ccert.edu.cn>; Thu, 25 Aug 2005 22:10:19 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 22:28:39 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 22:28:39 +0800
+Date: Thu, 25 Aug 2005 22:28:39 +0800
+From: fu@cernet.com
+Subject: =?gb2312?B?UmU6INK7uPbR0L6/yfq1xNf3z6LKsbzkse2jrMfrtPO80ta41f0=?=
+To: che@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+     标  题: 一个研究生的作息时间表，请大家指正
+     
+     新学期作息时间表：
+     
+                     07：00 起床、洗漱、早饭
+                  上床睡觉
+                     08：00 - 12：00 学术科研
+                  睡觉ing
+                     12：00 - 13：30 午饭、午休
+                 起床吃饭
+                     13：30 - 17：30 学术科研
+                 灌水，看电影，etc
+                     17：30 - 19：00 打拳
+                 打球（电脑下载电影ing）
+                     19：00 - 21：00 晚饭、休闲娱乐
+                 灌水，看电影，有mm的去陪mm看电影
+                     21：00 - 23：00 游泳
+                  同上
+                     23：00 上床睡觉
+                  继续同上
+     
+     
+     --
+     发信人: myeyes (琥珀瞳孔~名花有猪~懒懒蜷在窝里), 信区: FamilyLife
+     标  题: Re: 什么是幸福
+     我觉得幸福是你在实现这些(而不是强求这些)的过程中,两个人的默契,一些些平凡的感动,
+     两个人共同创造一个家庭,越来越完美的满足感.
+     不是你追求的这些东西本身就是幸福
+     
+     

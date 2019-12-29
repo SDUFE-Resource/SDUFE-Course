@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <yu@ccert.edu.cn>; Thu, 15 Sep 2005 05:23:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <yu@ccert.edu.cn>; Thu, 15 Sep 2005 05:35:32 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 14 Sep 2005 21:17:46 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "hu" <hu@mail.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtGZ0cMnPtcTN4rn6tefTsLa8ysfV4tH5tcQ=?=
+Date: Thu, 15 Sep 2005 05:31:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我觉得有些配音还是比较好的
+     看了不少啊，中文配音是从小看到大的，正大剧场，CCTV6，……看原声是从VCD时代开始的
+     不过迪斯尼动画的水准一直很高，是要承认。所有迪斯尼的dvd里基本上都有一个世界之旅的环节，把各种语言的配音剪到一起，每种语言一句，基本上各国的声音语气都很像，连起来听也没有突兀感。不知道迪斯尼是如何控制做到这一点的
+     只是现在所有的20来岁的女人都是丁建华那“深情地柔美的”声音，所有的男主角都是同样的男中音，要不就是佐罗那尖尖的声音

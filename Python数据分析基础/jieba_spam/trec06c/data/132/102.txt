@@ -1,0 +1,46 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <ou@ccert.edu.cn>; Wed, 14 Sep 2005 20:43:22 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Wed, 14 Sep 2005 20:55:21 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <ou@ccert.edu.cn>; Wed, 14 Sep 2005 20:55:20 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <xin@dlut.edu.cn>
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Sz+u1vcHLLM7Sv8nS1MW/1NrX7rrz0rvQ0MDPyqa/tLK7vPs=?=
+Date: Wed, 14 Sep 2005 20:55:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+省省吧，老师已经固定座位了
+     标  题: 我想到了,我可以趴在最后一行老师看不见
+     
+     嗯那
+     自己带个耳机去以免那个是坏的
+     
+     这个总万无一失了吧
+     
+     就这样了
+     
+     咳咳
+     
+     : 再次提醒，
+     : 上学期是两个老师开课，
+     : 本学期只有一个
+     
+     --
+     兔子吃饭回来说:11食堂的盘子很新,可以照镜子,真高兴
+     正确mm看了说:照出来一只兔子,分不清楚到底是盘子里的兔子还是吃盘子里的兔子的兔子了
+     兔子:正确mm学问高,你这句话我看了2次还是没看明白
+     jackghost建议我做个qmd,于是有了这个qmd
+     然后microcheng说:你这个qmd可读性不强，建议取消
+     兔子:对于理解力比我还差的人,我不予考虑其建议的
+     
+     

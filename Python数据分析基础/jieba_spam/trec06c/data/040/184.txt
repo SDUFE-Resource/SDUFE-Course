@@ -1,0 +1,36 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <shi@ccert.edu.cn>; Thu, 25 Aug 2005 23:10:42 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 23:23:49 +0800 (CST)
+Date: Thu, 25 Aug 2005 23:17:35 +0800
+From: "kong" <kong@sohu.com>
+To: shi@ccert.edu.cn
+Cc: "yxl" <gao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob5TVFbXqrKlob/T8MOrx/LKwL31yPzE0LWlvvbI/CDB1rWkIHZzIMzVt8a/yyAo16rU2Ck=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: stvnet (清华大学学生网络电视), 信区: THUInfo
+标  题: 【STV转播】羽毛球世锦赛男单决赛 林丹 vs 陶菲克 (转载)
+发信人: stvnet (清华大学学生网络电视), 信区: Badminton
+标  题: 【STV转播】羽毛球世锦赛男单决赛 林丹 vs 陶菲克
+发信人: stvnet (清华大学学生网络电视), 信区: STVNET
+标  题: 【STV转播】羽毛球世锦赛男单决赛 林丹 vs 陶菲克
+【STV转播】羽毛球世锦赛男单决赛 林丹 vs 陶菲克
+BTV-6现在正在播出羽毛球世锦赛男单决赛 林丹 vs 陶菲克，欢迎通过学生清华视听媒体专区的网络电视转播直击现场！
+为方便清华校内没有电视但能联网且又关注羽毛球世锦赛的用户收看现场直播，学生网络电视（STVNET）将调整电视转播频道，对赛事进行转播！
+具体收看办法：
+点击学生清华视听媒体右部顶端的“电视转播”下的“Gridmedia”蓝色背景图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+　　1.选择“打开”(或者OPEN/RUN)等本地打开按钮直到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网用户)”频道收看这场直播。
+　　2.选择“保存”(或者SAVE)等按钮保存到您的计算机上，运行保存下来的“Gridmedia学生网络电视版”程序，即可看到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gidmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网用户)”频道收看这场直播。
+　　另外由于将从远处服务器以及一些动态的转发节点获得数据，所以在选择频道弹出windows media player播放器后，您会看到播放器下端将出现“正在连接到媒体...”字样以及后来的“缓冲 XX％”字样，此时请您耐心等待数据的接收。
+　　为保证您的收看效果，建议安装windows media player 8.0或以上版本。
+                                                        学生网络电视
+http://www.student.tsinghua.edu.cn/media/default.aspx

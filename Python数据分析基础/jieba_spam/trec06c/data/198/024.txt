@@ -1,0 +1,30 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R2Ql7k015088
+	for <jian@ccert.edu.cn>; Wed, 28 Sep 2005 13:08:16 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8R2U2q21285;
+	Wed, 28 Sep 2005 13:11:31 +0800
+Message-Id: <200509270230.j8R2U2q21285@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 05:11:31 UT
+To: jian@ccert.edu.cn
+From: zhang@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMbkyrXO0tK71rHP687Kzso=?=
+
+看看这片文章，设计得再好的飞机是怎么出问题的：
+http://news.china.com/zh_cn/domestic/945/20030101/11390669_3.html
+ 中国“飞豹”战机试飞 创造一个个空中奇迹
+。。。
+然而，当高度降至1540米时，只听“嘭”的一声巨响，前座舱盖被抛到了九霄云外，强大的气流将他压在座椅靠背上动弹不得，气流的呼啸声震耳欲聋，谭守才既看不到前方的空域，也听不到耳机里地面指挥员的声音，而且，由于座舱盖飞掉，使弹射跳伞系统失去了保险，谭守才随时都有被弹离飞机的危险。
+　　这种故障在飞行中是很少见的。死神正一步步地向两人进逼！
+　　时间一分一秒地过去。谭守才脑子里只有一个念头：无论如何要保住战鹰，保住这凝聚上万人智慧和心血的战鹰，保住机上这些珍贵的科研数据！
+　　座舱盖飞掉后，下边还有几英寸高的一点根儿，勉强能挡点风。谭守才拉下头盔风镜，身体前倾紧贴仪表板，凭着多年的驾技努力使飞机向机场方向靠近。
+　　终于能看见跑道了。谭守才将飞机稳稳地对准跑道，下滑，接地，放伞，然后安稳地停在跑道尽头。
+　　事后查明，工厂的工人在安装座舱盖时将活门螺钉装反了。
+     你们这些做学问的人，在批王同学的时候，
+     是否想过该批批自己？
+     你们这些大牛们，学问都比王同学高？

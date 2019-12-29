@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <fan@ccert.edu.cn>; Mon, 22 Aug 2005 21:08:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <fan@ccert.edu.cn>; Mon, 22 Aug 2005 21:21:40 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 13:16:17 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "ren" <ren@mail.tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+Cc: "tunet" <yana@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILuqzqrSqsjLIQ==?=
+Date: Mon, 22 Aug 2005 21:18:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+你不是问够干吗的么？ 我说够生活，咋了
+     标  题: Re: 华为要人!
+     
+     仅此而已??
+     : 够生活
+     
+     
+     --
+                                                  

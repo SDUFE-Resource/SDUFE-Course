@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <tang@ccert.edu.cn>; Sat, 24 Sep 2005 13:14:48 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 13:03:48 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 24 Sep 2005 13:03:47 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 24 Sep 2005 13:03:47 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 05:03:47 -0000
+From: "gong" <gong@mail.tsinghua.edu.cn>
+To: tang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC5+tHQvr/J+tXQyfrQxc+izfjKx7fxsumyu8HLz+rPuNeo0rUssO/Dpr+0v7Q/?=
+Date: Sat, 24 Sep 2005 13:26:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+谁能在这里查到详细的专业?我总是查询失败,步骤如下:
+1.http://www.chinayz.edu.cn/sch/
+2.点一所大学(以北京大学为例)
+3.http://www.chinayz.edu.cn/sch/schoolInfo;schId,367878.html
+4.点左侧"硕士招生目录查询"
+http://www.chinayz.edu.cn/sch/master_zsjh.do?schId=367878&amp;categoryId=481357&amp;mindex=4
+5.点右侧"查询"
+然后就是长时间的等待,一直未见查询结果
+http://www.chinayz.edu.cn/sch/zsjh/send.jsp

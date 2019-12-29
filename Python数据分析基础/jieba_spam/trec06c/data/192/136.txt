@@ -1,0 +1,45 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <rao@ccert.edu.cn>; Tue, 27 Sep 2005 13:10:22 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Tue, 27 Sep 2005 05:21:16 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Tue, 27 Sep 2005 05:21:16 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <rao@ccert.edu.cn>; Mon, 26 Sep 2005 22:32:23 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <rao@ccert.edu.cn>; Tue, 27 Sep 2005 00:28:49 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 13:21:04 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <shi@motorola.com>
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+/M7MC0wcujrNK219O19MHLICjXqtTYKQ==?=
+Date: Tue, 27 Sep 2005 13:20:39 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+【 以下文字转载自 Girl 讨论区 】
+发信人: laputaland (天空之城・阴霾...), 信区: Girl
+标  题: 秋天来了，叶子掉了
+其实不想这么感伤的，一个男生，感情太细腻，未免不会遭人鄙视。
+但是谁叫你打电话来时，耳边正响着这首歌呢--《值得一辈子爱的人》
+答应你离开，消失；我的心在不断沉沦却微笑地祝你幸福，微笑，是你教我的，很感谢你。
+谁是我值得一辈子去爱的女人？很遗憾，你不是，因为自己没有爱你的资格。
+生活不会因此而中断，明天的太阳必然也会升起。其实自己只是想躲在角落里，看你幸福，陪你悲伤，但是你还是选择了将我放逐。你知道我不会拒绝你，即使违逆我自己的心意。
+他们说蝎子被伤到之后会变得很狠，我也想变狠，恨你，忘记你。可是当我仔细看着自己那颗流着血的心的时候，我看到的更多的是自己给自己划上的伤疤。
+你是一个应该被人疼爱的女孩，无论过去现在还是未来
+我为那些错过你的男孩而难过，无论过去现在还是未来
+再见，我说出的最后一个词是再见。
+因为希望
+有一天
+能
+再见...

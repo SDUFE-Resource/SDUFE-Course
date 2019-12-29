@@ -1,0 +1,24 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <yun@ccert.edu.cn>; Mon, 15 Aug 2005 20:49:08 +0800 (CST)
+Received: (qmail 5448 invoked from network); Mon, 15 Aug 2005 12:59:55 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Mon, 15 Aug 2005 12:59:55 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "bi" <bi@jdl.ac.cn>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfzvsijrNK7tcDQodGnyv3Rp8zi?=
+Date: Mon, 15 Aug 2005 21:03:54 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+如果考虑可变速走的话，答案应该是在100与300之间（100&lt;s&lt;300）.
+如果考虑队伍和通信员都是匀速走的话，应该是100＋100×sqrt(2),大概是241.4m,
+  假设通信员到达队伍头端时，队伍走了x 米，通信员走了100＋x米，当队伍再走100－x米时，通信员应该走了(100+x)*(100-x)/x米，而（100－x）＋(100+x)*(100-x)/x = 100,这样可以解出x ＝ 50×sqrt(2)。所以通信员总共走了100＋100*x = 100+100*sqrt(2)
+     一条长100米的队伍在向前行走，队伍末端有个通讯兵向队伍头端跑去，当跑到头端的时候再折回跑回末端，当同学兵跑回末端的时候，整个队伍刚好行走了100米，现求：通讯兵一共跑了多少米？ 

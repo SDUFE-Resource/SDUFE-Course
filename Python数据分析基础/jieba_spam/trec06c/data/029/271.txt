@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <cao@ccert.edu.cn>; Tue, 23 Aug 2005 11:56:01 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <cao@ccert.edu.cn>; Tue, 23 Aug 2005 12:09:19 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 04:03:56 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "wei" <wei@mail.tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Cc: "tunet" <yuan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjjUwjE5yNW5pNf3vMfCvA==?=
+Date: Tue, 23 Aug 2005 12:05:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+送交
+好心人   IC卡 ：机械系  刘慧远  学号2005010476
+报失
+马晓     证件：IC卡，于18日失于浴室
+裘钧     其它：系旗（航空航天学院），17日失于11＃楼
+周翔     钱包：内有300元人民币和几张美元，及身份证，北京银行借记卡，铁通电
+               话卡
+               19日上午8：50左右失于校医院注射麻疹疫苗处
+李尚     其它：水杯，透明，银色盖，塑料的.18日失于校医院
+王羽中   钥匙：一串，共7把，有一把为圆筒状，下午2：00－4：00拾于图书馆
+李老师   包  ：一串钥匙，游泳证 
+               （在西湖游泳池取错包，所取错包中有泳衣，泳帽，泳镜，联系电话：137                01309335）  
+领取： 无

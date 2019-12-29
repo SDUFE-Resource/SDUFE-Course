@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <wua@ccert.edu.cn>; Thu, 1 Sep 2005 02:40:56 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 02:43:48 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 02:43:48 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 02:43:48 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 18:37:11 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 02:29:21 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 02:29:21 +0800
+From: zhang@mails.tsinghua.edu.cn
+To: wua@ccert.edu.cn
+Cc: wen@ccert.edu.cn
+Date: Thu, 1 Sep 2005 02:29:21 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgxNG1wM7Sxfa1vbjfyMvBy6O/x+tqbcPHsO/DprfWzvbSu8/C?=
+Content-Type: text/plain
+
+    前一段时间追一个mm，因为是高中同学，相互都比较了解，后来被拒（当时她说的是“我觉得咱们像现在这样作朋友挺好的，你明白我的意思吗?”）。我为了能静下心来学习，就删除了她的QQ号(没办法，看见她在线我就没法专心)，打算过一段时间完全平静后再联系。本来到这里就算了。可是前天她在宿舍能上网了以后，连续三天主动找我聊，其实也没啥说的，就是些琐事。我又不好意思说：“咱暂时别联系了”，结果这三天过得也没啥效率，全都想了她了。
+    现在我想请教各位，她到底是什么意思，只是不愿意失去我这个朋友(我以前帮过她一些忙)，还是我碰到情场高人了？倘若是后者我就躲远点。

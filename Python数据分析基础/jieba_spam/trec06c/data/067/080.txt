@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <he@ccert.edu.cn>; Thu, 1 Sep 2005 21:12:26 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <he@ccert.edu.cn>; Thu, 1 Sep 2005 21:25:02 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 13:13:37 -0000
+From: "ling" <ling@mail.tsinghua.edu.cn>
+To: he@ccert.edu.cn
+Cc: <kong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INChzsrSu8/Co6zE0MWuxfPT0cLD087Kx9eh0ru85Le/u7nKx8G9vOS3v8TYo78=?=
+Date: Thu, 1 Sep 2005 21:24:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+想起一个old的笑话
+某对恋人出去旅行，当天住店，第二天爬山
+结果店里只剩了一间房、一张大床……
+睡觉的时候，女孩放个枕头在两人中间：谁爬过来谁就是禽兽
+第二天男孩被女孩打醒：你这个禽兽！
+男孩委屈，不知何故：我可什么都没做啊，别闹了，还得爬山呢！
+女孩：你连禽兽都不如，连个枕头都爬不过来，还爬山……！
+     小调查一下，我觉得身边的朋友都是一间房，可我mm说是两间，大家呢？

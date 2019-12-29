@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <yun@ccert.edu.cn>; Sun, 18 Sep 2005 12:39:06 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <yun@ccert.edu.cn>; Sun, 18 Sep 2005 12:55:41 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <yun@ccert.edu.cn>
+	; Sun, 18 Sep 2005 12:55:41 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <yun@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 12:20:42 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "tao" <tao@njnu.edu.cn>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPjQobqitcTSqtei0uKjrMflu6qz9s/Wv8nSycjLzu+jrCAo16rU2Ck=?=
+Date: Sun, 18 Sep 2005 12:50:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+【 以下文字转载自 Children 讨论区 】
+发信人: LeiZi123 (leizi), 信区: Children
+标  题: 带小孩的要注意，清华出现可疑人物，
+昨天早上老妈带这宝宝在邮局前面的空地玩，来两个 40 岁左右的妇女，都背着包。过来就逗宝宝玩，然后就说要抱抱宝宝。老妈就比较警惕，觉得根本就不认识的人，怎么上来就要抱小孩呢。然后就赶紧自己把小孩抱起来，说小孩认生，不让抱。那两个人还不死心，还要抱。小家伙也真是的，一直冲别人笑。因为当时人比较少，联想到前段时间有人发贴子，说公园里有人故意逗宝宝，然后趁你不注意，就把宝宝抱走，我妈也比较害怕，就赶紧一手抱着宝宝，一手推着小车走了。
+我听说后感觉蹊跷，虽然不敢肯定这两个人有什么毛病，还是要告诉大家，小心为好。学校里面杂人比较多，大家注意啊。

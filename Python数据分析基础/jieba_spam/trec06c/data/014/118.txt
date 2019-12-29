@@ -1,0 +1,30 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <ke@ccert.edu.cn>; Sat, 20 Aug 2005 00:37:30 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <ke@ccert.edu.cn>; Sat, 20 Aug 2005 00:50:32 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 01:14:00 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: qiu@126.com
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEdHzqpRUcPcwuu4+s7SxNajrLrcyfrG+KOsy/nS1MC0t6LM+35+fn5+fn4=?=
+Date: Sat, 20 Aug 2005 00:45:14 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+我老公几年没上QQ了，他QQ密码从我跟他在一起的那天就知道了，平时都是我偶尔无聊开他QQ
+         前天和GG聊天，他无意中自己说出自己的QQ密码现在换成另外一个。我就要他告诉我。
+     当时气氛很好。他先是不告诉我。我就故意装生气望车外。后来他就悄悄告诉我新密码了。两人闹着玩，都没当一回事。
+         其实他密码多少我从没当一回事，也从不干开他QQ的无聊事。不然也不会现在才知道他早改密码了。之前那个密码也是04年初的时候他主动告诉我的，并要我告诉他我的。

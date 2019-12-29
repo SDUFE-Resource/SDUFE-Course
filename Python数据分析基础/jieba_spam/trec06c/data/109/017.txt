@@ -1,0 +1,52 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <zhang@ccert.edu.cn>; Sat, 10 Sep 2005 02:24:10 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Sat, 10 Sep 2005 02:42:10 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Sat, 10 Sep 2005 02:42:09 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "lv" <lv@mail.csu.edu.cn>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0dC+v8n60aG/zrK/t9bXotLiysLP7iAo16rU2Ck=?=
+Date: Sat, 10 Sep 2005 02:23:36 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 PhD 讨论区 】
+发信人: wuwu (远山清风), 信区: PhD
+标  题: 研究生选课部分注意事项
+张贴时间：2005-09-09 作者：研究生院 
+ 
+ 
+    
+重申研究生选课部分注意事项
+各位研究生同学：
+研究生选课已于9月9日开始，下面是选课中同学们经常问到的问题，在此重申请大家注意
+：
+1、已经获得免修硕士生英语资格的同学一定要选课序号99的硕士生英语课（60640012）
+，否则无法记载免修成绩。
+2、已经获得免修博士生英语资格的同学（包括直博、普博、硕转博）一定要选课序号99
+的博士生英语课（90640012），否则无法记载免修成绩。
+3、博士生英语课（90640012）秋季学期限普博生选，请直博生和硕转博生在春季学期选
+修该门课程。
+4、现代科学技术革命与马克思主义课程（90610042）秋季学期限普博生、硕转博生选修
+，请直博生同学在春季学期选修该门课程。
+5、高等数值分析课程（60420024）仅在本学期开课，春季学期不再开设，请需要上该门
+课程的同学务必本学期选课。本条与选课手册不一致，以此为准。
+6、数值分析A（60420044）、自然辩证法（60610012）、社会主义与当代世界（60610021
+）、硕士生英语（60640012）属于抽签课程，未抽中的同学可以在春季学期选课。
+7、深圳研究生院的同学请按照深圳研究生院的通知要求选课。
+8、课程一经选中（以补退选后结果为准）必须上课和参加考试，所选课程（包括体育课
+）未参加考试得0分以及考试不及格者不能申请答辩，请同学们慎重选课。
+9、研究生体育课属于非学位要求课程，请同学们选课时将该门课程降为非学位课。
+研究生院
+注册中心
+2005-9-9  

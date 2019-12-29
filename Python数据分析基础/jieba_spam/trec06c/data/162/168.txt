@@ -1,0 +1,38 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J65V6j013138
+	for <tang@ccert.edu.cn>; Wed, 21 Sep 2005 07:57:28 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J61MoI086766
+	for <tang@ccert.edu.cn>; Wed, 21 Sep 2005 07:53:45 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J61Hls086762
+	for <tang@ccert.edu.cn>; Wed, 21 Sep 2005 07:53:16 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15003 invoked by uid 512); Wed, 21 Sep 2005 00:01:39 -0000
+Message-ID: <20050919060943.15002.qmail@stu.ee.tsinghua.edu.cn>
+From: guan@stu.ee.tsinghua.edu.cn
+To: tang@ccert.edu.cn
+Date: Wed, 21 Sep 2005 08:01:39 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEgztK5+rKpyr/J87rL1ti087jEuO8gsbG088flu6q9q9fUyfOyqcq/teM=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+信报讯(记者郑超) 我国博士学位授权审核体制有重大改革，北大、清华今年开始可自行审核博士学位授权，开展试点工作。
+　　据介绍，北大、清华自行审核本单位已有博士点所在一级学科的博士学位授权的试点意义重大，关系到我国学位授权审核体制改革的发展进程。据北大研究生院有关负责人介绍，以前，博士学位授权初审归国务院学位委员会，此次把初审下放到学校，但终审归国务 
+ 
+院学位委员会。
+http://www.sina.com.cn 2005年09月20日02:13 北京娱乐信报

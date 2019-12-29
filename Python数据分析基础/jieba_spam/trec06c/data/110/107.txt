@@ -1,0 +1,44 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j89DoFew023590
+	for <zhang@ccert.edu.cn>; Sat, 10 Sep 2005 09:10:27 +0800 (CST)
+Received: from th105034.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.34)
+  by localhost with SMTP; Sat, 10 Sep 2005 00:57:16 -0000
+From: "cao" <cao@mails.tsinghua.edu.cn>
+To: zhang@ccert.edu.cn
+Cc: "'Duan Haixin'" <qiu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgy/nOvaGwtffV+6GxyrW8ysnPvs3Kx7D+tuHBy6Oho6EgKNeq1Ngp?=
+Date: Sat, 10 Sep 2005 09:22:42 +0800
+Message-ID: <000001c5b547$1fe2f440$2269423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+Importance: Normal
+In-Reply-To: <326258248.07457@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+
+【 以下文字转载自 PhD 讨论区 】
+发信人: xiangzi (白发壮志云和月), 信区: PhD
+标  题: 所谓“调整”实际上就是剥夺了！！
+学校太无耻了，不给就不给吧，还要用这种办法”调整“
+所谓调整，就是变相剥夺这部分钱，为什么这么说？
+原来博金直接有学校给，导师还另外给一部分钱
+比如说博金按照每个月200（按照10个月算）、导师每个月给你400
+现在调整了，把负担全部丢给导师，有钱的导师倒也无所谓，等于一个月多给200
+但是有钱的导师有多少阿？而且现在一个博导带好些博士生，
+这笔钱还是数目不小的
+导师怎么办？学校要求发博金，还要经过系里审核，导师自然会出这笔钱，
+但是原来每个月给你的钱，给与不给、给多少完全由导师决定，如果导师经费不多，
+自然会减少原来每月的额度，比较由原来的400，降为200
+朝三暮四＝朝四暮三，这个道理谁不知道阿，可以预见，
+很多经费不多的导师会如此处理
+最后导师支出是一样的，学校还做着“调整”的好人，所谓“不降低博士生生活水平”
+哄鬼吧！
+这件事学校表现太不负责任了，太无耻了
+这种搞法，明摆这就是取消了，还要把责任推给导师，无耻之尤
+     关于调整博士生导师基金发放办法有关问题的通知
+     清校发〔2005〕39号
+     各相关单位：

@@ -1,0 +1,22 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <tan@ccert.edu.cn>; Sun, 4 Sep 2005 00:27:32 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Sun, 4 Sep 2005 00:59:01 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Sun, 4 Sep 2005 00:40:06 +0800
+From: "tu" <tu@mail.nisac.gov.cn>
+Reply-To: tu@mail.nisac.gov.cn
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILbBsqnSu8C0tdrSu7TO1ebV/dDEt7M=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+所以女孩子真的不适合搞技术，跟男人相比完全处于劣势。不管你成绩多么优秀，学习多么刻苦，跟搞技术都是两码事
+     硕博连读，今天开学就博2了，虽然本科硕士成绩优秀，但愈发现学习和科研风牛马不相及！！！！不喜欢编程，我想主要是我保研后就只顾着玩了，落的太多，该学的super 多，感觉没有补救了：（  熟悉的同学们马上明年就毕业了，不知自己到时能不能挺下来，我编程能力很差！

@@ -1,0 +1,34 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <chen@ccert.edu.cn>; Fri, 2 Sep 2005 05:35:03 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 05:37:55 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 05:37:55 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 05:37:55 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 21:31:18 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 05:23:28 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 05:23:28 +0800
+From: yun@mails.tsinghua.edu.cn
+To: chen@ccert.edu.cn
+Cc: su@ccert.edu.cn
+Date: Fri, 2 Sep 2005 05:23:28 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMXz09HN0M7SuPjOys7KxMS49tDEy+Ow4LrD0ru14yAo16rU2Ck=?=
+Content-Type: text/plain
+
+通常小孩子随着年龄的增长兴趣是会变化的，如2-3岁的时候大多数小孩都会喜欢画画，4-5岁的时候都会喜欢唱歌喜欢和群体活动。
+而在4-5岁特别活跃的小孩子在5-6岁左右可能会很沉默，会喜欢自己玩。
+过了2-3岁仍然喜欢画画的小孩子就可能对绘画很有兴趣，但是有兴趣未必有天赋，天赋还
+要看他对绘画本身的理解。
+每个小孩子他喜欢什么，都是有一定阶段的，不应该是家长让他们学什么，而是在他有兴趣
+的时候好好地引导他。
+如果孩子已经上小学了，他的兴趣点是有主张也有意识的，而不是像学前那样是自然而发。
+这个时候就应该适当去引导他的兴趣，比如天文知识，历史文学知识，逻辑能力，想象力等等。
+     我觉得总比让小孩子学美术啥的要有趣一点吧

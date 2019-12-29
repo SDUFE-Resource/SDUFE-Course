@@ -1,0 +1,33 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <jiang@ccert.edu.cn>; Sat, 1 Oct 2005 06:15:39 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Fri, 30 Sep 2005 22:26:35 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Fri, 30 Sep 2005 22:26:35 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <jiang@ccert.edu.cn>; Fri, 30 Sep 2005 15:48:14 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <jiang@ccert.edu.cn>; Fri, 30 Sep 2005 17:33:07 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sat, 1 Oct 2005 06:26:30 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <xing@motorola.com>
+To: jiang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK7sd/Kx7DWwujSu7HfysdnZyDO0tfz09LOqsTR?=
+Date: Sat, 1 Oct 2005 06:26:28 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+UBC mm纵观全文，我感觉你是一个单纯善良的mm。刚才打了很多忽然丢了，所以长话短说，我很担心你是否会混淆依赖和感动为爱情，很担心你草草决定会后悔。父母是最心疼你的人，在你未能让你父母放心之前，一定要慎重，宁可多相处。gg的倔犟尤其让我担心你，因为你已经顶了不小的压力，他不在一边支持你却跟你赌气，这个说明他不成熟，不自信，自卑才使他倔，这也是将来一起生活时将要面对的很大问题。而且因为他跟你赌气，你会由于善良不忍拂他的心愿，于是你就很为难，这也不是一个爱你的善良的大度的gg应有的态度。所以我希望你真的要多相处，多冷静思考。
+     gg家就在我奶奶家不远的农村 奶奶已派姑姑早早的侦查了他家的底细
+     他爸在村里做小生意 是“典型的商人作风”
+     他gg是民工 还包了个小姐 嫂子住娘家 差点要离婚

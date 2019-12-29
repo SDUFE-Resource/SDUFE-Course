@@ -1,0 +1,30 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <you@ccert.edu.cn>; Sun, 21 Aug 2005 00:30:37 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <you@ccert.edu.cn>; Sun, 21 Aug 2005 00:43:39 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 01:07:07 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: gong@126.com
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?ofEgufrD8bjvw/y+/LXaMzO8r83Fvvy+/LOk1cXX1NbSvau+/CAo16rU2Ck=?=
+Date: Sun, 21 Aug 2005 00:38:21 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+【 以下文字转载自 Stock 讨论区 】
+发信人: rick (桃花岛主~出色不如走运), 信区: Stock
+标  题: 国民革命军第33集团军军长张自忠将军
+张自忠（1890

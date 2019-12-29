@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <lai@ccert.edu.cn>; Fri, 23 Sep 2005 15:32:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <lai@ccert.edu.cn>; Fri, 23 Sep 2005 15:43:47 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 07:21:19 -0000
+From: "hou" <hou@mail.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Cc: <liu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILPUt7nQocrCo6zMrLbItPPKwqOstPO80sbAxsC/tA==?=
+Date: Fri, 23 Sep 2005 15:43:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+你不要总是拿那件事说事，是个人就会烦的。说话要讲究策略。
+     当局者迷，旁观者清，故来此一问。
+     首先简要介绍一下背景：mm和gg都来自农村，家里条件都比较一般。gg毕业两年多一点，mm毕业一年多一点。gg家里没有太多经济负担，基本上稍微孝敬孝敬父母，其他就自给自足了,稍微攒点钱，算是为以后准备准备。mm负担稍微多一点，有一个弟弟上大学需要帮忙，自己上大学时

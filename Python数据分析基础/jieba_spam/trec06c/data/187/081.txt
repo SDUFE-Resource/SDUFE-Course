@@ -1,0 +1,25 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdW0h032355
+	for <liao@ccert.edu.cn>; Mon, 26 Sep 2005 10:59:05 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 11:14:48 +0800
+Message-ID: <327652915.84524@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Mon, 26 Sep 2005 11:14:48 +0800
+Message-ID: <000101c5c1cf$bb387e80$0301a8c0@CCERTDAWEI>
+Reply-To: "xia" <xia@ccert.edu.cn>
+From: "xia" <xia@tsinghua.org.cn>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SuMPU9dH5tKbA7dXi1tbH6b/2o78=?=
+Date: Mon, 26 Sep 2005 08:14:38 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+读读你自己的开场的第一句话。
+         和女友感情一直不太稳定（具体原因不说了，但相互还是对对方的很多方面持肯定态度，因为这个原因以及相处时间比较长1.5年，现在我们还保持着男女朋友的身份及关系，是正式的外界如朋友同学等都知道）。但最近发现：女友父母劝说女友再接触其他人，女友也认同了该劝

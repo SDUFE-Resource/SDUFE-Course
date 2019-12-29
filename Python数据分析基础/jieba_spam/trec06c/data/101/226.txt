@@ -1,0 +1,45 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <he@ccert.edu.cn>; Thu, 8 Sep 2005 11:47:00 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Thu, 8 Sep 2005 03:59:15 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Thu, 8 Sep 2005 03:59:15 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Thu, 8 Sep 2005 03:59:15 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "lin" <lin@iim.ac.cn>
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?ofEgR29Db29sIM34wufTsMrTxr3MqMjtvP4wLjGw5iAo16rU2Ck=?=
+Date: Thu, 8 Sep 2005 11:59:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+【 以下文字转载自 NewSoftware 讨论区 】
+发信人: GoCool (http://GoCool.tv), 信区: NewSoftware
+标  题: GoCool 网络影视平台软件0.1版
+GoCool（0.1版）是一款采用 P2P 技术实现的流媒体播放软件，支持大规模用户
+实时收看由服务器提供或用户发布的影视节目，例如体育台节目、电影台节目以
+及电影、音乐文件等； 
+GoCool 支持众多的媒体格式，除通常的 wmv/asf, rm/rmvb 格式之外，特别支
+持发布和实时收看 xvid/divx 格式的 avi 文件（同时支持 sub/srt 格式的电
+影字幕），以及 mp3 格式的音频文件。使用 GoCool，您可以享受到各类丰富多
+彩的电影和音乐节目，而不必局限于电视节目。
+GoCool 软件集成了发布节目源的功能。通过简易的操作，用户可以轻松发布自己
+的影视节目，共享自己喜爱的节目给朋友观看。例如，共享电脑中保存的电影文件，
+或者节目源的 URL 等； 如果您的电脑上有电视卡设备，您还能够将电视信号通过 
+GoCool 转发出去，与朋友一起分享。 
+由于采用了大规模的 P2P 技术，能够有效保证观看的服务质量，当用户较多的时
+候不会导致连接不上服务器或者效果很差的情况。由于 GoCool 采用了高效的内存
+缓冲技术，您不必担心 GoCool 对硬盘带来损伤。
+GoCool 是免费的绿色软件，任何人都可以从 www.GoCool.tv 下载最新的 GoCool 
+程序。本软件免安装，直接运行 GoCool.exe 就可以了。需要卸载的时候直接删除
+该目录即可。
+欢迎您访问 GoCool 的主页：http://www.GoCool.tv 
+或通过邮件 GoCoolTV@gmail.com 与我们联系，
+我们期待着您的建议和支持，并会一直努力，让 GoCool 越来越好，提供最好的服务！

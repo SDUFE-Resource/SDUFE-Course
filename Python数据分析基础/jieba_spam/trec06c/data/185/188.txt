@@ -1,0 +1,27 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdWEc032356
+	for <bai@ccert.edu.cn>; Mon, 26 Sep 2005 00:56:55 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 01:12:37 +0800
+Message-ID: <327652915.11497@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Mon, 26 Sep 2005 01:12:37 +0800
+Message-ID: <000201c5c1cf$bb5d1d80$0301a8c0@CCERTDAWEI>
+Reply-To: "rao" <rao@ccert.edu.cn>
+From: "rao" <rao@tsinghua.org.cn>
+To: bai@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob68saG/uPfOu9PQvq3R6bXER0dKSszmztKz9rP21vfS4rCh?=
+Date: Sun, 25 Sep 2005 22:12:38 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+    小弟今年能保研，现在本院有一个导师要我，但是去他那的话可能拿不到公费或者说拿不到全额公费，这个导师今晚有个形式的面试。
+    但我想去外院的一个导师，在那应该能拿到全额公费，但这个导师面试的晚。因为我不想这边面试完了之后再跑到那边，这样影响很不好。于是我今天过去跟外院的那个导师摊牌了，他已经决定收我，但只答应了我进他那个导师组，没答应说一定挂他名下。
+    注：由于小弟家庭经济不是很好，很想拿全额公费。
+    请各位GGJJ帮我出出主意，我该何去何从？

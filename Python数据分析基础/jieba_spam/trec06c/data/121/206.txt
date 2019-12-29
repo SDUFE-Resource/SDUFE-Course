@@ -1,0 +1,50 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AF39fI030243
+	for <yana@ccert.edu.cn>; Mon, 12 Sep 2005 17:02:31 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AF0L4C093997
+	for <yana@ccert.edu.cn>; Mon, 12 Sep 2005 17:00:01 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8AF0IZY093993
+	for <yana@ccert.edu.cn>; Mon, 12 Sep 2005 16:59:39 +0800 (CST)
+	(envelope-from mayuanchen@tsinghua.org.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 17:19:04 +0800
+Message-ID: <326365583.28602@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: mayuanchen@tsinghua.org.cn
+Received: from unknown (HELO mayc-d400) (220.207.80.1)
+	by 210.77.143.232 with SMTP; Mon, 12 Sep 2005 17:19:04 +0800
+From: "zhou" <zhou@tsinghua.org.cn>
+To: yana@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [TOEFL] =BD=CC=CA=A6=BD=DA=BF=EC=C0=D6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Date: Mon, 12 Sep 2005 17:11:53 +0800
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0061451654=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 SecondBook 讨论区 】
+发信人: lubi (相爱不如相知), 信区: SecondBook
+标  题: 【转让】书籍
+转让下列书籍，站内信箱联系 或留下201电话，价格可议
+1、《自然辩证法概论》，高等教育出版社，原价11元，现价4元
+2、《新编大学英语词汇星火式巧记速记》，马德高、卢福林主编，山东大学出版社，原价19.80元，现价8元
+3、《中国刑法论》，杨春洗、杨敦先主编，北京大学出版社，原价28元，现价10元
+4、《民事诉讼原理》，潘剑锋著，北京大学出版社，原价21.5元，现价9元
+5、《亲属法》（第二版），杨大文主编，法律出版社，原价20元，现价8元
+6、《继承法》，郭明瑞、房绍坤编，法律出版社，原价13元，现价5元
+7、《新世纪研究生高级英语写作教程》，刘玉萍编著，北京大学出版社，原价20元，现价10元
+8、《企业与公司法学》，甘培忠著，北京大学出版社，原价27元，现价10元
+9、《物权法》，梁慧星，陈华彬编著，法律出版社，原价29元，现价12元
+10、《民法》，魏振

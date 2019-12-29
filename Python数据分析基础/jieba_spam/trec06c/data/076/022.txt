@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j822KE0j026900
+	for <tan@ccert.edu.cn>; Sat, 3 Sep 2005 01:49:07 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j822I2Cp027723
+	for <tan@ccert.edu.cn>; Sat, 3 Sep 2005 01:47:47 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j822Hw7X027719
+	for <tan@ccert.edu.cn>; Sat, 3 Sep 2005 01:46:52 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 3 Sep 2005 01:35:54 +0800
+Message-ID: <325626821.22783@mails.tsinghua.edu.cn>
+Received: from 202.38.188.130 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 3 Sep 2005 01:35:54 +0800
+From: pan@mails.tsinghua.edu.cn
+To: tan@ccert.edu.cn
+Date: Sat, 3 Sep 2005 01:35:54 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INGn1d+9qNLpsbG+qcq1yqmy7tLsubq3v7zb0tS/2NbGzeK12MjLvfi+qQ==?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: pan@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+或者是记者断章取义，或者是“学者”脑子进水。
+         本报讯(记者林文龙)“应对本地人和外地人实施不同房价，是控制人口的有效方法”，首都经贸大学人口研究所周浩博士的这个观点经本报报道后，在读者中引起强烈反响。有读者认为，差异房价是控制人口的有效手段；但也有读者认为，此观点太偏激，是对外地人的歧视。
+     “提高房屋租金控制流动人口”
+     　　前天下午，周浩博士与北京市人口和计划生育委员会政策法规处副处长周新茹做客北京市政府官方网站时表示，控制人口要提高生活必需的消费水平，使一批人无法在北京生活。其中，对本地人和外地人使用不同购房价格是控制人口的一种有效手段。而提高租房价格则会控制流动

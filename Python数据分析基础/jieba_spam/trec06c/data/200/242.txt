@@ -1,0 +1,26 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <mo@ccert.edu.cn>; Wed, 28 Sep 2005 23:10:50 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 15:22:01 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 23:22:00 CST
+Date: Wed, 28 Sep 2005 23:22:00 +0800 (CST)
+From: liang ming <tian@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INPQxa7F89PRo6ywrsnPwcvB7dK7uPbFrrqioaOho6Gj?=
+To: mo@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+一针见血啊
+赞
+这个女孩忍心拆散你和你女朋友，将来也可能忍心为了别的男的离开你
+出来混迟早要还的，想想你还的时候什么样子
+     因为同女朋友见面的机会比较少，同另一个好女孩接触的机会多，就爱上另外的这个女孩了。
+     女朋友和这个好女孩都很优秀，都很爱我。
+     虽然我很多次向另外的这个女孩声明我现在UNAVAILABLE，另外的这个女孩还是不止一次地暗示我，我虽然表面上保持距离，但是心里根本抵挡不住，对她的感觉甚至超过了对女朋友。

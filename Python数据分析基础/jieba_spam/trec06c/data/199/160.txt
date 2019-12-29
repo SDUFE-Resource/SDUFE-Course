@@ -1,0 +1,21 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R9oOdP018957
+	for <che@ccert.edu.cn>; Wed, 28 Sep 2005 18:29:49 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8RA1dYd023981
+	for <che@ccert.edu.cn>; Wed, 28 Sep 2005 18:41:04 +0800 (CST)
+Received: (eyou send program); Wed, 28 Sep 2005 18:16:01 +0800
+Message-ID: <327813796.02359@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Wed, 28 Sep 2005 18:16:01 +0800
+From: ren@mail.tsinghua.edu.cn
+To: che@ccert.edu.cn
+Date: Wed, 28 Sep 2005 18:16:01 +0800
+Reply-To: ren@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7Sw7uz9srW?=
+Content-Type: text/plain
+
+     LP早上说下班让我陪她去书店买书我当然要答应了，可是偏偏不巧，下午有个同学突然来看我，晚上自然要一起吃饭（他是外地的，高中非常要好的同学），可是身上的钱不够（平时上班身上是不怎么带钱的）。
+     我是这么打算：我们跟同学找个地方先坐着等她过来一起吃饭，她下班早，我还特意请假早点下班，早点吃完饭再去陪她买书什么都不误。
+     结果呢――
+其实我最气的不是她说来没来，而是气的是明明她错了还非要我认错她才罢休。

@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <mo@ccert.edu.cn>; Tue, 23 Aug 2005 22:19:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <mo@ccert.edu.cn>; Tue, 23 Aug 2005 22:32:46 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 14:27:23 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "zhan" <zhan@mail.tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Cc: "tunet" <ni@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+W7qtW9yqSxsbTzu/HK173syKu5+rTz0afJ+sj8zae5q7+qyPy52r78?=
+Date: Tue, 23 Aug 2005 22:29:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+8月23日上午，2005首届中国大学赛艇公开赛在浙江绍兴平水镇会稽湖举行。在上午举行的北大－清华对抗赛中，我校赛艇队奋力拼搏，最终战胜北京大学队，夺得冠军。这也是我校赛艇队在去年福州对抗赛比赛失利后的再度崛起。赛艇队的队员和教练们为备战此次比赛，牺牲了寒假和暑假的休息时间，进行了艰苦的备战工作。这次比赛也是2005年亚洲赛艇锦标赛男子八人有舵手比赛项目的选拔赛，我校因此也将代表中国参加十月在印度举行的亚洲赛艇锦标赛。

@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <che@ccert.edu.cn>; Thu, 15 Sep 2005 11:00:19 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <che@ccert.edu.cn>; Thu, 15 Sep 2005 11:12:14 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 02:54:31 -0000
+From: "kong" <kong@mail.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <xue@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILjVv7TN6qG2zNOz9r/LwqG1uqG3?=
+Date: Thu, 15 Sep 2005 11:12:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+     还有一个,巴西来的孩子,1978年的电影
+     大意:
+     避难于南美的纳粹残余分子保留着希特勒的血液和皮肤，依靠克隆的方式复制出94个小希特勒。他们把这些小克隆人寄养在不同的国家，并让他的养父在65岁左右死去（这是希特勒身世特征之一）。一系列的谋杀行动引起了反纳粹组织的注意，他们终于破获了这起阴谋并掌握了小希特
+     克隆题材的电影真的是很多的,当然,也许找不到一部情节上完全类似的电影,但这就能说明他创意不俗吗?
+对于这电影到底俗不俗，第一个有与其他题材电影比较的问题，相对于时间旅行类电影（例如《时间机器》），虚拟与真实类电影（例如《杀人硬件》），地球灾难类电影（例如《后天》，异类入侵类电影（例如《八脚怪》），以克隆为主打创意的电影本身便是较少的，不俗的；
+第二个是与创意与克隆（甚至大规模克隆）沾边的电影，例如《克隆战士》，《兵人》等比较的问题，这电影“大规模复制克隆人出售器官”的情节是少见的，从主题上看他的伦理内涵较沉重，从情节上看“大规模克隆”情节本身较为少见，是不俗的；
+第三是与创意和大规模克隆联系密切的电影，也就是《复制人》，《巴西来的孩子》比较的问题，两者均影响力小，渐渐不为人所知；当然，据我所知它们的情节也不是“大规模养殖克隆人以获取出售器官”，和本电影差别亦很大，所以本电影在以“大规模克隆”为创意的电影中，其创意亦是不俗的
+你为什么说这电影的创意俗呢？我想根本原因还是因为你在日常生活中渐渐有了一些这样的想法，所以对这电影的创意不感冒；但这电影的创意本身在电影领域还是新颖的

@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <ren@ccert.edu.cn>; Fri, 26 Aug 2005 13:46:08 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 14:04:31 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 14:04:31 +0800
+Date: Fri, 26 Aug 2005 14:04:31 +0800
+From: bi@cernet.com
+Subject: =?gb2312?B?UmU6INXQz83Eycq/oaqhqrmk1/e12LXj1Nqxsb6ptcS159fT1KrG97z+z/rK29Sx?=
+To: ren@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+说点实质的东西效果会好一点
+     我劝天公重抖擞,不拘一格降人才
+     我们始终坚信：企业的最大财富是人才。我们秉承锐意进取、求实创新的人力资源文化，推崇“公司以人为本、员工以能为鉴，公司和员工以事业为源”的工作理念，倡导学习文化、业绩文化、沟通文化、执行文化，积极营造使人才脱颖而出的氛围，努力打造学习型的组织和富有战斗力的团队。
+     我们尊重知识，尊重人才，尊重不同的专业和个性，致力于将公司发展与员工个人职业生涯设计相结合。通过提供和谐的工作环境，具有挑战性的工作以及有竞争力的待遇，为每位员工构建展现才华的舞台，创造成就事业的摇篮。通过积极创造多样化的人才发展通道，最大限度地为员工营造实现自我价值的空间，使员工的人力资本得到保值与增值，员工与企业共同成长。

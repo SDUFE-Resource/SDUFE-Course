@@ -1,0 +1,51 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J3Tsuc012204
+	for <ma@ccert.edu.cn>; Mon, 19 Sep 2005 12:10:41 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J3P05T085835
+	for <ma@ccert.edu.cn>; Mon, 19 Sep 2005 12:06:56 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (m13-67.163.com [220.181.13.67])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J3OphQ085831
+	for <ma@ccert.edu.cn>; Mon, 19 Sep 2005 12:05:41 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+MIME-Version: 1.0
+Message-ID: <432E330C.000184.26953@bj163app67.163.com>
+Date: Mon, 19 Sep 2005 12:20:42 +0800 (CST)
+From: "yu" <yu@163.com>
+To: ma@ccert.edu.cn
+X-Priority: 3
+X-Originating-IP: [192.168.208.154(210.25.128.99, 202.38.188.130)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com -->
+	163com
+Subject: =?gb2312?B?ofEgvfHM7Lrc0tbDxg==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1569947849=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+今天很抑闷，收到编辑部的email告诉我的一篇论文被无限期推迟发表。
+事情是这样的，我前段时间有一篇文章投了一个快报的期刊，影响因子3.0，由于我的工
+作创新性很突出，写得也不错，审稿专家高度评价，因此主编决定直接录用不需修改。我
+把这事告诉老板后，他不但不高兴，反而神情怪异，并坚持说要给编辑部写信主动要求修改
+。但由于文章是我用我得帐户投的，编辑部一开始并没有搭理他，但他几乎几天就发一个em
+ail,持续了一个月多，今天我终于受到了编辑部告知推迟的email.
+我对bt导师的做法非常愤慨，眼看就快出站了，好不容易有篇文章录用，现在又被他给
+搅和了。尽管如此我也很无奈，根据导师一贯的人品判断，如果我和他争论，他很有可能会
+阻挠我顺利出站。
+ 顺便说两句，我导师杰出青年基金和教育部跨世纪人才，但人品血差，对学生的压榨已
+经到了令人发指的地步，硕士要读4年，博士一般4.5-5年，平时一分钱都不给，假期不
+让回家，而且还经常要求学生一稿多发，有一次文章同时投了物理化学学报和催化学报
+，结果文章被送到了同一个审稿人手里，事情败露后，却把责任推到自己的博士生头上
+，faint!
+所以我也只有强忍着心中的愤怒，把事情的前后写出来。谁让我是连临时工都不如的清
+华博士后呢。

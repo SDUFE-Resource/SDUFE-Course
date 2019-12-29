@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <jiang@ccert.edu.cn>; Thu, 29 Sep 2005 08:36:58 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Thu, 29 Sep 2005 08:39:56 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Thu, 29 Sep 2005 00:39:56 UT
+To: jiang@ccert.edu.cn
+From: cheng@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILWxza+7sLDjtcSwrsfp1MnC5C4uLi4uLg==?=
+
+当你追随自己的情感的时候，却没有意识到自己在破坏着别人的幸福。也许并不恰当，可是，自己所编织的美好世界被别人破坏，这种事情你经历过，明白其中的苦与酸涩，又何必让自己的悲剧在别人身上重演呢？你们之间已经历过一个人的存在，已不可能再像原来的那个样子。即使他离开她，和你在一起，彼此之间总有一结，时间会让它长大，在你身边的他也会回忆起她，一如那时在他身边回忆起你。自己的悲剧就让它停止在原来的地方吧，别再让它更深，也别再让它蔓延。聪明的女孩，你是知道如何决择的……
+     当他远渡重洋的时候，我就有点不安，我担心我们从此就会像白天和黑夜一样永不相逢；
+     当他生日的时候，我就有些内疚，我痛恨自己不能陪他一起度过；
+     当他深夜返回宿舍的时候，我就感到心酸，我怜惜他外出求学的寂寞和不易；

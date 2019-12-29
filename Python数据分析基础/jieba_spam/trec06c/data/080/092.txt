@@ -1,0 +1,32 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <zhu@ccert.edu.cn>; Sat, 3 Sep 2005 15:01:16 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Sat, 3 Sep 2005 15:32:45 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Sat, 3 Sep 2005 15:13:50 +0800
+From: "xia" <xia@mail.nisac.gov.cn>
+Reply-To: xia@mail.nisac.gov.cn
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjLI1bmk1/e8x8K8?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+报失：
+巫雨帆  13581851181   戒指：用红绳系住（有重要意义，希望拾到者可以尽快联系）
+                      丢失时间：9-1晚8:00；丢失地点：东区浴室
+李尚    51531750      钱包：红色、皮尔卡丹的折叠钱包，内有学生证，银行卡等;
+                      丢失时间：9-2晚9:00左右；丢失地点：紫荆15#楼前或路上
+                      （已寻回）  
+邓橙    62776359      钥匙：一串，有3~4把钥匙，有一个指甲剪和一个方形甲虫坠子；
+                      丢失时间：8-31
+送交：
+曹毕飞     钥匙
+领取：
+彭飞燕     钥匙

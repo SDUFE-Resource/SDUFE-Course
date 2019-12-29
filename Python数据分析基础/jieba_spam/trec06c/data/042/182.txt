@@ -1,0 +1,41 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <lai@ccert.edu.cn>; Fri, 26 Aug 2005 07:30:25 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 07:48:45 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 07:48:45 +0800
+Date: Fri, 26 Aug 2005 07:48:45 +0800
+From: xue@cernet.com
+Subject: =?gb2312?B?UmU6INGn0KOyu7nEwPjQwsn6wvK158TUu7nKx9X9yLe1xA==?=
+To: lai@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+有瑕疵的定义
+     标  题: Re: 学校不鼓励新生买电脑还是正确的
+     
+     你把这句完美地翻译成中文试试
+     你能不能不说鸟语？？
+     : not well defined
+     
+     
+     
+     --
+     总还是有那么一些人，
+     真的让你感动
+     
+     
+     
+     --
+     Home, where my thought\'s escaping
+     Home, where my music\'s playing
+     Home, where my love lies waiting silently for me
+     
+     

@@ -1,0 +1,31 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <zhan@ccert.edu.cn>; Tue, 27 Sep 2005 21:40:38 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 13:51:45 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 21:51:45 CST
+Date: Tue, 27 Sep 2005 21:51:45 +0800 (CST)
+From: liang ming <zeng@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMWusqnKv9XmtcS+zcTHw7TE0bSmxa7F89PRwvCjvw==?=
+To: zhan@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+对呀对呀 哈哈
+     标  题: Re: 女博士真的就那么难处女朋友吗？
+     
+     严重同意呢，是个体差异，那些非博士的MM也可能是这样滴，不要抓着女博士不放了
+     女博士也有非常温柔，善良，贤惠滴
+     : 为什么搞这些性别与学历上的奇怪的说法
+     : 其实无论是男博士还是女博士，也许有些人总有些个性差异的，
+     : 或者有些让常人不可理解的
+     
+     --
+     行走在边缘的朝圣者，善与恶的边缘，真与假的边缘，美与丑的边缘．．．．
+     
+     

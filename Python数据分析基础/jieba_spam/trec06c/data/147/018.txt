@@ -1,0 +1,22 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8H5bKBZ019880
+	for <yana@ccert.edu.cn>; Sat, 17 Sep 2005 15:50:09 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.140.180)
+  by localhost with SMTP; Sat, 17 Sep 2005 07:35:48 -0000
+From: "pu" <pu@mails.tsinghua.edu.cn>
+To: yana@ccert.edu.cn
+Subject: =?gb2312?B?ofEgkNvSqtT1w7TVZrP2v9o/?=
+Date: Sat, 17 Sep 2005 16:07:34 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLAELDCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+In-reply-to: <326923542.29639@mails.tsinghua.edu.cn>
+
+13年是怎

@@ -1,0 +1,29 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <gao@ccert.edu.cn>; Fri, 19 Aug 2005 19:06:08 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <gao@ccert.edu.cn>; Fri, 19 Aug 2005 19:19:10 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Fri, 19 Aug 2005 19:42:38 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: lei@126.com
+To: gao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjO0tfusK61xMDPuaujoX4=?=
+Date: Fri, 19 Aug 2005 19:13:52 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+咳，我那几个哥们早就吵着要去西藏了，我也想去，我本来提议飞过去，他们坚持开车去，主要那个小子家里刚买了一辆nb的吉普车，我也说不过他们三个人，不过回过头想，我门四个大老爷们，有一个还是警察，我们四个自己只要尽量注意，不会有什么事情的
+     我说真的，我老公说那个地方真的要注意安全，高原反应不能小看阿，你们再商量商量吧
+     恩！～　我懂，刚开始我肯定很难过的，但慢慢就好了，放心吧：）只要他在那边一切平安我就放心了　：）

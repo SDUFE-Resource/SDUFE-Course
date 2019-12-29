@@ -1,0 +1,36 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <tang@ccert.edu.cn>; Sun, 18 Sep 2005 22:53:18 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Sun, 18 Sep 2005 15:04:19 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Sun, 18 Sep 2005 15:04:19 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <tang@ccert.edu.cn>; Sun, 18 Sep 2005 08:15:16 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <tang@ccert.edu.cn>; Sun, 18 Sep 2005 10:12:42 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Sun, 18 Sep 2005 23:04:06 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <cai@motorola.com>
+To: tang@ccert.edu.cn
+Cc: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IExQu7PU0MHLo6y/ycW8z9bU2sO7vvW1w7jf0Ms=?=
+Date: Sun, 18 Sep 2005 23:03:40 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+  偷偷说，似乎江苏人玩足篮排球就是不大成。俺所在高中，每周三节体育课。我们也
+年年跟日本人联谊打比赛什么的，不说打得他们满地找牙吧，至少也是有胜有负不很惨
+呀。你们下次跟他们比比羽毛球乒乓球吧。
+     上海经济算发达了吧。我看也不咋样。
+     你是不知道，我在江苏，算是全国生活水准稍微靠前一点的省市了。高中时候，日本三渚高校的人来我们学校联谊，足球篮球排球，我们学校输得那个惨。这可是我们全市最高水平的球队都在我们校队啊！球场上，看日本人都是又白又壮，咱们国人又黑又瘦……
+     触动很大。真的。

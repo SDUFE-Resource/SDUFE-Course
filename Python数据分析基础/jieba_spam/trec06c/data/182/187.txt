@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <che@ccert.edu.cn>; Sun, 25 Sep 2005 08:57:36 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <che@ccert.edu.cn>; Sun, 25 Sep 2005 09:09:01 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 00:45:58 -0000
+From: "jin" <jin@mail.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <jin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sun, 25 Sep 2005 09:08:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+在新语丝读过了这篇文章，其实这些问题在这里读过研究生的人心里都明白得很
+确实，研究不等于一味的发文章，可是没有文章，怎么搞到经费，怎么样实现更高的目标？
+现实充满了各种矛盾，人生其实就是个人理想和现实矛盾互相妥协的过程。并不是每个老师都是那种乐于发paper而轻视研究的，问题其实出在了评价体制上。个人看来，比文章其实就是鼓励人人比谁会写，谁会吹牛。
+现在的科学研究，已经不仅仅是两三个世纪前完全由兴趣驱动的行为，而变成了一种和利益密切相关的职业。国内，国外的学者在这方面没有太大的区别，看看国外的教授不也是每天在为经费发愁，奔波吗？所以不要把国外想成净土。
+说的再远一些，其实所有的这些都是世俗的东西，按照圣经的观点，人是不该被这些东西束缚的，可是你生活在这个世界，有时候太坚持自己只能被别人看成另类。虽然从心里理解你的感受，但是退学这种做法，还是值得商榷的。
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)
+     发信站: 水木社区 (Fri Sep 23 12:00:32 2005)

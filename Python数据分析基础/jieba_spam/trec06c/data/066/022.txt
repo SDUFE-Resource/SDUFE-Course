@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <guan@ccert.edu.cn>; Thu, 1 Sep 2005 16:46:06 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 16:48:58 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 16:48:58 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 16:48:58 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 08:42:21 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 16:34:31 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 16:34:31 +0800
+From: yi@mails.tsinghua.edu.cn
+To: guan@ccert.edu.cn
+Cc: gu@ccert.edu.cn
+Date: Thu, 1 Sep 2005 16:34:31 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgztLDx7a816rJ7dTZ0rKyu7z7?=
+Content-Type: text/plain
+
+   上学期期末的时候我学会了背弃。于是在你猝不及防的时候首先逃离出我们积累了一年的感情。无法回头。
+    然后你恨我。你骂我。你哭着说你爱我。我这个狠心的人却只能对你说让你好好过。如果可以记得我。如果不可能就忘记我。说的时候我们抱作一团。我还记得我们在无人的河边。哭了好久。
+    后来你放弃了我。你丢下了我。你说这个城市太灰暗了。你喘不上气来。你说我是你遇到的最狠心的女人。爱的最深也伤的最深。你说你不会回来。
+    暑假的两个月。我回家了。把校园里点点滴滴都压在心底。好低。那样便不会伤心。也不会犹豫。我不能转身。因为路上已经血迹斑驳。
+     开学了。你该大四了。我找不到你的联系方式。只能默默的关注你们学校bbs上有没有你最近的上线记录。可是没有。我知道你没有回来。我怕你不会回来了。我没有资格影响你的前途。对不起。
+     只能发到水木。以一个无名的id。我不能牵扯到其他人。只想说出来心里舒服些了。

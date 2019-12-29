@@ -1,0 +1,29 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <tao@ccert.edu.cn>; Sun, 25 Sep 2005 00:45:54 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Sat, 24 Sep 2005 16:53:37 -0000
+From: "wen" <wen@mails.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sun, 25 Sep 2005 00:57:33 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+     他能得best paper，那是他牛，你为什么不得？
+你怎么知道人家没得？说话前先想清楚别出来贻笑大方。
+     从文中的口气，我可以看出，你很鄙视linux，就这一点，就足可见，你没有什么学术的眼光。
+厚厚，鄙视linux就没学术眼光啦？计算机领域大着呢，你就凭对一个操作系统的崇拜就是水平高啦？如果你真正尊重科学技术，就不会这么拍着脑袋满嘴跑火车了。
+     
+     
+     --
+     

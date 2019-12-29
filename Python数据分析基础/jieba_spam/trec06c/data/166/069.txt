@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LBx02i031610
+	for <su@ccert.edu.cn>; Thu, 22 Sep 2005 02:58:01 +0800 (CST)
+Message-ID: <200509211959.j8LBx02i031610@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO dfder-09mhatbya) (xy-liu04@166.111.53.221)
+  by localhost with SMTP; Wed, 21 Sep 2005 19:05:54 -0000
+From: "ma" <ma@mails.tsinghua.edu.cn>
+To: su@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: Re: =C5=A3=BD=CC=CA=DA=B5=C4=B1=A8=B8=E6=BB=C3=B5=C6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon337264054058_====="
+Date: Thu, 22 Sep 2005 03:10:53 +0800
+
+北京城建勘测设计院是一家集设计与施工于一体的勘察测绘国有企业，承担着奥运场馆和北京地铁等许多大中型国家建设项目的勘测工作，在行业内有极高的声誉！
+近年来，本企业在岩土信息技术方面也取得了长足的进步，为了进一步发展岩土信息技术在工程领域的开发和应用，现向北京各个高校诚招.NET编码实习生，共谋发展。
+  要求如下：
+ 1）刻苦敬业，有很好的协作精神和学习能力，有较充裕的工作时间。
+ 2）精通.net 框架和C#编程
+ 3）熟悉SQL SEVER 2000 开发
+ 4）具有建筑工程工程背景或者熟悉GIS者优先（非必要条件）
+ 
+ 根据个人的能力和工作量，工资待遇在1000－3500元
+ 有意者，请把个人材料发送到zjxu123@yahoo.com.cn, 勿访！

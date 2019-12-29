@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <zhou@ccert.edu.cn>; Fri, 23 Sep 2005 23:49:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <zhou@ccert.edu.cn>; Sat, 24 Sep 2005 00:00:38 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 15:37:44 -0000
+From: "sun" <sun@mail.tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Cc: <ren@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S0rK/qsq8vvW1w9ans9bN9dvztcS2vMrHMjTL6tK7z8K1xMHL?=
+Date: Sat, 24 Sep 2005 00:00:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+     concrete mathmatics
+     羞羞得问一下，是什么啊？
+The text can be fragmented at times but I think the book was not necessarily organized to be a formal math book, but a collection of notes. I think the loose style of this book can make some things confusing, and some of the problems are quite challenging, but that is where all of the fun is, and that is how you actually become good at solving the problems that you encounter. Some of the notation that is non-standard is a little irritating but I would say it isn\'t that much of a downside. 
+Some have mentioned that this book is just for engineers, but just because the proofs aren\'t completely "mathematical," doesn\'t mean only an engineer can use the concepts, because the book teaches many concepts just as, if not more useful to mathematicians. 
+If your math skills are not up to par and you want to spend some serious time refining them, then you should read this book because, this book is a good introduction to The Art of Computer Programming. If you just like math this book can be a fun project in your spare time. 
+I wish more books would have margin notes like this, LOL. Here\'s an example on pg. 326, "Impress your parents by leaving the book open at this page." and on pg. 372, "I Get It. On average, "average" means "mean."

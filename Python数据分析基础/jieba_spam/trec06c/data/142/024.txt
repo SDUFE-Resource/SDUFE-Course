@@ -1,0 +1,41 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <ye@ccert.edu.cn>; Fri, 16 Sep 2005 18:35:52 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <ye@ccert.edu.cn>; Fri, 16 Sep 2005 18:52:27 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <ye@ccert.edu.cn>
+	; Fri, 16 Sep 2005 18:52:27 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <ye@ccert.edu.cn>; Fri, 
+	Fri, 16 Sep 2005 18:17:28 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "xiao" <xiao@njnu.edu.cn>
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?ofEg16Ky4dbQ0MS1xMDPyqbH67+0uf3AtKOs0LvQuw==?=
+Date: Fri, 16 Sep 2005 18:47:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+注册中心的老师有在网上看的么？
+     标  题: [求救]选课出了问题！！
+     
+     我根据本学院所发的2005级研究生培养方案直博生学位要求总学分大于等于28分，考试学分大于等于22学分，学科专业要求课程17学分，没有显示是否有非学位课的要求
+     但是系统却显示：
+     操作成功!
+     培养计划中课程总学分:32,其中考试学分:26
+     请注意：你的学分没有达到标准! 其中：总学分差1学分；非学位课差(学位课可以替代非学位课)2学分
+     
+     请问这是怎么回事？我应当如何做？
+     
+     --
+     

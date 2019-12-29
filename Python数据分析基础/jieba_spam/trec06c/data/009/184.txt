@@ -1,0 +1,24 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7F5seeW013938
+	for <gan@ccert.edu.cn>; Fri, 19 Aug 2005 00:36:56 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7F6S7Cu010058
+	for <gan@ccert.edu.cn>; Fri, 19 Aug 2005 01:10:23 +0800
+Message-Id: <200508150628.j7F6S7Cu010058@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 00:51:23 +0800
+From: "hua" <hua@mail.nisac.gov.cn>
+Reply-To: hua@mail.nisac.gov.cn
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCiuMqxvsC01rvKx9K7sr/B99DQtefTsA==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+美国人自己的主流评论大约是阿甘,作为一部主旋律影片的确不错(我曾经喜欢死了),但是它毕竟只是一部流行电影!也也是为什么它“当年”可以获奖的原因了。
+美国的"主旋律"影片也是要有相关政府部门参与策划,再交由一些大电影公司进行投资拍摄的. 而主旋律说白了就是潜移默化或者赤裸裸的宣扬美国式的观念。
+IMDb就不说了，其实很多电影100里面都见不到阿甘的。《纽约时报》的1000部最佳电影中同样没有它的踪影。它最大的贡献是在那么一个时代帮助美国人复习或者学习了那那么一个时代。只是在中国它被传得太神了。
+以前在大思修的期末考试时，最后专门写了一篇影评给那个把阿甘封成神的女老师。现在已经不怎么记得理由了。反正我现在只把它当作美国历史外传来看。比如回味一下那个年代的歌，约翰・列侬的一点影像。或者练习一下听力。影片最让我称道的就是它的OST了。Hanks的演技也不错。

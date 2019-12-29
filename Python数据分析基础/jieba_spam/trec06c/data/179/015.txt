@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <hua@ccert.edu.cn>; Sat, 24 Sep 2005 16:02:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <hua@ccert.edu.cn>; Sat, 24 Sep 2005 16:13:35 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 07:50:41 -0000
+From: "yu" <yu@mail.tsinghua.edu.cn>
+To: hua@ccert.edu.cn
+Cc: <peng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOy5xMbw08LG+M/ybW2x7bDXo6y1w7W91eLR+dK7uPa72Li0oaM=?=
+Date: Sat, 24 Sep 2005 16:13:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+若非流光度，何苦为难归 : 如果不是因为年纪大了，也不会为将来的归属发愁。
+不是久远心，又怎落浮云 : 可是如果不能长久的在一起，对 彼此的心有一定的了解。我这颗‘浮云’又怎么会依靠在你身边呢？
+了不了，何必草？  :   何必要急于知道答案？何必这样草率？
+弦断也听音.       :   即使不行，我们也是朋友。
+感觉是要看你以后的表现。至少没有说‘no’
+         大家帮忙分析分析啊，不甚明了，看看我还有希望没有？

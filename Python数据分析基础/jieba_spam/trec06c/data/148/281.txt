@@ -1,0 +1,32 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <xia@ccert.edu.cn>; Sun, 18 Sep 2005 00:13:04 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <xia@ccert.edu.cn>; Sun, 18 Sep 2005 00:29:39 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <xia@ccert.edu.cn>
+	; Sun, 18 Sep 2005 00:29:39 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <xia@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 23:54:40 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "kong" <kong@njnu.edu.cn>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?ofEgy7XHrr7Nt63Bsw==?=
+Date: Sun, 18 Sep 2005 00:24:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+灌灌水，发泄一下。
+来加拿大几个月，莫名奇妙的生病，查了三个多月，这边的医生也不能确诊，于是决定回国治病。9月14号拿到检查报告，请示导师，决定回国。当天晚上就通知房东我要回国治病，一周之内搬走。按照合同，在搬家前我应该至少提前一个月通知房东，否则房东有权扣我的押金。房东扣下押金还不爽，还找我要额外的两百块钱。我说按法律按合同都没这道理，你扣我押金是合理的，但是无权再找我要额外的钱。于是房东（夫妻两个），男的打电话威胁我要告我，说我会在加拿大留下案底；女的又打电话来哭诉我忘恩负义，当初我刚来第二天她开车带我买菜（仅此一次），帮我带过一次10kg包装的大米（这是当初租房子时说好的，房东可以帮着带米），帮我取过一次包裹（投递时没人收，邮局打电话叫房主去取），跟我讲做人不能只从自己的角度考虑。
+ft，谁替我考虑啊，我一个穷学生，生着病，学业都被耽误了，不得不回国治病，一个人在这孤苦伶仃，还被他们无理索要钱。其实下周马上就有人来看房子，还想着从我这榨一笔钱。没出这事之前一直觉得女房东人还不错，虽然男的比较冷漠。为了两百块钱，大吵一架，害得我睡觉都握着手机，以防房东对我不利时报警。
+真是倒霉的时候什么事都来了。

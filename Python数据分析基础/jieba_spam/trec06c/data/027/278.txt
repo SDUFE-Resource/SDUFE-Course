@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <hou@ccert.edu.cn>; Mon, 22 Aug 2005 23:32:37 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <hou@ccert.edu.cn>; Mon, 22 Aug 2005 23:45:55 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 15:40:32 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "lian" <lian@mail.tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Cc: "tunet" <cheng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMPAufrC28yzwO/GwLzbtcTW0Ln6yMujqNeqo6k=?=
+Date: Mon, 22 Aug 2005 23:42:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+基本说的是对的，但也说明不了什么，很难想象如果温饱都解决不了的时候能考虑什么社会责任感，文中大部分内容是所有尚未发达的国家的人所应该共有的特点，扣上中国人的帽子没有意义。
+     中国人缺乏诚信和社会责任感。 
+     中国人不了解他们作为社会个体应该对国家和社会所承担的责任和义务。 
+     普通中国人通常只关心他们的家庭和亲属，中国的文化是建立在家族血缘关系上而不是建立在一个理性的社会基础之上。中国人只在乎他们直系亲属的福址，对与自己毫不相关的人所遭受的苦难则视而不见。 

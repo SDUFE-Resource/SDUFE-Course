@@ -1,0 +1,34 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <pu@ccert.edu.cn>; Wed, 28 Sep 2005 14:27:06 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 06:38:13 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 14:38:13 CST
+Date: Wed, 28 Sep 2005 14:38:13 +0800 (CST)
+From: liang ming <hu@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INT1w7S55rHcvfHE6sv5zr21xMO709DBorS6tcS50bi+xOrRvQ==?=
+To: pu@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+ft,kick to death.
+     标  题: Re: 怎么规避今年所谓的没有立春的寡妇年呀
+     
+     准备二婚
+     : 你都结了还问什么，嘿嘿
+     
+     
+     --
+     慈爱心一片、好肚肠二寸、正气三分、宽容四钱、孝顺常想、老实适量、奉献不拘、
+     回报不求。以上八味药，共置宽心锅内炒，不焦不躁，再放公平锅内研，越细越好，
+     三思为本，淡泊为引。
+     菩提子大小，和气汤送下，伴清风明月，早晚分服，可净化心灵，升华人格，物我
+     两忘，荣辱不惊。
+     功效：诚实做人，认真做事，消灾祛祸，延年益寿。
+     
+     

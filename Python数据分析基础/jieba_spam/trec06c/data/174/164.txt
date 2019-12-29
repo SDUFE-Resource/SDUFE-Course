@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <kong@ccert.edu.cn>; Fri, 23 Sep 2005 20:38:40 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <kong@ccert.edu.cn>; Fri, 23 Sep 2005 20:50:04 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 12:27:36 -0000
+From: "han" <han@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: <xiao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfpuNDJz7XEw6y23A==?=
+Date: Fri, 23 Sep 2005 20:49:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+呵呵~~~如果你不是保守德华，那就是或许他不是那个人把
+     gg和我两地谈了一年多了，因为距离的缘故，每年见面的机会都很少
+     这几个月过来，gg喜欢和我提ml的问题，希望两个人在一起的时候可以ml
+     我的态度是，等我毕业工作什么的稳定下来才好，至少两个人在一个城市了，因为现在还没有毕业；而且因为两地的缘故两个人也很少在一起。我觉得ml是很美好的事情，只是在这种情况下我心理还没有准备好。

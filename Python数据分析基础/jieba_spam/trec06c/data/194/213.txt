@@ -1,0 +1,21 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <xu@ccert.edu.cn>; Tue, 27 Sep 2005 23:04:24 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <xu@ccert.edu.cn>; Tue, 27 Sep 2005 22:24:43 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "ding" <ding@cert.org.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0/a1vdXi1tbOysziLMTj1PXDtLDsPyAo16rU2Ck=?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Tue, 27 Sep 2005 23:10:22 +0800
+
+【 以下文字转载自 ZiJing 讨论区 】
+发信人: lilemon (无为), 信区: ZiJing
+标  题: 遇到这种问题,你怎么办?
+    我遇到这种情况已经两次了.上次是在今年暑假, 我在紫荆的公用洗衣机上刷卡洗衣服,把衣服放到洗衣机里,刷了卡,好长时间都不见流水, 再一看,原来不知道谁把进水管给拔了,我弄了半天都接不上,只好换了台洗衣机.这个郁闷呐, 不仅白白损失了三块钱,而且还得把衣服重新拿出来,跑来跑去的. 今天我又遇到了这种情况,这次更狠,连进水管都不知道跑哪里去了,而且赶上我把洗衣粉都放进去了,卡里还没钱了, 极度的郁闷. 我就想不明白谁闲着没事干, 老拔进水管干吗? 而且学校还不让自己买洗衣机,气愤! 

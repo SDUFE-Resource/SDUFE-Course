@@ -1,0 +1,29 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U1PmpO004160
+	for <cao@ccert.edu.cn>; Thu, 1 Sep 2005 09:47:20 +0800 (CST)
+Received: (qmail 858 invoked from network); Thu, 1 Sep 2005 01:58:57 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 01:58:56 -0000
+Message-ID: <000701c5ad03$b6eade80$e900a8c0@d47db5334f2a479>
+From: "chen" <chen@jdl.ac.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrjQxc+iXSC85tawSkFWQc341b6/qreiyMvUsQ==?=
+Date: Thu, 1 Sep 2005 10:01:22 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+招聘兼职JAVA网站开发人员，具体要求如下：
+要求：
+ 1 有过较多独立JAVA网站开发经历和过硬的开发技术，可提供作品 
+ 2 可以确保未来2个月内没有其他事务打扰，确保开发进度。 
+ 3 不必坐班，自备设备，每周至少到公司2次汇报进展、交流需求。 
+有兴趣并能满足上述要求的xdjms请发信到下面的招聘邮箱联系。
+（因为是代友发文，所以请不要回复站内信箱，谢谢！）
+招聘公司：大唐软件技术有限责任公司
+招聘邮箱：zhanghongfang@cattsoft.com 或者 hrm@cattsoft.com

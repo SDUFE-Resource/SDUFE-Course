@@ -1,0 +1,18 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <yuan@ccert.edu.cn>; Fri, 26 Aug 2005 21:27:52 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 21:35:22 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 21:35:22 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 21:35:22 +0800
+From: he@mail.tsinghua.edu.cn
+To: yuan@ccert.edu.cn
+Cc: weng@ccert.edu.cn
+Date: Fri, 26 Aug 2005 21:35:22 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INeqt6I6INTatLLfhbfFzMe5+6Oslf7LwMjL?=
+Content-Type: text/plain
+
+蚂蚁不缺氧吗？
+      昨天看中

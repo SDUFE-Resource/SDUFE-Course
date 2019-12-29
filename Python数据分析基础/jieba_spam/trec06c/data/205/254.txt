@@ -1,0 +1,34 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <ding@ccert.edu.cn>; Thu, 29 Sep 2005 20:14:26 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 12:25:33 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 20:25:33 CST
+Date: Thu, 29 Sep 2005 20:25:33 +0800 (CST)
+From: liang ming <zhao@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMn6u+7W0MO709DPsru2tcTE0Mn61PXDtLDsPw==?=
+To: ding@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+那是因为你没告诉他们你在这玩，嘿嘿
+     标  题: Re: 生活中没有喜欢的男生怎么办?
+     
+     ft
+     你看现在如此关键的时候，怎么一个也不见
+     
+     : 关键时候都会出来的。都是你的MM+FANS，嘿嘿
+     
+     
+     --
+     发信人: cainaonao (a shoulder to cry on), 信区: Tabletennis           
+     标  题: Re: 我师父                                                              
+     小猪我问你，你觉得以你的条件，会有配不上的人吗？除了一些极端个别的例子，我敢说你
+     配得上99.9% 的适龄女子。女孩子不答应你的理由不只是配得上配不上的。              
+     
+     

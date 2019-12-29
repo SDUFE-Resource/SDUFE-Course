@@ -1,0 +1,47 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <xing@ccert.edu.cn>; Tue, 23 Aug 2005 13:05:57 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <xing@ccert.edu.cn>; Tue, 23 Aug 2005 13:19:11 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 05:13:44 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "liao" <liao@mail.tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8/V0Mir1rAvvObWsLarxM/Rx9Pv0dTFxbDm0KO21MjL1LE=?=
+Date: Tue, 23 Aug 2005 13:15:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+诚招全职/兼职东南亚语言排版校对人员
+我们是一家专业提供本地化服务的公司。现因业务发展需要，其北京办事处诚招东南亚语言排版校对人员(全职或兼职)。具体要求如下：
+排版校对人员：
+职责：
+－ 编辑、排版IT资料（英文、东南亚语言）
+要求：
+－ 熟练掌握泰语、印尼语、马来语、越南语、塔加路语（菲律宾）
+－ 可熟练阅读英文资料
+－ 计算机操作熟练
+－ 踏实好学，工作细致认真，有责任心
+－ 掌握FrameMaker或WORD排版者优先考虑
+－ 在华留学生也可考虑
+－ 兼职人员需有较充足空余时间，每周至少可来公司工作2天（周一至周五）
+求职者请将个人简历（请勿带附件）发送到以下地址：hr.beijing@realidea.com。 
+Seeking full-time or part-time Documentation Engineer
+We are a professional localization company. For the business development, now our Beijing office is looking for talented people with the following profile:
+Documentation Engineer for south-eastern Asia languages
+Job Description: 
+－ File editing and error checking
+Job Requirement:
+－ Good command of one of following languages: Thai, Indonesian, Vietnamese, Malay, Tagalog
+－ Good command of English
+－ Experienced PC skills
+－ Have a strong sense of responsibility and rich in teamwork spirit 
+－ Word/FrameMaker DTP experience is preferred
+Interested candidates, please send your resume to hr.beijing@realidea.com.

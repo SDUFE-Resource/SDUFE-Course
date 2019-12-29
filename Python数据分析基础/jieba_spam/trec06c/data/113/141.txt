@@ -1,0 +1,37 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <pan@ccert.edu.cn>; Sun, 11 Sep 2005 00:16:05 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Sun, 11 Sep 2005 00:34:05 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Sun, 11 Sep 2005 00:34:04 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "guo" <guo@mail.csu.edu.cn>
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7zKvA7b3izqrKssO00dC+v8n60aG/ztPQsruz6ceptcQ=?=
+Date: Sun, 11 Sep 2005 00:15:31 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我门系的课全部没选到。。。
+     标  题: Re: 不太理解为什么研究生选课有不抽签的
+     
+         有些专业课不需要吧，其他系的人估计选的不会多，每年应该都有课余量的，
+     : 人满就抽签，合情合理
+     : 对选课这种系统来说，如果先到先得的话，那不久逼着大家早早地守在电脑前面猛刷？
+     
+     
+     --
+        世界上最遥远的距离                   
+            不是生与死                       
+                而是我就站在你面前           
+                    你却不知道我爱你         
+     
+     

@@ -1,0 +1,28 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <yun@ccert.edu.cn>; Tue, 23 Aug 2005 01:38:51 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <yun@ccert.edu.cn>; Tue, 23 Aug 2005 01:52:02 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "ou" <ou@126.com>
+To: yun@ccert.edu.cn
+Cc: <lian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IE1Nw8fV98jLx+u9zNPQudi158TUvbu7u8b3tcTSu7j20KHOysziLNTa0NC1xMXz09HH69au
+vOQ=?=
+Date: Tue, 23 Aug 2005 01:51:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+如果你现在用的是交换机的话，那么只要买个4口的集线器（HUB）即可，可以树型接，就是你说的串连，插上就成了，什么都不用设，只要把交换机设的DHCP打开即可。
+是TSINGHUA的MM吗？这种问题最好私下问人，或者自己看看说明书，别弄到网上来，丢自己的脸是小事，丢学校的脸可是大事哦。
+中关村里的农民都知道怎么连的了。
+     宿舍最初买的交换器是4空的,现在大家都有了电脑,交换器的4空已经不满足需要了
+     交代宿舍共6个MM!
+     现在我们想再买个4空的,把新旧的4空交换器串联使用,就是不知道能不能啊?

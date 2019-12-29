@@ -1,0 +1,31 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <hu@ccert.edu.cn>; Thu, 29 Sep 2005 19:39:41 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 11:50:48 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 19:50:48 CST
+Date: Thu, 29 Sep 2005 19:50:48 +0800 (CST)
+From: liang ming <yang@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILOzvNzKscTQxfPT0cDPt62z9tLUx7C1xMrCx+k=?=
+To: hu@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+我怎么觉得是你在翻..
+     标  题: 吵架时男朋友老翻出以前的事情
+     
+     我觉得吵完了和好了就过去了，他却总是在下一次吵架的时候提起。是不是心胸不够宽
+     阔？老这样下去伤心死了。经常是吵完了我哭他不理我，后来太晚了他就搂着我拍拍我然
+     后天亮了我们都要去上班。昨天他说他想要的太多了，得到的太少了。我说我从来不觉得
+     我付出的少，他就质问我付出了什么。我为了他离开了以前的男朋友，办好了去日本的签
+     证而没去，离开了大连在这里辛苦的生活。远离了一些朋友，工资没怎么涨，每天忍受着
+     一个半小时的公交车，饭费房租都是2倍而房子却不是精装修也没有家电，忍受着电梯和
+     楼下汽车的噪音。听他那么说真伤心，觉得自己的爱在消减，好担心会不爱了。
+     
+     --
+     

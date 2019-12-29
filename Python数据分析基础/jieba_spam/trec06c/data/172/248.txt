@@ -1,0 +1,32 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M1t1iU004027
+	for <qian@ccert.edu.cn>; Fri, 23 Sep 2005 13:02:01 +0800 (CST)
+Message-ID: <200509220955.j8M1t1iU004027@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO dfder-09mhatbya) (xy-liu04@166.111.53.221)
+  by localhost with SMTP; Fri, 23 Sep 2005 05:09:47 -0000
+From: "fu" <fu@mails.tsinghua.edu.cn>
+To: qian@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [SPAM] Re: Re: [SPAM] Re: Re: Re: =C5=A3=BD=CC=CA=DA=B5=C4=B1=A8=B8=E6=BB=C3=B5=C6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon846281475675_====="
+Date: Fri, 23 Sep 2005 13:14:50 +0800
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: stvnet (清华大学学生网络电视), 信区: THUInfo
+标  题: 【STV直播】校园歌手大赛开幕式
+发信人: stvnet (清华大学学生网络电视), 信区: STVNET
+标  题: 【STV直播】校园歌手大赛开幕式
+     今年的校园歌手大赛开幕式将于今天（21日）晚上7点在大礼堂拉开帷幕。作为一年一度的校园重头戏，今年的开幕式还特别邀请了乐团五月天来演出，与同学们近距离接触。
+为了让没有机会去现场的同学也看到现场的热烈氛围，学生网络电视将对活动进行现场直播，欢迎收看。
+具体收看方法：　
+  　点击学生清华视听媒体右部顶端的“直播转播 点击进入”图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+　　1.选择“打开”(或者OPEN/RUN)等本地打开按钮直到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网用户)”频道收看我们的直播。
+　　2.选择“保存”(或者SAVE)等按钮保存到您的计算机上，运行保存下来的“Gridmedia学生网络电视版”程序，即可看到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gidmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看 的频道进入“
+　　另外由于将从远处服务器以及一些动态的转发节点获得数据，所以在选择频道弹出windows media player播放器后，您会看到播放器下端将出现“正在连接到媒体...”字样以及后来的“缓冲 XX％”字样，此时请您耐心等待数据的接收。
+　　为保证您的收看效果，建议安装windows media player 8.0或以上版本。
+    您还可以下载并安装VVsky客户端软件（http://202.205.10.26/Media/VVSky_Setup.exe）免费注册用户并登陆该客户端之后在主界面右侧选择频道STVNET即可收看我们的直播。
+感兴趣却因故不能到现场的xdjms可以通过网上直播观看：）
+Enjoy！
+                                                      学生网络电视

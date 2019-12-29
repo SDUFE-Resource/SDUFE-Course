@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <xing@ccert.edu.cn>; Mon, 26 Sep 2005 00:02:12 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <xing@ccert.edu.cn>; Mon, 26 Sep 2005 00:13:37 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 15:50:34 -0000
+From: "yang" <yang@mail.tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Cc: <qiu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMbmudajrM312/PL+dL90tTOqrrAtcTHocehysexu8v719S8urHJytO1xA==?=
+Date: Mon, 26 Sep 2005 00:13:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+我不懂这个东西，但是我就纳闷了，既然这么说，那国内那么多计算机系的人，为什么搞不出一个象样的计算机操作系统呢，搞出的东西还非学别人什么的东西，是不是我们就觉得人家的已经很好了，用不着我们自己做了呢，还是象你这样的学计算机的人都不屑搞这个玩意，感觉不论在PC方面，还是嵌人式操作系统方面，国内做的我不知道哪个比较好，你们在研究计算机其他高深的方面也顺手给弄个好用的操作系统给我们这些非计算机的人用用好不好，好歹也让我们体验一下国产的东西，要好用实用哦
+     计算机专业就研究一个操作系统啊？
+     不懂表乱说话

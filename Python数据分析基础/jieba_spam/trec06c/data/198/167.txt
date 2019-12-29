@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q5fuZC005739
+	for <jin@ccert.edu.cn>; Wed, 28 Sep 2005 14:48:50 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8Q5a2Mr047588
+	for <jin@ccert.edu.cn>; Wed, 28 Sep 2005 14:44:07 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8Q5ZvY7047584
+	for <jin@ccert.edu.cn>; Wed, 28 Sep 2005 14:42:53 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Wed, 28 Sep 2005 14:55:12 +0800
+Message-ID: <327713698.12325@mails.tsinghua.edu.cn>
+Received: from 59.66.110.132 by mails.tsinghua.edu.cn with HTTP;
+	Wed, 28 Sep 2005 14:55:12 +0800
+From: ma@mails.tsinghua.edu.cn
+To: jin@ccert.edu.cn
+Date: Wed, 28 Sep 2005 14:55:12 +0800
+X-Priority: 3
+Content-Type: text/plain
+Subject: =?gb2312?B?ofEgobCzpLfnxsbAy6GxtdrSu8bavbLX+aO6y7nC17G00Lu5q8u+vPK96SAo16rU2Ck=?=
+Precedence: list
+Reply-To: ma@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 SS_SAST 讨论区 】
+发信人: opalmi (哆啦A梦的抽屉), 信区: SS_SAST
+标  题: “长风破浪”第一期讲座：斯伦贝谢公司简介 
+    斯伦贝谢（Schlumberger）是一家以高科技著称的大型跨国企业集团，世界五百强企业之一，其总部位于美国的纽约和法国的巴黎。斯伦贝谢公司由三大部门组成－油田服务、电子交易与测试和资源管理服务（RMS-Resource Mangagement Services）。
+    斯伦贝谢公司已有近百年的发展历史，。它是一家油田服务高科技公司，在全球拥有100多个办事处和20多个科技、生产中心。其员工人数超过65000人，他们来自100多个不同的国家及民族。
+    此外，斯伦贝谢公司还曾涉及多个业务领域，比如斯伦贝谢曾在2001年52亿美元收购英国技术信息公司SemaPLC公司，在智能卡、手机银行的研究方面作出了巨大的贡献，并且是2002年盐湖冬季奥运会和2004年雅典奥运会的IT信息设备提供商。
+    相关信息请访问斯伦贝谢公司网址：http://www.slb.com
+         大野友义 , 1944年4月台湾台北生。台湾清华大学数学研究所理学硕士（1968)，日本山梨大学电子计算机科学专业工学硕士（1972)，日本东京大学数学教室自动化理论专业研究员（1976)。  
+         大野先生是资深ISO9001 /Ticket体系首席评估师及SEI-CMM 评估师，曾负责过多个大型项目，如日本通产省大型项目-平行处理设计开发、油层分析研究-2D/3D图形图像处理及应用、日本斯伦贝谢(株) ISO9001/Ticket 认证系统的建立、NTT-斯伦贝谢大型项目的协调 (Verisys In
+         另外，大野先生还曾任日本庆应大学(情报科学研究所)兼职教授；现任中国石油大学（华东）兼职教授。

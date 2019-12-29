@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <huang@ccert.edu.cn>; Thu, 29 Sep 2005 05:51:36 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Wed, 28 Sep 2005 21:37:52 -0000
+Date: Thu, 29 Sep 2005 06:03:36 +0800
+From: "ye" <ye@mail.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+当他远渡重洋的时候，我就有点不安，我担心我们从此就会像白天和黑夜一样永不相逢；
+当他生日的时候，我就有些内疚，我痛恨自己不能陪他一起度过；
+当他深夜返回宿舍的时候，我就感到心酸，我怜惜他外出求学的寂寞和不易；
+当他的声音在电话里响起的时候，我就倍感幸福，我发誓无论生老病死，我都与他同在；
+当他说准备暑假归来结婚的时候，我就满是感动，我对自己说要一辈子爱他，善待她妈妈；
+两年的魂牵梦绕，两年的刻骨相思呀，我终于可以触摸你的脸庞......
+然而，当他归来探亲的日子临近，一切都发生了改变。也许是因为我给他的空间不够，让他害怕失去自由；也许是我努力不够，让他对我、对未来没有把握；也许是我的感情让他感觉沉重；也或许是远离故土的寂寞让他和她想在一起凑成温暖......
+我们说好暑假不再见面，可还是相约在县城；
+我们说好看一眼就走，可再次在对方的温柔里沉溺；
+我们说好从此不再电话，可他依然是我心底最脆弱的牵挂；
+......小学相识，初中相知，大学相恋相属，当我童话般的爱情陨落，理智告诉我：忘记他才能获得重生；道德告诉我:远离他，让他可以安心地珍惜她；感情告诉我：他会是我心底永远的痛，更是我一生不变的关怀。有时候，我只想偷偷的、静静的面朝大海，春暖花开。
+――我该怎么办呢，没有爱过，正在爱着和为爱伤过的人儿，请给我一点建议吧！

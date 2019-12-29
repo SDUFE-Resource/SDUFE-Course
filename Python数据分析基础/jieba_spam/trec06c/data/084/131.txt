@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83CBlYV005279
+	for <wu@ccert.edu.cn>; Sun, 4 Sep 2005 09:31:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83COHdV019350
+	for <wu@ccert.edu.cn>; Sun, 4 Sep 2005 09:44:01 +0800 (CST)
+Message-Id: <200509031224.j83COHdV019350@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 01:31:32 -0000
+From: "su" <su@mail.tsinghua.edu.cn>
+To: wu@ccert.edu.cn
+Cc: <mo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILWlzrvA77P2z9bQ1MmnyMXU9cO0sOyjvw==?=
+Date: Sun, 4 Sep 2005 09:43:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5B0C5.716D46C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWwgmMrCakV2o5FTJGgH6GL8DeD6Q==
+
+马上就要出台法律了，呵呵
+暂时就先翻翻脸吧
+     今年刚毕业，在一家媒体工作，本来一切都挺好，所有同事都相处不错，结果上个月新来了一个30多岁的男编辑，据说是费了不少功夫挖过来的人才，领导很重视，这个人平常那个自大就不说了，最过分的是他会性骚扰女同事，现在想问问大家碰到这种人应该怎么办？
+     还是讲讲具体情况，先声明，被骚扰对象不是我，而是我的同屋，一个在单位里实习的女生，其实她比我大，因为她在读研，我本科就出来工作了。这个姐姐从外地来实习时还没有租好房子，只能暂住在同学宿舍，因为那个学校离我们单位很远，所以这个“人才叔叔”就盛情邀请她住
+     本来偶还不知道单位里有这种人，因为不是同一个部门，平常他也不经常和我打交道，印象中觉得这个人比较自大以外也没什么特殊想法，结果现在那个姐姐搬来和我同住了，昨天跟我透露了这个秘密，我那个震惊啊，忽然想起昨天下午他还约我看电影，幸好我看过了世界大战，所以

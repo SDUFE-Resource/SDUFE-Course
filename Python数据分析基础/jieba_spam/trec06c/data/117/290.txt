@@ -1,0 +1,25 @@
+Received: from v-wall.ihep.ac.cn (v-wall1.ihep.ac.cn [202.38.128.11])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A67I7W028126
+	for <lei@ccert.edu.cn>; Sun, 11 Sep 2005 23:40:16 +0800 (CST)
+Received: from v-wall1.ihep.ac.cn (v-wall1.ihep.ac.cn [127.0.0.1])
+	by v-wall.ihep.ac.cn (8.11.6/8.11.6) with SMTP id j8A632u31254
+	for <lei@ccert.edu.cn>; Sun, 11 Sep 2005 23:36:00 +0800
+Received: from post.ihep.ac.cn (202.38.128.5)
+  by localhost with SMTP; Sun, 11 Sep 2005 15:35:59 -0000
+Received: from ihep.ac.cn (localhost.localdomain [127.0.0.1])
+	by post.ihep.ac.cn (8.12.10/8.12.10) with ESMTP id j8A6JW0W008447
+	for <lei@ccert.edu.cn>; Sun, 11 Sep 2005 23:52:30 +0800
+From: "li" <li@ihep.ac.cn>
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTjtcSzwcSsyse21M7Ss+W2r9futPO1xLPNt6M=?=
+Date: Sun, 11 Sep 2005 23:52:30 +0800
+Message-Id: <20050910061836.M92112@ihep.ac.cn>
+In-Reply-To: <000a01c5970a$d8f48da0$26cb6fa6@liuwu>
+X-Mailer: Open WebMail 2.51 20050228
+X-OriginatingIP: 202.38.128.57 (shuhang)
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset=gb2312
+
+     昨天我终于在网上见到你了，我很开心，这不是我这几天一直都盼望的吗？我整日守在网上，不就是为了见到你吗？当然，还是我主动跟你打了招呼，我说你怎么有空上网了，你说你在down东西，并且说你生病了，发热，身体很虚。我有过在夏天发热的经历，我知道这很难受，所以听你说你发热了，我也很难受，我建议你多喝点白开水。就这些，很简单的几句，淡淡的，后来，你说你想离开一下，当你再回来的时候，我却因工作的事情要出去，没办法，想多接近你一点太难了，也许你就不想让我多接近啊。
+这标题偶稀饭！

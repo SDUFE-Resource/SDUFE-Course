@@ -1,0 +1,39 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <yang@ccert.edu.cn>; Sat, 20 Aug 2005 07:59:34 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 00:09:48 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 00:09:48 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "wua" <wua@jdl.ac.cn>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg09C8vMr1xNHM4qOs09CzpdGwx/O94r72t72wuKOowb249s7KzOIxMDAw1KqjqQ==?=
+Date: Sat, 20 Aug 2005 08:13:56 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+各位高手，小弟在开发中遇到问题，老板限期解决，不然要砸饭碗，愿意出1000元奖金寻求高手支持，问题如下：
+开发环境
+操作系统：win2000 
+数据库：SQLServer2000 
+开发工具：.net(c#) 
+问题一
+将存放在数据表中的多条记录的rtfContent字段内容合并成一个rtf文档.
+数据表结构如下
+id int //文件编号
+rtfContent image //存放rtf文档
+问题二
+要完成的任务：在浏览器上编辑rtf文档（包含图片、公式的不规则字符），并将编辑后的
+rtf文档保存至服务器。
+我的解决办法：用delphi提供的activeForm技术将微软的RichTextBox.ocx封装成新的ocx
+，并写了一些供javascript在浏览器端操作ocx的方法。现在存在的问题是
+当在ocx提供的编辑区执行复制(ctrl+c)、粘贴(ctrl+v)、撤销(ctrl+z)，
+删除(del)等操作时，程序将自动结束，并关闭浏览器。请问这是什么原因
+，该怎么解决。
+有能够解决的请发邮件：windowren@263.net

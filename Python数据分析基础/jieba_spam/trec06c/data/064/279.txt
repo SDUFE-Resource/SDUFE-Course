@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <long@ccert.edu.cn>; Wed, 31 Aug 2005 23:03:20 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 23:06:12 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 23:06:12 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 23:06:12 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 14:59:35 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 22:51:45 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 22:51:45 +0800
+From: wu@mails.tsinghua.edu.cn
+To: long@ccert.edu.cn
+Cc: peng@ccert.edu.cn
+Date: Wed, 31 Aug 2005 22:51:45 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IL6qzsW4tbHrtMfKwKOsxNHS1NfUvLqjrLeizsS1v8Tu?=
+Content-Type: text/plain
+
+是啊，已经有好几个喜欢的演员年纪不大就走了。哥哥，梅艳芳，高秀敏...同叹息
+         傅彪是我十分喜欢的演员，《甲方乙方》、《没完没了》、《一声叹息》这些电影我都是在第一时间去看的，这些剧情的精彩就不用我说了，相信很多人都看过了。还有他演的一些电视剧，有一部电视剧是关于教师生活的，他演一位宽厚踏实的老师，却又不乏幽默风趣，人与人之
+         傅彪早年一直在跑龙套，后来历经艰难终于成名，为我们献出了很多很好的电影，却不幸英年早逝，晚上在试验室里听着《秋天1944》这首歌，感触良多，又走了一位纯正善良的好演员，我们再也不能看到他新的作品，不幸之中的大幸是他已经有很多好作品留存世间了，思念之时
+         “亲戚或余悲，他人或已歌。死去何所道，托体同山阿。”或许长歌当哭，不禁想起了《秋天1944》里面的歌词：“......，风永远吹不停，in the falling falling fall，我闭上眼睛想，忍不住放声的哭，第一次感觉我的无能为力，......，有谁看的清，有谁可以看的清，人

@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <liu@ccert.edu.cn>; Sun, 25 Sep 2005 05:49:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <liu@ccert.edu.cn>; Sun, 25 Sep 2005 06:00:29 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 21:37:35 -0000
+From: "jin" <jin@mail.tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Cc: <tao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjIyyNW5pNf3vMfCvA==?=
+Date: Sun, 25 Sep 2005 06:00:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+报失：
+王丹   62777424/13810636023   钱包979     黑色，皮质，内有北航饭卡，银行卡，现金若干
+阎亚茹 51531025               钱包980     黑色牛仔钱包
+姜康   13581803135            钱包981     李宁，深蓝色，内有身份证，学生证，饭卡，银行卡，现金200多元，电                                           话卡等
+胡强   13810348285            钱包982     黑色，IC卡,身份证,两张银行卡,餐卡,100多元现金
+许赫男 13811621501            钱包983     深蓝色,皮质,身份证,银行卡,学生卡,现金70元左右
+阎彬   13810849554            钥匙779     钥匙一串,4-5把
+巫顺超 13810903810            钥匙780     门钥匙,车钥匙,小钥匙,指甲刀,小剪刀,耳挖,洗衣卡
+送交:
+苏晨    文具248: 笔记本
+陈龙    电器141:手机
+领取:
+冯乐耕   电器141:手机
+   

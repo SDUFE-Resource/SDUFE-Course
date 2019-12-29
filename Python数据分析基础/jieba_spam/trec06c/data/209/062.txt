@@ -1,0 +1,42 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U2R6AL010810
+	for <bai@ccert.edu.cn>; Fri, 30 Sep 2005 12:22:24 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8U2U2g26094;
+	Fri, 30 Sep 2005 12:25:20 +0800
+Message-Id: <200509300230.j8U2U2g26094@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 04:25:20 UT
+To: bai@ccert.edu.cn
+From: li@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgu6rOqsnPuqPR0L6/y/mzz8a4y+O3qNHQvr+5pLPMyqY=?=
+
+华为上海研究所诚聘算法研究工程师
+&amp;#8226;说明：
+    1. 本次为部门单独招聘，主要从事算法设计和新技术研究工作。
+    2. 招聘对象：社会有工作经验人士（有在国内外公司相关核心部门工作经历和成功经验的人士优先考虑），
+       2005年内能入职的博士研究生。
+&amp;#8226;招聘职位：RTT（无线传输技术）算法开发
+　
+&amp;#8226;主要工作职责
+    1、根据产品需求，分析和设计WCDMA基带算法及其性能。
+    2、参与WCDMA产品系统测试，外场测试，定位并分析问题。　
+    3、3G手机芯片算法开发。
+    4、分析协议，并跟踪研究新的3G协议版本，新的系统的空中接口技术和物理层算法,如MIMO,OFDM,多载波等。
+    5、与RRM算法人员,网规人员合作，共同完成跨领域的算法分析研究和系统性能分析工作。 
+&amp;#8226;知识、技能和经验要求
+（一）、通信知识
+    1、精通信号处理技术，随机系统理论和信号检测理论，通信原理等技术。
+    2、熟悉无线通信系统原理，特别是蜂窝无线通信系统。
+    3、了解无线资源管理的基本知识，如切换，功控等。
+    4、了解无线网络规划的技术，特别是容量，覆盖相关的知识。
+（二）、个人素质要求
+    1、 对算法研究有浓厚兴趣和求知欲望，有意在这里长期发展。
+    2、 有良好的领悟能力，对工作精益求精的精神，强烈的责任心。
+    3、有良好的团队意识和合作精神。
+工作地点：上海
+联系方式：liuyun@huawei.com, 请将个人简历发往以上地址，公司将尽快和大家联系。

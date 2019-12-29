@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <gan@ccert.edu.cn>; Wed, 28 Sep 2005 22:36:46 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 14:47:56 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 22:47:56 CST
+Date: Wed, 28 Sep 2005 22:47:56 +0800 (CST)
+From: liang ming <yun@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INfuvfzT0Lj2sru6w7XEz7C53w==?=
+To: gan@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+我等过她半个小时，然后她出现了，和没见到我一样。这是最让我伤心的一次。
+     我觉得自己已经被折磨得没有生机了，对于和他这件事情上。。。
+     从来和人约时间都是最多只等半小时，时间一到马上走人，等他，从开始的5分钟到现在的2个小时甚至几个礼拜，好象天经地义，从一开始就应该这样似的。。。
+     给别人发短信，不回就再也不发了，而他，不回我就隔段时间一发，总有他心情好的时候会回复的。。。

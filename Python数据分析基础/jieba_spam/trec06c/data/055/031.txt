@@ -1,0 +1,21 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q8frpZ012129
+	for <cen@ccert.edu.cn>; Mon, 29 Aug 2005 12:15:43 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <430ED8CA.0000D0.32715@m115.126.com>
+Date: Mon, 29 Aug 2005 12:27:56 +0800 (CST)
+From: "guan" <guan@126.com>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrvcwgU0hMIMzixL+1xM341rc=?=
+X-Priority: 3
+X-Originating-IP: [222.82.97.251]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_nydxdIXIQAMDkzacqLhDtoxLoZym"
+
+谢谢，请问是这个网址嘛？
+http://www.shldirect.com/phasei/practicesection-phaseII/TestAdmin/javaok.asp?ID=5B93FDA2DF664AB20022D3D7A92CE066&amp;Target=http://www.shldirect.com/phasei/practicesection-phaseII/testadmin/TestIntro1.asp?Test=N%26ID=5B93FDA2DF664AB20022D3D7A92CE066
+显示不了 ， 提示如下： 哪位高手说一下怎么弄啊，谢谢！
+Testing Browser
+SHL Direct practice tests use a Java Applet, the most widely compatible system, to administer the timed tests. This page will attempt to load a Java Applet. If this succeeds you will automatically be forwarded to the next page in the registration.
+This browser can not run Java applets. See below for more information  
+     http://www.shldirect.com

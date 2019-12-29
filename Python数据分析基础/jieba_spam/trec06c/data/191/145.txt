@@ -1,0 +1,69 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <lin@ccert.edu.cn>; Tue, 27 Sep 2005 09:00:08 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Tue, 27 Sep 2005 09:03:23 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 01:03:21 UT
+To: lin@ccert.edu.cn
+From: lv@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhdsbG+qe+szNq159fTv8a8vNPQz965q8u+LVBWIFNvZnR3YXJlIEVuZ2luZWVy?=
+
+“校园招聘大全”(http://www.jobmm.com)独家提供 
+-------------------------------------------------------------------------------- 
+=== 招聘信息 ===
+ 
+ 公司名称:北京铿腾电子科技有限公司 
+ 招聘职位:PV Software Engineer[急聘]  
+ 截至日期:2005-11-20  
+ 最低学历:硕士  
+ 招聘人数:人 
+ 工作地点: 北京 
+ 简历投递处: http://www.jobmm.com/cadence/Kuntai_job.asp 
+ 
+岗位描述: 
+Job Description:
+-Candidate will be involved in the verification and validation of the analog
+ and analog mixed signal simulators. 
+-Candidate will participate in the discussions with R&amp;D team as the quality 
+ advocate to improve the quality of Simulation’s products. 
+-Candidate Will write and execute test specifications and test plans. 
+-Candidate will also involved in coding of AMS simulator development 
+ 
+相关要求: 
+Requirements:
+-Bachelor CS/EE + 2 years or MS + 1 year experience in EDA and/or SQA industry.
+-Candidate must be a fast learner, and have a strong drive to find bugs 
+ in software products. 
+-Candidate must be independent and must be able to work on multiple projects 
+ at a time.
+-Coding experience with C/C++ under Linux or UNIX
+-Matlab experience preferred. 
+-Strong knowledge of spice/spectre netlist preferred. 
+-Knowledge of verilog/ahdl simulator preferred. 
+-Analog/Digital/Mixed Signal design experiences a plus. 
+-Experience on product quality testing a plus. GUI based testing experience
+ a plus. 
+   
+--------------------------------------------------------------------------------
+=== 公司详细资料 ===
+ 
+ 公司名称:北京铿腾电子科技有限公司 
+ 企业性质:三资企业  
+ 成立日期:2001-12-18 
+ 注册资金:4800万人民币 
+ 公司网站:http://www.cadence.com.cn 
+ 
+公司简介: 
+ 
+    Cadence Design Systems Inc.是全球最大的电子设计技术(Electronic Design 
+Technologies)、程序方案服务和设计服务供货商。其解决方案旨在提升和监控半导
+体、计算机系统、网络工程和电信设备、消费电子产品以及其它各类型电子产品的设
+计。其总部位于美国加州圣何塞（San Jose），在全球各地设有销售办事处、设计及
+研发中心，现拥有员工约4800名，2003年收入约11亿美元。

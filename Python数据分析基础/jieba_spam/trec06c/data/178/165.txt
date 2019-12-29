@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <zheng@ccert.edu.cn>; Sat, 24 Sep 2005 13:46:25 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <zheng@ccert.edu.cn>; Sat, 24 Sep 2005 13:57:46 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 05:34:46 -0000
+From: "zhong" <zhong@mail.tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Cc: <ling@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9eq1NhdIMflu6rDzrXEt9vL6aGq0LS4+Mflu6q089GntcTNy9GnyerH6yAo16rU2Ck=?=
+Date: Sat, 24 Sep 2005 13:57:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+【 以下文字转载自 Oversea 讨论区 】
+发信人: SayMyName (等是等不来ppmm和热被窝奖的), 信区: Oversea
+标  题: Re: [转载] 清华梦的粉碎―写给清华大学的退学申请 (转载)
+太理想主义者了
+等他接触到他特别崇拜的那些他认为纯研究性的科学家的时候，他还是会失望的
+就像一般初恋的男生绝对不会去想美女便秘是什么样子一样
+     我觉得他性格本身有弱点是肯定的，从文中也能看的出来，但他反映的问题--中国高等教育的问题越来越严重这点应该没有什么异议，像我们在国内的人可能对他说的问题感同身受，所以好像理解，惋惜的人更多些。

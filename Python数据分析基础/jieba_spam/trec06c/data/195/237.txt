@@ -1,0 +1,36 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <chen@ccert.edu.cn>; Wed, 28 Sep 2005 03:39:23 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 19:50:33 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 03:50:33 CST
+Date: Wed, 28 Sep 2005 03:50:33 +0800 (CST)
+From: liang ming <che@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INK7uPbQob+1vNLNpdTWxNHKt6O6vt627tK9wca30bT4wLS80sbGyMvN9g==?=
+To: chen@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+愿意牺牲自己..是伟大..
+千方百计想苟活下去..也是人之常情..
+换了是你或家里人也会这样..
+     标  题: Re: 一个小康家庭灾难史：巨额医疗费带来家破人亡
+     
+     
+     re
+     其实我也这么想，治不好的病，拖累了这么多人。。。。。。。。。。。
+     而且有些病好了也不是正常人了，还拖垮了一大家子/一个单位的人，别人可能
+     多少年甚至后半辈子翻不了身了，sigh
+     我要挨骂了：（
+     : 这件事基本上是真的。
+     : 因为那个厂子离当时我家不远，是一个做雨衣雨具的不算很小的工厂，可能当时的效益已经不太好了吧，然后又碰上这么一档子事，结果没多久就彻底垮了。
+     : 有时我也在想：
+     
+     --
+     

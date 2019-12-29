@@ -1,0 +1,36 @@
+Received: from mailgate1.neusoft.com ([210.83.210.153])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F2h5xA032120
+	for <yuan@ccert.edu.cn>; Sat, 17 Sep 2005 09:28:54 +0800 (CST)
+Received: from smtp3.neusoft.com (mail.neusoft.com [210.83.210.139])
+	by mailgate1.neusoft.com (8.12.11/8.12.11) with ESMTP id j8F2pa4i001038
+	for <yuan@ccert.edu.cn>; Sat, 17 Sep 2005 09:37:21 +0800
+Received: from win2003 ([192.168.74.50])
+ by smtp3.neusoft.com (iPlanet Messaging Server 5.2 Patch 1 (built Aug 19
+ 2002)) with ESMTPA id <0IMU0027B80HRF@smtp3.neusoft.com> for
+ weike@ccert.edu.cn; Sat, 17 Sep 2005 09:38:50 +0800 (CST)
+Date: Sat, 17 Sep 2005 09:39:58 +0800
+From: SQL <xin@neusoft.com>
+Subject: =?gb2312?B?ofEgW83G0dDQxc+iXdbQv8bUutfUtq+7r8v5wM/KptXQytXH5buq0MXPotGn1LrD4srU0dC+v8n6?=
+To: yuan@ccert.edu.cn
+Message-id: <001e01c5b9a0$c21b92a0$324aa8c0@win2003>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+X-MailScanner: Not scanned: please contact your Internet E-Mail Service Provider for details
+
+导师简介
+张晓鹏，计算机应用技术博士，模式识别国家重点实验室及中法联合实验室副研究员。中国科学院研究生院副教授，《中国体视学与图像分析》杂志编委。2004年获得国家科技进步二等奖和北京市科技进步奖三等奖。2002年9月至2004年8月特邀去INRIA（法国国立信息与自动化研究院）作为外国专家从事计算机图形学和自然景观可视化及应用研究。目前在SCI、EI和IEEE等国际会议发表论文二十余篇。目前执行国家自然科学基金项目、国家自然科学基金国际合作重大项目、科技部国际合作项目和北京市自然科学基金项目。
+研究方向和对象
+计算机图形学、数字图像处理和模式识别等方面的软硬件研究。招收研究生：有兴趣于从事这方面研究的清华信息学院学生免试攻读硕士研究生或硕博连读研究生。
+单位简况和条件
+中国科学院自动化研究所是我国信息领域研究的一个骨干研究机构。
+模式识别国家重点实验室（NLPR）成立于1984年，于1987年成为国家重点实验室。依托于中国科学院自动化研究所。图像处理、计算机图形学和模式识别是实验室目前一些主要研究方向。实验室拥有SGI、SUN等先进的计算机等工作站，三维激光扫描等设备。
+中国科学院自动化所中法信息、自动化与应用数学联合实验室（LIAMA）是由中国科学院、中科院自动化所、INRIA (法国国立信息与自动化研究院) 、CIRAD (法国国际农业发展研究中心)、INRA（法国农业科学研究院）、CNRS（法国国家科学研究中心）等两家中国研究机构和5家法国研究机构联合成立的实验室，是少有的国家级国际联合实验室，目前有6个法国专家在此长期工作，中方成员5人。LIAMA中方成员也是NLPR成员。实验室拥有现代化的办公条件和快速互联网。计算机图形学和图像处理是实验室主要研究方向。
+联系方式
+Email: xpzhang@nlpr.ia.ac.cn
+http://www.ia.ac.cn/personal/xiaopeng.zhang/
+电话: 62650316、13910604458
+地点：中关村东路95号自动化大厦1118房间

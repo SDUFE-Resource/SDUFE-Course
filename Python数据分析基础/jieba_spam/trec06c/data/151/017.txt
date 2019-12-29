@@ -1,0 +1,43 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <ning@ccert.edu.cn>; Sun, 18 Sep 2005 10:59:56 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <ning@ccert.edu.cn>; Sun, 18 Sep 2005 11:16:31 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <ning@ccert.edu.cn>
+	; Sun, 18 Sep 2005 11:16:31 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <ning@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 10:41:32 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "guan" <guan@njnu.edu.cn>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?ofEgt6K1vc7Sv8mwrrXEvNKw5qOsy9+/4NK7z8KjrL+8vN3V1b6twPogKNeq1Ngp?=
+Date: Sun, 18 Sep 2005 11:11:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+【 以下文字转载自 Joke 讨论区 】
+发信人: happyhc (愿苍天变了心), 信区: Joke
+标  题: 考驾照经历
+在国外，没驾照就像没身份证一样，到哪里都得带着护照，太太不方便了，于是被gg拉着一起去考驾照。
+不过做了考试的决定后，我们俩迟迟没有动手准备，终于在这周四晚上花了4个小时突击以后，决定第二天把这个庄严而神圣的任务结束了。。。
+周五起床一看，哟，下雨了，看这阵势好像还不小，而且一时半会儿不会停，出门很不方便，更何况考试的地点离我们家坐车要1小时哪，到时候还要找地点，很郁闷，怎么办呢？我们两只懒猫在家里犹豫了一会儿，决定为了过上一个踏实的周末，还是当天考掉吧。
+出门远远的就看到一辆车，狂奔50米，司机几乎是在我们到达前门的时候关上大门扬长而去。很痛苦的在大雨中等了15分钟（还好车多），终于兴冲冲的上了一趟车。转车之余，去取了点钱，发现太久没取钱（多数用信用卡或刷卡），忘了密码，满头大汗地把能想到的密码总结了一下，终于整出密码，取到了钱。再到车站，发现车又再离我们5米的距离开走，大雨中，我们继续等待。
+好不容易爬上车，精疲力尽。迷迷糊糊地快到目的地，有个家伙突然让司机半路停车，居然司机也停了车，可我们晕那，我们以为这就是一个车站了，于是再下一个车站就下车了，下了车，才很颓废的发现，还有几户3公里的路程需要我们跋涉阿。此时雨越下越大，路上的车辆几乎铆足了劲往我们身上溅水。等我们哆哆嗦嗦地到达考试中心，已经是两条十足的落汤鸡了。
+开始排队，好容易排到了，告诉我们必须先去另外一个desk要号，于是重新排队。终于可以报名考试了，必过的一关自然是交钱了，把信用卡递给他们，刷刷两下，天，告诉我们刷卡机坏了，只能交现金（事实证明取钱是多么明智的决定）。
+然后测视力，别人用时都好好的，我们上去，视力机里模模糊糊一片，调整了很久，终于把那个视力测了。接着照相，一通手忙脚乱后，居然忘了把随便搭在身上的外套脱了。很郁闷地请求重新照相。
+以为万事俱备，可以考试了。问考中文的还是英文的，想了想，中文吧，支持祖国母亲一把。拿到考卷，傻了，全繁体。哎，幸好咱们汉字功底没那么弱阿，连蒙带猜得终于做完了。交了考卷，告诉我们两个都考过了。不过。。。。计算机系统甭了，让我们等等，系统恢复了再给驾照。那就等吧，来都来了。
+等了一个半小时，急了，gg中午的会估计要取消了。可是下午还有会啊。。。于是询问，人家说这种事情百年罕见，你们碰到了，自认倒霉吧，他们也不知道什么时候能好。于是又坚持了1个小时，终于灰溜溜的走了，等着下回再去拿驾照吧。
+回去转车时，左等右等也不来辆车，好不容易来了辆，还不能直达学校，反正下了车还走了好远的路。回到学校，导师问：“上午跑哪里去了？”老实交待了一下悲惨遭遇。导师哈哈大笑：“This is unusual for others, but for you, I am quite used to this. It just happened again to prove you are  an unluky person”吐血。
+上网一查，ft，那个没划上的信用卡里的钱还是被扣掉了，郁闷，交了双倍报名费。狂吐。晚上回家，伤心不已，还没缓过劲来，发现由于白天淋多了，坏肚子了。。。。555，直接导致今天在朋友家的中秋聚会任何食欲都没有。
+哎，不能逆天而行啊

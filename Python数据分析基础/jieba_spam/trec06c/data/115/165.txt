@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AF39fI030243
+	for <weng@ccert.edu.cn>; Sun, 11 Sep 2005 11:12:45 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AF0L4C093997
+	for <weng@ccert.edu.cn>; Sun, 11 Sep 2005 11:10:15 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8AF0IZY093993
+	for <weng@ccert.edu.cn>; Sun, 11 Sep 2005 11:09:53 +0800 (CST)
+	(envelope-from mayuanchen@tsinghua.org.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 11:29:18 +0800
+Message-ID: <326365583.28602@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: mayuanchen@tsinghua.org.cn
+Received: from unknown (HELO mayc-d400) (220.207.80.1)
+	by 210.77.143.232 with SMTP; Sun, 11 Sep 2005 11:29:18 +0800
+From: "luo" <luo@tsinghua.org.cn>
+To: weng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [TOEFL] =BD=CC=CA=A6=BD=DA=BF=EC=C0=D6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Date: Sun, 11 Sep 2005 11:22:07 +0800
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0061451654=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     　　我很好的朋友，和他的男朋友是通过网络认识的，刚开始的时候特别甜蜜，特别好，后来慢慢发现了隔阂和差距，就开始吵架甚至打架（真汗！）打的甚至很严重，后来就开始不断的谈分手，不断的和好，关系也一直处于模棱两可的状态．
+     　　直到有一天，我的朋友终于遇到了自己中意的男生，那个男孩子也很喜欢我的朋友，在两个人答应开始交往的那天晚上，他送我朋友回家，然后，竟然碰到了那个男生，然后，他就把两个人打了一顿，结结实实的一顿．
+     　　现在她都没法出门了．．．

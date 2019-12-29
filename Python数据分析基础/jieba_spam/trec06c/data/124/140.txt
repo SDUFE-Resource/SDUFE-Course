@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <weng@ccert.edu.cn>; Tue, 13 Sep 2005 06:29:20 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <weng@ccert.edu.cn>; Tue, 13 Sep 2005 06:26:35 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <weng@ccert.edu.cn>; Tue, 13 Sep 2005 06:25:37 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Tue, 13 Sep 2005 06:37:09 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Tue, 13 Sep 2005 06:39:45 +0800
+From: "bi" <bi@runway.cn.net>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMHuztK3s8TVtcTGxcbF?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: bi@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+哈哈
+         以前没有和婆婆一起生活，不知道她的性格是这样的，现在和她生活了几个月以后，婆婆性格上的问题慢慢都看出来了，我很是烦恼，老公有时也很ft。

@@ -1,0 +1,46 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T1EWk0000972
+	for <tao@ccert.edu.cn>; Thu, 29 Sep 2005 12:48:43 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8T19BtK069273
+	for <tao@ccert.edu.cn>; Thu, 29 Sep 2005 12:43:38 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8T14kU4069206
+	for <tao@ccert.edu.cn>; Thu, 29 Sep 2005 12:38:56 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 18877 invoked by uid 512); Thu, 29 Sep 2005 04:47:11 -0000
+Message-ID: <20050929011301.18876.qmail@stu.ee.tsinghua.edu.cn>
+From: lei@stu.ee.tsinghua.edu.cn
+To: tao@ccert.edu.cn
+Date: Thu, 29 Sep 2005 12:47:11 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEgvNPEw7Tzu6zM+sKstPPRp8H00ae7+rvhICjXqtTYKQ==?=
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 AdvancedEdu 讨论区 】
+发信人: pangolin (人生如梦), 信区: AdvancedEdu
+标  题: 加拿大滑铁卢大学留学机会
+代发
+招生的老师是谢伟华博士，他现在在加拿大滑铁卢大学土木工程系工作，
+主要从事振动研究，是该系的副系主任，关于该老师的详细信息
+请登陆:http://www.civil.uwaterloo.ca/xie
+下面是这个老师的招生要求：
+     希望找两个清华的研究生（本科在清华的）去读博士，提供全额奖学金。最好是比较愿意读书做研究的。
+        其中一个学生去加拿大滑铁卢大学，现在申请明年五月入学。TOEFL要550分以上。他会和本系(土木系)的一个教授合带。研究方向是工程系统(具体是用于电站的热交换器)的可靠性及风险分析(Risk and Reliability Analysis)。希望学生有工程力学，概率及数理统计，随机过程等方面的背景。如果做过可靠性及风险分析方面的工作就最好。这个学生可以是工程力学，土木工程，或机械工程系的。 软件方面要求不是很高。能够自己编程做模
+拟(Monte Carlo Simulation) 用Fortran, C++, Matlab均可。会用Maple.
+  
+      另一个学生到香港理工大学机械系读博士。是他和香港的教授合带(Professor Ronald So)。方向是流体引起的振动(Flow-Induced Vibration)。希望学生有流体力学，动力学，有限元，随机过程，随机微分方程等方面的背景。编程的能力要求高一点。工程力学系流体专业的会比较合适。
+如有兴趣，请与肖丽英联系，邮箱 xiaoly@tsinghua.edu.cn，电话：62785522（o）

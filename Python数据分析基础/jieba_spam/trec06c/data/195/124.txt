@@ -1,0 +1,43 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q8Ih5e007338
+	for <cen@ccert.edu.cn>; Wed, 28 Sep 2005 01:52:30 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q8M1b01723;
+	Wed, 28 Sep 2005 01:55:48 +0800
+Message-Id: <200509260822.j8Q8M1b01723@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 17:55:48 UT
+To: cen@ccert.edu.cn
+From: ding@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INGvzsrSu8/Cy63WqrXAsbG087+8ucXPtb+80dC/vMqyw7Q=?=
+
+考古学及博物馆学 (060102) 人数:24 
+01.旧石器考古与古人类学
+02.新石器及夏商周考古
+03.汉唐宋元考古
+04.佛教考古
+05.中外文化交流考古
+06.陶瓷考古
+07.田野考古学
+08.博物馆学
+09.博物馆藏品研究
+10.中国古代建筑
+11.科技考古
+12.文物保护科学
+ 
+考试科目③：方向０１－１０限考中国古代史，方向１１、１２限考数学（二）。考试科目④：方向０１－０７限考考古学通论，方向０８－０９限考博物馆学基础，方向１０限考中国古代建筑，方向１１、１２普通物理、普通化学任选一门。
+3 302数学（二） 、345中国古代史 
+01 中国史纲要  翦伯赞  中华书局   
+4 486考古学通论 、487博物馆学基础 (含文物基础知识)、488中国古代建筑 、489普通物理 、490普通化学  
+01 新中国的考古发现和研究   文物出版社   此考试科目还可参考任意版本的《考古学通论》和《中国考古学》教材 
+02 中华人民共和国重大考古发现  宿白  文物出版社   
+01 中国博物馆学基础  王宏钧  上海古籍出版社    
+02 中国大百科全书文物博物馆卷   大百科全书出版社    
+03 三礼通论   南京师大出版社    
+01 中国古代建筑   上海古籍出版社 
+02 中国建筑史   中国建筑工业出版社
+     我是其他专业的，想考北大考古学院考古学研究生，请问考哪些内容呀

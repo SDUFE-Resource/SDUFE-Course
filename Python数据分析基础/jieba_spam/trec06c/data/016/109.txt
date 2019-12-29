@@ -1,0 +1,37 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <cao@ccert.edu.cn>; Sat, 20 Aug 2005 09:49:21 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <cao@ccert.edu.cn>; Sat, 20 Aug 2005 10:22:41 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Sat, 20 Aug 2005 10:03:40 +0800
+From: "lai" <lai@mail.nisac.gov.cn>
+Reply-To: lai@mail.nisac.gov.cn
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMe/wdK/udLpxa7LtsKluvPD5rmktdjSubzkyqm5pA==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+http://myhome.tsinghua.edu.cn/myhome/notice/notice_view.asp?ID=638
+学服中心8月17日晚施工通知
+学生宿舍资料管理 发布于2005-8-17 18:05:54
+    接清华大学北区建设办通知转发：
+     我单位拟定于8月17日晚22：00开始清华大学学生服务中心工程三层第一段的混凝
+土施工，工程量在350立方左右。因所用商品混凝土受交通运输的限制，如交通通畅，预
+计在8月18日中午12：00能完成混凝土的施工。
+     现在正是清华大学新生报到的时间,夜间施工对同学们的休息造成了重大影响，我
+们真挚的希望广大师生能够理解我们的工作，谅解我们的难处！我们将采取各种措施尽
+可能降低混凝土施工所产生的噪音，努力为师生们营造一个安静祥和的校园环境，为建
+设和谐校园做出我们的努力！
+     衷心感谢学校师生对服务中心工程建设的鼎立支持！
+     中建六局清华大学项目部
+     2005年8月18日
+     整夜地施工，机器轰鸣声如雷
+     好容易睡着又多次被弄醒
+     根本无法休息，白天还怎么工作学习啊？

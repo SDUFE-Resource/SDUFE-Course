@@ -1,0 +1,21 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <xin@ccert.edu.cn>; Mon, 15 Aug 2005 16:32:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <xin@ccert.edu.cn>; Mon, 15 Aug 2005 16:45:41 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 16:40:36 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 16:40:36 +0800
+From: rao@mail.tsinghua.edu.cn
+To: xin@ccert.edu.cn
+Date: Mon, 15 Aug 2005 16:40:36 +0800
+Reply-To: rao@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IFvT9MPGXdLRvq3O3reo0MXIzsq10enK0sHL?=
+Content-Type: text/plain
+
+学生既然可以退学，老板觉得累了也可以不干啊，
+我见得多了到了年龄还不肯退的老板，
+就为了多压榨几年学生，多骗几年国家的钱。
+     你现在只是在一味叫苦，可你了解你老板的处境吗？你能体谅养活一大帮人的难处吗？你觉得不应该上来做Demo，可要没有Demo谁会给你投钱做课题？现在谁会听你白话几句就把大把银子给你做研究用？你觉得很多小事做起来没意思，不错，是很没意思，可是这些事是做研究或做项目

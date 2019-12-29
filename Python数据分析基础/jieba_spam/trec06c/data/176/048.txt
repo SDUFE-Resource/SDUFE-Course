@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <zeng@ccert.edu.cn>; Sat, 24 Sep 2005 03:50:09 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 03:39:09 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 24 Sep 2005 03:39:08 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 24 Sep 2005 03:39:08 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 19:39:08 -0000
+From: "chi" <chi@mail.tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO80sC0y7XLtbDJ?=
+Date: Sat, 24 Sep 2005 04:01:30 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+心里乱乱的不知道该怎样,请大家来说说吧~
+和他是在水母认识的，大半年了感情融洽，上周五第一次见面，他帮我拿背包什么的
+挺细心,但接下来的两天时间都没有他的电话，中秋那天晚上他打电话来我家了，但是家里没人，我们都去看望小外甥了。半个小时后他打我手机，但我偏偏忘了带手机出去。回来后才看到他的两个未接来电(因种种原因显示的号码是乱码,我无法回拨)。3天后我新历生日（他也知道的）也没有再看到他的电话了。
+很自然的,我以为他误会我故意不接,急着打电话去他家想找他的另一号码,但他家人的号码和我知道的一样,我于是发mail跟他解释,他回复说正在准备的项目很重要,24号到京后电话我(我想在深,他也打算在深,但上面不同意的话,他很可能就要在京了,但我小硕去京找工有点担心,也不想让他再操心要替我联系).
+然而今天都25号了,也不见他的电话,sigh,大家说说,这是不是要分的前奏呢?

@@ -1,0 +1,34 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <ke@ccert.edu.cn>; Sat, 17 Sep 2005 22:21:38 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <ke@ccert.edu.cn>; Sat, 17 Sep 2005 22:38:13 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <ke@ccert.edu.cn>
+	; Sat, 17 Sep 2005 22:38:13 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <ke@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 22:03:14 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "mo" <mo@njnu.edu.cn>
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO80r+0v7TO0ru509DPt8Lwo78=?=
+Date: Sat, 17 Sep 2005 22:33:25 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+1.性格开朗，身心健康(在艰苦卓绝的高三增重10kg,在水土不服的大一增重10kg),现180/180
+2.学习刻苦。在交程序设计大作业的最后关头，连熬几个通宵：打游戏。
+3.人品较好。由于2中的出色表现，大作业就没舍得交给老师，心想明年补修又是一条好汉。新学期无意看看成绩，发现那门课竟然过了。
+4.公德奇好。经常骑一辆无闸（其实看上去是有的，只是没有作用）的破车（本来是新的，扒手转给我后保养不太好），撒把在校园内超限速（机动车限速）行驶
+5.为人忠厚。兄弟们叫喝酒颇有梁山遗风，拼酒时从不耍滑，能喝半杯一口闷，能喝六两喝一斤，每次必烂醉如泥，众人架回
+    虽然弟兄们都觉得我这辈子应做当和尚的打算了，不过还希望众位xdjm参谋一下这辈子还有希望觅到一位温柔善良美貌动人的mm为伴否？（或者帮忙介绍一下少林寺与清凉寺的寺规大致区别）

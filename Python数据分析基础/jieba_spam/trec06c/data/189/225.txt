@@ -1,0 +1,36 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <gao@ccert.edu.cn>; Tue, 27 Sep 2005 00:27:14 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 16:38:08 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 16:38:08 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <gao@ccert.edu.cn>; Mon, 26 Sep 2005 09:49:15 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <gao@ccert.edu.cn>; Mon, 26 Sep 2005 11:45:41 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 00:37:56 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <che@motorola.com>
+To: gao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Date: Tue, 27 Sep 2005 00:37:31 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+得了吧
+1.Crick晚年也不嚣张了，只是那时候他还年轻
+2.他发现双螺旋是受很多人启发的，建模方法是向Pauling学的（当然，如果不是Pauling同学预测错误的话，也轮不到Crick了），衍射图是从Franklin那里搞到的。
+口头上牛的牛人很多其实是在装牛X，不能真信的。何况有很多只是口头上牛的人。
+     同意。牛人作出牛东西，一群普通的人马上尾随其后。我问他们为什么做？
+     他们说：牛人都作，我们为什么不做。
+     发现DNA螺旋体的那个生物学家，嚣张不得了，口出狂言：我从不看别人的文章！

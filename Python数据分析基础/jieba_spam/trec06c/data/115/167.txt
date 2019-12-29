@@ -1,0 +1,108 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ACNovr029742
+	for <xue@ccert.edu.cn>; Sun, 11 Sep 2005 11:13:37 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8ACKv6Q093262
+	for <xue@ccert.edu.cn>; Sun, 11 Sep 2005 11:11:08 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8ACKomW093258
+	for <xue@ccert.edu.cn>; Sun, 11 Sep 2005 11:10:41 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+Message-Id: <200509101220.j8ACKomW093258@gradinfo.net.edu.cn>
+Received: from free-qhkbi6e7yv (unknown [59.66.201.85])
+	by smtp2 (Coremail) with SMTP id QsA3yF3IIkPPuYAD.1
+	for <xue@ccert.edu.cn>; Sun, 11 Sep 2005 10:39:40 +0800 (CST)
+X-Originating-IP: [59.66.201.85]
+Date: Sun, 11 Sep 2005 10:41:27 +0800
+From: "wu" <wu@163.com>
+To: xue@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8ACKomW093258
+Subject: =?gb2312?B?ofEgztK1xL+80dDCt6O606LT77XE0afPsCBJSQ==?=
+Precedence: list
+Reply-To: wu@163.com
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+从高中阶段开始，我就再没有因为英语课头疼过。
+上了大学之后也基本上是自学；
+我所说的自学不是买本什么教材回来自己看，
+而是尽量多地进行泛读和精读。
+我当时看了一本《20世纪世界著名演讲百篇》（大概是这个名字吧），
+还有另外一本，名字我都想不起来了。
+我在这本演讲录上花了不少时间，幸亏这时的我已经有文曲星助力，
+省了不少力气。
+马丁・路德・金的那篇文章到现在我还能记得一些细节，
+像什么beacon light of hope，
+什么to hew out of the mountain of despair a stone of hope之类。
+~
+其实在度过了“-What\'s this? -This is a book.”这一阶段的学习之后，
+就要尽快扔掉背单词、做习题这种小学生的学习模式，
+而要尽快转向通过阅读来积累单词、获取语感；
+语感的重要性绝对大于语法知识的积累。
+通过阅读，提高的是你实实在在的水平，
+水平上去了什么考试都不怕。
+~
+一提到阅读题，总是有人搬出来一大堆技巧之类，
+说实话我感觉所谓“技巧”基本上就是扯淡。
+你把文章看明白了，怎么可能做不对题？
+这个时候如果还做不对，这就真的不怪你了，
+只能怪出题的那帮老家伙实在太过变态。
+我依稀记得04年的英语试卷里面，
+有一篇文章说，当老师讲到哪里哪里的时候，
+可怜的学生们已经在“zzz”了。
+题目，问：文章中的“zzz”一说，implies that （   ）。
+A.老师讲的课程很boring。
+B.学生们听到这里已经睡着了。
+说实话当时我看到这道题目的时候简直恨不得拎一把菜刀去找出题的老头们算账：
+你tm的不是故意刁难人么？
+实际上是老师们讲的课太boring，结果学生们都睡着了，
+选a选b都对，无论正确答案是哪个，你都可以找出理由来说明另外一个是错的！
+这已经完全背离了考英语的目的，
+而tmd是在考察rp。。。
+幸好，这种题目在考研当中绝对是少数。
+另一个故事更是令人喷饭，我来讲给大家听听：
+话说05年考研，加了一个新题型，
+就是从文章当中抠出比方说5个段子，
+然后让你从7个备选段子当中选出正确的那5段话。
+这道题让不少复习的弟兄们开始神经紧张，
+更让不少辅导学校的“专家”们
+（我很珍惜“老师”这个词的。。。
+但既然“专家”这个词已然已经被毁了，所以我也就放心地拿过来用）
+像发现了遍地黄金的新大陆一样兴奋异常，
+一大批针对新题型的辅导书如雨后春笋一般涌现了出来，
+直看得大伙眼花缭乱。
+要知道，多一个新题型，就能多卖一本书啊！
+打他一本书能挣2块，考研报名的就100多万，
+那就是……呵呵呵，连katyusza这么高风亮节两袖清风的人都开始流口水了耶。。
+呵呵，扯远了，继续讲。
+话说往年，
+考试一结束，官方答案都是立马公布。
+结果今年不知道主持考研那帮老爷子怎么想的，
+竟然拖了好久，迟迟不肯公布答案。
+这下可苦了俺们学生们，
+不过倒是给各路神仙提供了一个充分展示他们个人魅力的舞台。
+各大网站、辅导学校纷纷贴出“专家”们的权威答案；
+更恐怖的是，
+对于这个新题型，
+各家的答案竟然不一致~~~
+出题的爷爷奶奶们简直太牛了，
+连他们的同辈同行都难住了。。。。
+一时间网上吵成了一锅粥，
+直到有明白人儿淘出来这片贴子的英文原文，
+一切才安静下来。
+~

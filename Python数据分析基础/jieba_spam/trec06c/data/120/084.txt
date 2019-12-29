@@ -1,0 +1,134 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C2BpmJ006744
+	for <lin@ccert.edu.cn>; Mon, 12 Sep 2005 11:06:47 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28l5c009623
+	for <lin@ccert.edu.cn>; Mon, 12 Sep 2005 11:04:05 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28iWw009619
+	for <lin@ccert.edu.cn>; Mon, 12 Sep 2005 11:03:40 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EEefy-0005d0-00
+	for toefl@gradinfo.net.edu.cn; Mon, 12 Sep 2005 12:03:06 +0800
+Message-ID: <016301c5b740$c2f51a00$2fcb6fa6@wanglanjia>
+From: "hou" <hou@ns.6test.edu.cn>
+To: lin@ccert.edu.cn
+Date: Mon, 12 Sep 2005 11:16:28 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Subject: =?gb2312?B?ofEgx/O0y8rptcTTsNOhsOa78rXn19Ow5g==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1871831781=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+《操作系统－内核与设计原理（第四版）》图书简介如下： 
+--------------------------------------------------------------------------------
+ 
+    本书可作为大学计算机专业或计算机应用相关专业的本科生教材和参考书,也可供从事计算机方向研究的专业技术人员使用.
+    操作系统是计算机系统的核心系统软件,负责控制和管理整个系统,使之协调工作.本书不仅全面系统地讲述操作系统换基本要领原理和方法,而且当代最流行的两个操作系统--Windows  2000和UNIX为例.全面清楚地展现当代操作系统的本质和特点,使本书的内容具有先进性和适应性.本书紧密联系当代流行的设计问题以及当前操作系统的发展方向,可作大学计算机专业或计算机应用相关专业的本科生教材和参考书,也可供计算机方向研究的专业技术人员使用.
+目录
+读者指南
+  第一部分  背景
+  第1章  计算机系统概述
+    1．1  基本构成
+    1．2  处理器寄存器
+    1．2．1  用户可见寄存器
+    1．2．2  控制和状态寄存器
+    1．3  指令的执行
+    1．3．1  取指令和执行指令
+    1．3．2  I／O函数
+    1．4  中断
+    1．4．1  中断和指令周期
+    1．4．2  中断处理
+    1．4．3  多个中断
+    1．4．4  多道程序
+    1．5  存储器的层次结构
+    1．6  高速缓冲存储器
+    1．6．1  动机
+    1．6．2  cache原理
+    1．6．3  cache设计
+    1．7  I／O通信技术
+    1．7．1  程序控制I／O
+    1．7．2  中断驱动I／O
+    1．7．3  直接存储器存取
+    1．8  推荐读物
+    1．9  习题
+    附录1A  两级存储器的性能特征
+    附录1B  过程控制
+  第2章  操作系统概述
+    2．1  操作系统的目标和功能
+    2．1．1  操作系统作为用户／计算机接口
+    2．1．2  操作系统作为资源管理器
+    2．1．3  操作系统的易扩展性
+    2．2  操作系统的发展
+    2．2．1  串行处理
+    2．2．2  简单批处理系统
+    2．2．3  多道程序批处理系统
+    2．2．4  分时系统
+    2．3  主要的成就
+    2．3．1  进程
+    2．3．2  存储器管理
+    2．3．3  信息保护和安全
+    2．3．4  调度和资源管理
+    2．3．5  系统结构
+    2．4  现代操作系统的特征
+    2．5  Windows  2000概述
+    2．5．1  历史
+    2．5．2  单用户多任务
+    2．5．3  客户／服务器模型
+    2．5．4  线程和SMP
+    2．5．5  Windows  2000对象
+    2.  6  传统的UNIX系统
+    2．6．1  历史
+    2．6．2  描述
+    2．7  现代UNIX系统
+    2．7．1  系统V版本4(SVR4)
+    2．7．2  Solaris  2．x
+    2．7．3  4.4BSD
+    2．7．4  Linux
+    2．8  推荐读物
+    2．9  习题
+  第二部分  进程
+  第3章  进程描述和控制
+    3．1  进程状态
+    3．1．1  两状态进程模型
+    3．1．2  进程的创建和终止
+    3．1．3  五状态模型
+    3．1．4  被挂起的进程
+    3．2  进程描述
+    3．2．1  操作系统的控制结构
+    3．2．2  进程控制结构
+    3．3  进程控制
+    3．3．1  执行模式
+    3．3．2  进程创建
+    3．3．3  进程切换
+    3．3．4  操作系统的执行
+    3．4  UNIX  SVR4进程管理
+    3．4．1  进程状态
+    3．4．2  进程描述
+    3.  4.  3  进程控制
+    3．5  小结、关键术语和复习题
+    3．5．1  关键术语
+    3．5．2  复习题
+    3．6  推荐读物
+    3．7  习题
+  第4章  线程、对称多处理(SMP)和微内核
+    4．1  进程和线程
+    4．1．1  多线程
+    4．1．2  线程功能特性
+    4．1．3  例子

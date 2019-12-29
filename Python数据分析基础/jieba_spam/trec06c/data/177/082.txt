@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <xin@ccert.edu.cn>; Sat, 24 Sep 2005 08:39:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <xin@ccert.edu.cn>; Sat, 24 Sep 2005 08:50:38 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 00:27:38 -0000
+From: "hua" <hua@mail.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Cc: <che@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0dC+v8n6obC9ob+1yfq77qGxz7XB0Lvutq/Wrs7lOqGwvaG/tb34yefH+KGxoaqhqsflu6q0
+89Gn0r0=?=
+Date: Sat, 24 Sep 2005 08:50:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+    9月23日中午，研究生“健康生活”系列活动之五“健康进舍区―清华大学校医院健康教育咨询活动”在十五食堂紫荆超市门口成功举行。
+    本次活动由校医院和校研究生会联合举办，旨在维护和提高清华学子的身心健康水平，主要就秋、冬季多发病以及学生常见病的防治进行医疗常识的普及并提供具体诊疗服务。此次活动中，校医院中西医领域的十余名专家走到同学中间，诊疗项目涵盖内科、外科、五官科、妇科、神经科、心理保健等八个科室，为同学们提供了热情周到的咨询及诊疗服务。
+    本次活动立足服务学生，关注健康，得到了广大同学的热情支持和积极参与，取得了良好的效果。整个活动过程中，前来咨询和应诊的同学络绎不绝，各位专家针对同学的不同情况，分别给予了热情而细致的解答和指导，对同学们的身体健康起到了积极的作用。对校医院热情细心的服务和校研究生会的精心组织，在场同学们都给予了广泛好评。
+    享受生活，拥有健康！
+   “健康生活”期待着您的关注与参与！

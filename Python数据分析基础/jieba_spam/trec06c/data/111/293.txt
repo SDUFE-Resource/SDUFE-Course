@@ -1,0 +1,43 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <yan@ccert.edu.cn>; Sat, 10 Sep 2005 17:48:15 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <yan@ccert.edu.cn>; Sat, 10 Sep 2005 03:00:22 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Sat, 10 Sep 2005 03:00:22 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Sat, 10 Sep 2005 03:00:22 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sat, 10 Sep 2005 18:00:22 +0800
+From: =?GB2312?B?1/O+pw==?= <qing@gmail.com>
+Reply-To: qing@gmail.com
+To: yan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvczT/bK/OtHQvr/J+sXg0fi7+tbGuMS478nQzrS78bn6zvHUusX6uLQgKNbQufq52be9z/vP
+oik=?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+http://www.cctv.com/news/china/20050909/100463.shtml
+教育部:研究生培养机制改革尚未获国务院批复  
+央视国际 (2005年09月09日 09:55) 
+　　京华时报讯（记者肖锋）昨天，记者从北京大学了解到，该校2006年研究生培养机制改革暂停实施，不会对2006年的公费研究生收费。此前有媒体报道，北大、清华、复旦等全国9所院校将参与研究生培养机制改革试点，从2006年起率先实行研究生全面收费。 
+　　北大确定暂停实施 
+　　昨天下午，北大研究生院有关负责人称，该校已经确定2006年度研究生培养机制改革暂停实施，不会对2006年的公费研究生收费，培养费用仍按现行规定执行。清华要等国家宣布 
+　　清华大学研究生院和研招办有关负责人昨天下午均向记者表示，目前还没有接到与2006年研究生培养机制改革有关的通知，清华从未宣布过“改或暂停”。一位负责人强调，不管改或不改，都不是高校的行为，要由国家政策来决定。 
+　　其他三校明年暂不收费 
+　　昨天，复旦大学研究生院宣布：“现已确定2006年度不会进行研究生培养机制改革试点，我校研究生招生类别、培养费用等相关政策仍按现行规定执行，即我校绝大多数研究生属于国家计划内非定向培养生和定向培养生，培养费由国家财政拨款。少数研究生（主要是除临床医学以外的专业学位硕士生）属于委托培养生（培养费由选送单位支付）或自筹经费培养生（培养费由考生本人自筹）。” 
+　　昨天，华中科技大学研究生管理处负责人介绍，该校2006年研究生招生收费仍照2005年的方式执行。 
+　　此外，武汉大学于9月7日宣布，接国务院学位办通知，原定2006年推行的研究生培养机制改革暂停实施，2006级研究生将不实行全面收费。该校2006年研究生招生收费方案不变，照以往实行。 
+　　教育部报告尚未回复 
+　　据教育部新闻办昨天介绍，关于研究生培养机制改革，教育部已经向国务院打了报告，但目前教育部还没有得到回复意见。所以到目前为止，教育部从未宣布过研究生培养机制是否改革，是否在部分高校试点实行研究生全面收费。由于报告还没有得到回复，教育部对此暂无任何意见。 
+　　教育部新闻办同时表示，9月12日教育部将首次举办全国硕士生招生网上宣传咨询活动，届时可能会有有关人士就研究生培养机制改革的问题提供相关信息。 
+　　背景 
+　　 
+　　目前我国研究生培养方式分为计划招生、自筹经费、委托培养等多种方式。绝大多数研究生属于国家计划内非定向培养生和定向培养生，培养费由国家财政拨款。少数研究生属于委托培养生（培养费由选送单位支付）或自筹经费培养生（培养费由考生本人自筹）。 
+　　此前有媒体报道，研究生培养机制改革试点重在收费制度改革，全面收费就是将公费、自费并轨，所有博士生、硕士生都要交纳学费。 

@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9wpWk007996
+	for <hu@ccert.edu.cn>; Tue, 27 Sep 2005 11:27:32 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QAAAcl020363
+	for <hu@ccert.edu.cn>; Tue, 27 Sep 2005 11:38:51 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 11:14:19 +0800
+Message-ID: <327727938.08832@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Tue, 27 Sep 2005 11:14:19 +0800
+From: ye@mail.tsinghua.edu.cn
+To: hu@ccert.edu.cn
+Date: Tue, 27 Sep 2005 11:14:19 +0800
+Reply-To: ye@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgUGhEIHBvc2l0aW9uIGF2YWlsYWJsZSBpbiBJRSBvZiBOYXRpb25hbCBVbml2ZXJzaXR5IG9m
+IFNpbmc=?=
+Content-Type: text/plain
+
+attatched is a letter from Professor M. Xie, Department of Industrial and Systems Engineering 
+National University of Singapore. 
+Guys in tsinghua can contact me at hbq@tsinghua.edu.cn
+Dr. Biqing Huang 
+-------
+Hi, do you have good students interested in PhD study here? We can work
+closely via them. They will be taken good care of when they come. You
+can refer them to my track-record of past students:
+http://www.ise.nus.edu.sg/staff/xiemin/Res-stud.html
+A student of mine graduated from your department got faculty position in
+US after PhD here:
+http://www.cs.iupui.edu/~ydai/
+regards
+M Xie

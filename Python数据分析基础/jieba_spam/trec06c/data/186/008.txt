@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <yu@ccert.edu.cn>; Mon, 26 Sep 2005 03:26:48 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Sun, 25 Sep 2005 19:34:16 -0000
+From: "kong" <kong@mails.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S0rLAtLy4vuQ=?=
+Date: Mon, 26 Sep 2005 03:43:57 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+第三条尤其好
+     1.技术偏执这没什么的.很多人都有这种倾向,我们宿舍有2个同学,成天大赞java,把C/C++贬得一文不值,充满情绪.这不是关键,关键是你可以痴迷linux,tex,emacs,可是你没资格认为别人用windows,office就是低你一等,就是不是搞学术,是伪科学.这没任何道理.教研组就是没这个风气,难道就是水平低?工业界那些大牛们做起报告来不一样是Apple, Windows,难道人家也水平低? 这种话题本来和学术完全无关,不知道作者把这个和学术水平扯到一起做什么,还有一对人附和.......
+     2.退学很好,重新选择自己的路,大家尊重,甚至敬佩.我不知道这和高中时候老师没给解答问题有什么关系,跟军训时候受教官同学委屈有什么关系,跟川大宿舍不好有什么关系,跟保研时候某院士看不起川大有什么关系,跟师兄师姐用word有什么关系,跟副导师不让他去希腊开会有什么关系,跟老板让他看他得意门生的paper有什么关系,跟副老板督促他发他觉得不够水平的文章有什么关系(人家又没禁止你发有水平的文章,人生在世被迫的事情还少么).这写法也太意识流了,这难道是在解释他退学的原因吗?还真有不少人把这个和退学联系起来......
+     3.看几本数学书还都没看完就觉得数学容易,听新东方老罗的课就爱上了哲学,这都是什么啊.......

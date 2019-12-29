@@ -1,0 +1,37 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <yu@ccert.edu.cn>; Fri, 26 Aug 2005 16:33:15 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 16:51:35 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 16:51:35 +0800
+Date: Fri, 26 Aug 2005 16:51:35 +0800
+From: liu@cernet.com
+Subject: =?gb2312?B?ofEg1dDGuCBBbmFseXN0KLfWzvbUsaOpu6/Rp6GissTBz6GiyfrO78u2yr8=?=
+To: yu@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+代友发文，勿回信箱。
+感兴趣者请将中英文简历发送至 career@advanced-alliance.com .
+公司简介：
+北京峨兰斯科技有限公司为留学生创办的高新技术公司，位于北京海淀区，主要从事与生物、制药、及新材料相关的科技信息数据库的开发, 信息咨询和信息服务。客户包括相关领域内世界一流公司和研究机构。由于对我们产品和服务需求的快速增长，我们诚聘有志之士加盟。公司提供优厚的待遇，英语工作环境，职业化培训，和充分的事业发展空间（包括管理岗位）。欢迎有意者将中英文简历发送给我们。 
+  
+职责： 
+负责科技信息的分析及科技信息库的设计和开发.
+要求： 
+化学或生物专业硕士或以上学位 
+熟练掌握专业英语，对专业词汇非常熟悉 
+能熟练运用计算机 
+优秀的书面和口头表达能力 
+良好的团队精神和高度的责任心
+ 
+感兴趣者请将中英文简历发送至 career@advanced-alliance.com .
+ 
+代友发文，勿回信箱。

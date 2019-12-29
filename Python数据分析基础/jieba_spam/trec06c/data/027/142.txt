@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <ke@ccert.edu.cn>; Mon, 22 Aug 2005 20:44:47 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <ke@ccert.edu.cn>; Mon, 22 Aug 2005 20:58:05 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 12:52:42 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+Cc: "tunet" <hu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMv5zr22ob/L?=
+Date: Mon, 22 Aug 2005 20:54:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+自然本来就没有一个固定的概念，早期地球上连氧气
+都没有呢，何必拿100年前的来说事呢。
+人类对于濒临动物的保护当然也是一种调整，
+也是自然环境反馈过来的，但是对大熊猫的保护，
+有点做作的成分在里面，因为熊猫本身的生理结构
+已经导致它的脆弱性，它本身就是要被淘汰的，
+我们再保护它，是不是反向行事？总不至于连恐龙
+都要去科隆回来吧。
+     人类自己的调整？
+     100年前我们使用的自然资源和现在使用的自然资源一样吗？
+     现在我们的保护濒危种群就不算调整了？

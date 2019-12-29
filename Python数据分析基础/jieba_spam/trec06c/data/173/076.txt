@@ -1,0 +1,29 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Fri, 23 Sep 2005 14:54:20 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Fri, 23 Sep 2005 14:16:38 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "ling" <ling@cert.org.cn>
+To: fan@ccert.edu.cn
+CC: "shen@ccert.edu.cn" <tao@ccert.edu.cn>,
+   "guo@ccert.edu.cn" <pu@ccert.edu.cn>,
+   "ke@ccert.edu.cn" <yuan@ccert.edu.cn>, "liao@ccert.edu.cn" <tu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzW1dPat6LQxcbkyrViYnPKtcP71sa7ucrH09C6w7SmtcQ=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Fri, 23 Sep 2005 15:02:05 +0800
+
+这要看是谁定义“误导“  
+     标  题: 今天终于发信其实bbs实名制还是有好处的
+     
+     当年水木被封的时候，跟在大家后面狂骂周济。
+     现在看到bbs上那么多人唯恐天下不乱，一副世人皆醉我独醒的样子。
+     拼命的追捧一个学生的幼稚的言论和行为。
+     我真不知道这些人有没有想过这样的行为对于没有什么经历的低年级的大学生会有什么样的误导？对于辛勤工作的老师有多大伤害？
+     sigh，与其这样还不如让bbs实名制算了。
+     --
+     

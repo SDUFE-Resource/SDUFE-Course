@@ -1,0 +1,26 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <cai@ccert.edu.cn>; Sat, 20 Aug 2005 10:04:02 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <cai@ccert.edu.cn>; Sat, 20 Aug 2005 10:37:22 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Sat, 20 Aug 2005 10:18:21 +0800
+From: "bai" <bai@mail.nisac.gov.cn>
+Reply-To: bai@mail.nisac.gov.cn
+To: cai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Sz+vSqrXEyfq77re9yr3G5Mq1uty88rWl?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+毕业之后回家工作吧，很容易实现的
+但是又很少人愿意放弃所谓的前途
+可见幸福并不简单:P
+     我想要的生活方式简单极了，就是每天下班后可以看到亲爱的家人们，和他们一起吃晚饭，聊聊天 散散步
+     可是不知道现在这种生活方式什么时候可以结束
+     从大一到北京来上学，现在研一结束，研二就要开始了，离开家在北京五年了。暑假为了实习不能回家。每天机械地在学校和公司之间往复,最初还觉得每天进出CBD这里高级的写字楼挺新鲜的，时间长了，越觉得生活没有精神支柱。其实我要的精神支柱很简单，就是能和家人们生活在一起，起码在一个城市，经常可以见面，心里不舒服的时候可以跟他们说说，拥抱一下。

@@ -1,0 +1,22 @@
+Received: from 163.com (m12-11.163.com [220.181.12.11])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KG4ZiJ024610
+	for <wei@ccert.edu.cn>; Wed, 21 Sep 2005 12:09:22 +0800 (CST)
+Message-ID: <200509210004.j8KG4ZiJ024610@spam-gw.ccert.edu.cn>
+Received: from jn556000 (unknown [218.90.189.12])
+	by smtp12 (Coremail) with SMTP id sLt_sb01MEMy81oE.1
+	for <wei@ccert.edu.cn>; Wed, 21 Sep 2005 12:20:39 +0800 (CST)
+X-Originating-IP: [218.90.189.12]
+Date: Wed, 21 Sep 2005 12:20:33 +0800
+From: "ning" <ning@163.com>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7PPxrhdtee7+i+158GmtefX0y+7+tC1yei8xrmks8zKpqOoyrXPsNLUvLDV/cq91rDOu6Op
+ICjXqtQ=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+【 以下文字转载自 Graduate 讨论区 】
+发信人: IMzyp (睡觉中――趴在墙角的猪), 信区: Graduate
+标  题: [诚聘]电机/电力电子/机械设计工程师（实习以及正式职位） (转

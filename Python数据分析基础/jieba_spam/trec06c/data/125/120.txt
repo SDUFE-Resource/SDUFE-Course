@@ -1,0 +1,43 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C5ZHks008458
+	for <zeng@ccert.edu.cn>; Tue, 13 Sep 2005 11:27:09 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8C50nS32226
+	for <zeng@ccert.edu.cn>; Tue, 13 Sep 2005 10:52:22 +0800
+Message-Id: <200509120500.j8C50nS32226@mail.cert.org.cn>
+From: "yang" <yang@cert.org.cn>
+To: zeng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: CNCERT/CC=CD=F8=C2=E7=B0=B2=C8=AB=D3=A6=BC=B1=BC=BC=CA=F5=B9=AB=BF=AA=BF=CE=CD=A8=D6=AA?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 13 Sep 2005 11:36:41 +0800
+
+重要的是如果不补缴这几个月的保险到底有什么后果或者麻烦，
+如果什么都没有，不交也罢。
+     标  题: Re: 请问HUKOU大哥关于保险缴纳间断的问题
+     
+     比较简单的办法是
+     如果新单位愿意给你帮忙
+     你可以在新单位给你续保险的时候
+     要求新单位不是从11月开始续
+     而是从8月开始续
+     按照劳动局的规定，每一次中断后，再续保险的话
+     又一次机会把中断期间的保险补缴
+     如果你的新单位这次不给你往前补
+     那你8-10月的保险原则上就再也没有机会补缴了
+     可以试试看和公司协商
+     如果公司愿意给你交，你自己出这3个月的钱给新公司就行了
+     
+     : 本人8月离职，档案放入人才，但是从8月起未缴纳各种保险。
+     : 新工作10月底入职，新单位会在入职几个月内办理缴纳手续。但是8～10三个月就为间断期，不知道对于养老保险、医疗保险、失业保险什么的，间断是否会有影响？我知道如果     长期放人才，可以在人才交，但我这种档案只放1～2个月的好像很麻烦。一般大家换工作期间，保险都是怎么交的呢？非常感谢！
+     
+     
+     
+     --
+     相关政策咨询\\办理电话:13381067060
+     早9:00点至晚9:00点哦~~~~~
+     

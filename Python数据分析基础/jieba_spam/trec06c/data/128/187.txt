@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <wei@ccert.edu.cn>; Wed, 14 Sep 2005 03:10:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <wei@ccert.edu.cn>; Wed, 14 Sep 2005 03:22:49 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 19:05:22 -0000
+From: "zeng" <zeng@mail.tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Cc: <ma@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgWzIxyNXPws7nXbPnzsTH+KOsv8nT67PCvai5prXI1qrD+9f3vNK8+8PmttS7sLXEu+EgKNeq
+1Ngp?=
+Date: Wed, 14 Sep 2005 03:22:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+中国环境文化促进会环境文学委员会换届大会换届选举暨环境文化与和谐社会的研讨会
+    届时与会的将有十多位知名作家，如全国作家协会副会长陈建功、徐刚、何建明等。
+同学可以与这些作家进行对话和交流。
+    若有兴趣的，请于14日下午三点之前将姓名、性别、人名、专业、联系方式（仅限于清华同学）告诉我们，我们有4-5个与会名额，呵呵。
+时间：2005年 9月 21日下午1点半
+地点：崇文区天坛饭店
+联系人：吴同学，wgy@mails.tsinghua.edu.cn
+                                                          清华大学学生绿色协会
+                                                                9月14日

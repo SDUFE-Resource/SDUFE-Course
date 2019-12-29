@@ -1,0 +1,35 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <gu@ccert.edu.cn>; Sun, 25 Sep 2005 01:32:38 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Sat, 24 Sep 2005 17:40:21 -0000
+From: "guan" <guan@mails.tsinghua.edu.cn>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S0rLLtcG9vuTN9dvz?=
+Date: Sun, 25 Sep 2005 01:44:17 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+     标  题: 我也说两句王垠
+     
+     1。有缺点的制度和环境谁都可以指责，错的就是错的，和指责人是不是很牛，有没有人格缺点都没有关系。
+要破更要立，你指责批判，在没有提出合理建议的时候，是没有什么实际意义的
+     
+     2。paper应该是研究的自然结果，是表达自己想法的必要形式，而不应该成为评判的唯一标准，更不是为了发paper而发paper
+你要了解，现在的科研是国家型的科研，不是个人兴趣的科研。科研的成本是很高的，因此不可能回到个人科学的时代进行独立研究。要获得科研的下一步资助，发文章是一个很重要的步骤。
+     
+     3.有很多研究生学会的不是如何提取别人文章的精髓，而是抓住细节不放，恶意攻击
+那么多人，都是从自己的观点来看问题，没有什么好说的
+     
+     
+     --
+     

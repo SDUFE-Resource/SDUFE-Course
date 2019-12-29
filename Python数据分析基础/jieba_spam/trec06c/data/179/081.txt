@@ -1,0 +1,35 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <lian@ccert.edu.cn>; Sat, 24 Sep 2005 17:02:42 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 16:51:42 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 24 Sep 2005 16:51:41 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 24 Sep 2005 16:51:41 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 08:51:41 -0000
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+vOytK7uPbT0LnYt7+y+taktcTOyszio6zQu9C7wcsgKNeq1Ngp?=
+Date: Sat, 24 Sep 2005 17:14:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+【 以下文字转载自 RealEstate 讨论区 】
+发信人: snakeman (snake), 信区: RealEstate
+标  题: 请问一个有关房产证的问题，谢谢了
+如果夫妻双方中的某一人在婚前贷款买房了，
+购房者写的也是一个人的名字，
+婚后两个人一起供房，
+另一方希望能够在房产证中加入自己的名字，
+请问这应该如何办理，
+由于房屋购买时间不长，房产证还没有办理下来，
+请问现在应该去哪里变更房屋所有者的名单，
+还是现在也没有办法办理，
+只能等到办房产证的时候更改呢，
+无比感谢大家！

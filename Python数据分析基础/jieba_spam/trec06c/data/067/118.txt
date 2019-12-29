@@ -1,0 +1,46 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81DNZ1D022628
+	for <rao@ccert.edu.cn>; Thu, 1 Sep 2005 21:48:14 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j81DLued024767
+	for <rao@ccert.edu.cn>; Thu, 1 Sep 2005 21:47:00 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j81DLpFM024763
+	for <rao@ccert.edu.cn>; Thu, 1 Sep 2005 21:46:32 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Message-Id: <200509011321.j81DLpFM024763@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodof4b2088bd2) (sxx03@202.112.4.222)
+	by localhost with SMTP; Thu, 1 Sep 2005 13:35:43 -0000
+From: =?gb2312?B?ydvz4+q/?= <mei@mails.tsinghua.edu.cn>
+To: rao@ccert.edu.cn
+Date: Thu, 1 Sep 2005 21:59:03 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWaTfmPRuCxvfElTl6VznZ6NS+/XQUq0wYg
+In-Reply-To: <323308814.29508@mails.tsinghua.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j81DLpFM024763
+Subject: =?gb2312?B?ofEg0KHFrrKpyr+xz9K11PXDtLDs?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+说我小，首先二十五六岁，外表看起来也不大；其次不知名的大学，也没啥重要论文发表，所以小博士，还是女博士。
+开始是被送到北京联合培养，现在要毕业了，学校对文章没什么要求，我也悠悠荡荡的混过来了。
+现在想申请出国做博士后，估计以我的实力希望渺茫；在北京找工作呢？也不清楚。
+其实还是对自己的要求不高，只要能出去，随便什么都可以吧；工作呢，只要做着顺心些，我也就满足了。最主要的，我不能毕业了就在家呆着吧。～～～～不能在家呆着，会有很多烦恼。
+朋友们帮我出出主意吧，或者介绍一下怎么申请博士后，或者说说如何找工作才好。对了，我是生物学专业，植物基因工程方向的。但是生物学前沿，比如生物信息学方面的，我几乎等于不懂。就是了解组织培养，转基因啊，和基础的分子生物学什么的。
+是不是学的很差～

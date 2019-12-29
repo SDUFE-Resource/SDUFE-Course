@@ -1,0 +1,21 @@
+Received: from mail3.1stchina.net ([210.51.25.177])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86A9MLj026561
+	for <zeng@ccert.edu.cn>; Thu, 8 Sep 2005 07:53:35 +0800 (CST)
+Received: from image (unknown [218.1.94.5])
+	by mail3.1stchina.net (Ksemail Mail Server Ver 5.1 Build 050318 (OS-Linux Database-MySQL) ESMTP Ready. http://www.ksemail.com/) with ESMTP id AE29852C231
+	for <zeng@ccert.edu.cn>; Thu, 8 Sep 2005 08:15:07 +0800 (CST)
+Date: Thu, 8 Sep 2005 08:05:28 +0800
+From: "rao" <rao@aryasec.com>
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTHuPbB7s7S0MS2r7XExNDX06Oo16qjqQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050906103056.AE29852C231@mail3.1stchina.net>
+
+无聊
+有点害羞，但曾在分别的街头，大声说我爱你。
+同我去庙里求签，轻轻捉住我的手一同跪下。
+从来不迟到

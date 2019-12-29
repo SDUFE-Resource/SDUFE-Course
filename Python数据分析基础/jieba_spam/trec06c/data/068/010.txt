@@ -1,0 +1,58 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <peng@ccert.edu.cn>; Fri, 2 Sep 2005 00:09:23 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Fri, 2 Sep 2005 00:40:52 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Fri, 2 Sep 2005 00:21:57 +0800
+From: "liu" <liu@mail.nisac.gov.cn>
+Reply-To: liu@mail.nisac.gov.cn
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7mruOZdILnY09qxvtW+v6rNqMirx/LNqMrWu/rIz9akuabE3LXEuau45ijXqrzEKSAo16rU
+2Ck=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+来  源: 59.66.217.30 
+【 以下文字转载自 foolsnoopy 的信箱 】
+发信人: SYS01 (SYSOP), 信区: sysop
+标  题: [公告] 关于本站开通全球通手机认证功能的公告
+    从即日起，本站开通全球通手机认证功能。
+    凡是通过全球通手机认证的ID，可以获得与通过校外可信邮箱认证相
+同的访问权限。
+    由于需要验证使用者的真实身份，目前开通的短信认证只限于全球通
+手机，验证过程不收取费用。
+    因手机认证功能刚刚开发完成，目前仍可能存在一些问题或bug，欢迎
+用户给我们及时反馈。如功能不完善，临时管理组视情况可能会做出适当
+调整。由此带来的不便之处，敬请谅解。
+                                 BBS水木清华站站务临时管理组
+                                         2005年9月1日
+附：BBS水木清华站认证流程
+1、手机认证与填写注册单相对独立，用户不需要修改注册单信息。
+2、手机认证后将获得更多访问权限，用户可根据需要自主选择。
+3、目前仅限于真实资料可信的全球通手机，验证过程中不收取费用。
+4、认证步骤
+   新的个人工具箱里增加了一个选项：M) 手机认证管理
+   在主选单通过　I) 个人工具箱　-&gt; M) 手机认证管理
+   进入手机认证管理界面，可以看到目前身份注册的手机号以及相应的身份
+状态。
+    您的代号          : [***]
+    您当前注册的手机为: []    尚未通过验证
+    请选择 (0) 结束 (1)修改手机 (2)发送激活码 (3)激活认证 ==&gt; 
+    修改手机号后，一个随机产生的激活码就以短信形式发送到相应的手机中。
+    查看后获得激活码。认证过程中可能需要一些时间，请您耐心等待。
+    再次进入手机认证管理界面，看到：
+    您的代号          : [***]
+    您当前注册的手机为: []  验证中
+    请选择 (0) 结束 (1)修改手机 (2)发送激活码 (3)激活认证 ==&gt; 
+    选择3则填写收到的激活码。
+    如果激活码短信未收到，可选择2重新发送（一小时后方可重新发送）。
+    如手机号不对，选择1更改手机。
+    验证后，您当前的身份状态为: [通过验证]
+5、目前通过手机认证的，可以获得与通过校外可信邮箱认证相同的访问权限。

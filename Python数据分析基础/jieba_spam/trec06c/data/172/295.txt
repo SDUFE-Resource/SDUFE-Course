@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M5vbgt005692
+	for <lai@ccert.edu.cn>; Fri, 23 Sep 2005 13:35:48 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8M5qUEM011899
+	for <lai@ccert.edu.cn>; Fri, 23 Sep 2005 13:31:38 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8M5qPKG011895
+	for <lai@ccert.edu.cn>; Fri, 23 Sep 2005 13:30:39 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 19856 invoked by uid 512); Fri, 23 Sep 2005 05:39:02 -0000
+Message-ID: <20050922060051.19855.qmail@stu.ee.tsinghua.edu.cn>
+From: zheng@stu.ee.tsinghua.edu.cn
+To: lai@ccert.edu.cn
+Date: Fri, 23 Sep 2005 13:39:02 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEg1dDGuMr90ae9zNSxuLC5+s3i1rS9zA==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+从事工作：在亚洲某发展中国家的公立学院讲授数学课程，每星期15课时。
+起码资格：必需从一所被认可的高校获得数学专业硕士学位或者拥有至少15学分数学课
+程的教育专业硕士学位，并有两年在大专院校从事数学教学经验。最好有两年在海外生活经
+历。
+工资待遇：年薪约16,000-18,000美金，外加住房补贴、医疗保险和赴职机票等。
+有意者速将履历(中、英文各1份，附照)、成绩单(中、英文各1份)、推荐信(英文3封)一并
+发送至hsugp@tom.com，截止日期为9月27日。经初审淘汰后，入选的3-5位应聘者将收到面试通知，最终由评审委员会确定被录用的数学教员1名。

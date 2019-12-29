@@ -1,0 +1,54 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M5vbgt005692
+	for <cen@ccert.edu.cn>; Fri, 23 Sep 2005 05:45:08 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8M5qUEM011899
+	for <cen@ccert.edu.cn>; Fri, 23 Sep 2005 05:40:58 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8M5qPKG011895
+	for <cen@ccert.edu.cn>; Fri, 23 Sep 2005 05:39:59 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 19856 invoked by uid 512); Thu, 22 Sep 2005 21:48:22 -0000
+Message-ID: <20050922060051.19855.qmail@stu.ee.tsinghua.edu.cn>
+From: yi@stu.ee.tsinghua.edu.cn
+To: cen@ccert.edu.cn
+Date: Fri, 23 Sep 2005 05:48:22 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEgobDM+sDPtPOhsbjEuO+yu8Tc1Nm07qGwzrHK0LOhvq28w6GxtcSztXp6?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+http://news.xinhuanet.com/fortune/2005-09/23/content_3530684.htm
+   看来，“铁老大”要搭“市场经济”的车了。 
+    如果有人说“铁老大”不需要市场经济，它绝对会跟你急。每年“春运涨价”可是最
+符合市场经济特性的，“春运”人流量大，车票需求必然旺盛，而供给又是有限度的。在
+需求旺盛的背景下，要让买者愿意而且能够购买的量与卖者愿意而且能够出售的量之间找
+到均衡，市场里那只“看不见的手”必须高抬几分，用来调节供需和弥补淡季的亏损，这
+是典型的市场经济做法嘛！看来垄断行业都很爱“市场经济”，因为这个“市场经济”保
+证了行业的既得利益，甚至还保证了少数“有权人”的“灰色利益”。 
+    但“铁老大”们也许不知道（知道了可能也不说），它曾经喜欢的“市场经济”是“
+伪市场经济”。因为经济学理论认为，如果一家企业控制了某种产品和服务的整个市场，
+而且这种产品和服务没有相近替代品的市场，以至于一个企业就是一个行业、一个市场，
+那么这种市场就是“垄断市场”。而市场机制的作用是需要通过竞争来发生的，当垄断力
+量阻碍了竞争时，市场机制无法正常发生作用，就会产生市场失灵。在这种状态下垄断产
+品、服务的价格并非由供求自发调节，也就不能反映市场的真实情况，那只“看不见的手
+”这时候就是有毛病的，它的“胳膊肘儿老爱往里拐”，吃亏的永远是普通百姓。 
+    我想，“垄断老大”们的“伪市场经济”不会也不能一直维持下去。从垄断行业内部
+看，缺乏竞争和活力的垄断的结果必然是难以建立有效的监督与激励机制，最终将使行业
+和企业效率低下、亏损严重、个别权力“寻租”并腐败，那时候这老大的日子可就没这么
+好过。而政府和社会也不能容忍“伪市场经济”继续下去，国有资本投资的产业绝不能成
+为谋取部门和个人利益的“私人领地”，解除行政审批对垄断行业的准入限制，引入民资
+改制，加速内部改革，也许是可以探索的好办法。（南通　顾一冰） 

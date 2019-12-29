@@ -1,0 +1,29 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <han@ccert.edu.cn>; Thu, 15 Sep 2005 04:27:58 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <han@ccert.edu.cn>; Thu, 15 Sep 2005 04:59:06 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Thu, 15 Sep 2005 04:39:13 +0800
+From: "hua" <hua@mail.nisac.gov.cn>
+To: han@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO457TzvePH673MvLi1wNDFusXM4iyyorOr0umzycGi0MW6xdPrz7XNs87KzOLM1sLbx/g=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+问题一:
+  为使带通信号以尽量小的群延迟无失真的通过理想带通系统,则要求其带内幅频特性为常数,相频为过在频的点的负斜率直线,.该结论与信号的无失真传输(幅频常数,相频过零点直线)不一致.二者是否矛盾?怎样推倒给出详细解释?
+郑的书上没有呀? 我也看不出来,恳请各位解答
+问题二
+判断
+1.不含直流分量的信号的希尔拨特变换是全通系统?
+2.两个最小相移系统的级联一定是最小相移系统?
+3希尔伯特变换的等价系统为全通系统?
+4延迟为T的连续时间线形时不变系统是最小相移系统?
+5全通系统是不可实现系统?
+说出你们的理由?

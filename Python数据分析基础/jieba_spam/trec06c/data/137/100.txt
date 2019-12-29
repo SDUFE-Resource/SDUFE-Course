@@ -1,0 +1,54 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <wen@ccert.edu.cn>; Thu, 15 Sep 2005 20:51:27 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <wen@ccert.edu.cn>; Thu, 15 Sep 2005 21:03:22 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 12:45:39 -0000
+From: "yu" <yu@mail.tsinghua.edu.cn>
+To: wen@ccert.edu.cn
+Cc: <xing@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILP2ufqhorn6xNq2wbKpoaK7ucrHuaTX96OsvvHU8bCi?=
+Date: Thu, 15 Sep 2005 21:03:17 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+  用功一年，整几篇论文，准备博士毕业
+  然后，找工作、出国都会好办
+  否则，即使硕毕业成功，这种背景，也很难找到好工作
+     我是直博，刚研三，力学，做计算，
+     特殊原因，据老师说我的情况可以转硕
+     打算这学期申请出国，并找工作
+     本科GPA84，硕士80，无论文
+     机考G 660/790/700，T 630+5
+     老板牛人，退休，不愿意推荐学生，我都荒废了专业，估计更不可能
+     经家人一顿批，才发现真的没有什么方面很突出，
+     他们让我继续安下心来读博士，读完做什么都不耽误
+     实际包括转硕、工作、出国，我都都没有把握，实在担心后来什么都泡汤
+     找工作还真不好说能遇到满意的，
+     出国没科研背景，是不是也悬的很，而且也不知是不是就比在国内好
+     反正不太好的学校我就不想去，关键还要再读那么多年
+     我考虑更多的还是将来的出路，当然不仅是眼下的工作或钱
+     但长远的事业想得还不是很通，我的情况，如何走才可能更有前景
+     我是打算先进公司，不做技术。做些年，再看情况，或许会从政什么的
+     其实我不喜欢这个专业，也不想将来做科研或学术，进科研院所
+     这边博士毕业也很难，而且读完都30了，还是什么都没有
+     家境不好，想想不久的将来那些现实的问题，
+     又郁闷，又急
+     因为实在是郁闷当初读博士的选择
+     所以这几年很多时间学了别的，经管类，
+     结果专业也荒废了
+     现在发现什么都是一般般
+     没有优势了
+     家人担心我这样下去会一事无成
+     我在想我这样的情况，从现状和长远考虑
+     怎样选择才会更适合
+     真的是面临人生重大决择，不能再错了
+     请大侠指教！
+     感激之至！！！

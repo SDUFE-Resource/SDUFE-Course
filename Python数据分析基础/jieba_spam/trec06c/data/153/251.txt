@@ -1,0 +1,54 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <cao@ccert.edu.cn>; Mon, 19 Sep 2005 04:13:12 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Sun, 18 Sep 2005 20:24:13 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Sun, 18 Sep 2005 20:24:13 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <cao@ccert.edu.cn>; Sun, 18 Sep 2005 13:35:10 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <cao@ccert.edu.cn>; Sun, 18 Sep 2005 15:32:36 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 04:24:00 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <wu@motorola.com>
+To: cao@ccert.edu.cn
+Cc: shen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgudjT2tfp1q8wNsTq06a97LHP0rXJ+rLOvNPC6srP1tC5+taw0rXG9Lq9yNW77ravtcTNqNaq?=
+Date: Mon, 19 Sep 2005 04:23:34 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+应玛氏中国（Mars China）的委托及中华英才网的邀请，即日起就业中心开始组织06年应届毕业生参加“玛氏中国职业启航日”活动，现将相关事宜通知如下：
+一、活动安排：
+1.9月26、28日分两批前往美国玛氏公司位于北京市怀柔区雁栖工业开发区的玛氏中国总部。早上7点在学校东门集合，乘坐班车出发，晚16:30从怀柔返回，18:30到达学校。中华英才网将组织协调参与学生的交通及餐饮安排，并保证参与活动的学生安全生
+2. 活动的主要内容包括：
+1)      玛氏中国简介；
+2)      参观玛氏中国巧克力糖果工厂、宠物食品工厂；
+3)      玛氏中国综合管理培训生项目介绍；
+4)      技术（生产、研发、工程部）经理座谈会：理工科毕业生如何在玛氏快速发展成为职业经理人
+3. 本次活动的参与者包括：
+玛氏中国营运总监、玛氏中国零食工厂厂长、宠物工厂厂长、生产部经理、研发部经理、工程部经理、人事部校园招聘经理、校园招聘项目主管等
+ 
+二、参加同学要求
+1.2006年毕业的在读本科生、硕士研究生、博士研究生
+2.有意在跨国公司谋求职业发展
+3.专业要求：9月26日限45人（机械工程类、电子工程类、电子工程与应用电子技术系、化学工程系、材料科学与工程系、化学系）9月28日限45人（材料科学类、生物工程类、化学。化学工程与工艺、机械工程系、工业工程系、工程力学系、自动化系）
+ 
+三、报名工作
+1.报名时间：从9月19日开始，截至到9月23日上午12：00
+2.请携带学生证/研究生证在正常上班时间到就业中心填写报名信息。联系人：高然 62784625
+3.由于各专业接收名额非常有限，总人数为90人。就业中心将按照先报先得的原则。欢迎同学踊跃报名.
+4.就业中心将于9月23日将报名名单反馈给对方单位，经过对方核对后，就业中心将在网站公布参加活动同学名单。参加活动的同学，请务必于规定时间，在东门集合上车，过时不候。
+请大家互相通知！谢谢
+清华大学就业中心
+2005-9-19

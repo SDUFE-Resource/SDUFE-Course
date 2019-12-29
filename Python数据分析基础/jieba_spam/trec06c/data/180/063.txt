@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <pan@ccert.edu.cn>; Sat, 24 Sep 2005 21:03:15 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <pan@ccert.edu.cn>; Sat, 24 Sep 2005 21:14:36 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 12:51:36 -0000
+From: "bi" <bi@mail.tsinghua.edu.cn>
+To: pan@ccert.edu.cn
+Cc: <ning@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILW8yqa1xNDEyfk=?=
+Date: Sat, 24 Sep 2005 21:14:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+这是真的么
+每个月的基本生活费似乎是国家发的吧
+     看了大家对王同学的评论，太过于狭碍了，人和人之间是相互联系得。我想大家不知道了解不了解清华博导的处境。我以一个学生得角度来说一下导师得感受。
+      
+     清华的博导压力是很大的，清华的博导目前能在学校生存下去（40岁左右）靠有没有钱。有钱才能交得起试验室租金（按面积算）；交得起水电费；才敢收博士（负责科研费用和生活费，如今博士基金也得导师出）；才敢招博士后（好像得给学校交两万，还得给生活费和科研经费）。一句话有经费你才能立足。

@@ -1,0 +1,29 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <bai@ccert.edu.cn>; Thu, 29 Sep 2005 05:28:34 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 21:39:44 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 05:39:44 CST
+Date: Thu, 29 Sep 2005 05:39:44 +0800 (CST)
+From: liang ming <xue@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILTzvNK5+sfs09DKssO0sLLFxdG9o78=?=
+To: bai@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+唉，这也是没办法啊
+我们就要没有地方住了，而且还要可能要经常搬家
+我和她爸爸都很忙，本来想接她姥姥老爷过来的，可没有地方住就很麻烦
+我们都没有时间照顾孩子，她奶奶一个人又照顾不过来
+不过送回老家去，还有她小姑在，可以一起照顾雯雯
+她奶奶也可以休息休息
+而且雯雯现在需要的主要是吃饭和睡觉，别的她还不懂
+等过半年她开始学说话、学走路了再把她接回来，那个时候我工作也定了
+论文也写的差不多了，有时间和雯雯在一起玩了
+     啊，留在那里吗？！只要我在国内，就不会把辰辰送到他奶奶家里去。

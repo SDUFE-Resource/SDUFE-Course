@@ -1,0 +1,20 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R2Ql7k015088
+	for <ling@ccert.edu.cn>; Thu, 29 Sep 2005 12:55:36 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8R2U2q21285;
+	Thu, 29 Sep 2005 12:58:51 +0800
+Message-Id: <200509270230.j8R2U2q21285@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Thu, 29 Sep 2005 04:58:51 UT
+To: ling@ccert.edu.cn
+From: yang@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzSzvHKwtfcyMPO0sfp0Pe1zcLk?=
+
+好好读书，努力向钱！！！
+     感觉我家和lg家生活方式完全不同，有时候真的很难做。
+     lg家比较简单,因为公婆勤俭要强，善于筹划，很让人省心。lg兄弟3人都大学毕业，两个弟弟在家乡的小城，工作还好，1.5-2k每月。只是小城市，没有特别的背景好像很难有大的机会。好在他们继承了公婆吃苦耐劳的精神，工作还比较稳定。lg工作的头三年给家里存了6w,加上两弟

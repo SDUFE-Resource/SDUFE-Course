@@ -1,0 +1,51 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8542Gjk014940
+	for <su@ccert.edu.cn>; Tue, 6 Sep 2005 12:20:41 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j853xQ7i048852
+	for <su@ccert.edu.cn>; Tue, 6 Sep 2005 12:18:55 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j853xNkR048838
+	for <su@ccert.edu.cn>; Tue, 6 Sep 2005 12:17:48 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050359.j853xNkR048838@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Tue, 6 Sep 2005 04:06:54 -0000
+Date: Tue, 6 Sep 2005 12:27:45 +0800
+From: "cao" <cao@mails.tsinghua.edu.cn>
+To: su@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j853xNkR048838
+Subject: =?gb2312?B?UmU6IM7K0ru1wNX+1s7M4qOos8LPyL/8MjAwMMnPtcSjqQ==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+兄弟分析得有道理。
+不过好像是描述了一个系统的动态过程。给了初值，得到输出……
+如果看静态的话，
+C1＝80 V1=20 M1=20
+C2=70 V2=30 M2=30
+平均利润率＝（20/100+30/100）/2=0.25
+平均利润＝25
+那么部门1有机构成高的获得平均利润量小于本部门的剩余价值了。
+当然，红包上说“不能简单的平均”（估计就是指代数平均），可这也是一种可能。
+如果按照抬杠的说法，出现个部门3的利润率更高，那资本都向部门3输出，那再作比较就更不一定了。
+            
+     C1=80 V2=20
+     C2=70 V2=30
+     当剩余价值率一样的话：

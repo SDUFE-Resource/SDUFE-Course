@@ -1,0 +1,33 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <yana@ccert.edu.cn>; Sun, 25 Sep 2005 01:20:11 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Sat, 24 Sep 2005 17:27:54 -0000
+From: "kang" <kang@mails.tsinghua.edu.cn>
+To: yana@ccert.edu.cn
+Subject: =?gb2312?B?ofEg19u6z9bOwO3Kp87v1dDB7KGho6g41MKjrTnUws60y/jX1NDQs7WjqQ==?=
+Date: Sun, 25 Sep 2005 01:31:50 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+物品名称：        发现地点：                特征：
+自行车　　　      紫荆10楼下　　　　        26红色、黑色相间
+自行车            紫荆12楼南1          　　28黑色　                           
+自行车            紫荆4楼 北二门   　　  　 26女式蓝白                         
+自行车            紫荆桃李园门口          　26男式黑色
+自行车            紫荆7楼 下                24女式天蓝         
+自行车            紫荆11楼北四门            26黑色     
+自行车            紫荆5楼南6门        　　　26银色
+ 
+请携带有效证件、发票、自行车钥匙前来领取。详情请拨打62783996、51778110
+认领时间：早8：00－下午16：00
+认领地点：老区17号楼一层综合治理办公室

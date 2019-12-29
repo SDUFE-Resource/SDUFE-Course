@@ -1,0 +1,59 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A7NDlm028500
+	for <hu@ccert.edu.cn>; Sun, 11 Sep 2005 12:42:04 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A7KBdR092194
+	for <hu@ccert.edu.cn>; Sun, 11 Sep 2005 12:39:37 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A7K7ld092190
+	for <hu@ccert.edu.cn>; Sun, 11 Sep 2005 12:38:59 +0800 (CST)
+	(envelope-from sxh@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 12:28:05 +0800
+Message-ID: <326336154.01040@mails.tsinghua.edu.cn>
+Received: from 59.66.122.238 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 11 Sep 2005 12:28:05 +0800
+From: "mei" <mei@mails.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Date: Sun, 11 Sep 2005 12:28:05 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgx+W7qrTz0aexqL+8teO5q7jm?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: sxh <mei@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+1. 2006年全国硕士研究生招生网上报名网址：公众网 http://www.chinayz.com.cn/；教育网 http://www.chinayz.edu.cn/。网上报名时间为：2005年10月10日―31日每天8：00―23：00。逾期不再补报，也不得再修改报名信息。
+在报名时间内，除“报考点”、“报考单位”、“考试方式”等信息外，其他已提交的网报信息，考生仍可通过输入报名号和密码登录网报系统，进行修改。但“报考点”、“报考单位”、“考试方式”一经确认提交，将不允许修改，请考生慎重选择。
+2. 所有报考我校MBA的考生、所有报考我校美术学院的考生、所有参加我校单独考试(含强军计划）的考生以及北京地区报考我校的统考生、北京地区报考我校法律硕士联考考生必须在清华大学参加初试，在全国网上报名系统须选择“北京”“清华大学（1103）”报考点。
+3. 已被我校接收录取的“推荐免试”直硕生中，北京地区应届本科毕业生在全国网上报名系统中必须选择“北京”“清华大学（1103）”报考点；京外地区应届本科毕业生按照现本科所在地省级招办有关规定选择报考点。
+4. 京外地区招生单位免试接收录取的清华大学应届本科毕业生，可以选择“北京”“清华大学（1103）”报考点；北京地区清华大学以外招生单位免试接收的清华大学应届本科毕业生，选择接收单位（报考单位）指定的报考点进行网上报名。
+5. 北京地区报考京外招生单位建筑学、城市规划等，有超过3小时考试科目专业的统考考生，必须选择“1103清华大学”作为报考点。
+北京地区报考京外招生单位（不含中科院系统和中国科技大学）“推荐免试”、“全国统考”（不含“MBA联考”）、“法律硕士联考”的考生可以选择清华大学（1103）或北京市招办规定的其他报考点参加初试。
+6. 清华大学报考点不设确认和照相现场，即所有选择清华大学报考点的考生11月10－14日不需到清华大学进行现场确认和照相。但考生必需在全国研究生网上报名系统支付报名费，统考、法律硕士联考、单考、推荐免试：150元/人；MBA联考：200元/人。在网上交费成功24小时后，必须按照以下要求完成报名手续：
+（1）登录清华大学网上报名系统打印《2006年清华大学硕士研究生报名信息表》（报考京外招生单位考生打印《报考攻读硕士学位研究生登记表》）。网址为：
+http://tsinghua.cpge.cn/（教育网）
+http://tsinghua.thcic.cn（公众网）
+　
+（2）点击“用户登录”，初次登录用户名为教育部网上报名系统生成的报名号，密码为考生身份证（军官证）号，登录成功后建议修改密码，以免被他人窃取。请考生务必牢记个人的报名号及密码，我校不提供密码查询服务。
+（3）登录成功后，考生可以查询报考信息，并打印《2006年清华大学硕士研究生报名信息表》（报考京外招生单位考生打印《报考攻读硕士学位研究生登记表》）。请不要采取任何形式修改该表已经确认的栏目，一经查出，后果自负。《2006年清华大学硕士研究生报名信息表》（报考京外招生单位考生为《报考攻读硕士学位研究生登记表》）必须本人签字，无须考生人事所在单位盖章。
+（4）报名者务必于2005年11月7日之前将《2006年清华大学硕士研究生报名信息表》（报考京外招生单位考生提交《报考攻读硕士学位研究生登记表》）粘贴好考生本人当月免冠正面一寸黑白照片或彩色白底照片后寄达/送达清华大学研究生招生办公室（邮政编码100084），11月10～14日可登录清华大学网上报名系统查询本人照片，有本人照片即完成报名程序。
+（5）报考清华大学的考生在12月中旬后到我校研究生网上报名系统自行下载打印准考证（推荐免试生不必打印）。准考证不作为具有符合报名资格的证明。具有重复身份报考的考生将只允许一个报名号打印准考证。
+报考京外招生单位考生的准考证由招生单位发放。
+在清华大学参加初试的考生须凭本人准考证、身份证或军官证（其他证件无效）在我校参加2006年研究生入学考试。
+7. 重要说明
+（1）报考京内其它招生单位的考生，应选择报考单位设置的报考点，请勿选择清华大学报考点。
+（2）报考京外招生单位，且报考“单独考试”或“MBA联考”的考生，请选择报考单位所在地省级招办公告指定的报考点，请勿选择清华大学报考点。
+（3）报考中国科学院系统（京内外各院所，不含“MBA联考”）的考生，必须选择 1188中国科学院研究生院招生办公室（海淀区中关村东路80号中科院中关村青年公寓园区６号楼）作为报考点。
+（4）未按公告要求，错选报考点，考生网报信息无效，网上支付的报考费不退；错报招生单位的考生，亦需在10月31日前重新报名、缴费，逾期亦不再补报。

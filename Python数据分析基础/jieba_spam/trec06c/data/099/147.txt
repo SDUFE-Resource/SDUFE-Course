@@ -1,0 +1,29 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <xue@ccert.edu.cn>; Thu, 8 Sep 2005 00:09:22 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Wed, 7 Sep 2005 16:21:37 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Wed, 7 Sep 2005 16:21:37 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Wed, 7 Sep 2005 16:21:37 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "wang" <wang@iim.ac.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx7/B0r2o0um94smix+W7qsS/x7C1xL27zai/xg==?=
+Date: Thu, 8 Sep 2005 00:21:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+理由如下：
+1.花上百万建起的交通系统成了对在校教工和外来车辆收钱的工具（每天2元或每次2元），假设按现清华有1000辆机动车算（包括近百辆黑车），每年净收72万，收上的钱谁知道干什了；交通科做起生意来了，以后是不是要对所有自行车收费呢；
+2.花上百万建起的交通系统不但没有控制车辆而且造成处处堵塞，特别是东西主干道，在上班期间更是人车挣道，险象环生，一个小小的西门之处设立三道拦车闸门，也只有清华有此大手笔；
+3.交通开放路线极不合理，首先本来可直通的道路，由于到处设卡，车只有在校园内游荡，不但浪费能源（石油），而且人为造成车流的集中，增加车在校园停留时间；其次主干道，特别是学校食堂等人流集中的地方对机动车开放，人车抢道，容易出事故，如十食堂今天一辆工程小卡车就飞快驶过，后面钢管打倒一女生，卡车逃跑；再次很多该堵的地方不堵，不该堵的地方又是卡又是堵，在二校门也是经常出现人车相碰事故；
+4.交通标识不清，外来车辆进来容易，出去难，目前到处修路，换管子，根本不知道哪里堵，哪里开放；
+5.保安及其牛B，只要不交钱和办花时间的手续，乘坐外面车辆进校的老师和出去实习的学生都别想从除西门外的其它门近来，不管后面堵多长，而外校人，只要交钱买卡就能进，另外象北门不让清华老师的车进，却让黑车自由出入（当然校办的车除外）；
+欢迎大家补充！提供具体事例！

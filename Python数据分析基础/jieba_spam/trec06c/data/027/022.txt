@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <rao@ccert.edu.cn>; Mon, 22 Aug 2005 18:24:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <rao@ccert.edu.cn>; Mon, 22 Aug 2005 18:38:08 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 10:32:45 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "mei" <mei@mail.tsinghua.edu.cn>
+To: rao@ccert.edu.cn
+Cc: "tunet" <xia@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs8/GuKG2uqPN4s2oobfCw9POtNTK6bHgvK0xMMP7o6E=?=
+Date: Mon, 22 Aug 2005 18:34:31 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    有一份这样的工作等着你：通过这份工作，你有机会去你想去的地方，实现环游世界的
+梦想；通过你的工作，帮助那些在路上的人们；通过我们共同的努力，让《海外通书系
+》成为中国人出国旅游、学习和生活的圣经。
+    
+    由清华校友创办的海外通旅行网www.havata.com，目前国内最领先的出境旅游电子
+商务网站，业务涉及出国商务服务的各个方面，海外通博客是行者体验和交流的天堂。
+    
+    公司的业务目前正在向平面媒体领域延伸，对于我们来说，人才永远是实现目标和
+保有竞争力的关键因素。所以海外通期待你的加盟：现拟招聘在校编辑１０名。
+    要求:
+    1.热爱旅游,人文,历史等
+    2.文笔优美
+    3.英文好 
+    
+    联系方式：请将简历发送至：zhaopin@havata.com 

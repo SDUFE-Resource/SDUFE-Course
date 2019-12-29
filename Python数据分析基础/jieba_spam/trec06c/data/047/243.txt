@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <peng@ccert.edu.cn>; Sat, 27 Aug 2005 11:36:39 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 11:54:59 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 11:54:59 +0800
+Date: Sat, 27 Aug 2005 11:54:59 +0800
+From: ke@cernet.com
+Subject: =?gb2312?B?UmU6ILT3xLfA1S2/y8Czy7nA1UFNQVDD5srUvq25/aOoNC3Pws7no6k=?=
+To: peng@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+你已经很优秀了
+     下午部分-__-
+     teamwork: 给好多工具，搭个东西，需要经历桌子一头到另一头，延迟2秒，发出一个声音信号。要做出两个方案。
+     这里就是看大家表现了。我一开始提出两个发声方案，一个被采纳一个被忽视了，我自己也没坚持。第一个方案成功后，大家开始投入大量精力在搭建多米诺骨牌上，我觉得可以采用其他方式，发声方案也可以从多米诺骨牌撞铃铛改为球撞玻璃瓶，或者换个大小更合适的球。可惜没有坚持。后面feedback说，我总是ready to help，但认为对的一定要坚持到底不要被ignore了就不提了。。这点我也确实很遗憾，刚做完teamwork就开始遗憾，可惜晚了。

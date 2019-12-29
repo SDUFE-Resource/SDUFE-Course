@@ -1,0 +1,38 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <qian@ccert.edu.cn>; Tue, 23 Aug 2005 17:08:56 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <qian@ccert.edu.cn>; Tue, 23 Aug 2005 17:22:07 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "ye" <ye@126.com>
+To: qian@ccert.edu.cn
+Cc: <pan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzfjS17mry76jqLGxvqmjqdXQxrjIq9awyO28/rmks8zKpg==?=
+Date: Tue, 23 Aug 2005 17:21:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+网易公司（北京）招聘全职软件工程师
+( 优秀的兼职学生可以考虑 )
+网易( http://www.163.com ) (NASDAQ: NTES)， 中国领先的互联网技术，在线游戏和无线增值业务提供商。
+欢迎加入一个迅速发展的团队，希望你和我们同样热爱互联网，以及其中洋溢着的新意。
+工作地点：
+北京，联想桥附近
+职位要求：
+1. 对技术的热爱，对创新的激情
+2. 良好的数据结构和算法分析设计基础
+3. 强的C/C++编码能力
+4. 熟悉Linux系统，以及相应的开发与调试工具
+5. 独立工作能力，主动性和良好的沟通能力;
+6. 严谨的工作态度，良好团队精神;
+7. 良好的英文功底
+8. 计算机相关专业优先，硕士优先考虑；
+联系方式：
+  sfwang@corp.netease.com

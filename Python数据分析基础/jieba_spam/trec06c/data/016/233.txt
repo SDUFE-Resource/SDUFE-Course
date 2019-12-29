@@ -1,0 +1,43 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <lai@ccert.edu.cn>; Sat, 20 Aug 2005 11:43:59 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <lai@ccert.edu.cn>; Sat, 20 Aug 2005 11:57:17 +0800 (CST)
+Date: Sat, 20 Aug 2005 11:51:22 +0800
+From: "xie" <xie@sohu.com>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsbG+qc6wvrDQ0Lmry76439C9s8/GuNPF0OO1xFZDL0MrK6GiM0SzzNDy1LE=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+北京伟景行数字城市科技有限公司
+一、诚聘优秀的VC/C++系统分析员：    2人，从事程序体系结构研发
+要求：
+    1．计算机硕士以上（含），2年以上编程经验（含连续兼职工作时间）
+    2．对VC/C++编程有浓厚的兴趣，立志编写优秀的软件，敬业、钻研、互助；
+    3．对C++和面向对象的思想和理念（如设计模式等思想）进行过深入的研究，并有全面、深刻的理解，精通MFC，STL；
+    4．有扎实的计算机专业知识和丰富的编程经验，最好参与过图形图像、数据库、游戏和网络等多方面的项目或产品开发，尤以有丰富的Windows界面编程经验者为佳，对程序体系结构有较深的理解，并能遵守严格、科学的编程规范；
+    5．在上述前提下，熟悉COM和DirectX、OpenGL者优先。
+薪酬：面议
+二、招聘经验丰富的VC/C++程序员：     2人，从事程序应用研发
+要求：
+    1．计算机学士以上（含），2年以上编程经验
+    2．精通VC/C++编程，精通Windows编程，精通界面编程，精通多线程和Socket编程，数学算法能力强者尤佳；
+    3．能理解编程体系结构，能理解面向对象编程思想，能遵守严格、科学的编程规范；
+    4．在上述前提下，熟悉OpenGL、DirectX和COM者优先。
+薪酬：面议
+三、招聘3D + OpenGL + VC/C++程序员：从事3D研发工作   2人
+要求：
+    1．计算机学士以上（含），1年以上3D编程经验；
+    2．精通VC/C++，精通OpenGL，对使用VC/C++和OpenGL编写3D程序有浓厚的兴趣；
+    3．对图形图像及3D算法有浓厚的兴趣并有深入的研究
+    4．能理解编程体系结构，能遵守严格、科学的编程规范；
+薪酬：面议
+公司地址：北京市海淀区中关村南大街35号紫竹院公园西院
+电话：01088420501
+有意者请发简历：   rd_hr@gvitech.com

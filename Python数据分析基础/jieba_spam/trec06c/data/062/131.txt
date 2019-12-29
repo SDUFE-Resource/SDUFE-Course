@@ -1,0 +1,27 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <su@ccert.edu.cn>; Wed, 31 Aug 2005 15:36:33 +0800 (CST)
+Received: (qmail 18809 invoked from network); Wed, 31 Aug 2005 07:48:16 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Wed, 31 Aug 2005 07:48:16 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "li" <li@jdl.ac.cn>
+To: su@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjjUwjI5yNW5pNf3vM3CvA==?=
+Date: Wed, 31 Aug 2005 15:50:34 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+报失：
+范丹丹 13810536875  其他  No.680  透明袋和一白袋，内有手机（LG），
+                                  学生证，饭卡，钥匙，衣物和沐浴用品
+张  超 13811481243  其他  No.681  两张坐标纸，用黑皮带捆扎
+刘思颖 51531716     优盘  No.606  银灰色＋绿色，内有word课件、实验预习报告等
+陈永丽 13811616004  餐卡  No.1220 比较破
+李  响 13681138972  证件  No.1221 IC卡，门卡，教工饭卡

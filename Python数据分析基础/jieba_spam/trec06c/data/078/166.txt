@@ -1,0 +1,20 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <chi@ccert.edu.cn>; Sat, 3 Sep 2005 09:13:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <chi@ccert.edu.cn>; Sat, 3 Sep 2005 09:26:26 +0800 (CST)
+Received: (eyou send program); Sat, 3 Sep 2005 09:16:05 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Sat, 3 Sep 2005 09:16:05 +0800
+From: tian@mail.tsinghua.edu.cn
+To: chi@ccert.edu.cn
+Date: Sat, 3 Sep 2005 09:16:05 +0800
+Reply-To: tian@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INP0w8bBy6Os1ffH89K7z8LS4rz7?=
+Content-Type: text/plain
+
+16就这么惨？th真不厚道
+     两年前，考清华，系里总共招15人，我排第16名，只好调剂到排名教育部直属倒数的一个大学，自筹经费。
+     一直很郁闷，老师人还好，只是没有课题，实验室硬件也很差，一分钱也不给。研二快结束时（6月），突然把我得课题改了（做ansys有限元分析的）。研三的人正好5月份离校了，很多他们以前积累的东西，都没传给我。（以前我做的东西，跟现在的相关不大，以为用不了，老师当

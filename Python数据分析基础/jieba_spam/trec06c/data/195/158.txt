@@ -1,0 +1,53 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <shen@ccert.edu.cn>; Wed, 28 Sep 2005 02:25:47 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Tue, 27 Sep 2005 18:36:41 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Tue, 27 Sep 2005 18:36:41 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <shen@ccert.edu.cn>; Tue, 27 Sep 2005 11:47:48 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <shen@ccert.edu.cn>; Tue, 27 Sep 2005 13:44:14 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Wed, 28 Sep 2005 02:36:29 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <tan@motorola.com>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgOdTCMjXI1cqn1dC5pNf3vMfCvA==?=
+Date: Wed, 28 Sep 2005 02:36:04 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+送交
+罗素兵 钱包400： 钱包400 内有学生证（IC卡与蓝皮学生证） 学生证号：039423 
+身份证 现金 。。。。。。  
+              失主姓名为 张泉 
+              性别：女 研究生
+好心人 证件1139： 餐卡一张 （已送交15号楼）
+四教   衣物471：衣服一件 蓝色细格男式衬衫
+       书本265：《古文观止译注》为打印书籍 用图书馆的书复印的，阴法鲁主编
+ 北京大学出版社 
+       其它：网线530 一条 长约四米
+             水杯531 黑色盖子 红色杯身 1000毫升 
+       
+六教   证件1140：IC卡 身份证 失主姓名：原道德 IC卡号是2003010977
+       钥匙568：一把为宿舍钥匙
+挂失
+张栋   电器619 存储卡 三星数码相机 256M存储卡 韩国原产 丢失时间 2005，9，
+24；下午5：00以后 
+       丢失地点 明理楼210，及由此教室回5#楼的路上
+孙曦   钱包988 男士钱包 内有现金100元 身份证 银行卡 学生IC卡 等
+       时间 2005，9，24晚七点左右
+       地点：照澜院三楼
+别林娜 衣物570 ：外套 分红色 薄 外有拉链 荷包 内有手机 荷包
+       时间 2005，9，24；晚
+       地点 蒙民伟楼附近

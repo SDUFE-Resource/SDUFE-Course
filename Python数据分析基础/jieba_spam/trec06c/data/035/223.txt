@@ -1,0 +1,24 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <zhao@ccert.edu.cn>; Thu, 25 Aug 2005 00:00:15 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Wed, 24 Aug 2005 15:49:50 -0000
+From: "jiang" <jiang@mails.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 25 Aug 2005 00:13:32 +0800
+
+写到故宫坤宁宫皇帝洞房的时候查了一下资料，同治和光绪的婚礼。
+结果发现，
+清代也只有两个皇帝进来过，即年幼登基的同治和光绪。其他的皇帝因为结婚在前，就
+不能享受这种待遇了（幸好当年不流行补办结婚宴）。
+就这两个皇帝，前一个结个婚花了一千一百万两白银（合550吨……），后一个结个婚花了五百五十万两（合275吨）。按当前银价，在一盎司6到8美元之间浮动，取个平均值7美元，一盎司是1/12磅，合31.1克，因此一克纯银就是0.2251美元，按中行汇率（05年8月23日
+基准价8.1056）兑换人民币约为1.8244每克，因此同治花掉1003426366.56元钱（十亿三百四十二万六千三百六十六块五毛六）结个婚，光绪花掉一半――501713183.28元（五亿一百七十一万三千一百八十三块二毛八）结婚，平均一下每人花掉七亿五千二百五十六万九
+千七百七十五块左右，够俺们大龄青年们按每次20万人民币的规模办3763次婚宴（每天一次，连办十年），每桌3000元的规模办250857桌酒席（每天吃三桌，连吃二百三十年），以及每本结婚证9元工本费的规模领八千三百六十一万八千八百六十三张结婚证还多八毛八
+，可以买串冰糖葫芦或者一根钟楼小奶糕，就算金装结婚证附带50块钱封皮的那种也能领上个一千二百七十五万五千四百十九本，还多出来九毛钱勉强可以乘趟公共汽车！总之，皇帝老儿真浪费啊……

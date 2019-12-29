@@ -1,0 +1,53 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C2BpmJ006744
+	for <lv@ccert.edu.cn>; Mon, 12 Sep 2005 18:10:41 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28l5c009623
+	for <lv@ccert.edu.cn>; Mon, 12 Sep 2005 18:07:59 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28iWw009619
+	for <lv@ccert.edu.cn>; Mon, 12 Sep 2005 18:07:34 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EEefy-0005d0-00
+	for toefl@gradinfo.net.edu.cn; Mon, 12 Sep 2005 19:07:00 +0800
+Message-ID: <016301c5b740$c2f51a00$2fcb6fa6@wanglanjia>
+From: "ke" <ke@ns.6test.edu.cn>
+To: lv@ccert.edu.cn
+Date: Mon, 12 Sep 2005 18:20:22 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Subject: =?gb2312?B?ofEgob61zbzbs/bK26G/x+W7qrXn19O5pLPMz7W/vNHQ18rBz6Oov86688+wzOK08LC4oaLJz7/O
+scq8x6E=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1871831781=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+郑君里第二版信号系统的课后题解     ￥30    
+------超值推荐！！当年考研一题一题工工整整地做出来的，第二年mm考研，又在 这个基础上做了修改：）
+                                 
+模电笔记       ￥15    
+------在东方飞龙30元买的，感觉还可以，有些书上很晦涩难懂的地方有笔记注释，有一些价值，所以低价转让
+                                  
+历年试卷：97 信号系统 电子技术基础（数电模电） 通信电路原理（高频电路）（高频部分应该是复试用的）00 01 02 03 信号系统 电子技术基础     ￥15    
+-----试卷在学校也可以买到   好像也是15元 不过只提供三年的，呵呵，这可是收集了两年的，所以比较完备。清华每年题型变化较大，所以尽量多看些题型对考试绝对有很大帮助。
+                                                                                                                              
+附送：：： 奥本海姆 第一版习题详解（电子版）~~~！！！！！！这本书太权威了 通过这本书的仔细学习  我第一次感觉到信号系统是一门很美的课程！！
+选好你需要的资料和我联系    QQ：34272784
+或者发邮件给我：zhanj03@mails.tsinghua.edu.cn
+北京的同学直接到清华来拿资料，一般中午或周末会有空
+祝大家考研顺利~~~~~~！！！！！！

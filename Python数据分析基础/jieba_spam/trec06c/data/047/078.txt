@@ -1,0 +1,40 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <hu@ccert.edu.cn>; Sat, 27 Aug 2005 08:03:28 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 08:21:48 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 08:21:48 +0800
+Date: Sat, 27 Aug 2005 08:21:48 +0800
+From: tian@cernet.com
+Subject: =?gb2312?B?UmU6ILj2yMvK1cjrIFJlOiC7qs6q0+vW0NDLtcS21LHIW9eqzPld?=
+To: hu@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+那时候清华北大很少有去华为的，现在也有不少了。
+     标  题: Re: 个人收入 Re: 华为与中兴的对比[转贴]
+     
+     
+             当年大四的时候，那时候国家明令规定各公司不得在11月之前进入
+             学校开招聘会，而华为则从10月初就进驻偶们学校。先下手为强，
+             招了n多人。不过后来偶很多打算签华为的同学最后大多反悔，去了
+             贝尔/联通/电信之类的。那时候一篇《华为真相》的文章，加上一
+             些从华为跑出来的师兄师姐的现身说法，让大家很是迷惑。
+             
+     
+     : 华为做事太具有狼性
+     : 以去年在北京招聘为例，很多一个班同学一起被叫到友谊宾馆面试，而可能其中一部分人
+     : 在第一轮、第二轮就被淘汰，而且很明显，同去的都知道谁被淘汰了，在第几轮被淘汰的
+     
+     --
+                     八千里路上，云和月
+                     二十载孑然，乐与愁
+     
+     

@@ -1,0 +1,36 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <jin@ccert.edu.cn>; Sat, 27 Aug 2005 00:44:59 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 00:52:29 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 27 Aug 2005 00:52:29 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sat, 27 Aug 2005 00:52:29 +0800
+From: xing@mail.tsinghua.edu.cn
+To: jin@ccert.edu.cn
+Cc: gan@ccert.edu.cn
+Date: Sat, 27 Aug 2005 00:52:29 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+Content-Type: text/plain
+
+  在华为干过研发，至少会知道什么是真正意义上的核心设备研发。
+  今天面了一个人，发现虽然是干开发的，但是由于多年低强度、
+  低含金量的技术工作，很难达到核心设备研发工程师的要求。
+  奉劝学弟学妹们，好好学习，努力提高研究水平，别太浮躁了。
+     你的一些想法可能不是很正确吧
+     至少我了解倒的华为出来的人的看法不是这样的
+     我不是很了解带宽之类的东西
+     仅仅知道里面的人的资本 或者说在里面混郭之后有什么优势
+     我接触倒很多很牛的人  人本身很牛
+     现在做的职位也很牛  
+     都是在华为混出来的   有的时候虽然你看起来学不到什么
+     可能也需仅仅是你没有看到罢了
+     作为华为其实我们更多的应该是一种积极的态度来看
+     毕竟在中国有这样的一个公司已经很了不起了
+     说到累  哪里不一样
+     并且跟那些华为出来的牛人聊天的时候
+     没有人为当初的累后悔  都是年纪很大的人
+     都觉得当年的经历是一种很重要的财富
+     还有即使所谓的贷款
+     退一万步来讲  扔给他们总比被贪官吃掉 TRANSFER倒美国好

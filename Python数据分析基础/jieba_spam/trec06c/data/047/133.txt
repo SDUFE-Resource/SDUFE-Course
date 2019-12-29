@@ -1,0 +1,31 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <xie@ccert.edu.cn>; Sat, 27 Aug 2005 09:12:53 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 09:31:13 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 09:31:13 +0800
+Date: Sat, 27 Aug 2005 09:31:13 +0800
+From: jian@cernet.com
+Subject: =?gb2312?B?ofEgw8C5+rTzvNLAysvQu+HNqNaq?=
+To: xie@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+Ori English Poetry Society Poetry Reading Activity 
+Contemporary American Indian Poetry
+Speaker: Prof. Simon J. Ortiz
+Simon Ortiz was born in Albuquerque, New Mexico and raised in the Acoma village of McCarty\'s in an Acoma-speaking family. Ortiz attended Fort Lewis College (1962-63), the University of New Mexico (1966-68), and the University of Iowa (1968-69). His career includes teaching at San Diego State, the Institute of American Indian Arts, Navajo Community College, the College of Marin, the University of New Mexico, and the Sinte GleskaCollege. Ortiz also served as lieutenant governor of the Pueblo of Acoma and consulting editor of the Pueblo of Acoma Press. He is currently a faculty member at the University of Toronto. 
+Awards and Honors: Wordcraft Circle Writer of the Year (Anthology/Collection) Award, 2000 (for Speaking for Generations) 
+Professor Ortiz是美国当代著名诗人，除诗歌外也写小说和散文，有二十几本诗歌、小说、散文作品出版，作品多次获奖，现任教于University of Toronto英语系，讲授英语诗歌创作等课程。
+Working Language：English
+Time: 8:40A.M.-10:30A.M., Aug. 29 (Monday)
+Place: Room 214#, Foreign Languages Department Building (文南楼214＃)
+Organizer：Ori English Poetry Society,
+Dept. of Foreign Languages, Tsinghua University

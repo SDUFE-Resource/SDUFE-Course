@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <kong@ccert.edu.cn>; Wed, 24 Aug 2005 11:44:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <kong@ccert.edu.cn>; Wed, 24 Aug 2005 11:57:27 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 03:52:00 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "yana" <yana@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMWuyfrU2rmk1/e1w8qxuvLT9rz7yavAx8DPsOXU9cO0sOw=?=
+Date: Wed, 24 Aug 2005 11:53:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+不至于吧，离开这个破公司就没有课题可以做了？
+     谢谢大家的关心，她昨天晚上睡的很好。MM她自己已经想好了。见机行事吧，拿到相关的能出来做论文的材料，就马上辞职。
+     唉！看看吧，说不定还要各为XDJM帮出出找工作的主意呢。MM学通信的，哈尔滨工程大学的研究生，不想在哈碌碌无为的做设计，因此才出来的。先谢谢了啊。！！！
+     本人语文不好，没加标点。辛苦那些看不懂的XDJM么了。

@@ -1,0 +1,23 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <lv@ccert.edu.cn>; Mon, 26 Sep 2005 20:31:10 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Mon, 26 Sep 2005 20:34:28 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 12:34:26 UT
+To: lv@ccert.edu.cn
+From: wua@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+u087zSsO+w78OmoaPQu9C7wcuhow==?=
+
+专业课的分数线是学校定，还是各个院系自己定的啊？复试资格是由学校统一确定还是各个院系自己确定啊？
+去年学校的复试线：
+工学        345     55      55      85      85
+学校的复试线345是如何定出来的？是过了345、各科过线，无论你报什么专业，都可以参加该专业的复试吗？过了345学校的复试线以后，就可以调剂吗？若服从调剂，能保证上清华吗？
+那所谓的过了学校的分数线，但没有考上所报的专业是怎回事啊？是指复试没通过吗？各个系的复试线都不一样是怎么回事。这个录取到底怎么确定的啊？
+多谢了。

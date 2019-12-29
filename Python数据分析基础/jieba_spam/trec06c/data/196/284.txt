@@ -1,0 +1,30 @@
+Received: from vip.sina.com.cn ([202.108.35.188])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q8Hhuv007325
+	for <mei@ccert.edu.cn>; Wed, 28 Sep 2005 08:31:33 +0800 (CST)
+Received: (qmail 11487 invoked by uid 99); Wed, 28 Sep 2005 00:42:38 -0000
+Message-ID: <20050926082851.11486.qmail@vip.sina.com.cn>
+From: <xing@vip.sina.com>
+To: mei@ccert.edu.cn
+Cc: kang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMflu6rE0Mn6tcTP67eo1ebKx8jDztK6ubChfg==?=
+MIME-Version: 1.0
+Date: Wed, 28 Sep 2005 08:42:38 +0800
+X-Mailer: SinaMail 3.0Beta (FireToad)
+X-Priority: 3
+Content-Type: multipart/mixed;
+  boundary="----------112772333111457SINAEMAIL---"
+
+清华的男生？
+void main()
+{
+   int 该男生；
+   int 开玩笑=1;
+   scanf("%d\\n",&amp;该男生)；
+   if(该男生==开玩笑)
+    {printf("他只是开玩笑罢了，何必当真？\\n")；}
+   else
+    {printf("这种人……不能代表清华的男生，请不要冠上一个清华来骂我们其他这些好      男生\\n")；}
+}
+     今天听到一个清华男生这样说，找一个女友给自己洗衣服
+     当时感到的就是汗~啊
+     不知道清华有多少男生因为这个找女友

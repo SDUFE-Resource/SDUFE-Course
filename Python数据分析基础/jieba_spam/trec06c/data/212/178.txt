@@ -1,0 +1,34 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <hong@ccert.edu.cn>; Sat, 1 Oct 2005 09:40:21 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sat, 1 Oct 2005 01:51:17 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sat, 1 Oct 2005 01:51:17 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <hong@ccert.edu.cn>; Fri, 30 Sep 2005 19:12:56 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <hong@ccert.edu.cn>; Fri, 30 Sep 2005 20:57:49 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sat, 1 Oct 2005 09:51:12 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <qiu@motorola.com>
+To: hong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3G0dDS0b6ttcO1vdSywvq1xL3ivvajrNC70Lu087zSudjQxKOh?=
+Date: Sat, 1 Oct 2005 09:51:10 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+恭喜mm
+成熟起来，我这次也有一些不愉快的经历
+     这件事情已经得到解决
+        今日经过本人与有关领导当面申诉，我推研一事已得到解决。是我的第一志愿A。谢谢各位对我的同情和帮助。
+         从这件事情的发生到解决，我除了如愿以偿外，也使我得到历练。从中也吸取了教训，正如有些朋友讲的，我也有处置不够果断的地方，我会反思自己，使自己在以后的学习和生活中成熟起来。

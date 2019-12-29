@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <li@ccert.edu.cn>; Sun, 25 Sep 2005 18:08:40 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <li@ccert.edu.cn>; Sun, 25 Sep 2005 18:20:01 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 09:57:01 -0000
+From: "lu" <lu@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Cc: <huang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SvvW1w2xpbnV40rK+zcHLsrvJ2cjLo6zSsrqmwcuyu8nZyMs=?=
+Date: Sun, 25 Sep 2005 18:19:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+        admire
+     标  题: 我觉得linux成就了不少人，也害了不少人
+     
+     
+     linux给很多人提供了表现自己聪明才智的地方，让他们以自己能够驾驭
+     独特的工具而在周围圈子里赢得了诸多羡慕的目光，进而产生一种幻觉，
+     以为自己已经掌握了科学研究的能力和方法并对未来充满了自信，并把
+     这种自信传染给周围人以获取进一步的赏识，这种赏识进一步的加剧了
+     本人的作出高水平成果的必然性的自信，这种自信导致两个结果，一个
+     牛人的诞生，或者一个自以为是的失败者。
+     
+     --
+     歪脖判定猜想：对于某个已经经过长时间讨论的话题，在版面已经有比较清晰的结论的情
+     况下，只发一篇缺乏论据论证只有一句话结论的文章，并且文章中心思想为fq论调与主流
+     不吻合，或所得出结论跟所讨论事实基本无关，该id为歪脖用户可能性为90%.
+     (感谢threeheads对本猜想提出改进)
+     
+     
+     ※ 修改:・Linxs 于 Sep 25 21:59:22 修改本文・[FROM: 219.207.32.*]

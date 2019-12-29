@@ -1,0 +1,32 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 07:42:02 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <long@ccert.edu.cn>; Sat, 10 Sep 2005 16:54:09 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Sat, 10 Sep 2005 16:54:09 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Sat, 10 Sep 2005 16:54:09 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sun, 11 Sep 2005 07:54:09 +0800
+From: =?GB2312?B?1/O+pw==?= <wen@gmail.com>
+Reply-To: wen@gmail.com
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?ofEgutzP69XSx+W7qr2o1v653MDtz7W1xNHQvr/J+g==?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+   朋友，首先谢谢你来看这篇贴。
+   我很遗憾我大学没有在清华上，因为那是一个我期待的地方。经过三年的学习和思考（我觉得我大学是在思考的），第四年我决定考清华的建管的研究生。
+    有两个师兄，现在已经在清华读研了，听他们说了清华，感觉很好。我考清华也有他们的影响，他们两很厉害，一个从九月中旬开始复习，从土木系跨到社会学，专业课还考了第二名，由于总分的原因，调到了别的专业；一个在经济管理院，434分，初试第一名。
+     很怀念以前和他们一起的日子，可惜已天各一方。本打算找他们帮忙，可想起他们考研时从没有人帮过（两人都没有找过清华的研究生，也没有找到往年的专业课试卷），想到这里，我又不能拉下面子要他们帮忙。
+     在这里发个贴，希望有缘能遇到建筑管理系的研究生，能在复习过程中指导我一下（应该考过这个专业的人都能理解我的心情）。我很想叫这个人“师兄”，希望不会介意。
+  
+      期待这为师兄的出现。!
+    我的Email:shengwen2003@126.com

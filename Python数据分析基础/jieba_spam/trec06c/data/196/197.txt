@@ -1,0 +1,28 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <zhong@ccert.edu.cn>; Wed, 28 Sep 2005 07:14:39 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Tue, 27 Sep 2005 23:37:33 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Tue, 27 Sep 2005 23:37:33 -0000
+Date: Wed, 28 Sep 2005 07:32:08 +0800
+From: "sun" <sun@csnet1.cs.tsinghua.edu.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?ofEguNW41b+0tb3A7rC91Nq4tLWpo6zT0MjLtcTSu7j2zsrM4qOsaG9obw==?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+    一个人活在这个世界上，究竟是要努力的适应这个时代，还是努力的让这个时代来适
+应自己？
+    
+    我必须告诉你，人生有一个“有为主义”。什么是有为主义？就是这件事情，当你做
+它和不做它，是不一样的。我本人是有为主义，所以我相信，很多事情我们去努力去做，
+会有不同的结果。那种抱怨，那种说风凉话，那种关着门诅咒，关着门拍桌子砸板凳，我
+认为都不是健康的。同样的，我觉得，如果用一种悲愤地情绪去表达一切，也是不好的。
+为什么我不喜欢鲁迅，我觉得他老是横眉冷对，什么意思啊？不好。为什么我不喜欢文革
+以后的“伤痕文学”？我告诉你，眼泪太多了。这就是邓小平所挖苦的“哭哭啼啼没有出
+息”。我们是男人，我们不要没有出息。

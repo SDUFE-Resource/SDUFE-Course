@@ -1,0 +1,19 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U2R6AL010810
+	for <che@ccert.edu.cn>; Sat, 1 Oct 2005 18:53:08 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8U2U2g26094;
+	Sat, 1 Oct 2005 18:56:04 +0800
+Message-Id: <200509300230.j8U2U2g26094@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Sat, 1 Oct 2005 10:56:04 UT
+To: che@ccert.edu.cn
+From: kong@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+0zeqhtrjWx9nKpqG3o6zO0tC0tcTTsMbAOik=?=
+
+在我看来，影片的高潮也是最具文化认同的段落是德国军官让钢琴师弹奏乐曲的那一段。在这里，波兰斯基选取了Chopin的Ballad No.1。虽然影片始终贯穿着Chopin的音乐，可只有Ballad No.1放置在这里是最合适的。或许第一钢琴叙事曲不是Chopin四首叙事曲织体最丰富、技法最纯熟的，但其叙述性、抒情性以及基于密茨凯维支诗歌所包含的史诗感最能代表波兰的文化和民族情感，是真正的波兰之音。密茨凯维支的史诗与肖邦音乐的契合是这个民族文化的主源和最杰出代表，而第一叙事曲的典故即沙俄侵占波兰，又与影片的二战背景构成大的历史隐喻，使熟悉这段文化联系和历史渊源的观众情不自禁地落泪。
+这里更值得说的是，波兰斯基作为大师不仅体现在他深谙自己民族的文化精髓并把这种精髓通过音乐语言与电影语言的结合恰如其份地表达出来，更体现在作为一个敏锐而有良知的知识分子，面对人类的巨大苦难，他试图寻找一条文化上的纽带，探索文化的认同感，用艺术的语言直触人性共通的领域，留给观众思考和探寻的空间。在这个拥有钢琴的避难所中倾听钢琴师演奏的不是其他人，而是一个德国人：一个拥有最多音乐话语权的民族中的一员，一个创造了人类思想和艺术精华却经受道德拷问和谴责的民族中的一员。这里波兰斯基想要的不是一个单一的责问、杀戮或是复仇的结论，而是对人类命运的叩问，寻求一条超越狭隘、短暂、罪恶欲望的永恒道路，表达了在终极上获得文化和人性认同的愿望。拥有这种气魄、包容力以及责任感正是大师的伟大之处。

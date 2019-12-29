@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>DES Calculator</title>
+</head>
+<body bgcolor="#eeeeff">
+<h1>DES Calculator</h1>
+You can use the DES Calculator applet displayed below to encrypt or decrypt
+using DES the specified 64-bit (16 hex digit) data value with the
+64-bit (16 hex digit) key, with a trace of the calculations.
+
+<hr>
+<applet archive="DEScalc.jar" code="DEScalc.class" width=600 height=550></applet>
+<hr>
+
+<p>
+An example DES test value, taken from
+"H. Katzan, The Standard Data Encryption Algorithm,
+pp75-94, Petrocelli Books Inc., New York, 1977" is:<br> 
+<pre>
+Key:        5B5A57676A56676E
+Plaintext:  675A69675E5A6B5A
+Ciphertext: 974AFFBF86022D1F
+</pre>
+<p>
+Encrypting the plaintext with the key should give the ciphertext,
+decrypting the ciphertext with the key should give the plaintext.
+<hr>
+
+</body>
+</html>

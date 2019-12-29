@@ -1,0 +1,31 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <ke@ccert.edu.cn>; Thu, 25 Aug 2005 08:18:51 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 08:37:14 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 08:37:14 +0800
+Date: Thu, 25 Aug 2005 08:37:14 +0800
+From: ding@cernet.com
+Subject: =?gb2312?B?ofEg0MK7qsqxxsCjurOsvLbFrsn5obCzrKGx1NrExKO/?=
+To: ke@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+    新华网上海８月２６日电 记者孙丽萍 
+    湖南卫视的娱乐节目《超级女声》似乎火得不明不白，令许多文艺界人士不服气。然而，为什么一个地方电视台的娱乐节目会如此火爆，一些自视正统的文艺节目却“有心栽花花不发”？这的确值得认真思考。 
+    仔细研究《超级女声》的成功之处，无非是做到了真实、互动 
+。举个例子，《超级女声》短信投票之后，节目还会回复，虽然收费１０倍于平常的手机短信，但由于有了主办者与参与者的互动，众多参与者也觉得能够接受。在网络时代，“互动”无疑是观众对文化艺术、娱乐活动的正当诉求。 
+    种种关于《超级女声》“黑幕”的传说，证明观众在饱受歌手“假唱”、排行榜作假、文艺晚会录播的种种蒙骗之后，对当下娱乐评比的真实性不免存疑。但对于《超级女声》节目的“互动”性，人们大抵都是满意的，交口称赞的。这就是人气所在！ 
+    其实，剥开其外表，似乎正在演变成一种文化现象的《超级女声》，不过是一场由电视、短信、网络合力，加上传统媒体炒作而形成的商业事件，虽然会因为契合了网络时代大众对文化娱乐“真实、互动”的渴求而红极一时，但终归只是一种商业活动而已，艺术性有多少并不见得在商家追求之列。 
+    《超级女声》之“超”，并不在于几个“女声”，而在于节目运作方式的“滚雪球”效应，在于它所制造的巨大商机。平常的手机短信收费１角，而《超级女声》的参与者每发一条短信要交费１元。节目回复后转发来若干垃圾短信，也是每条收费１元。据统计，仅支持李宇春一人的短信就有两百万条。各地被“超女”们弄得如痴如醉的少男少女们光花在短信上的费用有多少，不难想象，精力上的耗费更无须赘言。 
+    为几个“超女”和电视台的商业节目忘乎所以不足取，但传统的主流文艺节目确实应当从这档节目火爆一时现象中吸取经验教训。《超级女声》之长，正是国内传统主流文艺之短。在中国，许多文化艺术产品的生成，往往将人民大众、普通观众排除在外。在文化界采访，记者常常听到创作者侃侃而谈，要“提升”观众水准，要“普及”经典、高雅艺术，却很少听闻让观众参与其中，和观众互动。难怪我们的许多演出、影视作品，往往耗费了巨大人力物力生产出来，却被观众所冷落。 
+    文艺对普通观众需求的忽视是危险的。本来娱乐有娱乐的地界，文艺有文艺的地盘，前者制造文化快餐，后者孕育精神食粮。但如果主流文艺不能和观众“互动”起来，不能满足大多数人的精神需求，就只能看着快餐文化大行其道。（完） 

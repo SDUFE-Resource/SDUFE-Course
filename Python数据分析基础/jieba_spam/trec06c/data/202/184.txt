@@ -1,0 +1,25 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <wei@ccert.edu.cn>; Thu, 29 Sep 2005 06:58:03 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 23:09:14 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 07:09:13 CST
+Date: Thu, 29 Sep 2005 07:09:13 +0800 (CST)
+From: liang ming <ning@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INK7uPbNtL/gtcTE0czi?=
+To: wei@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+其实也没啥
+相信她现在也只是信没啥行动吧，不然早进去了
+那就先放一放，不要急着长谈
+     和mm相处了两个多月了，本来一切都还好，一切的困难都可以想法克服，可以偏偏有一件事阻隔在我们之间。
+     mm信flg，我已经花了很大的力气想去说服她，可是却没有什么成效，最近mm跟我说非常想和我在一起，所以她可以一辈子让自己受苦，不和我谈这个事情，但却不能不信。
+     mm是个不错的女孩儿，但于我而言，这件事情却已经越来越影响了我对mm的感觉，本来最初她向我坦白这件事的时候，我还对自己挺有信心，觉得可以把她拉过来，但是经过无数次的长谈以后，我发现我在面对她的言论的时候已经由最初的心平气和逐渐地掺杂进了恼怒，我越来越害怕

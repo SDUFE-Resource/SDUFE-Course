@@ -1,0 +1,44 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <long@ccert.edu.cn>; Mon, 5 Sep 2005 16:01:56 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <long@ccert.edu.cn>; Mon, 5 Sep 2005 16:00:12 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <long@ccert.edu.cn>; Mon, 5 Sep 2005 15:59:52 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Mon, 5 Sep 2005 07:49:04 -0000
+Date: Mon, 5 Sep 2005 16:09:56 +0800
+From: "tan" <tan@mails.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?ofEg16q3orj21dDGuDozMM3yxOrQvbPPxri157TFs6HOorKo16jStbKpyr8gKNeq1Ngp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <fu@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 Microwave 讨论区 】
+发信人: JBPendry (Negative World), 信区: Microwave
+标  题: 转发个招聘:30万年薪诚聘电磁场微波专业博士
+深圳微通科技有限公司是一家生产微波射频部件和子系统的专业公司，因业务发展
+需要聘用1-2名电磁场与微波技术专业的博士（下半年或明年上半年毕业均可），
+年薪可达30万，有意者请与吕老师联系，邮箱：lvming@uestc.edu.cn

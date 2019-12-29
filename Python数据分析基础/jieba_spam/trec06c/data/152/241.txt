@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <chi@ccert.edu.cn>; Sun, 18 Sep 2005 21:07:05 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <chi@ccert.edu.cn>; Sun, 18 Sep 2005 21:18:54 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 18 Sep 2005 12:59:36 -0000
+From: "gong" <gong@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <cen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7K0ru1wNDFusW4tcGi0rax5Lu7tcTQoc7KzOI=?=
+Date: Sun, 18 Sep 2005 21:18:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+郑书P122
+用矩形脉冲取极限求u(t)傅立叶变换的时候
+F[u(t)]=lim  {F[u(t)-u(t-τ)]}
+        τ-&gt;∞
+       =lim [(1/jω)-(1/jω)e^(-jωτ)]・・・・・・・・・・・・・・・・・(1)
+        τ-&gt;∞
+       =(1/jω)-lim [cos(ωt)/jω-sin(ωt)/ω]・・・・・・・・・・・・・(2)
+               τ-&gt;∞         ~~~w＝0得话，这个地方也不行了吧？
+       ∵lim cos(ωt)=0   lim (τ/π)Sa(ωt)=δ(ω)   ∴结果＝(1/jω)＋πδ(ω)
+问题“∵”后面的两个条件是第二章80－81页分配函数里证明过的，可以理解
+     但那里同时也证了lim e^(-jωτ)＝0，为什么在(1）式时候不带进去呢？
+     为什么要分开成(2)式呢？(万一：w＝0怎么办？？）
+       

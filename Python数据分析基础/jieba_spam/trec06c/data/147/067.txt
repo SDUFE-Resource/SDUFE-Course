@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FBhgV9003152
+	for <you@ccert.edu.cn>; Sat, 17 Sep 2005 16:27:30 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FBtVIH029758
+	for <you@ccert.edu.cn>; Sat, 17 Sep 2005 16:39:19 +0800 (CST)
+Message-Id: <200509151155.j8FBtVIH029758@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 08:20:32 -0000
+From: "guan" <guan@mail.tsinghua.edu.cn>
+To: you@ccert.edu.cn
+Cc: <gao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfyzOzD97DX0ru49rXAwO2jrLK7yLe2qMrHsrvKx9XmwO0=?=
+Date: Sat, 17 Sep 2005 16:39:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BA2F.69B84380"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW57Ftgyg2sMjsQQOq8TagbU/Od5Q==
+
+发错板了把
+     这都是什么乱七八糟的
+     balanced armature, 平衡动铁, er4以及大部分IEM使用这种单元, 不是压电。
+     这个似乎和事实不符,难道音特美使过时的技术又重新焕发光芒?er4的单元曾经有过剖解图,单元和ue10的单元是一路货，应该和助听器单元技术相同,基本可以确定是压电的,设计师用个别的名词代替很正常。况且压电原理是利用压电材料受到电场作用发生形变的大原理，将压电动元件置于音频电流信号形成的电场中，使其发生位移，从而产生逆电压效应，最后驱动振膜发声.里面用到铁片也是可能的。

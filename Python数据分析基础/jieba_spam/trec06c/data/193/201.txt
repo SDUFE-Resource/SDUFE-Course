@@ -1,0 +1,25 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <lian@ccert.edu.cn>; Tue, 27 Sep 2005 18:29:14 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Tue, 27 Sep 2005 18:32:32 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 10:32:30 UT
+To: lian@ccert.edu.cn
+From: kang@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgobDLrsS+0MTH+qGxz7XB0Lvutq/Wrrb+yq6hqqGqobbDwMD2yMvJ+qG3tefTsMnNzvY=?=
+
+    1939年，第二次世界大战的阴霾笼罩着整个意大利。
+    犹太青年圭多和好友驾车来到阿雷佐小镇准备开一家书店，途中邂逅美丽的女教师多拉。两人好事多磨，终成眷属。然而好景不长，圭多和儿子因犹太血统被强行送往集中营。多拉虽没有犹太血统，为了能和儿子丈夫在一起，毅然同行，在集中营里却被分开关押。圭多不愿让孩子幼小的心灵蒙上悲惨的阴影，在惨无人道的集中营里，他骗儿子这只是一场游戏。他以游戏的方式让儿子的童心没有受到任何伤害，自己却惨死在纳粹的枪口下……
+                                         
+    主  办：校心理咨询中心  校研究生会  学生心理协会
+    时  间：9月29日（周四）晚7：00
+    地  点：主楼后厅
+    点评专家：校心理咨询中心  李焰 老师
+    欢迎感兴趣的同学届时前往参加！！

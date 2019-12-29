@@ -1,0 +1,60 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86CullB027407
+	for <bi@ccert.edu.cn>; Wed, 7 Sep 2005 16:33:45 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j86Cs0vQ066125
+	for <bi@ccert.edu.cn>; Wed, 7 Sep 2005 16:31:48 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j86Crvrj066117
+	for <bi@ccert.edu.cn>; Wed, 7 Sep 2005 16:30:55 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509061253.j86Crvrj066117@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Wed, 7 Sep 2005 08:20:06 -0000
+Date: Wed, 7 Sep 2005 16:41:03 +0800
+From: "kang" <kang@mails.tsinghua.edu.cn>
+To: bi@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j86Crvrj066117
+Subject: =?gb2312?B?ofEgzqLI7dHH1t7R0L6/1LpJbmN1YmF0aW9u1+nV0Ma41LG5pLrNt8POytGnyfo=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+微软亚洲研究院Incubation组招聘员工和访问学生，要求如下：
+Basic:
+1. 计算机、电子或自动化专业的博士或硕士
+2. 具备较强的学习能力和饱满的工作热情
+3. 熟练掌握C\\C++或C#语言，具备较强的研究和开发能力
+4. 对操作系统底层研发有兴趣
+Optional:
+1. 具有软件系统的研发经验
+2. 具有驱动程序的开发经验
+3. 熟悉网络编程并对分布式系统有一定了解
+4. 具有WinCE平台上的开发经验
+5. 具有网络安全和加密的研发背景
+应聘访问学生需争得导师同意，并能够保证全职工作三个月以上。有意者请将简历发送
+到lfwang@microsoft.com。
+BTW:
+Incubation组是微软亚洲研究院新成立的一个组，在MSRA的主页上可能找不到这个组的
+信息，在这里我简单介绍一下。顾名思义，Incubation组的目标是incubate product，
+主要从事面向产品的研究工作，并负责开发产品原型。这个组没有固定的研究方向，只
+要是有可能转化为产品的项目都有可能涉及。我们目前在做的项目是Aggregated PC，目
+标是在个人用户的电子设备（PC、PDA、Smartphone等等）之间实现无缝的资源（包括外
+设、存储资源和计算资源）共享。发挥你的想象力，你的idea极有可能成为Incubation
+组新的项目。
+(代友发文，请勿回站内信箱)

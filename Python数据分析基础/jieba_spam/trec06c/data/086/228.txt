@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82FXXc8032690
+	for <you@ccert.edu.cn>; Sun, 4 Sep 2005 22:14:39 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FVva4032094
+	for <you@ccert.edu.cn>; Sun, 4 Sep 2005 22:13:16 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FVsOj032090
+	for <you@ccert.edu.cn>; Sun, 4 Sep 2005 22:12:59 +0800 (CST)
+	(envelope-from cmk@ns.6test.edu.cn)
+Received: from [221.218.34.129] (helo=[192.168.0.225])
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1EBEP4-000214-00; Sun, 4 Sep 2005 23:09:39 +0800
+Message-ID: <43187389.7080805@ns.6test.edu.cn>
+Date: Sun, 4 Sep 2005 22:26:18 +0800
+From: Maoke CHEN <he@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0.2 (Macintosh/20050317)
+MIME-Version: 1.0
+To: you@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?aGVscH5+fsutwcu94mJ0tchwMnDTptPDtcTTptPDsuM=?=
+	=?GB2312?B?uPHKvaO/?=
+In-Reply-To: <200509011321.j81DLpFM024763@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: luo@ccert.edu.cn
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+这个片子是根据斯蒂芬金的恐怖小说改编的
+因此很多人看的时候都批评它把原著的思想改的很浅薄
+不过看这么一说好像库布里克导演的时候有他自己想表现的东西……
+     这片影评很强啊！居然说杰克是被儿子逼疯的。。
+     虽然有不少荒谬之处，但我觉得作者有几点解释得很令人信服，比如杰克以前将儿子手臂弄脱臼这段情节的作用；而且这种解释也更扣题目“闪灵”。
+     想听听大家的看法。

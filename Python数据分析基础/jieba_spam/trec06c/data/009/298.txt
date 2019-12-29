@@ -1,0 +1,25 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <chen@ccert.edu.cn>; Fri, 19 Aug 2005 02:57:21 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <chen@ccert.edu.cn>; Fri, 19 Aug 2005 03:10:39 +0800 (CST)
+Date: Fri, 19 Aug 2005 03:04:44 +0800
+From: "mei" <mei@sohu.com>
+To: chen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx/PW+qO61PXDtLLFxNyyu8Ltyc/HqcDNtq+6z82s?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+    我现在是在试用期，原说是三个月结束的时候签正式的劳动合同，目前到了1.5个月，昨天部门的助理说正在给我准备合同，我现在在犹豫是否要在公司干下去，用什么理由才能在3个月试用期结束的时候才签合同哪？
+   如果我不能签合同而离开公司，我的档案能拿出来么？
+  
+我犹豫的原因是：1想考研
+                2工作的前景不是很好
+                3辐射非常厉害，我又比较敏感，身体已经又反映
+我是北京户口，应届生，签了三方协议到的公司，三方没有附加条款，其他的只签了一个保密协议
+谢谢

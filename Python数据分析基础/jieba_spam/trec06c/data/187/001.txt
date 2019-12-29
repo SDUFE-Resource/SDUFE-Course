@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8OB6nor025292
+	for <xia@ccert.edu.cn>; Mon, 26 Sep 2005 09:26:24 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 09:14:19 +0800
+Message-ID: <327559284.25099@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 26 Sep 2005 09:14:19 +0800
+Message-ID: <327559284.25083@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Mon, 26 Sep 2005 09:14:19 +0800
+From: kong@mail.tsinghua.edu.cn
+To: xia@ccert.edu.cn
+Cc: pu@ccert.edu.cn
+Date: Mon, 26 Sep 2005 09:14:19 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Content-Type: text/plain
+
+好像马哲老师啊……
+但是，如果一个人没有那么大的能量；选择了离开，选择不合作，选择自己的梦想，不可以吗？

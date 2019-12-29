@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <bi@ccert.edu.cn>; Sun, 21 Aug 2005 02:35:47 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <bi@ccert.edu.cn>; Sun, 21 Aug 2005 02:49:01 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 02:17:42 +0800
+Date: Sun, 21 Aug 2005 02:48:52 +0800
+From: "wei" <wei@wnt.com.cn>
+To: bi@ccert.edu.cn
+Cc: "lic" <wang@ccert.edu.cn>, "sunt" <yuan@ccert.edu.cn>, "caoy" <yi@ccert.edu.cn>,
+        "wangb" <zhuang@ccert.edu.cn>, "songhm" <mo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILXn19PJzM7xv+e5+rmry77H81dlYjIuMLjfyta808PLo6E=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+过两天组织面试，请感兴趣的朋友投尽快递简历。
+     标 题: Re: 电子商务跨国公司求Web2.0高手加盟！
+     
+     顶一下
+     
+     电子商务跨国公司求Web2.0高手加盟！
+     -
+     勿站内回信！请投 nanyangbeijing@sina.com, lyl_ziyou@sina.com
+     -
+     任职要求：
+     1、 年轻，有激情，诚实守信，责任心强，技术能力强。
+     2、 英语6级70－85之间，或能够熟练应用英语工作，包括听说读写；
+     3、 熟练掌握web2.0，以及RSS、Blog、SNS、Tag以及WiKi等。
+     4、 有一定的大型网站的策划和运营经验。
+     --

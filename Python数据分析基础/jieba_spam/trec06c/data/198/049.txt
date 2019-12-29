@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R9oOdP018957
+	for <zhuang@ccert.edu.cn>; Wed, 28 Sep 2005 13:26:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8RA1dYd023981
+	for <zhuang@ccert.edu.cn>; Wed, 28 Sep 2005 13:37:25 +0800 (CST)
+Received: (eyou send program); Wed, 28 Sep 2005 13:12:22 +0800
+Message-ID: <327813796.02359@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Wed, 28 Sep 2005 13:12:22 +0800
+From: li@mail.tsinghua.edu.cn
+To: zhuang@ccert.edu.cn
+Date: Wed, 28 Sep 2005 13:12:22 +0800
+Reply-To: li@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7+yfzBy6OstdrSu7TO0ruw3M2/tdiho6GjoaM=?=
+Content-Type: text/plain
+
+以后你就会发现，这不过只是人生中一个小的不能再小的挫折
+以前我也经历过跟你相似的事情
+也许比你更惨，因为我本来是最被看好的……
+失望与绝望的落差让我消沉了半年
+但是慢慢的，更多的事情让我明白这种小事真的不重要，只要你肯面对现实
+     哭了一个晚上。
+     准备了半个多月的快设，最后还是没能发挥好。望着眼前的面试名单，泪水模糊。
+     虽然曾经做好推不上的心里准备，但是当事实摆在面前的时候，还是将近崩溃。。。

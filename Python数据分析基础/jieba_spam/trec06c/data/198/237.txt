@@ -1,0 +1,40 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <tu@ccert.edu.cn>; Wed, 28 Sep 2005 15:52:58 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 08:04:09 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 16:04:08 CST
+Date: Wed, 28 Sep 2005 16:04:08 +0800 (CST)
+From: liang ming <zeng@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM312/O6zbOsyMs=?=
+To: tu@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+罗嗦那么多干吗? 你又不是作research的也不是ph.d吧. 
+ 
+     标  题: 王垠和超人
+     
+     骂他的人，应该都是那些以真正做过研究自居的人或者决心在中国真正做研究的人吧，那王垠认为中国研究环境太差太烂以至于做出这么出格的举动你们应该不难理解吧，不支持一下也不用骂的这么狠嘛。
+     
+     难道他说的不是事实，难道非得都像那个yao说的那样，不要去改变环境，改变你自己？改变自己我不反对，在一个已经这么恶劣的环境里，每个人在表面上都是需要做出妥协的，否则就是愣头青，容易撞个头破血流。但咱们不能不许愣头青尝试改变环境啊，最多像yao那样，建议他不要去尝试，但没有权利禁止啊，今天禁止了他，明天就是禁止自己。今天骂了他，明天你就不好去做他所做过的努力了
+     
+     王垠就是个愣头青，再看他被骂的，白眼狼，不要脸（把他和芙蓉并列），畜牲（出自网上一个人骂他畜牲，占了别人的清华招生名额）...幸好他已经不是8年前的王垠了。
+     
+     看吧，骂还在继续着，因为大家还没骂够呢，你骂够了？我还没有，于是大家继续。芙蓉骂够了没有？没有，好，把芙蓉也拉出来“陪斗”，呵呵呵！哈哈哈！
+     
+     我不是超人，可我喜欢看超人电影，尼采的超人哲学不懂不过懂一点的人跟我说的话我也挺感兴趣的。做白日梦的话几乎总是把自己想象成超人，以后不会了。没用，超人要是被这么多人骂的话也会被骂成白痴的吧。我想超人会学李敖的话说，不跟你们玩了
+     
+     我觉得王垠就有点真的把自己当成超人了，但请别把这跟芙蓉当自己是林黛玉并论，求你别恶心我，别恶心大家还有你自己。
+     
+     首先这个世界上是有“超人”的，姚明、刘翔、华罗庚、陈景润，Knuth，印度有过一个拉马驽金，还有很多，但是我知道的不多。想成为像他们这样的超人绝没有错（除了前两位是优生搞的好），只要有信心并一直努力很可能会成功的。
+     
+     王垠对自己很有信心不用说了，他也努力了（我认为），但是还不够。所以他不是（还不是）超人，可是他却跳出来了，说了一些在他身处的环境里只有超人才允许说的话。于是被骂得成了白眼狼，不要脸，畜牲。
+     
+     有人说他忘恩负义，我觉得他不够格戴这个帽子。国家、学校、老师对他有恩，他却骂国家、学校和老师。这真是忘恩负义，可还不够，因为这恩情还太小了点。他还没有被培养或自我培养成超人就忘恩了，所以说不够格。成为超人以后再开骂就好了，爱怎么骂怎么骂，你可以像朱

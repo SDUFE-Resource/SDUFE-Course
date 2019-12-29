@@ -1,0 +1,30 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <tian@ccert.edu.cn>; Wed, 14 Sep 2005 22:31:53 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <tian@ccert.edu.cn>; Wed, 14 Sep 2005 23:03:01 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Wed, 14 Sep 2005 22:43:08 +0800
+From: "xu" <xu@mail.nisac.gov.cn>
+To: tian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxOPU9dH5v7TNuNK7uPbIyw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+你怎样看透一个人
+看一个国家的国民教育，要看他的公共厕所。 
+看一个男人的品味，要看他的袜子。 
+看一个女人是否养尊处优，要看她的手。 
+看一个人的气血，要看他的头发。
+看一个人的心术，要看他的眼神。
+看一个人的身价，要看他的对手。
+看一个人的底牌．要看他身边的好友。
+看一个人的性格，要看他的字写得怎样。
+看一个人是否快乐，不要看笑容，要看清晨梦醒时的一刹那表情。
+看一个人的胸襟，要看他如何面对失败及被人出卖。 
+看两个人的关系，要看发生意外时，另一方的紧张程度。

@@ -1,0 +1,47 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <sun@ccert.edu.cn>; Thu, 8 Sep 2005 04:31:29 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <sun@ccert.edu.cn>; Thu, 8 Sep 2005 04:43:46 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "zhan" <zhan@126.com>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INeqyMPU0Li+t8C3+Mnkwu281w==?=
+Date: Thu, 8 Sep 2005 04:43:38 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+Results
+The risk of childhood ALL was not linked
+to summary time-weighted average residential magnetic-
+field levels, categorized according to a priori
+criteria. The odds ratio for ALL was 1.24 (95 percent
+confidence interval, 0.86 to 1.79) at exposures of 0.200
+m
+T or greater as compared with less than 0.065
+m
+T.
+The risk of ALL was not increased among children
+whose main residences were in the highest wire-code
+category (odds ratio as compared with the lowest
+category, 0.88; 95 percent confidence interval, 0.48 to
+1.63). Furthermore, the risk was not significantly associated
+with either residential magnetic-field levels or
+the wire codes of the homes mothers resided in
+when pregnant with the subjects.
+Conclusions
+Our results provide little evidence that
+living in homes characterized by high measured timeweighted
+average magnetic-field levels or by the highest
+wire-code category increases the risk of ALL in
+children.
+如果俺没有理解错的话，意思似乎是白血病风险和电磁场暴露没有关系。
+     这个杂志倒是够权威的，待俺看看原文。

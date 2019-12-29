@@ -1,0 +1,40 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <cen@ccert.edu.cn>; Sat, 1 Oct 2005 20:28:16 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sat, 1 Oct 2005 12:39:12 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sat, 1 Oct 2005 12:39:12 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <cen@ccert.edu.cn>; Sat, 1 Oct 2005 06:00:51 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <cen@ccert.edu.cn>; Sat, 1 Oct 2005 07:45:44 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sat, 1 Oct 2005 20:39:07 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <hua@motorola.com>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMj9xOrQwb/gsrvI58PmytTD5rXEusM=?=
+Date: Sat, 1 Oct 2005 20:39:05 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+面试还是应该应该占一定分数的，不然面试还有什么意义？“走过场”不应该是发展的方向
+我们系里老师也说，学分高个0.5分真能说明你在学术研究上比别人更强？连老师自己也不信，只不过像我们系里往年都是大家自己按成绩排好，然后一个萝卜一个坑的去面试，没有什么“双向选择”，只是学生选择老师而已，老师其实也无奈，一共5个本系名额就来5个人面试，你要涮下1个人不就浪费一个名额？从这点来看，面试占一定成绩还是有积极意义的（客不客观是另外一回事，我承认会有些优秀的学生可能拙于言词），至少对系内推研而
+言，是给老师一个选择的机会
+如果真的很优秀，比如学分积足够高，或者研究经历足够牛就没有道理害怕面试，面试也是向别人展示自己能力
+的一个机会；如果几个人成绩差不多（按我们系的博导的说法，差1、2分也不能说明太多问题），兼顾一下你的
+研究情况面试情况按理是一件很正常的事情，毕竟还应该综合考虑你选修课程的情况还有一个人的发展潜力，并
+不是成绩好今后就一定适合搞科研的
+至于素质测评，反正我们系里的老师都清楚，都是各班自己评的，没有太多可比性，基本等于无视。
+     鬼才知道今年面试要占分数
+     辛苦三年的成绩一场面试全没了
+     素质测评？什么玩意

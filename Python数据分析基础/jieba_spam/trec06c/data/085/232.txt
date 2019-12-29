@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83CBlYV005279
+	for <guan@ccert.edu.cn>; Sun, 4 Sep 2005 16:29:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83COHdV019350
+	for <guan@ccert.edu.cn>; Sun, 4 Sep 2005 16:41:47 +0800 (CST)
+Message-Id: <200509031224.j83COHdV019350@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 08:29:18 -0000
+From: "lin" <lin@mail.tsinghua.edu.cn>
+To: guan@ccert.edu.cn
+Cc: <lei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILjVv7TN6mZpZ2h0IGNsdWI=?=
+Date: Sun, 4 Sep 2005 16:41:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5B0C5.716D46C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWwgmMrCakV2o5FTJGgH6GL8DeD6Q==
+
+    还记得里面brad pitt在影院放电影时的恶作剧吗？就是插入几帧XX画面，很快，观众都看不到。这部片里也有：结尾时，两个人拉着手看楼倒，这时屏幕前有东西闪过，回倒定格或慢放，你就会发现这个片里也有那几帧画面。很妙。
+     brad pitt真是帅。以前总以为他是个奶油小生，一直不喜欢，
+     现在才知道演这种酷酷的人帅呆了。他演过的12只猴子里的
+     疯子，也演得很传神，不止帅演技也好。

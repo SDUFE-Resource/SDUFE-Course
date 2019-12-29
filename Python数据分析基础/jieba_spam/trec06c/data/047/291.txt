@@ -1,0 +1,28 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <xue@ccert.edu.cn>; Sat, 27 Aug 2005 12:45:13 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 12:52:43 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 27 Aug 2005 12:52:43 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sat, 27 Aug 2005 12:52:43 +0800
+From: yan@mail.tsinghua.edu.cn
+To: xue@ccert.edu.cn
+Cc: yi@ccert.edu.cn
+Date: Sat, 27 Aug 2005 12:52:43 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgvLHGuNa4zsbKtrHwusvQxMvjt6jP7sS/yMuyxQ==?=
+Content-Type: text/plain
+
+   各位大侠，你们好！赛思猎头公司再次现受美商独资的软件企业委托，招聘符合下列条件的人才，希望大侠们相互转告，并前来应聘。
+1、电力、电子、信号系统、控制工程、图形图像处理或模式识别相关专业硕士以上学位。 
+2、在生物识别、指纹图像处理、图像增强、特征提取和匹配等相关领域有一年以上的实际工作经验。同时在信号处理、系统工程、图像处理、计算机视觉、模式识别、统计决策理论方面有实际的研究技能或发表过业内学术报告且在指纹技术竞赛活动中获奖者优先。   
+3、Windows 和Unix(Linux) 平台下C++、Java的面向对象编程相关技能和经验。
+4、招聘人数：2人
+5、福利待遇：20万RMB以内，特殊情况可以考虑；正式签约录用后且有机会赴美参加培训和学习。
+6、工作地点：上海
+7、如果能在2005年10月前到岗的应届硕士以上毕业生也可。
+联系人；吴小姐
+联系电话：010--64926210    64951914
+E-mail:beijingwu2002@126.com
+网址： www.hr1993.com

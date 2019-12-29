@@ -1,0 +1,27 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M1t1iU004027
+	for <gao@ccert.edu.cn>; Fri, 23 Sep 2005 07:10:02 +0800 (CST)
+Message-ID: <200509220955.j8M1t1iU004027@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO dfder-09mhatbya) (xy-liu04@166.111.53.221)
+  by localhost with SMTP; Thu, 22 Sep 2005 23:17:48 -0000
+From: "tian" <tian@mails.tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [SPAM] Re: Re: [SPAM] Re: Re: Re: =C5=A3=BD=CC=CA=DA=B5=C4=B1=A8=B8=E6=BB=C3=B5=C6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon846281475675_====="
+Date: Fri, 23 Sep 2005 07:22:51 +0800
+
+主题：IBM软件开发相关（题目待定）
+时间：9月23日晚19：00
+地点：北京大学英杰交流中心新闻发布厅（大概200人）
+演讲题目：创新价值，“开发”我极限！
+----我与IBM中国开发中心同行 
+主讲嘉宾: 毛新生（IBM大中华区及北亚地区软件首席架构师）
+你想参与一个伟大的产品的开发吗?
+你想与一个伟大的团队一起进步吗?
+蓝色巨人将把百年经典与你共享.....
+机会难得，欢迎大家踊跃参与，谢谢！
+注：IBM的校园招聘即将在10月中展开，希望大家届时密切关注校园BBS。（包括研发、销售、技术支持、咨询等）
+温馨提示：今天晚上有雨，请大家备好雨具，谢谢！

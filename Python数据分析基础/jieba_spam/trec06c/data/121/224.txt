@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4tSbr027739
+	for <wu@ccert.edu.cn>; Mon, 12 Sep 2005 17:17:08 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4qb7D090785
+	for <wu@ccert.edu.cn>; Mon, 12 Sep 2005 17:14:42 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4qXBY090781
+	for <wu@ccert.edu.cn>; Mon, 12 Sep 2005 17:14:13 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EDyGt-000FfA-00
+	for toefl@gradinfo.net.edu.cn; Mon, 12 Sep 2005 18:13:07 +0800
+Message-ID: <007a01c5b5c5$4bb2c900$2fcb6fa6@wanglanjia>
+From: "guan" <guan@ns.6test.edu.cn>
+To: wu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgKHVwZGF0ZWQpw8C5+rTz0aeyqcq/yfq6zbKpyr+689Dox/PQxc+i?=
+Date: Mon, 12 Sep 2005 17:26:49 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1216707451=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+谢谢各位和我联系的同学，我已经筛选了一些，转发给我的朋友。恕我不一一回信，如果美国老板也感兴趣的话，我会告知联系方式的（下周三之前）。
+那些没有提供足够多信息的同学，如果真感兴趣又怕上当的话，可以把你的PUBLICATION LIST和做过的研究工作介绍一下即可。
+另外提醒一下，那老板对博士后的要求较高，要有IDEAS，一年要发两篇文章，所以说国外博士后也不是好混的，大家要想清楚了。

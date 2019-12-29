@@ -1,0 +1,25 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <han@ccert.edu.cn>; Tue, 23 Aug 2005 19:47:01 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <han@ccert.edu.cn>; Tue, 23 Aug 2005 20:00:12 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "zhu" <zhu@126.com>
+To: han@ccert.edu.cn
+Cc: <lu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILqjueq1xLunv9rOysziICjXqtTYKQ==?=
+Date: Tue, 23 Aug 2005 20:00:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+北京有政策，如果你有国外的学位，经过认证，不管你原来户口是哪的，可以在北京落户，上海应该有类似的政策，可以到相关部门咨询一下，这是比较简单的做法。
+档案比较麻烦，如果还在学校可能要通过教育部的相关部门才能调出，不过有可能你的学校已经把你的档案扔到人才交流中心去了，需要上海相应机构出具调当的材料。
+     发信人: Skylar05 (Eva~努力潜水), 信区: Career_Offer
+     标  题: 海龟的户口问题

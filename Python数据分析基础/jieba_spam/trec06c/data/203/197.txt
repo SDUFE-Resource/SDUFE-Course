@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <bai@ccert.edu.cn>; Thu, 29 Sep 2005 10:56:34 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Thu, 29 Sep 2005 02:42:50 -0000
+Date: Thu, 29 Sep 2005 11:08:34 +0800
+From: "yang" <yang@mail.tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+本来打算买烟酒，但是妈妈不让，因为我爸爸最近身体不好，不能喝酒；也不让买好烟，都是普通人家，没必要讲排场。
+买保健品，心里没谱，况且药补不如食补……
+买衣服更没谱，不 知道是否合适。
+已经买了点他老家的特产，一共100块左右
+我们都是刚毕业不久的，没什么积蓄，打算买500左右的礼物
+请各位过来人指教！
+还要一件事情，也在这里说了吧
+我们家在上海开店，地方很小，我每次回去都是临时铺床，这次gg一起去，更是住不开了，我们希望在附近找个便宜的旅馆住。但是我父母不同意，认为将就一下就过去了，没必要花额外的钱。我觉得gg第一次去看我父母（虽然不是我家）就是客人，不能太委屈，附近旅馆也花不了多少钱，再说我去他家好几次，从来都是优待。我gg也不愿意，因为他不习惯跟陌生人睡一个床甚至是一个房间，――又娇生惯养的嫌疑，但是城市里的孩子哪个不是有些这样的毛病。我大姨说，这点苦都吃不了，还怎么取媳妇。我觉得这样说有些刻薄，况且，就算是娇生惯养也不应该由我们家现在来教育，那是他家该做的事情。
+欢迎各位拍砖！

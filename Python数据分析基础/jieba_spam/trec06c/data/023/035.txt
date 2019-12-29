@@ -1,0 +1,43 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <mo@ccert.edu.cn>; Sun, 21 Aug 2005 19:47:50 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <mo@ccert.edu.cn>; Sun, 21 Aug 2005 20:00:52 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 20:24:20 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: kong@126.com
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?ofEgR0UgSGVhbHRoIENhcmXV0Ma4yO28/rmks8zKpg==?=
+Date: Sun, 21 Aug 2005 19:55:34 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+GE CS-DCAR Recruiting:(BeiJing)
+Software Engineer:3-5
+Responsibility:
+・      为Market &amp; Sales Team提供IT技术和心电信息系统方面的咨询服务，帮助客户实施相关心电信息系统，改善工作流程和效率 
+・      收集客户需求及其工作流程，为下一代心电信息系统提供设计输入 
+・      开发新一代心电信息系统
+ 
+Requirement:
+・      电子/计算机/软件相关专业硕士以上学历 
+・      精通主流的信息系统实现技术，有相当的编程功底和网络知识，较强的C/C++及数据库开发能力
+・      精通各种通讯协议和编程实现，如局域网、串口、红外、蓝牙、USB等
+・      了解信息系统的项目管理，计划和实施，具备丰富的IT实现技术 
+・      善于与客户沟通，收集与了解客户的真正需求，具备较强的逻辑思维和书面书写能力 
+・      较强的英语能力，学习能力和沟通技巧，具有高度自主性和高度负责任的工作态度 
+请将中英文简历发送至：
+JinDi.zhang@med.ge.com
+YongGto.zhang@med.ge.com

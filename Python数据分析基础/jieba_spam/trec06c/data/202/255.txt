@@ -1,0 +1,20 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9qIIm028353
+	for <ye@ccert.edu.cn>; Thu, 29 Sep 2005 07:56:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SA3UnO014607
+	for <ye@ccert.edu.cn>; Thu, 29 Sep 2005 08:07:49 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 07:42:14 +0800
+Message-ID: <327900275.22130@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 07:42:14 +0800
+From: rao@mail.tsinghua.edu.cn
+To: ye@ccert.edu.cn
+Date: Thu, 29 Sep 2005 07:42:14 +0800
+Reply-To: rao@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7SvvW1w7/G0ae1vc/W1NrS0b6tysfSu7fduaTX98HL?=
+Content-Type: text/plain
+
+这 这 难道不是常识吗？ 觉得以前人家把科研交给清教徒也是不错的 以前不是贵族在做吗
+科研已经算是非常非常高贵的工作了 王同学还是不满意 唉 
+     科学的细化和高度的资金需要，使得过去那种创造知识，发现知识的为基础的研究不可能 再继续下去啦。而且如果要有所突破，必须有大量的人力物力投入，而投入的人或公司国家不可能没有现实的目的。像爱因斯坦那样靠兼职就能做出那样的理论的时代已经过去了。所以，科研，

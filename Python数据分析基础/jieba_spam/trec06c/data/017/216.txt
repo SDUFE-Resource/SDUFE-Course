@@ -1,0 +1,24 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8V0cL023464
+	for <shen@ccert.edu.cn>; Sat, 20 Aug 2005 16:12:14 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 40F4F0045593
+	for <shen@ccert.edu.cn>; Sat, 20 Aug 2005 16:25:32 +0800 (CST)
+Date: Sat, 20 Aug 2005 16:19:38 +0800
+From: "kong" <kong@sohu.com>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxM/R88DtuaS089Gn1dDK1bKpyr/R0L6/yfo=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084420.40F4F0045593@sohumx06.sohu.com>
+
+南洋理工大学招收博士研究生，方向为“移动通讯设备信息检索” ，“在线智能信息检索” ， “数字图书馆” ，“数据挖掘”  (可任选其一)。提供全额奖学金，每月1400~1500新元 (汇率约为1：5) ，学制3-5年。助教工作另有补贴(40新元/小时) 。
+入学要求：申请者必须至少拥有计算机(或相关领域)学士学位。硕士将优先考虑。GRE 和托福成绩。本科成绩单。个人简历。年龄不限。有相关研究经验者，优先录取。申请程序，请参考：http://www.ntu.edu.sg/GradStudies/Research+Programmes/
+名额有限，请从速报名。截止日期为：2005，12/31。 
+欢迎来信查询。
+联系方式：p148934363@ntu.edu.sg; ashlgoh@ntu.edu.sg (English only)
+教授主页：http://www.ntu.edu.sg/home/ashlgoh
+电话：65-67906564 (Mr Fu Lin) (Chinese /English), 65-67906290 (Dr Goh, Dion)(只限英语)

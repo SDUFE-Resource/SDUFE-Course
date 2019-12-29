@@ -1,0 +1,62 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <yun@ccert.edu.cn>; Tue, 16 Aug 2005 15:36:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <yun@ccert.edu.cn>; Tue, 16 Aug 2005 15:50:02 +0800 (CST)
+Received: (eyou send program); Tue, 16 Aug 2005 15:44:57 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Tue, 16 Aug 2005 15:44:57 +0800
+From: xin@mail.tsinghua.edu.cn
+To: yun@ccert.edu.cn
+Date: Tue, 16 Aug 2005 15:44:57 +0800
+Reply-To: xin@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgzqK93cLrKE1hZ21hKbGxvqnR0Lei1tDQxNXQxrhRQdK7w/s=?=
+Content-Type: text/plain
+
+北京微捷码科技有限公司研发中心招聘启事
+ 
+*******
+公司简介
+*******
+北京微捷码科技有限公司(Magma Beijing)是美国Magma公司(www.magma-da.com)的北京
+分部。作为全球成长最快的电子设计自动化(EDA)软件和设计服务的供应商，Magma提供
+从RTL硬件描述到硅片实现(RTL-To-Silicon)最快速解决方案，使得芯片设计人员可以
+有效处理百万门级的芯片设计，提高性能，满足日益紧迫的设计面市时间
+(time-to-market)要求。公司成立于1997年，总部设在美国加州的Santa Clara，销售
+及技术服务机构遍布全球。公司股票在纽约证券交易所上市（代号：LAVA）。 欲了解
+更多关于Magma公司的信息，请访问公司网站www.magma-da.com。
+ 
+Magma Beijing研发中心是Magma公司在北京的SPS（Structured Programmable
+Solution）研发分部，主要从事分立可编程逻辑器件(stand-alone PLDs)，结构化专用
+集成电路(structured ASIC)，嵌入式可编程器件(Embedded PLDs)EDA工具/算法的研究
+与开发。目前公司正在扩充研发队伍，招聘计算机及电子工程专业各级研发工程师。作
+为拥有专业领域内成就卓著的专家队伍的新兴高科技公司，Magma为有识之士提供独一
+无二的、令人激动和富有挑战性的工作环境，从而共同学习和成长，创新与超越。
+ 
+我们期待着你!
+ 
+****************
+招聘职位：QA工程师
+****************
+职    责：
+(1)测试：运用各种手段找出软件的各种错误
+(2)验证: 利用形式验证及模拟验证多种方法测试软件的正确性。
+(2)测试用例测试环境的构造与维护:
+ 
+要    求：
+(1)计算机或电子工程专业学士以上学历。
+(2)具有ASIC/FPGA设计经验，熟悉芯片设计流程，熟悉硬件描述语言(VHDL/Verilog)。
+(3)具有细心，耐心，具有严谨的工作态度。
+(4)具有一定的C++编程经验
+(5)具备良好的英文交流能力
+(6)具有RTL及逻辑/物理综合知识/开发背景者优先。
+ 
+*******
+联系方式
+*******
+地    址：北京市北四环西路理想国际大厦701-703
+邮政编码：100080
+电   话：（010）82607060 转 3301
+联 系 人：张东晓 博士(dzhang@magma-da.com, zdxxlq@public3.bta.net.cn)

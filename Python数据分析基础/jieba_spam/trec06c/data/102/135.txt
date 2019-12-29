@@ -1,0 +1,35 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <wen@ccert.edu.cn>; Thu, 8 Sep 2005 15:18:39 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Thu, 8 Sep 2005 07:30:54 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Thu, 8 Sep 2005 07:30:54 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Thu, 8 Sep 2005 07:30:54 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "zeng" <zeng@iim.ac.cn>
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQyMu7ubzHtcPUrcC0obbV/bTzvuezoaG3sqW5/cqyw7S159Oww7Sjvw==?=
+Date: Thu, 8 Sep 2005 15:31:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+呵呵，你说的《时间隧道》是那个系列吧？
+就是试验出了问题，俩人不停的在各个年代跑来跑去的。。。
+但是总是没法回到现在。。。
+我记得这好像不是正大剧场
+而是中央台引进的一百部二十世纪福克斯电影里放的
+另外再补充一个正大剧场的：《夜惊魂》
+英文名字可能是child in the night
+讲一个家庭里的杀人案，爷爷杀了自己的儿子，但是被孙子看到了
+孙子过于惊吓变得自闭，称呼看到的凶手为“钩子船长”
+看的时候还是觉得很吓人的，这个片子
+演小孙子的那个，现在已经非常著名了
+就是指环王里演Frodo的Elijah Wood
+     时间隧道？

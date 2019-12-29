@@ -1,0 +1,50 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8SBi0E8029027
+	for <gong@ccert.edu.cn>; Fri, 30 Sep 2005 03:45:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SBtAlB017695
+	for <gong@ccert.edu.cn>; Fri, 30 Sep 2005 03:56:23 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 29 Sep 2005 19:30:39 -0000
+Message-ID: <000c01c5c423$728140e0$0c42423b@tunoc1a645037e>
+From: "zhao" <zhao@mail.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILDvw6a5wLzGuPa31rDJ?=
+Date: Fri, 30 Sep 2005 03:56:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C466.808A4220"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+你狠。。
+数学一先把教材看一遍，
+再把灯哥指南看一遍，
+然后狂做真题，
+110+还是有可能的。
+政治看真题就好，
+十年考研政治真题分类解析，高教组编，新华出版社
+仅仅看这本真题就足够送你考到70了，
+能不能搞到70+看rp不看努力程度
+英语狂看20篇经典GRE阅读，70+还是有可能的。
+如果你到现在都还没看过半导体物理教科书，
+最好马上决定是否考这门专业课。
+要知道，“差”和“没学过”是有本质区别的。
+~
+总体来讲这个理想过于理想了点儿，
+和现实相比还是有一定差距的，
+不过希望绝对有，
+好好努力吧！
+现在开始准备
+考数学一
+微积分超差
+概率没学过
+线性代数超差
+能不能110＋
+政治等着突击70＋
+英语4、6级过及格线70＋
+专业考半导体物理、器件及集成电路  （不知道难不难，信号与系统差）
+110＋
+这个理想现实吗？

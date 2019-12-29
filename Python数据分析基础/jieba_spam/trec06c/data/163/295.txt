@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KNVQWO026957
+	for <ye@ccert.edu.cn>; Wed, 21 Sep 2005 15:04:56 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8KNgrSA012901
+	for <ye@ccert.edu.cn>; Wed, 21 Sep 2005 15:16:27 +0800 (CST)
+Message-Id: <200509202342.j8KNgrSA012901@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 21 Sep 2005 06:54:43 -0000
+From: "tang" <tang@mail.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Cc: <you@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgZHahtrHP0rXI/bDZzOyht1/G+zEyt+7P1yAo16rU2Ck=?=
+Date: Wed, 21 Sep 2005 15:16:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0056_01C5BE80.0E54D8A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW+PP+dE9Zps0Q1RamkdUKgZkzF9Q==
+
+【 以下文字转载自 DAE 讨论区 】
+发信人: guiyun (归云), 信区: DAE
+标  题: dv《毕业三百天》_汽12奉献
+地址：汽车系科协ftp （59.66.158.123/incoming/newvideo/毕业三百天 autouser auto）
+ps:现在movie目录下的是非完整版
+欢迎大家指点
+片名：《毕业三百天》（２００５）
+导演：张弦
+主演：葛强强
+      黄山
+      李可瑞
+制片：葛强强
+剪辑：张弦
+编剧：孙新
+出品：清华大学汽车系１２班
+剧情简介：
+    故事从毕业前三百天开始，这时大家都面临毕业，读研、工作、出国的选择，
+同时纪念大学四年生活的dv拍摄。围绕三大主人公之间的感情、读研、工作，种种矛盾
+逐渐展开----
+   这里有清华特定的感情故事，朦胧、残忍、现实、无奈；
+　 这里有清华典型的同学关系，互相尊重，明争暗斗；

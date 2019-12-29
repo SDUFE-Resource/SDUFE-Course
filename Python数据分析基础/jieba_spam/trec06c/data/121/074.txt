@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5cufv027982
+	for <xin@ccert.edu.cn>; Mon, 12 Sep 2005 15:18:56 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5aHKJ091531
+	for <xin@ccert.edu.cn>; Mon, 12 Sep 2005 15:16:30 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5aEwf091527
+	for <xin@ccert.edu.cn>; Mon, 12 Sep 2005 15:16:14 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 15:05:23 +0800
+Message-ID: <326329923.15072@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 15:05:23 +0800
+From: ke@mails.tsinghua.edu.cn
+To: xin@ccert.edu.cn
+Date: Mon, 12 Sep 2005 15:05:23 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILW8yqajrL3QztLWqrXAyrLDtMrHwOTFr9fU1qo=?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: ke@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+不管怎么样，觉得人有时就得硬着头皮上啊，虽然我也不喜欢违心的说一些话，做一些事情讨老师喜欢的，但是这个社会没办法啊，我三年教师节就今年本来想送点礼物给老师的，结果老师出差不在，只好发条信息算了，我的一个小师妹刚来就张罗着说要送礼物给老师，我第一年忙着上基础课以及在外面的打工，一直拖到研二十月份才找老师给我安排课题什么的，不过开了你的经历，很感谢我的老师，对我们都很好，是个好人。
+     今年，相同的饭店，相同的包间，同门聚会
+     不同的是，我们成了师兄、师姐
+     而去年，我们刚进门，有些紧张和手足无措

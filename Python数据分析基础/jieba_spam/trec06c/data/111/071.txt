@@ -1,0 +1,51 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <chi@ccert.edu.cn>; Sat, 10 Sep 2005 14:12:58 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Sat, 10 Sep 2005 14:30:58 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Sat, 10 Sep 2005 14:30:57 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "zeng" <zeng@mail.csu.edu.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgQU5TWVMtQ0hJTkGxsb6psOzKwrSm1dDGuKO6tee0xbjfvLbTptPDuaSzzMqm?=
+Date: Sat, 10 Sep 2005 14:12:24 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+ANSYS-CHINA北京办事处招聘：电磁高级应用工程师
+职位要求:  
+1. 通讯、电磁场与微波技术及其相关专业，硕士以上学历，博士优先；
+2. 精通电磁场数值算法和高频近似算法，电磁基本功扎实；
+3. 有大型高低频电磁有限元分析程序的使用或者工程分析经验或者编程经验；
+4. 独立科研能力强，思路清晰，严谨科学地分析问题和解决问题能力；
+5. 有较好的人际沟通、协作和表达能力。
+优先条件等其他说明:
+1. 具有航空航天或兵器行业的电磁工程经验或者相关知识，独立承担过该行业电磁工程项目的有限元分析和相关
+工作；
+2. 具有深厚电磁理论或者数值计算专业背景，有丰富的有限元编程经验；
+3. 能够随时正式上班。
+联系方式：techsupp.bj@ansys.com.cn
+ANSYS-CHINA北京办事处招聘技术工程师
+ 
+职位要求:  
+1. 力学、航空航天、兵器科学或其他理工科相关专业，硕士以上学历，博士优先；
+2. 精通数值计算方法和有限元技术，力学基础扎实；
+3. 有大型有限元分析程序的使用或者工程分析经验或者编程经验；
+4. 独立科研能力强，思路清晰，严谨科学地分析问题和解决问题能力；
+5. 有较好的人际沟通、协作和表达能力。
+ 
+优先条件等其他说明:
+1. 具有航空航天或兵器行业的工程经验或者相关知识，独立承担过航空航天或者兵器行业工程项目的有限元分析
+和相关工作；
+2. 具有深厚固体力学或者数值计算专业背景，有丰富的有限元编程经验；
+3. 了解或者熟悉企业信息化知识。 
+ 
+简历投送到：techsupp.bj@ansys.com.cn

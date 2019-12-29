@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <kong@ccert.edu.cn>; Sat, 24 Sep 2005 14:01:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <kong@ccert.edu.cn>; Sat, 24 Sep 2005 14:12:21 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 05:49:21 -0000
+From: "wei" <wei@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: <ren@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sat, 24 Sep 2005 14:12:11 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+这不是环境的问题。
+他条件算不错的了，他说计算几何好，他老板还专门请老师来和他谈，组织讨论。
+说data minning好，就给他时间搞。我可以说，大多数国外的都没这个环境。
+问题是他自己没长性，一个个东西不了了之，到了四年级，什么东西都没出。
+做学术研究没韧性，光玩些花胡哨，容易上手的，那是不可能有成绩的。
+总不能博士论文写Tex的应用ba
+     退学很正常，清华的博士退学的多了去了。退学我也很赞成，因为觉得没劲，那就不玩了。自己觉得什么适合自己，就去做什么好了。
+     但是唧唧歪歪的我不喜欢。一件事没有做成功，理由百分之百都是体制、是环境、是导师。却不考虑一下自己有没有不足的地方。
+     国内做research是垃圾――没错，我到了国外，我现在做的也还是垃圾，是大便。我不是维纳，也不是香农，可是多数人都不是。他或许还不明白，其实科学之花是需要大便做养料的。

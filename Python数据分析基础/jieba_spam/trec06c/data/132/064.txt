@@ -1,0 +1,38 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBVolI019299
+	for <bi@ccert.edu.cn>; Wed, 14 Sep 2005 20:12:14 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8DBSOBg018678
+	for <bi@ccert.edu.cn>; Wed, 14 Sep 2005 20:09:19 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn ([166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8DBSHbY018673
+	for <bi@ccert.edu.cn>; Wed, 14 Sep 2005 20:08:46 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 14359 invoked by uid 512); Wed, 14 Sep 2005 12:17:08 -0000
+Message-ID: <20050913113644.14358.qmail@stu.ee.tsinghua.edu.cn>
+From: fan@stu.ee.tsinghua.edu.cn
+To: bi@ccert.edu.cn
+Date: Wed, 14 Sep 2005 20:17:08 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6INeqzPmjq9SttLSjurfWytbSu7j21MK1xLjQzvI=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+看出来了，你把原来的那篇文章每一段又加了几句话，作为你对原文的理解和延伸
+     世界上有两件事是永远也勉强不了的，小时候是学习的兴趣，长大了，是爱情。 
+     ----- 这，是一面镜子，勇敢放弃，勇敢面对，勇敢重新开始。 
+     当他不爱你的时候，无论过去他是否爱过后来却忘了，又或者从未爱过，总之，当你无法成为他心里的那个人的时候，他的心便不会记得你，更不会在乎你。就算他知道你深爱他，偶尔也能感觉得到你的关心，但他宁可装作是不知道。不爱了的那个人永远是先放得开的，所以，请你也

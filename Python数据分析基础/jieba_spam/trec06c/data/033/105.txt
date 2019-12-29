@@ -1,0 +1,23 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <wang@ccert.edu.cn>; Wed, 24 Aug 2005 11:46:51 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Wed, 24 Aug 2005 12:05:14 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 12:05:14 +0800
+Date: Wed, 24 Aug 2005 12:05:14 +0800
+From: weng@cernet.com
+Subject: =?gb2312?B?ofEg1dDGuEpBVkG/qreiyMvUsQ==?=
+To: wang@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+招聘要求： 1、 在J2EE平台下有过两年以上的开发经验，熟悉JSP/Servelet/EJB/WebService的开发模式 2、 开发过比较大型的项目，有过CallCenter及OA项目开发经验者尤佳 3、 熟悉Tomcat/JBoss/WebLogic等至少一种应用服务器的配置与使用 4、 熟悉SQLServer/Oracle等至少一种大型数据库的配置与使用 5、 熟悉Structs或其他Web表示层技术 6、 具备界面设计和美工能力 7、 能够在两个月内，保证全职工作，如果表现好，可考虑长期聘用 8、 薪水4500/月起，可根据实际工作情况与应聘人员水平进行调整 9、 可根据要求进行短期出差 有意者，请首先将简历发至下面所列邮箱 梁晓峰北京慧谷阳光科技有限公司统一媒体事业部 liangxf@bhgss.com 010-82634353 13810224558

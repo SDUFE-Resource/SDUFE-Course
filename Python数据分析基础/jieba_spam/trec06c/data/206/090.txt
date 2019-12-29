@@ -1,0 +1,25 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <wen@ccert.edu.cn>; Thu, 29 Sep 2005 22:10:23 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 14:21:34 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 22:21:33 CST
+Date: Thu, 29 Sep 2005 22:21:33 +0800 (CST)
+From: liang ming <tan@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILTTvqvSx8+1y7a1vb3wyNqyqaOstPO80rDvztLGwLzb0rvPwr/J0NDQ1LDJ?=
+To: wen@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+谁说精仪就业前景不好……
+培养一个金融高端人才需要得时间&lt;&lt;培养一个数控高端人才得时间……
+而且这学期我们数控专业课老师不停地告诉我们，仅是比较强得数控编程员月薪都是1~2w over……
+         我是清华土著，本科就在精仪系，现在推到了精仪系，正读研一。其实刚一进来就觉得有点后悔，因为其实不是很喜欢现在的专业，而且就业前景不大好，虽然也不是很差。推研又无奈当时的实力不足以竞争交叉到外系。
+         现在有点到读金融博士的想法。去那里也不是想做金融的研究，只是感觉现在金融方面的高端人才较少，学出来可以找到很好的工作。
+         不过其实还是有点犹豫，毕竟有几年的成本在里面，不知道值不值。

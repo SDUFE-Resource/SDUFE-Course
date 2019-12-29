@@ -1,0 +1,43 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <gong@ccert.edu.cn>; Fri, 26 Aug 2005 10:18:01 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 10:36:21 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 10:36:21 +0800
+Date: Fri, 26 Aug 2005 10:36:21 +0800
+From: kang@cernet.com
+Subject: =?gb2312?B?ofEg1dDGuKOoyc+6o6OpMS0xLjV3L9TCzfjC57jfvLa5pLPMyqYoyNXT7zK8tik=?=
+To: gong@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+【 以下文字转载自 Internetwork 讨论区 】
+发信人: nkeni (阿标), 信区: Internetwork
+标  题: 招聘（上海）1-1.5w/月
+我的一个猎头朋友拖我找人，本来问我去不去，可惜我不懂日语，加上我只做软件，
+那就在这里看看有没有牛人想去。
+这个职位在上海，应聘的人不一定在上海，只要能自己去上海面试就行了。
+合适的话发个简历去rebecca@docenwell.com.cn
+网络高级工程师 ***
+工作内容：1. LAN/WAN网络集成的设计、咨询 
+　　　　　2. Switch、Router、Firewall等网络产品的安装以及维护 
+　　　　　3. 各种服务器（Unix、Linux、Windows）、客户端PC的安装以及维护 
+要求：    1. 必须具有三年以上网络（包括PBX相关内容）的设计、搭建、运行经验
+          2. 具有与客户以及Distributer进行交流的能力
+          3. 能够用日语或者英语进行交流
+          4. 具有收集市场新产品以及客户信息的能力
+          5. 具有IDC等大规模网络系统运行经验者更佳
+          6. 持有CISCO认定证书（CCNA、CCNP、CCIE）Microsoft认定证书（MCP、MCSE）的优先考虑
+ 
+          7. 大专以上学历
+          8．必须精通日语
+(好像日语2级以上就行）
+最好这两天啊，比较急，过了这个村只能等下个店了
+联系方式:rebeca@docenwell.com.cn或者nkeni@sina.com

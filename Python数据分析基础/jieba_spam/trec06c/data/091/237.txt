@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j84BWCO8010390
+	for <kong@ccert.edu.cn>; Tue, 6 Sep 2005 07:47:35 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j84BiZ6j013553
+	for <kong@ccert.edu.cn>; Tue, 6 Sep 2005 07:59:57 +0800 (CST)
+Message-Id: <200509041144.j84BiZ6j013553@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 23:46:55 -0000
+From: "lei" <lei@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: <zhong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IExHvrnIu7+0srvG8M7S1/a1xNGh1PF+?=
+Date: Tue, 6 Sep 2005 07:59:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0013_01C5B189.0E6B0DE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWxRgAkfQvScnIOSFuuPXHC6GmLbg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+经营这种VOIP业务的事情我的亲人中有人做过这种打算
+问我的意见
+产品特性一模一样，所以我想楼主很大可能也是经营同样的东西
+这种产品本身如何我还没来得及确认，但却发现这个公司的经营模式根本就是变相的传销！
+通过发展下线来获得各种奖励，与赤裸裸的传销相比，它不过是依托了一个看起来似乎很
+有感觉的技术产品。也许公司的成本要大于9分钱/分钟，完全靠这种人吃人的传销来赚取
+利润
+随便贴一个新闻给大家看看吧 http://www.dl931.com/html/200582291817.htm
+希望楼主经营的不是这种鬼玩意儿，否则岂止是‘看不起’
+     我准备做一个数字电话机的北京区域代理，
+     心想如果直拨能把国内长途降到9分钱/分钟，而且同样电话之间通话费永远为零，
+     还是很有市场的啊，（要有宽带支持）

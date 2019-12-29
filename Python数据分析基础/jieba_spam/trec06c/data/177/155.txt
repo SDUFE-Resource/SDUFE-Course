@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <pu@ccert.edu.cn>; Sat, 24 Sep 2005 09:30:32 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 09:19:32 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 24 Sep 2005 09:19:31 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 24 Sep 2005 09:19:31 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 01:19:31 -0000
+From: "yana" <yana@mail.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMu1yrW7sKOsztKxyL3PxeW3/rzGy+O7+sTHuPbN9dvz?=
+Date: Sat, 24 Sep 2005 09:41:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+ 你敢鄙视伊？
+     标  题: Re: 说实话，我比较佩服计算机那个王垠
+     
+     俨然
+     : 555你瞧不起我
+     
+     
+     --
+               *       =┴=    

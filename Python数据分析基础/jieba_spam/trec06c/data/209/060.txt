@@ -1,0 +1,26 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <yana@ccert.edu.cn>; Fri, 30 Sep 2005 12:19:43 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Fri, 30 Sep 2005 12:22:41 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 04:22:41 UT
+To: yana@ccert.edu.cn
+From: yan@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEg1N7Su7j20KPSvdS6tcS2+rHHuu2/xrXE0r3J+g==?=
+
+恩，今天早上喉咙不适，去医院挂了耳鼻喉科
+找了靠北边的那个诊室靠窗的女医生（我每次去看病都找她）
+态度很和蔼，很热心的给我看了将近一个小时，把咽喉和喉咙检查了个遍，连声带都
+给检查了。
+本来我就是想开点药走人，但医生说，多做几个检查可以让自己放心，明白没有别的
+毛病。非常的耐心热情，回来后越想越感动。
+昨天刚陪mm去海淀医院的耳鼻喉科拔了鱼刺，相比之下，我受的待遇简直是高了n个级别，
+态度和服务也好了n个级别
+在这里赞一下，以后看病还去找她，真不错。

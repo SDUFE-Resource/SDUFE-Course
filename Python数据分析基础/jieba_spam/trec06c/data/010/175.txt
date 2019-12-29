@@ -1,0 +1,30 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <yana@ccert.edu.cn>; Fri, 19 Aug 2005 06:09:43 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <yana@ccert.edu.cn>; Fri, 19 Aug 2005 06:22:47 +0800 (CST)
+Date: Fri, 19 Aug 2005 06:17:04 +0800
+From: "tao" <tao@sohu.com>
+To: yana@ccert.edu.cn
+Subject: =?gb2312?B?ofEguavLvtXQxrjW+sDt?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+业务助理（1名）
+工作职责：整理文档，编制分析报表等
+要求：
+      1，精通网页制作，网页设计，需要提供网页制作作品
+      2，沟通能力强，有较强的文字表达能力
+      3，熟练使用办公软件（Word,Excel,PowerPoint等）
+      4，较强的团队协作和独立完成既定工作的能力
+      5，具有创业精神和创新思想，良好的思想品德素质和职业道德
+      6，有相关经验的优先考虑
+      7，女性（最好），性格文静
+      8，兼职/全职，兼职需要有很多的空余时间（特别是10月份前）
+      
+注：本公司为刚注册成立的公司，所以想在大公司工作的同志请止步。
+有兴趣者请将个人简历发送至：mt_information@yahoo.com.cn ，请注明薪资要求，我们会对通过简历筛选的人发出面试通知，谢谢关注！

@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <tao@ccert.edu.cn>; Thu, 15 Sep 2005 00:28:15 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <tao@ccert.edu.cn>; Thu, 15 Sep 2005 00:40:16 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 16:22:49 -0000
+From: "shen" <shen@mail.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Cc: <zhao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILjVv7TN6qG2zNOz9r/LwqG1uqG3?=
+Date: Thu, 15 Sep 2005 00:40:11 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+"I,Robot" is a better movie than "The Island",have to admit.
+     还是老一套，类同于the clonus horror就是没创意了；创意是什么？大多数观众看了觉得意料之外情理之中这就叫创意；如果不是先把创意这个标竿牵涉进来，使得大多数观众联系到了日常生活中关于克隆，器官移植的知识，联想，他们会以没有创意为由贬低这电影么？显然不会。

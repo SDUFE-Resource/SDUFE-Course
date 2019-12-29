@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ID8DYi008045
+	for <luo@ccert.edu.cn>; Mon, 19 Sep 2005 03:29:01 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8IDJqRe004245
+	for <luo@ccert.edu.cn>; Mon, 19 Sep 2005 03:40:40 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 18 Sep 2005 19:20:17 -0000
+Message-ID: <017301c5bc53$c8f1e290$787d6fa6@hotline>
+From: "you" <you@mail.tsinghua.edu.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzca89ry4uPa+rbXkxqwgeno=?=
+Date: Mon, 19 Sep 2005 03:41:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0170_01C5BC96.D6F872D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+公认的经典我都用星号标了出来，至于没有标的有些人可能认为是经典，有些可能不认为，这就涉及到个人的审美了。之所以搜集进去是因为大家既然已经发了出来就说明是想推荐出来的电影，至于好坏就依人而定了
+注；加星号的是公认的经典
+A 埃及艳后 爱有天意 *阿飞正传 *阿甘正传 *暗战 *艾德伍德传 阿朗的故事 *安尼-霍尔 *阿拉伯的劳伦斯 *暗花 *爱国者
+B *霸王别姬  *搏击俱乐部 *疤面刹星 *变脸 *兵临城下 柏林苍穹下 不可饶恕 *八英里 八部半 *毕业生 办公室的故事 *冰雪暴 *悲情城市 布拉格之恋 *八月照相馆 八美图 *宾虚 *本能 变相怪杰 碧海蓝天 保镖
+C *重庆森林 *春光乍泻 出埃及记 *沉默的羔羊 *楚门的世界 *猜火车 春夏秋冬 春逝 *出租车司机 查特莱夫人的情人 纯真年代 沉睡者 超人 极限特工
+D *大话西游 *东成西就 *低俗小说 *夺宝奇兵123 *第六感 德尔苏-乌扎拉 第六感生死缘 断箭 *大逃杀 东方不败 *盗火线 *第5元素 *第七封印 德州电锯杀人狂 *大鱼 当哈里遇上莎莉 *东邪西毒 盗佛线 大篷车 *独立日 堕落天使 *大河恋 大开眼戒 *喋血双雄 导盲犬小Q 帝企鹅日记 

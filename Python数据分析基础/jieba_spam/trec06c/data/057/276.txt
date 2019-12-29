@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <hu@ccert.edu.cn>; Tue, 30 Aug 2005 07:11:17 +0800 (CST)
+Received: (eyou send program); Tue, 30 Aug 2005 07:15:40 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 30 Aug 2005 07:15:40 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Tue, 30 Aug 2005 07:15:40 +0800
+From: "han" <han@mail.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Date: Tue, 30 Aug 2005 07:15:40 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgzeLXyrmry76zz8a40dC3orncwO3Iy9Sx?=
+Content-Type: text/plain
+
+美国企业诚聘研发管理人员（全职或兼职）
+要求： 
+1. 性别: 男
+3. 硕士或以上学历，电子, 机电工程或相关专业
+4. 有实际管理研发项目或团队的经验, 丰富的各类技术与社别的配套经验, 有从事研发经验者优先 
+5. 英语听说读写熟练
+6. 良好的个人综合素质，责任心强，团队协作精神强
+公司网址：www.ecryan.com.cn
+应聘人员请将能简历以纯文本格式发至：hr@ecryan.com.cn，（不接收带附件邮件）并注明应聘职位，未被录用材料恕不退还。

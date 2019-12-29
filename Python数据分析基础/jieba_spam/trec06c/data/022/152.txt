@@ -1,0 +1,24 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2gjIb030032
+	for <liu@ccert.edu.cn>; Sun, 21 Aug 2005 16:41:33 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A741.000092.16670@m52.126.com>
+Date: Sun, 21 Aug 2005 16:54:44 +0800 (CST)
+From: "ding" <ding@126.com>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgONTCMjDI1dGnyvWxqLjm?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_loSuijVMGiiOFKdLaKpxUmFGBkYx"
+
+兹定于2005年8月20日（星期六）下午3:30在清华大学理学院报告厅举行学术活动，敬请您参加！
+报告题目： Nanoscience With Scanning Tunneling Microscopy
+报告人：Dr. Wilson Ho Donald Bren Professor
+Department of Physics and Astronomy &amp; Chemistry University of California, Irvine, California USA
+报告时间：2005年8月20日（周六）下午3:30
+报告地点：清华大学理学院报告厅
+报告人介绍：
+     Ho教授于1975年在加州理工学院获得学士和硕士学位，1979年在Ward Plummer和 Robert Schrieffer
+教授的指导下在宾夕法尼亚大学获博士学位。在 AT&amp;T 贝尔实验室工作一年后，分别在康奈尔大学做助理教授、副教授，从1991年开始任正教授。2000年起任加州大学埃文分校物理系和化学系的教授。 
+     Ho教授七十年代对高分辩电子能量损失谱的发展做出重要贡献，为此获得美国物理学会的Nottingham奖（1979）；他最先发展了薄膜生长的超声分子束技术（Supersonic Jet Epitaxy）。特别值得一提的是，1998年，他的研究组成功研制出单分子非弹性隧道谱和显微镜，使得具有空间原子分辨的扫描隧道显微镜又增添了一强大功能－化学分辨。该工作使得在分子尺度上研究分子运动、能量转移、分子间相互作用、化学反应和电输运现象等成为现实，被公认是扫描隧道显微镜技术发展中的里程碑工作。仅在该方向上，他领导的研究组就在《Science》发表文章6篇、《Physics Review Letters》28篇。Ho教授曾获得以下荣誉和奖励：1980年美国化学学会的Victor K. Lamer Prize，1995年美国物理学会Fellow，1995年的Alexander von Humboldt Research Award for Senior US Scientist，2000年的Bonner化学奖。

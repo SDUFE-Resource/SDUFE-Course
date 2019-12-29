@@ -1,0 +1,31 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBHaMG026280
+	for <rao@ccert.edu.cn>; Thu, 15 Sep 2005 11:39:42 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id A7E89718597; Thu, 15 Sep 2005 11:51:33 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 139F3733E57; Thu, 15 Sep 2005 11:51:32 +0800 (CST)
+Message-ID: <053901c5b91f$8fe966d0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <xing@dlut.edu.cn>
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILC1wbW1xEdHz+vIw87SsO/Dpte3we3N4tK7uPZtbT8=?=
+Date: Thu, 15 Sep 2005 11:51:31 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0536_01C5B962.9DFC0500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我觉得男人是这样的
+如果一个女人对他很好很好，他又觉得自己的条件不太吸引更合他意的女人
+那么估计至少有一半的男的就会接受这个女的
+但是如果他觉得他可以遇到，他就不会接受
+如果接受了的男的以后遇到了更合他意的女的，估计会毫不犹豫地就背叛先
+前那个女的
+我觉得对女人没有原则的男人比死心眼的男人更容易背叛
+（张无忌就是一个例子）
+     我觉得男人喜欢不喜欢一个女人很容易就会得出结论
+     反过来就不那么容易了

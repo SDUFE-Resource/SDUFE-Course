@@ -1,0 +1,20 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9qIIm028353
+	for <tan@ccert.edu.cn>; Fri, 30 Sep 2005 08:00:12 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SA3UnO014607
+	for <tan@ccert.edu.cn>; Fri, 30 Sep 2005 08:11:23 +0800 (CST)
+Received: (eyou send program); Fri, 30 Sep 2005 07:45:48 +0800
+Message-ID: <327900275.22130@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Fri, 30 Sep 2005 07:45:48 +0800
+From: guo@mail.tsinghua.edu.cn
+To: tan@ccert.edu.cn
+Date: Fri, 30 Sep 2005 07:45:48 +0800
+Reply-To: guo@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IGJsb2fL48rHy73Iy7/VvOSwyQ==?=
+Content-Type: text/plain
+
+恰好你提到了BBS，确实，目前在中国的大环境的影响下，互联网上的公众空间不可避免的产生了异化。我的原文表述就是说blog在西方兴起的基本背景，你谈及XX是第一人之类的并不具有代表意义。一种思潮或者文化在一个时期能够产生重要影响，必然由其深层次的社会原因决定。
+类似anti、反波那样的专栏式博客，的确已经在相当程度上成为了媒体的延伸空间。但我以为，更多人的博客，实际上还是滤去了个人背景的私人言论，我们从博客上获取信息，也是希望能看到更多的来自非官方的表述，至于作者是谁，并不重要。当然，这是我的个人观点，可以讨论。
+     当你觉得有博客大赛的时候，还算是私人言论，不是被公众讨论的吗

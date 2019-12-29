@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <ling@ccert.edu.cn>; Fri, 23 Sep 2005 07:56:36 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <ling@ccert.edu.cn>; Fri, 23 Sep 2005 08:08:05 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 23:45:11 -0000
+From: "zhou" <zhou@mail.tsinghua.edu.cn>
+To: ling@ccert.edu.cn
+Cc: <zhao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgssTBz8+1w+bK1LvYwLSjoQ==?=
+Date: Fri, 23 Sep 2005 08:07:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+下午3点钟结束了我期待已久的面试，20个教授，当中有我报的周和平老师。
+说是不要紧张，不过自己觉得当时真的紧张了，虽然话说出来了，但是不漂亮，不能打动
+人。周老师事后说我的声音太小了，像蚊子似的。听到这句话真是无比的惭愧啊。
+自己感觉要告诉大家的：
+1.一定不要紧张，说话自然些，最好打个草稿，主要是自我介绍要突出你所有的优点，让
+老师能记住你。
+2.老师没有问专业的问题，主要是关于个人的一些问题，因为老师对大家都不熟，但是直
+硕的那里专业问题很多，基本都是专业问题，好多兄弟都脸白了。[36m                     [m
+3.时间没有死规定，我们说是3分钟自我陈述，还有用英语的，真N。不过我觉得这个要看
+个人的水平了。
+4.给外校学生的直博名额是10个，最多12个，共有25个参加直博的面试，11个直硕的面试

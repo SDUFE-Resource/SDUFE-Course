@@ -1,0 +1,21 @@
+Received: from mail3.1stchina.net ([210.51.25.177])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86A9MLj026561
+	for <zhou@ccert.edu.cn>; Thu, 8 Sep 2005 10:33:02 +0800 (CST)
+Received: from image (unknown [218.1.94.5])
+	by mail3.1stchina.net (Ksemail Mail Server Ver 5.1 Build 050318 (OS-Linux Database-MySQL) ESMTP Ready. http://www.ksemail.com/) with ESMTP id AE29852C231
+	for <zhou@ccert.edu.cn>; Thu, 8 Sep 2005 10:54:34 +0800 (CST)
+Date: Thu, 8 Sep 2005 10:44:55 +0800
+From: "zhu" <zhu@aryasec.com>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILHItvuhpLjHtMTU2tbQufq/3sHLKNeq1Ngp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050906103056.AE29852C231@mail3.1stchina.net>
+
+中国的捐献制度不健全，很多富人想要捐款但是对于中国政府是否能够最大限度地将捐款用到最需要的地方并不放心。这也是一个很重要的原因。
+     ――你看过这个事后有何感想？
+     　　有消息说，比尔・盖茨在中国哭了。为什么哭了，说法不一。
+     　　有人说，他看到中国的一则报道后哭的。这则报道说，2003年“非典”期间，中华慈善总会总共才收到770万元捐款，其中只有一个富人以个人名义捐了200万人民币。一个13亿人口的泱泱大国，百万美元以上的富人超过了23万名，在亚洲仅次于日本。当国家面临那么严峻的灾难时

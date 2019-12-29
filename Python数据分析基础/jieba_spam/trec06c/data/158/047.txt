@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J3Tsuc012204
+	for <ding@ccert.edu.cn>; Tue, 20 Sep 2005 06:12:12 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J3P05T085835
+	for <ding@ccert.edu.cn>; Tue, 20 Sep 2005 06:08:27 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (m13-67.163.com [220.181.13.67])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J3OphQ085831
+	for <ding@ccert.edu.cn>; Tue, 20 Sep 2005 06:07:12 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+MIME-Version: 1.0
+Message-ID: <432E330C.000184.26953@bj163app67.163.com>
+Date: Tue, 20 Sep 2005 06:22:13 +0800 (CST)
+From: "pu" <pu@163.com>
+To: ding@ccert.edu.cn
+X-Priority: 3
+X-Originating-IP: [192.168.208.154(210.25.128.99, 202.38.188.130)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com -->
+	163com
+Subject: =?gb2312?B?UmU6IMWuuqLX07TztuDK/crHtefE1LDXs9U=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1569947849=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+瞧不起就别去帮人，看把你给牛的
+     好多女孩子根本不了解电脑硬件，甚至连软件的使用都不甚了解，现在的傻瓜式装系统都不会。昨天有个女生电脑坏了，反复重启，要我帮她弄。我还以为是硬件坏了，结果我抱着主机走了十几分钟，回到教研室，我弄了一会，结果只是把硬盘数据线换了接口，就可以了。
+     弄完了顺便再看看电脑，电脑慢的要死，C盘空间太小。
+     最后，又把主机抱回去，然后敲她请我吃了城隍庙的鸡腿套餐。没想到，她竟然也吃这个，真是好胃口

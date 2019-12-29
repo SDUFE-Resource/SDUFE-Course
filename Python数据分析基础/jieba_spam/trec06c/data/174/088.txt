@@ -1,0 +1,22 @@
+Received: from smtp.263.net (mx04.x263.net [211.150.96.24])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LDnGRe032370
+	for <pu@ccert.edu.cn>; Fri, 23 Sep 2005 19:29:58 +0800 (CST)
+Received: by smtp.263.net (Postfix, from userid 500)
+	id 62B4343643; Fri, 23 Sep 2005 19:41:25 +0800 (CST)
+From: =?gb2312?B?bmFtZQ==?= <ning@263.net>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SttTT2qG2sKK4ytX9tKuht7XEv7S3qA==?=
+Date: Fri, 23 Sep 2005 19:41:35 +0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+MIME-Version: 1.0
+X-Mailer: XMail-3.0
+Content-Type: multipart/mixed;
+	boundary="----=NextPart_263Mail-XMAIL-000-000-1127311244Ti4"
+Message-Id: <20050921140045.62B4343643@smtp.263.net>
+
+不知道你怎么看的...
+阿甘居然在你的笔下成了NBA球星...天...
+     《阿甘正传》如果不是反讽，便是童话；因为它的情节，你倘若不视为荒谬，就得理解为唯美；更值得注意的是，它表达的那种世界观，只能要么理解为对于现实的讽刺，要么只能把它看成谎言
+     《阿甘》中囊括了美国60－80年代的主要政治变化，以及各个阶段席卷美国的各种思潮，运动，并巧妙得把主要人物安插进这些事件中，它几乎展现了整整一代美国人的成长史；在情节的编排，叙事的转换上，它都可圈可点
+     然而在主要人物的塑造上，也就是在主线情节上，它用一种过于庸俗化的方式欺骗了观众；或者说，它刻意得嘲弄了观众。由于绝绝大多数观众都不认为《阿甘》在嘲弄我们，所以我们只能认为它实际上欺骗了我们。也就是我们假设导演是一个热爱阿甘得导演，他讲这个故事得态度是

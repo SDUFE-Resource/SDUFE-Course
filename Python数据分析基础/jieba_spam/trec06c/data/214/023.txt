@@ -1,0 +1,55 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U4X83o011570
+	for <xue@ccert.edu.cn>; Sat, 1 Oct 2005 21:10:14 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U4RWjN080763
+	for <xue@ccert.edu.cn>; Sat, 1 Oct 2005 21:05:00 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U4RU2J080759
+	for <xue@ccert.edu.cn>; Sat, 1 Oct 2005 21:04:36 +0800 (CST)
+	(envelope-from yang.feng00@mails.tsinghua.edu.cn)
+Received: from unknown (HELO zyyf) (yang.feng00@221.219.242.164)
+	by localhost with SMTP; Sat, 1 Oct 2005 13:17:01 -0000
+Message-ID: <002001c5c579$779e87c0$0c01a8c0@zyyf>
+From: "guo" <guo@mails.tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+	<328049616.11361@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IM3G0dDLxLSmxfax2qOstPO80rj4ztKz9rP21vfS5bDJo6y40Lyksru+oQ==?=
+Date: Sat, 1 Oct 2005 21:20:18 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+	j8U4RU2J080759
+Cc: 
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+首先，A系的老师已经说
+“如果你要考虑就马上放弃”
+所以结果是你自己放弃
+其次，你们系的推研会上说
+“如果第一志愿录取你，第二志愿就不能录取”
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+原话是如果在两个志愿都录取的情况下，我们会优先根据个人意愿，考虑第一志愿
+这句话本身就是模棱两可的
+而A系已经有录取你的意向，是你自己放弃了
+因此本系不录取也无可厚非
+所以不要怨天尤人了，从过程上看并没有什么问题
+     我是清华大学的大四学生。在今年推研招生中，我的第一志愿为A（别的系），第二志愿为本系。
+       在A的面试结束后的第二天，也就是本系面试的时候，刚刚走出考场的我心情很乱，这时候看到手机上有一个陌生的未接来电，于是就打了这个电话，对方说：“你有资格被A录取了，你要不要来？”我想了一下，因为刚刚结束本系的面试，所以心情很乱，就说能给我一点时间吗？他
+     我本来想和家里商量一下然后再做决定，因为事先都没有和家里商量，所以觉得在做这个决定之前问一下父母。可是他没有丝毫给我考虑的时间，他们居然就说算了吧，他们就算我放弃了！

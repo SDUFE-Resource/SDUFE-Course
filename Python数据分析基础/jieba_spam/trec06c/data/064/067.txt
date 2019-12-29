@@ -1,0 +1,39 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <wang@ccert.edu.cn>; Wed, 31 Aug 2005 21:09:31 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 21:12:23 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 21:12:23 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 21:12:23 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 13:05:46 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 20:57:56 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 20:57:56 +0800
+From: zheng@mails.tsinghua.edu.cn
+To: wang@ccert.edu.cn
+Cc: wang@ccert.edu.cn
+Date: Wed, 31 Aug 2005 20:57:56 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEguLWx67zyvemjqLi9zbyjqQ==?=
+Content-Type: text/plain
+
+人物信息 
+--------------------------------------------------------------------------------
+ 
+姓名：傅彪 性别：男 
+出生年月：1965年 英文名： 
+星座： 血型： 
+嗜好： 身高： 
+国籍：中国 籍贯：北京 
+作品：《北国红豆》《摇啊摇，摇到外婆桥》《甲方乙方》《春天的狂想》《没完没了》《幸福时光》《押解的故事》《一声叹息》《谁说我不在乎》《中国神探》《考试一家亲》《至高无上》《大腕 》《老爸向前冲》《关中刀客》   
+ 
+傅彪简介 
+--------------------------------------------------------------------------------
+ 
+傅彪真胖，胖得憨态可鞠、端正敦厚，胖得大家都喜欢他。人说“心广体胖”，付彪还真就是个大肚能容的宽厚人。银幕和荧屏上的付彪老是一副窝囊样，既没心眼又少手腕，怎么看都属于那种没什么出息的中年男子。可是，我们彪哥自有一段风骨，让大家喜欢他、尊敬他。 

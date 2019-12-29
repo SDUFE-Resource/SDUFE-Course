@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83CBlYV005279
+	for <chi@ccert.edu.cn>; Sun, 4 Sep 2005 13:25:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83COHdV019350
+	for <chi@ccert.edu.cn>; Sun, 4 Sep 2005 13:37:36 +0800 (CST)
+Message-Id: <200509031224.j83COHdV019350@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 05:25:07 -0000
+From: "yi" <yi@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <chen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrvcyxprGmscfI+9T1w7Sw7A==?=
+Date: Sun, 4 Sep 2005 13:37:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5B0C5.716D46C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWwgmMrCakV2o5FTJGgH6GL8DeD6Q==
+
+我还不是为这个问题头疼...瑶瑶醒了就喜欢自己哼唧，
+我一般就坐在边上跟她说话，亲亲小脸蛋玩，不随便抱，但让她感觉大人其实就在身边，
+可奶奶呢？不管任何时候，一听见瑶瑶哼哼就以百米冲刺的速度冲过去抱着悠...
+我快郁闷坏了，尽管奶奶在这里能帮上很大的忙，我还是希望她尽快回沈阳...
+     你知道我家的现在怎么睡觉吗？他躺小车里，奶奶坐在旁边推，一停就哼哼。
+     在日本的时候，我抱不超过5分钟，他睁着眼扔床上都能自己睡着了。我真
+     是...没话可说...我爸妈来了也好不了...前面的好习惯估计就这么废了...

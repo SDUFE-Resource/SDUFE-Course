@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <ding@ccert.edu.cn>; Tue, 13 Sep 2005 09:39:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <ding@ccert.edu.cn>; Tue, 13 Sep 2005 09:51:29 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 01:34:17 -0000
+From: "ning" <ning@mail.tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Cc: <zhou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1K20tC3V987ELdbQx++1xMu80Pc=?=
+Date: Tue, 13 Sep 2005 09:51:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+　中秋的思绪 
+　　　曾经以为，自己是性情中人，那么多愁善感的人，曾是走不出伤情的岁月。每每听友人说起他（她）们一些事情，听他（她）们诉说他（她）们的爱的故事，因爱而受伤的心情，以及怎么走也走不出去的伤悲，也不由得勾起了自己的百般愁绪。　　 
+　　　　百味人生，有了情，便有了期待；有了情，便有了精彩；同样，有了情，便有了遗憾，有了情，便有了怎么说也说不完的伤悲，有句俗话说：“问世间情为何物，直教人生死相许”，就这么一问，问倒了世间多少痴男怨女，又有谁能给出一个答案呢？　　 
+　　　　在繁华的夜里，独自倚在阳台，目睹着星光夜色，为的只是让那份辛辣来麻醉失落的感觉，让那一闪一闪的光，点燃我暗淡的双眼。　　 
+　　　　曾经自己的执着，知道执着的无奈，可依旧无怨无悔，宁愿去相信一切都是美的，一颗心，总是累累地飘着，守着总是最美的凄凉。或许，有时是自己故意把自己放在一种氛围内，故意去一遍一遍地舔食伤口；呐闷~再说了，再坚强的人，也有心累的时候，支柱又在哪里？　　 
+　　　　爱？有时就是一个人的事，爱？有时就是一种感觉，一种意境，一种情怀，一种享受对方激起自己爱意而提供的心灵风景般的境界~ 不需要拥有，不需要索取，只需要全心地去感觉，让那份情永远环绕，天涯海角，独自守着落寂，也许很苦，但也不失为一种幸福，因为毕竟还有一份可以守的美，一份人间天上无与伦比的凄美；遗憾，有时也不失为一种美，毕竟还有可以遗憾的事，毕竟还有一个传奇的故事留给未来，毕竟~人有悲观离合，月有阴晴圆缺　 
+　　　　又是一年一度中秋，一轮明月到来时，在他乡的恋人、亲人们都期待着这特别的相聚时节，不管人身在何方，工作以及生活的压力种种，我想，每个人的心中都有着那月亮般明亮的心情，心灵是相通的。

@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <ke@ccert.edu.cn>; Tue, 23 Aug 2005 14:54:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <ke@ccert.edu.cn>; Tue, 23 Aug 2005 15:07:18 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 07:01:55 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "zhang" <zhang@mail.tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+Cc: "tunet" <hu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILKp0afN+LXEw+K30bbM0MXD4rXEysfKssO0t9HTwz8=?=
+Date: Tue, 23 Aug 2005 15:03:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+这个还要开通移动梦网服务是吧,动感地带是不是自带的,忘了。
+好像不是全免诶
+“限额内的免费自写短信不收费；手机绑定不收取任何费用；网站提供的其它无线增值服务，例如铃声、图片下载等，统一按照“TOM在线”的正常标准进行收费；回复短信按照正常
+                                                               ^^^^^^^^^^^^^^^
+手机发送短信的方式收取费用。”
+回复跟发送有什么区别么?
+     nod
+     好像只对移动内有效

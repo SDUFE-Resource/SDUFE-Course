@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7FBL9jQ015986
+	for <zhao@ccert.edu.cn>; Fri, 19 Aug 2005 15:50:11 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7FBr5I2010935;
+	Fri, 19 Aug 2005 16:22:07 +0800
+Message-Id: <200508151153.j7FBr5I2010935@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 16:03:07 +0800
+From: "ou" <ou@mail.nisac.gov.cn>
+Reply-To: ou@mail.nisac.gov.cn
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/rsrvD97DXzqrKssO0SU1EQtbQsKK4ysXF1NoxMDDD+9auzeKjvw==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+IMDb是纯大众投票打分的系统，也就是说这个片的名次，决定于这个片被大众接受的程度。肖申克这片子的好处在于，什么人都能看懂，而且也能理解。所以它的被接受程度自然要高。
+而阿甘的主题似乎不如肖申克般浅显，最普通的观众看完只能觉得电影演了一个运气超级好的大傻子，这样的情况下，当然不会投票给阿甘了。
+所以说，IMDb没啥，越庸俗排名越高。
+         而同年奥斯卡中被阿甘击败的救赎却排在第二。事实上这两部片都
+     一样的伟大，为什么在IMDB上排名却差了那么多……

@@ -1,0 +1,49 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U1PmpO004160
+	for <tao@ccert.edu.cn>; Sat, 3 Sep 2005 07:01:05 +0800 (CST)
+Received: (qmail 858 invoked from network); Fri, 2 Sep 2005 23:12:42 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 2 Sep 2005 23:12:41 -0000
+Message-ID: <000701c5ad03$b6eade80$e900a8c0@d47db5334f2a479>
+From: "cai" <cai@jdl.ac.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC5+rS00MLRp8r1zfjC57n6vMrR0MzWu+GjrLu2062yzrzTo6E=?=
+Date: Sat, 3 Sep 2005 07:15:07 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+欢迎大家参加
+CICALICS 2005年度学术研讨会：
+转型中的中国创新系统：如何建立企业自主创新能力？
+（详细信息请访问www.cicalics.org）
+时间： 2005年8月31日至9月2日
+（开幕式时间：8月31日下午1：30）
+地点：清华大学校经济管理学院舜德楼四楼多功能厅
+主办方：清华大学经济管理学院技术经济与管理系
+CICALICS 系列学术研讨会--将于2005~07每年举行一次，集中于同一个大主题：中国创新
+系统与发展，但每次都会有不同的侧重点。
+2005 年度CICALICS学术研讨会的题目是转型中的中国创新系统：如何建立企业自主创新能
+力？
+始于20年前的科技管理体制与工业部门的市场化改革给中国国家创新系统带来了翻天覆地
+的变化。我国国家创新系统现在正进入第二个转型阶段。该阶段转型的主要挑战是建立我
+国企业和整个经济体的自主创新能力。在"温室"中成长的很多中国企业体质偏弱。
+过去20年中，这些企业能够在计划经济时代造就的短缺的巨大国内市场和廉价劳动力的环
+境中顺利成长。在这种环境下，从国外购买"二手"技术是有效的，没有自主开发的必要。
+随着我国加入WTO，与跨国公司的竞争日趋激烈，凭借廉价劳动力的出口面临来自发达国家
+和发展中国家的贸易争端。技术进步的加速、新的知识产权制度和跨国公司更多进驻我国
+CICALICS组织本次学术研讨会的目的是更好地理解我国企业转入新的成长轨道所面临的挑
+战，为我国国家创新系统顺利实施下一步转型找到道路。
+涵盖在这个大主题之下的专题有：
+1.      关于发展的国际环境变化和以知识和创新为基础的增长和发展的理论与经验研究
+2.      理解中国创新系统
+3.      企业战略与自主创新
+4.      企业集群和网络的学习与创新效率
+5.      产学关系和支持环境
+6.      知识产权--既是创新的激励，也是模仿国际知识的障碍
+7.      通过学习进行政策能力建设

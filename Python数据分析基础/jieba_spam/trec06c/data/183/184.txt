@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <zhang@ccert.edu.cn>; Sun, 25 Sep 2005 13:19:43 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <zhang@ccert.edu.cn>; Sun, 25 Sep 2005 13:31:04 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 05:08:04 -0000
+From: "jiang" <jiang@mail.tsinghua.edu.cn>
+To: zhang@ccert.edu.cn
+Cc: <hu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgUGllUm9vbbDm0fvH67Hq17w=?=
+Date: Sun, 25 Sep 2005 13:30:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+PieRoom版是PieBridge新开设的附属俱乐部版面
+是专为有征友愿望的网友开辟的约会专区
+凡符合以下条件的网友皆会收到PieRoom的加入邀请
+1。在PieLove发文征友并被版主标记，或在PiePoster发文征友。
+2。在征友文中有明确的“我、本人、偶……”等第一人称出现，
+   让我们方便的知道您是在为自己征友。
+ps.请将您的征友诚意表达在文笔上哦，要是正文只有一个QQ号或是
+   邮箱什么的，我们可看不出您的诚意哦。
+就是这些啦
+另，我们的工作也不可能万无一失，有疏漏之处请来信指正。谢谢
+祝大家征友顺利！

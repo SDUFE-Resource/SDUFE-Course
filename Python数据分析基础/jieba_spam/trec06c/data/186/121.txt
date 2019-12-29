@@ -1,0 +1,31 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <xiao@ccert.edu.cn>; Mon, 26 Sep 2005 05:41:35 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Sun, 25 Sep 2005 21:52:29 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Sun, 25 Sep 2005 21:52:29 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <xiao@ccert.edu.cn>; Sun, 25 Sep 2005 15:03:36 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <xiao@ccert.edu.cn>; Sun, 25 Sep 2005 17:00:02 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Mon, 26 Sep 2005 05:52:17 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <hong@motorola.com>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxby08r/xyK7S38PntcS+rcD6?=
+Date: Mon, 26 Sep 2005 05:51:52 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+ 看到那篇“被猫抓伤了”的帖子，颇有同感啊，本想回帖，后来想到爱养宠物的朋友这么多，当然也给那些有了自己的家，除了做饭喂老公还想顺便喂点别的小动物或将要养小动物的jjmm们提个醒，发帖给大家一点经验之谈，希望有帮助：）
+   过年时偶养了一只虎皮小猫，那猫特别不厚道，结果偶因与猫打斗时被其抓伤（其实也就是三分之一寸稍微见血的小口），后来实在胆怯，大年三十跑去防疫站打狂犬疫苗，一共得打五针，而且间隔时间还有严格说法（好像是说什么第一天，第三天，第一周，第十天……什么的，记不清了），当时医生看完伤口说没有必要打，后来又补充一句说打不打要自己决定，他只是建议，承担不了后果（意思就是等发狂犬了别找他）！结果因为他的补充，偶还是怕了，硬着头皮交了150，唉，当初买猫才花了20，这下亏了：（  再说说那狂犬疫苗，就打了四针，第一针和第三针是在防疫站打的，没有问题，第二针和第四针由于是在过年放假期间，防疫站没人，所以就拿着买回来的疫苗在家附近的小诊所打的，都出现过敏反应，严重的呼吸困难，现在想想都后怕，所以第五针到现在还在我家冰箱里放着没敢打（顺便提醒一下准备打疫苗或者将要打疫苗的朋友，疫苗一定要低温保存，否则失效，钱是小事，危及健康就是大事了），不过好在到现在也没发病，（事后周围的人都说现在城市里的猫恨不得比人还干净，想得病都困难，呵呵），不知是幸运，还是当初的小题大作了，不过就结果来看，如果伤口不大并且及时用酒精等药品消毒，应该不会有太大问题，也建议爱养宠物尤其是那些能给人们造成伤害的小动物的家里除了按时给它们打疾病防疫针外也为自己准备些必备药品，以备不时之需，谁知道动物们什么时候会发飙呢（呵呵，偶只是建议，引用医生那句话，“出事可别找我”）

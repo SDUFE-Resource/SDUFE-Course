@@ -1,0 +1,39 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2gjIb030032
+	for <gong@ccert.edu.cn>; Sat, 20 Aug 2005 12:27:53 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A741.000092.16670@m52.126.com>
+Date: Sat, 20 Aug 2005 12:41:04 +0800 (CST)
+From: "cao" <cao@126.com>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgv7S/tNXiuPbWsM67yOe6zqO/?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_loSuijVMGiiOFKdLaKpxUmFGBkYx"
+
+职责描述：
+1.撰写专业的产品描述来满足市场部的要求；
+2.为产品和公司的战略伙伴准备好电子的、机电的和机械的相关概念，监督产品的
+细节设计；
+3.在产品设计阶段，与制造工程师紧密合作，确保产品是低成本的并且是容易测试
+和校准的；
+4.遵守公司在产品开发方面的程序和规则，准备好相关的设计文档以便于其他工程
+师能够狠容易的理解设计原理和它的执行，便于审计，并在任何需要的时候，移交
+这个项目；
+5.是项目领导者：对项目足够专业，从而可以准备好项目计划和管理好资源（如时
+间和费用），直到把它移交到生产环节；
+6.对安全和技术标准比较熟悉。
+7.熟悉UL，IEC，CE及相关标准；
+8.了解最新的IC、软件包、开发工具，EMC理论；
+9.考虑成本、寿命、质量和性能；
+职位要求：
+1.电子或计算机工程专业；
+2.5年高级研发工程师，3年项目管理经验；
+3.HVAC/R控制、器具、家庭网络和消费者产品的设计知识；
+4.精通单片机、信号调理和pcb布局；
+5.对不同的EMI/EMC，用户人机界面，机械和塑料设计，以及综合以上方面满足产品设计；
+6.熟悉CE，UL，CCC和C-Tick标准；
+7.交际能力，沟通能力，项目管理能力；
+8.很强的PC应用能力，Office和Project
+9.熟练应用英语和普通话

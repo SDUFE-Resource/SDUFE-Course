@@ -1,0 +1,59 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8V0cL023464
+	for <guan@ccert.edu.cn>; Sat, 20 Aug 2005 22:01:56 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 40F4F0045593
+	for <guan@ccert.edu.cn>; Sat, 20 Aug 2005 22:15:14 +0800 (CST)
+Date: Sat, 20 Aug 2005 22:09:20 +0800
+From: "jian" <jian@sohu.com>
+To: guan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhdxLPNttfKucvOyrmry77V0Ma4SVQgU3BlY2lhbGlzdCAvIFdlYiBEZXZlbG9wZXKj
+rEJ1c2k=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084420.40F4F0045593@sohumx06.sohu.com>
+
+受朋友委托转发下面的招聘消息，如感兴趣请将您的简历命名为“毕业学校名称-您的名字-申请职位名称”(比如：清华-李明-Business Development Executive)发到邮箱：stephenlsw@126.com
+*****************************
+We are a HK-based investment advisory firm specialized in providing asset
+management services and corporate trading solutions. Now we want to set up an
+office in Beijing. With our established and diverse clientele in China and Hong
+Kong, we manage a vast array of projects ranging from infrastruture development to
+web-based business platform. 
+ 
+In order to cope with our business expansion, we are now looking for a team of
+enthusiastic, hardworking and self-motivated talents to fill the following
+positions:
+  
+1. IT Specialist / Web Developer
+    Job specification:  
+    - To build, develop and maintain a tourist platform with an on-line
+booking and shopping system plus a membership log-in system
+    - To build and maintain a business partner database
+    Requirements:
+    - University degree in Computer Programming / Web Design or related
+disciplines
+    - Independent and able to work under tight schedule
+    - With relevant working experience is an added advantage
+ 
+2. Business Development Executive
+    Job specification:
+    - To develop cooperation deals with potential business partners for
+the tourist platform
+    - To formulate and execute marketing strategies
+    - To maintain good relationships with existing business partners
+    Requirements:
+    - Master / Univerisity degree in Business Administration 
+    - Presentable, confident and analytical minded
+    - Independent with proven organization and planning skills
+ 
+3. Translator
+    Job specification:
+    - To perform English-to-Chinese or Chinese-to-English translation works 
+    Requirements:
+    - University degree in Translation or Language
+    - Excellent command of written English and Chinese
+    - Independent and able to work under tight schedule

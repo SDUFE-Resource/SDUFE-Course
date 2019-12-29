@@ -1,0 +1,41 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j886dpj9010160
+	for <peng@ccert.edu.cn>; Sat, 10 Sep 2005 06:15:49 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMH00ME4KNH3F@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 10 Sep 2005 06:33:16 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Thu,
+ Sat, 10 Sep 2005 06:33:15 +0800
+Date: Sat, 10 Sep 2005 06:33:15 +0800
+From: zhu@cernet.com
+Subject: =?gb2312?B?u9i4tA==?=:Re: =?gb2312?B?u9i4tA==?=:Re: [SPAM]
+ =?gb2312?B?zrrAz8qmo6zU2bTOtPK9wcHL?=
+To: peng@ccert.edu.cn
+Message-id: <44569493dd.493dd44569@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+无意间收集到的
+给07年的自己攒rp^_^
+一.判断题 
+1.希尔伯特变换的等价系统为全通系统 
+2.理想低通滤波器必不可物理实现 
+3.全通函数不可物理实现 
+4.理想低通滤波器必不可物理实现 
+5.因为d(delta(t))/dt=delta\'(t)，所以delta\'(t)的积分为delta(t) 
+6.非线性相位的输出必为其零状态相应与零输入响应之和 
+7.两最小相位系通函数之和必为最小相位系通函数 
+七. 
+(就是画了一输入输出的那个,有x(t),e(t),y(t),...) 
+1.好像要求t-&gt;无穷时e(t) 
+2.? 
+3.x(t)=Acos(w0*t+Q0),求e(t)与y(t)的稳态 
+     记得最清楚的一道题是 e^[0,1;1,1]  当时就晕了~ 
+     貌似用泰勒公式可以解决 
+     其他还有20个判断题  好多关于全通系统的 具体命题就记不得了

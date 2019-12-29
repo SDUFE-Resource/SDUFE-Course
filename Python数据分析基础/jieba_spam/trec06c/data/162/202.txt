@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8JBii0m015387
+	for <chen@ccert.edu.cn>; Wed, 21 Sep 2005 08:38:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8JBuNSM005175
+	for <chen@ccert.edu.cn>; Wed, 21 Sep 2005 08:50:23 +0800 (CST)
+Message-Id: <200509191156.j8JBuNSM005175@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 21 Sep 2005 00:29:30 -0000
+From: "tu" <tu@mail.tsinghua.edu.cn>
+To: chen@ccert.edu.cn
+Cc: <cheng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQv7S5/aG2ysC959au1b2ht7XEwvCjv8y4zLi40M/rsKE=?=
+Date: Wed, 21 Sep 2005 08:50:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD54.315C4400"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW9ESMViAP3rUc6TpGavIn8JvsLVg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+还好，创意不错，总算不是什么拯救地球的英雄了，开始部分男主角的心理表现
+真的很真实、精彩，是把世界毁灭的恐怖缩小到了一个普通人、普通家庭，所以这种
+恐怖对于我来说更像自己面对危险的反映。
+不过结果稍微有点莫名所以，这个胜利的理由太不充足了，我觉得结尾应该是战斗还在继续，
+但是已经有了希望，回到亲人身边的人们开始摆脱混乱，进行反击。
+这样给人以希望。
+就像我最喜欢的乱世佳人的结局，永远也无法忘记。
+     那块应该是最好看的地方了

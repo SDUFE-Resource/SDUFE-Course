@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <yuan@ccert.edu.cn>; Wed, 14 Sep 2005 21:17:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <yuan@ccert.edu.cn>; Wed, 14 Sep 2005 21:29:39 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 13:11:56 -0000
+From: "wen" <wen@mail.tsinghua.edu.cn>
+To: yuan@ccert.edu.cn
+Cc: <weng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+vOyrj3zru087jntPO946O61Nqxsb6pxMfA78LytfqxyL3PusOwoaO/?=
+Date: Wed, 14 Sep 2005 21:29:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+   各位大哥大姐，我以前一直在交大附近的超市发内买，那里的碟不错服务也不错，碟子一般是中译和佳美的，碟有问题都能换。新近的大片都能买到，价格都是8块一张。
+   美好的时光总是短暂的…………那个铺子在两个月前被端了……消失了……
+   于是导致小弟我将近两个月没有买碟了，没有新碟看的日子真的很压抑。所以小弟在此请各位大哥大姐指点指点，有好的铺子请给小弟推荐一下，小弟周末就想大看通宵。
+   万分感激……等待中……

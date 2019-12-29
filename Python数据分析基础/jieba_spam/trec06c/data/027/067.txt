@@ -1,0 +1,32 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <yuan@ccert.edu.cn>; Mon, 22 Aug 2005 19:18:26 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <yuan@ccert.edu.cn>; Mon, 22 Aug 2005 19:31:37 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "ren" <ren@126.com>
+To: yuan@ccert.edu.cn
+Cc: <luo@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1ffNrNH5uNC1vbnCtaW1xMXz09EuLg==?=
+Date: Mon, 22 Aug 2005 19:31:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+一旦停止了忙碌,竟然感到如此的孤单!
+曾经深爱过自己的人已经远去,却只能怪自己当初不懂得珍惜
+原来一个人吃饭都这样没意思,让自己不停的忙碌是不是因为害怕寂寞和孤单?
+朋友们也都在忙碌,为了生存为了事业?也有朋友偶尔点电话中诉说无聊
+如果有同性朋友能经常一起相聚而不是各忙各的,我宁愿一直单身
+可是,虽然很多人都不喜欢这样生活,但仍然不停的重复
+真的厌倦了这种生活,可是似乎无能为力
+希望大家谈谈你们下班后的业余生活
+或者孤单,或者不孤单
+或者其他
+...

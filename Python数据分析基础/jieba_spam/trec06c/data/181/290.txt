@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <tao@ccert.edu.cn>; Sun, 25 Sep 2005 05:23:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <tao@ccert.edu.cn>; Sun, 25 Sep 2005 05:34:38 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 21:11:38 -0000
+From: "qian" <qian@mail.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Cc: <zhou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0vLOqtK7vP7Kwrrct7PQxKOsx+u087zSs/a49tb30uI=?=
+Date: Sun, 25 Sep 2005 05:34:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+   事情是这样的，我和mm是异地，大约十个小时的车程，只有寒暑假和五一十一的时候见个面，平时感情蛮好，但每次都因为五一和十一谁去看谁的问题闹矛盾，很多次mm都说太孤单让我去看她，可我家里嫌我去得太多不让去（其实一年最多也就三四次），其中有我家人不太喜欢她的原因，所以每次都有被痛苦得夹在中间挣扎的感觉。这次十一又因为这件事发生争执，mm本来说十一来北京看我，但是十月中旬又要来北京办事，不想连着跑两趟，所以十一想我过去，我恰恰又是暑假刚大老远的过去看过她（还因为这事和爸妈闹不合），这次十一家里肯定不会再让去了，可是mm那边又交待不了，说我家怎么那么不通情达理，一直很不高兴。现在真的是一筹莫展，请xdjm们给个主意吧！谢谢大家

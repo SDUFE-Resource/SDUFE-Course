@@ -1,0 +1,44 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ACNovr029742
+	for <jiang@ccert.edu.cn>; Sun, 11 Sep 2005 22:42:18 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8ACKv6Q093262
+	for <jiang@ccert.edu.cn>; Sun, 11 Sep 2005 22:39:49 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8ACKomW093258
+	for <jiang@ccert.edu.cn>; Sun, 11 Sep 2005 22:39:22 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+Message-Id: <200509101220.j8ACKomW093258@gradinfo.net.edu.cn>
+Received: from free-qhkbi6e7yv (unknown [59.66.201.85])
+	by smtp2 (Coremail) with SMTP id QsA3yF3IIkPPuYAD.1
+	for <jiang@ccert.edu.cn>; Sun, 11 Sep 2005 22:08:21 +0800 (CST)
+X-Originating-IP: [59.66.201.85]
+Date: Sun, 11 Sep 2005 22:10:08 +0800
+From: "cen" <cen@163.com>
+To: jiang@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8ACKomW093258
+Subject: =?gb2312?B?UmU6IL3SwrbV0rK7tb1MULXE1ebV/dSt0vIox7DM7NTa0dDM1rvhyc/M/dK7uPZNTcu1KQ==?=
+Precedence: list
+Reply-To: cen@163.com
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+你太没幽默感了，人家是在搞笑。
+     前天参加了一个中科院,清华和东京大学联合搞的一次研讨会.在会议中间休息十五分钟时,我一边喝咖啡,一边听旁边几个MM聊天.
+     她们在谈找男朋友的事.其中一个清华的MM谈这个事最兴奋了.好象处于极度饥渴状态.
+     她说,她以后找男朋友要找180以上的,179都算是完全残废.学历要博士,而且现在国内博士太多,一定要洋博士.收入至少每月3万起步.而且,家里父母兄弟姐妹必须没有负担.

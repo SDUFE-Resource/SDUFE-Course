@@ -1,0 +1,27 @@
+Received: from 126.com (m31-133.126.com [220.181.31.133])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J75q0T013568
+	for <cao@ccert.edu.cn>; Wed, 21 Sep 2005 12:58:27 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <432E6604.000001.17409@m53.126.com>
+Date: Wed, 21 Sep 2005 13:09:53 +0800 (CST)
+From: "mei" <mei@126.com>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1qO0utDbwM/KpqGwyv3WtbfWzvZBobHNo7/O0ru0zrXEvfS8sc2o1qogKNeq1Ngp?=
+X-Priority: 3
+X-Originating-IP: [222.82.99.210]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_dWFwKhpsewyHFiGQuvVCIinSzqmA"
+
+【 以下文字转载自 CampusInfo 讨论区 】
+发信人: seric (伤逝), 信区: CampusInfo
+标  题: 郑春雄老师“数值分析A”停课一次的紧急通知 
+分类：研究生院  
+--------------------------------------------------------------------------------
+“数值分析A”停课一次的紧急通知 
+2005年9月22日上午第二大节郑春雄老师的“数值分析A”课程（课程号60420044，课序号2）
+因任课教师家中意外事故停课一次，补课时间另行通知，请上本课程的同学相互转告。 
+另：其它数值分析A课堂正常进行。
+研究生院培养办公室
+数学系
+2005年9月21日
+http://oars.tsinghua.edu.cn/zzh/30630.nsf/(AllDocsByUnid)/B537186C087886BCC825708300103E47?opendocument 

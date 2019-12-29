@@ -1,0 +1,45 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <he@ccert.edu.cn>; Wed, 28 Sep 2005 10:10:11 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <he@ccert.edu.cn>; Wed, 28 Sep 2005 10:21:29 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 28 Sep 2005 01:56:55 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: he@ccert.edu.cn
+Cc: <liu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgutm62aOs1eK49qGjoaOhow==?=
+Date: Wed, 28 Sep 2005 10:21:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+姓名：马昕东 国籍：中国（大陆） 出生：一九六七年十月十五日 性别：男 
+民族：汉族 职业：教师 职称：中学（高中）高级教师
+研 究 成 果 一 览 表
+1988年12月建立了测度密度函数并讨论了测度密度函数的性质
+1989年04月建立了栅函数（处处不连续函数）的积分
+1990年03月发现闭区间套定理与勒贝格测度相矛盾
+1991年05月证明了闭区间套定理是错误的
+1992年03月建立了数位逆序影射并证明[0,1)是可数集合
+1992年05月证明连续性公理是错误的
+1993年03月建立了新的测度理论――单点集合的测度不为0
+1993年05月证明了“不可测集”是可测的
+1994年03月建立了微积分理论，并发现牛顿――莱布尼兹公式不成立
+1995年03月建立了通导数和通积分
+1996年03月建立了定义在任何集合上整数阶不定积分理论
+1997年03月建立了多重不定积分
+1998年05月建立了维数理论，并将集合的测度、基数、维数三者统一起来
+1999年04月建立了模糊测度理论和模糊测度值的组合理论
+2000年04月建立了实数阶微积分理论
+2000年09月发现互为逆否命题不为等价命题的反例
+2001年05月完善了互为逆否命题为等价命题的条件
+2002年09月发现复合命题的“或”真值表不成立的反例
+2004年09月开始修改逻辑学复合命题真值表
+ 

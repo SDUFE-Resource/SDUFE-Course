@@ -1,0 +1,29 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <ling@ccert.edu.cn>; Sat, 10 Sep 2005 05:14:30 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <ling@ccert.edu.cn>; Fri, 9 Sep 2005 14:26:37 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 14:26:37 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 14:26:37 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sat, 10 Sep 2005 05:26:37 +0800
+From: =?GB2312?B?1/O+pw==?= <hu@gmail.com>
+Reply-To: hu@gmail.com
+To: ling@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1eLR+bXEwM+w5Q==?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+几乎没有在bbs上灌过水，不知道这番牢骚放在这里是否合适。
+今天是教师节，我本不该在这个时候说我老板的，但我觉得我怎么就摊上这样的老板了呢。
+我是一所北京普通大学的博士生，去年入学的。老板很苛刻，比如，写了一个标书，其中有两段内容，中间一个回车键没有了，变成一段，他就会拍桌子。一年中我干了不少，他自己的私活，比如别人的中文文章让他翻译，我都给他翻了。他没有给过任何的报酬，除了吃过几顿饭，也是他请别人或别人请他时跟着蹭的。我暗示过几次，比如，我说别的老师怎么怎么样，他会说你在说我吧，你自己不是有补助（340/m）嘛。一点儿用都没有。他一直觉得：学生给老板干活是天经地义的。这些我都忍了。上周日从外地出差回到北京，和刚到北京上学的LG去见他，他们是第一次见面。教研室一个老师说我的优盘容量太小（是硕士时的），说要帮我找老板要一个，老板说：没干活，不给。我想是指在出差期间没给他干活。我当时很生气，想想我一年的付出啊。后来教研室老师说请吃饭，非让我和LG去，吃饭时，老板拿出了他用过的，一个牌子已经磨得完全看不见的优盘说：这个给你，我当时真是感觉血往上冲，我强忍着说：我自己的够用了，不需要的。他扔到我面前说：把你的给你LG吧，算是我送的上学的礼物。
+。。。。。。。。。。。。。。。。。。。。。
+我一直想，我自己是不是有什么问题，但遇到一个不知道尊重人的老板，我是不是该退学的，或是消极抵抗，让自己达到学校的要求毕业，然后能少见面就少见面，能少干活就少干活。

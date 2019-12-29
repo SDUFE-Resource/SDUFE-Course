@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86NYrNl030488
+	for <gan@ccert.edu.cn>; Fri, 9 Sep 2005 01:42:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j86Nl5Cw020630
+	for <gan@ccert.edu.cn>; Fri, 9 Sep 2005 01:54:26 +0800 (CST)
+Message-Id: <200509062347.j86Nl5Cw020630@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 8 Sep 2005 17:40:08 -0000
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: gan@ccert.edu.cn
+Cc: <xin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S09axxmdnwcs=?=
+Date: Fri, 9 Sep 2005 01:54:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C5B380.54702A70"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzPUXCPFDEFrr6STeY429PH7DHSw==
+
+艺术，迄今还没有公认的定义。通常认为，艺术是人类以情感和想象为特性，来把握和反映世界，表示对世界及自身，对二者关系的看法的一种特殊方式。其通过审美创造活动再现现实和表现情感理想，在想象中实现审美主体及客体的相互对象化。通俗的说，艺术也就是人的知识、情感、理想、意念综合心理活动的有机产物，是人们现实生活和精神世界的形象表现。因为人类的某些经历是难以用言词来表述的，为了表述这些深存在内心的最强烈的感情和思想，我们就使用一种称之为艺术的更敏锐、更精巧的语言。
+艺术和科学不同，科学借助人类的理性反映客观世界的规律性。艺术借助人类的感性反映世界，包括客观和主观的世界。科学更多的是“发现”，而艺术更多的是“创造”。艺术是抛弃人类理性和信仰的感性认识。艺术是人类心里真实情感的反映。
+虽然文学也属于艺术，但由于文学过于庞大，通常将文学单独提出，再提到艺术一般不会包括文学。研究艺术的学科是艺术学。
+     爱要艺术一点？
+     艺术是什么玩艺
+     装什么深沉呀

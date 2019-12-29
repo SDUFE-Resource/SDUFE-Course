@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <wang@ccert.edu.cn>; Sun, 21 Aug 2005 16:42:15 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <wang@ccert.edu.cn>; Sun, 21 Aug 2005 16:55:29 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 16:24:10 +0800
+Date: Sun, 21 Aug 2005 16:55:20 +0800
+From: "xin" <xin@wnt.com.cn>
+To: wang@ccert.edu.cn
+Cc: "lic" <he@ccert.edu.cn>, "sunt" <zhuang@ccert.edu.cn>, "caoy" <feng@ccert.edu.cn>,
+        "wangb" <mo@ccert.edu.cn>, "songhm" <fan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMP3zOzG79DQyq7I/cHqy66/4iAo16rU2Ck=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+我今天骑车去了回笼观，发现清河以北的路段特别不好骑
+路边特别不平整，不知道过了泷泽以后的路段是什么样子
+路上的灰尘很多，车开得很快，希望大家注意安全
+另外，我从东门出发到那里大概骑了40分钟，我的车是Merida的公路赛
+速度应该是比正常的快，希望对大家有所借鉴。
+     【 以下文字转载自 Travel 讨论区 】
+     发信人: vortex (vortex), 信区: Travel
+     标  题: 明天骑行十三陵水库

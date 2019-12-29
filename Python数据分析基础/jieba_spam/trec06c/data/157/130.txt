@@ -1,0 +1,38 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J9jdVJ014346
+	for <xu@ccert.edu.cn>; Tue, 20 Sep 2005 01:50:37 +0800 (CST)
+Message-ID: <200509191745.j8J9jdVJ014346@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO mawindowxp) (malb03@166.111.203.148)
+  by localhost with SMTP; Mon, 19 Sep 2005 17:58:49 -0000
+From: =?gb2312?B?wu3A8rKo?= <gu@mails.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX3yMu45svfztLV4rbOtPrC69T1w7S4xLLFxNzUy9DQLNC70Lsh?=
+Date: Tue, 20 Sep 2005 01:59:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD43.1FB289A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+Thread-Index: AcW9AA/6/EOzUL12R+qVY+S0ygKmlg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+当然可以了
+if (language=="zh")                                                
+　　document.write("中文");                                                   
+                                              
+else                                                                          
+         
+　　document.write("hello world"); 
+改为:
+link="";
+if (language=="zh")                                                           
+  
+　　link = "......";                                                   
+  
+                                                                              
+  
+else                                                                          
+   link = ".....";
+然后是go(link)  之类的自己查资料,
+我不是搞网页编程的
+     还有一个问题请教:
+     能不能把string 换成链接？

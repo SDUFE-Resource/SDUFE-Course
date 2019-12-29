@@ -1,0 +1,61 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8542Gjk014940
+	for <xiao@ccert.edu.cn>; Tue, 6 Sep 2005 18:06:46 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j853xQ7i048852
+	for <xiao@ccert.edu.cn>; Tue, 6 Sep 2005 18:05:00 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j853xNkR048838
+	for <xiao@ccert.edu.cn>; Tue, 6 Sep 2005 18:03:53 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050359.j853xNkR048838@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Tue, 6 Sep 2005 09:52:59 -0000
+Date: Tue, 6 Sep 2005 18:13:50 +0800
+From: "yu" <yu@mails.tsinghua.edu.cn>
+To: xiao@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j853xNkR048838
+Subject: =?gb2312?B?UmU6IMutvMe1w9bQ0ae1xMr90ae2rMHu06rV/cq9w/u90Mm2o78gKNeq1Ngp?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+数学的
+年份 地点 协办单位 
+1986年 天津 南开大学 
+1987年 北京 北京大学 
+1988年 上海 复旦大学 
+1989年 合肥 中国科技大学 
+1990年 郑州 《中学生数理化》编辑部 
+1991年 武汉 华中师范大学 
+1992年 北京 北京数学奥林匹克发展中心 
+1993年 济南 山东大学 
+1994年 上海 复旦大学 
+1995年 合肥 中国科技大学 
+1996年 天津 南开大学 
+1997年 杭州 浙江大学 
+1998年 广州 广州师范学院 
+1999年 北京 北京大学 
+2000年 合肥 中国科技大学 
+2001年 香港 香港中文大学 
+2002年 上海 上海中学 
+2003年 长沙 长沙市第一中学 
+2004年 澳门 澳门大学科技学院 
+2005年 郑州 郑州外国语学校 
+     哦,那就是只办过一次
+     记得比较模糊，混了

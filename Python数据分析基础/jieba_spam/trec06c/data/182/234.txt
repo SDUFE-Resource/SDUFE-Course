@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <jin@ccert.edu.cn>; Sun, 25 Sep 2005 09:40:05 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <jin@ccert.edu.cn>; Sun, 25 Sep 2005 09:51:26 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 01:28:26 -0000
+From: "you" <you@mail.tsinghua.edu.cn>
+To: jin@ccert.edu.cn
+Cc: <wang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sun, 25 Sep 2005 09:51:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+   2002年本科毕业前夜看了一本小说《麦田里的守望者》，内容是什么已经忘了，只记住了一句话：“一个不成熟男人的标志是为了某种事业的成功悲壮的死去，一个成熟男人的标志是为了某种事业的成功悲贱地活着。”
+   做为一个中国大学里的博士生，对怎样去做研究，怎样去学习几乎是没有选择的。你所能做的是
+  （1）被体制同化，写paper，写一些你自己都不会再看的paper，然后毕业
+   (2) 做很多实际工作，也能毕业，但是也许你的paper数量不会那么好看
+  （3）象王垠一样出国，寻找一块能容得下自己的学术乐土
+   实际上，没有几个有见识的工科博士会认同自己老师的做法和工作方式，但是为了生存下来，我们有什么选择吗？
+   熬出来，活下去，这就是我的选择。我没有楼主那种选择离开的勇气。
+   祝福王垠，你在做我想做而不敢做的事。

@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <xu@ccert.edu.cn>; Sun, 25 Sep 2005 01:49:02 +0800 (CST)
+Received: (eyou send program); Sun, 25 Sep 2005 01:38:02 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 25 Sep 2005 01:38:01 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 25 Sep 2005 01:38:01 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 17:38:01 -0000
+From: "bi" <bi@mail.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/W1Nq1xMTqx+HIy86qyrLDtLa81eLDtLih1OrE2KO/?=
+Date: Sun, 25 Sep 2005 02:00:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+上星期我陪一个美国来的大牛一个星期。受益菲浅。这个大牛从五岁开始写程序，今年才28岁，号称已经写了几百万行程序了。现在搞的几个项目都是 Linux 界鼎鼎大名的。
+我认为一个真正的理想主义者，应该能够静下心来为自己的理想奋斗一生。而不是东做做，西做做，到了什么成就也没有，只留下一堆愤世嫉俗的文章。
+     赞同他不是因为学术，学术上还不至于到让所有人崇拜的地步，
+     而是因为他是一个理想主义者，为了理想能抛弃很多东西迈出这一步是很不容易的，这
+     就够了

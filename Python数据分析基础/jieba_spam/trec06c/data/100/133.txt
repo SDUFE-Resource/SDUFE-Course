@@ -1,0 +1,21 @@
+Received: from mail3.1stchina.net ([210.51.25.177])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86A9MLj026561
+	for <zhang@ccert.edu.cn>; Thu, 8 Sep 2005 04:40:32 +0800 (CST)
+Received: from image (unknown [218.1.94.5])
+	by mail3.1stchina.net (Ksemail Mail Server Ver 5.1 Build 050318 (OS-Linux Database-MySQL) ESMTP Ready. http://www.ksemail.com/) with ESMTP id AE29852C231
+	for <zhang@ccert.edu.cn>; Thu, 8 Sep 2005 05:02:04 +0800 (CST)
+Date: Thu, 8 Sep 2005 04:52:25 +0800
+From: "rao" <rao@aryasec.com>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILGxtPPR0L6/yfq40NG5waa087Dr0rm/3tfFs/bX3yDAz7i4v+DRsA==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050906103056.AE29852C231@mail3.1stchina.net>
+
+到底是家里给他钱呢还是他给家里钱呢？搞不懂
+     北大研究生感压力大半夜哭着出走 老父苦寻
+      时间：2005年09月07日02:08　来源：京华时报 【热点排行】【推荐】【打印】【关闭】 
+     本报讯（记者陈晨实习生章荣来）“他应该是别人的榜样，他是大学生中的佼佼者。”柳剑锋的老师是这样评价他的。然而，就在23天前，这名北京大学信息技术科学院28岁的研二学生先是向父母哭诉自己“没有能力”，随后从宿舍出走，至今未归。

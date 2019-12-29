@@ -1,0 +1,45 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <wang@ccert.edu.cn>; Fri, 19 Aug 2005 14:34:47 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <wang@ccert.edu.cn>; Fri, 19 Aug 2005 14:47:51 +0800 (CST)
+Date: Fri, 19 Aug 2005 14:42:08 +0800
+From: "li" <li@sohu.com>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC5+rn6vMq98Mja09DP3rmry77Qxc+ivLzK9bK/o63Ktc+wyfo=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+帮HR再贴
+Title:        Program Assistant
+Job Code:    Intern
+Department:    IT Department
+Location:    Beijing
+Date of Hire: ASAP
+General Summary：
+Assisting on data modeling for a Financial Research Analysis and Workflow system. 
+Job Specifications：
+Knowledge：
+Knowledge of accounting and financial business, MS office applications, database concepts, and programming skills
+Skills and Abilities：
+&amp;#61548;    Ability to read financial statements and interpret the data
+&amp;#61548;    Ability to learn things quickly
+&amp;#61548;    Ability to read financial English fairly well
+&amp;#61548;    Ability to use Excel to create financial models
+&amp;#61548;    Ability to write design documents based on business requirements
+&amp;#61548;    Ability to find technical solutions independently
+&amp;#61548;    Ability to communicate effectively with team members and supervisors
+&amp;#61548;    Understand the concepts of relational database
+&amp;#61548;    Mid-level programming skills in one of the object oriented computer languages
+&amp;#61548;    Hard working and excellent work attitude to provide strong support to Research Analysts
+Qualifications：
+&amp;#61548;    4th year university student or graduate student from reputable universities
+&amp;#61548;    Demonstrates passion for this job
+&amp;#61548;    Positive thinking
+请认真阅读技能要求，然后登陆www.cicc.com.cn网上填写报名。
+个人认为，一定要有足够的计算机基础，计算机专业尤加，
+并且，对财务报表和金融知识的了解也是必备的。

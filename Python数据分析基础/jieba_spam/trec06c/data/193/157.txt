@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <han@ccert.edu.cn>; Tue, 27 Sep 2005 17:50:56 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 09:37:12 -0000
+Date: Tue, 27 Sep 2005 18:02:56 +0800
+From: "wen" <wen@mail.tsinghua.edu.cn>
+To: han@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+     我是外校的。我知道清华有很多“大牛”，喜欢而且拥护清华的制度。
+     我只是困惑，就算ieee,sci所有的期刊全是你们的“牛”论文对成为科技强国有什么意义么？
+     你们看不起linux，看不起latex这些小儿科，当你们用盗版的word打你们的best paper award candidates的时候，当用盗版powerpoint演示你们的方案的时候，你们就变得比王垠更有学术气质了么？更像搞研究的了？
+web为什么这么受歧视？
+汗ing

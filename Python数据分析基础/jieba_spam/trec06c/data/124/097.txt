@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <jin@ccert.edu.cn>; Tue, 13 Sep 2005 05:55:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <jin@ccert.edu.cn>; Tue, 13 Sep 2005 06:07:14 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 12 Sep 2005 21:50:02 -0000
+From: "huang" <huang@mail.tsinghua.edu.cn>
+To: jin@ccert.edu.cn
+Cc: <gan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILfWytbSu7j21MK1xLjQzvI=?=
+Date: Tue, 13 Sep 2005 06:07:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+把本文的“他”换成“她”，结论依然成立。
+     世界上有两件事是永远也勉强不了的，小时候是学习的兴趣，长大了，是爱情。 
+     ----- 这，是一面镜子，勇敢放弃，勇敢面对，勇敢重新开始。 
+     当他不爱你的时候，无论过去他是否爱过后来却忘了，又或者从未爱过，总之，当你无法成为他心里的那个人的时候，他的心便不会记得你，更不会在乎你。就算他知道你深爱他，偶尔也能感觉得到你的关心，但他宁可装作是不知道。不爱了的那个人永远是先放得开的，所以，请你也不要折磨自己，痛苦太长时间。要学会自然，如果你选择坚强接受，你们的结束会被认为是没有缘分，也许在他的心里，还会留下些许的遗憾；可是如果你不够理智，总是想做一些事情挽回这段已经不可能存在的爱情，那么你们的结束只能被他看成是性格不合。 

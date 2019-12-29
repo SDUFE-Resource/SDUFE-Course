@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <sun@ccert.edu.cn>; Tue, 23 Aug 2005 03:50:34 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <sun@ccert.edu.cn>; Tue, 23 Aug 2005 04:03:52 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 19:58:29 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Cc: "tunet" <tan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09qxysrUtcTEv7XE?=
+Date: Tue, 23 Aug 2005 04:00:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我觉得合适就谈吧，您想想，公司的考试题都是精选出来的，多少分才合适，公司招聘人心里是知道，如果100人，都是60分，招聘组会跟他们面试的，如果100人，一个都没有60分，那就不面试了，宁缺勿滥呀，呵呵
+【在 aopeiku (奥佩裤) 的大作中提到: 】
+     笔试的目的是为了选择优秀还是为了淘汰实在不合适的人选？
+     举个例子，某个公司有5个职位，有100个人参加笔试，那么是根据数量选择笔试成绩最好的20人面试(这样可能有很多也合适的人选就被bs了)，还是根据笔试成绩多少分(比如说60分)以上就可以参加面试呢(这样人选可能会很多)
+     btw:主要是针对IT行业软硬件开发方向的

@@ -1,0 +1,29 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdWEc032356
+	for <yan@ccert.edu.cn>; Tue, 27 Sep 2005 10:21:17 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 10:36:59 +0800
+Message-ID: <327652915.11497@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Tue, 27 Sep 2005 10:36:59 +0800
+Message-ID: <000201c5c1cf$bb5d1d80$0301a8c0@CCERTDAWEI>
+Reply-To: "che" <che@ccert.edu.cn>
+From: "che" <che@tsinghua.org.cn>
+To: yan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEZyZWVkb20gaXMgTk9UIGZyZWUgo7q4+M31zazRp7rNtNPKwr/G0dC5pNf3tcTNrMjK?=
+Date: Tue, 27 Sep 2005 07:37:00 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+有些人一下子找到了自己感兴趣的方向，那或许是他运气好吧，一下子找不到感兴趣的方向也没有什么奇怪的，王垠只是在现代高校的科研诸多环节的约束下表现上激烈了些。
+其实我觉得他效率还满高的，很快就能断定哪个方向他不想做。总比在一个方向耽误终身好得多。
+   这个世界上，年级大了才发现自己真正想要什么的人不但存在，而且还很多。
+     我觉得是他没找到自己很感兴趣的方向把
+     不过我的体会是 一下子找到很感兴趣的方向 很难
+     可以先做些不是很感兴趣 也不讨厌的 然后慢慢找更好的方向

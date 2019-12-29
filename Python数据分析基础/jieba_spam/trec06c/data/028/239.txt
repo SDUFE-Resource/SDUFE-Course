@@ -1,0 +1,17 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J3gCnM014711
+	for <lu@ccert.edu.cn>; Tue, 23 Aug 2005 04:53:29 +0800 (CST)
+Received: (eyou send program); Tue, 23 Aug 2005 05:01:26 +0800
+Message-ID: <324423409.11928@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 23 Aug 2005 05:01:26 +0800
+Message-ID: <324423409.11903@mail.tsinghua.edu.cn>
+Received: from 202.112.4.166 by 166.111.8.18 with HTTP; Tue, 23 Aug 2005 05:01:26 +0800
+From: su@mail.tsinghua.edu.cn
+To: lu@ccert.edu.cn
+Date: Tue, 23 Aug 2005 05:01:26 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IL7cwcu1xEdHuPrK0tPR1NrSu8bwwcujrNPQtePKp8Lkoa2hrQ==?=
+Content-Type: text/plain
+
+记得曾经看多一个印度的小故事，说一个老人从他年轻的时候开始就辗转于各地不停的寻找他心目中的完美情人，但是一直没有找到。有一天一个年轻人问他，难道他一直都没有遇到一个他心目中的完美情人吗？老人说，在他年轻的时候，曾经遇到过一个他认为是他的完美情人的美丽姑娘。年轻人说，那你为什么没有跟她在一起呢？老人答：“谁炸掉呢？当时她也在寻找她心目中的完美情人。”
+------事隔多年原文记不清了，故事大意如此。

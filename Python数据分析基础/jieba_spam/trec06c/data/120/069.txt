@@ -1,0 +1,58 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <zhao@ccert.edu.cn>; Mon, 12 Sep 2005 10:55:43 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <zhao@ccert.edu.cn>; Mon, 12 Sep 2005 10:52:58 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <zhao@ccert.edu.cn>; Mon, 12 Sep 2005 10:52:00 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Mon, 12 Sep 2005 11:03:32 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Mon, 12 Sep 2005 11:06:08 +0800
+From: "luo" <luo@runway.cn.net>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+W7qrTz0afRp8n61rDStbei1bnQrbvh1dDQwsHLICjXqtTYKQ==?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: luo@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 THAScda 讨论区 】
+发信人: fengzhizi (响应建设节约型社会的号召), 信区: THAScda
+标  题: 清华大学学生职业发展协会招新了
+ 
+    企业需要什么样的人才？
+    如何进行自我职业规划？
+    怎样培养自己的职业能力？
+    如何在激烈的求职竞争中脱颖而出？
+     ……
+    面对这一系列的疑惑，怎么办？
+    加入清华大学学生职业发展协会吧――贡献出你的热情和智慧，我们将为你提供，协会一个锻炼能力并实现自我价值的舞台！
+    我们的宗旨是：为广大毕业生就业服务，为广大同学职业发展服务。
+    我们的目标是： 
+    以专业化的辅导，促进清华学生职业发展能力的提升；
+    以综合性的服务，辅助清华毕业生的就业安置工作。
+    我们的价值观是：
+    领导艺术Leadership，广阔视野Vision，积极热情Passion 
+    还在犹豫什么呢，赶紧加入我们吧！Join us for future！
+   想要报名参加协会，请下载报名资料，报名截止时间为9月15日晚上12:00。
+   报名表的ftp地址为：ftp://zhaoxin:zhaoxin@166.111.14.254

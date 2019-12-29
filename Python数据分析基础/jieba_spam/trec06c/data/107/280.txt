@@ -1,0 +1,27 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <fu@ccert.edu.cn>; Fri, 9 Sep 2005 20:20:44 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <fu@ccert.edu.cn>; Fri, 9 Sep 2005 05:32:51 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 05:32:51 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 05:32:51 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Fri, 9 Sep 2005 20:32:51 +0800
+From: =?GB2312?B?1/O+pw==?= <xie@gmail.com>
+Reply-To: xie@gmail.com
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IHNhd6Oszt7BxLXE0MTA77/WssDTzs+3?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+bu re
+     saw，虎头蛇尾的惊悚片，无聊的心里游戏。比当年的《沉默羔羊》《第六感》差多了。。。。唯一的噱头就是海报上一支触目惊心的断手，和一支触目惊心的断角。
+     开场的20分钟，介绍了saw连环杀人案件的各种各样的离奇死法，有用链锯自己把自己割死的，有被自己烧掉自己的，还有为了求生把别人开膛破肚的，总而言之为了求生人们作出的种种超常行为。可是到了20分钟过后，就属于垃圾时间了，，，，无意义的配角，没有逻辑性的推理，

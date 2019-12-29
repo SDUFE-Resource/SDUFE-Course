@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <long@ccert.edu.cn>; Sat, 24 Sep 2005 13:29:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <long@ccert.edu.cn>; Sat, 24 Sep 2005 13:40:54 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 05:17:54 -0000
+From: "cen" <cen@mail.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Cc: <yun@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnAvMbV4rjnw8exvr/G1NrH5buqtsG+zbvhwM/Ktbbgwcs=?=
+Date: Sat, 24 Sep 2005 13:40:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+     我看你的理解很超乎常人啊？又一个天才？
+ : 我大段的语言都在推论，以他的逻辑，清华本科的牛人大都跑出去了，留下的大都是垃圾

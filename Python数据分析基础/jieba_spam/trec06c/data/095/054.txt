@@ -1,0 +1,32 @@
+Received: from mail3.1stchina.net ([210.51.25.177])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86A9MLj026561
+	for <gu@ccert.edu.cn>; Wed, 7 Sep 2005 01:34:11 +0800 (CST)
+Received: from image (unknown [218.1.94.5])
+	by mail3.1stchina.net (Ksemail Mail Server Ver 5.1 Build 050318 (OS-Linux Database-MySQL) ESMTP Ready. http://www.ksemail.com/) with ESMTP id AE29852C231
+	for <gu@ccert.edu.cn>; Wed, 7 Sep 2005 01:55:43 +0800 (CST)
+Date: Wed, 7 Sep 2005 01:46:04 +0800
+From: "gao" <gao@aryasec.com>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsb6/xr3Xts6zybyoyOe6zrT4yOvR0L6/yfqjvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050906103056.AE29852C231@mail3.1stchina.net>
+
+《清华大学研究生课程学习及成绩管理办法》
+5. 正式入学前选修的研究生课程。我校本科生在本科期间选修研究生课程，须征得导师或
+所在院（系、所）主管主任同意，正式办理选课手续。一经选课，即按照研究生课程学习及
+成绩管理办法执行。研究生入学后，经所在单位研究生管理部门核实后，可认定相应的研究
+生课程学分。研究生课程学分不能与本科生的学分重复计算。
+外校考入我校的研究生，在入学前经正式手续随本校研究生修过我校研究生课程且考试成绩
+合格者，入学后，经所在单位研究生管理部门核实后，可认定学分。
+《研究生选课细则》
+9、本科阶段选修研究生课程。在本科阶段选修的研究生课程，应列入研究生个人培养计划
+，但不必再次选课。该课的原有成绩将自动带入研究生阶段，并计入学分，同时删除本科阶
+段成绩记录。本科生阶段所修研究生课程及其成绩管理办法，遵照研究生“研究生课程学习
+及成绩管理办法”执行。
+问题1：如何去“所在单位研究生管理部门核实”？
+问题2：抽去本科阶段的成绩后，本科的学分就不够了，咋办？
+有知道的师兄师姐讲讲吗？

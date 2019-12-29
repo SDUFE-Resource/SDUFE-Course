@@ -1,0 +1,32 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <hou@ccert.edu.cn>; Sun, 18 Sep 2005 19:59:51 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <hou@ccert.edu.cn>; Sun, 18 Sep 2005 20:16:26 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <hou@ccert.edu.cn>
+	; Sun, 18 Sep 2005 20:16:26 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <hou@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 19:41:27 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "ren" <ren@njnu.edu.cn>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IG1t19zLtbjQvvWyu7W9ztK1xLCuLCDU9cO0sOw/?=
+Date: Sun, 18 Sep 2005 20:11:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+关键在投其所好
+     今天又因为一点小事吵架了, 最近总是吵架, 而且mm哭的很伤心, 但是我却不知道怎么安慰她, 最近她总是说感觉不到我的爱, 感觉不到她在我心中的重要，我却觉得很冤枉，我真的很爱她，我也已经下定决心跟她过一生。
+     虽然我比较忙，事业心也比较重，但是我还是尽我最大的能力地在平时生活中关心她，也尽力去满足她的要求，让她高兴。
+     每月纪念日我都会送她一束玫瑰花，有时还会送上卡片，前几个月的纪念日我们还互赠礼物，有时还会请她出去吃一顿  我平时也很留意她喜欢什么，然后在纪念日的时候送给她

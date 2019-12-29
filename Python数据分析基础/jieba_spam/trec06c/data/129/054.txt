@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <xue@ccert.edu.cn>; Wed, 14 Sep 2005 05:38:54 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <xue@ccert.edu.cn>; Wed, 14 Sep 2005 05:50:49 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 21:33:06 -0000
+From: "su" <su@mail.tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+Cc: <ling@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILjDsru4w9Pry/3MuMTYo7/P1tTa09C149PM1KWjrM/rzP3M/bTzvNK1xNLivPujoQ==?=
+Date: Wed, 14 Sep 2005 05:50:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+你不就看上人家漂亮了么，要是不漂亮，你早不睬人了，哼哼
+     昨天一位同学帮我介绍一个女朋友，人长的的确漂亮，性格也很开朗外项的，我比较满意；可惜感觉那女孩比较能花钱，也很爱打扮；听她说她的家庭条件并不是很好，父母都下岗了，其实我并不在乎这些，可惜第一次见面她就要我请你吃饭，还要我给她买东西，虽然我能感觉到她对我有点意思，可惜一想到老让我花钱确实不太爽啊，怀疑是看上我的钱还是人，其实以前谈过的女孩花钱基本上都是一起分担的；我们都是大4的学生啊，还都没有资金收入的，大家提提意见吧，还应该谈下去吗？我的家庭条件也很一般啊

@@ -1,0 +1,27 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <jian@ccert.edu.cn>; Thu, 25 Aug 2005 06:36:38 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Wed, 24 Aug 2005 22:26:13 -0000
+From: "chi" <chi@mails.tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 25 Aug 2005 06:49:55 +0800
+
+加班这点，华为做得应该是无可厚非
+加多少班，就会有多少回报
+很多年轻人，愿意花时间多做点多学点，别人也管不着
+一是现在华为的待遇已经比2001年那时低了很多
+二是华为或许会通过那个什么慧通盘剥研发人员
+每次22:00多从华为北研所经过
+老看见好多层工作室灯都亮着
+且不论别的，就这种乱加班的企业文化那就是错误的
+我自己是自己的boss
+尚且加班到21:00点就走了
+怎么可以叫没有股份的员工这么加班呢？

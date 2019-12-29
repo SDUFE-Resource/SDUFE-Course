@@ -1,0 +1,22 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <cen@ccert.edu.cn>; Wed, 28 Sep 2005 22:56:35 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 15:07:42 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 23:07:42 CST
+Date: Wed, 28 Sep 2005 23:07:42 +0800 (CST)
+From: liang ming <gan@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INXivs3Kx9Ts0qWjulJlOiDH88fzxOOx7dHvztK+58fp?=
+To: cen@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+以后这些脸谱化都没了，什么大决战，开国大典那种无聊电影再也不会在电视上出现了。
+     ”在我的印象里，《搭错车》并未在大陆公映过，它的名字为我们所熟悉，来源于一个叫程琳的小丫头高唱的一首歌《酒干倘卖无》，今天我们已知道歌曲的原唱是大名鼎鼎的苏芮。而作曲侯德建也凭借这首歌和程琳一道红遍中国。据说当年影片导演找到罗大佑的时候，罗大佑说插曲
+     人物介绍:
+     　　本片导演叫做虞戡平，出生于1950年，显然他的名字和我们的“建国”、“红卫”一样，带有浓重的时代烙印。国共内战，我们叫“解放战争”，他们叫“戡乱”。这倒可以理解，但是在《搭错车》里出现的解放军形象委实不堪，别说共产党官方，连我都看不下去。老孙越扮演的

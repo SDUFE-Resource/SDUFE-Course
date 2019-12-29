@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FDF2nP003737
+	for <xu@ccert.edu.cn>; Fri, 16 Sep 2005 05:59:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FDQpvs001563
+	for <xu@ccert.edu.cn>; Fri, 16 Sep 2005 06:10:57 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 21:52:09 -0000
+Message-ID: <003701c5b9f9$461a6f60$787d6fa6@hotline>
+From: "guo" <guo@mail.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxbzG77O1yc+w4LXEvq3R6Q==?=
+Date: Fri, 16 Sep 2005 06:11:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0034_01C5BA3C.5412CED0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+不好意思，来晚了，没赶上讨论
+以前从清河到北二环积水潭，10公里多一点。骑车确实比坐车快。40分钟搞定。
+但是北京的空气实在太差，到了公司之后，满脸都是灰尘，先去洗个脸，然后才能上班。
+我有两个同事天天骑车上班，从南三环过来18km左右。真是满面尘灰烟土色，一个是我们项目的pm。另外一个是mm，每天罩着面纱过来。不过也是没办法，看看300的拥挤情况。就知道为什么忍受痛苦汽车过来了，起码比挤300要强。

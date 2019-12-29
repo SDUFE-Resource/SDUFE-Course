@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C1ElfM005929
+	for <qian@ccert.edu.cn>; Tue, 13 Sep 2005 09:30:01 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.144.133)
+  by localhost with SMTP; Tue, 13 Sep 2005 01:16:26 -0000
+From: "chen" <chen@mails.tsinghua.edu.cn>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMu2sqnBrLbB1Nq2wcbavOTE3Lu7tbzKpsO0o78=?=
+Date: Tue, 13 Sep 2005 09:47:40 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLKEKCCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+Importance: Normal
+In-Reply-To: <326450489.02480@mails.tsinghua.edu.cn>
+
+换导师的话,也没必要去赚学分,只要自己觉得背景知识够,不用再额外选课的
+     各位大哥大姐：
+         本人2003年进入国内一所重点大学（非清华）成为一个硕博连读的研究生，今年已经正是进入博士培养阶段。
+         本学期刚开始，突然导师找我谈话，说他今年加我在内一共带了3个博士，精力不够，建议我另换其他导师。我当时就表示不愿意换导师，他脸色凝重的说：“你还是考虑一下！”。虽然距离找我谈话已经有一段时间了，但是我心里一直不好想，为什么就要我换导师，而不要其他两个博士换呢？况且我2003年就入校，2005年进行博士注册，这是培养计划上早就写好的，你明知道这个，为什么今年还要再加2个博士？

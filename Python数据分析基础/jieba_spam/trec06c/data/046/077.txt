@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <sun@ccert.edu.cn>; Sat, 27 Aug 2005 01:29:39 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 01:47:59 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 01:47:59 +0800
+Date: Sat, 27 Aug 2005 01:47:59 +0800
+From: peng@cernet.com
+Subject: =?gb2312?B?UmU6IMTQxfPT0brNztKzs7zcyrGjrNel16HO0qOsttTO0su1o7rG/svAxOOjrM7S?=
+To: sun@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+标  题: 八大政纲
+发信站: 水木社区 (Sun Aug 14 16:21:28 2005)
+来  源: 156.236.23.138
+1，国家中央权力制度建立以“人大”为基础的议会政党政治；2，严禁任何政党在军队或政
+府部门建立支部；3，司法系统在人大架构下独立于行政体系；4，省级以下的地方行政长官
+直选；5，修改宪法，通过新闻自由法案；6，通过民权法案；7，通过归还农民土地产权的
+特别法案；8，以保护华侨为主旨的海外派兵法案；）。
+     有时候，弱者需要的是真正的理智

@@ -1,0 +1,60 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j822KE0j026900
+	for <liu@ccert.edu.cn>; Sun, 4 Sep 2005 14:56:33 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j822I2Cp027723
+	for <liu@ccert.edu.cn>; Sun, 4 Sep 2005 14:55:13 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j822Hw7X027719
+	for <liu@ccert.edu.cn>; Sun, 4 Sep 2005 14:54:18 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 4 Sep 2005 14:43:20 +0800
+Message-ID: <325626821.22783@mails.tsinghua.edu.cn>
+Received: from 202.38.188.130 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 4 Sep 2005 14:43:20 +0800
+From: yan@mails.tsinghua.edu.cn
+To: liu@ccert.edu.cn
+Date: Sun, 4 Sep 2005 14:43:20 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgSGVhcnQgsOa+28P7taWjqLK7ts+4/NDC1tCjqSAo16rU2Ck=?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: yan@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 RoomC1 讨论区 】
+发信人: starrydx (寥洲轩客～heart版聚开始啦：）), 信区: RoomC1
+标  题: Heart 版聚名单（不断更新中）
+发信人: baobeixiu (do myself best), 信区: Heart
+标  题: Heart秋游名单（不断更新中）
+         人数             
+amw        1    gg                  
+baobeixiu&amp; 2   2mms       
+cdkey&amp;     1    mm         
+coldpine   1    gg
+fenger195  1    mm         
+hanhellen  1    mm
+hongt007   1    gg         
+Jit        1    gg         
+penguinna  2(3) mms        
+robinyao   1    gg         
+starrydx   1    gg         
+SUBARU84   1    mm         
+sunny35    1    mm         
+sweetfield 1    mm         
+Yantze     1    gg         
+corundom   1    mm
+共计       18  or 19       
+           7   ggs
+           11-12  mms

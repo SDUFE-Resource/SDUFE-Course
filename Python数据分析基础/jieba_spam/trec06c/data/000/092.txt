@@ -1,0 +1,40 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <luo@ccert.edu.cn>; Sun, 14 Aug 2005 12:47:06 +0800 (CST)
+Received: (qmail 5448 invoked from network); Sun, 14 Aug 2005 04:57:53 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 14 Aug 2005 04:57:53 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "lv" <lv@jdl.ac.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVv7S1xNDC0+/Lv7XEzsTVwnp6?=
+Date: Sun, 14 Aug 2005 13:01:52 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+完了，我也不会算了。
+无盖长方体，同表面积情况下（少算一面）体积最大的不是立方体吧？貌似
+     标  题: Re: 刚看的新语丝的文章zz
+     
+     hehe. 我也看了，用了几秒就算出来了。
+     只能说明那个作者是个SB。
+     
+     对于小学题目，没必要那么严谨证明；所以只要知道是个求极值就行了。
+     而小学已经知道，圆〉正方形〉长方形。同样周长。
+     
+     
+     
+     : ◇◇新语丝(www.xys.org)(xys.dxiong.com)(xys.3322.org)(xys.dyndns.info)◇◇
+     : 　　小学作业越来越让人看不懂
+     : 　　书剑子
+     
+     
+     
+     --
+     

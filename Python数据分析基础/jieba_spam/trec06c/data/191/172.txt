@@ -1,0 +1,37 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <cen@ccert.edu.cn>; Tue, 27 Sep 2005 09:16:53 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Tue, 27 Sep 2005 01:27:47 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Tue, 27 Sep 2005 01:27:47 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <cen@ccert.edu.cn>; Mon, 26 Sep 2005 18:38:54 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <cen@ccert.edu.cn>; Mon, 26 Sep 2005 20:35:20 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 09:27:35 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <gong@motorola.com>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SzPnU2tXiwO+wySy087zSx8bHxi4=?=
+Date: Tue, 27 Sep 2005 09:27:10 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+You are trading out yourself and your country for your intention to join TEXAS-Austin Univ.
+Why are you so sure that that "university students\'s upper goal are to make money and success ,never considering of his contribution to others and the society. ", or that "so chinese now can only believe in money"??
+These are not totally true.
+If you are a prof, you will recruit a person from such a "shit country" ?
+So I say you betreat yourself and your country.
+      我写的一篇essay,大家帮忙看看,U of TEXAS-Austin要求的,大家多提宝贵意见,指出一些语法错误,谢谢了.发在别的版没人搭理.
+     Topic:
+     Many students expand their view of the world during their time in college. Such growth often results from encounters between students who have lived different cultural, economic, or academic experiences. With your future growth in mind, describe a potential classmate that you believe you could learn from either within or outside a formal classroom environment.

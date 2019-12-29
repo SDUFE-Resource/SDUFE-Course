@@ -1,0 +1,24 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <xing@ccert.edu.cn>; Wed, 28 Sep 2005 10:49:46 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 03:00:57 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 11:00:56 CST
+Date: Wed, 28 Sep 2005 11:00:56 +0800 (CST)
+From: liang ming <ke@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMrHvfDHrrj4ztLQ0riju7nKx7jQx+m4+M7S0NK4ow==?=
+To: xing@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+30w太少了，怎么着也得加两万
+困惑中
+和bf几年了,但是现在还看不到未来,要等他毕业,赚钱,卖房,我都一大把年纪了,还有问题是我本身能力也不是很强,很不独立,让我一个人面对生活的压力我觉得不堪重负,而是希望有个能够依靠的人,有时也想干脆不在北京算了,回家里单纯平静的生活不是也很好嘛
+现在有个年薪30万的人追我,但是我非常不喜欢他,人是好人,可是我对他完全没有感觉.不过如果嫁给他就不用为生活操心了,这确实很诱惑我,我很迷惑,到底应该怎么选择呢
+我知道这帖发在love版肯定要被拍的,家版的眼光可能有所不同,面对生活,感情占的权重真的很有限

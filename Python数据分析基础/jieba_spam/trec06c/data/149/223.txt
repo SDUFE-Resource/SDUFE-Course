@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <cheng@ccert.edu.cn>; Sun, 18 Sep 2005 04:19:38 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <cheng@ccert.edu.cn>; Sun, 18 Sep 2005 04:36:13 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <cheng@ccert.edu.cn>
+	; Sun, 18 Sep 2005 04:36:13 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <cheng@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 04:01:14 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "bi" <bi@njnu.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+/o6y3os/Wz9bU2rXn07C087a8v8zS4rHcv6q0883F1LK94b7W?=
+Date: Sun, 18 Sep 2005 04:31:25 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+这个完美风暴实在是没什么主题，就为了配合那个水的特技，事实证明那个特技虽然很难作，但一定都不吸引人。
+btw,很多恐怖片没有大团圆是为了方便拍续集吧，恐怖片最后不留个套反而是少数，成为另一种俗套了。
+     其实我本来挺喜欢这个片子的，片中对渔民亲人爱人的那种担心期盼焦急很真实很感人。
+     当那几个救援警察被救上渔船的时候，我都不怀疑他们会度过难关的。
+     谁知道结局。。。和你一样，我也以为最后能爬出来几个。。。

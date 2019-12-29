@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <hua@ccert.edu.cn>; Fri, 26 Aug 2005 00:11:15 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 00:18:45 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 00:18:45 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 00:18:45 +0800
+From: hua@mail.tsinghua.edu.cn
+To: hua@ccert.edu.cn
+Cc: wen@ccert.edu.cn
+Date: Fri, 26 Aug 2005 00:18:45 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILTzvNLU2kNoaW5hSFLJz7XEvPLA+tPDy/u1xLzywPrEo7DlwvCjvw==?=
+Content-Type: text/plain
+
+这种简历很常见把
+我觉得挺常见的
+至少很唬人
+         我感觉它的简历模板有些对我们应届毕业生不太适用，特别是IT技能，搞成：
+     “AAA技术 **月 熟练”。这种方法比较怪异，因为技术是相关的，将相关的技术都罗列起来不是非常麻烦么；特别是有些你掌握的技术，它还不提供给你。
+         大家写简历都是怎么办的呢？是不是使用自己的简历模板？交流一下吧，本人研三，该卖了，哈哈。

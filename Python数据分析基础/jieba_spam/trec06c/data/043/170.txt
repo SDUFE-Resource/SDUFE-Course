@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <guo@ccert.edu.cn>; Fri, 26 Aug 2005 12:00:49 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 12:19:09 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 12:19:09 +0800
+Date: Fri, 26 Aug 2005 12:19:09 +0800
+From: gao@cernet.com
+Subject: =?gb2312?B?UmU6IMrHsrvKx8jL0ru1qdPQwcu31srWtcTE7s23o6y+zbrcxNHIz9Xmwcujv6O/?=
+To: guo@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+我分析了一下，觉得你们分手的次数太多了，应该严重影响了你们的关系发展，这样继续下去，对谁人都不好。这个，纯粹是我的个人看法。
+       今天晚上他就回来了，现在却没有一点点亲切兴奋的感觉，很怕呀，怕他回来之后所有都改变……
+       想想这一个月来的和好又分开，也许就是我态度太不坚定了，才导致两个人的伤越来越深。
+       和好的时候他说得很诚恳，说以后都听我的，不再惹我生气，会好好疼我的，然后我们都哭了，也不知道是为了什么，哭着哭着就又在一起了。

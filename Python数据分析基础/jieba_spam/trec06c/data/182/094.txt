@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <gong@ccert.edu.cn>; Sun, 25 Sep 2005 07:17:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <gong@ccert.edu.cn>; Sun, 25 Sep 2005 07:28:51 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 23:05:57 -0000
+From: "jian" <jian@mail.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Cc: <chen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjI0yNW5pNf3vMfCvA==?=
+Date: Sun, 25 Sep 2005 07:28:31 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+报失
+王新    学生证（IC卡）   NO1264   学号2005011508，9月24日丢失。
+国颖倩  学生证（IC卡）   NO1265   学号2004011860，9月20日左右丢失。
+冯威    学生证（IC卡）   NO1266   学号2003012442，9月23日丢失。
+赵振宇  观音像玉（其他） NO673    绿色观音像玉，红绳，下方打两个小圈。9月20-23日                                  丢失。
+李满?   随身听和磁带     NO617    黑色随身听，内带“国歌”磁带。9月24日上午第十                                   于主楼前。
+许显?   手机             NO618    摩托罗拉A680，银黑色，带手机套。9月23日21：30                                   至24日13：00丢失于新水三楼服装班教室。
+张雅玲  钱包             NO986    深蓝色，内有身份证、京卡借记卡、牡丹卡、学生证                                  、饭卡、电话卡、100多元现金。9月23日晚丢失。 
+王跃    钱包             NO987    内有学生证、洗衣卡等。（失主已经找到所丢失物
+？敏    钥匙             NO782    两个钥匙，紫荆宿舍钥匙和十字花的自行车钥匙。9                                   月24日丢失。
+卢宪波  钥匙             NO783    四把钥匙，其中两把是自行车钥匙。9月20日前后丢
+丘吉刚  钥匙             NO784    钥匙串，三把钥匙，一个白色的门禁卡。9月22日丢                                   失于老二号楼附近。
+潘小飞  鞋（衣物）       NO569    黑色网兜里有一双黑色的攀岩鞋。9月23日晚23：00                                   左右丢失于31#楼前。

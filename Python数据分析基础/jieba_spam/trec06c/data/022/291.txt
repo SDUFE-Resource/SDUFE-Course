@@ -1,0 +1,54 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <he@ccert.edu.cn>; Sun, 21 Aug 2005 19:10:19 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <he@ccert.edu.cn>; Sun, 21 Aug 2005 19:23:21 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 19:46:49 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: ling@126.com
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEx1Y2VudCBRaW5nRGFvIFJlY3J1aXRpbmc=?=
+Date: Sun, 21 Aug 2005 19:18:03 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+注：需要的是已经毕业的，或者9、10月份开始实习的学生（实习期满合格者实习期算试用
+期）。
+     标  题: Lucent QingDao Recruiting
+     
+     POSITION:               Software Engineers
+     ORGANIZATION:   Convergence Solutions R&amp;D
+     # of openings:                50
+     LOCATION:               Qingdao
+     
+     GENERAL REQUIREMENTS
+     
+     §      B.S. or above in Computer Science, Communications, Electronics or other associated fields.
+     §      Good computer science knowledge, working experience in telecom software development and testing is preferred.
+     §      Fluent in both oral and written English (CET-6 or above).
+     §      Strong analytical/debugging skills.
+     §      Creative mindset and dedication, can learn things quickly and willing to take challenging jobs.
+     §      Strong communication skills and interpersonal skills.
+     §      Integrity, initiative, and good teamwork.
+     
+     JOB SUMMARY
+     
+     IMS  (3G, NGN) systems engineering, software design, development and testing 5EXC software design, development and testing
+     
+     
+     JOB DESCRIPTION
+     
+     §      Working with world class innovation engine - Bell Labs. 
+     §      Responsible for designing and developing IMS 

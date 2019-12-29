@@ -1,0 +1,27 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <yi@ccert.edu.cn>; Tue, 13 Sep 2005 17:20:41 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Tue, 13 Sep 2005 17:32:40 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <yi@ccert.edu.cn>; Tue, 13 Sep 2005 17:32:39 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <liu@dlut.edu.cn>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qsLPDx7Tls/bAtLXE0KG779fTy7W14yy0087Sy7XG8A==?=
+Date: Tue, 13 Sep 2005 17:32:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+看了，有点感动。
+没有m实在没天理。
+不过，恕我直言，文笔显得有点专业。
+     俺们村人不多,就那么300来户,1000来口子,都是姓一个姓的,出门串串都是叔叔婶子大爷的,那年俺领俺媳妇回家,让她见人就得张嘴叫,呵呵,小
+     僧家里辈分在村里比较低,结果我媳妇几乎一天全叫大爷,奶奶了.
+     俺家不富裕,俺上高一那年老爸就下岗了,老妈一直在家里种地;老姐嫁人了,日子也过得比较紧吧.俺最尊重的人就是俺老爸,那年他下岗以后,就

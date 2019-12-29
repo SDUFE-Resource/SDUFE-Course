@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <xing@ccert.edu.cn>; Fri, 16 Sep 2005 01:40:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <xing@ccert.edu.cn>; Fri, 16 Sep 2005 01:52:05 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 17:34:19 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "he" <he@mail.tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjE0yNW5pNf3vMfCvA==?=
+Date: Fri, 16 Sep 2005 01:48:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+挂失：
+余佳斌  13466602433     钱包 NO.955   绿色，内有IC卡，餐卡，铁通卡以及现金若干
+田叶    13141302729     钱包 NO.956   棕色，LV钱包，内有IC卡，若干卡以及现金若干
+刘文俊  13661108766     钱包 NO.957   红棕色，有米奇头像，IC卡，北京银行卡，身份证，餐卡，现金若干
+梁婷婷  51531353        衣物 NO.565   米黄色女装外套
+李刚    51533603        文具 NO.215   蓝色内有黑色橡皮擦，两只自动铅笔，钢笔
+曹志勇  13811821760     书包 NO.496   灰色双肩背包，内有学生证，（卢秀珍，韩籍）
+送交:
+崔柳     钱包NO.394   SPORT黑色加灰色，内有清华附中餐卡以及现金若干
+友情提示：
+繁忙的新学期开始了，大家要多多注意身体哦！^.^

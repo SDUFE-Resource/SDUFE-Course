@@ -1,0 +1,28 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 01:32:51 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <long@ccert.edu.cn>; Sat, 10 Sep 2005 10:44:58 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Sat, 10 Sep 2005 10:44:58 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Sat, 10 Sep 2005 10:44:58 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sun, 11 Sep 2005 01:44:58 +0800
+From: =?GB2312?B?1/O+pw==?= <guo@gmail.com>
+Reply-To: guo@gmail.com
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM+yu7bJz9K7uPZNTaOsv8nKx7K71qq1wLjD1PXDtL340ruyvb27zfmjrHNpZ24uLi4=?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+哈哈，知道你是哪个所了！
+     跟我在一个研究所，虽然我知道她，但是她还不认识我。
+     打听到她的邮箱后给她发邮件，希望和她认识，做个朋友。她也挺热情地回了信，偶备受鼓舞，又发了封信给她，就一直没回音了。
+     现在偶也不知道她有木有BF，但是觉得现在也不好意思直接问。而且她到现在也不知道偶到底是谁，是不是应该给她发张PP介绍自己先？可总感觉这样就太PIE了，不知道该怎么办。

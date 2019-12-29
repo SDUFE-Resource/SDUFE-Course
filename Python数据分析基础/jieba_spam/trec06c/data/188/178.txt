@@ -1,0 +1,23 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q8Ih5e007338
+	for <gong@ccert.edu.cn>; Mon, 26 Sep 2005 18:18:11 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q8M1b01723;
+	Mon, 26 Sep 2005 18:21:29 +0800
+Message-Id: <200509260822.j8Q8M1b01723@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 10:21:29 UT
+To: gong@ccert.edu.cn
+From: pu@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+
+支持！
+说的很好。
+其实无论在国内还是国外，不可能完全按照自己理想化的轨迹生活。
+在某种程度上说，人必须向身处的环境进行妥协。
+王同学对环境的要求有些高了，不应该让环境适应自己，而是让自己适应环境。
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。

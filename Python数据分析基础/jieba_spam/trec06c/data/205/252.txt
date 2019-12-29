@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9qIIm028353
+	for <zhong@ccert.edu.cn>; Thu, 29 Sep 2005 20:12:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SA3UnO014607
+	for <zhong@ccert.edu.cn>; Thu, 29 Sep 2005 20:23:59 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 19:58:24 +0800
+Message-ID: <327900275.22130@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 19:58:24 +0800
+From: chen@mail.tsinghua.edu.cn
+To: zhong@ccert.edu.cn
+Date: Thu, 29 Sep 2005 19:58:24 +0800
+Reply-To: chen@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgSW50ZXJuuNDP66Gqoaq90r+qsaa94MrQs6HR0L6/sr/J8cPYw+bJtNautv4oenopICjXqtTY
+KQ==?=
+Content-Type: text/plain
+
+                      冷静与热情之间－－宝洁CMK之体验
+                     Cheryl Lin   P&amp;G CMK Summer Intern
+    光阴似箭，转眼间在宝洁公司暑假实习的七个星期一下子就过去了。回顾这一段时间
+的实习生活，让我真切体验到了象牙塔之外的另一种忙碌而又充实的生活，感受到了跨国
+企业的氛围和文化。 
+    宝洁公司是一家从事快速消费品行业的公司，它长年坚持以消费者为本，注重跟消费
+者的沟通，每推出一个产品，每做一个决策，都必须根据消费者的反馈，必须是消费者真
+正需要的，这也是它被人津津乐道的成功之道，而我实习所在的部门是市场研究部

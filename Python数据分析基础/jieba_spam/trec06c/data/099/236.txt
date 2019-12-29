@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85Brq7S017804
+	for <cai@ccert.edu.cn>; Thu, 8 Sep 2005 01:24:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j85C6Fu5015902
+	for <cai@ccert.edu.cn>; Thu, 8 Sep 2005 01:36:40 +0800 (CST)
+Message-Id: <200509051206.j85C6Fu5015902@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 7 Sep 2005 17:23:06 -0000
+From: "shi" <shi@mail.tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Cc: <mo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/ry7XPwrnY09rV0sWptOVsZw==?=
+Date: Thu, 8 Sep 2005 01:36:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5B255.40DC4970"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWyEjKLgqxyovE3TYCvYclclUUw1Q==
+
+       其实，有几个兄弟农村的孩子，尤其是家里最小的，还是不错的选择。因为兄长经过几年奋斗，在当地也过少了中等以上生活。父母事情一点都不用担心，而且父母也不会过来一
+         ~~~~~~~~~~~~这个可不一定，我同学的哥哥就和他说想把孩子（才4岁左右）送到北京来（我同学刚毕业的时候，还没安家呢），并且那意思怎么也一直到大学毕业了，相当于这个孩子就给他养了，搞的我同学很郁闷，当时我同学刚毕业，单位出了问题，又要自己租房子，我同学穷的手里真的是饭钱都没有了。
+起住，生活不习惯。
+         

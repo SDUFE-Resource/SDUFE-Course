@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <shi@ccert.edu.cn>; Mon, 22 Aug 2005 14:27:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <shi@ccert.edu.cn>; Mon, 22 Aug 2005 14:40:40 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 06:35:17 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "su" <su@mail.tsinghua.edu.cn>
+To: shi@ccert.edu.cn
+Cc: "tunet" <yun@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQ0KnAp7vz?=
+Date: Mon, 22 Aug 2005 14:37:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     不知道大家有没有碰到这样的情况
+     有些人对别人不好，或者人品不怎样，或者就是让人不喜欢，但是对你挺好的，你会怎么对他。
+     前几天和一个同学聊天，他说他的原则是就算一些人对所有人都不好，只要对自己有利，就没必要太讲究
+       
+     我们班就有这样一个男生，对别人比较刻薄、不客气，但是对我特别好。我对他很客气，也很感激。每个人都有自己喜欢和不喜欢的人，我想应该得到谅解，只要厚道、正确地对待他就行了。

@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <pu@ccert.edu.cn>; Sun, 4 Sep 2005 02:38:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <pu@ccert.edu.cn>; Sun, 4 Sep 2005 02:50:00 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 18:37:31 -0000
+From: "chi" <chi@mail.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Cc: <li@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvLi49tChysI=?=
+Date: Sun, 4 Sep 2005 02:49:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+1.字母的谐音
+宝贝秀某老师，字母的念法比较有特点，计算机术语“XML”，念着“拆卖楼”，
+楼房拆了卖，也不错，有道是旧的不去，新的不来。
+版聚猪猪们的ID，如黄师傅等，甚是好念。然如amw等，则似是为了应着那句“最
+简单的，就是最复杂”的哲语，着实难念。比照宝贝秀某师的做法，窃以为，称之
+曰“阿莫娃”较为恰当。
+2.宝贝秀本性大揭露
+话说，回程之最后一段，也就是城铁上，版聚猪猪们以猜谜、脑筋急转弯等打发时
+间。间中，宝贝秀出了一道题：两米三三的胸围，打一成语！答曰：奇耻大辱。明
+白否？至于由此引发的种种讨论、观点，本人不负任何责任。
+3.有待添加....^_^

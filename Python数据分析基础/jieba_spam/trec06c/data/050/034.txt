@@ -1,0 +1,25 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <chen@ccert.edu.cn>; Sun, 28 Aug 2005 01:43:45 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 01:54:18 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sun, 28 Aug 2005 01:54:18 +0800
+From: "zhan" <zhan@ctbu.edu.cn>
+To: chen@ccert.edu.cn
+Date: Sun, 28 Aug 2005 01:54:18 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "zhan" <zhan@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INHQvr/J+r3Xts7NqLn9y67Gvbb+tcSyu8Tcw+LQ3tOi0++jrGZ0?=
+Content-Type: text/plain
+
+问清楚了
+普博生硕士阶段通过水平二的不能免修英语，还要重新上课
+理由是：硕士生英语课的成绩是水平二成绩和课程成绩的平均分
+水平二成绩已经用过一次了，不能再用于博士生免修了
+直博生和提前攻读的博士生如果过了水平二的话才可以免修英语
+这个是什么理由亚？ft
+     我也看到这个通知了
+     但是系业务办说研究生院培养办今天又出了一个通知，说不能免修
+     不知道怎么回事

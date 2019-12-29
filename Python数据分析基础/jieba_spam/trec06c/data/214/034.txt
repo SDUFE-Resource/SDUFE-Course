@@ -1,0 +1,46 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U2R6AL010810
+	for <li@ccert.edu.cn>; Sat, 1 Oct 2005 21:30:05 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8U2U2g26094;
+	Sat, 1 Oct 2005 21:33:01 +0800
+Message-Id: <200509300230.j8U2U2g26094@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Sat, 1 Oct 2005 13:33:01 UT
+To: li@ccert.edu.cn
+From: wei@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgw8C5+rbA18rI7bz+uavLvrPPxri437y2SmF2Ybmks8zKpg==?=
+
+职位名称：Sr. Java开发工程师
+北京艾其奥信息科技有限公司是一家美国独资企业，公司主营业务是从欧美客户承接软
+件项目， 在中国大陆深圳及北京等分公司进行软件开发一站式服务；集团成立于2002年
+，总部在美国硅谷， 在德国、香港、北京、深圳设有分公司。高层管理为美籍亚太人，
+目前雇员300余人；已通过CMM3认证； 正致力于CMMI5认证；公司旨在成为中国软件外包
+行业领军企业，与印度一起参与国际竞争； 目前公司处在快速发展上升阶段，通过自身
+增长及积极的并购，计划在未来1-2年在海外上市； 员工发展平台广阔；公司企业文化
+为偏西方化管理、人性化、工作氛围融洽，有技术培训与交流机会； 福利待遇在软件外
+包行业内有竞争力。
+公司地址在中关村软件园，在智联招聘、51job、中华英才网输入”Achievo”以后，都
+可以搜索到公司的招聘信息，以下是岗位描述和职位需求：
+岗位职责：
+-在项目组中独立地分析、设计和开发新的功能
+-帮助解决产品出现的问题和缺陷
+-与美国客户沟通解决技术问题
+职位要求：
+-三年以上商业企业软件开发经验
+-熟悉Java, JSP, Servlet, EJB, Java Script 和 HTML, DHTML 及 XML
+-有SQL经验，并且熟悉相关数据库，如Oracle, DB2, 及 SQL Server.
+-有使用Jboss, Weblogic 及Websphere等server的经验
+-精通OOD，OOP及UML
+-英语读写熟练
+更多职位信息请参看智联招聘网上的介绍：
+http://www1.zhaopin.com/Publish/Company/Achievo/index.jsp
+由于是美国独资，公司比较注重人文关怀，会提供完善的社会福利和宽松的工作环境。
+具体薪资面谈。
+如果大家有意向或者合适的朋友推荐，本公司热烈欢迎。
+公司网址：www.achievo.com
+请将简历投递至：jobs@achievo.com(最好注明信息来源）

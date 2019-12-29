@@ -1,0 +1,34 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <liao@ccert.edu.cn>; Wed, 28 Sep 2005 18:11:55 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Wed, 28 Sep 2005 18:15:10 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 10:15:08 UT
+To: liao@ccert.edu.cn
+From: mei@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgzqrKssO0srvE3LP2zKjV/rLfo7qyu9TK0O2089GnvczKptTazeK85tawo78gKNeq1Ngp?=
+
+【 以下文字转载自 EduForum 讨论区 】
+发信人: sunwk (学习英语不放松), 信区: EduForum
+标  题: 为什么不能出台政策：不允许大学教师在外兼职？
+众所周知的几点现实：
+1，大学教师收入并不低，尤其是博士，硕士生导师；
+2，大学教师在外兼职数量很多，甚至自己开公司，收入往往超过在学校所得，尤其是教授，副教授级别的，而这些也往往是研究生导师；
+3，大学教师时间紧迫是一个大问题，甚至所指导的学生一个月都见不到一面，这往往导致学生培养质量问题严重，导师行为严重影响学生行为；
+4，大学教师投入科研的时间越来越少，只要有可能，他们会义无反顾的在外面兼职赚钱，这使得他们本身通过努力可能取得的科研成果越来越少；
+从本质上说，教师队伍是比较稳定的就像公务员差不多，但是，对公务员有诸多限制，国外公务员甚至严令不允许在外有商业活动，简单借鉴（我不知道国外教师政策，所以借鉴不到），我们是否也应该出台这样的策略：
+大学教师不允许在外从事商业活动，不许在外面任职，或利用学校给予的各种利益从事其他牟利活动；
+当然，如果这样作，考虑几点：
+1，是否前面所述得问题真的源于教师在外兼职？
+2，如果实行这样的策略，这样作是否会使得优秀得教师辞掉教职而使得教学质量进一步下降；
+3，这样作是否真的显著有助于学生培养？（要做计量检验？呵呵）
+应该还有其他问题，欢迎大家讨论。个人感觉这是个大问题。
+――――――――
+有些问题想清楚了，却不知道怎么解决

@@ -1,0 +1,32 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <tan@ccert.edu.cn>; Fri, 26 Aug 2005 05:14:56 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 05:33:19 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 05:33:19 +0800
+Date: Fri, 26 Aug 2005 05:33:19 +0800
+From: yan@cernet.com
+Subject: =?gb2312?B?UmU6ILjVv7TBy8TCutXAvLXAo6y/8dTesKE=?=
+To: tan@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+因为种种现实不得意和感触而用自己的遭遇、性格、习惯等等现实要素
+在梦境中剪切拼接成为另外一个人和另外一种生活
+最后终究因为嫉妒和压抑而被逼自杀……这是我看第一遍完了之后的概括
+大概还有一些细节之类的问题，网上那么多，也不用我说
+比如为什么她做梦的时候给自己起那么一个名字，是因为她在咖啡店里看
+到了女招待的胸牌……这些细节我确实看第一次的时候就都能立刻回忆起
+来并且明白了怎么回事
+最后一点时间逻辑上的混乱是因为我当时在吃西瓜……有点迷糊
+     不是非要上升到什么高度，实话说我看的时候真的是一头雾水。
+     至于你说你看了解析发现那些你都看出来了，我只能admire：）

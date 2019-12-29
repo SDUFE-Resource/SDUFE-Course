@@ -1,0 +1,46 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <sun@ccert.edu.cn>; Fri, 9 Sep 2005 13:15:44 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <sun@ccert.edu.cn>; Thu, 8 Sep 2005 22:27:51 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Thu, 8 Sep 2005 22:27:51 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Thu, 8 Sep 2005 22:27:51 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Fri, 9 Sep 2005 13:27:51 +0800
+From: =?GB2312?B?1/O+pw==?= <yu@gmail.com>
+Reply-To: yu@gmail.com
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?ofEgu7nT0LHY0qq8zND4us3L+727zfnC8KGhx/O9zNXiwO+1xMXz09E=?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+朋友介绍的一个男生　认识有一个月多点
+这段时间他的表现（原谅我用这个词）很好　很照顾我
+虽然他很不善于表达　但的确是个很有心思的人　已或明或暗地提过结婚的事情
+曾经当面问过他为什么会对我这么好
+他说：因为第一我人好　第二长得好　第三会处事
+我问他我们只认识这么短的时间　他怎么就知道我人好呢
+他回答说凭感觉
+然后我就不问了
+他明天邀请几个朋友和我一块儿去他家吃饭
+今天周末他说陪我去吃饭　我坚持一个人去逛街
+晚上回来后他发短信过来　问买了什么漂亮的衣服
+我回答：我人长得也就这样了　再怎么样也是普通人
+他回答：你的确长得好　气质也好　所以我要牵着你的手不放
+我回复：原来如此　不过人总是会变老变丑得
+过了一会儿　他回复：有我陪着你
+BTW：我和这个男生都不小了　二十八岁　我还比他大几个月
+这个男生小时家境贫穷　后来逐渐变好
+他一直很努力　感觉他所做的一切都是为了回报他所付出的　包括寻找爱人
+他嘴上的确不会说话　在一块儿时是我说得多些
+但发短信时他却很会“讲话”　包括甜言蜜语
+我不知道是不是应该相信他
+毕竟年龄不小了　我不想和一个不合适的人耗费太多时间

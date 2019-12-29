@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <tao@ccert.edu.cn>; Thu, 15 Sep 2005 12:01:30 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <tao@ccert.edu.cn>; Thu, 15 Sep 2005 12:13:31 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 03:56:04 -0000
+From: "wua" <wua@mail.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Cc: <you@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL+50umjrMflu6q1xNGnyfqyu9e8vfi4vdbQo6GjoaOho6E=?=
+Date: Thu, 15 Sep 2005 12:13:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+清华主校区那么大，附中的学生进来当然没有问题了。要是清华的大学生们都往附中走，那里可就太乱了。
+可以理解嘛。大学生应该博大一些嘛。
+不过，门卫的做法需要改进一些。
+     今天想经过附中出去玩。附中小门的保安（编号000701)说清华的学生

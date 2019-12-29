@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <chi@ccert.edu.cn>; Wed, 28 Sep 2005 14:39:19 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <chi@ccert.edu.cn>; Wed, 28 Sep 2005 14:50:37 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 28 Sep 2005 06:26:03 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "xu" <xu@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <hu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0ru49rXn07C1xMP719ajvw==?=
+Date: Wed, 28 Sep 2005 14:50:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+忘了这部电影的名字，因为是一部比较老的电影了吧，还记得大致的情节：
+几个孩子从家里翻出一个旧盒子，里面是类似现在“大富翁”的轮盘游戏。孩子们不知道其
+中的玄机，等游戏开始后才知道已经掉进了游戏的“漩涡”...
+原来，孩子们在“游戏”中每走一步，他们自身的环境也随之发生变化，像是“身临其境”，也可以说是“穿越时空”...一会他们身处原始森林的野兽群，一会又到了骑士驰骋的中世纪...
+孩子们害怕了，不敢再接着玩，可是他们发现，必须把这个游戏玩到结尾，他们才能从“游戏”中走出来...
+是一部美国科幻片，很欣赏它的创意，只是，真的想不起它的名字了...

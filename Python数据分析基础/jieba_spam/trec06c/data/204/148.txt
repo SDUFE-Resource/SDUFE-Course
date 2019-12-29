@@ -1,0 +1,26 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R2Ql7k015088
+	for <lin@ccert.edu.cn>; Thu, 29 Sep 2005 14:18:58 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8R2U2q21285;
+	Thu, 29 Sep 2005 14:22:13 +0800
+Message-Id: <200509270230.j8R2U2q21285@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Thu, 29 Sep 2005 06:22:13 UT
+To: lin@ccert.edu.cn
+From: jiang@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INeqt6Kjusflu6rQo9PRuPjN9c2s0ae6zS4uLrXE0MU=?=
+
+从王垠事件去分析制度上的问题达到改善科研环境提高科研待遇的目的，
+是很多生活困难的id想说的话。
+王垠自身问题在于肚子饿昏了，实验室乌烟瘴气熏昏了，
+那个小时候的理想太天真了。
+本来来书画版玩玩应该可以排遣一下郁闷的情绪，
+却不见他动笔，所以，清华要发展，就要加强艺术教育。
+     *****************************************
+     *****************************************
+     发信人: pengfei (大笨猪◎好好学习), 信区: Graduate

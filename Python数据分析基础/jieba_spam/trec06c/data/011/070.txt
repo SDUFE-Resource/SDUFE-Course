@@ -1,0 +1,39 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <liu@ccert.edu.cn>; Fri, 19 Aug 2005 09:39:39 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Fri, 19 Aug 2005 09:56:05 +0800 
+Date: Fri, 19 Aug 2005 09:52:41 +0800
+From: "fu" <fu@admin.iscas.ac.cn>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMPAufq437/GvLy5q8u+o6hFU1OjqbPPxrjI7bz+uaSzzMqm?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+ctrl+g 5 robotcat，结果如下：
+     1 g robotcat     Jun 15  ● 美国高科技公司（ESS）诚聘软，硬件工程师
+     2   robotcat     Jun 15  Re: 美国高科技公司（ESS）诚聘软，硬件工程师
+     3 g robotcat     Jun 21  ● 美国高科技公司诚聘软，硬件工程师
+     4 g robotcat     Jun 23  ● 美国高科技公司诚聘软，硬件工程师
+     5 g robotcat     Jun 27  ● 美国高科技公司诚聘软，硬件工程师
+     6 g robotcat     Jun 30  ● 美国高科技公司诚聘软，硬件工程师
+     7 g robotcat     Jul  5  ● 美国高科技公司诚聘软，硬件工程师
+     8 g robotcat     Jul  7  ● 美国高科技公司诚聘软，硬件工程师
+     9 g robotcat     Jul 13  ● 美国高科技公司诚聘软，硬件工程师
+    10 g robotcat     Aug  5  ● 美国高科技公司（ESS）诚聘软件工程师
+    11 g robotcat     Aug  9  ● 美国高科技公司（ESS）诚聘软件工程师
+    12 g robotcat     Aug 10  ● 美国高科技公司（ESS）诚聘软件工程师
+    13 g robotcat     Aug 11  ● 美国高科技公司（ESS）诚聘软件工程师
+    14   robotcat     Aug 11  ● 美国高科技公司（ESS）诚聘软件工程师
+&gt;   15   robotcat     Aug 17. ● 美国高科技公司（ESS）诚聘软件工程师
+      公司介绍：
+     亿世(ESS)电子科技有限公司是一家美国公司在华独资机构， 其总部位于美国硅谷，是纳斯达克上市高科技公司。公司致力于研发，设计生产和销售高品质多媒体高科技产品，在DVD, Video CD, Camera Phone及数码娱乐产品的相关领域占有主导地位，在国际半导体多媒体产业界享有

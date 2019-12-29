@@ -1,0 +1,34 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8OB6nor025292
+	for <ye@ccert.edu.cn>; Sun, 25 Sep 2005 11:44:55 +0800 (CST)
+Received: (eyou send program); Sun, 25 Sep 2005 11:32:50 +0800
+Message-ID: <327559284.25099@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 25 Sep 2005 11:32:50 +0800
+Message-ID: <327559284.25083@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Sun, 25 Sep 2005 11:32:50 +0800
+From: he@mail.tsinghua.edu.cn
+To: ye@ccert.edu.cn
+Cc: liu@ccert.edu.cn
+Date: Sun, 25 Sep 2005 11:32:50 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM312/PL+c69S251dGi1xGJ1Z8bkyrXKx9K7tcDPsMzitcS/sc7z?=
+Content-Type: text/plain
+
+他rp本来就有问题
+从他做的事情你就能看出来
+fans的立论基础是:假定他牛，所以就算rp有问题也无妨 
+     标  题: Re: 王垠所谓Knuth的bug其实是一道习题的勘误
+     
+     呵呵，什么old不old的，我只是说从他的文章看出他表达了什么
+     他只是想对这些做个批判，而不是想去说他老师的长短
+     可能他的观点你不同意，但这只是观点问题
+     一堆人说他人品问题，真不敢苟同
+     
+     : 我不关心他说的那个bug是什么
+     : 也没觉得即使是小问题对于他的印象我会改变什么
+     : 我觉得他文章所表现的是想说明
+     
+     --
+     找工作就象找mm一样：第一步，你要去找，还要多找，这样你才能取得主动权；第二，实力固然重要，形象也很重要，现在有实力的人多了，如果你不是特别突出的话，那你一定要帅；第三，恭喜你拿到offer了，但千万不要就此打住，我们可以骑驴找马，说不定还有更合适的再等着呢，但是，一定要注意，要让每个单位都认为，你只爱她一个；第四，签约就如结婚，能拖就拖，一张薄纸可以让你没了自由；最后，千万不要相信我的话，至今我还没有找到工作，如同至今我没有mm一般。
+     
+     

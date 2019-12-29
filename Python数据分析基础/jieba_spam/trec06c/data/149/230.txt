@@ -1,0 +1,18 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2qIUC010144
+	for <wei@ccert.edu.cn>; Sun, 18 Sep 2005 04:26:28 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <432A361D.0000C0.29343@m115.126.com>
+Date: Sun, 18 Sep 2005 04:38:04 +0800 (CST)
+From: "xue" <xue@126.com>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDIwMDbE6sW3wLPRxbmk0rW088j8yNWzzLCyxcU=?=
+X-Priority: 3
+X-Originating-IP: [222.82.99.17]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_qcLtUtrIOHetfVDqRvFQeohZwyJq"
+
+网站打不开
+     转自就业中心网站career.tsinghua.edu.cn
+     欧莱雅工业大赛是一个侧重于工业策略的国际性团队之间的竞赛。14所来自六个国家的工程类院校将参加此次竞赛：来自法国的Centrale Paris、Mines Paris, Ecole Nationale de Ponts et Chaussées Paris、和ICAM Lille；来自中国的清华大学和浙江大学；来自德国的Karlsruhe
+     每个竞赛队伍是由3名来自同一所院校的大三或大四学生组成。根据竞赛的规则和考虑所处环境的约束，运用他们的创造力来完成一个创新的项目。为完成这个项目，所有的竞赛队伍都会参观一家欧莱雅集团的工厂，并会得到一位“导师”的支持（一位来自欧莱雅集团的工业部经理）

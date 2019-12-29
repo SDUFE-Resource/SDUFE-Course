@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <you@ccert.edu.cn>; Tue, 23 Aug 2005 02:47:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <you@ccert.edu.cn>; Tue, 23 Aug 2005 03:01:02 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 18:55:39 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "ren" <ren@mail.tsinghua.edu.cn>
+To: you@ccert.edu.cn
+Cc: "tunet" <cheng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxNDIy7vYzrawrsfp?=
+Date: Tue, 23 Aug 2005 02:57:25 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+男人回味爱情：
+　　初相识：她真美，如同天使。
+　　恋爱时：她是世界上最好的姑娘，我一定要娶她！
+　　结婚1年：我的媳妇还不错，称得上是贤内助，只不过有些小毛病，偶尔也耍耍脾气。
+　　结婚5年：她开始变得越来越俗不可耐，越来越蛮不讲理。
+　　结婚10年：她是世界上最丑最不近人情最不讲道理的女人，当初我怎么会娶她？
+　　结婚20年：不计较那些缺点，除去脾气太糟糕，她还勉强可以容忍。
+　　结婚30年：有时候她也挺明白事理，挺懂感情，挺会料理生活的。
+　　结婚40年：老伴真是不错，持家有方，在外可独当一面，来世一定还要娶她。
+　　她去世了：我真是说不出的难过，因为我失去了世界上最好的女人

@@ -1,0 +1,40 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <ye@ccert.edu.cn>; Mon, 15 Aug 2005 07:08:20 +0800 (CST)
+Received: (qmail 5448 invoked from network); Sun, 14 Aug 2005 23:19:07 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 14 Aug 2005 23:19:07 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "mo" <mo@jdl.ac.cn>
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC/xtS6yfrO787vwO3R0L6/y/nB9cGmv87M4tfp1dDGuMb0yr4=?=
+Date: Mon, 15 Aug 2005 07:23:06 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+中科院生物物理研究所刘力课题组招聘启示
+（有效至：2005年9月30日）
+招聘职位：实验室技术员
+工作岗位及职责：
+（1）主要从事果蝇显微解剖、免疫组化方面的实验；
+（2）精密仪器－显微镜的操作与观察；
+（3）果蝇饲养；
+（4）实验室日常事务性工作。
+背景要求：大专以上生物学专业或有相关工作经验。
+应聘条件 ：1、身体健康；
+2、具有较强的敬业精神，能够团结合作，愿意做好实验室的科研服务工作；
+3、具有精巧的动手能力，耐心细致，责任心强；
+4、善于交流与合作。
+5、熟练使用计算机。
+待遇：
+试用期6个月，工资根据个人教育和工作经验决定。
+有意应聘者请将相关材料email至ibp_bcs@yahoo.com.cn；
+初选合格者将通知面试。
+联系人：刘力   中国科学院生物物理研究所脑与认知研究中心
+         

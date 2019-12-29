@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <cheng@ccert.edu.cn>; Sun, 25 Sep 2005 01:05:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <cheng@ccert.edu.cn>; Sun, 25 Sep 2005 01:16:31 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 16:53:31 -0000
+From: "qian" <qian@mail.tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Cc: <fan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvqvToiBJbnRlbMurx7+08tTsy6u6y8urz9QgyKu5+tGy1bmh8sflu6rVviAo16rU2Ck=?=
+Date: Sun, 25 Sep 2005 01:16:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: Aimartin (AppleSapient), 信区: THUInfo
+标  题: 精英 Intel双强打造双核双显 全国巡展◎清华站
+好事成双！精英 Intel双强打造双核双显
+全国14所高校巡展    清华站
+活动时间：      2005年9月27日
+户外活动：      上午10：00―17：00              （十食堂小树林）
+晚间体验：      晚上19：00―21：30              （蒙民伟楼）
+感受双核计算机平台的极致魅力，见证双显系统的视觉冲击――
+精英、Intel，为您带来国际一线的IT之音
+现场CSpk大赛,mm参加更有特权~:)精彩个人展现
+丰富多样的精美奖品,参加有奖 ！
+现场将有丰富精美礼品奉送――
+  时尚MP3、学习机、时尚背包和腰包、运动水壶
+  ECS 和小熊在线精美T恤、可爱大头娃娃玩偶
+ 更有机会获得--
+      精英945P-A主板、讯景（XFX）显卡

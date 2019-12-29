@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <mo@ccert.edu.cn>; Sat, 24 Sep 2005 16:21:32 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <mo@ccert.edu.cn>; Sat, 24 Sep 2005 16:32:57 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 08:09:54 -0000
+From: "yuan" <yuan@mail.tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Cc: <qiu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILj3zruw78OmxsDK9tK7z8Kyqcq/vs3StbXEyP249re9z/I=?=
+Date: Sat, 24 Sep 2005 16:32:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+和我一样的考虑，感觉外企博士优势没有，所以一般不考虑
+1只是一个机会而已，偶然性太大，这么多人考一个职位，而且和一般比你年轻有精力考试能力一直保持的人竞争，任何可能都会发生
+2感觉是个很好的选择，当然还得考虑具体的单位和部门，特别是遇到进去时刚好成了一个什么部门，那是最爽的，但不管怎么说，一般博士的学历优势应该在这里能够充分体现
+3.这个得考虑具体一些，假如不考虑地点，出了北京后很多不错的地方高校都有很好的待遇
+若要在北京，只能找二三流了，而这些学校实验条件很差，很难做项目，我的考虑是离清华近些，继续和清华这边以前的老板合作，申请些小项目，上上课，也不错
+     1 考公务员，国家部委
+     2 大型的国有事业单位或者国有企业
+     3 高校，当然现在清华北大肯定是进不了了

@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <zhu@ccert.edu.cn>; Thu, 15 Sep 2005 07:21:40 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <zhu@ccert.edu.cn>; Thu, 15 Sep 2005 07:33:41 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 23:16:14 -0000
+From: "wei" <wei@mail.tsinghua.edu.cn>
+To: zhu@ccert.edu.cn
+Cc: <cen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+W7qrTz0afOorXn19Oyqcq/uvPV0Ma4?=
+Date: Thu, 15 Sep 2005 07:33:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+招聘单位：清华大学  微处理器与片上系统技术研究中心
+招聘职位：博士后
+单位介绍：
+清华大学微处理器与片上系统技术研究中心是由清华大学计算机科学与技术系、微电子研究所和电子工程系联合成立的面向现代微处理器研究、开发和应用的实体。它的宗旨是：面向二十一世纪、加强清华大学在IT产业的研发实力；开展国内外的学术交流与合作；充分发挥清华大学在计算机科学与技术、微电子和电子工程等学科交叉与综合的优势，培养有创造能力的信息技术人才与团队创新机制；研究开发具有自主知识产权的现代微处理器、SOC系统，利用芯片设计带动IC产业，推动学校信息学科建设，为建设世界一流大学和我国的信息化建设作出贡献。CPU中心先后完成了多项国家863、985等项目支持的微处理器设计相关研究课题，于2003年底研制成功一个支持MIPS指令集的32位高性能嵌入式处理器--THUMP107，典型频率400MHz,最高500Mhz。基于THUMP107核，近期又研发出了无线局域网SoC芯片、数字电视机卡分离SoC芯片、PCI芯片、媒体加速引擎等芯片。
+中心目前有教师9名，研究生50余名。分别来自计算机、微电子、电子工程、和自动化等学科。CPU中心倡导创新性与实用性精神，在计算机体系结构、软硬件协同设计、功能设计、逻辑设计、物理设计（布局、布线等）、仿真与测试、编译技术、操作系统和SOC系统与应用等方面进行研究和开发。
+基本要求：
+1、微电子学相关博士学位
+2、较强的中英文听说能力，快速阅读、理解和书写英文专业文章的能力；
+3、思维敏捷，善于学习，具有高度的工作责任感及优秀的团队合作精神
+专业要求：
+1、通晓数字和模拟电路的设计与验证技术，有扎实的理论基础和较强的研究能力
+2、熟悉ASIC后端设计的整个开发流程，有大规模集成电路TAPE-OUT经验；
+3、熟练使用Synopsys、Cadence等公司的ASIC后端设计工具，包括综合、布局布线、电源规划、寄生参数提取、设计规则检查和版图/原理图对比等工具;
+4.有计算机体系结构方面的知识背景者优先。
+联系电话：010-62773691-610、600
+联系方式：wds@tsinghua.edu.cn(请将简历发此邮箱)

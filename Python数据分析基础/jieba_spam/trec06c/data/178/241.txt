@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <hua@ccert.edu.cn>; Sat, 24 Sep 2005 14:44:02 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <hua@ccert.edu.cn>; Sat, 24 Sep 2005 14:55:23 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 06:32:23 -0000
+From: "shi" <shi@mail.tsinghua.edu.cn>
+To: hua@ccert.edu.cn
+Cc: <tang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfc1q6jrNChzfXNrNGnu7nKx7K7ubuzycrs?=
+Date: Sat, 24 Sep 2005 14:55:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+人的追求很难有止境．
+     标  题: 总之，小王同学还是不够成熟
+     
+     真正有理想的人是不在乎环境的，在什么环境下都能适应之，为理想而努力。我想国内做研究的许多都是这样的人，清华、北大、中科院我接触的作科研的人许多都是这样的，默默无闻的努力着。很难想象，一个整天怨这怨那的人会有心思搞研究。首先是要适应环境，这样才能生存，才能为自己的理想努力。清华已经给了他足够的自由，足够的资源去发展自己，他反倒抱怨清华，抱怨导师，只能说他不够成熟，不够宽容。
+     --
+     

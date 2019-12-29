@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8OB6nor025292
+	for <jin@ccert.edu.cn>; Sun, 25 Sep 2005 21:43:11 +0800 (CST)
+Received: (eyou send program); Sun, 25 Sep 2005 21:31:06 +0800
+Message-ID: <327559284.25099@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 25 Sep 2005 21:31:06 +0800
+Message-ID: <327559284.25083@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Sun, 25 Sep 2005 21:31:06 +0800
+From: lei@mail.tsinghua.edu.cn
+To: jin@ccert.edu.cn
+Cc: cai@ccert.edu.cn
+Date: Sun, 25 Sep 2005 21:31:06 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Content-Type: text/plain
+
+我觉得没什么啊。想退学就退呗，个人选择而已。
+为什么非得说他欠了谁的？
+当教授是他老师的职业，不是他老师给他的恩惠
+     我和他曾经一个教研室过。
+     说实在话，我们都佩服王垠，能对计算机“专业”这么有热情，我们都希望他能够有很好的发展。
+     但是我们看到今天的王垠已经不是单纯的玩着linux向我们演示他的bbs机器人的程序能人了。他成了一个符号，一个象征，在一些人眼中成了有理想，有追求的偶像了！

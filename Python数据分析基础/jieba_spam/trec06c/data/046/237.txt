@@ -1,0 +1,39 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <ni@ccert.edu.cn>; Sat, 27 Aug 2005 05:08:31 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 05:26:51 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 05:26:51 +0800
+Date: Sat, 27 Aug 2005 05:26:51 +0800
+From: yi@cernet.com
+Subject: =?gb2312?B?UmU6IExQye3M5bK7usPX3Mn6sqGjrNT1w7Sw7KO/?=
+To: ni@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+     经常性的早起发烧，肠胃不舒服，
+     吹不得空调，一吹就感冒。
+     而且，我觉得她受心态影响很大，
+     一点小挫折或者心理上的堵塞就会让她瞬间郁闷，然后发烧，
+     然后由点高兴的事就会让她马上欣喜。
+     其实她挺能活动的，跑步健身的，而且生活十分规律，
+这个不算什么，要加强锻炼，要有压力的锻炼，
+     但就是吃饭比较“挑剔”，是另一种挑剔，喜欢天然的东西，
+太挑剔了，就没意义了。
+中国有句古话，不干不静，吃了没病。
+有点道理的。
+     像人工做的味精什么的一吃就反胃。
+     还有一点可能很重要，我以前性格不好，伤她很深，
+     所以，一想起往事总让她很惆怅，
+     当然我也做过好事，只是我不提醒，她很少想起来。
+     （这个我也不理解）
+     现在她一生病，脾气就很大，我也不知道该怎么劝她，
+     所以希望版上的JM们给些建议，怎么调理她生理或心理，
+     多谢了。

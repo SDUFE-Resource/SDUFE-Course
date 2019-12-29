@@ -1,0 +1,34 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <mo@ccert.edu.cn>; Fri, 9 Sep 2005 13:40:22 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <mo@ccert.edu.cn>; Thu, 8 Sep 2005 22:52:29 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Thu, 8 Sep 2005 22:52:29 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Thu, 8 Sep 2005 22:52:29 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Fri, 9 Sep 2005 13:52:29 +0800
+From: =?GB2312?B?1/O+pw==?= <qian@gmail.com>
+Reply-To: qian@gmail.com
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMu1y7XO0rXEuOe456OstPO80rj4teO2+dLivPsh?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+:而且哥哥人特别老实淳厚，说话也很温柔，就是感觉不太像个男子汉大丈夫
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+要那种发脾气就对着你吼的
+没事抽你两耳刮子的
+就有男子汉气概了吧？
+这年头男人老实可靠  比啥都重要
+再帅  再有钱  再有个性 再能说会道讨女孩子喜欢
+不老实的话  哪天甩了你
+你就哭吧
+     我和哥哥是在网上认识的，现在交往也有半年了吧，暑假都到双方家里见了父母。哥哥家的情况很一般，我家要比哥哥家好一些，我父母虽然没对哥哥提出什么毛病，但我妈妈觉得哥哥家似乎条件太差，而且第一次去他家，哥哥的妈妈才给了600元的见面礼，我妈妈认为他们家好像太小气的说。

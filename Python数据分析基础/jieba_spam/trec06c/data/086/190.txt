@@ -1,0 +1,22 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8464SY3009167
+	for <zhan@ccert.edu.cn>; Sun, 4 Sep 2005 21:29:46 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMA008AX4CVO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Sun, 4 Sep 2005 21:47:25 +0800 (CST)
+Date: Sun, 4 Sep 2005 21:43:30 +0800
+From: =?gb2312?B?wre0utPq?= <qing@cernet.com>
+Subject: =?gb2312?B?UmU6INfpzbyjurPJwfq98M+yycbW99HdobbJ8buwobe+q8PAvufV1cbYueI=?=
+To: zhan@ccert.edu.cn
+Cc: ylu4859 <ni@ccert.edu.cn>, "grey.wang" <cai@ccert.edu.cn>,
+ zy <liao@ccert.edu.cn>
+Message-id: <0IMA008AY4CVO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/mixed; boundary="Boundary_(ID_mtIjcpm6pV5fNK0/E3Q5IQ)"
+
+他们合作了？
+     http://ent.sina.com.cn/m/c/2005-09-02/1730829087.html
+     新浪娱乐讯 9月20日，成龙将携韩国第一美女金喜善，印度美艳天后玛丽卡、梁家辉、孙周等人，在人民大会堂举行《神话》全球首映礼。
+     　　《神话》讲述的是穿越时空的传奇故事，成龙扮演一位考古学家，梦中总是出现一个超凡脱俗的白衣女子，而这个女子就是金喜善饰演的古代朝鲜公主。随着梦境呈现出两千年前蒙信将军和朝鲜公主的爱情故事，整个故事脉络就贯穿在古今反复交替之间。

@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TNZmZm009556
+	for <bi@ccert.edu.cn>; Sun, 2 Oct 2005 01:35:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8TNkmaV017714
+	for <bi@ccert.edu.cn>; Sun, 2 Oct 2005 01:46:29 +0800 (CST)
+Message-Id: <200509292346.j8TNkmaV017714@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 1 Oct 2005 17:20:04 -0000
+From: "peng" <peng@mail.tsinghua.edu.cn>
+To: bi@ccert.edu.cn
+Cc: <bi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNK+9bXD1eLM9bbM0MXq08PBwvCjvw==?=
+Date: Sun, 2 Oct 2005 01:46:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5C593.18C0F390"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXFUAn0NYzCGVdZSOy1gVwHMkt8UA==
+
+    你师兄心潮起伏，思想斗争中，握着手机想词呢，你再等等：）
+     短信内容是：
+     师兄是今天下午回家吗？在家多待几天好好陪一陪爸爸妈妈吧，预祝节日快乐！btw：庆相识一周整：）
+     是我主动去认识师兄的，对他也确实有企图，认识一周以来表现得也比较明显，师兄从一开始也是知道的，而且感觉他对我也是蛮有好感的，之前都比较顺利，可是为什么今天中午给他发了这条消息，他到现在还没有回复？是这条短信有什么问题吗？

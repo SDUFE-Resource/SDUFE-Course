@@ -1,0 +1,87 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C1ElfM005929
+	for <ye@ccert.edu.cn>; Tue, 13 Sep 2005 07:54:05 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.144.133)
+  by localhost with SMTP; Mon, 12 Sep 2005 23:40:30 -0000
+From: "yan" <yan@mails.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNLSu8bwwLSywrLCv7Q=?=
+Date: Tue, 13 Sep 2005 08:11:44 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLKEKCCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+Importance: Normal
+In-Reply-To: <326450489.02480@mails.tsinghua.edu.cn>
+
+1.Dead Poets Society 死亡诗社
+2.Unforgiven 不可饶恕
+3.Blair Witch Project 女巫布莱尔
+4.Men in Black 黑衣人
+5.Four Wedding and a Funeral 四个婚礼一个葬礼
+6.Matrix 黑客帝国
+7.Trading Places 你整我，我整你
+8.Schindlers List 辛德勒的名单
+9.Full Monty 光猪六壮士
+10.Usual Suspect 非常嫌疑犯
+11.The Lord of the Rings 指环王
+12.Godzilla 哥斯拉
+13.Amelie 天使爱美丽
+14.The Bridges of Madison Country 廊桥遗梦
+15.Basic Instinct 本能
+16.Eyes Wide Shut 大开眼戒
+17.Jackie Brown 危险关系
+18.the Sixth Sense 第六感
+19.Bridget Jones Diary BJ单身日记
+20.Crouching Tiger Hiden Dragon 卧虎藏龙
+21.O Brother Where Art Thou 逃狱三王
+22.the Mask 变相怪杰
+23.Vertical Limit 垂直极限
+24.Mulholland Drive 穆赫兰道
+25.Die Hard 虎胆龙威
+26.Fight Club 搏击会
+27.Scream 惊声尖叫
+28.Speed 生死时速
+29.A Clockwork Orange 发条橙
+30.When Harry Met Sally 当哈利遇上萨丽
+31.Memento 记忆碎片
+32.Batman 蝙蝠侠
+33.Forrest Gump 阿甘正传
+34.Edward Scissorhands 剪刀手爱德华
+35.The Adventures of Priscilla, Queen of the Desert 沙漠妖姬
+36.Ben Hur 宾虚
+37.Vanilla Sky 香草的天空
+38.Notting Hill 诺丁山
+39.Birdy 鸟人
+40.In the Line of Fire 火线狙击
+41.Pulp Fiction 低俗小说
+42.Thelma and Louise 末路狂花
+43.Rocky 洛基
+44.Artificial Intelligence 人工智能
+45.the Silence of the Lambs 沉默的羔羊
+46.the Godfather 教父
+47.There Something about Mary 我为玛丽狂
+48.Three Kings 夺金三王
+49.Moulin rouge 红磨坊
+50.The Untouchables 不可触犯
+51.Tron 电子世界争霸战
+52.Titanic 泰坦尼克号
+53.Porky\'s 留校查看
+54.American Beauty 美国丽人
+55.Taxi Driver 出租车司机
+56.the Truman Show 楚门的世界
+57.Unbreakable 不死劫
+58.Charlie\'s Angels 霹雳娇娃
+59.the Green Mile 绿里
+60.Shining 闪灵
+61.Save Private Ryan 拯救大兵瑞恩
+62.True Romance 浪漫风暴
+63.Reservior Dog 落水狗
+     一些著名电影的场景，不过人物被抹去了，考验大家对电影的熟悉程度咯
+     答得时候英文名不对也是不会记入成绩的
+     集体的智慧是无穷地

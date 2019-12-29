@@ -1,0 +1,21 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 14:34:14 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 13:56:32 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "gao" <gao@cert.org.cn>
+To: xue@ccert.edu.cn
+CC: "wua@ccert.edu.cn" <mo@ccert.edu.cn>,
+   "tian@ccert.edu.cn" <xu@ccert.edu.cn>,
+   "liu@ccert.edu.cn" <ni@ccert.edu.cn>, "wei@ccert.edu.cn" <zhuang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 14:41:59 +0800
+
+可不是么，他要真的有投身科学的信念觉得计算机学科太工程，要研究真正的科学那我还真有点佩服他。可是看他唧唧歪歪的都是些啥，要喝咖啡要美丽心灵，这跟看了穷要小说学着谈恋爱有啥区别。然后他感兴趣的是啥，tex摸版？读人家的原代码写GUI？这些还没有他鄙视的那篇paper有内容哪。都是哪儿跟哪儿呀。
+     其实讨论学术只是让系里出钱让大家喝咖啡吃馅饼的幌子，有不少时候也是在聊天扯淡。即使讨论学术也大部分是扯淡，真正给人启发的很少。但国内也有讨论啊，lab meeting不就是吗，只是没那么浪漫，王同学就不爽了。

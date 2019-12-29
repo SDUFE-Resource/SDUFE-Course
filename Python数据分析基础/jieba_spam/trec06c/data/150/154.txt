@@ -1,0 +1,29 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <yun@ccert.edu.cn>; Sun, 18 Sep 2005 08:27:19 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <yun@ccert.edu.cn>; Sun, 18 Sep 2005 08:43:54 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <yun@ccert.edu.cn>
+	; Sun, 18 Sep 2005 08:43:54 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <yun@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 08:08:55 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "che" <che@njnu.edu.cn>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyPXI9bXYvejIy8b4zsrSu77ko7rV4tH5tcRCRrjDsru4w8/CuNo=?=
+Date: Sun, 18 Sep 2005 08:39:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+昨天下班 随身背的包包被小偷割开了 偷走了我的手机小灵通和所有的现金（上个月的工资没有存起来都放在钱包了） 我刚毕业参加工作没有什么积蓄 现在是穷光蛋一个 啥都没有了 吃饭都成问题 BF就口头上说要支援一下 竟然没有任何实际行动 我也很要强 自然不会向他伸手要钱 憋了一肚子委屈 觉得BF很过分 到公司说明了情况 公司的人都慷慨解囊 要助俺渡过难关 我拒绝了 向财务预支了这个月的工资 请大家说说 这样的BF该不该下岗 还不如公司的同事呢！ 请大家支支招 我该怎么办？

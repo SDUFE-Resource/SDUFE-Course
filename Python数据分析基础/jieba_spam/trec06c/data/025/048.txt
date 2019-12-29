@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <kong@ccert.edu.cn>; Mon, 22 Aug 2005 07:31:45 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <kong@ccert.edu.cn>; Mon, 22 Aug 2005 07:44:59 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 07:13:40 +0800
+Date: Mon, 22 Aug 2005 07:44:50 +0800
+From: "yuan" <yuan@wnt.com.cn>
+To: kong@ccert.edu.cn
+Cc: "lic" <gong@ccert.edu.cn>, "sunt" <zhou@ccert.edu.cn>, "caoy" <xiao@ccert.edu.cn>,
+        "wangb" <peng@ccert.edu.cn>, "songhm" <pu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IG1t1+69/LK71PXDtLbUztLIyNDE1aaw7A==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+c
+ft
+         mm最近不知道怎么回事，很少给我打电话，短信，都是我给她打/发，mm放假在家，家在北京近郊（她爸妈大概还不知道她有男朋友：我），相隔有点远，而我上着班，所以很少见面，一个月都没见了，周末了我说要去找她，mm总是很害怕我去的样子，说天太热让我多注意休息，

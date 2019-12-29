@@ -1,0 +1,34 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <xia@ccert.edu.cn>; Fri, 9 Sep 2005 10:04:55 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 9 Sep 2005 10:22:55 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Fri, 9 Sep 2005 10:22:54 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "fan" <fan@mail.csu.edu.cn>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrvcwgy66x5LPJsfnOqsqyw7TM5bv9seS08z8=?=
+Date: Fri, 9 Sep 2005 10:04:21 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+嗯
+看到了这一段
+应该就是我一直认为的那段
+　　一九００年另一个化学家苏斯连（Sutherland）提出：「水的结构是（H2O）n，
+当水在100℃沸腾时，n=1，水是以一个、个互不相连的水分子存在。当温度降低时n
+值就增大，4℃时n值最大，比重也最大。但是温度小于4℃时，水分子逐渐结成为六
+角形的晶体结构。到0℃结冰时，n=6，成为六角形晶体。由于六角形晶体水分子之间
+有较大的空隙，所以水在结冰时，密度反而比4℃时低。」苏斯连的解释，对于水的
+特性又有进一步的认识。
+     有一篇巨长的文章，跳着看吧
+     水，在英文叫做WATER，化学分子式是H2O，`氢和氧的最普遍的化合物。水在自然界
+     中以固态、液态和气态三种聚集状态存在。空气中含有水蒸气，土壤和岩石层中有时

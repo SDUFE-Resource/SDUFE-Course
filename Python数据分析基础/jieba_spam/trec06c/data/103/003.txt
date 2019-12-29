@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86NYrNl030488
+	for <ling@ccert.edu.cn>; Thu, 8 Sep 2005 17:40:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j86Nl5Cw020630
+	for <ling@ccert.edu.cn>; Thu, 8 Sep 2005 17:53:02 +0800 (CST)
+Message-Id: <200509062347.j86Nl5Cw020630@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 8 Sep 2005 09:38:44 -0000
+From: "gu" <gu@mail.tsinghua.edu.cn>
+To: ling@ccert.edu.cn
+Cc: <gu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMvNuPh3c24yMDAyLM7S0MTW0NPA1La1xLDmtPM=?=
+Date: Thu, 8 Sep 2005 17:52:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C5B380.54702A70"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzPUXCPFDEFrr6STeY429PH7DHSw==
+
+  哦，是个好版大哦，呵呵呵
+     一觉醒来突然就看到了wsn2002的辞职，也看到了他的留言。
+     好难过，因为我不知道没有wsn2002的Girl会是什么样子。
+     我已经习惯了与他和eyes在一起的日子，习惯了在技术上什么都不会，遇到问题就统统丢给版大，习惯了在群里看到版大常常自言自语，而我时不时跳出来打击一番，甚至习惯了我在版面上疯狂灌水后，他恶狠狠的对我说“自己解决！”……

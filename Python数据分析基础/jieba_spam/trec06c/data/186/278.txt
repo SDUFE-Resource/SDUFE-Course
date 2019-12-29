@@ -1,0 +1,32 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <xie@ccert.edu.cn>; Mon, 26 Sep 2005 08:56:39 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 01:07:33 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 01:07:33 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <xie@ccert.edu.cn>; Sun, 25 Sep 2005 18:18:40 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <xie@ccert.edu.cn>; Sun, 25 Sep 2005 20:15:06 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Mon, 26 Sep 2005 09:07:21 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <su@motorola.com>
+To: xie@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEZyZWVkb20gaXMgTk9UIGZyZWUgo7q4+M31zazRp7rNtNPKwr/G0dC5pNf3tcTNrMjK?=
+Date: Mon, 26 Sep 2005 09:06:56 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+    我想科研没有固定的套路这么说应该没有问题吧，我知道现代科学研究有一套出成果的比较高效的方法，19，20世纪的那种单枪匹马的方法“也许”不适合现代的科研了，但仅仅是“也许”，在没有深入了解之前，“一切皆有可能”应该是真正的科研工作者都应具有的态度，大家觉得王垠转来转去，仅仅是看起来不“踏实”做科研吧，大器晚成的例子有很多，他现在转来转去又有什么不正常的，仅仅是他不符合现在高校的“科研规矩”，所以就有人不爽了，说他的“科研方法”不对。
+     楼主的话倒是很诚恳和踏实
+     可惜，倒也没有觉得这个王同学多么踏实做科研。

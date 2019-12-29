@@ -1,0 +1,29 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <liu@ccert.edu.cn>; Fri, 16 Sep 2005 00:32:09 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <liu@ccert.edu.cn>; Fri, 16 Sep 2005 01:03:17 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 00:43:24 +0800
+From: "hong" <hong@mail.nisac.gov.cn>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgv9PAtMHLoauhq6Groas=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+长话短说，昨天晚上LG无事来接我下班，下雨走不了就去KFC坐会儿，
+他钱包没钱了拿我的去买东西，我无聊就翻他的钱包，看见整整齐齐
+一沓子单据，打开来看发现是近半年来他寄给他父亲的钱，并不是很
+多，一张2500，其余的有十余张500的，大约半个月一次吧。这些我
+竟然一点都不知道。
+这并不是什么大事，我也没有丝毫责怪他的意思，只是非常强烈的
+挫败感。一向自以为是认为我的自律言行能够让他信任我，不至于
+这样的小事上隐瞒我，可是信任就这样不值得。一向自以为是认为
+我是拥有幸福婚姻的那一个，可是华丽的锦袍下一样爬满了虱子。
+本来有很多话想说，可是算了，只想感慨一下了，不知道以后的
+婚姻我如何自处，如何重建我们坍塌的信任机制。

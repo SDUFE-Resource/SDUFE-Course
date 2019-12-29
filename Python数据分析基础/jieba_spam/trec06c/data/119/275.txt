@@ -1,0 +1,38 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <jian@ccert.edu.cn>; Mon, 12 Sep 2005 09:22:26 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Mon, 12 Sep 2005 09:34:25 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Mon, 12 Sep 2005 09:34:21 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "ren" <ren@dlut.edu.cn>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMnPuqO5zsyot+cuLi4=?=
+Date: Mon, 12 Sep 2005 09:30:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+.....死循环..
+     标  题: Re: 上海刮台风...
+     
+     bless
+     我为啥大款你没解释！
+     : 听说挺严
+     : 不过没上过她的课 
+     
+     
+     --
+     发信人: litdinosaur (小恐龙・拒绝腐败，不要报告), 信区: ZiJing 
+     标  题: 我正式宣布……
+     
+             小三是我mm
+             以后谁都不准欺负他
+     
+     

@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TNZmZm009556
+	for <ma@ccert.edu.cn>; Fri, 30 Sep 2005 16:39:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8TNkmaV017714
+	for <ma@ccert.edu.cn>; Fri, 30 Sep 2005 16:50:29 +0800 (CST)
+Message-Id: <200509292346.j8TNkmaV017714@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 30 Sep 2005 08:24:04 -0000
+From: "jiang" <jiang@mail.tsinghua.edu.cn>
+To: ma@ccert.edu.cn
+Cc: <zeng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1ffIy73xze3Su8bwtPKztbTTx+W7qrarw8W1vbGxvqnVviAo16rU2Ck=?=
+Date: Fri, 30 Sep 2005 16:50:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5C593.18C0F390"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXFUAn0NYzCGVdZSOy1gVwHMkt8UA==
+
+【 以下文字转载自 TrafficInfo 讨论区 】
+发信人: selectdragon (yours), 信区: TrafficInfo
+标  题: 征人今晚一起打车从清华东门到北京站
+希望有两位朋友和我一起从请华东门打车到北京站。
+时间希望是7：30到8：30之间出发，8：30到9：30之间到达。
+因为我乘坐21：52发车的T65到南京。
+记得寒假的时候，和两位同学一起打车从请华东门到北京站费用为42元，每人14元。
+我的手机号是13521760602

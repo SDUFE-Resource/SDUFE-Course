@@ -1,0 +1,21 @@
+Received: from smtp.263.net (mx04.x263.net [211.150.96.24])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LDnGRe032370
+	for <sun@ccert.edu.cn>; Sat, 24 Sep 2005 00:19:16 +0800 (CST)
+Received: by smtp.263.net (Postfix, from userid 500)
+	id 62B4343643; Sat, 24 Sep 2005 00:30:43 +0800 (CST)
+From: =?gb2312?B?bmFtZQ==?= <you@263.net>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG+zcbR0NDFz6Khv8flu6q089Gnv8a8vNPryee74dHQvr/W0NDE?=
+Date: Sat, 24 Sep 2005 00:30:53 +0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+MIME-Version: 1.0
+X-Mailer: XMail-3.0
+Content-Type: multipart/mixed;
+	boundary="----=NextPart_263Mail-XMAIL-000-000-1127311244Ti4"
+Message-Id: <20050921140045.62B4343643@smtp.263.net>
+
+学分积不是还没有出来嘛。。
+        清华大学科学与技术研究中心（STS）隶属于清华大学人文与社会科学学院，旨在培养科技哲学、科技与社会、科技政策与管理等方面的高层次专门人才。现有部分校内交叉名额（含深圳研究生院名额）欢迎对上述方向感兴趣的同学踊跃报名。
+         报名时间：9月23日（仅明天一天）      报名地点：新斋226（STS办公室）
+         报名时请携带个人简历、成绩单（复印件）等证明资料，初选结果及面试时间另行通知。若有其他问题，请参见本所主页：http://rwxy.tsinghua.edu.cn/xi-suo/kjs/StsinTsinghua.htm  

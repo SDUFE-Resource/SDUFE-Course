@@ -1,0 +1,43 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8431hfN008529
+	for <hong@ccert.edu.cn>; Sun, 4 Sep 2005 18:37:21 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM900833VWCO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Sun, 4 Sep 2005 18:55:03 +0800 (CST)
+Date: Sun, 4 Sep 2005 18:51:07 +0800
+From: =?gb2312?B?wre0utPq?= <shen@cernet.com>
+Subject: =?gb2312?B?ofEgQmVCZXlvbmTH89aw0d29si0tSGVscCBDaGluZXNlIEJlY29tZSBHbG9iYWxseSBDb21wZXRp
+dGl2ZQ==?=
+To: hong@ccert.edu.cn
+Cc: "grey.wang" <feng@ccert.edu.cn>, swgui <xue@ccert.edu.cn>,
+ zhaohonglin82 <wu@ccert.edu.cn>
+Message-id: <0IM900834VWCO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_4iCo3BsWakluEN5O95QvqA)"
+
+主要议题：
+?           从HR角度看知名企业希望招收什么样的员工？
+?           你的职业竞争力在哪里？如何在两个月内提高？
+?           P&amp;G经理与中金国际分析师谈如何选择行业和公司；
+ 
+主讲人：
+?           谢劲波    BeBeyond.com CEO
+中国最好的职业发展和MBA教练。他指导的应届毕业生，无论背景强弱，都能进入JP Morgan、BCG、IBM、INTEL、GE等世界一流公司；同时，中国大陆进入美国前30名商学院的职业人士中，有1/3是他的学员。2006年，他被美国常春藤名校Dartmouth商学院评选为全球25位对MBA教育和职业发展最有影响的人之一。
+ 
+演讲嘉宾：
+?           谢杜鹃   P&amp;G 中国区20位品牌经理之一
+?           刘  心   中国国际金融有限公司投资顾问
+ 
+时间地点：
+?           9月10日周六上午9:00-12:00
+?           中关村数字物流港9层报告厅（340个座位）；中关村大街18号（海龙电子城对面）
+?           票价 20 人民币（请点击www.BeBeyond.com.cn 预定座位）
+ 
+讲座议程：
+?           08:45-09:15    签到入场
+?           09:15-10:15    谢劲波谈成功求职
+?           10:30-11:30    嘉宾谈P&amp;G、投资银行与咨询业
+?           11:30-11:45    Q&amp;A

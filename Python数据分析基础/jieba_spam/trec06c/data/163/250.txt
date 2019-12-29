@@ -1,0 +1,32 @@
+Received: from 126.com (m31-133.126.com [220.181.31.133])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J75q0T013568
+	for <ning@ccert.edu.cn>; Wed, 21 Sep 2005 14:20:22 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <432E6604.000001.17409@m53.126.com>
+Date: Wed, 21 Sep 2005 14:31:48 +0800 (CST)
+From: "yana" <yana@126.com>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8/GuMir1rC78rzm1rA=?=
+X-Priority: 3
+X-Originating-IP: [222.82.99.210]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_dWFwKhpsewyHFiGQuvVCIinSzqmA"
+
+某出版社工作室现诚聘以下全职或兼职人员：
+一、编辑人员：
+1.教育、心理类
+2.经管类
+3.计算机类
+4.英语类
+基本要求：1.学习成绩较好！！！
+2.编辑人员为大三以上学生！！！
+二、网站建设与维护人员
+1.网站建设人员
+2.网站维护人员
+基本要求：1.熟悉ASP语言,能独立进行网站建设和维护
+2.对图书网和资料下载类网站非常熟悉
+3.熟悉网络推广
+4.有一定的美工水平
+注：全职或兼职人员可免费提供住宿，工资面议！！！
+有意者请发简历至E-mail：
+168exam@163.com

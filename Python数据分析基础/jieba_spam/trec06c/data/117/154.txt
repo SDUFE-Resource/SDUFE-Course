@@ -1,0 +1,51 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AF39fI030243
+	for <pan@ccert.edu.cn>; Sun, 11 Sep 2005 21:04:04 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AF0L4C093997
+	for <pan@ccert.edu.cn>; Sun, 11 Sep 2005 21:01:34 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8AF0IZY093993
+	for <pan@ccert.edu.cn>; Sun, 11 Sep 2005 21:01:12 +0800 (CST)
+	(envelope-from mayuanchen@tsinghua.org.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 21:20:37 +0800
+Message-ID: <326365583.28602@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: mayuanchen@tsinghua.org.cn
+Received: from unknown (HELO mayc-d400) (220.207.80.1)
+	by 210.77.143.232 with SMTP; Sun, 11 Sep 2005 21:20:37 +0800
+From: "che" <che@tsinghua.org.cn>
+To: pan@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [TOEFL] =BD=CC=CA=A6=BD=DA=BF=EC=C0=D6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Date: Sun, 11 Sep 2005 21:13:26 +0800
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0061451654=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+偶要有个50平米的大书房。
+     标  题: Re: 真的，说点开心事吧
+     
+     hand
+     我只好将就门厅搞了个开放的迷你书房
+     另外我家还需要一个储藏间
+     我正在考虑是不是把餐厅彻底废掉……
+     一个2x2的地方完全是鸡肋
+     
+     : 我习惯在客厅活动
+     : 上网啥的
+     : 所以我觉得我最需要的是书房，呵呵，可惜房子太小
+     
+     --
+     

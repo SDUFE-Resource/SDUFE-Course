@@ -1,0 +1,27 @@
+Received: from mailgate1.neusoft.com ([210.83.210.153])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F2h5xA032120
+	for <yan@ccert.edu.cn>; Sat, 17 Sep 2005 04:08:17 +0800 (CST)
+Received: from smtp3.neusoft.com (mail.neusoft.com [210.83.210.139])
+	by mailgate1.neusoft.com (8.12.11/8.12.11) with ESMTP id j8F2pa4i001038
+	for <yan@ccert.edu.cn>; Sat, 17 Sep 2005 04:16:44 +0800
+Received: from win2003 ([192.168.74.50])
+ by smtp3.neusoft.com (iPlanet Messaging Server 5.2 Patch 1 (built Aug 19
+ 2002)) with ESMTPA id <0IMU0027B80HRF@smtp3.neusoft.com> for
+ weike@ccert.edu.cn; Sat, 17 Sep 2005 04:18:13 +0800 (CST)
+Date: Sat, 17 Sep 2005 04:19:21 +0800
+From: SQL <xing@neusoft.com>
+Subject: =?gb2312?B?UmU6INK71rG84ce/tcS77tfFo6zW1dPayM+yu9ehwOHB98L6w+aho6GjoaM=?=
+To: yan@ccert.edu.cn
+Message-id: <001e01c5b9a0$c21b92a0$324aa8c0@win2003>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+X-MailScanner: Not scanned: please contact your Internet E-Mail Service Provider for details
+
+这年头，这么没有判断力的人都能买得起车啊。
+     今天他执意叫我过去一起晚餐。因为他一句“想见你”，我雀跃的赴约了。
+     知道他有女友的，还是迷恋啊，迷恋。他跟女友分不了手，可是每天都联系我。
+     晚餐时，他突然问我，“我们什么时候认识的？”我这才恍然大悟，是相识两个月的日子啊。怪不得他坚持要见我，而我为了让自己从这段不明不白的感情中挣脱出来，原本都不想见，直到他说出那句话。。。

@@ -1,0 +1,26 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <tian@ccert.edu.cn>; Mon, 12 Sep 2005 15:48:27 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Mon, 12 Sep 2005 16:00:26 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Mon, 12 Sep 2005 16:00:22 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "zhu" <zhu@dlut.edu.cn>
+To: tian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Sw8fKyrrPveG76cLw?=
+Date: Mon, 12 Sep 2005 15:56:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+你们挺适合的，只是你不要老是受父母观点的影响。
+你男朋友是不错的，跟我太像了。我这么说不是夸我，而是因为我比较了解像我这样的人，
+嘴不甜，脸色还不好看，老是被别人误解脾气不好。其实这是因为对熟悉的人，也就不是很注意自己的表情了，见到不满意的地方就发发牢骚，不是发脾气，可给别人看见了，就感觉是发脾气。
+我更不幸，天生脸上就是一副愁眉苦脸的样子，也不爱说话，尤其是下班回到家里的时候，因为路程比较远，比较累，脸色看起来就更难看了，所以我岳母总是说我老给她们脸色看，真是冤枉死了。
+还有我岳母还老是说我不从来不喊她“妈”，我简直纳闷极了，我是不常跟她说话，但是该说话、叫人的时候我的的确确是叫过“妈”啊，这不是睁眼说瞎话吗？后来经过我老婆她叔叔解释，原来她们哪里的习俗，喊不喊人是指，比如早上上班出去，得说一声“妈，我上班去了”，下班回来也先报道“妈，我回来了”，这不跟韩国人一样了吗，我是不可能做到得，所以，懒得理她。

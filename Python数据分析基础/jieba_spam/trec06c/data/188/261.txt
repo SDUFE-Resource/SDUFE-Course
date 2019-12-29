@@ -1,0 +1,27 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <lei@ccert.edu.cn>; Mon, 26 Sep 2005 20:06:43 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Mon, 26 Sep 2005 12:29:37 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Mon, 26 Sep 2005 12:29:37 -0000
+Date: Mon, 26 Sep 2005 20:24:12 +0800
+From: "sun" <sun@csnet1.cs.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM2ouf3V4rTOwO6wvcC0tcSwssXFv7TH5buq1eK49srAvefSu8H3tPPRpw==?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+我也有同感啊，记得布什演讲时，我校学生提问的问题
+四平八稳的，中庸的像个没刺的东西似的
+哪有一点锐气
+和思想的深度啊
+想培养出钱钟书等这样的人才是不可能了
+到底是什么原因呢？
+     无论从前一天那次吹风会上几位不知什么角色事先唧唧歪歪所说的话，
+     以及我们学生的提问，尤其是让李敖道歉的那位同学等所提的问题的水平。
+     我真为我们这个世界一流大学的品味和水平感到汗颜啊！～

@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <shi@ccert.edu.cn>; Thu, 25 Aug 2005 23:05:26 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 23:23:49 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 23:23:49 +0800
+Date: Thu, 25 Aug 2005 23:23:49 +0800
+From: bai@cernet.com
+Subject: =?gb2312?B?ofEgsc/StdK7xOq688zutcTKtc+wxtq/vLrLvPi2qLHt?=
+To: shi@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+我是去年毕业的研究生，前两天公司让我填了一个实习期考核鉴定表，不是在公司的实习
+期，是应届毕业生毕业一年后填的表，说是由学生身份转为干部身份（？好像是干部身份
+），若是本科应届毕业生，就直接转为助理工程师，再往上的工程师、高级工程师等职称
+就需要自己去报名考试取得；若是研究生应届毕业，就直接转为工程师，以后可以考高级
+工程师。但是现在，人事部告诉我，从去年毕业的毕业生开始，不在实行什么直接转为助
+工或工程师，要想要这些职称都必须参加考试，如果不考试就什么职称都没有。
+大概是这个意思，反正俺也不是很清楚，哪位知道到底是怎么回事啊？

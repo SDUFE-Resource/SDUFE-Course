@@ -1,0 +1,20 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8BNCpQ4005027
+	for <qing@ccert.edu.cn>; Tue, 13 Sep 2005 09:24:00 +0800 (CST)
+Received: (eyou send program); Tue, 13 Sep 2005 09:19:10 +0800
+Message-ID: <326480081.20005@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 13 Sep 2005 09:19:09 +0800
+Message-ID: <326480080.19987@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Tue, 13 Sep 2005 09:19:09 +0800
+From: jiang@mail.tsinghua.edu.cn
+To: qing@ccert.edu.cn
+Date: Tue, 13 Sep 2005 09:19:09 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILy8yvW+zcrHwabBv6OszsS7r9L9wey3vc/yoaqhqtLpwM/LrsS+us3QwirLrirEvrXEus3Q
+s70=?=
+Content-Type: text/plain
+
+re
+         水木用户群是一笔资源，这笔资源应当掌握在什么人手中，如何发挥其作用，是大家应该认真思考的问题。
+         水木清华最初由于技术领先和高素质的水木用户群，率先成为全国最大的BBS。其定位生活、技术交流平台，实际上主要起到了一般媒体的作用，单纯的技术管理无法控制和引导不良信息，导致其成为社会发展的不安定因素，从而遭受重创。应该说，bbs具有一定的建设性作用，信
+         如今，随着局面的变化，校内交流平台可以对外开放，出现了两个平台争夺用户群的局面。

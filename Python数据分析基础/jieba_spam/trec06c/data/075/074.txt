@@ -1,0 +1,52 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7V1socv011928
+	for <hu@ccert.edu.cn>; Fri, 2 Sep 2005 23:31:58 +0800 (CST)
+Message-ID: <200508310954.j7V1socv011928@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO malibotreasure) (malb03@166.111.203.148)
+  by localhost with SMTP; Fri, 2 Sep 2005 15:20:12 -0000
+From: =?gb2312?B?wu3A8rKo?= <lu@mails.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7mruOZdILnY09q31sDgv6q3xbDmw+a1xLmruOYo16q8xCkgKNeq1Ngp?=
+Date: Fri, 2 Sep 2005 23:44:25 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+Thread-Index: AcWI/xWUiTh2uxm6QWyTJ93ncFaG0Ak0M1Ug
+In-Reply-To: <321405761.05160@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+
+来  源: 59.66.217.30 
+【 以下文字转载自 foolsnoopy 的信箱 】
+发信人: SYSOP (System Operator), 信区: sysop
+标  题: [公告] 关于分类开放版面的公告
+    由于本站技术准备工作已基本完成，且近期站内讨论秩序逐步
+恢复正常，本站从即日起分类开放各类版面。
+    特此公告。
+                                        BBS水木清华站
+                                         2005年9月1日
+附：分类开放版面简表
+                                                                                
+                                     ┌─────────┬─────────┐ 
+                                     │      读权限      │       写权限     │ 
+                                     ├─┬─┬─┬─┬─┼─┬─┬─┬─┬─┤ 
+                                     │校│校│可│普│试│校│校│可│普│试│ 
+                                     │内│友│信│通│用│内│友│信│通│用│ 
+ ┌─────────────────┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤ 
+ │THUExpress,Graduate等校内综合版面 │√│  │  │  │  │√│  │  │  │  │ 
+ ├─────────────────┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤ 
+ │院系、社团版面等校内版面          │√│√│  │  │  │√│√│  │  │  │ 
+ ├─────────────────┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤ 
+ │Military、History等敏感版面       │√│√│  │  │  │√│√│  │  │  │ 
+ ├─────────────────┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤ 
+ │SecondHand,PieLove等信用版面      │√│√│√│√│√│√│√│√│  │  │ 
+ ├─────────────────┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤ 
+ │学术、技术版面，娱乐等版面        │√│√│√│√│√│√│√│√│√│√│ 
+ └─────────────────┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ 
+  注：校内用户指1）未经验证，但是通过校内ip(不含无线网ip段)上网                 
+           2）通过校内电子邮箱验证用户 3）通过校内Tunet验证用户（开发中）       
+      校友用户指通过校友邮箱验证用户                                            
+      可信用户指校外全球通等实名短信验证，兄弟高校等校外可信邮箱验证（测试中）  
+      普通用户指校外非可信邮箱验证                                              
+      试用用户指未经验证                                                        

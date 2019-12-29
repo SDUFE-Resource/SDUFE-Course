@@ -1,0 +1,30 @@
+Received: from nankai.edu.cn (sun.nankai.edu.cn [202.113.16.21])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N7Br6G015829
+	for <shen@ccert.edu.cn>; Fri, 23 Sep 2005 22:27:31 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 22:44:24 +0800
+Message-ID: <327460528.07655@nankai.edu.cn>
+Received: from 222.30.48.129 by 202.113.16.21 with HTTP; Fri, 23 Sep 2005 22:44:24 +0800
+From: "zhan" <zhan@nankai.edu.cn>
+To: shen@ccert.edu.cn
+Date: Fri, 23 Sep 2005 22:44:24 +0800
+Reply-To: "zhan" <zhan@nankai.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM312/OjrA==?=
+Content-Type: text/plain
+
+有道理，我觉得，搞研究，学校，设备，资金虽然很重要，重要的
+还是人，还有学术氛围。
+我不了解王垠这个人，但是，我认为，和导师发生冲突也是很自然的，
+在历史上，这样的事情很多，但是，拒绝退学，似乎有点不对，
+可以坚持自己的观点，但是，人也不能太理想化。
+Wiles自己说的。上次他来北京的时候有人问他在
+证费马大定理的时候有没有发论文的压力，他说他
+用了个小技巧，把以前攒的一些paper留着每年发
+几篇。
+Nash在年轻的时候就在博弈论上做出了重要贡献，
+因此他已经在学术界赢得了尊敬。但他在病情严重
+的几十年里确实什么也没做出来。Princeton能这
+么宽容他，也有考虑到他的病情。
+     你听谁说的,你知道Nash一生有多少篇论文么
+     呵呵，Princeton也有论文的压力的。
+     Wiles可是一直在出paper啊，虽然这些papers是他之前攒的。

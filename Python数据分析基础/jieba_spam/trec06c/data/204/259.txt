@@ -1,0 +1,24 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <yi@ccert.edu.cn>; Thu, 29 Sep 2005 16:05:43 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 08:16:54 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 16:16:53 CST
+Date: Thu, 29 Sep 2005 16:16:53 +0800 (CST)
+From: liang ming <ni@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILTzvNLKx7K7yse63GI0yKvWsLzSzaXW97i+?=
+To: yi@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+我个人觉得全职家庭妇女就像很多单位的领导,没什么事也要弄出很多事来,然后做的轰轰烈烈.
+个人印象而已,
+我不厚道,
+     我因为身体不好，结婚后老公就不让我出去上班了，让我在家里养病。但是似乎很多人都对全职主妇每天做什么很感兴趣，几乎百分之九十九的人都会问我这个问题，有的更过分，每次见面都问，问完之后然后用很b4和自己上班多优越来显摆自己，好像我就整个就是寄生虫。其实当全
+     我很没追求，喜欢做菜，准备考厨师证，然后身体养好之后开个小饭馆。

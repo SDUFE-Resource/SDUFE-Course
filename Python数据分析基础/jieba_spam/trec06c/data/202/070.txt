@@ -1,0 +1,24 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <lin@ccert.edu.cn>; Thu, 29 Sep 2005 05:18:03 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 21:29:14 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 05:29:13 CST
+Date: Thu, 29 Sep 2005 05:29:13 +0800 (CST)
+From: liang ming <ye@yahoo.com.cn>
+Subject: =?gb2312?B?ofEg1fejosr3trSjotau09E=?=
+To: lin@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+　　童话里有个故事，一个因为内心有很多话无法对别人说的很郁闷的人向树洞倾诉之后快乐了很多．．．
+　　偶觉得偶很孤独，总是一个人去上课，一个人去自习，一个人去食堂，一个人去超市．．看着很多人．．．偶希望有真诚的可以相互倾诉，相互理解，相互鼓励的朋友，如果是在校内闲时可以一块聊天，一块活动．．．无论是ＭＭ还是ＧＧ，并不是爱情，是纯粹的友谊．所以希望有关于爱情的想法．
+　　呵呵～期待＂树洞＂之友，偶想应该有人和偶的想法一样吧：）
+    
+    ＱＱ：３９５５３７７７

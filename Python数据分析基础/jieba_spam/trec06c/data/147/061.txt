@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <xie@ccert.edu.cn>; Sat, 17 Sep 2005 16:24:41 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <xie@ccert.edu.cn>; Sat, 17 Sep 2005 16:41:16 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <xie@ccert.edu.cn>
+	; Sat, 17 Sep 2005 16:41:16 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <xie@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 16:06:17 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "zheng" <zheng@njnu.edu.cn>
+To: xie@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/XuPjL+dPQtcRtbaOsZ2fSsr/J0tS/tL+0?=
+Date: Sat, 17 Sep 2005 16:36:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+代表偶自己re一下
+顺便说一下，你把偶的名字拼错了
+     刚看完《浓情朱古力》，每次看都会感动，其实主要因为 jonny depp太帅！来这逛逛，版上的痴男怨女不少哦，爱情是永恒的话题么。我也来冒个泡泡给mm们，特别是伤心的mm们。Lisa，希望你也能看到。
+     你现在伤心么？如果是，多半是爱错人了。选男友可不能随便啊，如果只想体会恋爱的感觉可以不那么严格，其实么，应该以老公的标准来挑男友，这样对自己才负责。什么样的人那就看你自己的喜好了，我想女孩子都还是喜欢成熟稳重，聪明幽默的男生，我是很喜欢这样的。
+     如果有人追求你，别急着答应，即使你对他有感觉，有些人是很善于伪装的，看来老实的不一定就是老实人，看起来闷的不一定不会逗你开心。所以多观察他一段时间，不要亲言爱字，不然自己吃亏啊！遇人不淑教训很惨痛啊！当然不能太挑剔，有些事情可以原谅，比如你喜欢吃的鸡

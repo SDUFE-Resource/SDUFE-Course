@@ -1,0 +1,27 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <zhu@ccert.edu.cn>; Fri, 26 Aug 2005 06:46:39 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 07:05:02 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 07:05:02 +0800
+Date: Fri, 26 Aug 2005 07:05:02 +0800
+From: feng@cernet.com
+Subject: =?gb2312?B?ofEgxvLBpsLt1PrC3rXE0ak=?=
+To: zhu@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+刚看完了央6放的这部老电影，一遍遍听着电影的主题曲Pastorale，心里久久不能平静
+也许自己一两年后就会去非洲工作，非洲也是我一直的梦想。
+北京，浮躁的城市，我不知道在这里能否找到自己寻找的东西，是否应该留守在这样一座城市
+电影中她对他说的：“我知道你为什么要来非洲，因为你生命中最幸福的一段时光是和她在这里渡过的，我知道，但是我还是来了，因为我希望。。别再问了了，给我留点尊严吧。。”
+《乞力马扎罗的雪》海明威的意识流小说，也许会找来读读

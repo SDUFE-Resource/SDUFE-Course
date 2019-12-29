@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C2BpmJ006744
+	for <yi@ccert.edu.cn>; Tue, 13 Sep 2005 06:56:06 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28l5c009623
+	for <yi@ccert.edu.cn>; Tue, 13 Sep 2005 06:53:24 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28iWw009619
+	for <yi@ccert.edu.cn>; Tue, 13 Sep 2005 06:52:59 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EEefy-0005d0-00
+	for toefl@gradinfo.net.edu.cn; Tue, 13 Sep 2005 07:52:25 +0800
+Message-ID: <016301c5b740$c2f51a00$2fcb6fa6@wanglanjia>
+From: "tan" <tan@ns.6test.edu.cn>
+To: yi@ccert.edu.cn
+Date: Tue, 13 Sep 2005 07:05:47 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Subject: =?gb2312?B?UmU6INXSxam05bP2ye21xMDPuavG5Mq1w7vKssO0tPOyu8HLtcQ=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1871831781=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+haha,可能这就是现实的残酷和部分人的短视吧。其实说白了，农村和城市的大部分普通老百姓，他们之间的人品上的差距并没有多少，城市人也不比农村人好多少，也不比农村人坏多少；对于普通老百姓无论城市还是农村，他们的经济地位也没有什么多大的差别，城市里的大多数老百姓还不是被一套房子压的半辈子缓不过气了吗，大部分的城市的居民在走到自己人生的终点的时候除了自己的孩子不也还是几乎是一无所有吗？二者不同的是，城市的生活水准比农村的高，而且由于国家政策的因素，城市的教育的相对成本（按照折合的劳动力的工日来计算）比农村要低的多，这也是目前整个社会最为不合理的部分，这种不合理其实也是国家牺牲农民的利益而认为制造出来的。说白了，城市人也没有什么资本可以鄙视农村人的，尤其有那种对农村保有歧视心理的来说，他们只不是给资本家卖苦力的一个工具而已，从这一点来看甚至于连农民都不如，至少农民在自己的土地上辛勤耕耘而且永远不会失业，而在城市里资本家在诈取完劳动者的剩余价值以后就会毫不留情的开除他。
+总之，大家不要搞认为的城乡对立和矛盾，大家在精神上是平等的，尊重他人就是尊重自己。
+     要是按邓老人家说的通过诚实劳动得来的当然值得大家尊重了，你象我们很多IT的新贵什么的，但是很多就是依靠很多非法手段什么的，仇视仇视也没什么不妥啊，说实在的就是普通意义上的那些讨论找对象谈论的穷富还不至于有人去仇吧，才多点钱啊，呵呵

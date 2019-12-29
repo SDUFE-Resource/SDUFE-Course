@@ -1,0 +1,36 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <shen@ccert.edu.cn>; Sat, 27 Aug 2005 17:52:21 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 18:10:41 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 18:10:41 +0800
+Date: Sat, 27 Aug 2005 18:10:41 +0800
+From: zheng@cernet.com
+Subject: =?gb2312?B?ofEgs6TE6tXQxrjXosvcxKO+37v60LW94bm5yei8xsjL1LE=?=
+To: shen@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+职位描述：
+1、负责汽车导航系统及车载多媒体产品机械结构部品的开发设计；
+2、模具成本分析、模具制造跟踪
+职位要求：
+1、机械设计类专业本科以上学历，日语2级以上；
+2、年龄35岁以下，男性；
+3、三年以上日资公司工作经验，有赴日本工作或研修经验，能够适应经常赴日本出差；
+4、熟悉塑料注塑模具的设计及制造（5年以上经验），对注塑模具行业有深刻的认识，能够准确地以模具成本及设计进行合理化分析；
+5、熟悉钣金冲压工艺；
+6、熟悉塑料注塑成型、喷涂、丝印、移印、激光雕刻、电镀等到加工工艺，
+7、熟悉应用CATIAV5或其他3D设计软件，识图能力强；
+8、有汽车音响结构设计经验为佳。
+联系人：吴小姐
+联系电话：010-64926210
+网址：www.hr1993.com
+E-mail:beijingwu2002@126.com

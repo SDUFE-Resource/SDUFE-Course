@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83CBlYV005279
+	for <zhan@ccert.edu.cn>; Sun, 4 Sep 2005 06:14:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83COHdV019350
+	for <zhan@ccert.edu.cn>; Sun, 4 Sep 2005 06:27:09 +0800 (CST)
+Message-Id: <200509031224.j83COHdV019350@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 22:14:40 -0000
+From: "kong" <kong@mail.tsinghua.edu.cn>
+To: zhan@ccert.edu.cn
+Cc: <gan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgy/3Kx9K7uPbWwcPAtcTDzs/r?=
+Date: Sun, 4 Sep 2005 06:27:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5B0C5.716D46C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWwgmMrCakV2o5FTJGgH6GL8DeD6Q==
+
+    能够让男人梦绕神牵的女孩子总是很少的，而这很少的女孩子，往往来源于年少时
+的梦想。
+    记得我在读小学的时候，班里有一个很秀气的女孩子，白净文雅的面庞，温和的性
+格，常常穿着雅致的格子衣服。只是莫名的喜欢她。
+    以后很多年的求学生涯里，为了圆一个学业之梦，也因为思想上过于自尊，自己并
+没有追求过任何的女孩子，但是所有暗暗喜欢过的女孩子，都带上了童年时她的印记。
+甚至在读到研究生之后，和一个喜欢我的女孩有过短暂的爱情，这个女孩子，也是一样
+的淡雅朴素，如乡野湖泊里纯静的莲花。
+    因为这个不合时宜的梦，爱情注定要有深刻的挫折；因为这个至纯至美的梦，生活
+增添了回味无尽的甜蜜。
+    在这个梦里，具体的人都淡淡的远去了，只剩下一份遥远的真切的召唤，让自己保
+持赤子之心，去努力生活和追寻。

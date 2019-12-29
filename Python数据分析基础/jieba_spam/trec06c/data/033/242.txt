@@ -1,0 +1,30 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <yuan@ccert.edu.cn>; Wed, 24 Aug 2005 13:56:50 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Wed, 24 Aug 2005 14:15:13 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 14:15:13 +0800
+Date: Wed, 24 Aug 2005 14:15:13 +0800
+From: huang@cernet.com
+Subject: =?gb2312?B?UmU6IMfrzsqjurGxtPO1xNfUtq+7r8+11PXDtNH5o78=?=
+To: yuan@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+电子、电气、电机，怎么也带个电，
+比如台湾或者美国有的学校电机工程系还包含了计算机，电子。
+     不能单从系所名称和专业名称就断定这2者有无关系吧
+     电子系以前还叫无线电系呢
+     作的东西不也不都是无线电？
+虽然不都，但毕竟联系很紧密，类比不确。
+要说北大有自动化，最好把他们的课程设置找来看看，一目了然。
+否则从力学转到电类，哪怕老师全部都是力学院士，也没什么意义。

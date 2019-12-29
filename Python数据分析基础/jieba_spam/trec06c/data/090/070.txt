@@ -1,0 +1,66 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <sun@ccert.edu.cn>; Mon, 5 Sep 2005 22:01:40 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <sun@ccert.edu.cn>; Mon, 5 Sep 2005 21:59:56 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <sun@ccert.edu.cn>; Mon, 5 Sep 2005 21:59:36 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Mon, 5 Sep 2005 13:48:48 -0000
+Date: Mon, 5 Sep 2005 22:09:40 +0800
+From: "hou" <hou@mails.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC5+rTz0afJ+tTaz9+12rb+vezK7sba07DP8bTzyPy/qsq8wcujoQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <qing@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+活动名称：第二届中国大学生在线暑期影像大赛
+指导单位：教育部社政司
+主办单位：教育部中国大学生在线
+联合主办：中国大学生在线各共建高校宣传部、学工部（处）
+总奖金额度：100，000元
+网站介绍请见 http://www.univs.cn/activities/anniversary/ ，
+本次大赛请见http://www.univs.cn/activities/2005/vp2005/
+第一届大赛主页请见http://www.univs.cn/activities/photos/showfilelist.php
+第一届大赛颁奖盛况请见http://www.univs.cn/univs/zzlm/edu_...y.php?id=146679
+大赛时间及网址：http://www.univs.cn/activities/2005/vp2005/#
+   
+大赛开幕：2005年7月1日
+网上投稿：7月1日-9月30日
+网上投票：9月15日－10月15日
+专家评选：10月中下旬
+颁奖及巡展：11月
+活动网址：http://www.univs.cn/activities/2005/vp2005/
+摄影类：
+风光摄影竞赛组--以表现景物风光为核心的摄影作品
+人物摄影竞赛组--以表现人物为核心的摄影作品
+"岁月"专题竞赛组--为纪念中国电影诞生一百周年，民用DC诞生十周年，本次大赛特别设立"岁月"专题竞赛组，竞赛者应围绕"岁月有痕，青春无悔"之主题，以一张或一组（不超过10张）照片的形式表现岁月的流逝、时代的变迁乃至生命的壮美。
+（注：每幅竞赛作品只限参与一个分组，不得一稿多投。）
+非竞赛单元--设立本单元的目的在于为大学毕业生及社会人士提供展示个人作品的舞台，参与人员不限于在校大学生。所有作品同样参与在线评选，并有专家点评，但不参与最终的颁奖。
+DV类：
+纪实片竞赛组--以纪实风格反映校园生活和社会风貌、记述心路历程的学生DV作品。
+故事片竞赛组--以故事片的创作和拍摄手法制作的校园DV影片。
+原创剧本竞赛组--为提倡原创校园文化，鼓励并挖掘优秀的原创剧本和原创团队，帮助实现大学生独立制作影片的梦想，特设立此竞赛组。本竞赛组的优胜者将由中国大学生在线推荐给热心支持校园文化的公司，并协助引进影片拍摄所需资金，帮助大学生实现制片梦想！
+非竞赛单元--设立本单元的目的在于为大学毕业生及各类摄影爱好人士提供展示个人作品的舞台，参与人员不限于在校大学生。所有作品同样参与在线评选，并有专家点评，但不参与最终的颁奖。

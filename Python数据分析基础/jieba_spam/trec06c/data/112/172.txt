@@ -1,0 +1,27 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j886dpj9010160
+	for <ren@ccert.edu.cn>; Sat, 10 Sep 2005 20:17:29 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMH00ME4KNH3F@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 10 Sep 2005 20:34:56 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Thu,
+ Sat, 10 Sep 2005 20:34:55 +0800
+Date: Sat, 10 Sep 2005 20:34:55 +0800
+From: ou@cernet.com
+Subject: =?gb2312?B?u9i4tA==?=:Re: =?gb2312?B?u9i4tA==?=:Re: [SPAM]
+ =?gb2312?B?zrrAz8qmo6zU2bTOtPK9wcHL?=
+To: ren@ccert.edu.cn
+Message-id: <44569493dd.493dd44569@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+ms 去年是笔试给了7道题 选做4道 然后面试的时候问你剩下的3道是怎么会事~
+     本人是外校学生，想保送清华电子系，估计复试的资格应该没什么问题，现在就是不知道面试时是怎么问的？问的是些什么问题？是纯粹的课本上的题还是生活中的一些现象或题，让你应用所学知识来解答？
+     恳请各位曾被保送参加过面试或是知情的GGJJ指点一二，小弟这厢有礼了！
+     祝愿好人一生平安！

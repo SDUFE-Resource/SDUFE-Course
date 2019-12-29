@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <kong@ccert.edu.cn>; Thu, 15 Sep 2005 17:17:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <kong@ccert.edu.cn>; Thu, 15 Sep 2005 17:29:49 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 09:12:03 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "ding" <ding@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDK2r/OwM/Kpg==?=
+Date: Thu, 15 Sep 2005 17:25:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+招聘职位介绍
+招聘职位：学科专向负责人
+专业要求:不限        招聘类别:全职
+工作地点:辽宁鞍山    性别要求:不限
+年龄要求:不高于28岁  工作经验:有教学经验者优先
+招聘人数:10人        月工资水平:三月试用期后绝对不少于5000
+责任范围:组织开创单学科原创教学理念与教学经典，负责单学科人才的招募、培养与管理，负责单学科日常教学，市场推广的策划与组织操作。
+联系我们：
+网站：www.zhenjin.cn
+发简历到：masai2004@126.com  请注明联系电话（特别注明：请不要夹带附件）
+电话：0412-5121111马赛

@@ -1,0 +1,42 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <li@ccert.edu.cn>; Wed, 28 Sep 2005 19:50:57 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Wed, 28 Sep 2005 11:37:13 -0000
+Date: Wed, 28 Sep 2005 20:02:57 +0800
+From: "mei" <mei@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+【 以下文字转载自 Graduate 讨论区 】
+发信人: nodo (澜院三楼之羊肉泡馍), 信区: Graduate
+标  题: 友情提示，[今晚7点]宝洁大中华区财务总监“创造财富”演讲
+“创造财富”――宝洁大中华区财务总监清华研讨会
+演讲题目：Value Creation
+演讲人：Suran Suranjan
+时间：9月28日（星期三） 晚7：00
+地点：就业中心大报告厅
+About the Seminar: Value Creation
+The Seminar offers a view into how F&amp;A can lead value creation in a business such as P&amp;G’s, from day to day business operations to long term strategic planning. Influencing and leading the business to create value will ensure the company sustains a winning advantage in the competitive consumer products industry.  
+About P&amp;G
+Founded in 1837, Procter &amp; Gamble is today one of the largest consumer goods manufacturing and marketing companies in the world. We have operations in more than 70 countries, with more than 300 product brands selling in 160 countries.
+P&amp;G has a tradition of attracting quality staff. Each year, the company recruits from famous universities aggressive, creative graduates with leadership potential, fine analytical skills, excellent language and communication abilities and a strong cooperative spirit. 
+About Mr. Suran Suranjan
+Suran obtained his MBA degree from University of Chicago, USA and joined P&amp;G in 1994.
+        1994          Cost Analyst, US Fabric &amp; Home Care Product Supply Finance
+        1995            Senior Analyst, US Fabric &amp; Home Care Forecasting
+        1996            Senior Analyst, US Customer Business Development Finance
+        1998            Group Manager, NA Customer Business Development Finance
+        1998            Group Manager, PG Chemicals, Product Supply Finance
+        2000            Associate Director, NA Cosmetics
+        2002            Associate Director, Global CBD Finance
+        2004            Associate Director, Greater China Skincare &amp; Cosmetics
+        2005            Finance Director, Greater China Beauty Care
+Personal Interests: Family, people development, fast cars, faster boat, golf, any probability-oriented games, foot massage.

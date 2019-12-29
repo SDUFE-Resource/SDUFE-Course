@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <lu@ccert.edu.cn>; Tue, 23 Aug 2005 04:58:11 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <lu@ccert.edu.cn>; Tue, 23 Aug 2005 05:11:25 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 21:05:58 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "ye" <ye@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuLzm1rDN+NW+w8DK9Q==?=
+Date: Tue, 23 Aug 2005 05:07:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+主要工作：
+网站美术设计制作(游戏资讯类)
+ 
+要求：
+有网站美术设计制作经验。
+能够熟练使用PS，Dreamweaver，Flash等网页编辑软件。
+最好有网站制作能力，熟悉HTML和javascipt，会使用asp和SQL数据库者为佳。
+ 
+能够长期兼职，并能够每周保证4个以上的半天和周末到工作场地办公。
+工作地点在西直门和北方交大之间。
+ 
+待遇：
+可以按劳取酬，也可以领取固定工资，待遇从优。
+ 
+联系人：
+许先生
+greatpurple@126.com
+QQ: 154637311
+(代友发帖，请勿回本站信箱)

@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <jiang@ccert.edu.cn>; Sun, 25 Sep 2005 12:09:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <jiang@ccert.edu.cn>; Sun, 25 Sep 2005 12:21:02 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 03:58:02 -0000
+From: "yi" <yi@mail.tsinghua.edu.cn>
+To: jiang@ccert.edu.cn
+Cc: <ling@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sun, 25 Sep 2005 12:20:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+说到王同学的搞一个自由喝咖啡谈论学术的房间的想法
+也无不妥之处,就是觉得像是浪漫小说看多了,少了根筋似的
+法国鬼子爱喝咖啡,所以实验室里有专门的一个房间让你去打咖啡,有微波炉等物品
+每天上下午雷打不动的两次喝咖啡时间,一堆人聚在那里,咖啡是喝了,谈也是在谈
+就是在瞎扯,
+以前做硕士的时候,老板和我们几个人都是在一个办公室内,有好的想法几个人还不是一样
+随便拉个椅子过来找张桌子比划着就开始讨论,效果也挺好,
+我想我们需要看到的是真正进行学术研究的一些潜在的规律,比如团队合作,比如踏实创新
+而不是那种电影里或者小说里出现的某些假象
+不可否认,王同学是有很高的天赋的,在一个他认为感兴趣的题目上也是很能投入的
+但是就目前看到的资料来看,他并不适合做学术这行,我认为.
+或许在别的领域他能做得很出色,但是这不能成为他抱怨指责他目前所在的团队所在
+的学校所处的环境的借口,我觉得他还不了解做学术是怎么回事情,
+     其实讨论学术只是让系里出钱让大家喝咖啡吃馅饼的幌子，有不少时候也是在聊天扯淡。即使讨论学术也大部分是扯淡，真正给人启发的很少。但国内也有讨论啊，lab meeting不就是吗，只是没那么浪漫，王同学就不爽了。

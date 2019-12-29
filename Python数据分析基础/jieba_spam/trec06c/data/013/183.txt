@@ -1,0 +1,45 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <xu@ccert.edu.cn>; Fri, 19 Aug 2005 20:40:38 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <xu@ccert.edu.cn>; Fri, 19 Aug 2005 20:53:40 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Fri, 19 Aug 2005 21:17:08 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: fan@126.com
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztLDx8+109DDu9PQ06LOxMP7v8nQtLPJQ2hlbiBTaGm1xM2s0aejvyAo16rU2Ck=?=
+Date: Fri, 19 Aug 2005 20:48:22 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+【 以下文字转载自 Graduate 讨论区 】
+发信人: xiwang00 (结，就这样), 信区: Graduate
+标  题: 我们系有没有英文名可写成Chen Shi的同学？
+发信人: xiwang00 (结，就这样), 信区: DC
+标  题: 我们系有没有英文名可写成Chen Shi的同学？
+他（她）有一封来自美国（or法国？）的国际信件，
+对方写的地址只有英文，如下：
+Chen Shi
+Tsinghua University AAA-16146
+Student Dormitory
+Beijing 100084
+China
+另外，对方用的信封可能是单位专用信封，
+在信封的左上角印有：
+The University of Kansas
+International Student&amp;Scholar Services
+1450 Jayhawk Blvd.,Room 2
+Lawrence,KS 66045-7535
+知道的同学提供个信息：）

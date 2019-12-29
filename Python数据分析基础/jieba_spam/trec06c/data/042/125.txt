@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <zhou@ccert.edu.cn>; Fri, 26 Aug 2005 06:47:40 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 07:06:03 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 07:06:03 +0800
+Date: Fri, 26 Aug 2005 07:06:03 +0800
+From: han@cernet.com
+Subject: =?gb2312?B?UmU6IL3xzOzKx87StcTJ+sjVo6zItMO7yMvXo87SyfrI1b/swNajoaOho6HT0MqxuvLU2srAyc/K
+x7Y=?=
+To: zhou@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+你记得你身边朋友的生日，并在他们生日的时候送去了你的祝福吗？
+如果没有就不要抱怨。
+anyway，祝你生日快乐！用快乐的眼光看世界生活就不是灰色的了！
+     【 以下文字转载自 Mentality 讨论区 】
+     发信人: btkj (雄关漫道真如铁，而今迈步从头越！), 信区: Mentality
+     标  题: 今天是我的生日，却没人祝我生日快乐！！！有时候在世上是多么

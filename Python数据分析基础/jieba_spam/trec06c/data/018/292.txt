@@ -1,0 +1,24 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <qing@ccert.edu.cn>; Sat, 20 Aug 2005 21:52:54 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 14:03:08 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 14:03:08 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "zhao" <zhao@jdl.ac.cn>
+To: qing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL30vLHV97j2tefE1LjfytY=?=
+Date: Sat, 20 Aug 2005 22:07:16 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     征个电脑高手，请教以下情况：
+     我的电脑刚才把金山毒霸升了一下级，然后查杀了一下病毒，找到4个病毒，然后就清除了。后来，居然电脑上的QQ、MSN、REALONE PLAY、打印机程序、FOXMAIL等应用程序居然都启动不了，双击以后显示为“WINDOWS找不到文件***，请确定文件名是否正确后，再试一次。要搜索文件，请单击[开始]按纽，然后单击 搜索”。
+     可是我单击[开始]后从[搜索]里找还是没有，什么都没有。而且连“我的电脑”的“属性”都打不开了，现在桌面上点击INTERNET还可以用，可是双击任务栏上的图标也一样用不了。请问各位高手这是怎么回事呢？如何才能修复呢？把系统格式化了重装会好吗？
+还是用瑞星2005比较好些。

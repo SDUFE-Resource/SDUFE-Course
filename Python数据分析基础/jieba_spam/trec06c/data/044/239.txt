@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <qing@ccert.edu.cn>; Fri, 26 Aug 2005 16:56:44 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 17:15:04 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 17:15:04 +0800
+Date: Fri, 26 Aug 2005 17:15:04 +0800
+From: ye@cernet.com
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+To: qing@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+化为建立慧通主要是解决外包人员问题，与其被外包公司挣钱还不如自己建立一个相应
+的储备库比较好，你要是优秀怎么可能不进入华为本部那？关键还是看个人
+     hehe
+     又是"慧通"，前几天在该版看到一篇关于华为和慧通关系的文章，刚开始感觉不可信，后来感觉没准真的是华为的计划。今年初华为招了一大批人，后来不知是不是都是慧通在替华为招人了。
+     如果真是这样，就有点悲哀了。华为通过慧通转移资产、华为不用再重视研发人员的培养了。没想到，华为领导也就这点见识，只能坚持个20年。

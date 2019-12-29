@@ -1,0 +1,43 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RB80BW019815
+	for <gong@ccert.edu.cn>; Thu, 29 Sep 2005 08:09:02 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 07:55:13 +0800
+Message-ID: <327818451.29271@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 29 Sep 2005 07:55:13 +0800
+Message-ID: <327818451.29255@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 07:55:13 +0800
+From: xiao@mail.tsinghua.edu.cn
+To: gong@ccert.edu.cn
+Cc: hu@ccert.edu.cn
+Date: Thu, 29 Sep 2005 07:55:13 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+Content-Type: text/plain
+
+     标  题: 请问各位大牛做了什么比王垠更了不起的事了
+     
+     我是外校的。我知道清华有很多“大牛”，喜欢而且拥护清华的制度。
+                                        ~~~~~~~~~~~~~~~~~~~~~~~
+                                        也不知道这个结论怎么来的？
+     
+     我只是困惑，就算ieee,sci所有的期刊全是你们的“牛”论文对成为科技强国有什么意义么？
+     你们看不起linux，看不起latex这些小儿科，当你们用盗版的word打你们的best paper award candidates的时候，当用盗版powerpoint演示你们的方案的时候，你们就变得比王垠更有学术气质了么？更像搞研究的了？
+     
+     最好的电池是日本人造的，最好的胶卷是日本的，最好的液晶是日本的，最好的机器人也是日本的。
+     各位大牛，你们干什么了，你们在嘈杂的实验室里醉心于你们的论文么？
+     
+     是，王垠不务正业，不懂人情，所以他喧闹的退出了，留下一个大大的犯罪事实让各位“大牛”和“小牛”来审判。
+     
+     有了你们这些大牛们，就算国家的科研基金全部分给清华，你们提升了什么？把自己提升成ieee fellow了？提升成院士了，然后冷笑一下，指着川大说“三流都不算”。
+     
+     你们的论文都有谁去读？专家？请来的专家？
+     
+     wikipedia.org上面收录词条最多的语言是德文，其次是英文，法文，日文...中文只能排到页脚里。（你要是不知道wikipedia就不用理解这句话）。
+     
+     国外的IT网站，一般都有日文版。中文版....切...等你们这些“大牛”来普及？
+     
+     说王垠不懂社会，我看你们不懂这个“时代”。
+     
+     
+     --
+     

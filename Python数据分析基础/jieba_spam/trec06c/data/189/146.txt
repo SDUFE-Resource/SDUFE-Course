@@ -1,0 +1,22 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <che@ccert.edu.cn>; Mon, 26 Sep 2005 23:00:54 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Mon, 26 Sep 2005 23:04:09 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 15:04:07 UT
+To: che@ccert.edu.cn
+From: ye@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+
+你是个现实的人
+用别的任何理由都不能够埋没这一点
+我倒是觉得王这种人是有骨气的
+你就是叫大家要和你一样现实，可是如果大家都现实，就麻烦了
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。

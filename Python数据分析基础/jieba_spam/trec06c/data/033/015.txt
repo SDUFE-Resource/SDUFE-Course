@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <ye@ccert.edu.cn>; Wed, 24 Aug 2005 09:59:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <ye@ccert.edu.cn>; Wed, 24 Aug 2005 10:12:20 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 02:06:53 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "su" <su@mail.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0MLQy7jfv8a8vM/uxL/V0MS8yrXPsMn6?=
+Date: Wed, 24 Aug 2005 10:08:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+本公司为由归国留学精英人员和国内跨国公司出来的人员共同创办的高科技企业，现正另行组织实施一个高科技技术产品的产业化项目，因为处在初创阶段，考虑招募实习生参与。
+我们提供独当一面和资深经验人士指点相结合的实习机会，通过实习，你可以收获跨国公司实习项目中一般情况下不具备的，可以独当一面承担专门及相关综合事项，挑战自己，做出一流职业水准成果的成长经验。
+考虑该项目处在初创阶段的各种因素，我们不提供实习工资或补贴，我们承诺提供上述独到的职业经验积累的机会。
+如果实习达到预定要求，我们有破例给予该项目年度分红作为实习奖励的事前制度安排。
+要求：
+（1）    人品好，能恪守承诺并有训练自己恪守商业机密等职业道德的想法；
+（2）    基本素质高，能迅速学习适应处理好书本之外的实际事项；
+（3）    严谨踏实，能从最基础的事情中领悟做事情的深度和道理；
+（4）    最好你是清华、北大学生，自备电脑等条件；
+（5）    对通讯和网络行业的技术和产品具有浓厚的兴趣，并愿意从事能直接实现技术产业化的相关事项。
+请将你的详细简历发送到achen218@yahoo.com.cn

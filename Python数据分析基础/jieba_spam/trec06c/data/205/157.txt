@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <ou@ccert.edu.cn>; Thu, 29 Sep 2005 18:51:31 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Thu, 29 Sep 2005 10:37:05 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "shen" <shen@mail.tsinghua.edu.cn>
+To: ou@ccert.edu.cn
+Cc: "Duan Haixin" <mei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtE1JVLrNy67EvrbUtP3N9dvztcTMrLbIsrvNrKO/?=
+Date: Thu, 29 Sep 2005 19:02:22 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+e
+     一个有趣的现象是，在水木上有不少人捧王垠，而在MIT BBS上几乎都是一边倒地批王。
+     仔细看看那些捧王垠的，多半都是比较FQ，空喊口号地批驳中国教育制度的。
+     而MIT上发帖子的，基本上都是在国外继续深造过的，明白王垠所批判的东西，其实并不是中国所仅有的，他即使到了美国，他会发现那里跟清华并没有本质的区别：老板照样要你多发文章，因为没有文章就没有资金，没有资金就没钱吃饭；老板也会限制你的选课，因为你选课太多就

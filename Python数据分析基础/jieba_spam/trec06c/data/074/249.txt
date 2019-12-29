@@ -1,0 +1,22 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <bi@ccert.edu.cn>; Fri, 2 Sep 2005 22:15:31 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Fri, 2 Sep 2005 22:47:00 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Fri, 2 Sep 2005 22:28:05 +0800
+From: "gong" <gong@mail.nisac.gov.cn>
+Reply-To: gong@mail.nisac.gov.cn
+To: bi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+vOytXisr/GrNfTvdDKssO0w/vX1qO/o78=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+讲一个广告人想创意想疯就住进了精神病院，他突然从精神病人那里得到了灵感，他让精神病人出创意，精神病人里有失恋的，天才什么的，有个巴拿马旅游广告让他写，他没主意，一个精神病人随口就说了一句＂性交巴拿马＂他得到灵感作的广告大卖，后来得了一大笔钱，他给病人都买了车，病人不会开，在精神病院里当碰碰车开，撞的乱七八糟的（阿嫂，呵呵，有些类似）院长要管，广告人给张大支票，院长也不管了，你们爱干吗干吗吧，影片就结束了～～
+谢谢，有知道的吗？？

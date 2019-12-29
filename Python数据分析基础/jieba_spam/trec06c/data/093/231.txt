@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8542Gjk014940
+	for <wen@ccert.edu.cn>; Tue, 6 Sep 2005 18:16:37 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j853xQ7i048852
+	for <wen@ccert.edu.cn>; Tue, 6 Sep 2005 18:14:51 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j853xNkR048838
+	for <wen@ccert.edu.cn>; Tue, 6 Sep 2005 18:13:44 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050359.j853xNkR048838@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Tue, 6 Sep 2005 10:02:50 -0000
+Date: Tue, 6 Sep 2005 18:23:41 +0800
+From: "bai" <bai@mails.tsinghua.edu.cn>
+To: wen@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j853xNkR048838
+Subject: =?gb2312?B?UmU6IM6qyrLDtL+0tefTsMO709DJ+dL0o6zQu9C7o6E=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+虽然本版不能问这个问题，但是我也可以回答你一下
+这个应该是电影文件的问题，我有时也会遇到，你首先用鼠标右键点击系统托盘上的声音图标，把前两项调到最大，之后推荐你使用耳塞，别用音箱，之后应该能听到声音了
+     用mpc，realplayer，都没有声音，可是播放用powerdvd播放dvd时候有声音
+     准确的说不是没有声音，而是好像有一些噪音，并且声音很小
+     一些播放电影需要的软件都已经装了，ac3，ffdshow，xdiv等一般必备的都装

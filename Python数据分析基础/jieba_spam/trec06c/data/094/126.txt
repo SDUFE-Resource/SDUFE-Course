@@ -1,0 +1,21 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85Brq7S017804
+	for <su@ccert.edu.cn>; Tue, 6 Sep 2005 21:38:21 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j85C6Fu5015902
+	for <su@ccert.edu.cn>; Tue, 6 Sep 2005 21:50:44 +0800 (CST)
+Message-Id: <200509051206.j85C6Fu5015902@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 6 Sep 2005 13:37:10 -0000
+From: "che" <che@mail.tsinghua.edu.cn>
+To: su@ccert.edu.cn
+Cc: <qiu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfz1vrT0L6t0em1xG1tLM6qyrLDtLvh1eLR+T8=?=
+Date: Tue, 6 Sep 2005 21:50:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5B255.40DC4970"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWyEjKLgqxyovE3TYCvYclclUUw1Q==
+
+ ^_^, 恭喜,你就是传说中的鸡肋

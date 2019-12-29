@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <lu@ccert.edu.cn>; Tue, 27 Sep 2005 07:47:51 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <lu@ccert.edu.cn>; Tue, 27 Sep 2005 07:59:09 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 26 Sep 2005 23:34:35 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "tian" <tian@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Cc: <xue@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtMu1ufrE2rn6zeLO3rG+1sqy7rHw?=
+Date: Tue, 27 Sep 2005 07:59:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+他选择退出清华，是他个人的选择，别人无可非议，而且就他的性格而言，我觉得他退出清华也是一个正确的选择。
+我反感他的地方是他退出清华前还要写一篇文章来骂并没有亏待他的导师和学校。你看看他的文章，好像全世界人都亏待了他似的，从川大一直骂到清华(恰好我跟这两个学校都有点渊源，呵呵)。
+另外，他对一些东西的领悟(比方数学)，也太浅薄了一点。
+     他选择了退出清华，这本身就说明了他的勇气。
+     你如果也用脚投票去了美国，再指责王，欧认为不厚道

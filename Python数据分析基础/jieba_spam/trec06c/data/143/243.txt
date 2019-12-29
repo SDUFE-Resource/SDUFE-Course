@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2svQX010170
+	for <peng@ccert.edu.cn>; Sat, 17 Sep 2005 01:34:29 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G3Pt3h004638
+	for <peng@ccert.edu.cn>; Sat, 17 Sep 2005 02:05:30 +0800
+Message-Id: <200509160325.j8G3Pt3h004638@stmp.nisac.gov.cn>
+Date: Sat, 17 Sep 2005 01:45:37 +0800
+From: "cheng" <cheng@mail.nisac.gov.cn>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S0tG+rbTzyP3Byw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+LZ跟我的经历差不多一样，不过我排名比你好，当然排名只是浮云
+我也不能保研了，只有考，痛苦啊
+我中意的女孩也是很优秀，我们专业的女生都挺认真，所以比较厉害
+哎，失败，拿什么资本去追她
+         今天心情真的很差，大二时的成绩出来了，全系220人，我竟然到了120名。而我心仪的一个女孩从一个外系转来的到了系的第二名。心里真的很痛，感觉很是丢山东人的脸。
+         瞧瞧大学这2年，我都学会了什么？高三八个月的苦读好不容易换来了一个大学，而现在，已经白白的过去了2年了。
+         大学的第一个学期，感觉好不容易考上了大学，应该歇歇了，于是就天天去机房，去聊QQ，去打cs，一直到期末考试，我的心都没有收下来，但由于我的基础比较好吧，大一的上学期，我不但没有挂科，而且成绩还在前面。

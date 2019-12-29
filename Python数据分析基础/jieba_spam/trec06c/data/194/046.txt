@@ -1,0 +1,27 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <yun@ccert.edu.cn>; Tue, 27 Sep 2005 20:35:58 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 12:47:05 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 20:47:05 CST
+Date: Tue, 27 Sep 2005 20:47:05 +0800 (CST)
+From: liang ming <hu@yahoo.com.cn>
+Subject: =?gb2312?B?ofEg1ffIy9K7xvDIpdXFvNK9583m?=
+To: yun@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+打算10月2号晚上走，先去张家界，然后去凤凰古城和衡山，已订好详细计划，但还
+缺人。
+现已有三个男生,都是很爱玩那种,曾经结伴去过大连 西安 山西 山东,保证是好玩伴.前
+几次出行都是3个男生和3个女生，觉得有女生一起去会好些.而这次原来答应去的女生临
+时有事不能去了,所以上来碰碰运气,看有没女生愿意和我们一起去。如果对我们的外貌或
+性格有要求的话，也欢迎提出，可以提供照片参考，呵呵
+不论有没有女生我们都会按计划去的
+祝大家过个开心的国庆节:)
+还是回短信吧 13810300762，现在水木有点慢

@@ -1,0 +1,35 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <ling@ccert.edu.cn>; Fri, 30 Sep 2005 12:51:53 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Fri, 30 Sep 2005 05:02:49 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Fri, 30 Sep 2005 05:02:49 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <ling@ccert.edu.cn>; Thu, 29 Sep 2005 22:24:28 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <ling@ccert.edu.cn>; Fri, 30 Sep 2005 00:09:21 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Fri, 30 Sep 2005 13:02:44 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <wen@motorola.com>
+To: ling@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVttRtbbeiu/DByw==?=
+Date: Fri, 30 Sep 2005 13:02:42 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+羡慕你mm有这么好的gg。有人担心自己的学习，真是偶好久没有体会过的幸福了^_^
+有什么好生气呢？她又不是不懂你的关心，只是享受这种被你宠爱的感觉罢了。
+再说，平时认真看书了，国庆出去玩玩也没什么呀，又不是只有两个月就铁定过不了了。学习重在效率嘛！况且，我觉得男女朋友在一起很难有高效的学习。你只是生气她不陪你过国庆吧：）
+     我考还有两个月考4级，还想着10。1和宿舍一块出去玩5天
+     都考两次了都没过
+     我早跟他说10一过来我帮她补英语，她也答应了

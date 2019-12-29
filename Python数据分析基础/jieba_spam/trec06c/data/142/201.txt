@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FBhgV9003152
+	for <he@ccert.edu.cn>; Fri, 16 Sep 2005 20:36:45 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FBtVIH029758
+	for <he@ccert.edu.cn>; Fri, 16 Sep 2005 20:48:34 +0800 (CST)
+Message-Id: <200509151155.j8FBtVIH029758@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 12:29:47 -0000
+From: "peng" <peng@mail.tsinghua.edu.cn>
+To: he@ccert.edu.cn
+Cc: <gan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IPamuOfLp73jx+u9+KOho6GjoaOho6GjoaOho6GjoaOho6GjoaOho6GjoaOho6GjoaOh?=
+Date: Fri, 16 Sep 2005 20:48:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BA2F.69B84380"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW57Ftgyg2sMjsQQOq8TagbU/Od5Q==
+
+这个“外地”是哪里？
+     我有一小师妹今年复习考研！目前她遇到的最紧迫问题是“英语作文”和“政治”这两项内容！她根本就没复习思路，越急越没思路，越没效果！
+       她（她在外地读书）要我在这里多征求一下高人的高见！麻烦大家伙不吝赐教！在此俺替她多谢谢大家了！
+       请大家伙谈谈自己的复习经验，或者给些建议，看法等等！要不推荐些好书，好的学习网站，好的资料也可！再次谢谢大家了！

@@ -1,0 +1,36 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <han@ccert.edu.cn>; Tue, 23 Aug 2005 13:32:55 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <han@ccert.edu.cn>; Tue, 23 Aug 2005 13:46:06 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "yang" <yang@126.com>
+To: han@ccert.edu.cn
+Cc: <jian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+Date: Tue, 23 Aug 2005 13:45:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+呵呵...你的id...
+     标  题: Re: 听大家都说华为，我也说两句
+     
+             sure.
+             养牛厂里的高手的确太牛了。
+             不过我觉得和公司培养没关系
+             靠的是当年和现在个人的奋斗
+             所以闪人也是正确的。
+     
+     : 表，你是我们水木众多水车的崇拜对象啊
+     : 毕竟也不是谁都是搞security的
+     
+     
+     --
+     

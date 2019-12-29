@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <xin@ccert.edu.cn>; Mon, 15 Aug 2005 16:56:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <xin@ccert.edu.cn>; Mon, 15 Aug 2005 17:09:31 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 17:04:26 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 17:04:26 +0800
+From: zheng@mail.tsinghua.edu.cn
+To: xin@ccert.edu.cn
+Date: Mon, 15 Aug 2005 17:04:26 +0800
+Reply-To: zheng@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfzvsijrNK7tcDQodGnyv3Rp8zi?=
+Content-Type: text/plain
+
+  队伍长度                  
+[------------]              
+0                           
+               队伍前进到这 
+[------------][------------]
+                x 
+0-----------------|         
+              0---|         
+方程：
+   100+x        x
+----------  = -----------
+     x          100-x    
+x=50*sqrt(2)
+通讯兵走了100+2x＝100（1+sqrt（2））
+   
+     一条长100米的队伍在向前行走，队伍末端有个通讯兵向队伍头端跑去，当跑到头端的时候再折回跑回末端，当同学兵跑回末端的时候，整个队伍刚好行走了100米，现求：通讯兵一共跑了多少米？ 

@@ -1,0 +1,29 @@
+Received: from mailgate1.neusoft.com ([210.83.210.153])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F2h5xA032120
+	for <qian@ccert.edu.cn>; Sat, 17 Sep 2005 05:03:10 +0800 (CST)
+Received: from smtp3.neusoft.com (mail.neusoft.com [210.83.210.139])
+	by mailgate1.neusoft.com (8.12.11/8.12.11) with ESMTP id j8F2pa4i001038
+	for <qian@ccert.edu.cn>; Sat, 17 Sep 2005 05:11:37 +0800
+Received: from win2003 ([192.168.74.50])
+ by smtp3.neusoft.com (iPlanet Messaging Server 5.2 Patch 1 (built Aug 19
+ 2002)) with ESMTPA id <0IMU0027B80HRF@smtp3.neusoft.com> for
+ weike@ccert.edu.cn; Sat, 17 Sep 2005 05:13:06 +0800 (CST)
+Date: Sat, 17 Sep 2005 05:14:14 +0800
+From: SQL <ding@neusoft.com>
+Subject: =?gb2312?B?UmU6IMTcsrvE3Mm+wcvV4rj2sOajv7vy1d/P3raosrvQ7czWwtu80s2lw6y23KO/?=
+To: qian@ccert.edu.cn
+Message-id: <001e01c5b9a0$c21b92a0$324aa8c0@win2003>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+X-MailScanner: Not scanned: please contact your Internet E-Mail Service Provider for details
+
+有些事情说出来就好了，这儿就是发泄的地方
+原来有点什么事，在这儿发了，然后自己解决掉，继续happy
+看板上人继续灌水，挺好玩
+     这个版除了催生更多的家庭矛盾之外看不出有什么好的作用？对他存在的意义保是怀疑。
+     鸡毛蒜皮的事儿都拿到这里说说，然后一大邦不知道怎么总有空闲围观者七嘴八舌的说而且多半没有几句好话。
+     俗话说“劝和不劝分”的，但是在这里经常看到的是“这样还不分？！”这类的话，且不说那些拿到版上说的事情的真实性，但不分青红皂白就劝人家分总是有点儿不负责任，说的重一点就是不积德。

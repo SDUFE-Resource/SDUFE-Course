@@ -1,0 +1,23 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RB80BW019815
+	for <kang@ccert.edu.cn>; Thu, 29 Sep 2005 22:31:47 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 22:17:58 +0800
+Message-ID: <327818451.29271@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 29 Sep 2005 22:17:58 +0800
+Message-ID: <327818451.29255@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 22:17:58 +0800
+From: zhuang@mail.tsinghua.edu.cn
+To: kang@ccert.edu.cn
+Cc: kong@ccert.edu.cn
+Date: Thu, 29 Sep 2005 22:17:58 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMz4v6rN9dvztcS49sjL0NDOqqOstNO087jftsjJz7e0y7y/xtHQxsC828zl1sY=?=
+Content-Type: text/plain
+
+等离子体的arxiv太弱了，根本就没多少文章有用，可能是等离子体的东西过于偏技术了
+，而且不少东西还保密的原因吧
+最搞笑的东东是合肥那个等离子体所招人，没一个岗位是物理专业的
+发明这个交流平台的家伙去年拿了一大笔奖金,羡慕啊....
+      不错 看你这么一说就觉得很爽
+     Computer Science
+     Computing Research Repository (CoRR new, recent, abs, find) 

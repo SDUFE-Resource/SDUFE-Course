@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <sun@ccert.edu.cn>; Sat, 27 Aug 2005 05:32:37 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 05:50:57 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 05:50:57 +0800
+Date: Sat, 27 Aug 2005 05:50:57 +0800
+From: ren@cernet.com
+Subject: =?gb2312?B?UmU6INDp0MTH673Mo6zO0rjD1/bQqcqyw7Sjvw==?=
+To: sun@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+     有的男人希望对方开心，把自己的苦藏在心里，不希望对方替自己担心
+     这样的人要让他知道自己并不开心，自己想分担对方的烦恼，但自己要有这方面的能力
+     比如，有意无意让对方知道自己是如何处理工作生活中棘手的事情，对别人工作生活中的事情发表一下自己的看法，让对方知道自己也有独到之处
+有点道理，谢谢你！有些习惯一旦养成很难改，我只是想和他有更多的交流，也希望他不要把什么事情都往自己身上扛。

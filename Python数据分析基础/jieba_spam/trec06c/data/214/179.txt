@@ -1,0 +1,43 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <shen@ccert.edu.cn>; Sun, 2 Oct 2005 03:25:33 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sat, 1 Oct 2005 19:36:29 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sat, 1 Oct 2005 19:36:29 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <shen@ccert.edu.cn>; Sat, 1 Oct 2005 12:58:08 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <shen@ccert.edu.cn>; Sat, 1 Oct 2005 14:43:01 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sun, 2 Oct 2005 03:36:24 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <ou@motorola.com>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCntb+jocflu6rRp9fT1NrDwLn6yqfX2dD4ZnJvbSBtaXRiYnMgKNeq1Ngp?=
+Date: Sun, 2 Oct 2005 03:36:22 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+哀悼
+【 以下文字转载自 NewExpress 讨论区 】
+发信人: jjyang (边走边看), 信区: NewExpress
+标  题: 哀悼！清华学子在美国失踪续from mitbbs
+发信人: idman (idman), 信区: ChinaNews
+标  题: Re: 车发现，人在车里. 唉。。。
+发信站: BBS 未名空间站 (Thu Sep 29 21:07:46 2005), 转信
+www.taag.org
+TAAG sadly announces the passing away of YUAN Xiaodong and his mother Ms. WANG
+ Zhaohui. The car found down the valley at the dangerous road right outside of
+ the east gate of Yosemite National Park has their bodies inside. Yan, Baoshan
+, and June already arrived at the scene.
+20分钟前的消息.
+      大家以后开车小心点。

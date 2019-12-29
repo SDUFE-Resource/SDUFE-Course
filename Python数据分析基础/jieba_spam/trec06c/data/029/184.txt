@@ -1,0 +1,26 @@
+Received: from aryasec.com ([218.1.92.40])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J5nswI015469
+	for <li@ccert.edu.cn>; Tue, 23 Aug 2005 09:53:18 +0800 (CST)
+Message-ID: <200508191349.j7J5nswI015469@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?sLLR1NfJ0a8=?= <gan@aryasec.com>
+Subject: =?gb2312?B?ofEgUmVzZWFyY2ggUG9zaXRpb24gYXQgTWljcm9zb2Z0IFJlc2VhcmNoIEFzaWEgo6i7ttOt16rM
++aOp?=
+To: li@ccert.edu.cn
+Content-Type: multipart/mixed;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";charset="GB2312"
+MIME-Version: 1.0
+Reply-To: gan@aryasec.com
+Date: Tue, 23 Aug 2005 10:09:58 +0800
+X-Priority: 2
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+Position Title:         Researcher/Associate Researcher/Postdoc in Visual Computing Group
+Working location:  Beijing, P. R. China
+The Visual Computing Group of Microsoft Research Asia, Beijing, China, has two immediate openings for Researcher/Associate Researcher/Postdoc in the areas of pattern recognition, computer vision, Image/graphics processing, and applied machine learning.
+Candidates are expected to hold a Ph.D. or MS in CS, EE or related fields with a strong publication record in major journals and conferences. Candidates need to demonstrate strong interpersonal skills, be able to work independently on problems, be an effective team player and be willing to accept challenges and responsibility. 
+Please send resume to Xiao Rong, rxiao@microsoft.com.
+About Microsoft Research Asia
+Founded in 1991, Microsoft Research (MSR) is dedicated to conducting both basic and applied research in computer science and software engineering. Its goal is to develop new technologies that simplify and enhance the computing experience, reduce the cost of writing and maintaining software, and facilitate the creation of new types of software.
+Microsoft Research Asia (MSRA), formerly known as Microsoft Research China, was founded in November of 1998.  Located in Beijing, China, it is Microsoft’s second fundamental research facility to be established outside of the United States. Key research areas include digital media, user interfaces, networking and system, graphics and vision as well as information search and mining. One hundred and eighty researchers, under the leadership of Dr Harry Shum, Managing Director, work at MSRA’s laboratories. 
+For more information about MSR Asia, please visit our website:
+http://research.microsoft.com/asia/ and http://research.microsoft.com/aboutmsr/labs/asia/default.aspx

@@ -1,0 +1,27 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <ou@ccert.edu.cn>; Tue, 23 Aug 2005 11:36:52 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <ou@ccert.edu.cn>; Tue, 23 Aug 2005 11:50:03 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "guo" <guo@126.com>
+To: ou@ccert.edu.cn
+Cc: <tan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMbfvaO56cC0o7rUzrXn07C1xMjLtuCyu7bgsKGjvw==?=
+Date: Tue, 23 Aug 2005 11:49:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+记得在中影资料馆看过一个法国片,导演说专门强调处处摄影都要抖动，这更真实
+当时就看得晕得不行，全片都在抖动
+很想上去扁导演一顿，难道不知道主动和被动的关系么，他这种理论纯粹扯淡。
+     我有个毛病：晕电影。跟晕车的症状相似。（也晕游戏，像CS之类的第一视角游戏）。
+     感觉：七剑的画面色调低沉晦涩，人物的衣着怪异，毫无美感。
+           情节荒诞乏味，细节粗糙，毫无细腻感。

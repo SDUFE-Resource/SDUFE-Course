@@ -1,0 +1,28 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <cao@ccert.edu.cn>; Sun, 25 Sep 2005 22:39:09 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Sun, 25 Sep 2005 14:46:37 -0000
+From: "pu" <pu@mails.tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SvvW1w8312/Oyu7auv8bRpw==?=
+Date: Sun, 25 Sep 2005 22:56:18 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+但是windows把它做得很好:)
+当然windows不仅仅是说把操作做得很好。
+还有是他做普及性的操作系统，把操作系统和硬件分开。
+另外windows拼命的扩展去支持广范围的硬件。 别看bug很多，动不动就死机。但是他成功了，现在有哪个厂家出放在PC上面的硬件敢说不支持windows?
+如果总是象linux那样，让用户自行定义什么端口，中断，那估计windows也卖不出去。用户买东西就希望什么都不做，马上就可以开始使用。
+你可以说windows内存管理不好，磁盘管理不好。但是windows再用户操作心理学，操作认知领域的研究达到了很高的高度。这些东西我们不知道，是因为我们只看到了表面，没有去细想底层。现在哪个厂家不把这些用户的心理放在首位？
+     .... 图形用户界面又不是windows始创

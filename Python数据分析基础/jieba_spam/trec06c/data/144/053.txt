@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FDF2nP003737
+	for <ye@ccert.edu.cn>; Sat, 17 Sep 2005 02:59:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FDQpvs001563
+	for <ye@ccert.edu.cn>; Sat, 17 Sep 2005 03:11:17 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Fri, 16 Sep 2005 18:52:29 -0000
+Message-ID: <003701c5b9f9$461a6f60$787d6fa6@hotline>
+From: "zhou" <zhou@mail.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IG1t19zLtbjQvvWyu7W9ztK1xLCuLCDU9cO0sOw/?=
+Date: Sat, 17 Sep 2005 03:12:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0034_01C5BA3C.5412CED0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+后面就把张三也叫来了，说两个人买酒去吧
+李四就嚷，我先去吧，想先好好表现一下，也许会改变地主的观感
+于是他蹭蹭的就去了
+过不多会，回来了，
+对地主说，走得急，忘了要买什么酒了
+地主说买杏花村，蹭蹭地又跑去了
+过不多会，又回来了
+又问道说，买几年陈酿的啊
+地主说十年的，又跑去了
+结果又回来问过多少坛啊，怎么送啊之类的
+结果让张三去买，他就先把所有的问题都问好再去，一趟就回来了
+完了地主就对李四说，知道为什么我喜欢张三了吧
+     后面呢 没听过啊

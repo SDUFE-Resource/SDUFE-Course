@@ -1,0 +1,23 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8OB6nor025292
+	for <xie@ccert.edu.cn>; Sat, 24 Sep 2005 21:56:26 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 21:44:21 +0800
+Message-ID: <327559284.25099@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 24 Sep 2005 21:44:21 +0800
+Message-ID: <327559284.25083@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Sat, 24 Sep 2005 21:44:21 +0800
+From: che@mail.tsinghua.edu.cn
+To: xie@ccert.edu.cn
+Cc: cai@ccert.edu.cn
+Date: Sat, 24 Sep 2005 21:44:21 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Content-Type: text/plain
+
+呵呵，你以为受迫害妄想症是用以骂人的话么？
+从原文copy过来的：
+导师看到我选了法语，就说这个第二外语还是自己学学就行了吧，旁听也行啊，我主要是怕你课太多了考试不通过就麻烦了。我当时没有说什么，就把法语去掉了，只留下刚够学分的课程。其实我还想选很多的，体育，音乐什么的，都不好意思跟导师说
+于是他得出结论：
+后来我终于明白了，清华不需要全面发展的博士生，而其实导师还会在某种程度上削弱学生
+的能力。导师并不是真的为我们好，而是不喜欢我们上课，因为上课不但会花掉研究（或者
+干活）的时间，而且让他们眼界太开阔，这样学生会很容易有别的选择而走掉

@@ -1,0 +1,25 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <lin@ccert.edu.cn>; Tue, 23 Aug 2005 01:38:51 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <lin@ccert.edu.cn>; Tue, 23 Aug 2005 01:52:02 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "yang" <yang@126.com>
+To: lin@ccert.edu.cn
+Cc: <yu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IEdHzqpRUcPcwuu4+s7SxNajrLrcyfrG+KOsy/nS1MC0t6LM+35+fn5+fn4=?=
+Date: Tue, 23 Aug 2005 01:51:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+他应该告诉mm密码
+         前天和GG聊天，他无意中自己说出自己的QQ密码现在换成另外一个。我就要他告诉我。
+     当时气氛很好。他先是不告诉我。我就故意装生气望车外。后来他就悄悄告诉我新密码了。两人闹着玩，都没当一回事。
+         其实他密码多少我从没当一回事，也从不干开他QQ的无聊事。不然也不会现在才知道他早改密码了。之前那个密码也是04年初的时候他主动告诉我的，并要我告诉他我的。

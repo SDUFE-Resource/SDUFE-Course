@@ -1,0 +1,61 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J3Tsuc012204
+	for <zeng@ccert.edu.cn>; Wed, 21 Sep 2005 06:55:10 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J3P05T085835
+	for <zeng@ccert.edu.cn>; Wed, 21 Sep 2005 06:51:25 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (m13-67.163.com [220.181.13.67])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J3OphQ085831
+	for <zeng@ccert.edu.cn>; Wed, 21 Sep 2005 06:50:10 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+MIME-Version: 1.0
+Message-ID: <432E330C.000184.26953@bj163app67.163.com>
+Date: Wed, 21 Sep 2005 07:05:11 +0800 (CST)
+From: "yun" <yun@163.com>
+To: zeng@ccert.edu.cn
+X-Priority: 3
+X-Originating-IP: [192.168.208.154(210.25.128.99, 202.38.188.130)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com -->
+	163com
+Subject: =?gb2312?B?ofEgtPrT0beizsSjuklCTdbQufrR0L6/1tDQxLbMxtrGuL6rzahmbGFzaMq1z7DJ+tK7w/sgKNeq
+1Ngp?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1569947849=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 ParttimeJob 讨论区 】
+发信人: elgen (elgen), 信区: ParttimeJob
+标  题: 代友发文：IBM中国研究中心短期聘精通flash实习生一名
+IBM中国研究中心短期聘精通flash实习生一名
+实习时间：2005年9月21日至9月28日，全职9:00-18:00
+工作地点：IBM中国研究中心（北京市海淀区东北旺西路 8 号中关村软件园 19 号
+楼钻石大厦）
+工作内容：
+1、了解IBM“青出于蓝”实习项目，根据项目特点和资料设计汇报展示用flash方案
+，并制作完成，片长五分钟左右；
+2、为“可视化的商业”项目制作汇报用flash，通过storyboard方式展示一系列研
+究成果，片长三分钟左右；
+3、具体制作内容及要求待确定人选后面谈。
+基本要求：
+1、精通Photoshop，Flash等图形设计软件；
+2、有相关领域获奖作品优先考虑；
+3、一流高校计算机、美术等相关专业本科以上高年级在校生，可以保证实习期间全
+职工作，并根据情况适当加班；
+4、思维敏捷，逻辑严禁，高工作效率，书面口头英语表达流利。
+其他说明：
+1、薪酬待遇：小时工资面议；
+2、请将个人简历，近期作品一份（小于5M）发至邮箱：licg@cn.ibm.com，截止日
+期2005-9-19；
+3、近期安排统一面试，可能当天通知。
+※ 修改:・elgen 于 Sep 16 11:10:18 修改本文・[FROM: 202.108.130.*]

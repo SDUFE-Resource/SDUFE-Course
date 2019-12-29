@@ -1,0 +1,31 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <wen@ccert.edu.cn>; Thu, 25 Aug 2005 06:20:40 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 06:39:03 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 06:39:03 +0800
+Date: Thu, 25 Aug 2005 06:39:03 +0800
+From: mei@cernet.com
+Subject: =?gb2312?B?UmU6IEpBVkG1xLTzxaO2vNTaxMTA7y4uLi4uLg==?=
+To: wen@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+这话说得......
+真让我尴尬。
+不知道啥意思，是说俺眼神不好，没给sun找到合适的人？还是说什么别的？
+稍微解释一下，也是给所有信任我，给我发过简历的xdjm一个交待。
+第一，这几次找的JAVA的职位都比较资深，所以可能很多工作时间挺短，然后工作的公司规模也不是很大的同志们的简历就暂时hold在我们这里或者客户公司的HR那里了，hold的意思呢就是说可能您并不是最合适这个职位的人选，但是他们觉得有可取的地方，如果他们所谓的那些最合适的人最后面试并不理想，他们会再从这些被hold的人里面挑，就等于是第二拨被考虑的意思。
+第二，所有给我简历的人，不论有没有被这个客户公司邀请面试，只要还没有签offer，我们都会不断地给他们看其他工作机会，尽量多的为他找到最理想的职位。事实上，也的确有这样的朋友，发信给我，明确说我不适合你现在贴的职位，但是我还是给你简历，你帮我看机会吧。这样的朋友我非常欢迎。您有了更多的信息源，我们有了更多的人力信息，大家互利互惠。
+第三，关于某个职位，我只能说，目前情况是上次发的那个team已经招好了，这次又贴出java的职位，本身也是跟那个职位相似，但是属于另一个方向，另一个team，如果有合适的，欢迎和我联系。至于想知道sun里面的人是不是我找的，可以等您自己去了sun之后找您同事问问：）
+     昨天有人说这个猎头给sun找的人没几个合适的
+     赫赫 

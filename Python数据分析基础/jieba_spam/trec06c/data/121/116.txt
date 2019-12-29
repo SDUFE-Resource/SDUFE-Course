@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A7NDlm028500
+	for <li@ccert.edu.cn>; Mon, 12 Sep 2005 15:51:28 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A7KBdR092194
+	for <li@ccert.edu.cn>; Mon, 12 Sep 2005 15:49:01 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A7K7ld092190
+	for <li@ccert.edu.cn>; Mon, 12 Sep 2005 15:48:23 +0800 (CST)
+	(envelope-from sxh@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 15:37:29 +0800
+Message-ID: <326336154.01040@mails.tsinghua.edu.cn>
+Received: from 59.66.122.238 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 15:37:29 +0800
+From: "zhou" <zhou@mails.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Date: Mon, 12 Sep 2005 15:37:29 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1tDH77W9wcujrMvNtePJtrrDxNijvyAo16rU2Ck=?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: sxh <zhou@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 WorkLife 讨论区 】
+发信人: xiaopi78 (小皮), 信区: WorkLife
+标  题: 中秋到了，送点啥好呢？
+也不是什么行贿啦，只是上司平时对自己挺照顾的，就想在中秋节前送点东西表示一下心意，也就一两百块钱吧，当然多点也无所谓了，只是 怕头儿不要。原本想送月饼的，又怕送的人多了吃不掉浪费，在家乐福看到有哈根达斯的冰淇淋月饼在卖，觉得那个也不错，或者还是送盒茶叶呢？呵呵，新手请大家多指点。

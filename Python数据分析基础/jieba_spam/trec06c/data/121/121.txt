@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A7NDlm028500
+	for <lin@ccert.edu.cn>; Mon, 12 Sep 2005 15:55:15 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A7KBdR092194
+	for <lin@ccert.edu.cn>; Mon, 12 Sep 2005 15:52:48 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A7K7ld092190
+	for <lin@ccert.edu.cn>; Mon, 12 Sep 2005 15:52:10 +0800 (CST)
+	(envelope-from sxh@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 15:41:16 +0800
+Message-ID: <326336154.01040@mails.tsinghua.edu.cn>
+Received: from 59.66.122.238 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 15:41:16 +0800
+From: "zhang" <zhang@mails.tsinghua.edu.cn>
+To: lin@ccert.edu.cn
+Date: Mon, 12 Sep 2005 15:41:16 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILW8yqajrL3QztLWqrXAyrLDtMrHwOTFr9fU1qo=?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: sxh <zhang@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+说的很好，赞
+我也常常有一种被孤立的感觉，是自己太缺少交往和沟通的技巧了
+或者是一种对周围环境和氛围的不认同，但自己可能跟本改变不了这个环境，为了更好的生活，只能努力去愉快的接受它
+改变不了别人，只能改变自己，或许与一贯的价值观相抵，但圆滑世故一些有利于自己。
+     看完jj的帖子（恩，应该是个女生吧)，可以理解jj的心情
+     被孤立被冷落，不被认可不被接受的感觉
+     会让人觉得天都是灰暗的

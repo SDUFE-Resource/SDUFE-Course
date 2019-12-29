@@ -1,0 +1,65 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <zhang@ccert.edu.cn>; Wed, 7 Sep 2005 01:50:10 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <zhang@ccert.edu.cn>; Wed, 7 Sep 2005 02:02:27 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "gu" <gu@126.com>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INeqyMPU0Li+t8C3+Mnkwu281w==?=
+Date: Wed, 7 Sep 2005 02:02:19 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+     标  题: Re: 转让孕妇防辐射马甲
+     
+     Results
+     The risk of childhood ALL was not linked
+     to summary time-weighted average residential magnetic-
+     field levels, categorized according to a priori
+     criteria. The odds ratio for ALL was 1.24 (95 percent
+     confidence interval, 0.86 to 1.79) at exposures of 0.200
+     m
+     T or greater as compared with less than 0.065
+     m
+     T.
+     The risk of ALL was not increased among children
+     whose main residences were in the highest wire-code
+     category (odds ratio as compared with the lowest
+     category, 0.88; 95 percent confidence interval, 0.48 to
+     1.63). Furthermore, the risk was not significantly associated
+     with either residential magnetic-field levels or
+     the wire codes of the homes mothers resided in
+     when pregnant with the subjects.
+     Conclusions
+     Our results provide little evidence that
+     living in homes characterized by high measured timeweighted
+     average magnetic-field levels or by the highest
+     wire-code category increases the risk of ALL in
+     children.
+     
+     如果俺没有理解错的话，意思似乎是白血病风险和电磁场暴露没有关系。
+这个问题长期存在争议，有的研究者认为自己的工作可以证明，有的人却认为证明不了这一点。
+再看看这篇吧，就是前面提到的那篇最近引起争议的文章。
+Draper GJ, Vincent T, Kroll ME and Swanson J. Childhood cancer in relation to distance from high-voltage power lines in England and Wales: a case-control study. BMJ (2005). Available from http://www.bmj.com.
+这是对这篇文章的介绍：
+http://www.hpa.org.uk/hpa/news/articles/press_releases/2005/050603_childhood_cancer_voltage.htm
+03 June 2005
+Childhood Cancer and Distance from High-Voltage Power Lines
+An important paper examining the incidence of childhood cancer in England and Wales and how it relates to distance from major high-voltage overhead power lines has been published. This large epidemiological study has found higher rates of childhood leukaemia among those born within 600 metres of a power line compared with those born further away. Rates of other types of childhood cancer are not raised. The authors of the study do not regard these findings as establishing a definite causal association between childhood leukaemia and exposures to electromagnetic fields from power lines.
+This study by Draper et al (1) is the largest to date of childhood cancer and power lines. It considers proximity to the power lines rather than electric or magnetic field strengths and has been carried out by an established team with considerable experience of carrying out epidemiological studies on cancer in children. The study involved 29,081 cases of cancer in children aged 0-14 years who were diagnosed during 1962-95. For each case, a matched control was selected. For each case and control, the distance of residence at the time of birth to the nearest high-voltage overhead power line was calculated. The study concerned all 275 and 400 kV overhead lines and a small fraction of 132 kV lines.
+Draper et al found that, compared with children born more than 600 metres from a line, the risk of leukaemia was greater by a factor of 1.69 for those born within 200 metres and by a factor of 1.23 for those born between 200 and 600 metres; both these elevations were statistically significant. In contrast to leukaemia, there was no tendency for the risk of other childhood malignancies to increase with increasing proximity to a power line.
+The controls selected for the leukaemia cases in this study tended to live further from power lines than the controls selected for other cases of childhood cancer. The reason for this is not clear and it is possible that, by chance, the leukaemia controls were unrepresentative. A sensitivity analysis in the paper using the controls for other diagnoses reported a leukaemia risk which was still raised but smaller than that in the main analysis.
+Comparisons with previous studies
+A number of epidemiological studies have explored whether there is a link between power lines and childhood cancer. These studies must take into account the possibility that, if any such link were established, it might not be due to fields from the power lines but rather be caused by social or demographic factors that differ between those who live near power lines and those who live further away. A very important study was the UK Childhood Cancer Study (UKCCS) (2,3,4). Another important paper by Ahlbom et al (5) pooled results from a number of studies of childhood cancer and exposure to magnetic fields in homes carried out in different countries.
+The UKCCS found no raised risk of childhood leukaemia for residence within 50 metres of any overhead line. The statistical power of this result derived largely from children living close to lower voltage lines. The UKCCS also found no association between childhood leukaemia and measured levels of electric or magnetic fields, although the small numbers of children with high exposures limited the statistical precision of these results.
+Draper et al’s study had some advantages over the UKCCS analyses. For example, it covered cases over a much longer period. Also, since the UKCCS investigators approached parents to collect extra data, the UKCCS may be susceptible to bias because some potential study members did not participate. On the other hand, the UKCCS collected detailed data on the children’s exposure to electromagnetic fields, together with data on possible confounding factors. Draper et al plan to look at childhood cancer in relation to calculated levels of these fields subsequently.
+The study carried out by Ahlbom et al (5) reported a doubling of relative risk for magnetic fields of 0.4 microtesla (μT) or more when compared with fields less than 0.1 μT. (A microtesla is a unit of magnetic flux density.) This appears to be broadly consistent with the findings of Draper et al of a raised leukaemia risk close to a line. However, it would be difficult to infer any direct effect of electromagnetic fields on leukaemia risk more than 200 metres from a line, since at this distance the field levels associated with power lines should be very small 

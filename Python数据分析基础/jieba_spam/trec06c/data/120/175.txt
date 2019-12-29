@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C1ElfM005929
+	for <xin@ccert.edu.cn>; Mon, 12 Sep 2005 12:23:35 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.144.133)
+  by localhost with SMTP; Mon, 12 Sep 2005 04:10:00 -0000
+From: "ren" <ren@mails.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7XqsjDob8yMDA2xOrLtsq/0dC+v8n6yOvRp7+8ytTTotPvuKi1vL2y0uUgob7A4LHwo7q/
+vNE=?=
+Date: Mon, 12 Sep 2005 12:41:14 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLKEKCCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+Importance: Normal
+In-Reply-To: <326450489.02480@mails.tsinghua.edu.cn>
+
+【 以下文字转载自 SecondBook 讨论区 】
+发信人: flymickey (向前看！), 信区: SecondBook
+标  题: 【转让】2006年硕士研究生入学考试英语辅导讲义    【类别：考

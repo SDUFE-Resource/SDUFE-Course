@@ -1,0 +1,19 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <ke@ccert.edu.cn>; Mon, 15 Aug 2005 11:06:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <ke@ccert.edu.cn>; Mon, 15 Aug 2005 11:19:54 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 11:14:49 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 11:14:49 +0800
+From: yuan@mail.tsinghua.edu.cn
+To: ke@ccert.edu.cn
+Date: Mon, 15 Aug 2005 11:14:49 +0800
+Reply-To: yuan@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgxMS/7srWu/q/ydf3zqptb3RvIDM4OLXEyf28tqO/ICjXqtTYKQ==?=
+Content-Type: text/plain
+
+【 以下文字转载自 Mobile 讨论区 】
+发信人: Truly (

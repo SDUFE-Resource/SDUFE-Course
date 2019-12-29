@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2Dh1P009817
+	for <yang@ccert.edu.cn>; Sat, 17 Sep 2005 10:40:06 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G2ifhm004555
+	for <yang@ccert.edu.cn>; Sat, 17 Sep 2005 11:11:04 +0800
+Message-Id: <200509160244.j8G2ifhm004555@stmp.nisac.gov.cn>
+Date: Sat, 17 Sep 2005 10:51:12 +0800
+From: "cheng" <cheng@mail.nisac.gov.cn>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQteO/5NXF?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+会的，我的一个好友jj 就和你一样，
+楼主注意点身体，家里备些可以随时吃的东西。
+我的那个好朋友就直接住回家去了，妈妈都是随时做东西吃，她就是从最开始开始就很容易饿的。
+祝福楼主。
+     小鱼才第五周,按受精日期看才十多天,可是我今天早上四点会被饿醒,非常饿,
+     以前从没有半夜睡的好好的被饿醒的经历,家里一点吃的都没有,到七点半的时
+     候简直饿的要抓狂了,冲了杯奶粉,喝下去总算胃里舒服了一些

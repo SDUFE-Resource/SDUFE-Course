@@ -1,0 +1,58 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <yi@ccert.edu.cn>; Tue, 13 Sep 2005 18:05:24 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <yi@ccert.edu.cn>; Tue, 13 Sep 2005 18:02:39 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <yi@ccert.edu.cn>; Tue, 13 Sep 2005 18:01:41 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Tue, 13 Sep 2005 18:13:13 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Tue, 13 Sep 2005 18:15:49 +0800
+From: "yang" <yang@runway.cn.net>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgy7zE7g==?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: yang@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+紫色追忆 
+人海中只因为看你一眼， 
+　　注定今生梦系魂牵。 
+　　无论你在海角天边， 
+　　永远是我心中最旖旎的画卷。 
+　　 
+　　美丽的故事也许相隔久远， 
+　　真诚依旧从来不曾改变。 
+　　也许这一生你都不能发现， 
+　　就这样悄悄为你敞开心田让思念蔓延！ 
+　　 
+　　前尘往事不是过往云烟， 
+　　风雪相迎因有你而感觉春光无限。 
+　　聚少离多暗恨时光短暂， 
+　　深情厚意充溢每段字里行间！ 
+　　 
+　　曾经在你停留的时空驻足流涟， 
+　　曾经在与你携手的地点忘了时间！ 
+　　紫蝶随风轻舞不在花丛间往返， 
+　　为了美丽的艳阳天任凭岁月随意变迁！

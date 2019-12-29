@@ -1,0 +1,35 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <che@ccert.edu.cn>; Tue, 27 Sep 2005 18:44:44 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Tue, 27 Sep 2005 11:07:38 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Tue, 27 Sep 2005 11:07:38 -0000
+Date: Tue, 27 Sep 2005 19:02:13 +0800
+From: "tan" <tan@csnet1.cs.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IENvbmNyZXRlIE1hdGhlbWF0aWNzIKGjoaOho6Gj?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+ 这哥们就是接触柏拉图、苏格拉底、康德、黑格尔、加缪之类的东西太晚
+ 在俺们那个年代，这些可都是高中时代有志青年的休闲消遣必备，一不留神就百毒不侵了 
+     标  题: Re: Concrete Mathematics  。。。。
+     
+     
+     居然听新东方侃爷的课就觉得自己喜欢上哲学了...
+     
+     "
+     在对清华的研究完全失望了之后。我就准备考GRE，TOEFL出国了。我去上了一个新东方的班，没学到什么英语方面的东西，倒是接触了很多新的思想。老罗的言论特别有趣，虽然我不是完全赞同他的意见。写GRE作文特别培养思维能力。我为了写GRE作文，常常为了一个不明白的问题到图书馆翻阅英文的哲学书籍，有关教育的书籍…… 对于很多问题我得到了完全不同的观点。大学的目的是什么？人的价值观是由理性决定的吗？等等等等。我读到了亚里士多德，柏拉图，康德等人的言论。甚至有个哲学家说 "All Animals Are Equal". 我看了他的文章觉得有很多可以批驳的观点。我看到迪卡尔的文章，说“要掌握科学就要掌握它的全部”，这句话真合我心意，我就是想做一个懂很多东西的人啊。我想结合艺术与科学。虽然我这个观点得到一些人的批判，但是我仍然相信迪卡尔。 
+     "
+     
+     
+     : 这就太可笑了
+     
+     
+     --
+     

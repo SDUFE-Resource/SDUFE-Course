@@ -1,0 +1,25 @@
+Received: from 163.com (bj44-204.i.netease.com [202.108.44.204])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q2tW6V004284
+	for <fu@ccert.edu.cn>; Wed, 28 Sep 2005 01:41:39 +0800 (CST)
+Message-ID: <200509261055.j8Q2tW6V004284@spam-gw.ccert.edu.cn>
+Received: from LJF (unknown [221.2.147.100])
+	by smtp1 (Coremail) with SMTP id KkATbL5lN0MyGNUE.1
+	for <fu@ccert.edu.cn>; Wed, 28 Sep 2005 01:52:43 +0800 (CST)
+X-Originating-IP: [221.2.147.100]
+Date: Wed, 28 Sep 2005 01:52:43 +0800
+From: "weng" <weng@163.com>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM312/OjulNlZ21lbnRhdGlvbiBmYXVsdCAhIENvcmUgZHVtcGVkIKGqztLQtLG+zsS1xMS/
+tcQ=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/related;
+	boundary="=====002_Dragon176436605872_=====";
+	type="multipart/alternative"
+
+这是王垠刚刚更新的blog内容
+可以看出来，对于其导师们和师兄弟们的一些牢骚其实是对制度环境不满的误伤
+不觉得他真对导师或者师兄弟有什么恶意
+     http://learn.tsinghua.edu.cn/homepage/2001315450/
+     Repair what you can ― but when you must fail, fail noisily and as soon as possible. ―Basics of The UNIX Philosophy 
+     修复你能修好的―但是如果你必须失败，那就尽快喧闹的退出。―UNIX基本哲学 

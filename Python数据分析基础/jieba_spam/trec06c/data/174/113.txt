@@ -1,0 +1,30 @@
+Received: from smtp.263.net (mx04.x263.net [211.150.96.24])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LDnGRe032370
+	for <bai@ccert.edu.cn>; Fri, 23 Sep 2005 19:49:38 +0800 (CST)
+Received: by smtp.263.net (Postfix, from userid 500)
+	id 62B4343643; Fri, 23 Sep 2005 20:01:05 +0800 (CST)
+From: =?gb2312?B?bmFtZQ==?= <lian@263.net>
+To: bai@ccert.edu.cn
+Subject: =?gb2312?B?ofEgu6/Rp8+1MDXE6teo0rW/zsrUzOKjur3hubm7r9Gno6zT0Lv6u6/Rpw==?=
+Date: Fri, 23 Sep 2005 20:01:15 +0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+MIME-Version: 1.0
+X-Mailer: XMail-3.0
+Content-Type: multipart/mixed;
+	boundary="----=NextPart_263Mail-XMAIL-000-000-1127311244Ti4"
+Message-Id: <20050921140045.62B4343643@smtp.263.net>
+
+系里以前一直提供01年的试题作为样题
+今年改成只提供05年的了
+我今天替别人买的时候才发现
+就买了这两套
+今天把电子版贴出来
+一是为了帮助未来的师弟师妹
+而是为自己攒rp
+三是纪念自己的考研历史
+怎么说这两套题也是我1月23日的见证者
+这正是我做过得原卷啊
+ps：化学系的专业课试题重复出题的可能性不大
+因此只具有参考价值，一个心理安慰而已
+复试时千万表盲目的拘泥于试题，切记！！ ：）

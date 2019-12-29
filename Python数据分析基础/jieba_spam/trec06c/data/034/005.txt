@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <chen@ccert.edu.cn>; Wed, 24 Aug 2005 14:59:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <chen@ccert.edu.cn>; Wed, 24 Aug 2005 15:12:20 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 07:06:53 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "xu" <xu@mail.tsinghua.edu.cn>
+To: chen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IGdmILi4xLi3tLbULi4u?=
+Date: Wed, 24 Aug 2005 15:08:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我最怕那个老年痴呆症：走不开人，什么都得有人看着，
+一不小心还到处乱跑。这个好在病人自己不知道。
+我外婆那个帕金森氏症，才叫可怕，她自己脑子清楚的很，
+就是行动不听使唤，没人陪着走路就摔，吃药么就得吃
+那个铁片石斛，贵就一个字。而且她自己心理还难受，
+行动不便吧，就想儿女整天陪着……
+     没错啊
+     我外婆95年脑溢血，最近几年一直躺在医院里，7个儿女每个月凑钱。
+     我爷爷肾衰竭，一个月就走了，花了十几万。

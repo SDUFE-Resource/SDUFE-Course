@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <xing@ccert.edu.cn>; Wed, 14 Sep 2005 09:16:05 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <xing@ccert.edu.cn>; Wed, 14 Sep 2005 09:28:06 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 01:10:39 -0000
+From: "xing" <xing@mail.tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Cc: <xia@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILO5tdfMr8XGwcssILu509DPo837wvA/Pw==?=
+Date: Wed, 14 Sep 2005 09:28:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+他觉得你们不合适或不想耽误你，但是很明显他没有什么对不起你，所以他选择了不说对不起，但是你又告诉她如果他觉得你们不合适或不想耽误你，就只有“说声对不起”这一个唯一的选择，他当然只有放弃这道题了……
+     同他大概是这样说的,短信的方式: 如果觉得我们不合适或不想耽误我, 就说声对不起好吗??? 没有别的意思,不要误会,只是我这个人比较笨, 只有这样,我才知道该怎么做.
+     可是从昨晚到现在一直也没动静, 到底什么意思啊...

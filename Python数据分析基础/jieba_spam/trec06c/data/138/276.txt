@@ -1,0 +1,28 @@
+Received: from mailgate1.neusoft.com ([210.83.210.153])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F2h5xA032120
+	for <ding@ccert.edu.cn>; Fri, 16 Sep 2005 03:56:51 +0800 (CST)
+Received: from smtp3.neusoft.com (mail.neusoft.com [210.83.210.139])
+	by mailgate1.neusoft.com (8.12.11/8.12.11) with ESMTP id j8F2pa4i001038
+	for <ding@ccert.edu.cn>; Fri, 16 Sep 2005 04:05:18 +0800
+Received: from win2003 ([192.168.74.50])
+ by smtp3.neusoft.com (iPlanet Messaging Server 5.2 Patch 1 (built Aug 19
+ 2002)) with ESMTPA id <0IMU0027B80HRF@smtp3.neusoft.com> for
+ weike@ccert.edu.cn; Fri, 16 Sep 2005 04:06:47 +0800 (CST)
+Date: Fri, 16 Sep 2005 04:07:55 +0800
+From: SQL <liao@neusoft.com>
+Subject: =?gb2312?B?UmU6IFvNxtHQ0MXPol3W0L/G1LrX1Lavu6/L+cDPyqbV0MrVx+W7qtDFz6LRp9S6w+LK1NHQvr/J
++g==?=
+To: ding@ccert.edu.cn
+Message-id: <001e01c5b9a0$c21b92a0$324aa8c0@win2003>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+X-MailScanner: Not scanned: please contact your Internet E-Mail Service Provider for details
+
+唉，为什么只是信息学院呢
+     导师简介
+     张晓鹏，计算机应用技术博士，模式识别国家重点实验室及中法联合实验室副研究员。中国科学院研究生院副教授，《中国体视学与图像分析》杂志编委。2004年获得国家科技进步二等奖和北京市科技进步奖三等奖。2002年9月至2004年8月特邀去INRIA（法国国立信息与自动化研究院）作为外国专家从事计算机图形学和自然景观可视化及应用研究。目前在SCI、EI和IEEE等国际会议发表论文二十余篇。目前执行国家自然科学基金项目、国家自然科学基金国际合作重大项目、科技部国际合作项目和北京市自然科学基金项目。
+     研究方向和对象

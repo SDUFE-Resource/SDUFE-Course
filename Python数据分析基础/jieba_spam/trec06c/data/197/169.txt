@@ -1,0 +1,21 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <li@ccert.edu.cn>; Wed, 28 Sep 2005 11:00:10 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 03:11:17 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 11:11:17 CST
+Date: Wed, 28 Sep 2005 11:11:17 +0800 (CST)
+From: liang ming <ke@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMWuuqLX09KqsrvSqrbBsqnKvw==?=
+To: li@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+If you like to have PhD, then just go ahead. It is very common for girls to get a PhD degree. 
+       以前一直梦想自己成为一个科研工作者 但当大学将近毕业 我迷茫了 现在有两个选折读博以后可能博士后在国外回来可以做大学老师，可是我不太想做老师 但是这是很多人蒙昧以求得生活，或许是什么都安排好了 我都知道我以后的命运了 还有一条是读不是本专业的硕士 以后找工作 我不知道以后的命运 从现在来看，硕士的实验条件和我们学校硕士专业在全国排名都不是很前 而我读的博士专业排名和实验经费都很好 
+        我不知道怎么样才能让自己不后悔

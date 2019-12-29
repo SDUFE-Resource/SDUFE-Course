@@ -1,0 +1,30 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <rao@ccert.edu.cn>; Fri, 19 Aug 2005 16:59:26 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <rao@ccert.edu.cn>; Fri, 19 Aug 2005 17:12:28 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Fri, 19 Aug 2005 17:35:56 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: hou@126.com
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/rsrvD97DXQkbU9cO01eLR+Q==?=
+Date: Fri, 19 Aug 2005 17:07:10 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+我觉得你说的可能有点道理吧,其实从一开始我就有很多地方都很郁闷,比如他刚追我约我出去玩,门票加吃饭一共只有不到五十块钱,但是他都是和我AA的,在后面的很长一段时间,我们去超市买东西,无论是多便宜的东西我们都是各付各的,过圣诞节时，他把以前买给他妈妈的一套化妆品送给了我，说是他让他同学专门从韩国给我带回来的（为这件事我们吵了两次，每次他都认为我在无理取闹，到现在我的心里也接受不了），这些事情始终都在我心里面留下了阴影,始终觉得他不是一个大方的人,也始终让我怀疑他是不是足够爱我。
+     未必是小气。
+     如果他平时不肯掏钱吃饭、不肯为楼主买东西，那他就是小气。
+     如果他是一放假就回家，在家人面前不敢提GF，家里人说话言听计从，那就是心理上没断奶。

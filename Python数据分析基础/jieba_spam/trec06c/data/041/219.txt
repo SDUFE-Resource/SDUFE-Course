@@ -1,0 +1,23 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <ling@ccert.edu.cn>; Fri, 26 Aug 2005 03:49:10 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 04:07:30 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 04:07:30 +0800
+Date: Fri, 26 Aug 2005 04:07:30 +0800
+From: yang@cernet.com
+Subject: =?gb2312?B?UmU6IMvEwfm8ttakyum2qsHLo6zU9cO0sOzWpMP3xNijvw==?=
+To: ling@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+我的学士学位和硕士学位证书幸亏没丢,这是不是能证明我至少过了四级(过四级才给学位证在我们学校)? 是不是所有学校都要求学士学位过四级呢?
+     好像办不了证明了，:(。
+     “证书遗失只能补证明。凡参加2002年1月至2005年1月各次考试的考生，如证书遗失，则只能补发成绩证明。需要补发成绩证明的考生，须凭学籍所在院校教务处出具的证明和身份证复印件，向考试委员会办公室提出申请。经核实后，补发“CET考试成绩证明”，不再补发证书。如考

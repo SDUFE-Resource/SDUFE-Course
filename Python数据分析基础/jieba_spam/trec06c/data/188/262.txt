@@ -1,0 +1,18 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <ou@ccert.edu.cn>; Mon, 26 Sep 2005 20:06:47 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Mon, 26 Sep 2005 20:10:05 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 12:10:03 UT
+To: ou@ccert.edu.cn
+From: hou@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMWu09HBs8nPtcS2uba51L3AtNS9tuDBy6OsztK4w8XXxvrL/cLwo78=?=
+
+为你女友

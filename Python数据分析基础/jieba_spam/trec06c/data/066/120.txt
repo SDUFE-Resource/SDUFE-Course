@@ -1,0 +1,24 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <lu@ccert.edu.cn>; Thu, 1 Sep 2005 18:06:50 +0800 (CST)
+Received: (qmail 18809 invoked from network); Thu, 1 Sep 2005 10:18:33 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 10:18:33 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "li" <li@jdl.ac.cn>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgobDWsNK1uKi1vKGxvbLX+dDFz6KjraOttPPRp8n6tLTStc/WyrW31s72oaM=?=
+Date: Thu, 1 Sep 2005 18:20:51 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+你了解创业吗？－－实践创意，成就未来
+你想创业吗？－－海阔天高，大有可为
+你知道怎样创业吗？－－设定目标，享受成功
+在创业中职业，为职业而创业

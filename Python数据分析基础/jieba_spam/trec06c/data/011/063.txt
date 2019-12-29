@@ -1,0 +1,26 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <yun@ccert.edu.cn>; Fri, 19 Aug 2005 09:29:47 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <yun@ccert.edu.cn>; Fri, 19 Aug 2005 09:42:51 +0800 (CST)
+Date: Fri, 19 Aug 2005 09:37:08 +0800
+From: "peng" <peng@sohu.com>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsrLrcHLveLOosjt0cfW3tHQvr/Uur7fzOXH6b/2o78=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+据说ms研究院根其它研究院不一样，
+博士去了先要做两年博后，
+然后根据你的情况再决定是否留下做研究员，
+所以比较bt，
+可能你被淘汰了就很难再去其它研究院了，
+不过待遇倒是不错，
+看个人的承受能力了
+     博士毕业如果进去，会是什么工作条件和待遇，工作压力强度如何？以后的发展机会多吗？
+     谁如果了解，请不吝赐教，越详细越好，多谢！
+     也可邮件联系：shjiang@xinhuanet.com

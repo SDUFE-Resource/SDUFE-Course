@@ -1,0 +1,38 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <gan@ccert.edu.cn>; Wed, 21 Sep 2005 04:19:28 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 20:30:29 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 20:30:29 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <gan@ccert.edu.cn>; Tue, 20 Sep 2005 13:41:26 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <gan@ccert.edu.cn>; Tue, 20 Sep 2005 15:38:52 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Wed, 21 Sep 2005 04:30:16 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <bi@motorola.com>
+To: gan@ccert.edu.cn
+Cc: you@ccert.edu.cn
+Subject: =?gb2312?B?ofEg17zC6MLo1/i3ybv6sdixuCjXqsz5o6k=?=
+Date: Wed, 21 Sep 2005 04:29:50 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+准妈妈坐飞机必备
+如果你怀了孕，如果工作需要或外出旅游你乘飞机，那么一定要按照下面的提示去做： 
+1、零食是不能少的，尤其是在做长途飞行时。还要确定飞机上是否提供膳食，为了防止没有可口的食物，可以自己带一些，例如面包、水果、牛奶、饼干和坚果等。 
+2、要求一个紧邻过道或走廊的座位，方便你经常站起来走动，每隔半小时在过道里走一个来回，或去一趟洗手间，这样可以有效地改善下肢血液循环。 
+3、飞行之前，多喝一些水或流质的食物，防止脱水。 
+4、孕期很多准妈妈都会背痛，上飞机的时候避免随身携带过重的行李，以免加剧背部的疼痛。
+ http://www.yejk.com/htm/yeht/hqzb/2004329C11252.html
+     当然有了。不过应该是安全的，否则应该有警告标志。

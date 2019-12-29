@@ -1,0 +1,46 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AD9Mx3029876
+	for <tian@ccert.edu.cn>; Sun, 11 Sep 2005 10:53:24 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6dUu093533
+	for <tian@ccert.edu.cn>; Sun, 11 Sep 2005 10:50:55 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bluebox.CS.Princeton.EDU (bluebox.CS.Princeton.EDU
+	[128.112.136.38])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6ZAN093529
+	for <tian@ccert.edu.cn>; Sun, 11 Sep 2005 10:50:38 +0800 (CST)
+	(envelope-from wangyi@ns.6test.edu.cn)
+Received: from [140.180.169.187] (yiwang.student.Princeton.EDU
+	[140.180.169.187]) (authenticated bits=0)
+	by bluebox.CS.Princeton.EDU (8.12.11/8.12.11) with ESMTP id
+	j8ADL2a8029505
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <tian@ccert.edu.cn>; Sat, 10 Sep 2005 23:05:05 -0400 (EDT)
+Message-ID: <4322DDBC.1080807@ns.6test.edu.cn>
+Date: Sat, 10 Sep 2005 23:05:02 -0400
+From: Yi Wang <he@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+MIME-Version: 1.0
+To: tian@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?vczKpr3av+zA1g==?=
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 mlx=-1
+	adultscore=0 adjust=0 reason=safe engine=3.0.0-05090301
+	definitions=3.0.0-05090911
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+我门都是北京一所部署重点院校的学生，本人是第一次谈朋友，她在我之前已经有了不知道多少个。几个月之后，她提出分手，没有理由。之前疯狂的我已经把所有能给她的都给了。暑假的时候为了给她弄做人流（现在我怀疑北做掉的是不是我的孩子）的钱，出去做兼职时她回家跟别人了。而我在河南辛苦工作一天只能睡不到4小时，最后发现河南的那帮人是骗子，给了一点钱然后找打手把我们（同去的有北京几所知名高校的硕士和博士）赶走。8月份的时候我提出去她家里看她，她死活不肯。9月份返校后依然坚持分手，后来就出现了标题所说的事情。
+注：由于她有很多妇科病，所以人流之前要做治疗，以及人流方式的原因，前后所用的钱有几千。手术是在六月份做的。

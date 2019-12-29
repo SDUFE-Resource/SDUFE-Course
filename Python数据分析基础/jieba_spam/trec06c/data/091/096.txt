@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85Brq7S017804
+	for <bi@ccert.edu.cn>; Tue, 6 Sep 2005 04:55:43 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j85C6Fu5015902
+	for <bi@ccert.edu.cn>; Tue, 6 Sep 2005 05:08:06 +0800 (CST)
+Message-Id: <200509051206.j85C6Fu5015902@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 20:54:32 -0000
+From: "lian" <lian@mail.tsinghua.edu.cn>
+To: bi@ccert.edu.cn
+Cc: <ou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+W7qrTz0acyMDA1LTIwMDbH77y+0afG2tHQvr/J+tGhv87KsbzktcTNqNaqKHp6KQ==?=
+Date: Tue, 6 Sep 2005 05:07:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5B255.40DC4970"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWyEjKLgqxyovE3TYCvYclclUUw1Q==
+
+2005-2006秋季学期研究生选课时间的通知
+正选时间（含2005级新生）：
+2005年9月9日(星期五)上午8：00～9月12日(星期一)下午16：00
+其中：11日下午14：00～11日下午18：00。网上选课暂停，计算机系统对需要抽签的
+课程进行后台自动抽签。
+补退选时间（重修（考）网上选课时间）：
+2005年9月16日(星期五)上午8：00～9月19日(星期一)下午16：00。
+最后一天上午8：00至下午16：00只允许选课，不可退课。
+注册中心
+2005年9月5日

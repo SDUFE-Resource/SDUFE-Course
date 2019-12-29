@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <bi@ccert.edu.cn>; Mon, 22 Aug 2005 01:39:19 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <bi@ccert.edu.cn>; Mon, 22 Aug 2005 01:52:37 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 17:47:14 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "yun" <yun@mail.tsinghua.edu.cn>
+To: bi@ccert.edu.cn
+Cc: "tunet" <yun@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INDC0Mu437/GvLzP7sS/1dDEvMq1z7DJ+g==?=
+Date: Mon, 22 Aug 2005 01:49:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    我靠，只有傻瓜才会去！
+ 
+     本公司为由归国留学精英人员和国内跨国公司出来的人员共同创办的高科技企业，现正另行组织实施一个高科技技术产品的产业化项目，因为处在初创阶段，考虑招募实习生参与。
+     我们提供独当一面和资深经验人士指点相结合的实习机会，通过实习，你可以收获跨国公司实习项目中一般情况下不具备的，可以独当一面承担专门及相关综合事项，挑战自己，做出一流职业水准成果的成长经验。
+     考虑该项目处在初创阶段的各种因素，我们不提供实习工资或补贴，我们承诺提供上述独到的职业经验积累的机会。

@@ -1,0 +1,39 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <yang@ccert.edu.cn>; Sun, 21 Aug 2005 22:31:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <yang@ccert.edu.cn>; Sun, 21 Aug 2005 22:45:16 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 14:39:53 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "zhu" <zhu@mail.tsinghua.edu.cn>
+To: yang@ccert.edu.cn
+Cc: "tunet" <wang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuDrP7sS/vq3A7db6wO0=?=
+Date: Sun, 21 Aug 2005 22:41:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+北京绿色谷环境科技开发公司
+致力于环保能源领域的先进技术的引进和实施；
+开展资源领域的技术咨询、信息交流；
+承担节能、环保和资源综合利用等方面的工程项目。
+因工作需要，现招聘一名项目经理助理.
+要    求:1、男性
+         2、大学本科及以上学历，制冷、低温专业
+         3、有一定的试验、动手能力
+         4、善于沟通
+         5、熟练掌握计算机绘图
+     
+办公地点：北京市通州区滨河路108号  （产品试验阶段以该地点为主）
+          北京市朝阳区西坝河南路3号
+联系方式：zhl@geet.com.cn
+          lvsegu@vip.sohu.net
+联系电话：010-64466083（张先生）

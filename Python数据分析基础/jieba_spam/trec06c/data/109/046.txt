@@ -1,0 +1,30 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <xia@ccert.edu.cn>; Sat, 10 Sep 2005 03:01:48 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Sat, 10 Sep 2005 03:19:48 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Sat, 10 Sep 2005 03:19:47 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "lian" <lian@mail.csu.edu.cn>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INbQv8bUurXnuaTL+bu5yse158Gmv8bRp9S6o78=?=
+Date: Sat, 10 Sep 2005 03:01:14 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+电工所的电工理论比较强 复试分数330 招生大约50人
+现在电工所的电力系统不招生了（2005年如此）
+电力研究院招生人数太少 那么多的所只招18个人 分数也330左右
+而且毕业后需要在里面工作 现在搞电力是很好的 不错据说它比较喜欢搞过实践和工程的人员
+两个都不错 看你喜欢什么方面了
+     电气的考中科院电工所或者电力科学院的电力系统或者电力电子。
+     两者都不熟悉，前人指点一下。电力科学院是定向的？哪个教好一些？
+     谢谢。

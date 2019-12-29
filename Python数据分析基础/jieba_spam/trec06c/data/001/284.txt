@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <xu@ccert.edu.cn>; Mon, 15 Aug 2005 04:10:46 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <xu@ccert.edu.cn>; Mon, 15 Aug 2005 04:24:17 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 04:19:12 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 04:19:12 +0800
+From: sun@mail.tsinghua.edu.cn
+To: xu@ccert.edu.cn
+Date: Mon, 15 Aug 2005 04:19:12 +0800
+Reply-To: sun@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgxOPT0LS00rW1xL6ryfHC8KO/dG9uZ3RvbmcuY29t1f3U2tXQxrijusjtvP6/qreio6zN+NKz
+seCzzLo=?=
+Content-Type: text/plain
+
+www.tongtong.com
+你有没有能力面对创业的挑战？本公司是外国留学生在中国创办的网络公司,办公地点在知春路城铁附近。
+团队年轻，但我们已做好了一切前期准备,拿到了风险投资,期待你携带着你的创业精神和无穷的创造力加入我们的团队。 
+你会在一个多文化,中英双语的优越办公环境里成长。
+虽然我们创业公司处于起步阶段，但你可以发挥出在大公司里难得的创造力;你拥有更多的自主权。
+你的责任范围会超过中大型公司分给你的工作内容。
+Are you up for the challenge of entrepreneurship?  Ever wanted to be part of a high 
+potential startup company?  "Hard at play, not hard at work", sounds appealing?  Join a
+dynamic internet startup, located in ZhongGuanCun, Beijing.  Our lively members are from 
+America, China, Hong Kong and England;  we foster a multilingual, multicultural work 
+enviornment.  We are looking for energetic and creative people who have the spirit to build 
+a company from the ground up with us. 
+Your responsibilities will extend far beyond the traditional job description boundaries.
+You will be involved in every aspect of the startup process. Interested? 
+现在需要（全职或兼职均可）:
+两位软件开发和网页编程师 (Software engineer, Web Programmer)
+一位美术设计师 (Graphics designer, Web Designer)
+若想更详细了解请访问: www.tongtong.com
+jobs@tongtong.com

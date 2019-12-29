@@ -1,0 +1,33 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <qing@ccert.edu.cn>; Sun, 2 Oct 2005 07:52:15 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sun, 2 Oct 2005 00:03:11 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sun, 2 Oct 2005 00:03:11 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <qing@ccert.edu.cn>; Sat, 1 Oct 2005 17:24:50 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <qing@ccert.edu.cn>; Sat, 1 Oct 2005 19:09:43 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sun, 2 Oct 2005 08:03:06 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <che@motorola.com>
+To: qing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SuMO4+sv7t9bK1sO0?=
+Date: Sun, 2 Oct 2005 08:03:04 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+     既然早就这样为什么等到现在才想起分手？
+     你自己付出的越是多，越是不想分手，分开也就越是痛苦。
+     早早察觉这种苗头不对，可以坦诚的谈一次，如果不管用的话，尽早分手，在交朋友时就这样辛苦，以后还能有什么好日子过呀
+记得以前经常会看到一些励志的书说，如果想要别人怎么对你一定要怎么对他，而且我一直相信男人是需要培养的，象小孩子一样，所以我以为如果我对他很好很好，他一定也会对我很好很好。以前和他同学聊天的时候，他同学也会说他似乎以前挺自私的，只管自己其他什么都不管，认识我之后好了很多，我当时不知道是应该欣慰还是怎样，心里有点高兴又有些担心。

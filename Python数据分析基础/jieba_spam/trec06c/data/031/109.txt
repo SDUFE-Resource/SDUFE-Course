@@ -1,0 +1,27 @@
+Received: from aryasec.com ([218.1.92.40])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J5nswI015469
+	for <wei@ccert.edu.cn>; Tue, 23 Aug 2005 21:29:51 +0800 (CST)
+Message-ID: <200508191349.j7J5nswI015469@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?sLLR1NfJ0a8=?= <hua@aryasec.com>
+Subject: =?gb2312?B?ofEgVGV4YXMgQSZNIFVuaXZlcnNpdHkgUHJvZmVzc29yILzN0OPIq9PaONTCMjTI1c/Czue9stf5
+ICjXqtQ=?=
+To: wei@ccert.edu.cn
+Content-Type: multipart/mixed;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";charset="GB2312"
+MIME-Version: 1.0
+Reply-To: hua@aryasec.com
+Date: Tue, 23 Aug 2005 21:46:31 +0800
+X-Priority: 2
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: earthware (earthware), 信区: THUInfo
+标  题: Texas A&amp;M University Professor 纪秀全于8月24日下午讲座
+摘要和简介如下：
+Title:  A Signal Processing Approach to Fast Magnetic Resonance Imaging (MRI)
+Abstract: Magnetic resonance imaging (MRI) has become an important imaging modality for clinical diagnosis and scientific research. However, MRI is still a relatively slow technique. State-of-the-art technology is capable of acquiring 3D images from static objects and 2D images from time-varying objects. It is desirable, for a number of applications, to develop "real-time" imaging capability. In this presentation, I will discuss a signal processing approach to fast imaging based on parallel data acquisition and generalized series reconstruction. I shall describe the associated data acquisition scheme and image reconstruction algorithm, and show some examples to demonstrate the capabilities of the new approach. In addition, I will give a brief introduction to the graduate education at the Electrical Engineering Department at Texas A&amp;M University,
+Biosketch: 
+Jim Xiuquan Ji received his Bachelor degree and Master degree in Electrical Engineering from Tsinghua University in 1993 and 1997, respectively. He then moved to the US and started his PhD study at Beckman Institute at University of Illinois at Urbana-Champaign (UIUC).  In 2001, he was awarded the Sundaram Seshu Fellowship, an award given to one or two "academically outstanding students" in the ECE department of UIUC each year.  Since 2003, he has been an Assistant Professor at Electrical Engineering Department, Dwight Look College of Engineering, Texas A&amp;M University. His research interests include high-speed Magnetic Resonance Imaging (MRI) and biomedical signal and image processing. He is a member of the Phi Kappa Phi National Honor Society, IEEE Engineering in Medicine and Biology, and International Society of Magnetic Resonance in Medicine.
+时间：2005年8月24日，下午2：30，星期三
+地点：电子工程系　１０区３０９（三楼）
+讲座上会介绍纪教授的研究方向并且介绍一些Ａ＆Ｍ大学的信息。纪教授是从清华毕业，然后再留学，到现在成为Ａ＆Ｍ大学教授，有着许许多多的做学生和老师的经验和感触。相信对同学们会有些帮助。

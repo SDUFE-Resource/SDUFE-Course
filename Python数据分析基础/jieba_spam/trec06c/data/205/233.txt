@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <qian@ccert.edu.cn>; Thu, 29 Sep 2005 19:59:08 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Thu, 29 Sep 2005 11:45:24 -0000
+Date: Thu, 29 Sep 2005 20:11:08 +0800
+From: "ma" <ma@mail.tsinghua.edu.cn>
+To: qian@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+读！
+以后女博士会越来越多，不算什么的，趁现在早走一步，省得以后后悔。
+       以前一直梦想自己成为一个科研工作者 但当大学将近毕业 我迷茫了 现在有两个选折读博以后可能博士后在国外回来可以做大学老师，可是我不太想做老师 但是这是很多人蒙昧以求得生活，或许是什么都安排好了 我都知道我以后的命运了 还有一条是读不是本专业的硕士 以后找工作 我不知道以后的命运 从现在来看，硕士的实验条件和我们学校硕士专业在全国排名都不是很前 而我读的博士专业排名和实验经费都很好 
+        我不知道怎么样才能让自己不后悔

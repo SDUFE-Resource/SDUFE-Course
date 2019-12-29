@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <sun@ccert.edu.cn>; Sun, 25 Sep 2005 23:58:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <sun@ccert.edu.cn>; Mon, 26 Sep 2005 00:09:25 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 15:46:25 -0000
+From: "ma" <ma@mail.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Cc: <wei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXiz8K6w8HLo6yws8Lous2ws21tzqq94bvptcTKwsfpxNbG8MC0wcuho9fysOyjvw==?=
+Date: Mon, 26 Sep 2005 00:09:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+天下难以理解的事情太多了，什么时候结婚应该是自己去和老妈说吧，还有未来儿媳妇和婆婆直接交流的？还没结婚就因为要几个孩子婆媳问题了，不值得啊不值得
+     周末回家吃饭，mm和老妈就商量起结婚的事情 ，本来打算过两年稳定点再说的。
+     结果说着说着大家就语气不对了。
+     先说一下前后经过，mm的意见是如果要现在结婚，肯定要贷款买房子，在不要双方父母钱的情况下。

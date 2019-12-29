@@ -1,0 +1,76 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82FLbGe032642
+	for <gan@ccert.edu.cn>; Fri, 2 Sep 2005 23:03:32 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FJdh8031910
+	for <gan@ccert.edu.cn>; Fri, 2 Sep 2005 23:02:08 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j82FJK7s031906
+	for <gan@ccert.edu.cn>; Fri, 2 Sep 2005 23:01:30 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Fri, 2 Sep 2005 22:50:27 +0800
+Message-ID: <325673713.12029@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Fri, 2 Sep 2005 22:50:26 +0800
+From: bi@mails.tsinghua.edu.cn
+To: gan@ccert.edu.cn
+Date: Fri, 2 Sep 2005 22:50:26 +0800
+X-Priority: 3
+Content-Type: text/plain
+Subject: =?gb2312?B?ofEgudjT2qGwzqK159fTy/mhsbXEyPS4yc7KzOKjrM7SwLSzzsfl0rvPwrDJ?=
+Precedence: list
+Reply-To: bi@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+历年都有人在这个问题上面搞不清楚，
+我来说一下05年的情况吧，
+希望能对大家有帮助。
+微电子所招收工学硕士和工程硕士，
+工学硕士的招收和其他院系所是一样的，
+而工程硕士（IC设计）则和软件学院意思差不多，
+是要收费的。
+由于软件工程硕士和计算机系相互独立，
+而ic设计工程硕士是挂靠在微所名下的，
+并且招的人特别多（05年工程60人，工学12人不算保送），
+去年很多兄弟都有这样一种误解，
+就是认为微电子所只招工程硕士。
+其实微所下面各个专业的区别只要仔细看一下招生专业目录就一目了然了。
+微所的工硕很正规，
+同一实验室里经常会有工程和工学硕士同时在工作。
+用我们老板的话说：
+“你们和工硕的区别就是你们不交钱，他们要交钱。
+明年如果一收费，就彻底没差别了。”
+另，
+关于“微电子与纳电子学系”，
+其实它是微所进行转型的一个尝试。
+“微电子所”之所以叫“所”是因为它名义上并不招收本科生，只招研究生。
+在以前的实际操作中，
+微所和电子系的本科生都以电子系的名义统一招到清华，
+到了大三大四才分划到电子系和微电子所。
+从今年开始，微电子所开始直接招收本科生，
+“所”这个名字理论上就不再适合了，
+所以才在行政管理上另起炉灶，
+搞出来一个“微电子与纳电子学系”，
+其实是一回事儿，
+把它理解成一个人的“现用名”和“即将用名”就OK了。
+短期内，这两个名字会同时使用。
+等到时机成熟，“微电子所”这个名字将废弃不用。
+至于零六年的收费问题，
+微所下面的工学硕士和其他院系都一样（等上面通知），
+工程硕士就不用说了吧。
+hoho,
+这是所里迎新的时候听几位老教授讲的，
+大意应该就是这样把，
+希望能对大家有帮助。
+     如题

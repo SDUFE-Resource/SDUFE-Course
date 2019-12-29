@@ -1,0 +1,27 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <jian@ccert.edu.cn>; Tue, 27 Sep 2005 23:27:18 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 15:38:29 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 23:38:28 CST
+Date: Tue, 27 Sep 2005 23:38:28 +0800 (CST)
+From: liang ming <cao@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INChsb6/xlZTxa6yqcq/o6zE49S40uLRodTxxMTOu6O/?=
+To: jian@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+这个评价比较中肯，lz走的是这么一个生活轨迹，没必要就觉得这是个公理
+不读到博士，怎么知道博士的艰辛
+本科有本科的幸福，博士有博士的幸福，同样的一点是需要遇对了人
+我周围有本科vs博士的，有硕士vs博士的，也有两个博士的，模式不一样，但是都很幸福
+也都经历过坎坷，关键是心态要放正，别人的东西套自己头上不一定合适
+     既然女性甘愿把自己放在这样的地位上为他付出,旁人也无法再说什么.
+     或许部分女博士就是因为不愿如此才会不讨大多数男人喜欢.
+     人际交往通常不是问题,问题是谁在哪方面做出更大的让步.

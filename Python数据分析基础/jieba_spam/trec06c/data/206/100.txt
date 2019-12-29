@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFG0025934
+	for <wen@ccert.edu.cn>; Thu, 29 Sep 2005 22:17:58 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Thu, 29 Sep 2005 14:03:32 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "bi" <bi@mail.tsinghua.edu.cn>
+To: wen@ccert.edu.cn
+Cc: "Duan Haixin" <cao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+Date: Thu, 29 Sep 2005 22:28:49 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+听MP3不？看片儿不？
+坚持使用盗版，拖垮美国软件业！
+坚决免费看片，累倒日本制片商！
+     你小胆子真大，敢网上吹牛阿。
+     不过我很同情你，因为我知道从不认真使用计算机和软件，同时又买不起软件的人的衰样。
+     这样吧，我的电脑里全是有合法版权的软件，我允许你虔诚的提几个问题来考考我如何完成你认为必须由“盗版”软件才能完成的事。哦，对了，我的桌面用的当然是linux，我的电脑是联想预装的oem版windows xp home，虽然我从来不用，但我也没删掉。

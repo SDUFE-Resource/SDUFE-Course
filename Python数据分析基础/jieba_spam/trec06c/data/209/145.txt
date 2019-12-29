@@ -1,0 +1,53 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8SBi0E8029027
+	for <lin@ccert.edu.cn>; Fri, 30 Sep 2005 14:00:45 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SBtAlB017695
+	for <lin@ccert.edu.cn>; Fri, 30 Sep 2005 14:11:55 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 30 Sep 2005 05:46:11 -0000
+Message-ID: <000c01c5c423$728140e0$0c42423b@tunoc1a645037e>
+From: "shen" <shen@mail.tsinghua.edu.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?ofEgudjT2s312/PNy9GnyerH67XE0rvQqb+0t6g=?=
+Date: Fri, 30 Sep 2005 14:11:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C466.808A4220"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+ 这两天忙着写论文，一直没有时间看这个长篇，看着大家讨论觉得摸不着头脑。今天
+ 终于看了，有几点意见（我有意见总是发在水母，不太擅长用web，mit那边总感觉有
+ 些怪怪的）：
+ 【王】：两度退学失败
+ 【意见】：我觉得这个时候恐怕就有必要看看心理医生了。一般人恐怕不会那么容易
+ 被挫折打倒（当然，清华一以前每年还是有一些做自由落体运动的，不过这些年不太
+ 听说了）。其实看心理医生没有那么可怕，我们这里三次考驾照不过就得看。
+ 【王】：在Sun工作站上安装GNU而被师兄嘲笑
+ 【意见】：这个似乎不太符合我在清华八年的经验，那个时候大家都笑话用windows，
+ 而用linux的都被看作高手。更不用说用tex、latex写文章的了。有人说清华博士不如
+ 硕士，硕士不如本科，我不想做评论，但王的经历似乎在证明这一点。
+ 【王】：我想多选几门课，比如法语
+ 【意见】：惭愧惭愧，我在法语国家待了五年，还只有最基本的法语知识。王在这点
+ 上远胜于我。
+ 【王】：想跟师兄师姐讨论
+ 【意见】：有点儿奇怪为什么这个也要经导师批准。另外，国外的确有不少讨论，但
+ 是很多人也非常保守自己的那点儿idea。除非你跟大牛或者合作作者讨论，否则要想
+ 得到王所想要的东西恐怕很难。
+ 【王】：Jean-Claude说Tsinghua students are all writers, not scientists
+ 【意见】：实在不敢苟同。我阅过一些从国内出来的文章（包括母校），一般一两段
+ 之后就可以找到语法错误。但实际上国内文章不少还是很有新意的。所以上面的评论
+ 似乎应该倒过来。以我的经验，国内很多文章被拒都是因为写作差。
+ 【王】：醒悟，paper的奥秘
+ 【意见】：好象什么发现似的，其实paper在全世界都是这样的。君不见美国大学的
+ 年轻教授为了得到终身职位而狂发paper的“壮举”（有位华裔的教授公然在网页上
+ 要求申请他的学生每周工作50多个小时，我老板认为这是违法，后来那位教授也许
+ 意识到这一点，更新网页是把那个要求删掉了）。
+ 【王】：游西藏的照片
+ 【意见】：一个字：美。自从八年前看过同屋从西藏拍摄的羊卓庸错湖后，又一次在
+ 这个看到她的倩影。想起来觉得惭愧，祖国的壮美河山都没有走过几里，现在满眼就
+ 是很俗的日内瓦湖。
+ 嗯，不说了，回去写论文。 

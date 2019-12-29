@@ -1,0 +1,36 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <che@ccert.edu.cn>; Fri, 19 Aug 2005 07:25:04 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <che@ccert.edu.cn>; Fri, 19 Aug 2005 07:38:08 +0800 (CST)
+Date: Fri, 19 Aug 2005 07:32:25 +0800
+From: "han" <han@sohu.com>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?ofEgudjT2rPJwaLH5buqtPPRp7Gjs9a5srL6tbPUsc/IvfjQ1L3M0/277ravwey1vNCh1+m8sLDs
+uavK0rU=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+关于成立清华大学保持共产党员先进性教育活动
+领导小组及办公室的通知  
+各单位：
+　　按照中央和北京市委的要求，经2005年7月14日校党委常委会讨论通过，决定成立清华大学保持共产党员先进性教育活动领导小组和办公室，负责我校保持共产党员先进性教育活动的组织领导和具体实施。具体名单如下：
+　　1．清华大学保持共产党员先进性教育活动领导小组名单
+　　　组 长：陈 希
+　　　副组长：顾秉林 庄丽君 张再兴 杨振斌 孙道祥
+　　　成 员：陈 旭 韩景阳 白永毅 邓 卫
+　　2．清华大学保持共产党员先进性教育活动领导小组办公室名单
+　　　主 任：庄丽君
+　　　副主任：陈 旭 韩景阳 白永毅 邓 卫
+　　　成 员：唐 杰 邱显清 李一兵 刘裕品 李先耀
+　　　孙茂新 赵庆刚
+特此通知。
+　　　　　　　　　　　　清华大学保持共产党员先进性
+　　　　　　　　　　　　教育活动领导小组
+　　　　　　　　　　　　2005年8月16日
+ 
+  

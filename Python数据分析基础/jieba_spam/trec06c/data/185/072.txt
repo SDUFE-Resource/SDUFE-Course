@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <liao@ccert.edu.cn>; Sun, 25 Sep 2005 22:43:46 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <liao@ccert.edu.cn>; Sun, 25 Sep 2005 22:55:11 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 14:32:08 -0000
+From: "bai" <bai@mail.tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Cc: <qiu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM312/OjrA==?=
+Date: Sun, 25 Sep 2005 22:54:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+真要得病得话，清华肯定不会赶走人。
+     标  题: Re: 王垠， 
+     
+     扫出去,怎么又想起来了
+     还是因为Priceton的博大胸怀。
+     在他得病的时候，总有一些人对他支持，而Princeton也没有把他
+     赶走，这已经相当不错了。
+     清华能做到么
+     
+     : 你以为Nash一直被他们供着？他后来精神出了问题后，基本上在学术届就是被人扫地出门了

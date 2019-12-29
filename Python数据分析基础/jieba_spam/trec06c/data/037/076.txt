@@ -1,0 +1,39 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <mei@ccert.edu.cn>; Thu, 25 Aug 2005 07:45:05 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 07:58:12 +0800 (CST)
+Date: Thu, 25 Aug 2005 07:51:58 +0800
+From: "lai" <lai@sohu.com>
+To: mei@ccert.edu.cn
+Cc: "yxl" <che@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuCBwb3O/qreiyMvUsQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+任职资格：
+e_mail:kouzhl@xbell.com.cn   gigi_kou@yahoo.com.cn
+1、熟悉c语言，有IC卡系统及银行系统开发工作经验；
+&amp;#61548;
+2、熟悉ARM,pboc标准，8583报文协议；
+&amp;#61548;
+3、熟悉Unix、Linux操作系统，并对Linux的运行机制有一定的了解；
+&amp;#61548;
+4、熟悉通信编程、深入了解网络协议；
+&amp;#61548;
+5、有丰富的基于Linux的C实际开发经验；
+&amp;#61548;
+6、有两年以上的实际金融终端支付POS系统开发经验；
+&amp;#61548;
+7、有GSM和CDMA相关开发经验者优先；
+&amp;#61548;
+8、对嵌入式系统开发有一定的了解。
+&amp;#61548;
+9、熟悉IC卡、射频卡开发，并有一定开发经验。
+&amp;#61548;
+10、本科以上学历，计算机相关专业毕业；

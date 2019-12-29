@@ -1,0 +1,27 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <zeng@ccert.edu.cn>; Sat, 27 Aug 2005 16:18:34 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 16:29:07 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sat, 27 Aug 2005 16:29:07 +0800
+From: "zhou" <zhou@ctbu.edu.cn>
+To: zeng@ccert.edu.cn
+Date: Sat, 27 Aug 2005 16:29:07 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "zhou" <zhou@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM6iyO3A79PQw7vT0LjjSmF2YbXEo78=?=
+Content-Type: text/plain
+
+关键这种潜质有时候是磨炼出来的。
+     标  题: Re: 微软里有没有搞Java的？
+     
+     这个。。如果你有成为一个计算机方面的高手的潜质，而又五音不全的话，相信你也不会往唱歌方面发展吧？
+     呵呵，认清自己何尝不是一种高手的基本素质。
+     : 那只能叫有高手潜质
+     : 而且不同行业也不一样的，java高手和唱歌高手，需要的素质完全不同吧
+     
+     
+     --
+     

@@ -1,0 +1,26 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <zhou@ccert.edu.cn>; Sun, 28 Aug 2005 09:22:27 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 09:33:00 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sun, 28 Aug 2005 09:33:00 +0800
+From: "guo" <guo@ctbu.edu.cn>
+To: zhou@ccert.edu.cn
+Date: Sun, 28 Aug 2005 09:33:00 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "guo" <guo@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEguf638LTz0afSvdGn1LrJ+s7v0MXPotGnyrXR6crS1dDGuLKpyr+687rN1vrA7dHQvr/UsQ==?=
+Content-Type: text/plain
+
+Postdoctoral and Research Associate Positions in Computational Bio-imaging Informatics
+We seek outstanding candidates for postdoctoral research and research associate positions in a NIH granted computational bio-imaging informatics project. The candidates are expected to have a strong background on imaging processing, signal processing and data modeling. The candidates must be a team player with extensive knowledge in bioinformatics and computational biology; good understanding of light or optical microscopy imaging techniques is a plus. Research involves bioinformatics, high throughput cell imaging, and in vivo molecular imaging. The successful candidates are expected to work at Harvard University for three years.
+Please send c.v. and references to: 
+Dr. Xiaobo Zhou 
+HCNR Center for Bioinformatics, Harvard Medical School 
+Brigham and Women\'s Hospital/Harvard Medical School 
+1249 Boylston Street, 
+Boston, MA 02215 USA 
+or Email: zhou@crystal.harvard.edu
+Tel: 617-525-6249, Fax: 617-525-6250 

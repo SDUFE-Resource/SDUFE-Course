@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <gong@ccert.edu.cn>; Sat, 24 Sep 2005 12:59:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <gong@ccert.edu.cn>; Sat, 24 Sep 2005 13:10:33 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 04:48:05 -0000
+From: "wang" <wang@mail.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Cc: <ning@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgwe3Su7j2yMu1xLPosK6/ydLUyMPO0s38tfS5/c35wvCjvw==?=
+Date: Sat, 24 Sep 2005 13:10:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+   说不上很爱他，但是爱极了和他在一起的感觉，但是却苦了自己，他待我好，并不能说明什么，而我早已深陷。
+   想摆脱，却无力……
+   而另一个人，却对我宠爱有加，但是，也只是宠爱，他也并不明白那是不是爱情。
+   很明白，自己不爱这个人，还是在一起了，只是为了忘记那个也许忘不了的人，只是在一起的这些日子，我的心依然不安，依然在想念曾经在一起的点滴。
+   难道，爱又是一场错？
+   我该怎么做，才能忘掉以前的种种？

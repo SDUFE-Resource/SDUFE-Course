@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j889N4UA011087
+	for <kang@ccert.edu.cn>; Sat, 10 Sep 2005 04:55:50 +0800 (CST)
+Message-ID: <200509081723.j889N4UA011087@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO b28d91f81b7b43f) (yang-w04@166.111.203.126)
+  by localhost with SMTP; Fri, 9 Sep 2005 20:42:50 -0000
+From: "shen" <shen@mails.tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXm1f21xNGhv865pcLUo6E=?=
+Date: Sat, 10 Sep 2005 05:10:34 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+In-Reply-To: <000601c5af76$5ea858e0$c0cb6fa6@BAMBOOIBM>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvd6cjZMf6CDhmRji9RlY4vJqTKQE38gdA
+
+try~~~
+一般两三次就能进入了
+在选课的时候还会出现这个问题，不用理，刷个两三遍就能正常
+     Database Log In Failed 
+     TNS is unable to connect to destination. Invalid TNS address supplied or destination is not listening. This error can also occur because of underlying network transport problems. 
+     Verify that the TNS name in the connectstring entry of the DAD for this URL is valid and the database listener is running. 

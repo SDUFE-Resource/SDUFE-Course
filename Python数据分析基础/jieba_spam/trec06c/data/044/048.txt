@@ -1,0 +1,27 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <ye@ccert.edu.cn>; Fri, 26 Aug 2005 14:12:18 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 14:30:38 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 14:30:38 +0800
+Date: Fri, 26 Aug 2005 14:30:38 +0800
+From: ni@cernet.com
+Subject: =?gb2312?B?ofEgwfTQo6Ooy/mjqdKquPq088DPsOU=?=
+To: ye@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+其实选择很简单，选择课题多的大老板，留就留在大老板身边，小老板就不要考虑了:现
+在中国搞科研上面要有人扶持着才能发展，课题也好拉，工资拿得也不少。在大老板下
+干活，因为课题多，光课题提成至少占基本工资的2/3强。相反，跟小老板因为课题少而
+且资金也不多，那基本上只能靠基本工资过活了。当然有人说不能光看钱，要看发展前
+途。刚出道的人，如果上面没有名气大一点的合作人支持着，拉课题的难度可想而知。
+如果进可能连个小老板都没有（自己单干）的高校，就更不要说了。没有钱就没有搞科
+研的资本。这样循环几年，青春一去，再想跟上时代就来不及了。

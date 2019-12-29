@@ -1,0 +1,35 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <che@ccert.edu.cn>; Mon, 19 Sep 2005 14:05:53 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Mon, 19 Sep 2005 06:16:54 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Mon, 19 Sep 2005 06:16:54 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <che@ccert.edu.cn>; Sun, 18 Sep 2005 23:27:51 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <che@ccert.edu.cn>; Mon, 19 Sep 2005 01:25:17 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 14:16:41 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <cai@motorola.com>
+To: che@ccert.edu.cn
+Cc: he@ccert.edu.cn
+Subject: =?gb2312?B?ofEgveG76TLW3MTqvMc=?=
+Date: Mon, 19 Sep 2005 14:16:15 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+不知不觉结婚2 年啦，2年前的今天俺还是娇艳如花（嘿嘿，喝了半瓶冰酒的效果），现在都是黄脸婆孩她妈啦
+本来想写下这2年来的点点滴滴，让自己感动一把，不小心嫁给了这么好的老公。后来想想算啦，世界上所有的好老公都是一样的。
+水木也是我们的媒人呢，在这里发文小小的祝贺一下，愿天下所有的小家都和我们一样甜蜜幸福，天下所有的老公都好好的体贴老婆宠老婆，所有的老婆都理解老公心痛老公
+完毕
+秀秀我们的小结晶

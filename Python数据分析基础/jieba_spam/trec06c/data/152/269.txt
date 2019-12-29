@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ID8DYi008045
+	for <yana@ccert.edu.cn>; Sun, 18 Sep 2005 21:40:47 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8IDJqRe004245
+	for <yana@ccert.edu.cn>; Sun, 18 Sep 2005 21:52:26 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 18 Sep 2005 13:32:03 -0000
+Message-ID: <017301c5bc53$c8f1e290$787d6fa6@hotline>
+From: "ma" <ma@mail.tsinghua.edu.cn>
+To: yana@ccert.edu.cn
+Subject: =?gb2312?B?ofEgu6rOqjNDT03V0Ma4?=
+Date: Sun, 18 Sep 2005 21:53:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0170_01C5BC96.D6F872D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+职位：  IP网络测试工程师
+职责：  1）负责路由器/以太网交换机等网络设备的系统测试/软件测试，根据测试结果输出测试报告；2）负责测试用例设计和自动化脚本开发；3）负责产品的评估和验收
+要求：  1）电子类相关专业，本科以上学历；
+        2）要求有工作经验，具有嵌入式系统开发、测试经验者优先，CCNP/CCIE优先；
+        3）心态好，踏实、勤奋、专注。
+有意者请发简历到：cyc@huawei-3com.com
+另注：由于是部门内部招聘，筛选通过的简历会很快安排面试，面试时间也相对灵活；待遇可以谈。

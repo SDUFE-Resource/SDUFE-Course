@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <bai@ccert.edu.cn>; Wed, 14 Sep 2005 06:31:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <bai@ccert.edu.cn>; Wed, 14 Sep 2005 06:43:36 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 22:25:53 -0000
+From: "shen" <shen@mail.tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+Cc: <gan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILjVv7TN6qG2yq62/rrv19Ohtw==?=
+Date: Wed, 14 Sep 2005 06:43:31 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+呵呵，什么叫“都绕着这个性质打转”？象《12猴子》这样编排出“未来作用于过去，保证过去实现”情节的片子，您再举个例子出来？在我看来这也是避免时空悖论的唯一方式：假设存在独立的过去以及未来，两者互相作用，互相保证对方实现。这也意味着取消了过去与未来之间的时间性，也就是这种假设反映了哲学家们说的人类历史之“同时性”。象《蝴蝶效应》这片子，你可以有三种解读，你可以把它庸俗化成一部精神病患者妄想史，也可以用多宇宙理论解释他，还可以用时间旅行诠释；后两个无疑会产生一些复杂技术问题，如果你偏爱多宇宙理论，要解释男猪的意识是怎么把不同宇宙之间的“自我”连成一块；如果你用时间旅行来解释，务必要假设男猪角通过阅读笔记就彻底得改变了整个世界，无疑这是一种人们很难接受得“唯我论”；这两种解释得科幻点子和和12猴子的“同时性”也不是一码事，差远了
+另外，12罗汉也不新了吧
+     所有的时空类都是绕着这个性质打转，你要是拿这个当切入点还不如去看蝴蝶效应
+     至少在这部片子里时空因果这件事本身并不重要
+     重点看片子的观点认为什么因导致什么过
+     12罗汉，新片，其实11罗汉我觉得很不错的

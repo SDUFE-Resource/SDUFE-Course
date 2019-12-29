@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <yang@ccert.edu.cn>; Sun, 18 Sep 2005 21:17:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <yang@ccert.edu.cn>; Sun, 18 Sep 2005 21:29:11 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 18 Sep 2005 13:09:53 -0000
+From: "bi" <bi@mail.tsinghua.edu.cn>
+To: yang@ccert.edu.cn
+Cc: <ke@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILPUwfrR2yDU3svJyvM=?=
+Date: Sun, 18 Sep 2005 21:29:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+把题改成这个？
+     标  题: Re: 吃龙眼 赞松鼠
+     
+     吃松鼠 赞龙眼
+     
+     : 还好不是吃松鼠...
+     
+     
+     --
+       

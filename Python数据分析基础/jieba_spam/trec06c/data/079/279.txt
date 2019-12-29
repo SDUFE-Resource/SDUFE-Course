@@ -1,0 +1,43 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <you@ccert.edu.cn>; Sat, 3 Sep 2005 13:47:34 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <you@ccert.edu.cn>; Sat, 3 Sep 2005 14:00:10 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 05:48:45 -0000
+From: "kong" <kong@mail.tsinghua.edu.cn>
+To: you@ccert.edu.cn
+Cc: <cai@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+u9zNK7tcC9qNb+wabRp8zitcS94rTwICjXqtTYKQ==?=
+Date: Sat, 3 Sep 2005 14:00:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+【 以下文字转载自 SA 讨论区 】
+发信人: mrrice (终于), 信区: SA
+标  题: 请教一道建筑力学题的解答
+谢谢了。
+建筑工程上所用的梁一般是等截面梁.梁的破坏,首先发生在内力最大的截面上的应力最大处,该点称为危险点,此点应力为Q(max)=M(max)y(max)／Iz式中M(max)为危险截面上最大弯距;y(max)为危险截面上距中性轴最远的点的y坐标值.
+    为了使梁能安全使用,规定梁的最大应力不得大于材料的容许应力, 
+ (1)即 Q(max)=M(max)y(max)／Iz≤[Q]    
+    定义 Wz=Iz／y(max)为截面的抗弯截面系数,单位为m*m的平方]或m的平方.     
+ (1)式可改为(2)式    q(max)=M(max)／Wz≤［Q］          
+可称为弯曲正应力的强度条件.
+    正应力强度条件可进行三方面的强度计算:
+     1.校和梁的强度:已知荷载、截面和材料。若 Q（max）≤［Q］，则梁是安全的。
+     2.当已知梁的荷载、材料的容许应力和截面形状时，可通过 Wz计算出截面的尺寸。
+             Wz≥Mz（max）／［Q］
+     3.已知梁的截面形状、尺寸、材料的容许应力，通过计算M(max），确定梁所能承受的最大荷载
+             M（max）≤Wz［Q］
+题目大意：5cm×5cm的木方（ 内应力10mpa）， 间距 0.8m（ 支点到支点，按简支构件测算 ）。
+求:单根均布荷载最大重量。
+.
+求:组合均布荷载最大重量。1m×0.8m：长向距离每根间距0.2m{5根5cm×5cm的木方还包括 0.05m厚的板材 } 
+参考公式：Wz=b*h的平方／6
+                     

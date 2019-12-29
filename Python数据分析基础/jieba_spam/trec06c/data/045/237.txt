@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <gu@ccert.edu.cn>; Fri, 26 Aug 2005 22:31:57 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Fri, 26 Aug 2005 14:21:32 -0000
+From: "yu" <yu@mails.tsinghua.edu.cn>
+To: gu@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 22:45:14 +0800
+
+ From the expressions for the trajectories of A and B derived in the previous section, we can obtain the following .....
+:The expressions for the trajectories of A and B have been obtained,
+:from which we derived that ......
+:1。后半句的定语从句我想修饰主句中的主语the expressions，不知道这样
+:用对不对。是否会产生歧义，让人误解成定语从句是修饰主句中的“B”
+:的
+:2。定语从句修饰的是主句中的主语（因为主句是一个被动语态），这样
+:定语从句与被他修饰的词没有紧挨在一次，这样用对吗？
+:请大家帮忙看看，非常感谢！在线等

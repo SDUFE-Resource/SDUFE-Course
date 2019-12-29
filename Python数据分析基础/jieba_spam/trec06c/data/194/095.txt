@@ -1,0 +1,21 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <qiu@ccert.edu.cn>; Tue, 27 Sep 2005 21:27:21 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 13:38:28 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 21:38:28 CST
+Date: Tue, 27 Sep 2005 21:38:28 +0800 (CST)
+From: liang ming <wu@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILWxsK7H6brNuaTX973K1NrSu8bwo6E=?=
+To: qiu@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+有一次老板让我用他的电脑，无意中看到了他写的回忆大学生活的文章，“也曾光着脚站在雪地里乞求女孩的原谅；也曾在健身房里边做器械边苦背GRE单词”看到这些话的时候，好感动啊！觉得他是个有真感情的人。
+     能吸引搂住的老板显然不是这种STYLE，还是细水长流，循循善诱，慢慢表达最好，另外楼主业要有判断，这种人，对一般女生的表现应该非常清楚的，所以你表现地合适的时候，他就应该知道你的意图了，如果他没有爱情上的回应，我看没有什么戏，这个时候你还想争取一把，就只有把工作丢了，摊牌了去追，不过效果应该也不好的。
+     还有一个办法就是找一个BF，刺激一下

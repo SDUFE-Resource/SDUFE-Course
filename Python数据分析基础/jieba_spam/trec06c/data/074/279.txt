@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <hou@ccert.edu.cn>; Fri, 2 Sep 2005 22:33:27 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <hou@ccert.edu.cn>; Fri, 2 Sep 2005 22:46:03 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 14:34:38 -0000
+From: "rao" <rao@mail.tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Cc: <zhu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILu2063RodDe0dC+v8n6v86zzKG2vK+zycz6tefRp6G3o6i/zrrFo7o4MTAyMDA5MqOp?=
+Date: Fri, 2 Sep 2005 22:45:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+        还差一门数学课 :(
+        准备高等数值分析中...
+     欢迎选修研究生课程《集成铁电学》（课号：81020092）
+     课程简介：
+         铁电材料是一类具有多种优异性能的新型电子材料，将其与微电子技术相结合，可实现多种具有重要应用价值的新型微电子器件，相关研究如铁电存储器、铁电MEMS器件等已成为当今国际学术研究热点。《集成铁电学》课程的主要内容就是铁电材料与微电子技术相集成中的关键基

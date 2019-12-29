@@ -1,0 +1,21 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <sun@ccert.edu.cn>; Fri, 19 Aug 2005 11:04:33 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <sun@ccert.edu.cn>; Fri, 19 Aug 2005 11:17:37 +0800 (CST)
+Date: Fri, 19 Aug 2005 11:11:54 +0800
+From: "lu" <lu@sohu.com>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDExyrPMw6OozNXUsKOpt/7O8cyrsu7Byw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+呵呵，我只是气愤桃园砂锅饭把以前的红烧排骨给掐掉了，红烧肉虽然还幸存，但是应该再加上一个“肥”字――红烧肥肉。为什么好吃的东西都变质了。桃园这一点做的太不地道，也太黑了。
+服务态度确实不好。
+     去11食堂吃饭，很郁闷，主要有下面几点不可忍受。
+     1. 服务态度太差了，早上、中午、晚上的服务都不好，当然也有好的，不多。
+     2. 两种不同价格的菜不能同时买，学生怎么记得住。

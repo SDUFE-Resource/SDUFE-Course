@@ -1,0 +1,41 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <tao@ccert.edu.cn>; Fri, 23 Sep 2005 09:49:03 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Fri, 23 Sep 2005 01:56:46 -0000
+From: "yi" <yi@mails.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvrTH67nY16KhsLOkt+fGxsDLobHPtcHQvbLX+bXa0rvG2iAo16rU2Ck=?=
+Date: Fri, 23 Sep 2005 10:00:42 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+【 以下文字转载自 NewExpress 讨论区 】
+发信人: sffib (微笑的飞鱼), 信区: NewExpress
+标  题: 敬请关注“长风破浪”系列讲座第一期
+发信人: sffib (微笑的飞鱼), 信区: CampusInfo
+标  题: 敬请关注“长风破浪”系列讲座第一期
+    期待已久的"长风破浪"系列讲座第一期就要开始啦！^_^
+    你是否刚刚走进软件学院，踌躇满志，准备塑造一个羽翼丰满的自我？
+    你是否已经学习了很多课程，却开始揣测是否真正掌握了社会需要的知识？
+    你是否正摩拳擦掌，为寻找理想的工作而奔波，为实现梦想而打拼？
+    由软件学院研究生会策划的"长风破浪"系列讲座第一期――IT经理人谈职业规划将给你
+一个答案！
+    本期讲座，我们请到了斯伦贝谢技术(北京)有限公司的策略顾问大野友义先生与大家
+共同探讨IT人的职业规划！
+    你在自己的职业规划方面有什么疑问？
+    你是否在考虑怎样顺利进入世界500强的跨国企业？
+    你想得到什么样的就业咨询和就业指导？
+    我们欢迎对就业感兴趣的同学们，特别是即将毕业的同学回复本贴，留下你们感兴趣的
+问题和关心的焦点，我们会予以汇总后反馈给演讲人，争取让大家都得到一个满意的答案，
+充满自信地面对即将到来的招聘高峰！
+讲座时间：2005年9月28日星期三下午2:30

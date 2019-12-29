@@ -1,0 +1,33 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <cheng@ccert.edu.cn>; Thu, 25 Aug 2005 08:29:49 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 00:19:24 -0000
+From: "yu" <yu@mails.tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 25 Aug 2005 08:43:06 +0800
+
+     新学期作息时间表：
+                     07：00 起床、洗漱、早饭
+                     08：00 - 12：00 学术科研
+re一个我的
+8：30             老板准时打宿舍电话。被吵醒，不接。
+8：50             老板准时打手机。起床，做急促装：“路上呢，马上到。”
+8：50--9：00       穿衣、洗漱、飞车
+9：00--12：20      苦力
+12：20--13：00     吃饭
+13：00--14：00     老板不在，水木
+14:00--18:30       苦力
+18：30--19：30    号称去吃饭---吃完饭
+19：30--24：00    苦力
+00：00--00：30    大家一起抱怨、号称不干了
+00：30--01：00    回寝室、走体育馆门口的大下坡（爽）。
+01：00--01：30    听寝室个们谈论超女，主要是聆听张靓颖生平、睡着。
+PS:隔3天打一次篮球、洗澡

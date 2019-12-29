@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <tian@ccert.edu.cn>; Mon, 22 Aug 2005 11:32:29 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <tian@ccert.edu.cn>; Mon, 22 Aug 2005 11:45:43 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 11:14:24 +0800
+Date: Mon, 22 Aug 2005 11:45:34 +0800
+From: "chen" <chen@wnt.com.cn>
+To: tian@ccert.edu.cn
+Cc: "lic" <ou@ccert.edu.cn>, "sunt" <zeng@ccert.edu.cn>, "caoy" <guo@ccert.edu.cn>,
+        "wangb" <ding@ccert.edu.cn>, "songhm" <jin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMflu6q1xL340N7J+qOsx+vX1NbYISE=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+第一 后勤很辛苦，尤其是基层人员，高层也要平衡各方利益，不容易，不该骂谁是朱
+第二 进修的没得治，不要和他们生气，你不爽就想办法到他们面前吊去
+第三 进修的前面不要戴着清华两个字，他们出去好多都招摇说是清华的，有些很丢人
+第四 那帮人不想你我看水母，可怜ing
+         我想，当你们踏进这块校园的时候，也是希望能够在这片校园里面培养素质，
+     提高修养的吧，那就请把自己看成一名普通学生！
+         紫荆17楼下停靠的若干辆汽车自是不提，更有甚者，开车横冲直撞，拼命按

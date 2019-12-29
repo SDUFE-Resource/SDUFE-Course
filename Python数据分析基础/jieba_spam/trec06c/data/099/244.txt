@@ -1,0 +1,27 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <gan@ccert.edu.cn>; Thu, 8 Sep 2005 01:28:34 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Wed, 7 Sep 2005 17:40:49 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Wed, 7 Sep 2005 17:40:49 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Wed, 7 Sep 2005 17:40:49 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "yun" <yun@iim.ac.cn>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?ofEg16rU2NK7uPajurnY09pJQ7+osajQ3rXE16LS4srCz+4=?=
+Date: Thu, 8 Sep 2005 01:40:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+ 各位同学，大家好，因目前同学在网络报修门禁系统的过程中（家园网站http://myhome.tsinghua.edu.cn）存在问题（维修地点选择不当），因而会造成了同学报修处理的延误，为了更快捷、更好地为同学、教师服务，有效地解决广大师生提出门禁报修问题，特别对报修单中的一些字段项填写作如下说明，以供广大师生参考。 
+     关于IC卡门禁系统、红外报警、楼宇自控、监控系统、消防系统、打铃、报警设备出现了问题（关于网络和电脑维护目前仅针对物业中心办公业务范围内的网络和电脑），广大师生可直接告诉楼长，由楼长电话、网络报修或可自行在我的家园网站上报修，但请在报修类别的“维修地点”中选择： 弱电相关系统，该项很重要，如果空着很可能会使报修单进入其他的维修部门，对维修造成了一定的延误，故该项请广大师生在报修的时候务必进行选择。 
+     其下维修项目、维修对象、维修原因和备注，广大师生可根据需要进行选择。 
+    例如24号楼400号甲同学因丢失了IC卡而无法正常进出住楼的报修，网上报修流程如下：请同学登陆http://myhome.tsinghua.edu.cn，后，点击“网络报修”后，在相应的选项内填写姓名、学号、电话、楼号以及房间号，同时在“维修地点”中选择“弱电相关系统”，在“维修项目”中选择“门禁IC卡失效报修”，在维修对象中选 择“IC卡丢失-请在备注中登记补卡日期”。 
+     在备注中，请广大师生耐心地填写 补卡的日期，2005年8月23日。 

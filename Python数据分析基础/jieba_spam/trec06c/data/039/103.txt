@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <hu@ccert.edu.cn>; Thu, 25 Aug 2005 18:10:17 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 18:28:37 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 18:28:37 +0800
+Date: Thu, 25 Aug 2005 18:28:37 +0800
+From: chi@cernet.com
+Subject: =?gb2312?B?UmU6ILjVv7TBy9Hryro2zNe1xLuqse29scK8sqU=?=
+To: hu@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+感觉好爽。
+     红地毯的时候还假摸假式的，那些成天出现在娱乐新闻头条的女星浓妆艳抹争奇斗艳。
+     颁奖呢，前面的凑合着还不至于太喷饭。最佳男演员在照顾张思德的同时，也没忘了一轮明月。最佳女演员更是办给了赵薇和章子议，我还以为会颁给任长霞的扮演者张瑜。
+     但在最后，颁发据说是分量最重的最佳故事片奖的时候，把任长霞、郑培民、张思德、邓小平、我的法兰西岁月等等主旋律电影一网打尽。不能不打进啊，任长霞是zhongxuanbu推荐的，郑培民是jiwei推荐的，法兰西岁月是tuanzhongyang推荐的。。。。。

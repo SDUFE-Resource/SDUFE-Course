@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j84BWCO8010390
+	for <yang@ccert.edu.cn>; Sun, 4 Sep 2005 22:53:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j84BiZ6j013553
+	for <yang@ccert.edu.cn>; Sun, 4 Sep 2005 23:05:29 +0800 (CST)
+Message-Id: <200509041144.j84BiZ6j013553@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 14:52:27 -0000
+From: "tian" <tian@mail.tsinghua.edu.cn>
+To: yang@ccert.edu.cn
+Cc: <rao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMTRtcDQ2NCh1ea1xMrHuPbOysziwvCjvw==?=
+Date: Sun, 4 Sep 2005 23:05:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0013_01C5B189.0E6B0DE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWxRgAkfQvScnIOSFuuPXHC6GmLbg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+        因为他不知道小到什么程度，只能瞎猜了
+     第一次在家班发文章，遇到个问题，有点想不通，希望版上的gg和jj说说你们的看法，谢谢
+     8月初经过别人介绍认识异地的一个博士，明年毕业，社会经历比较丰富。开始发了下照片，上qq上聊过几次，感觉大家比较有共同语言。中旬有机会见了次面，一共两天时间，吃过几次饭，也比较愉快。我回北京后基本上每天联系，而且是很热情很直白，有时在消息上就叫“宝贝”

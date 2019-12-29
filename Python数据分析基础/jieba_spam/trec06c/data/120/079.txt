@@ -1,0 +1,96 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4thuT027743
+	for <liu@ccert.edu.cn>; Mon, 12 Sep 2005 11:02:21 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4r30e090926
+	for <liu@ccert.edu.cn>; Mon, 12 Sep 2005 10:59:55 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A4qgGS090788
+	for <liu@ccert.edu.cn>; Mon, 12 Sep 2005 10:59:20 +0800 (CST)
+	(envelope-from tianying00@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 10:48:29 +0800
+Message-ID: <326327311.25345@mails.tsinghua.edu.cn>
+Received: from 166.111.66.12 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 10:48:29 +0800
+From: "tu" <tu@mails.tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Date: Mon, 12 Sep 2005 10:48:29 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEga2F0eXVzemG1xL+80dDCt9auo7q52NPayv3Rp7iotbyw4A==?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: tianying00 <tu@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+本来想简单写写各门课程的推荐书目、复习思路就完事了，
+结果没想到越写越多，思路也越写越乱。
+心里想说的话太多，表达能力有限。
+这就全当是我自己的考研总结了，算是对自己有个交待。
+如果对大家能多少起到一点帮助，我感觉自己真的就功德圆满了。
+~
+下面说说数学考研辅导班的问题。
+那种春季秋季动不动搞上一两个月的数学辅导班，
+个人感觉没用，一点用处都没有。
+我曾经上过灯哥的这么一个辅导班，深刻体会到了写书和讲课是两回事：
+灯哥的书绝对没的说，但他讲课的水平实在不敢恭维。
+上他的课就是不停地记笔记，根本没有思考的时间。
+回去拿笔记跟复习指南一对照，几乎一字不差。
+别人的辅导班估计应该也是这么一回事；
+不就是讲题么，还不如自己回来买书看呢。
+冲刺班倒是值得一上：
+数学冲刺班的目的不在于在它上面学到什么东西，
+而是在你学了好几个月已经学得晕头转向手脚冰凉之后，
+找一个地方，能有老师带着你把所学过的知识梳理一下。
+在冲刺班上查缺，然后自己回去补漏。
+因为你若自己一个人看，很可能会对潜在的问题视而不见，
+冲刺班的老师则可能会在某个细节上提醒你一下，
+你就会知道，哎呦，我这块儿不行，回去得加强一下~~
+我报的是新东方学校的冲刺班，
+尤承业老师不愧是北京大学出来的老师，
+线性代数讲得那叫一个精彩~~~~
+我考试那天早上蹲在厕所里的时候都在捧着他的笔记看。
+费允杰讲的概率统计也行，
+给了一大堆tips，虽然考试的时候没用上，
+但是起码心里有底了，上考场的时候心就不会虚~~
+汪诚义老师的高等数学很差劲，
+不停地鄙视陈文灯的书和方法，自己又给不出更佳的思路。
+尤喜历数自己的光辉历史，什么数学竞赛出题啦，什么北京大学啦，
+让我感觉他这个人很没劲。
+从一件小事就能看出他的水平：
+在讲一道中值定理证明题的时候，
+他像变戏法一样变出来一个张牙舞爪的辅助函数，
+然后从这个辅助函数出发，胜利得到欲证结论。
+其实这道题若用灯哥的方法来做，简直就是纯体力劳动。
+我就是想看看汪老爷子水平到底如何，
+便捧着卷子假惺惺地去问：
+“汪老师，这道题的辅助函数，您是怎么求出来的呀？
+您看，形式这么复杂，我自己怎么就想不到呢？”
+汪老师看看我手里的试卷，
+抬起头笑眯眯地对我说：
+“这种题呀，我是凭着多年来的经验，
+才知道辅助函数应该是怎么做……”
+当时我那叫一个汗……
+辅助函数做出来了就等于这道题已经搞定了；
+在最需要技术含量的这个致命细节，
+你竟然告诉我辅助函数是靠“经验”做出来的。。。
+sigh，不多说了，人家年纪一大把的，出来混也不容易……
+只是衷心建议这位老爷子去认真学习一下灯哥的复习指南……
+~
+基本就是这个情况；
+其实冲刺班上我做的题，灯哥的书里几乎全能找到。
+所以说，如果你把灯哥的复习指南彻底搞通，
+那么恭喜你，
+你也可以去开考研辅导班了。。
+~

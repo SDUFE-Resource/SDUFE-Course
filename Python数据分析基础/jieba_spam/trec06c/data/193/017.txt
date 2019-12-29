@@ -1,0 +1,27 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdW0h032355
+	for <lian@ccert.edu.cn>; Tue, 27 Sep 2005 15:59:35 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 16:15:18 +0800
+Message-ID: <327652915.84524@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Tue, 27 Sep 2005 16:15:18 +0800
+Message-ID: <000101c5c1cf$bb387e80$0301a8c0@CCERTDAWEI>
+Reply-To: "liao" <liao@ccert.edu.cn>
+From: "liao" <liao@tsinghua.org.cn>
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Date: Tue, 27 Sep 2005 13:15:08 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+别扯了，不老老实实当几年孙子做个屁architect阿。。
+     Support Mr. WangYin.
+     Perhaps long-term hard work can make a experienced worker, but not Architecturer. The formular of Chinese Education only make a pile of worker, but not creative even no idea. it just lead to a wrong way. We need more Mr. Wang yin to accelarate our so
+     My english is not good, something perhaps not expressed well. Sorry.

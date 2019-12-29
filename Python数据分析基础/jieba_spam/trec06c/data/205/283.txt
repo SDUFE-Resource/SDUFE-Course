@@ -1,0 +1,43 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <tan@ccert.edu.cn>; Thu, 29 Sep 2005 20:33:47 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Thu, 29 Sep 2005 12:20:03 -0000
+Date: Thu, 29 Sep 2005 20:45:47 +0800
+From: "xu" <xu@mail.tsinghua.edu.cn>
+To: tan@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+     【 以下文字转载自 Bar 讨论区 】
+     发信人: wzzf (活死人|要开始新的生活了), 信区: Bar
+     标  题: 上周末去看了神话
+     总体上跟当年的《古今大战秦俑情》非常相似
+     看完之后感觉一般
+     觉得最有意思的是成龙和梁家辉在印度和人打架那段
+     典型的成龙功夫喜剧风格
+     至于其他部分，特别是古装，不可能带有那么强的喜剧效果
+     感觉整部片子最大的失败在于情节
+     不够连贯
+     很多地方开始以为会是一个包袱后来发现什么都不是
+     比如说印度的那个年轻男子
+     为什么那把剑和画会到印度去，而且还会在他的棺材里？
+这个好理解，他说了，是那个鸟王子去大秦访问，和将军比武
+交换了武器，他又看上了秦王的妃子，索要不遂，就要了一幅像
+     那个古教授和成龙他们有什么恩怨？
+盗墓
+     为什么成龙一下就能找到那个瀑布？
+     金喜善和邵兵为什么会在古墓里？
+吃了长生金丹
+     整个故事留下了太多的问号
+     而且在最后，金喜善仅仅因为他不是蒙毅所以留下
+     感觉太生硬了
+     总体上评价不是很高
+     只能说是一般
+     不太值得去电影院看

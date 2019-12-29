@@ -1,0 +1,37 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LBHc26031385
+	for <yun@ccert.edu.cn>; Wed, 21 Sep 2005 19:05:06 +0800 (CST)
+Message-ID: <200509211917.j8LBHc26031385@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO dfder-09mhatbya) (xy-liu04@166.111.53.221)
+  by localhost with SMTP; Wed, 21 Sep 2005 11:12:58 -0000
+From: "gong" <gong@mails.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: =C5=A3=BD=CC=CA=DA=B5=C4=B1=A8=B8=E6=BB=C3=B5=C6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon024143317611_====="
+Date: Wed, 21 Sep 2005 19:17:57 +0800
+
+C&amp;D Technologies, Inc. is a high technology company, headquartered in Blue Bell, PA in US, which produces and markets systems for the power conversion and storage of electrical power, including industrial batteries and electronics. This specialized focus has established the company as a leading and valued supplier of products in three major categories - reserve power systems, electronic power supplies and material handling systems. C&amp;D\'s success in these key markets has been supported by dedication to customer service. Approximately 70 percent of the company\'s current sales are reserve power systems supplied to leading operators of telecommunications, data transmission, infrastructure computer systems and utilities to enable them to maintain critical operations during power outages.
+As a member of Power Electronics Division of C&amp;D technologies, Datel Electronics Technology (Shanghai) Co.,Ltd has an opening for Electrical Design Engineer at Shanghai Zhang-Jiang Hi-Tech park.
+The Electrical Design Engineer is responsible of DC/DC converter and custom commercial power supply design. The successful applicant will have demonstrated ability to learn and lead high density DC/DC converter and custom design projects for major OEM customers, 
+Responsibilities:
+?       Engineering test, debugging and/or documentation of Power Conversion products.
+?       Building engineering breadboard and prototype.
+?       Supporting manufacturing related issues, such as: testing, failure analysis and etc.
+?       Product design support for BOMs (Bill of Material) / AVLs (Approved Vender List) &amp; schematics checking and introduction to manufacturing.
+?       Bring up and verification of first off prototype PC boards to DVT schedule.
+Minimum Qualifications:
+?       Bachelor\'s degree in Electrical Engineering or other majors related with power supply design, master degree preferred. 
+?       Proficient using simulation tools, spreadsheets, schematic entry, electronic equipments. Must be capable of reviewing PCB layouts, directing PCB layout professionals and hardware debugging
+?       Knowledge of existing topologies, current components
+?       Excellent written and verbal communication skills both in Chinese and English. 
+?       Good command on computer skills,
+?       Integrity and meticulous
+?       Continuous learning and professional attitude 
+?       Strong Work Ethic, and cooperative and self-motivated
+C&amp;D TECHNOLOGIES, INC provides very competitive wages and excellent benefits. For a great opportunity to grow with an exciting, customer-focused’ company, please send your resume and experience detail to: hr@datel.com.cn or 
+上海浦东张江高科技园区碧波路912弄17号  丹特电子科技（上海）有限公司 人力资源部   邮编201203
+欲了解公司有关信息，请登陆公司网站：http://www.cdpoweronline.com and http://www.cdtechno.com
+期待2006年毕业优秀本科、硕士人才加盟！

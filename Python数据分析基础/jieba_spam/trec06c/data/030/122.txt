@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <feng@ccert.edu.cn>; Tue, 23 Aug 2005 15:31:54 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <feng@ccert.edu.cn>; Tue, 23 Aug 2005 15:45:12 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 07:39:49 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "tao" <tao@mail.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Cc: "tunet" <zhou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvLHGuKO6SmF2YdOm08O/qreiuaSzzMqm?=
+Date: Tue, 23 Aug 2005 15:41:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+职责：
+1、使用Java AWT, Swing, .NET进行软件界面开发
+要求：
+1、    计算机或工程专业本科或以上学位
+2、    1~3年以上参与Java AWT, Swing 前端界面开发工作经验 
+3、    具有XML工作经验
+4、    具有Web Portal开发经验者优先考虑
+5、    能使用开源的Java开发工具者优先考虑
+6、    具有很强的分析和沟通能力
+公司提供丰厚的福利待遇和广阔的个人发展空间，如想更多的了解公司及职位的信息，请登录公司网站：www.sightna.com
+有意者请将简历发送至christina@sightna.com
+                    hr@sightna.com

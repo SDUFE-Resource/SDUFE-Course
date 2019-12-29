@@ -1,0 +1,21 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <yang@ccert.edu.cn>; Fri, 19 Aug 2005 15:41:01 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <yang@ccert.edu.cn>; Fri, 19 Aug 2005 15:54:19 +0800 (CST)
+Date: Fri, 19 Aug 2005 15:48:24 +0800
+From: "tan" <tan@sohu.com>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILGxvqnA7b/GtdrSu8P7t8XG+sflu6rRodTxz+O427bBtPPRp6O/ICjXqtTYKQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+很正常么。
+     北京理科第一名放弃清华选择香港读大学？ 
+     ◇字体：［大 中 小］ 来源： 竞报 (08/17 03:53) 
+     　　本报讯　昨天是清华大学新生报到唯一的一天，在学校的接待处人们并没有见到今年北京的理科第一名陈秀野。据悉，这位第一名接到两张大学的录取通知书―――香港科技大学和清华大学。记者从香港科技大学驻京办事处了解到的情况是，该大学的新生报到截止日期为8月27日

@@ -1,0 +1,36 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <zhuang@ccert.edu.cn>; Thu, 1 Sep 2005 06:07:01 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 06:09:53 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 06:09:53 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 06:09:53 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 22:03:16 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 05:55:26 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 05:55:26 +0800
+From: luo@mails.tsinghua.edu.cn
+To: zhuang@ccert.edu.cn
+Cc: yang@ccert.edu.cn
+Date: Thu, 1 Sep 2005 05:55:26 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INXSzeLG87zywPrJz9Kq0LS3orHttcTC287EwvCjvw==?=
+Content-Type: text/plain
+
+博士毕业了还去做销售……早干吗去了？
+除非隐瞒学历，否则没有hr会给一个有phd头衔的人“销售”的offer的
+找工作先得给自己定定位。
+如果连自己的成果都不写上去，那人家会认为你的博士是混的，什么都没干。
+还是那句话，如果是应届毕业生的话，一定要写，而且有用。
+对应届生来讲，人家认可的是你的能力而不是马上能赚钱的本事。
+举个例子，我一个同学硕士毕业去了微软，而他以前能和微软相关的
+也就仅限于“用过windows”了，但他曾经在学科顶级杂志上发表过论文
+不能说没有作用吧？btw，他去微软做技术支持。硕士尚如此，况博士乎？
+     如果你是去搞科研，当然用写上
+     如果不是，就不要写了，不然人家会觉得你适合搞科研，不适合他的这个职位，比如销售什么的

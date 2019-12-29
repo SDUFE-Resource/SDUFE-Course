@@ -1,0 +1,54 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <zhou@ccert.edu.cn>; Mon, 12 Sep 2005 05:45:59 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Mon, 12 Sep 2005 05:57:58 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Mon, 12 Sep 2005 05:57:54 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "long" <long@dlut.edu.cn>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtNNHUEzQrdLps/a3orK1s+JTWVNPULXEu9HR1CAo16rU2Ck=?=
+Date: Mon, 12 Sep 2005 05:53:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 sysop 讨论区 】
+发信人: wissen (知道了), 信区: sysop
+标  题: Re: 从GPL协议出发驳斥SYSOP的谎言
+蛋蛋们跟你解释真是太没面子了。
+你只是用个客户端访问这个地方，
+你是客户端程序 -- CTerm, FTerm等等的用户。
+蛋蛋们又没提供任何程序给你，
+你是没有理由要求他们公开任何代码的。
+所谓“程序的用户”是直接使用程序的人们，
+蛋蛋们是使用并修改原来站务所写程序来开办服务的用户，
+明白了么？
+唉，很久没来，没想到还在这么没品的问题上吵吵。
+     标  题: 从GPL协议出发驳斥SYSOP的谎言
+     
+     http://www.gnu.org/licenses/gpl-faq.html#GPLRequireSourcePostedPublic
+     里面写的很清楚:
+     Does the GPL require that source code of modified versions be posted to the public? 
+     The GPL does not require you to release your modified version. You are free to make modifications and use them privately, without ever releasing them. This applies to organizations (including companies), too; an organization can make a modified version and use it internally without ever releasing it outside the organization. 
+     But if you release the modified version to the public in some way, the GPL requires you to make the modified source code available to the program\'s users, under the GPL.
+     
+     Thus, the GPL gives permission to release the modified program in certain ways, and not in other ways; but the decision of whether to release it is up to you. 
+     
+     注意，GPL协议规定只有在软件被应用在一个特定组织范围之类的时候，才不需要按照GPL协议公布源代码。蛋蛋们站出来告诉我，放在互联网上让任何人都可以访问，算不算releasing it outside the organization？
+     
+     --
+         只见wissen坐在一座土坟之上，头戴高高的纸冠，神色俨然。七八个马甲跪在坟前
+     ，乱七八糟的嚷道："愿网络中心万岁，万岁，万万岁"一面乱叫，一面跪拜，有的则伸出手
+     来，叫道："给我权限，给我权限"
+         wissen道:"众爱卿平身，朕既实名制成功，身登高位，人人皆有封赏。"坟边垂首站
+     着一个女子，正是thinfo。她身穿浅绿色衣衫，明艳的脸上颇有凄楚憔悴之色，只见她从一
+     只篮中取出几块版砖，分给众马甲，说道："大家好乖，明天再来玩，又有权限灌水。"
+     
+     

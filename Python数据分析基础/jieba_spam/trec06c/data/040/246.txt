@@ -1,0 +1,49 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <feng@ccert.edu.cn>; Fri, 26 Aug 2005 00:02:48 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 15:52:23 -0000
+From: "hou" <hou@mails.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 00:16:05 +0800
+
+国家智能交通系统工程技术研究中心是国家科学技术部于1999年11月批准建立的，以国
+民经济、交通运输行业和市场的需求为导向，针对智能交通系统发展中存在的重大技术
+问题，对有市场价值的重要应用科技成果进行共性技术、关键技术的后继工程化、产业
+化以及系统集成的高新技术研发实体。详细信息请参见http://www.itsc.com.cn/。
+        因业务发展需要，国家智能交通系统工程技术研究中心招聘以下人员：
+1．     计算机专业技术人员（1名）
+要求如下：
+a)      计算机相关专业本科以上学历。
+b)      2年以上数据库开发及管理工作经验，具有Oracle8i以上的管理开发能力，具有数据
+库的备份和恢复及性能调整方面的能力，熟悉SQL及PL/SQL语言。
+c)      熟悉Windows操作系统，了解Linux操作系统。
+d)      熟悉网络知识，熟悉计算机软硬件维护。
+e)      熟悉C/C＋＋/Java等主流开发语言。
+f)      工作责任心强，有较强的学习能力，有团队精神。
+2．     交通数据分析研究人员（1-2名）
+要求如下：
+a)      计算机、地理信息系统、运筹学、统计等相关专业背景，本科以上学历。
+b)      掌握统计分析及数据挖掘等方面的理论及技术，具有两年以上数据分析或数据挖掘方
+面的工作经验。
+c)      熟练使用各种统计分析软件。
+d)      熟悉关系型数据库，会使用SQL语言。
+e)      具有数据库开发能力，或熟悉C/C＋＋/Java等主流开发语言，或熟练掌握MatLab编程
+优先者考虑。
+f)      工作责任心强，有较强的学习能力，有团队精神。
+3．     交通仿真及建模研究人员（1名）
+要求如下：
+a)      交通工程相关专业硕士以上学历。
+b)      精通交通仿真及建模方面的理论及技术。
+c)      两年以上交通仿真方面的项目经验。
+d)      熟悉C/C＋＋/Java等主流开发语言者优先考虑。
+e)      工作责任心强，有较强的学习能力，有团队精神。
+联系方式：有意者请将简历发到：qinling@itsc.com.cn,请在简历上注明申请职位和薪
+资要求。我们将在收到简历后一个星期左右和您联系。

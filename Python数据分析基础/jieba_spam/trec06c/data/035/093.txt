@@ -1,0 +1,32 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <hou@ccert.edu.cn>; Wed, 24 Aug 2005 21:44:25 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 24 Aug 2005 22:02:48 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 22:02:48 +0800
+Date: Wed, 24 Aug 2005 22:02:48 +0800
+From: bi@cernet.com
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+To: hou@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+1，我不会劝任何人来华为，这一点我说过。
+2，我不是既得利益者，如果你指的既得利益者是华为老员工，每年靠股票就钱n多的人
+   我是一名普通的员工，还在不断地靠自己努力的工作着
+3，既然你没有进过华为，仅因为有同学在华为，就认为掌握了事实，太自信
+4，公司没有好不好，只有适合不适合。所以我不认为华为好或者不好，也不知道
+   是否会适合别人。
+5，每个人都要靠自己。现在的社会很open,付出与得到总的说来是持平的。不要总觉得
+   自己吃了亏。整天有股怨气在心里，什么也干不了，还会伤身子。
+6，我针对的是我认为与我所了解的不一样的地方，并不试图攻击谁，也不试图说服谁。
+   以讨论为目的，边讨论边学习。

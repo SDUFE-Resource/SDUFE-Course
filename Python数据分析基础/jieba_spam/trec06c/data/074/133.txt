@@ -1,0 +1,27 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U2OGpf004571
+	for <mo@ccert.edu.cn>; Fri, 2 Sep 2005 21:08:17 +0800 (CST)
+Received: (qmail 5721 invoked from network); Fri, 2 Sep 2005 13:19:57 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 2 Sep 2005 13:19:56 -0000
+Message-ID: <001101c5ad0b$dfe7c0c0$e900a8c0@d47db5334f2a479>
+From: "li" <li@jdl.ac.cn>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?ofEguLWx67G70sXN/LXE1/fGtw==?=
+Date: Fri, 2 Sep 2005 21:22:16 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+可能中国金鸡奖每年的双黄蛋太多，看来人们对2001年傅彪凭《押解的故事》获得最佳男配角有些淡忘了。
+电影讲的是一老一小两个警察在西北押解一个的诈骗犯，于太(傅彪饰)，的故事。
+我无缘看到这部电影。但从看到的片段中，傅彪的表演另人难忘。这个人物的出场戏是，两个警察在于太家蹲守，
+于太突然跳窗而入，见到警察又作无辜状。跳窗的敏捷和之后的一脸无辜刻画出了一个外表忠厚实际狡诈的诈骗
+犯。
+可能1990年红极一时的《渴望》离我们太远，傅彪在里面的龙套是不会有多少人记得的。里面他演个被黄梅莹训了
+一顿并和她吵起来的工人，台词很多，但没有名字。

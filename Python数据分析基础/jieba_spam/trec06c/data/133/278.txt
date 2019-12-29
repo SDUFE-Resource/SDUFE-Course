@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <zeng@ccert.edu.cn>; Thu, 15 Sep 2005 04:51:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <zeng@ccert.edu.cn>; Thu, 15 Sep 2005 05:03:08 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 20:45:41 -0000
+From: "ni" <ni@mail.tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Cc: <guo@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgobrQ0cS/obvT0LnYz8LW3M7lobDX3738x/PWsKOs19+9/Naw0rXIy8n6obG9stf5tcTP6s+4
+0MXPog==?=
+Date: Thu, 15 Sep 2005 05:03:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+【 以下文字转载自 THAFL 讨论区 】
+发信人: alphayoung (alpha), 信区: THAFL
+标  题: 『醒目』有关下周五“走近求职，走近职业人生”讲座的详细信息
+时间：2005年9月23日（周五）晚7点整
+地点：三教二段2102
+内容：
+    金秋校园招聘在即，如何才能得到知名企业的青睐，如何才能在众多求职者中脱颖而出？只有尽早了解职场，正确把握国际化企业的用人标准，切实提高自身的竞争力，才能把握机会，实现梦想。为了帮助大学生顺利走好职业人生第一步，ETS-TOEIC（托业）考试中国地区办公室将携手两家国际性企业（联想、亚信）资深职业顾问，举办本次“走近求职，走近职业人生”讲座，就求职面试、简历填写等方面问题与清华学生交流。
+安排:
+    亚信科技人力资源招聘专家     30分钟（该企业提供实习生的机会，请见附件）
+    联想网域人力资源招聘专家     30分钟（该企业提供实习生的机会，请见附件）
+    TOEIC考试办公室代表          30分钟
+    问答及抽奖                   10-20分钟（讲座开始将会发放调查问卷，用来抽奖）
+欢迎大家参加！

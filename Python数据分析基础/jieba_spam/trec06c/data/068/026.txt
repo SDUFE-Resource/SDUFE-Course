@@ -1,0 +1,23 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U1PmpO004160
+	for <fan@ccert.edu.cn>; Fri, 2 Sep 2005 00:26:29 +0800 (CST)
+Received: (qmail 858 invoked from network); Thu, 1 Sep 2005 16:38:06 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 16:38:05 -0000
+Message-ID: <000701c5ad03$b6eade80$e900a8c0@d47db5334f2a479>
+From: "yana" <yana@jdl.ac.cn>
+To: fan@ccert.edu.cn
+Subject: =?gb2312?B?ofEg09BEQbXEyqbQ1sqmvePC8KO/?=
+Date: Fri, 2 Sep 2005 00:40:31 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+各位好：）
+    我是北京化工大学自动化系的一名02级本科生，打算推送清华的DA系，前三年综合排名是第一（150人），曾担任校学生会主席一职，最高荣誉是“北京市三好学生”，可是没有什么竞赛奖项，也没有paper发表过，现在正在和同学全力准备电子设计大赛，不知道够不够资格推送DA？本来打算报信息所的，可是发现太热了，现在想推过程所，不知道有没有希望，我也知道清华的自动化很牛的，可是还是想争取一下这一次机会，但是心里面确实没底，各位能不能给点儿建议阿？：）
+    谢谢您啦^_^

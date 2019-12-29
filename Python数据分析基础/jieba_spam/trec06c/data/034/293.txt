@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <peng@ccert.edu.cn>; Wed, 24 Aug 2005 19:48:56 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <peng@ccert.edu.cn>; Wed, 24 Aug 2005 20:02:10 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 11:56:43 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "zhu" <zhu@mail.tsinghua.edu.cn>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrvcyjurDdt8PSu7j2tbHQobnZtcTK5crl06a4w7T4yrLDtMDxzu/IpbrD?=
+Date: Wed, 24 Aug 2005 19:58:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我在想中秋节我应不应该去看看上次帮我装机器的同事
+上次是头儿帮我联系的，说他给我介绍的都是技术方面的大牛
+我以后也会用得着，但是我当时去之前头儿提醒我说人家是有老婆的人（我当时就FAINT了）要表现的懂事点，不要惹人家老婆不高兴之类的
+我现在犯难了，不去看吧，以后还可能要他帮忙
+去看吧，怕人家老婆不高兴
+咋办呢。。。
+     总之，东西不一定要多，但一定要精而好，他们自己能用的，呵呵
+     我老爹经常教导我，如果你想和一个对你有帮助的人拉上关系，叙上情谊，那么每年
+     的年关，中秋都要买些东西过去坐坐，一定要细水长流，细水长流，不要有需要别人

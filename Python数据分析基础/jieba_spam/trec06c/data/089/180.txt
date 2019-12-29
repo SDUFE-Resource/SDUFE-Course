@@ -1,0 +1,52 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <zhu@ccert.edu.cn>; Mon, 5 Sep 2005 17:35:48 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <zhu@ccert.edu.cn>; Mon, 5 Sep 2005 17:34:04 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <zhu@ccert.edu.cn>; Mon, 5 Sep 2005 17:33:44 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Mon, 5 Sep 2005 09:22:56 -0000
+Date: Mon, 5 Sep 2005 17:43:48 +0800
+From: "xu" <xu@mails.tsinghua.edu.cn>
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+W7qrTz0acyMcrAvM23otW50dC+v9S61dDGuMb0ysI=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <shen@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+《清华大学发展研究通讯》博士助研岗位 招聘
+1、岗位及人员
+编辑助研岗位2人
+2、要求
+  在校博士生，在公共管理学院就读者优先。
+  对国家改革与发展中的重大战略和政策问题有一定基础和了解；具有较好的协调能力
+和文字表达与写作能力；能熟练应用计算机编辑软件。有编辑工作经验者优先。
+3、待遇及工作时间
+按照学校助研的有关规定执行。
+4、简历接收
+应聘者请将简历发至：ggzhb@tsinghua.edu.cn
+简历接收截至到2005年9月12日，初选合格者将在9月16日前通知面试。
+清华大学21世纪发展研究院
+2005年9月5日

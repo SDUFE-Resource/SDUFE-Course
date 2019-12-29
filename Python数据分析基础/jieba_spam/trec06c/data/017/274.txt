@@ -1,0 +1,70 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <liu@ccert.edu.cn>; Sat, 20 Aug 2005 17:06:42 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <liu@ccert.edu.cn>; Sat, 20 Aug 2005 17:20:00 +0800 (CST)
+Date: Sat, 20 Aug 2005 17:14:05 +0800
+From: "he" <he@sohu.com>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgT3JpZ2luTGFiIEdaT2ZmaWNlINXQxrgoVGVjaG5pY2FsIFdyaXRlcik=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+                广州起点亮计算机科技有限公司 
+                (OriginLab Guangzhou Office)
+本公司成立于2001年10月。是美国OriginLab公司驻中国的直属
+软件测试以及研发中心。OriginLab公司的软件Origin是一个高级
+的科学绘图、数据分析软件。软件客户包括全球科技领先公
+司，政府研究部门以及超过800家著名大学。我们在美国的开
+发工程师和科学家们致力于为各种研究提供更好的软件，我
+们这里也致力于提供更全面的测试及更好的研发支持，诚挚
+欢迎有兴趣的您加盟！ 
+OriginLab Corporation publishes scientific graphing software and data 
+analysis software. Our software provides a comprehensive solution for
+scientists and engineers, who need to analyze, graph, and professionally 
+present data. 
+Our main product, Origin, has been growing in popularity among scientists
+and engineers as a serious data analysis and graphing software since 1991. 
+Today, with over 100,000 licenses worldwide, Origin is used in hundreds of
+large corporations and around a thousand colleges and universities worldwide. 
+We remain committed to our mission of making Origin the best scientific 
+graphing software and data analysis software. Along with its easy-to-use 
+graphical interface, Origin offers intuitive, yet powerful, research tools for 
+the daily needs of the researcher. Origin has been designed so that you can
+start using it right out of the box, yet its wide range of advanced features 
+will provide for your growing needs. 
+Please visit our website, www.originlab.com, for more information. 
+Now we are seeking for the position for our Guangzhou office
+1.      Technical Writer
+Job description is included below. 
+CONTACT
+Qualified applicants should send your resume (English and Chinese) to: 
+admin@originlab.com.cn with the subject 
+"Position-Your name-University-Degree-Major ", e.g.
+Technical Writer-LiMing-ZhongShanU-Master-Physics
+ 
+Originlab Guangzhou Office
+TianLi Mansion, Section B, Room 25B&amp;26B
+WuShan Road No.139
+Guangzhou, China
+Tel (020) 87572752
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                                Technical Writer 
+DUTIES
+1. Write, review and edit product technical documentation.
+2. Write, review and edit product technical marketing materials for 
+   web and printed literature.
+3. Gather sample data and create examples and graphs for documentation,
+   marketing and technical support. 
+4. Learn and maintain familiarity with competitor software and their
+   technical documentation.
+REQUIREMENTS 
+1. MS or PhD in Physics, Physical Chemistry, Applied Math, 
+   or related fields.
+2. Experience with Origin, MATLAB, Mathematica is highly desirable
+3. Excellent English writing skills

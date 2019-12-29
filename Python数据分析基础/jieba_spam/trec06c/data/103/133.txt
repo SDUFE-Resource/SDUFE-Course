@@ -1,0 +1,26 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j876ZGXw000980
+	for <lv@ccert.edu.cn>; Thu, 8 Sep 2005 19:59:20 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 2924001B7062
+	for <lv@ccert.edu.cn>; Thu, 8 Sep 2005 20:11:28 +0800 (CST)
+Date: Thu, 8 Sep 2005 20:11:27 +0800
+From: "liao" <liao@sohu.com>
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuKG2vMbL47v6zsS7r7v5tKG/zrPMobfW+r3MMsP7?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907064725.2924001B7062@sohumx06.sohu.com>
+
+要求如下：
+（1）熟练掌握各种流行软件：Office办公自动化软件，网页制作软件（FrontPage，Dreamwaver，HTML语言）及语言JavaScript，图像处理软件（PhotoShop，PhotoImpact，Firework，GifAnimator），常用网络工具软件；
+（2）熟悉SQL语句（主要是查询语句）和Access数据库的使用；
+（3）熟悉计算机系统软硬件工作原理；
+（4）口头表达能力较强，具备小班授课能力；
+（5）爱岗敬业；
+（6）博士生优先；
+有意向应聘该课程助教岗位的同学，请将个人简历发送给田老师（tianrp@cic.tsinghua.edu.cn），截至日期9月13日。
+计算机基础教学部

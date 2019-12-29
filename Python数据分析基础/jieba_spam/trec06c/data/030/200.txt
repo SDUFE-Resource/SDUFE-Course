@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <zheng@ccert.edu.cn>; Tue, 23 Aug 2005 16:55:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <zheng@ccert.edu.cn>; Tue, 23 Aug 2005 17:08:14 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 09:02:47 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "xing" <xing@mail.tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+Date: Tue, 23 Aug 2005 17:04:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+对
+非常同意
+洋人是步在乎把一些东西拿给你做的
+关键首先是你要能作
+国内目前的环境确实很恶劣
+所以更需要一些象华为这样的公司
+不管怎么样都是对国内的技术水平是一个提高
+偶看过一些华为的文件
+确实不错
+非常实用和又价值
+     可能外企把核心技术搬来中国的进程还不会那么快。因为这不单单是成本的问题，
+     还牵涉到研发实力的积累问题。真正的核心研发，是需要很多年积累的，队伍的
+     培养也非常不容易，以国内的浮躁环境和研发人员普遍的经验、水平，我觉得洋

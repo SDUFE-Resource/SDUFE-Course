@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <bai@ccert.edu.cn>; Sun, 21 Aug 2005 01:07:28 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <bai@ccert.edu.cn>; Sun, 21 Aug 2005 01:20:42 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 00:49:23 +0800
+Date: Sun, 21 Aug 2005 01:20:33 +0800
+From: "lv" <lv@wnt.com.cn>
+To: bai@ccert.edu.cn
+Cc: "lic" <xiao@ccert.edu.cn>, "sunt" <xiao@ccert.edu.cn>, "caoy" <jin@ccert.edu.cn>,
+        "wangb" <jian@ccert.edu.cn>, "songhm" <tu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMzss6/SvcHGtcTSu7j2xtWx6c/Wz/M=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+n次 x光、胳膊上面插一跟针头还不拔，一会抽血，一会打药，一会让你撒尿
+具体要看你装什么病
+     标  题: Re: 天朝医疗的一个普遍现象
+     
+     什么叫被折腾一顿？
+     : 反正英国的医院啥钱都不要。还管饭。
+     : 要是饿了还没地方住，可以随便找个急诊装病...
+     : 就是要被折腾一顿
+     
+     --
+     世界是个小小屋檐。
+     不论谁指挥，能解放台湾，宁愿当炮灰！
+     
+     

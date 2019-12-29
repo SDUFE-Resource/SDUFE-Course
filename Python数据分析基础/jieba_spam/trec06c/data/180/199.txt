@@ -1,0 +1,29 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 23:04:14 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 22:26:32 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "zheng" <zheng@cert.org.cn>
+To: ye@ccert.edu.cn
+CC: "chen@ccert.edu.cn" <rao@ccert.edu.cn>,
+   "che@ccert.edu.cn" <zhang@ccert.edu.cn>,
+   "gu@ccert.edu.cn" <hu@ccert.edu.cn>, "ye@ccert.edu.cn" <he@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INK7uPbKtdHpytLNrNGntcS/tLeo?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 23:11:59 +0800
+
+众人默然不语，想象回雁楼头那场惊心动魄的格斗。在天门道人、刘正风、闻先生、何三七等高手眼中，令狐冲、罗人杰等人的武功自然都没甚么了不起，但这场斗杀如此变幻惨酷，却是江湖上罕见罕闻的凄厉场面，而从仪琳这样一个秀美纯洁的妙龄女尼口中说来，显然并无半点夸大虚妄之处。
+     标  题: Re: 一个实验室同学的看法
+     
+     自己走错了路，选择了一个完全不适合自己的领域是自己的问题，把别人骂一顿就不厚道了
+     : 哎，
+     : 说实话，
+     : 没有人是对还是错。
+     
+     --
+     

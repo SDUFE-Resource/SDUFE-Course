@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <wei@ccert.edu.cn>; Mon, 29 Aug 2005 07:12:10 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 07:16:33 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 29 Aug 2005 07:16:33 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Mon, 29 Aug 2005 07:16:33 +0800
+From: "wei" <wei@mail.tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Date: Mon, 29 Aug 2005 07:16:33 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INb4w/vR3dSxuLWx69LyuM6wqbTHysAgz+3E6jQwy+o=?=
+Content-Type: text/plain
+
+你说的成功率是什么？是手术成功率吗？我想手术成功率100%并不算困难，只要选择好适应症，困难的是手术以后一年存活率，五年存活率。现在中国的肝移植是一窝蜂，好像做得越多就越牛，其实形成这种混乱局面的是经济利益，毕竟肝移植是只有有钱人才能享受的起的医疗服务，也只有像傅彪这样的有钱人才做的起，而且作了两次。
+        说得不对，肝硬化晚期几乎不可避免地要发展为肝癌了
+        所以在肝硬化地中晚期选择移植是比较明智的办法
+        这个说得也不对，武警现在的肝移植成功率是100％

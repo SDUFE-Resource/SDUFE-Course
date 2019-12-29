@@ -1,0 +1,18 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <ning@ccert.edu.cn>; Tue, 27 Sep 2005 18:27:48 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <ning@ccert.edu.cn>; Tue, 27 Sep 2005 17:48:07 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "pu" <pu@cert.org.cn>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtE1JVLrNy67EvrbUtP3N9dvztcTMrLbIsrvNrKO/?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Tue, 27 Sep 2005 18:33:46 +0800
+
+     我，一个文科生，在什么是科研怎样做研究上没有发言权，但我还记得唐

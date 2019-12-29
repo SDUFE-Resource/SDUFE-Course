@@ -1,0 +1,35 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <hou@ccert.edu.cn>; Sun, 11 Sep 2005 08:01:33 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Sun, 11 Sep 2005 08:19:33 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Sun, 11 Sep 2005 08:19:32 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "xiao" <xiao@mail.csu.edu.cn>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SusPP683L0aewoaGro6Gjocq11NrT9MPGzbi2pcHLo6GjoQ==?=
+Date: Sun, 11 Sep 2005 08:00:59 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+研究生就自己弄，不要指望导师，如果他/她能支持你的实验或者调研就可以了
+     　　我不是清华地，我现在某个学校的研二．当初被师兄骗了，不能说是他骗我，而是
+     他没有跟说清楚厉害关系或者说他的想法和我的想法不一样吧，有人觉得好混的导师就是
+     好导师，有人觉得能学到东西的导师就是好导师．当初把我介绍到现在的导师那，真的好
+     郁闷．
+     　　我的情况是这样的，名义导师每年都有一两个人去中国ＸＸＸＸＸＸ网网管中心，
+     我当初的感觉这个中国ＸＸＸＸＸＸ网一定很不错，加之师兄说这边导师比较好说话，而
+     且条件还不错，我就考了，然后就找她了．哎，自己本身学通信地，考了个杂牌专业，我
+     们学校根本就没有通
+     　　我跟名义导师说了我已经混掉一年了，不想再混了，前几天都把自己的机器搬到她
+     的实验室了，她前几天也跟我说了她今年也没有课题，昨天ＸＸＸＸＸＸＸ网的导师打电
+     话叫我去找她，去了我表达了我的意思，我不想做纯软件，尤其是在这种没有项目做的情
+     况下做，当然我不敢

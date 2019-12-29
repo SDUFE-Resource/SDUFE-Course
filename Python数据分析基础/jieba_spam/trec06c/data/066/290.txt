@@ -1,0 +1,29 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <ye@ccert.edu.cn>; Thu, 1 Sep 2005 20:14:29 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Thu, 1 Sep 2005 20:45:58 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Thu, 1 Sep 2005 20:27:03 +0800
+From: "zhu" <zhu@mail.nisac.gov.cn>
+Reply-To: zhu@mail.nisac.gov.cn
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsbG+qbTz0afQxMDt0afPtbb5za/T79HUt6LVudHQvr+zz9XQMTS6zTE4uPbUwrXEsaaxpg==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+北京大学－美国密西根大学心理学系 跨文化婴儿语言发展研究
+对象：14个月左右和18个月左右两组，家庭背景为普通话
+在实验室进行，大约30分钟（10分钟的实验和20分钟家长填写问卷）
+实验过程中，请您抱着孩子坐在电视荧光屏前的沙发上，然后给您的孩子放映一段录像。录像内容很简单，包括人物、动作和物件的组合。同时，孩子会听到几个不同的生字。实验目的就是观察小孩子对这些影像和声音的反应。我们会根据孩子在实验中看与不看，感兴趣和感到沉闷的规律，综合分析，从而推测 儿童学习生字的自然倾向。
+问卷是国际通用的词汇量表，我们希望知道孩子已经可以听懂或会说的词汇。
+实验报酬：为了答谢您的高贵时间，我们会给您100元被试费用，孩子也会得到小礼物作为奖励：）
+联系电话：62751834
+          13811684230（陈杰）
+地址：北京大学心理学系儿童发展中心（北大西门对面蔚秀幼儿园三层）

@@ -1,0 +1,37 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <tang@ccert.edu.cn>; Sun, 21 Aug 2005 02:27:36 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <tang@ccert.edu.cn>; Sun, 21 Aug 2005 02:40:38 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 03:04:06 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: yan@126.com
+To: tang@ccert.edu.cn
+Subject: =?gb2312?B?ofEguqO56rXEu6e/2s7KzOIgKNeq1Ngp?=
+Date: Sun, 21 Aug 2005 02:35:20 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+【 以下文字转载自 Career_Offer 讨论区 】
+发信人: Skylar05 (Eva~努力潜水), 信区: Career_Offer
+标  题: 海龟的户口问题
+我在北京毕业后直接出国的
+现在要签上海的工作
+出国前户口在北京注销了
+现在需要重新落户的话
+是要先回BJ把户口恢复再迁到SH
+还是在SH直接办理?
+我的档案也在学校,是不是要本人回去一趟?
+有没有遇到类似情况的海龟?  很急, 谢谢!!

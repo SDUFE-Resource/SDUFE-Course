@@ -1,0 +1,27 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <cen@ccert.edu.cn>; Wed, 28 Sep 2005 14:42:30 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 06:53:40 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 14:53:40 CST
+Date: Wed, 28 Sep 2005 14:53:40 +0800 (CST)
+From: liang ming <cen@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMnP1tzEqcilv7TBy8nxu7AgKNeq1Ngp?=
+To: cen@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+关键是邵兵没有爱呀
+成龙是金mm用爱的电波召唤过来的，她当然认得。
+而且镜头不是还给了胳膊上那疤一个特写。
+片子说的不就是爱才是唯一不变的神话嘛，没有爱的当然不能行了
+     邵兵勾引公主2000多年都未遂，很不爽，假装认不出来的 。
+     : 还有在地宫的时候，邵兵硬是认不出蒙毅来，好歹作为副将跟随了多年，
+     : 不会怎么健忘吧，相比之下公主倒是一眼认出来了。
+     : 主题曲是非常不错，

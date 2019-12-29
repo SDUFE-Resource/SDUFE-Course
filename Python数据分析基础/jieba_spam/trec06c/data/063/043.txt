@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <sun@ccert.edu.cn>; Thu, 1 Sep 2005 07:24:16 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 07:27:08 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 07:27:08 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 07:27:08 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 23:20:31 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 07:12:41 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 07:12:41 +0800
+From: lu@mails.tsinghua.edu.cn
+To: sun@ccert.edu.cn
+Cc: yana@ccert.edu.cn
+Date: Thu, 1 Sep 2005 07:12:41 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILCux+m6zcrC0rW1xL7x1PGjrM7S1ea1xLrDzqrE0aOh?=
+Content-Type: text/plain
+
+但是这样必然带来三个后果：要么她辞掉当地的工作来北京，要么我们要过一段
+时间的两地生活，最后的结果就是分手
+                ~~~~~~~~~~~~~~~~~这个算什么结果？
+     最近面临爱情和事业的抉择，我真的好为难啊！
+     爱情：
+     我和她相恋快要8年了，我们从高二开始谈恋爱，虽然是早恋，但是却一直保持了下来，多年来我们一直保持恋人关系。到现在我研究生快毕业了，她也已经工作两年了！我们多年来一直是异地恋，虽然很苦，但是感情却一直很好，我们都感觉对方是可以托付终身的人。

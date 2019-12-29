@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <tan@ccert.edu.cn>; Wed, 28 Sep 2005 15:30:41 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Wed, 28 Sep 2005 07:16:15 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "hong" <hong@mail.tsinghua.edu.cn>
+To: tan@ccert.edu.cn
+Cc: "Duan Haixin" <guo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INK7uPbQob+1vNLNpdTWxNHKt6O6vt627tK9wca30bT4wLS80sbGyMvN9g==?=
+Date: Wed, 28 Sep 2005 15:41:32 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+记得回家在火车上，两个人说医疗改革多么失败，并且说到农民看不起病怎么怎么的。
+我只是想：谈医疗改革的时候别把农民扯在一起，无论医疗改革前还是改革后，农民都是没有包括在改革当中的，所有失败时也不要再扯农民的关系了。农民还没有奢望到享受医疗改革的好处，他们迫切需要的东西不是这个。农民甚至连自己的权利得不到保障而沉默，会为在医疗改革中没有得到利益的人做点什么？

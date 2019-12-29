@@ -1,0 +1,29 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <wen@ccert.edu.cn>; Fri, 19 Aug 2005 17:32:42 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Fri, 19 Aug 2005 17:49:08 +0800 
+Date: Fri, 19 Aug 2005 17:45:44 +0800
+From: "feng" <feng@admin.iscas.ac.cn>
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgucrKwg==?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+“两年的时间，足够一个人经历一些浮沉和变迁，与一些人相识，又与一些人失散。”
+看见pythia写《人情老易悲如许》，评论《柔福帝姬》，乍乍读到这样一句话，失神。
+算起来看《柔福帝姬》并没有两年，04年初开始看，然后连载中断，然后04年底看完。
+故事里，是柔福在一个戏剧化的时代中生存与变迁；生活里，是我自己的生存与变迁。
+其实《柔福帝姬》写得未必有多好，只是，就像pythia写的：岁月沉静地渗入了小说，
+文字内外的历程微妙地互动着，时光流逝，有些谜语被我们猜中了，有些却始料未及。
+有时候想想，无论故事还是生活，猜中了的都毕竟是少数，还是始料未及的比较多吧。
+可喜可悲，尽在于此。只是，故事到底无关痛痒，那么，就把生活也当作是故事好了。

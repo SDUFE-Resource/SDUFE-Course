@@ -1,0 +1,60 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBMZaM026296
+	for <huang@ccert.edu.cn>; Thu, 15 Sep 2005 15:48:32 +0800 (CST)
+Received: (eyou send program); Thu, 15 Sep 2005 15:42:14 +0800
+Message-ID: <326696577.15347@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 15 Sep 2005 15:42:14 +0800
+Message-ID: <326696577.15331@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 15 Sep 2005 15:42:14 +0800
+From: guo@mail.tsinghua.edu.cn
+To: huang@ccert.edu.cn
+Date: Thu, 15 Sep 2005 15:42:14 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgob5QaW5DTs/7z6Khv7CuwaLQxdbQufrR0L6/1LrV0Ma40MXPog==?=
+Content-Type: text/plain
+
+爱立信公司中国研究院招聘进行中，详细职位信息如下：
+Position: 044 Digital HW design engineer
+Location: Beijing
+Employment status: Long term
+Respondsibilities &amp; Main Tasks:
+&amp;#8226;    Digital design within the R&amp;D Center projects including circuit design PCB and FPGA design 
+&amp;#8226;    Establishment and development of digital design environment within the R&amp;D Center
+Required Skills:
+&amp;#8226;    University degree holder in Electronics Engineering or equivalent;
+&amp;#8226;    Knowledge of different digital design areas, e.g. PCB design, FPGA design and ASIC design;
+&amp;#8226;    Knowledge of Wireless Communication systems;
+&amp;#8226;    Good communication skills and social abilities;
+&amp;#8226;    Fluent in oral &amp; written English.
+Position: 045 Mechanical design engineer
+Location: Beijing
+Employment status: Long term
+Respondsibilities &amp; Main Tasks:
+&amp;#8226;    Suggustting mechanical solutions for assigned projects of RBS development
+&amp;#8226;    Providing technical specification for outsourcing vendors.
+&amp;#8226;    Cooperating with the R&amp;D Center sourcing staff dealling external vendors in technical prespects 
+&amp;#8226;    Working with external vendors to complete mechnical assignments
+&amp;#8226;    Establishment and development of design environment for mechanics within the R&amp;D Center. 
+Required Skills:
+&amp;#8226;    University degree in Mechanical Engineering or equivalent;
+&amp;#8226;    Knowledge of Wireless Communication systems;
+&amp;#8226;    Working experiences of mechanical design of sheet matel, plastic injection and die casting
+(Knowledge of thermal anaylisis and thermal design, optional)
+&amp;#8226;    Good communication skills and social abilities;
+&amp;#8226;    Fluent in oral &amp; written English.
+Position: 046 Power design engineer
+Location: Beijing
+Employment status: Long term
+Respondsibilities &amp; Main Tasks:
+&amp;#8226;    Suggustting power solutions for assigned projects of RBS development
+&amp;#8226;    Providing technical specification for outsourcing vendors.
+&amp;#8226;    Cooperating with the R&amp;D Center sourcing staff dealling external vendors in technical prespects 
+&amp;#8226;    Working with external vendors to complete power assignments
+&amp;#8226;    Establishment and development of design environment for power supply within the R&amp;D Center. 
+Required Skills:
+&amp;#8226;    University degree in Electronics Engineering or equivalent;
+&amp;#8226;    Knowledge of Wireless Communication systems;
+&amp;#8226;    Knowledge &amp; working experiences of designing power supplies for circuit boards or cabinets
+&amp;#8226;    Good communication skills and social abilities;
+&amp;#8226;    Fluent in oral &amp; written English.
+感兴趣的同学请发送你的简历至： recruitment.etc@ericsson.com 注意：邮件标题请写上：应聘XXXXXXXXX职位！

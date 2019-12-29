@@ -1,0 +1,33 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <zhao@ccert.edu.cn>; Fri, 30 Sep 2005 01:01:09 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Thu, 29 Sep 2005 16:46:43 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "zhou" <zhou@mail.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Cc: "Duan Haixin" <lv@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgY2FvLMqyw7Qi0tTUubGotcIiPw==?=
+Date: Fri, 30 Sep 2005 01:12:00 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+德,操之守也
+老师做的事,是他本份的事
+你说他老师做的本份么,依现在的情况来看是很本份了
+但,做的足够好么?我看还有很大的提升的空间
+王只不过是一个爱发牢骚,做事不踏实的人而已
+还有,他对科研的认识还不够成熟
+从小到大,交流的范围限于学校,而科研的目的却并不仅限于此
+我认为,作为一个指导老师
+在发现学生在这个科研的方法论上出现认识的偏差时
+应该主动去和他交流,让他对这些事情有个比较全面和清醒的认识
+学生的层次没有达到的时候,导师的作用就应该体现出来了
+我认为现在比较好的做法是多交流,多让他体验
+顺便bs那位声称和他是一个教研室的id

@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82NbfwP002626
+	for <pan@ccert.edu.cn>; Sun, 4 Sep 2005 13:04:56 +0800 (CST)
+Received: (eyou send program); Sun, 4 Sep 2005 13:05:16 +0800
+Message-ID: <325704282.09716@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 4 Sep 2005 13:05:16 +0800
+Message-ID: <325704282.09698@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sun, 4 Sep 2005 13:05:16 +0800
+From: jin@mail.tsinghua.edu.cn
+To: pan@ccert.edu.cn
+Cc: xing@ccert.edu.cn
+Date: Sun, 4 Sep 2005 13:05:16 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgs/a5+tX3zazCt8jLICjXqtTYKQ==?=
+Content-Type: text/plain
+
+【 以下文字转载自 PieOversea 讨论区 】
+发信人: bwzhou (unique), 信区: PieOversea
+标  题: 出国征同路人
+出国路漫漫，诚征同路人
+本人GG，CAS小硕研二，专业CS（就是计算机了），GT已经搞定，预计明年申请，现正努力发paper中。
+希望你也是打算今年或者明年申请的，男女不限（当然最好是mm了），越牛越好，^_^
+可以共享信息，互通有无，互惠互利，携手飞跃，哈哈
+有意者mail联系：bwzhou@hotmail.com

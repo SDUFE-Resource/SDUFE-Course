@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <lian@ccert.edu.cn>; Tue, 13 Sep 2005 20:03:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <lian@ccert.edu.cn>; Tue, 13 Sep 2005 20:15:01 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 11:57:34 -0000
+From: "xu" <xu@mail.tsinghua.edu.cn>
+To: lian@ccert.edu.cn
+Cc: <jian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQyMvPsru2zfXV39aut+fC76O/?=
+Date: Tue, 13 Sep 2005 20:14:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+要是按制作水平、动作设计来看，《醉拳》是否算正传？呵呵
+     查到了，叫男儿当报国
+     如果按照007系列片的说法，康纳利、罗杰穆尔、布鲁斯南的作品是所谓正宗的007影片，那么关德兴、李连杰、赵文卓的黄飞鸿系列无疑是黄飞鸿影片的正宗。与之相比，其他人导演或主演的黄飞鸿无论从故事情节的构思，还是制作的水平，动作的设计，等等方面都逊色一筹。
+     　　《少年黄飞鸿》由李钊导演，钱嘉乐、林正英主演。讲的是黄飞鸿砸毁洋人烟馆，痛殴地痞无赖，怒斥贪官污吏，威服日本武士的故事，外景取在无锡一带，与广东的景致差之千里。

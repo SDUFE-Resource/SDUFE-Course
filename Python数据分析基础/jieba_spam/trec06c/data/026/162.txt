@@ -1,0 +1,24 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <gao@ccert.edu.cn>; Mon, 22 Aug 2005 15:26:05 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <gao@ccert.edu.cn>; Mon, 22 Aug 2005 15:39:16 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "yang" <yang@126.com>
+To: gao@ccert.edu.cn
+Cc: <zhou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx/PJsfLQ8tDBvLe9?=
+Date: Mon, 22 Aug 2005 15:39:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+最近几天搬家，从原来的一楼搬到了五楼，结果搬完之后的第二天就发现了一件意想不到的事情－－房间里有好多蛐蛐（也叫蟋蟀），我用必扑的杀虫剂在房间里彻底喷了一次，结果一共杀了大约五六十只的样子！！！！本来以为万事大吉，结果昨天夜里又有好多蛐蛐从窗户的缝隙里和阳台漏水口爬进来（我们租的房子是老房子，这里有不小的缝隙），现在家里估计又有了二三十只，我和我爱人都觉得这些虫子很恶心，而且它们晚上叫特别影响休息，求大家给一个解决的方法。
+另外还有一个问题求教：我家在五楼，蛐蛐是怎么爬上来地？？？我家对面是一个工地，晚上灯火通明，是不是和这个也有关系呢？？
+谢谢

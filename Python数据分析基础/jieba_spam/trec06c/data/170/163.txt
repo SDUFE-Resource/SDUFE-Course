@@ -1,0 +1,55 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <zhong@ccert.edu.cn>; Fri, 23 Sep 2005 02:08:05 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 01:57:05 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 01:57:04 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 01:57:04 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 17:57:04 -0000
+From: "tao" <tao@mail.tsinghua.edu.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S0rLAtLy4vuQ=?=
+Date: Fri, 23 Sep 2005 02:19:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+咱们windows就是好用
+linux这种咱看不上
+管你linux能帮咱做什么应用，模拟，和咱搞科研的尤其是博士的高尚科研根本不是1个层次上的，用linux的就是technician,民工
+     标  题: Re: 我也来几句
+     
+     
+     : 标  题: Re: 我也来几句
+     : 
+     : 
+     : : 1.技术偏执这没什么的.很多人都有这种倾向,我们宿舍有2个同学,成天大赞java,把
+     : : C/C++贬得一文不值,充满情绪.这不是关键,关键是你可以痴迷linux,tex,emacs,可是你没
+     : : 资格认为别人用windows,office就是低你一等,就是不是搞学术,是伪科学.这没任何道理.
+     : : 教研组就是没这个风气,
+     : 楼主多去itexpress,linuxapp混混，这种论调多得去了，哈哈
+     从某种程度上来讲,
+     对于CS学术研究来讲,linux是必须的,这一点国内高校,包括清华都做的有差距,这大家也经常骂
+     这不是因为linux比windows好,主要是因为全世界的学术研究都在用
+     linux以及它的祖先unix,都是学术界一点一点通过论证,使用搭起来的
+     学术界的人熟悉它的每一个细节,可以操控一切,还没有版权问题,当然会喜欢在这个上面做应用,做实验.
+     同样,作为学生而言,只要我们感兴趣,我们可以了解linux的每个细节,甚至实现的代码
+     
+     但对个人用户的桌面应用而言,linux就是不如windows,本科时候,每次我们宿舍的同学们在linux下工作半天,休息时候切换到windows时候,看着启动时候的微软图标,就大喊:x-windows就是一陀屎!
+     
+     对于个人来讲,windows就是好用,甚至MAC更好用虽然我们可能用不习惯.
+     
+     前面有人说windows的磁盘管理和内存管理比linux差?你以为微软的人都是白痴阿......linux和windows是针对不同需求设计的,他们的设计自然不同,也各有优劣阿......
+     说跑题了.
+     反正我觉得这种论调挺奇怪的.如果是对开源的偏执,还算说得过去.非说linux的桌面系统能比得上windows,有点......
+     : 
+     : : 2.退学很好,重新选择自己的路,大家尊重,甚至敬佩.我不知道这和高中时候老师没给解
+     : : 答问题有什么关系,跟军训时候受教官同学委屈有什么关系,跟川大宿舍不好有什么关系,
+     : : 跟保研时候某院士看不起川大有什么关系,跟师兄师姐用word有什么关系,跟副导师不让他
+     : : 去希腊开会有什么关

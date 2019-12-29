@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TNZmZm009556
+	for <cao@ccert.edu.cn>; Sun, 2 Oct 2005 11:18:40 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8TNkmaV017714
+	for <cao@ccert.edu.cn>; Sun, 2 Oct 2005 11:29:40 +0800 (CST)
+Message-Id: <200509292346.j8TNkmaV017714@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 2 Oct 2005 03:03:15 -0000
+From: "long" <long@mail.tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Cc: <hou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyKXBy8zLx+W7qn4=?=
+Date: Sun, 2 Oct 2005 11:29:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5C593.18C0F390"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXFUAn0NYzCGVdZSOy1gVwHMkt8UA==
+
+昨儿去了趟清华了解考研的情况，来谈谈见闻：
+    昨天一直在下毛毛雨，润物细无声阿，把我半截裤子都毛毛湿了，这还是小事，刚买的跑鞋也报废了。
+清华校园子太大了，偶从西门进想租辆自行车，生生力气，结果那大爷非要我200块钱压金，还一小时2块钱，我说我只有100块，要不我把证件压你这，他愣是不干。那只好坐11路车了。TMD谁要你的破车，下次问个校内学生的手机号，我发短信过去，才1毛钱，比你这2块钱一小时便宜多了！
+来到精仪的宿舍，掌门还比较讲义气，让我进去了。从一楼问到五楼，总算问到点信息。我靠，清华研究生宿舍嘎勒毙了忒到了一定程度了，为难各位师兄了。我觉得大石桥公寓应该让研究生博士生先住，怎么着人家也是清华的老客户了。哎，不多说了，就差没看到小强了。
+其实我感觉清华的女生长得还可以，只是没怎么打扮罢了，但愿不都是来“探亲”的。
+路上遇见两个同学骑车将要碰架，也帮不上什么忙，只好当配音演员了。“噼~~~~~~~~”还好，只是小摩擦。
+到精仪办公室买试题，遇见了魏老师。魏老师太热心，太可爱了。以后考上了，要经常找他聊天。
+醉爱餐厅，冷冷清清。昨天裤子湿了半截，自惭形秽，没好意思进去，丫是不是要倒闭了阿。
+昨天谁要看见我，别忘了冒个泡啊。
+    

@@ -1,0 +1,33 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <zeng@ccert.edu.cn>; Mon, 22 Aug 2005 17:42:08 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <zeng@ccert.edu.cn>; Mon, 22 Aug 2005 17:55:19 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "jiang" <jiang@126.com>
+To: zeng@ccert.edu.cn
+Cc: <yang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgytPGtc/uxL8gLSC437zb?=
+Date: Mon, 22 Aug 2005 17:55:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+了解Realmagic的DVD解码卡吗？
+给你一块神龙五代解压卡(使用Realmagic芯片和驱动)，给你任意一个没有源代码的播放程序，这个播放程序能够使用Realmagic的驱动程序，把一个硬盘上的MPEG1/2/DivX AVI格式的文件输送到解压卡上播放出来(一般是通过解压卡上的视频输出功能送到电视上)。
+ 
+我们的需求是这样的：
+假设这个文件是加密的，你不知道加密方法，也不要破解播放程序，就是说你无从知道解密算法，这种情况下你能不能直接通过驱动程序找到接口，把最终送到卡利的数据截取下来，下到硬盘上，恢复成没有任何加密的，标准的MPEG1/2/DivX AVI文件。
+ 
+报酬从优，时间尽快。
+有不明白的可以电话交流。
+联系办法：
+大紫 greatpurple@126.com
+13051318668
+(代友发信，请勿回本站信箱)

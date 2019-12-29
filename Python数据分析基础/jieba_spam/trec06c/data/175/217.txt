@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <yu@ccert.edu.cn>; Sat, 24 Sep 2005 01:58:53 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <yu@ccert.edu.cn>; Sat, 24 Sep 2005 02:10:14 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 17:47:14 -0000
+From: "wua" <wua@mail.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Cc: <cao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sat, 24 Sep 2005 02:10:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+说到计算机，刚读博士时从实验室一堆破机器里拼出一台P2 266的电脑来，还得用这个做cfd计算,呵呵。后来怒不过，自己买了电脑放到实验室里。
+     如果你想追求自己的理想，不希望有任何束缚，可以自己养活自己，再做自己想做的事情。不要埋怨这些老师，他们也不过是为在清华生存下来而焦虑。名利场不是什么人都逃的过去，不论国内、国外，给你出学费生活费做博士就是拉你来干活的，国外更明显。想做自己的事情可以找个学校，不出名的导师，不要他出什么钱，自己安排自己的课题，能不能毕业导师也不会关心，岂不自由？只是不知你能不能忍受那份清苦，没钱，没计算机，没网络，自己出钱打印，自己花钱复印文章，交流也很少，周围照样是一群忙于发paper忙于毕业的人。呵呵

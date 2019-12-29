@@ -1,0 +1,46 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7F5seeW013938
+	for <ou@ccert.edu.cn>; Thu, 18 Aug 2005 15:54:02 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7F6S7Cu010058
+	for <ou@ccert.edu.cn>; Thu, 18 Aug 2005 16:27:29 +0800
+Message-Id: <200508150628.j7F6S7Cu010058@stmp.nisac.gov.cn>
+Date: Thu, 18 Aug 2005 16:08:29 +0800
+From: "tu" <tu@mail.nisac.gov.cn>
+Reply-To: tu@mail.nisac.gov.cn
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?ofEgssTBz7/G0afC28yzxL/HsMz719PNu8bGwcsxMDAwMMaqICjXqtTYKQ==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+【 以下文字转载自 Materials 讨论区 】
+发信人: twins (且行且珍惜), 信区: Materials
+标  题: 材料科学论坛目前帖子突破了10000篇
+发信人: twins (且行且珍惜), 信区: DMSE.THU
+标  题: 材料科学论坛目前帖子突破了10000篇
+http://bbs.mse.tsinghua.edu.cn
+可以说，论坛取得了长足的发展，讨论氛围很浓厚。
+首先是开放，不分地域，甚至在国外的很多网友，都在
+论坛讨论，或张贴前沿文献，或在讨论中吸取有用的东西
+庞大的人群基础决定了在材料专业领域这一块论坛强大的
+生命力，科研上的共同讨论，共同促进在网络这一个便捷
+的载体显得更加深刻和自然。开放的讨论环境，让我们的
+眼界更开阔。或吸取知识，或结交朋友，对于材料的共同
+热爱，让我们走到了一起来。
+其次是前沿。论坛的版面设置条理层次都是经过讨论后决定的，
+前沿的文献和思想在论坛上不断的涌现和张贴，也决定了论坛
+的深刻性和先进性。很多海内外学子参与讨论材料科学前沿内容
+不管是你身处中国还是国外，只要你在研究中有什么疑问，或
+者你在调研文献前沿，你可以到论坛来浏览一下，或者有这方面
+的人物，或者有这方面的资料。
+开放和前沿注定了材料科学论坛的性质，虽然在短短的一年之内，
+但是论坛取得了长足的进步，从开始的4个版面，到目前的50多个
+版面，从开始的0篇文章，到目前的11159篇帖子，从10个注册会员
+到4748个会员，成长离不开您的支持。做最专业的材料论坛，是
+我们的终极目标。
+－－－－写在2005.8.16

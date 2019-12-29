@@ -1,0 +1,28 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TBAtQH005875
+	for <gao@ccert.edu.cn>; Sat, 1 Oct 2005 05:58:04 +0800 (CST)
+Received: (eyou send program); Sat, 1 Oct 2005 05:43:06 +0800
+Message-ID: <327991357.01131@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 1 Oct 2005 05:43:06 +0800
+Message-ID: <327991357.01115@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Sat, 1 Oct 2005 05:43:06 +0800
+From: bi@mail.tsinghua.edu.cn
+To: gao@ccert.edu.cn
+Date: Sat, 1 Oct 2005 05:43:06 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgsbS299fJ0a+5q8u+o6jW0Ln6o6kyMDA1xOrQo9Sw1dDGuLvutq+8tL2rv6rKvKOh?=
+Content-Type: text/plain
+
+欢迎参加我们在以下四所学校举办的校园宣讲会，以了解详细的招聘计划和招聘流程：
+清华大学         10月28日（星期五）           15:00-17:00      就业中心多功能报告厅
+北京大学         10月27日（星期四）           19:00-21:00      英杰交流中心阳光大厅  
+复旦大学         10月21日（星期五）           15:00-17:00      5301报告厅
+上海交通大学　   11月02日（星期三）           15:00-17:00      闵行校区光彪楼报告厅
+宣讲会主要包括以下几个方面的内容：
+&amp;#61656;    贝恩公司介绍
+&amp;#61656;    招聘职位及要求
+&amp;#61656;    面试技巧
+&amp;#61656;    2005年具体招聘流程
+&amp;#61656;    新员工与您分享在贝恩公司的工作和生活
+&amp;#61656;    解答相关提问
+关于贝恩公司及其2005年校园招聘系列活动的更多信息，敬请密切关注校园BBS，或访问贝恩公司网站www.bain.com 和贝恩中国网站www.bain.cn。

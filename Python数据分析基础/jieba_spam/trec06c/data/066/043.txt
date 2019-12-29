@@ -1,0 +1,25 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <cheng@ccert.edu.cn>; Thu, 1 Sep 2005 17:00:17 +0800 (CST)
+Received: (qmail 18809 invoked from network); Thu, 1 Sep 2005 09:12:00 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 09:12:00 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "kong" <kong@jdl.ac.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+vOyml0z/rK27XEysKjodC70LujoQ==?=
+Date: Thu, 1 Sep 2005 17:14:18 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     上周来问过一次，结果面试的时候没有提薪酬，明天二面，我该提什么样的薪水要求比较合适呢？
+     背景：我作工业原材料销售 2 年。
+     it公司是一家一年半前才在上海设立分公司的日本公司，主要业务是网络广告，就是象给百度和google做的那样，我的主要客户是在国内的外资公司，所以我做的是英语销售。
+     我现在还不知道是底薪+提成 还是固定的薪金。6000合适吗？
+另外，brother公司做销售可以拿到多少？我觉得像这样的公司，一般也就 4500，不知道有没有多的？

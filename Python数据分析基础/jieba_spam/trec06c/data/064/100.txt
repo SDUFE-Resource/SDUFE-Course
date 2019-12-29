@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <yuan@ccert.edu.cn>; Wed, 31 Aug 2005 21:25:07 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 21:27:59 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 21:27:59 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 21:27:59 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 13:21:22 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 21:13:32 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 21:13:32 +0800
+From: shi@mails.tsinghua.edu.cn
+To: yuan@ccert.edu.cn
+Cc: jian@ccert.edu.cn
+Date: Wed, 31 Aug 2005 21:13:32 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILDmyc/T0Lbgydltbbj6ztLSu9H5sKE=?=
+Content-Type: text/plain
+
+     每天潜水，看版上的人讨论爱情，感觉里自己好遥远阿，一个人久了都懒得谈恋爱了。
+     还要司考，烦都烦死了~~~~~~~
+     在北京5年了，打进校起就没男生理我，所幸锻炼了我的自理能力，回头想想这几年有很孤独很想哭的时候，不过现在似乎不太在乎了。昨晚想到一辈子要一个人过，躺在床上又掉了豆大的泪珠，一颗一颗得掉，砸在枕头上梆梆响，早上醒来又没事了。
+你要有自信，男人总是会有的，

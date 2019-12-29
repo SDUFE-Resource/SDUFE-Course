@@ -1,0 +1,40 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <liao@ccert.edu.cn>; Fri, 26 Aug 2005 19:30:43 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 19:49:03 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 19:49:03 +0800
+Date: Fri, 26 Aug 2005 19:49:03 +0800
+From: lu@cernet.com
+Subject: =?gb2312?B?ofEgxeDRtbmry77V0MrVxeDRtb2yyqa6zdK1zvHIy9Sx?=
+To: liao@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+某公司成立于2002年的中外合资企业，公司致力于职业培训、投资、管理咨询、外贸和高新技术等方面的业务发展。
+工作地点：海淀中关村一带。
+公司职业培训部主要有以下三个业务：
+一、培训课程：择业、销售与成功
+    课程内容：帮助学员确切地把握成功的概念，理清择业就业和成功的关系，并帮助学员建立成功的信念，从而快速走向成功。营销方案策划、营销计划执行、营销团队建立、营销人员培训、营销技巧。
+二、职业规划：
+    对顾客进行职业定位，职业生涯规划和管理，简历包装，面试技巧培训，提升求职能力培训，职业测评；企业人力资源管理咨询，战略导向的组织管理模式设计（人力资源规划、工作描述体系架构、人才素质测评、绩效管理体系建设、公司内部调查、企业文化设计、各类辅以心理技术支持的企业内部团队共建活动策划；承办各类培训；
+    由于业务发展需要，公司职业培训部急聘以下人员：
+1、培训讲师：3名；专兼职均可；
+    愿意成为职业规划、销售或成功激励类终身讲师，对销售技巧和成功学非常熟悉，能够创造性地进行课程安排，讲课有激情，幽默而有亲和力；学历不限；
+    参考薪水：5000～10000元/月；年终有分红。如果成为公司的专职讲师，将会提供三险一金；
+2、招生经理：5名；专职；
+    有两年以上销售经验，能够带领团队销售，善于团队协作，并有一定的领导能力，善于激发团队成功的斗志；学历：大专以上；
+    参考薪水：底薪3000～5000元/月＋提成；一般不会低于8000元。如果成为公司的专职招生经理，将会提供三险一金；
+3、招生业务员：10名；专兼职均可；
+    要求有强烈的成功欲望，希望通过自己的努力获得大的成功；只要你善于学习，本公司将为你提供一个没有天花板的发展空间，在这
+里您可以发展你的才能，并让你成长一直到成功。只要你努力，你会逐渐做到招生经理，甚至公司合伙人；学历不限；
+    参考薪水：底薪3000元/月＋提成；一般不会低于5000元。如果成为公司的专职业务员，将会提供三险一金。
+    如果您对上述职位感兴趣，请发简历至：zerotom@163.com;来信请务必注明：×××应聘×××职位。
+    请在来信中谈一谈您对所选的职位的看法，和您觉得适合这个职位的理由，我们会充分考虑您的观点。谢谢。

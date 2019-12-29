@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <guo@ccert.edu.cn>; Sun, 28 Aug 2005 00:57:30 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 01:05:00 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 28 Aug 2005 01:05:00 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sun, 28 Aug 2005 01:05:00 +0800
+From: you@mail.tsinghua.edu.cn
+To: guo@ccert.edu.cn
+Cc: peng@ccert.edu.cn
+Date: Sun, 28 Aug 2005 01:05:00 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfrzsqjurTzvNK3orzywPq2vNPDuL28/qOsu7nKx9axvdPVs8z51NrQxdbQsKE=?=
+Content-Type: text/plain
+
+首先，如果邮箱有多媒体编辑器的话，可以直接将设计好格式的简历发送出去，格式也不会乱掉。
+其次，如果还没有填写简历的同学，可以上www.jobmm.com上面填写，那里的简历格式都是按校园毕业生的特色设计的，填写完以后会自动生成，word，html和记事本的版本，最后一种也就是通常公司要求不让粘贴附件最常用的格式。
+预祝大家找到好工作！
+     前人经验有说有的公司不会收附件的，直接当掉。
+     但直接粘贴在信中，格式会乱掉，看起来也很麻烦哪。
+     大家现在用哪种方式呢？谢谢！“）

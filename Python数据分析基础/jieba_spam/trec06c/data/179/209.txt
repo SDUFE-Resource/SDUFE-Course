@@ -1,0 +1,65 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <qing@ccert.edu.cn>; Sat, 24 Sep 2005 18:47:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <qing@ccert.edu.cn>; Sat, 24 Sep 2005 18:58:40 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 10:36:12 -0000
+From: "ling" <ling@mail.tsinghua.edu.cn>
+To: qing@ccert.edu.cn
+Cc: <hou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgUG9zdERvYyBQb3NpdGlvbiBhdmFpbGFibGUgKNeq1Ngp?=
+Date: Sat, 24 Sep 2005 18:58:31 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+【 以下文字转载自 INET.THU 讨论区 】
+发信人: memichael (山高成嵩，日月为明), 信区: INET.THU
+标  题: PostDoc Position available (转载)
+发信人: memichael (山高成嵩，日月为明), 信区: DEP.THU
+标  题: PostDoc Position available
+发信人: memichael (山高成嵩，日月为明), 信区: DMSE.THU
+标  题: PostDoc Position available
+Call for applicants
+ORGANIZATION:
+   University of Tokyo, Graduate School of Engineering, Nuclear Professional
+ School
+   (Tokai, Ibaraki, Japan)
+POSITION:
+   Post Doctoral Fellow (up to 3 years)
+RESEARCH TITLE:
+   Nuclear Fuel Development for Super Critical Water Reactor
+DESCRIPTIONS:
+   Super-critical water reactor is one of the new concept of nuclear power p
+lants for next generations. It is based on the
+commercial light water reactors, but employing the coolant (water) at superc
+ritical state to enhance energy output. Current problems
+on the fuel clad are to be erosion, corrosion, creep properties as well as i
+rradiation effects.
+In this study, the successful applicant is expected to deal with material sc
+ience especially mechanical properties or surface
+morphology in austenic stainless steel  and nickel-based alloy under the env
+ironment.
+Experience in materials science especially in mechanical properties, erosion
+/corrosion science, or microscopy is desired.
+TOEFL score above 530 is recommended.
+Position is available starting October 1 or later.
+Send curriculum vitae and letter of recommendations, together with the names
+ and e-mail addresses of three references to the contact
+person.
+MISC
+There are several researchers including Chinese, Korean and other people in 
+Tokai Campus, Univ Tokyo (50-60 in total employee).
+We are running Japanese training course so as to help Non-Japanese-speaking 
+people.
+Quite big communities of foreign researchers and their families are develope
+d in Tokai.
+Contact Person
+   Hiroaki Abe (Associate Professor, abe@nuclear.jp)
+   Zhengcao Li (Assistant Professor, zcli@q.t.u-tokyo.ac.jp)

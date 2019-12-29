@@ -1,0 +1,23 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <pan@ccert.edu.cn>; Sat, 3 Sep 2005 23:45:19 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Sun, 4 Sep 2005 00:16:48 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Sat, 3 Sep 2005 23:57:53 +0800
+From: "qiu" <qiu@mail.nisac.gov.cn>
+Reply-To: qiu@mail.nisac.gov.cn
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDnUwjO6xbDmvtvD+7Wlo6i4/NDC1tCjqQ==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+就用这个吧 hoho 不许说我拉人
+                        ___   书写大学生活   尽在CampusLife版
+       ___│___       

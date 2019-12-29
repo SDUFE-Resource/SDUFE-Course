@@ -1,0 +1,33 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <liao@ccert.edu.cn>; Mon, 26 Sep 2005 14:39:45 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 06:50:39 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 06:50:39 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <liao@ccert.edu.cn>; Mon, 26 Sep 2005 00:01:46 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <liao@ccert.edu.cn>; Mon, 26 Sep 2005 01:58:12 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Mon, 26 Sep 2005 14:50:27 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <fu@motorola.com>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrvcx4ZGptc9K7uPbOyszio6GjoaOh?=
+Date: Mon, 26 Sep 2005 14:50:02 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+呵呵，我一天N多电话短信老婆还经常挑刺
+     如果两个人不在一起，那么两个人是不是应该随时保持联系啊，至少每天几条短信和一个电话啊？
+     苦恼中！
+     平时工作联系少也罢了，但到了周末不但电话没有，连个短信也没有，我下午打电话去看看他是不是在睡觉，听到的是清醒的声音，我没说话就把电话挂了，他就发个短信问我找他有什么事。我没理他。后来晚上说起这事，他说，没话说，打什么电话，事情很多，本来就没想给我打电

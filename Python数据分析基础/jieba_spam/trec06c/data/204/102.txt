@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <tian@ccert.edu.cn>; Thu, 29 Sep 2005 13:50:11 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 06:01:21 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 14:01:21 CST
+Date: Thu, 29 Sep 2005 14:01:21 +0800 (CST)
+From: liang ming <huang@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILO9s72zpNHAwcs=?=
+To: tian@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+真的跟我堂弟的儿子很象.....也是眯眯眼,特别特别可爱~
+     辰辰一直喜欢玩口水泡泡，呼一下子吐一大串出来，你忙不迭地去擦，他偏又呼一下全吸回去！偶尔技术失误，才会有口水掉下来。这几天，辰辰的口水多得，一天要换两三块口水兜。以前辰辰饿了困了无聊了才会吃手，现在呢，无时无刻什么东西都逮了往嘴里送。所以我们猜测，他
+     昨晚睡觉前，我爸鼓动我摸了摸，下门牙的位置有一个小小的突起。我吓得象是被烫手似的，差点蹦起来。又激动，几乎掉眼泪，仿佛儿子一下子长大了那种感觉。接着开始质疑，自己是不是摸错了...今天早上再摸，一排好几个小突起...
+     我接连几个晚上都没睡好，昨天晚上最厉害，不知道起来多少次。根本放不下去，抱在怀里还几分钟一哼哼。最后我走路都打栽，只能抱着他坐在电脑椅上，他哼哼我就转几圈。小东西好可怜，这么早长牙，好痛苦，我心疼得不行。甚至开始后悔，没有提前给他加辅食，这样现在可以

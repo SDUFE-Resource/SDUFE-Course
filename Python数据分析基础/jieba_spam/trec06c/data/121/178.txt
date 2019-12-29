@@ -1,0 +1,29 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <gong@ccert.edu.cn>; Mon, 12 Sep 2005 16:39:44 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Mon, 12 Sep 2005 16:51:43 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <gong@ccert.edu.cn>; Mon, 12 Sep 2005 16:51:42 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <gu@dlut.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+u9zMjnus7V0rW9yb6z/bXEtMXFzLfWx/i8sNStwLS1xMr9vt2jv7bg0LsgKNeq1Ngp?=
+Date: Mon, 12 Sep 2005 16:51:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 NewSoftware 讨论区 】
+发信人: smingburg (清都山水郎，网络闲散客), 信区: NewSoftware
+标  题: 请教如何找到删除的磁盘分区及原来的数据？多谢
+一不小心把硬盘分区给删掉了
+创建新的分区后  并没有格式化该磁盘分区
+请问还有没有办法找到以前磁盘上的文件
+恢复该磁盘
+多谢大牛指点 不胜感激！

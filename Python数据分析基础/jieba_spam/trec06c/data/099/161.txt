@@ -1,0 +1,50 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8622xnO022222
+	for <he@ccert.edu.cn>; Thu, 8 Sep 2005 00:18:44 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8620e0D062537
+	for <he@ccert.edu.cn>; Thu, 8 Sep 2005 00:16:52 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bighead.6test.edu.cn (Debian-exim@[202.38.99.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8620bmL062533
+	for <he@ccert.edu.cn>; Thu, 8 Sep 2005 00:16:21 +0800 (CST)
+	(envelope-from lx@ns.6test.edu.cn)
+Received: from lx by bighead.6test.edu.cn with local (Exim 4.50)
+	id 1ECT2E-0005DY-7J
+	for toefl@gradinfo.net.edu.cn; Thu, 8 Sep 2005 00:33:50 +0800
+Date: Thu, 8 Sep 2005 00:33:50 +0800
+From: LIU Xin <xing@ns.6test.edu.cn>
+To: he@ccert.edu.cn
+Subject: Re: [TOEFL] =?gb2312?B?1NnOytK7uPbOyszi?=
+	=?gb2312?B?o6ywssirt73D5rXE?=
+Message-ID: <20050906021806.GA20051@bighead.6test.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <200509051512.j85FCqUH055072@gradinfo.net.edu.cn>
+User-Agent: Mutt/1.4.1i
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+所以我想问各位有没有这样的正式通知或者规定可以作为依据
+谢谢
+     标  题: Re: 问个关于开题的问题
+     
+     那么你就说学校规定10月要开
+     
+     : 我老是怕被骗了，开题的事情老板也不提，拖着拖着拖过了某个期限就跟我说：“对不起，请你三年毕业吧”
+     
+     
+     --
+     

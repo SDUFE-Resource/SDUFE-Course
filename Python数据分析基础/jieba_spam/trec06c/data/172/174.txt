@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <lu@ccert.edu.cn>; Fri, 23 Sep 2005 11:48:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <lu@ccert.edu.cn>; Fri, 23 Sep 2005 11:59:45 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 03:36:51 -0000
+From: "han" <han@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Cc: <li@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Fri, 23 Sep 2005 11:59:25 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+是导师工作的一部分又怎么样呢
+学生对导师没这篇paper什么意义，不想做
+结果在老师劝导之下做了，还得了best award
+这下好了，学生又只口不提导师的作用了
+估计出国申请phd还得提自己得过这个award（至于导师的帮助，滚一边去吧）
+成天怀疑自己受迫害，到底谁迫害他了？导师催发paper就是迫害了？
+国外一样有paper压力，没有paper你的学术能力怎么体现？
+同学迫害他了？同学用个word还被他鄙视一番，怎么没见他鄙视billgates？也许是不如吧
+     不要玩文字游戏
+     需要道歉只是一个结论
+     欠了什么东西是这个结论的原由。

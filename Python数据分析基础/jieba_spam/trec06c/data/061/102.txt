@@ -1,0 +1,40 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <wua@ccert.edu.cn>; Wed, 31 Aug 2005 11:40:03 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 11:42:55 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 11:42:55 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 11:42:55 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 03:36:18 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 11:28:28 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 11:28:28 +0800
+From: yi@mails.tsinghua.edu.cn
+To: wua@ccert.edu.cn
+Cc: wua@ccert.edu.cn
+Date: Wed, 31 Aug 2005 11:28:28 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILKp0afN+LXEv827p7bLxMTT0M/Co78=?=
+Content-Type: text/plain
+
+原来不是谁做了一个吗？
+     标  题: Re: 博学网的客户端哪有下？
+     
+     木有客户端
+     : 谢谢
+     
+     
+     --
+     
+     版主: diameter VampireJax missed Pksn liuhen pigdidi def       笑话连篇   [Joke]
+     离开[←,e] 选择[↑,↓] 阅读[→,r] 发表文章[Ctrl-P] 砍信[d] 备忘录[TAB] 求助[h] 
+       编号   刊 登 者     日  期  文章标题                     在线: 294 [一般模式]
+     &gt; 10101   rmonkey      Jun 29. ● pigdidi被取消在joke版的发文权限              
+     
+     

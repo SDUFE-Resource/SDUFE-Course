@@ -1,0 +1,50 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T1EWk0000972
+	for <xiao@ccert.edu.cn>; Fri, 30 Sep 2005 05:31:27 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8T19BtK069273
+	for <xiao@ccert.edu.cn>; Fri, 30 Sep 2005 05:26:22 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8T14kU4069206
+	for <xiao@ccert.edu.cn>; Fri, 30 Sep 2005 05:21:40 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 18877 invoked by uid 512); Thu, 29 Sep 2005 21:29:55 -0000
+Message-ID: <20050929011301.18876.qmail@stu.ee.tsinghua.edu.cn>
+From: hua@stu.ee.tsinghua.edu.cn
+To: xiao@ccert.edu.cn
+Date: Fri, 30 Sep 2005 05:29:55 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?UmU6ILPQ1+LIy6OsxOPQxdPD1NrExKO/o7+jvyAo16rU2Ck=?=
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+这个30天你原文没有说，
+你合同上写明这种情况承租人需要给的赔偿么？
+至于长租，如果你不说明多就算长租，那实际上没有可操作性，
+人家没准觉得3个月就算长租。你知道还有以天为单位出租的短期出租。
+所以其实呢，这个时代就是这样的，按合同办事。
+如果签合同的时候你妥协了，那也就只能如此。
+     标  题: Re: 承租人，你信用在哪？？？ (转载)
+     
+     合同上写了30天！
+     谢谢！
+     
+     : 你约定提前多久了吗？
+     : 如果没约定，提前一周也算提前了……
+     
+     
+     
+     --
+     

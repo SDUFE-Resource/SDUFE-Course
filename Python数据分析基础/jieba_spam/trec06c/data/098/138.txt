@@ -1,0 +1,34 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j875hi24000645
+	for <yuan@ccert.edu.cn>; Wed, 7 Sep 2005 18:46:56 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMF00DGINE211@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 7 Sep 2005 19:04:26 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Wed,
+ Wed, 7 Sep 2005 19:04:26 +0800
+Date: Wed, 7 Sep 2005 19:04:26 +0800
+From: gu@cernet.com
+Subject: =?gb2312?B?ofEg16rU2C3R0L6/yfrIq8PmytW30crUteO6sM2j?=
+To: yuan@ccert.edu.cn
+Message-id: <3ad323df3a.3df3a3ad32@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+研究生全面收费试点喊停 06年收费标准仍照旧 
+我国原定于2006年推行的研究生培养机制改革因时间仓促，暂停实施。包括武大在
+内的全国9所试点高校，2006年研究生收费仍按往年标准执行。 
+    据了解，目前我国研究生培养分为计划招生、自筹经费、委托培养等多种方式
+。其中，占研究生主体的国家下达计划招收的“公费生”，由国家下拨培养费，不
+仅学费免收，并且每月还享受基本生活费。 
+    今年1月，研究生收费制度改革被教育部正式提上日程，北京大学、清华大学、
+武汉大学、华中科技大学、复旦大学、上海交通大学、同济大学、西安交通大学和
+哈尔滨工业大学等全国9所院校，计划参与研究生培养机制改革试点，从2006年起率
+先将公费、自费生并轨，所有博士生、硕士生都要交纳学费。当时，这一试点被认
+为是中国高等教育领域的重大改革。
+ 

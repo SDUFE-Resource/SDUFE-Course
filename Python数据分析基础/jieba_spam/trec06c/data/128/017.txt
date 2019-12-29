@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <sun@ccert.edu.cn>; Wed, 14 Sep 2005 00:18:20 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <sun@ccert.edu.cn>; Wed, 14 Sep 2005 00:30:15 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 16:12:32 -0000
+From: "zeng" <zeng@mail.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Cc: <hong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7vfu24LPuyca40MHL0ru74aOsvs241bLF?=
+Date: Wed, 14 Sep 2005 00:30:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+没啥
+所谓大乱才有大治
+需要杀几个医生,然后才有措施
+     刚才跟一个高中同学聊天，他是一所著名医院的普通医生，今夜值班。
+     他刚刚送走了一个病人，上消化道大出血死的。我多问了两句，他告诉我本来不是什么大病，可是病人没有钱输血，于是躺在医院的病床上，躺在距离血库咫尺之遥的病床上失血过多而死。
+     我问了问要多少钱，他说400ml血800元，可能还要加上一点其他费用。

@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <lai@ccert.edu.cn>; Mon, 12 Sep 2005 23:30:47 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <lai@ccert.edu.cn>; Mon, 12 Sep 2005 23:28:02 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <lai@ccert.edu.cn>; Mon, 12 Sep 2005 23:27:04 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Mon, 12 Sep 2005 23:38:36 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Mon, 12 Sep 2005 23:41:12 +0800
+From: "rao" <rao@runway.cn.net>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMunuOfX1NS4yOu84MfzveLN0bPGxa7T0bHIvODT/Lj8v8nFwg==?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: rao@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+遇上这种mm，我也宁可住监狱。
+     11日上午，一长相英俊的男青年来到随州市公安局曾都区分局西城派出所“投案”。这名叫阿刚（化名）的男青年坚称自己强奸一女子达两年之久，并诈骗该女子1万余元，请求民警将自己收监。
+     　　警方调查阿刚所称的受害女子蓉蓉（化名）时，蓉蓉却称两人是自愿同居，她花的钱也不属于被诈骗。阿刚见“强奸”无法成立，遂又称自己1999年底曾在老家吉林盗砍过树木。
+     　　西城派出所与吉林辉南县警方取得联系。辉南警方回复，阿刚未参与那起盗伐林木案。

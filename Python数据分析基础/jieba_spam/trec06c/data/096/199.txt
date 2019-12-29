@@ -1,0 +1,62 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8622xnO022222
+	for <hong@ccert.edu.cn>; Wed, 7 Sep 2005 10:00:22 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8620e0D062537
+	for <hong@ccert.edu.cn>; Wed, 7 Sep 2005 09:58:30 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bighead.6test.edu.cn (Debian-exim@[202.38.99.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8620bmL062533
+	for <hong@ccert.edu.cn>; Wed, 7 Sep 2005 09:57:59 +0800 (CST)
+	(envelope-from lx@ns.6test.edu.cn)
+Received: from lx by bighead.6test.edu.cn with local (Exim 4.50)
+	id 1ECT2E-0005DY-7J
+	for toefl@gradinfo.net.edu.cn; Wed, 7 Sep 2005 10:15:28 +0800
+Date: Wed, 7 Sep 2005 10:15:28 +0800
+From: LIU Xin <tao@ns.6test.edu.cn>
+To: hong@ccert.edu.cn
+Subject: Re: [TOEFL] =?gb2312?B?1NnOytK7uPbOyszi?=
+	=?gb2312?B?o6ywssirt73D5rXE?=
+Message-ID: <20050906021806.GA20051@bighead.6test.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <200509051512.j85FCqUH055072@gradinfo.net.edu.cn>
+User-Agent: Mutt/1.4.1i
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     标  题: Re: [数学]关于概率的两道小题~希望有人能帮我解决掉~
+     
+     1.
+           先把飞机到达的所有概率列出来：
+             a.长机独自到达P1=0.8*0.2*0.2
+             b.长机与一架僚机到达P2=0.8*0.8*0.2
+             c.全部到达P3=0.8*0.8*0.8
+           然后，到达飞机的数量与炸毁的概率：
+             a.一架p1=0.3
+             b.二架p2=2*（1-0.7*0.7）
+             c.三架p3=1-0.7*0.7*0.7
+           炸毁概率 P=P1*p1+P2*p2+P3*p3=0.476544
+             
+     --
+     咱们炼的钢铁啊,能造3颗大炮弹,都它娘的打到台湾去
+     一炮打在蒋介石的床上      
+     一炮打在蒋介石的饭桌上        
+     一炮打在蒋介石的茅坑里
+     让他睡不成觉,吃不成饭,还拉不成屎
+     咱们就解放台湾了
+     
+     
+     ※ 修改:・iFer 于 Sep  6 20:36:10 修改本文・[FROM: 58.66.24.*]

@@ -1,0 +1,28 @@
+Received: from maila.dlut.edu.cn (maila.dlut.edu.cn [202.118.66.71])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A029Pl026452
+	for <wua@ccert.edu.cn>; Sun, 11 Sep 2005 05:23:34 +0800 (CST)
+Received: by maila.dlut.edu.cn (Postfix, from userid 1001)
+	id 8B3846E7AE9; Sun, 11 Sep 2005 05:35:39 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by maila.dlut.edu.cn (Postfix) with ESMTP
+	id C4B576E76D9; Sun, 11 Sep 2005 05:35:33 +0800 (CST)
+Message-ID: <000f01c5b59b$fc2b9480$370410ac@commonor995309>
+From: "xing" <xing@dlut.edu.cn>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+0wcvB9bXCu6q1xMDPxqyhttP81tDB+qG3?=
+Date: Sun, 11 Sep 2005 05:24:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C5B5DE.08F861B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+
+说到刘德华，倒是想起了他的两部电影，一部是《九一神雕侠侣》，一部是
+《庙街十三少》，前部跟小说基本搭不上，那个时候的王家卫编写了这部电影
+的剧本，还好不是王家卫导演的那样难懂晦涩，使得这部电影在我的记忆中
+突现出来，当年也是特别喜爱的，郭富城演出的银狐成为最大的惊喜；而
+《庙街十三少》是一部剧情片，好像是跟王祖贤合演的吧，能记得最后刘德华
+死了，在那堆废墟中留给王祖贤的是一个戒指，电影拍得相当出色，有时间
+要找回来看看。
+     所谓冤冤相报何时了

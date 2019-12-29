@@ -1,0 +1,29 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <ling@ccert.edu.cn>; Sun, 11 Sep 2005 01:07:30 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <ling@ccert.edu.cn>; Sat, 10 Sep 2005 10:19:37 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Sat, 10 Sep 2005 10:19:37 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Sat, 10 Sep 2005 10:19:37 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sun, 11 Sep 2005 01:19:37 +0800
+From: =?GB2312?B?1/O+pw==?= <he@gmail.com>
+Reply-To: he@gmail.com
+To: ling@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMflu6qw69TCs/XM5dHp?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+哪里来得回哪里去吧
+矫情
+         下了火车，负责接待的同学很热情，让座请喝水，很热情。负责带领坐校车的同学也很热心，尽管等车的时间有点长。到了综合体育馆报道处，手续办得很顺利，系里的老师同学都乐意帮忙，把行李用平板车送到宿舍楼，非常感动的说。
+         清华校园的大和美丽偶就不多说了，路上的同学也都很热心。下面，偶就挑一些不好的说：
+         开水房离宿舍太远，每次打水都要做一番思想斗争，不知道学校里为什么不在紫荆园那里弄个开水房，而且水是温的，根本不热，想用热水烫烫脚只能晚上去打。

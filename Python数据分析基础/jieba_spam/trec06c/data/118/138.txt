@@ -1,0 +1,68 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AD9Mx3029876
+	for <zhou@ccert.edu.cn>; Mon, 12 Sep 2005 02:01:42 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6dUu093533
+	for <zhou@ccert.edu.cn>; Mon, 12 Sep 2005 01:59:13 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bluebox.CS.Princeton.EDU (bluebox.CS.Princeton.EDU
+	[128.112.136.38])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6ZAN093529
+	for <zhou@ccert.edu.cn>; Mon, 12 Sep 2005 01:58:56 +0800 (CST)
+	(envelope-from wangyi@ns.6test.edu.cn)
+Received: from [140.180.169.187] (yiwang.student.Princeton.EDU
+	[140.180.169.187]) (authenticated bits=0)
+	by bluebox.CS.Princeton.EDU (8.12.11/8.12.11) with ESMTP id
+	j8ADL2a8029505
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <zhou@ccert.edu.cn>; Sun, 11 Sep 2005 14:13:23 -0400 (EDT)
+Message-ID: <4322DDBC.1080807@ns.6test.edu.cn>
+Date: Sun, 11 Sep 2005 14:13:20 -0400
+From: Yi Wang <zhang@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+MIME-Version: 1.0
+To: zhou@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?vczKpr3av+zA1g==?=
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 mlx=-1
+	adultscore=0 adjust=0 reason=safe engine=3.0.0-05090301
+	definitions=3.0.0-05090911
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     标  题: 咋这里愁眉苦脸的多呢？我说说我家mm的一个梦吧
+     
+     咋这里愁眉苦脸的多呢？我说说我家mm的一个梦吧。
+     
+     话说这个梦把时光飞转到500年前。。。。。。。。
+     
+     
+     我是一个北方商贾，每年定期南北贩马，和mm夫妻恩爱。
+     话说这年，贩马路上，天下大乱，起义军蜂起，最终这次买卖不成，
+     反倒得罪了地方官府，没人追杀。
+     
+     后来和mm双双坐了地下鬼，mm因为不听话被关进黑屋子，
+     我就在黑屋子外面等呀等。别的野鬼都生死轮回了好多糟了，
+想不通，你干吗那么听话？
+     唯独我在那里一等500年哪，嗨......才熬到今生.....
+     
+     这是mm一天梦醒之后讲给我听得.......看来还真的感动人呀.....
+     --
+     ----------------------------------------------
+     江湖人称[一碗水]。
+     我来你就走，你来我就走。
+     只留下一架相机，一碗水，一个砖头。
+     
+     

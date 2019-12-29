@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82NbfwP002626
+	for <jiang@ccert.edu.cn>; Sat, 3 Sep 2005 09:49:32 +0800 (CST)
+Received: (eyou send program); Sat, 3 Sep 2005 09:49:52 +0800
+Message-ID: <325704282.09716@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 3 Sep 2005 09:49:52 +0800
+Message-ID: <325704282.09698@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sat, 3 Sep 2005 09:49:52 +0800
+From: ning@mail.tsinghua.edu.cn
+To: jiang@ccert.edu.cn
+Cc: tan@ccert.edu.cn
+Date: Sat, 3 Sep 2005 09:49:52 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILHItvuhpLjHtMTU2tbQufq/3sHLKNeq1Ngp?=
+Content-Type: text/plain
+
+     ――你看过这个事后有何感想？
+     　　有消息说，比尔・盖茨在中国哭了。为什么哭了，说法不一。
+     　　有人说，他看到中国的一则报道后哭的。这则报道说，2003年“非典”期间，中华慈善总会总共才收到770万元捐款，其中只有一个富人以个人名义捐了200万人民币。一个13亿人口的泱泱大国，百万美元以上的富人超过了23万名，在亚洲仅次于日本。当国家面临那么严峻的灾难时

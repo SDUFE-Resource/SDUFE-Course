@@ -1,0 +1,46 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AF39fI030243
+	for <qing@ccert.edu.cn>; Mon, 12 Sep 2005 18:12:20 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AF0L4C093997
+	for <qing@ccert.edu.cn>; Mon, 12 Sep 2005 18:09:50 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8AF0IZY093993
+	for <qing@ccert.edu.cn>; Mon, 12 Sep 2005 18:09:28 +0800 (CST)
+	(envelope-from mayuanchen@tsinghua.org.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 18:28:53 +0800
+Message-ID: <326365583.28602@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: mayuanchen@tsinghua.org.cn
+Received: from unknown (HELO mayc-d400) (220.207.80.1)
+	by 210.77.143.232 with SMTP; Mon, 12 Sep 2005 18:28:53 +0800
+From: "xiao" <xiao@tsinghua.org.cn>
+To: qing@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [TOEFL] =BD=CC=CA=A6=BD=DA=BF=EC=C0=D6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Date: Mon, 12 Sep 2005 18:21:42 +0800
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0061451654=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+    《数学分析教程》常庚哲   中国科技大学出版社。
+    《线性代数》李炯生 编  中国科技大学出版社；
+    《近世代数引论》冯克勤  中国科技大学出版社。
+    《概率论与数理统计》陈希孺 中国科技大学出版社。
+    《编译原理和技术》陈意云 中国科技大学出版社；
+    《计算机操作系统》汤子瀛  西安电子科技大学出版社
+    《密码学与网络安全：原理与实践》（第二板）杨明等译，电子工业出版社；
+    《Computer Security》，Dieter Gollman等，1999；
+    《网络安全基础教程：应用与标准》（英文影印版）William Stallings,清华大学出版社。
+    联系方式：13366881196 王同学，非常感谢！

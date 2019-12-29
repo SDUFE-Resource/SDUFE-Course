@@ -1,0 +1,18 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <lian@ccert.edu.cn>; Tue, 27 Sep 2005 12:06:09 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <lian@ccert.edu.cn>; Tue, 27 Sep 2005 11:26:28 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "yang" <yang@cert.org.cn>
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Tue, 27 Sep 2005 12:12:07 +0800
+
+     

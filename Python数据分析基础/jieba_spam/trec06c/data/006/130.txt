@@ -1,0 +1,52 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EEiS1q009384
+	for <guan@ccert.edu.cn>; Wed, 17 Aug 2005 22:56:12 +0800 (CST)
+Message-ID: <200508142244.j7EEiS1q009384@spam-gw.ccert.edu.cn>
+Received: from pisclubjhb (unknown [219.238.168.2])
+	by smtp4 (Coremail) with SMTP id RkBfofVb_0IPEu83.1
+	for <guan@ccert.edu.cn>; Wed, 17 Aug 2005 23:09:41 +0800 (CST)
+X-Originating-IP: [219.238.168.2]
+From: "lu" <lu@126.com>
+To: guan@ccert.edu.cn
+Cc: <jiang@ccert.edu.cn>,
+	<qing@ccert.edu.cn>,
+	<shi@ccert.edu.cn>,
+	<xia@ccert.edu.cn>,
+	<gong@ccert.edu.cn>,
+	<li@ccert.edu.cn>,
+	<bi@ccert.edu.cn>,
+	<xin@ccert.edu.cn>,
+	<ling@ccert.edu.cn>,
+	<su@ccert.edu.cn>,
+	<fan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg09C148rpo6zBrMLytPjLzbXE?=
+Date: Wed, 17 Aug 2005 23:10:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5A123.AB2C1F50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWg2iclErE9vEwpQUuF46XqYTUSdgABkatA
+In-Reply-To: <42FF5137.0076B3.03512>
+
+下面这些5元一本：
+高等数学简明教程（1-3册）   北大出版社
+高等数学    同济第四版（上下）
+线性代数  第二版   居余马 编     清华大学出版社
+线性代数导论   蓝以中、赵春来等编   北大出版社
+概率论与数理统计    第三版  浙江大学编    高教出版社
+概率论与数理统计学习辅导与习题集   第三版  浙江大学编    高教出版社
+05年数学 考研复习指南  经济类   陈文灯
+00年数学 考研复习指导   李正元编  理工类
+剩下的就送给用的着的人吧：
+离散数学三分册的相应习题集：数理逻辑、集合论与图论、代数结构与组合数学  北大出版社       
+软件工程   第一版   王立福等编     北大出版社
+数据结构与程序设计全真题解
+南大：
+程序设计   南京大学用书
+数据结构   陈本林等编    南京大学出版社
+操作系统    孙钟秀
+数据库    南京大学用书
+C语言   谭浩强
+数据结构（pascal版）  严蔚敏 
+数据结构习题集

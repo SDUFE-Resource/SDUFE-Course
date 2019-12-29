@@ -1,0 +1,30 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <lai@ccert.edu.cn>; Fri, 16 Sep 2005 18:06:20 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <lai@ccert.edu.cn>; Fri, 16 Sep 2005 18:37:28 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 18:17:35 +0800
+From: "zhou" <zhou@mail.nisac.gov.cn>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyP3Qx9fbus+8vMr11Loouqu5+inV0Ma4fg==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+招聘领域
+1。Multimedia Chip Design (Audio/Video/Graphics)
+2。Communication Chip Design
+3。CMOS RF IC Design
+4。CMOS Analog Circuit Design
+5。Data Converter Design
+对上述职位有意向者请参照
+http://www.iro.samsung.com.cn/careers/04.asp
+应聘方法：
+请在上述网站的简历模板中填写完中、英文简历之后再返回到[职位空缺]页面，
+点击《申请职位》。
+或直接把英文简历发至 hr00@iro.samsung.com.cn 邮件标题注明[申请职位]。

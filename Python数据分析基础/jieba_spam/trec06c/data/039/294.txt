@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <ke@ccert.edu.cn>; Thu, 25 Aug 2005 20:50:25 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 21:08:45 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 21:08:45 +0800
+Date: Thu, 25 Aug 2005 21:08:45 +0800
+From: cen@cernet.com
+Subject: =?gb2312?B?UmU6IMfrvcwgU0hMIMzixL+1xM341rc=?=
+To: ke@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+http://www.shldirect.com/shldirect-homepage/SHLDirect-1.asp
+     谢谢，请问是这个网址嘛？
+     http://www.shldirect.com/phasei/practicesection-phaseII/TestAdmin/javaok.asp?ID=5B93FDA2DF664AB20022D3D7A92CE066&amp;Target=http://www.shldirect.com/phasei/practicesection-phaseII/testadmin/TestIntro1.asp?Test=N%26ID=5B93FDA2DF664AB20022D3D7A92CE066
+     显示不了 ， 提示如下： 哪位高手说一下怎么弄啊，谢谢！

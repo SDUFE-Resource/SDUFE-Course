@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <cen@ccert.edu.cn>; Fri, 26 Aug 2005 22:00:47 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 22:08:17 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 22:08:17 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 22:08:17 +0800
+From: chen@mail.tsinghua.edu.cn
+To: cen@ccert.edu.cn
+Cc: sun@ccert.edu.cn
+Date: Fri, 26 Aug 2005 22:08:17 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg09Gw7rS00MLXytG2v8a8vCixsb6pKdPQz965q8u+1PXDtNH5o78=?=
+Content-Type: text/plain
+
+是美国友邦保险的子公司，主要和香港、泰国的分部一起为东南亚（不包括中国）的友邦公司开发保险软件，用COBOL，DB2等。
+开始有关于IT方面和保险业务知识的培训。刚开始的工资没有外资通信公司高（理由是我对保险行业没有背景知识），但是一年有两次review，如果有潜力会很有发展空间，而且很稳定（公司这么说）。另外，去香港的培训的机会很多。
+大家觉得，是选择友邦科技还是moto，lucent这样的公司呢？

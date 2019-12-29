@@ -1,0 +1,30 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdWEc032356
+	for <zhuang@ccert.edu.cn>; Mon, 26 Sep 2005 15:56:27 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 16:12:09 +0800
+Message-ID: <327652915.11497@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Mon, 26 Sep 2005 16:12:09 +0800
+Message-ID: <000201c5c1cf$bb5d1d80$0301a8c0@CCERTDAWEI>
+Reply-To: "li" <li@ccert.edu.cn>
+From: "li" <li@tsinghua.org.cn>
+To: zhuang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEZyZWVkb20gaXMgTk9UIGZyZWUgo7q4+M31zazRp7rNtNPKwr/G0dC5pNf3tcTNrMjK?=
+Date: Mon, 26 Sep 2005 13:12:10 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+    我没觉得王垠践踏了别人，他觉得某个方向“没有意义，伪科学”之类的都“仅仅”是学术观点，这个在哪里都有，做学术，总有一些方向是我不认同的，我不会去做的，很正常，王垠仅仅是把他的学术观点publish出来，说linux，latex更先进，说写的论文没意义，怎么能说是践踏哪，
+说王垠不会做人，严格的来说，是王垠不会做“思想复杂”的人，而是做一个思想“单纯，稍有些偏激的人”还差不多。
+当踏脚石一说从他的文章里看不出来，不予评论。
+     嗯～～
+     感觉王同学还没学会做人……
+  就算是天才也不能随意践踏别人啊，工作只有分工不同，没有贵贱之分
+  总不能一边BS别人的工作，一边还要别人给自己当垫脚石

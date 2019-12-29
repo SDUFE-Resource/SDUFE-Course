@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8464SY3009167
+	for <ling@ccert.edu.cn>; Sun, 4 Sep 2005 14:32:37 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMA008AX4CVO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Sun, 4 Sep 2005 14:50:16 +0800 (CST)
+Date: Sun, 4 Sep 2005 14:46:21 +0800
+From: =?gb2312?B?wre0utPq?= <yi@cernet.com>
+Subject: =?gb2312?B?UmU6INX3yM+45svfztLS0b6tuty+w7XEv8jL1NT1w7TWzsHGsci9z7/so78=?=
+To: ling@ccert.edu.cn
+Cc: ylu4859 <wei@ccert.edu.cn>, "grey.wang" <jian@ccert.edu.cn>,
+ zy <zheng@ccert.edu.cn>
+Message-id: <0IMA008AY4CVO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/mixed; boundary="Boundary_(ID_mtIjcpm6pV5fNK0/E3Q5IQ)"
+
+理解你的心情，告诉你一个经验方法，也很有效，我经历过很严重，这病不能拖，必须不间断尽快治疗，否则后果。。。
+方法：
+首先到正规医院（我去的是西直门人民医院）确诊，一定要做胸透，确定是什么原因，然后去看中医，开有效的中药，自己找地方熬药；如果是支气管问题（症状是哮喘），一边用中药治疗，一边用西药，西药有一种喷剂，挺贵的，不过学校公费医疗无所谓，名字忘了，必要时站内联系再告诉你。喷剂是用于支气管扩张用的，为了不留下病根，否则年老的时候很痛苦。
+我当时为了确保万无一失，几乎每周2-3次去人民医院，都是挂专家号，每次去都要做胸透，这个很重要，能看出你的支气管是否变粗等情况，以便进一步采取措施。我当时一共花了近5千块（多谢公费医疗），现在很好了。
+总之并切记：这病并不可怕，关键是要尽快、彻底治疗；中药、西药加上经常胸透判断效果。
+如有疑惑可站内联系或留下联系方式，祝你早日康复！

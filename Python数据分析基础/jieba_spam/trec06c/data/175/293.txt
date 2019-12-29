@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <xie@ccert.edu.cn>; Sat, 24 Sep 2005 02:57:47 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <xie@ccert.edu.cn>; Sat, 24 Sep 2005 03:09:16 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 18:46:22 -0000
+From: "wang" <wang@mail.tsinghua.edu.cn>
+To: xie@ccert.edu.cn
+Cc: <xie@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOy5xMbw08LG+M/ybW2x7bDXo6y1w7W91eLR+dK7uPa72Li0oaM=?=
+Date: Sat, 24 Sep 2005 03:08:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+前四句是不太通顺，感觉上表达的是mm要求比较高，但随着时光飞逝，佳偶难觅，又开始对自己的要求产生了怀疑和迷茫。（不好意思，好像什么也没看出来，不过写得烂也怪不得我吧）；
+后三句就比较明显了，意思是是不是就此一定终身呢，还是不要这么草率吧。至于你呢，虽然我没有明说，但你也该看得出来啊。
+          若非流光度，何苦为难归，不是久远心，又怎落浮云，了不了，何必草？弦断也听音.
+         大家帮忙分析分析啊，不甚明了，看看我还有希望没有？

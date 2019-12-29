@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M5vbgt005692
+	for <pu@ccert.edu.cn>; Sat, 24 Sep 2005 06:49:48 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8M5qUEM011899
+	for <pu@ccert.edu.cn>; Sat, 24 Sep 2005 06:45:38 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8M5qPKG011895
+	for <pu@ccert.edu.cn>; Sat, 24 Sep 2005 06:44:39 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 19856 invoked by uid 512); Fri, 23 Sep 2005 22:53:02 -0000
+Message-ID: <20050922060051.19855.qmail@stu.ee.tsinghua.edu.cn>
+From: lian@stu.ee.tsinghua.edu.cn
+To: pu@ccert.edu.cn
+Date: Sat, 24 Sep 2005 06:53:02 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEg1dDGuGMjyrXPsMn6?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+北京城建勘测设计院是一家集设计与施工于一体的勘察测绘国有企业，承担着奥运场馆和北京地铁等许多大中型国家建设项目的勘测工作，在行业内有极高的声誉！
+近年来，本企业在岩土信息技术方面也取得了长足的进步，为了进一步发展岩土信息技术在工程领域的开发和应用，现向北京各个高校诚招.NET编码实习生，共谋发展。
+  要求如下：
+ 1）刻苦敬业，有很好的协作精神和学习能力，有较充裕的工作时间。
+ 2）精通.net 框架和C#编程
+ 3）熟悉SQL SEVER 2000 开发
+ 4）具有建筑工程工程背景或者熟悉GIS者优先（非必要条件）
+ 
+ 根据个人的能力和工作量，工资待遇在1000－3500元
+ 有意者，请把个人材料发送到zjxu123@yahoo.com.cn, 勿访！

@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j822KE0j026900
+	for <pu@ccert.edu.cn>; Sat, 3 Sep 2005 06:24:30 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j822I2Cp027723
+	for <pu@ccert.edu.cn>; Sat, 3 Sep 2005 06:23:10 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j822Hw7X027719
+	for <pu@ccert.edu.cn>; Sat, 3 Sep 2005 06:22:15 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 3 Sep 2005 06:11:17 +0800
+Message-ID: <325626821.22783@mails.tsinghua.edu.cn>
+Received: from 202.38.188.130 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 3 Sep 2005 06:11:17 +0800
+From: zeng@mails.tsinghua.edu.cn
+To: pu@ccert.edu.cn
+Date: Sat, 3 Sep 2005 06:11:17 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILTzvNK/tL+0ztK1xMfpv/bU9cO0veK+9g==?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: zeng@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+他哥听起来很窝囊，就算要读博士，也不一定非要按照目前的这种途径阿！完全可
+以工作两年上在职的。搞不明白为什么全职，自己挣钱能力又不强！
+不过你也不用很担心，他哥就算今年考试，也不见得考上。
+     其实凭心而论，老公平时多我很好。
+     基本上都顺着我来（当然我也没有什么过分的要求），也很细心
+     就是在他家和他哥哥这个问题上，他一直还在一种负疚的阴影中，所以每当这个时候，我们就可能有不一致的。

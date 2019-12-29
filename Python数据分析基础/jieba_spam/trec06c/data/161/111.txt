@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ID8DYi008045
+	for <li@ccert.edu.cn>; Wed, 21 Sep 2005 01:08:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8IDJqRe004245
+	for <li@ccert.edu.cn>; Wed, 21 Sep 2005 01:20:07 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 20 Sep 2005 16:59:44 -0000
+Message-ID: <017301c5bc53$c8f1e290$787d6fa6@hotline>
+From: "tao" <tao@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtNfcysfSu7j2yMu5/dbQx++jrLCm?=
+Date: Wed, 21 Sep 2005 01:21:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0170_01C5BC96.D6F872D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+      谈了一段恋爱，结果什么节日也没赶上就over了，中秋节还是一个人过，唉
+      居然还有点想念，ft,好好过自己的生活吧，干吗要不争气地去想。
+      啦啦啦，自己找点事做，我就不信离了谁就不能活了
+其实，一个人过，也没有什么不好的啊，只不过，有时候，看到别人都是成双成对的出入，心中难免有一些涟漪。什么感觉都没有的人是没有的，除非，你是个看破红尘的老者哦。生命中太多的不完美造就了我们之中有幸福的，就有伤心的！朋友，加油，努力再找一个嘛，下一个中秋节，该来的人就会来了！

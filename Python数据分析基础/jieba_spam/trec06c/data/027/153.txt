@@ -1,0 +1,25 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <guan@ccert.edu.cn>; Mon, 22 Aug 2005 20:57:41 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <guan@ccert.edu.cn>; Mon, 22 Aug 2005 21:10:52 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "tan" <tan@126.com>
+To: guan@ccert.edu.cn
+Cc: <yana@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPO07653bvYwLTP68u1vLi+5A==?=
+Date: Mon, 22 Aug 2005 21:10:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+馆长是邵怀悦老师吧，教我们游泳的，特别敬业，大眼睛扑闪扑闪的。
+     今天游泳出来，钥匙刚插进还没转就断了（完全是长久用得已经断了大部分，已经寿终正寝的时候了）。然后好不容易看到一工作人员，他要我去馆长办公室拿钥匙。我光着膀子冻得哆嗦来到办公室，一脸横肉的那斯（所谓馆长，哎，真是侮辱了“长”字），还没给我拿钥匙，就说交
+     感慨两点：1.为什么不先给我开柜子，上来就说钱，这个让我很气愤
+               2.为什么说不管怎么样，断了就是要赔。

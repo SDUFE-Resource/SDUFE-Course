@@ -1,0 +1,46 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3XRsq011198
+	for <ning@ccert.edu.cn>; Sat, 1 Oct 2005 06:08:36 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U3S2Fd080380
+	for <ning@ccert.edu.cn>; Sat, 1 Oct 2005 06:03:22 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U3RxnO080376
+	for <ning@ccert.edu.cn>; Sat, 1 Oct 2005 06:03:07 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 1 Oct 2005 06:15:32 +0800
+Message-ID: <328051624.14203@mails.tsinghua.edu.cn>
+Received: from 202.112.4.39 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 1 Oct 2005 06:15:32 +0800
+From: huang@mails.tsinghua.edu.cn
+To: ning@ccert.edu.cn
+Date: Sat, 1 Oct 2005 06:15:32 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMflu6q089Gn0aexqNOizsSw5srHsNm31tausNlFSbzsy/fDtKO/ICjXqtTYKQ==?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: huang@mails.tsinghua.edu.cn
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+是的吧  至少清华是这么算得
+     标  题: 清华大学学报英文版是百分之百EI检索么？
+     
+     【 以下文字转载自 Paper 讨论区 】
+     发信人: t22 (隐士), 信区: Paper
+     标  题: 清华大学学报英文版是百分之百EI检索么？
+     
+     如题，谢谢！
+     好像中文版就不是
+     
+     --
+     

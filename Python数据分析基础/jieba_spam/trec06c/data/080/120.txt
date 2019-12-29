@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <wang@ccert.edu.cn>; Sat, 3 Sep 2005 15:17:34 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <wang@ccert.edu.cn>; Sat, 3 Sep 2005 15:29:20 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 07:16:51 -0000
+From: "han" <han@mail.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Cc: <xia@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7K0rvOyqOstPO80ra8uObL37zSwO/X1Ly61fW24MnZx67C8KO/?=
+Date: Sat, 3 Sep 2005 15:28:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+我告诉我妈我LG的收入和我的工资。奖金隐瞒不报
+不过也告诉我妈基本月月光。。。。。
+     我妈有时候问我我就不想说，因为我这点工资在北京也就温饱，但是在家听上去很高
+     我妈退休工资600。
+     我原来告诉她我实习一天100，她都说这么高啊。可其实我花销大得很，每天交通费6块，午饭最便宜10块换个地方吃就是15以上，早饭2块。其它的房租啊，晚饭啊，生活必须品啊，衣服啊（我们上班对服装要求蛮严的，休闲的都不行）就我这点工资都省不下什么。

@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <kong@ccert.edu.cn>; Mon, 22 Aug 2005 08:58:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <kong@ccert.edu.cn>; Mon, 22 Aug 2005 09:11:31 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 01:06:08 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "jian" <jian@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: "tunet" <huang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IDU0X2NsdWK007Ty1NO/qsq8oaqhqsflu6rRp8n61NrO98PF19O1xMq1z7DJ+rvu?=
+Date: Mon, 22 Aug 2005 09:07:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+直接从intern转不就完了
+     此帖由54club转载
+     我的专业是企业管理，FD毕业后直接来RD继续念这个什么都学，又什么都学得不精的专业。今年暑假，我没有去导师公司做项目，决定自己找实习。很可惜，一开始没有好好把握 去shell的机会，后来西门子给了机会就决定留在北京实习了。 
+     在西门子之前，我去过5家公司实习，其中包括了上海麦肯锡和上海奥美公关。实习的经历从做的事情来说很多时候都只能归入“打杂”一列。在麦肯锡，我的主要工作是实地收 集顶级男装品牌的价格信息，这份工作当然谁都能做，只要机灵一点。那时候做得很累的时候也质疑过自己

@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <weng@ccert.edu.cn>; Tue, 23 Aug 2005 02:14:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <weng@ccert.edu.cn>; Tue, 23 Aug 2005 02:27:26 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 18:22:03 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "gao" <gao@mail.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+Cc: "tunet" <he@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+Date: Tue, 23 Aug 2005 02:23:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     若干个同学在华为，就有资格说几句？
+     即使在华为的，也未必敢这么肯定。起码我是不敢肯定有资格对一些我不确定的东西发言
+     比如上面有位兄弟说中华两家在海外的事情，我经历的不是，但我不敢保证别的国家是否
+贷款有那么容易？“银行不敢不给。。”
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          我对华为没有任何兴趣，我参与讨论不是为了这个话题。
+          我不是干银行的，但我的从幼儿园一起长大的哥们是。大学毕业，我继续来清华，他去工行济南历下支行做信贷员。就一个破历下区的支行，上个月他们行长就给了他一个单子。过亿的贷款，手续破绽百出。
+他03年毕业，今年上班不过2年，资历就他浅。这是明显的找人背锅的case。他一个小本自然不敢，上亿啊。几次不服从这个命令，现在已经被收拾东西，每天郁闷的在家魔兽。那个公司连听都没听说过，就能搞出这样的事情。
+        华为也好，其他也好，  不是我们是愤青   是我们太 那义乌 了。
+     
+    生活不是我们在学校里能看到的！

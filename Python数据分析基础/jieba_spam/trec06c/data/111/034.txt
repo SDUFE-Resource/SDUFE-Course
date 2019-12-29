@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5NG8m027911
+	for <xia@ccert.edu.cn>; Sat, 10 Sep 2005 13:33:37 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5KeKS091336
+	for <xia@ccert.edu.cn>; Sat, 10 Sep 2005 13:31:10 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5Kblh091332
+	for <xia@ccert.edu.cn>; Sat, 10 Sep 2005 13:30:58 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 10 Sep 2005 13:20:07 +0800
+Message-ID: <326328986.06301@mails.tsinghua.edu.cn>
+Received: from 59.66.112.135 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 10 Sep 2005 13:20:07 +0800
+From: rao@mails.tsinghua.edu.cn
+To: xia@ccert.edu.cn
+Date: Sat, 10 Sep 2005 13:20:07 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IGdntcTC6MLo17yxuLLZsOzO0sPHtcS76cDxo6y1q87SyLS6zWdny7W31srW?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: rao@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+你们磨合多久了？
+     难道真的是磨合期容易分嘛？
+     不理解有没有这样一对人，互相都觉得对方的能力和经验不够，但还在一起谈恋爱。
+     gg老说我幼稚，比同龄人差，我自己也清楚自己社会经验和能力不够，但我一直待在学校里，总是差些，但受不了gg老说我这个差，那个差的。有没有象我这种情况但一直能走上结婚地毯的？想不通象这样互相看不起还能继续生活下去吗？

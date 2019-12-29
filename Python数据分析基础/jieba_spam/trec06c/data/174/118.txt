@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <lu@ccert.edu.cn>; Fri, 23 Sep 2005 19:57:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <lu@ccert.edu.cn>; Fri, 23 Sep 2005 20:08:34 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 11:45:34 -0000
+From: "chi" <chi@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Cc: <qing@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgRkVTQ0/Oqs3i18q159DFuavLvtXQxrizzNDy1LE=?=
+Date: Fri, 23 Sep 2005 20:08:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+北京外企服务集团公司（FESCO）受某外资电信公司委托，招聘两名程序员，要求如下：
+1 本科以上学位，计算机或相关专业
+2 两年以上编程相关的工作经验，熟悉C，C++，PERL， LINUX，Symbian
+3 有基本英语交流能力和书写技术文档（汉语）的能力；有独立分析问题并解决问题的能
+力
+4 有数理统计与信号处理基础者优先
+5 简历中请注明籍贯及母语，如上海，上海话
+服务期间与FESCO签订劳动合同，为FESCO员工，在委托方（外资电信公司）办公室工作。
+有意者请将简历发至王先生 wangxisan@vip.sina.com. 王先生会将简历转发给负责
+招聘的外资公司。

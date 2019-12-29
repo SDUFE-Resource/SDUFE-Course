@@ -1,0 +1,139 @@
+<html>
+<head>
+  <title>DES Calculator</title>
+</head>
+<body bgcolor="#eeeeff">
+
+<h1>DES Calculator</h1>
+The DES Calculator applet is used to encrypt or decrypt test data values
+using DES block cipher.  It takes a 64-bit (16 hex digit) data value
+and a 128-bit (32 hex digit) key.  It can optionally provide a trace
+of the calculations performed, with varying degrees of detail.
+
+<hr>
+<h3>Using the DES Calculator</h3>
+<p>
+The <a href="DEScalc.html">DEScalc.html</a> page is used to access
+the DES Calculator. To use the calculator fill in the 
+<b>Input Data</b> value (being 16 hexadecimal digits), and the
+<b>DES Key</b> (being 32 hexadecimal digits), and press either the
+<b>Encrypt</b> or <b>Decrypt</b> button, as required. The
+resulting value will be displayed, along with the trace of the
+calculation, at the level of detail specified by te <b>Trace Level</b>
+radio buttons. If there is an error in the supplied values, an
+error message will be displayed in red.
+
+<p>
+An example DES test value, taken from
+"H. Katzan, The Standard Data Encryption Algorithm,
+pp75-94, Petrocelli Books Inc., New York, 1977" is:<br> 
+<pre>
+Key:        5B5A57676A56676E
+Plaintext:  675A69675E5A6B5A
+Ciphertext: 974AFFBF86022D1F
+</pre>
+<p>
+Encrypting the plaintext with the key should give the ciphertext,
+decrypting the ciphertext with the key should give the plaintext.
+
+<p>
+The Trace produced looks like (at level 2):
+<hr>
+<pre>
+setKey(5b5a57676a56676e)
+
+encryptDES(675a69675e5a6b5a)
+  IP:	L0=ffb2194d, R0=004df6fb
+  Rnd1	f(R0=004df6fb, SK1=38 09 1b 26 2f 3a 27 0f ) = 746fc91a
+  Rnd2	f(R1=8bddd057, SK2=28 09 19 32 1d 32 1f 2f ) = 7add38ae
+  Rnd3	f(R2=7a90ce55, SK3=39 05 29 32 3f 2b 27 0b ) = a5e3f499
+  Rnd4	f(R3=2e3e24ce, SK4=29 2f 0d 10 19 2f 1d 3f ) = c5403e1c
+  Rnd5	f(R4=bfd0f049, SK5=03 25 1d 13 1f 3b 37 2a ) = 91a62c82
+  Rnd6	f(R5=bf98084c, SK6=1b 35 05 19 3b 0d 35 3b ) = 6aeb6bc3
+  Rnd7	f(R6=d53b9b8a, SK7=03 3c 07 09 13 3f 39 3e ) = 1e9f7513
+  Rnd8	f(R7=a1077d5f, SK8=06 34 26 1b 3f 1d 37 38 ) = 59d1851c
+  Rnd9	f(R8=8cea1e96, SK9=07 34 2a 09 37 3f 38 3c ) = 0fc4b474
+  Rnd10	f(R9=aec3c92b, SK10=06 33 26 0c 3e 15 3f 38 ) = 8de55e67
+  Rnd11	f(R10=010f40f1, SK11=06 02 33 0d 26 1f 28 3f ) = dced7991
+  Rnd12	f(R11=722eb0ba, SK12=14 16 30 2c 3d 37 3a 34 ) = 898d0def
+  Rnd13	f(R12=88824d1e, SK13=30 0a 36 24 2e 12 2f 3f ) = 34cee3c3
+  Rnd14	f(R13=46e05379, SK14=34 0a 38 27 2d 3f 2a 17 ) = 6a4754b1
+  Rnd15	f(R14=e2c519af, SK15=38 1b 18 22 1d 32 1f 37 ) = 5bac9dc6
+  Rnd16	f(R15=1d4ccebf, SK16=38 0b 08 2e 3d 2f 0e 17 ) = e448c462
+  FP:	L=974affbf, R=86022d1f
+ returns 974affbf86022d1f
+
+974affbf86022d1f
+</pre>
+<hr>
+
+<p>
+The provides details of:
+<ul>
+<li> the 64-bit (16 hex digit) key used (should be same as specified)
+<li> the 64-bit (16 hex digit) data value used (should be same as specified),
+and whether encrypt or decrypt has been requested
+<li> the left and right data halves after the initial permutation
+<li> for each of the 16 rounds, the 32-bit right half data value, the 
+48-bit (as 8 x 6-bit values) subkey, and the output of the non-linear function
+f which will be XOR'd with the left half data value (which was the right half
+in the previous round)
+<li> and the final value computed (being the en/decrypted original data value),
+after the final permutation, which should be as shown as the result.
+</ul>
+
+<hr>
+<h3>Installing the DES Calculator on your own System</h3>
+<p>
+You can install the DES Calculator on your own system by uploading
+the following files, and saving them all in the same directory:
+
+<dl>
+<dt> <a href="DEScalc.html">DEScalc.html</a>
+<dd> the HTML file used to run the applet
+<dt> <a href="DEScalc.jar">DEScalc.jar</a>
+<dd> the Java JAR file containing the code for the program,
+which is loaded by DEScalc.html.
+</dl>
+
+<p>
+Then open your local saved copy of <a href="DEScalc.html">DEScalc.html</a> 
+in your favorite (Java enabled) web browser. You may need to install a
+suitable Java v1.4 plugin for your browser - this is available from the
+<a href="http://java.sun.com/j2se/">J2SE Java distributions</a>,
+which are included in the <a href="../index.html">useful programs</a>
+area for this course (CD only).
+You will need to copy/link the appropriate browser plugin file from
+the J2SE installation area to the plugin directory for your browser
+and restart it.
+
+<p>
+If you want to look under the hood, the sources are available in the
+<a href="DEScalc.jar">jarfile</a>. Copy it onto your system, extract
+files with "<code>jar xvf DEScalc.jar</code>", and look at the
+<a href="README">README</a> file for more information. A Unix Makefile for
+building the sources using the Java SDK is included. The source code is
+written for clarity, ease of relation to the algorithm description, and
+ease of tracing intermediate values, <b>not</b> for efficiency! It is
+designed to be used to help students in my cryptography course better
+understand the operation of this cipher, as for example by doing my
+<a href="lab_des.html">DES lab</a>.
+
+<hr>
+<h3>Authorship & Copyright</h3>
+<p>
+The DES Calculator applet was written by Lawrie Brown from ADFA,
+Canberra Australia.  Lawrie's code is Copyright &copy; 2005 by Lawrie
+Brown.  Permission to reuse this code as desired is granted, provided due
+acknowledgement is given of the author and source of the original code.
+
+<hr>
+[<a href="../index.html">Back to Programs</a>]
+
+<hr>
+<address>
+  <a href="http://www.unsw.adfa.edu.au/~lpb/">Lawrie.Brown@adfa.edu.au</a> /
+   7 Jun 2005
+</address>
+</body>
+</html>

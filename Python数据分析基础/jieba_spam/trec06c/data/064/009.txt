@@ -1,0 +1,32 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <qiu@ccert.edu.cn>; Wed, 31 Aug 2005 20:31:47 +0800 (CST)
+Received: (qmail 18809 invoked from network); Wed, 31 Aug 2005 12:43:30 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Wed, 31 Aug 2005 12:43:30 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "lian" <lian@jdl.ac.cn>
+To: qiu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7V0KG/06LOxNPvwc+/4r+qt6LUsaOs1fvA7dbQufrKvdOizsS07c7ztPPIqyAo16rU2Ck=?=
+Date: Wed, 31 Aug 2005 20:45:48 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 ParttimeJob 讨论区 】
+发信人: engoo (engoo), 信区: ParttimeJob
+标  题: 【招】英文兼职，整理中国式英文错误大全
+我们团队正在开发一个英文用法检查软件，能够识别中国用户的英文句子中的中国式错误，比如：
+我用水果招待你。
+I treat you with apples. 
+英文句子中的“treat sb with sth”就是一个中国式错误， 正确的应该是" I treat you to apples."
+就这个例子，期望整理出的知识是：
+treat sb with sth =&gt; treat sb to sth 
+当这条知识入库后，以后无任什么样的英文句子，只要其包括“treat sb with sth”，系统都可以将之识别出来并进行警告。
+欢迎感兴趣的有一定外语背景的同学参与，兼职全职皆可。
+可将简历和意向发至 EngooAgent@gmail.com ， 谢谢！

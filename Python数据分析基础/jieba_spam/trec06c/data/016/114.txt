@@ -1,0 +1,27 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <shen@ccert.edu.cn>; Sat, 20 Aug 2005 09:53:54 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <shen@ccert.edu.cn>; Sat, 20 Aug 2005 10:06:58 +0800 (CST)
+Date: Sat, 20 Aug 2005 10:01:15 +0800
+From: "gong" <gong@sohu.com>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0rvG8Mq1z9a7t9POysC957XEw87P66Oh?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+    有一份这样的工作等着你：通过这份工作，你有机会去你想去的地方，
+实现环游世界的梦想；通过你的工作，帮助那些在路上的人们；通过我们
+共同的努力，让《海外通书系》成为中国人出国旅游、学习和生活的圣经。
+    由清华校友创办的海外通旅行网www.havata.com，目前国内最领先的
+出境旅游电子商务网站，业务涉及出国商务服务的各个方面，海外通博客
+是行者体验和交流的天堂。
+    公司的业务目前正在向平面媒体领域延伸，对于我们来说，人才永远是
+实现目标和保有竞争力的关键因素。所以海外通期待你的加盟：
+现拟招聘在校编辑１０名。
+    
+    联系方式：请将简历发送至：zhaopin@havata.com

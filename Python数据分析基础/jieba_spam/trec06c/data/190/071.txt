@@ -1,0 +1,40 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <fu@ccert.edu.cn>; Tue, 27 Sep 2005 02:58:37 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 19:09:31 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 19:09:31 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <fu@ccert.edu.cn>; Mon, 26 Sep 2005 12:20:38 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <fu@ccert.edu.cn>; Mon, 26 Sep 2005 14:17:04 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 03:09:19 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <ning@motorola.com>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMflu6pHR9X3uuzQ5Mztz+M=?=
+Date: Tue, 27 Sep 2005 03:08:54 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+补充：
+承蒙许多网友对本人贴子的惠顾，加我做好友。只是许多朋友可能有些误会了，特此补
+充说明：
+本人今年38岁，已娶妻生子。现在清华攻博最后阶段，征友只为  红袖添香伴耕书，交
+流研究体会，分离其中的痛苦与欢乐，在学习休息之余，放飞心情，共同进步。
+不是为了征婚、网恋，望那些想寻清蛙嫁出自
+己的小女生体谅、绕行。
+本人是老清蛙，没用啦。
+谢谢各位
+老清蛙
+     清华GG征红袖添香，不谈爱情，只谈学习、生活、旅游、友谊、事业，QQ：49903319

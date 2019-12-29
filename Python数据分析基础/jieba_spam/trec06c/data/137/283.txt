@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <liao@ccert.edu.cn>; Thu, 15 Sep 2005 23:28:56 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <liao@ccert.edu.cn>; Thu, 15 Sep 2005 23:40:51 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 15:23:08 -0000
+From: "lai" <lai@mail.tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Cc: <xia@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INK7uPbG5rnWtcTOyszi?=
+Date: Thu, 15 Sep 2005 23:40:46 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+娱乐行为，效果显然离不开“情境”，在电影院看电影，看电脑上的电影，通过电视看电影，感受显然都是不一样的，虽然你看的“内容”相同；例如电影院的大屏幕，神秘气氛，审美心境，不受你控制的放映进程，都让你有与看电脑不同的审美体验：电影场面更壮观，你没法前拖后拖所以只好更认真的看，更容易入戏，等等。此外电影院本身就承载文化功能，例如到影院看电影可以是一家人联系感情的方式，是你谈朋友的一种仪式等等；虽然通过其他方式看电影也有这个效果，但是不要忘了观念的“路径依赖”。所以对于市场，电影票和碟子两种商品相当程度上是互补品，绝不仅仅是此消彼长
+     现在电视普及了, 电影为何没有退出历史舞台?电脑也快普及了,为何人们还要到电影院看电影呢

@@ -1,0 +1,24 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j874iPdV032722
+	for <pan@ccert.edu.cn>; Wed, 7 Sep 2005 14:38:20 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by smtp119.sohu.com (Postfix) with ESMTP id 84D5F0526C87
+	for <pan@ccert.edu.cn>; Wed, 7 Sep 2005 14:50:22 +0800 (CST)
+Date: Wed, 7 Sep 2005 14:50:31 +0800
+From: "hu" <hu@sohu.com>
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?ofEguLS1qdHQvr/J+tXQyfrW99Kz0tHD98i3y7XD9zA2xOqyu8rVt9GjoQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907045627.84D5F0526C87@smtp119.sohu.com>
+
+http://www.gs.fudan.edu.cn/new/
+现已确定2006年度不会进行研究生培养机制改革试点，我校研究生招生类别、培养费用
+等相关政策仍按现行规定执行，即我校绝大多数研究生属于国家计划内非定向培养生和
+定向培养生，培养费由国家财政拨款。少数研究生（主要是除临床医学以外的专业学位
+硕士生）属于委托培养生（培养费由选送单位支付）或自筹经费培养生（培养费由考生
+本人自筹），其交纳培养费的标准详见我校财务处（网址：http://10.49.99.99）的公 
+示（2005.9.8）。

@@ -1,0 +1,32 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 03:56:41 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 03:18:59 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "lv" <lv@cert.org.cn>
+To: su@ccert.edu.cn
+CC: "tang@ccert.edu.cn" <lian@ccert.edu.cn>,
+   "pan@ccert.edu.cn" <zhong@ccert.edu.cn>,
+   "ren@ccert.edu.cn" <weng@ccert.edu.cn>, "feng@ccert.edu.cn" <gong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILPnsN3N9c2s0ae1xMfrvtnK1g==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 04:04:26 +0800
+
+你听说过pine没有?
+没有的话我也跟你卖弄卖弄
+     标  题: Re: 崇拜王同学的请举手
+     
+     我觉得用gaim的就是牛人，用GTalk的更牛，用MSN的就土了一点，用QQ的就是小屁孩
+     用GMail比用Hotmail牛，用163的就是土人
+     用grokker比用google牛
+     改天写普及文章去，征一堆fans回来
+     : 哦，原来成绩高的就叫做“牛人”啊
+     
+     
+     --
+     

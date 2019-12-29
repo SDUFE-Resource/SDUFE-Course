@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <qing@ccert.edu.cn>; Wed, 31 Aug 2005 20:53:58 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 20:56:50 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 20:56:50 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 20:56:50 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 12:50:13 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 20:42:23 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 20:42:23 +0800
+From: cao@mails.tsinghua.edu.cn
+To: qing@ccert.edu.cn
+Cc: fan@ccert.edu.cn
+Date: Wed, 31 Aug 2005 20:42:23 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILbBsqnSu8C0tdrSu7TO1ebV/dDEt7M=?=
+Content-Type: text/plain
+
+尽力干，很容易的
+我见过比你起点低很多很多的，也可以做的不错
+主要是现在要求也不高，怕什么啊，呵呵
+     硕博连读，今天开学就博2了，虽然本科硕士成绩优秀，但愈发现学习和科研风牛马不相及！！！！不喜欢编程，我想主要是我保研后就只顾着玩了，落的太多，该学的super 多，感觉没有补救了：（  熟悉的同学们马上明年就毕业了，不知自己到时能不能挺下来，我编程能力很差！！！！导师最近要我做项目：（觉得天都塌了*_*
+       忽然觉得这世道（当然是工科的世道，文科应该没这类problems），不会编程，真的是没法生存！！！！！！还曾经要“立志”改变女博在国人心中的形象，看来我是不是该“理智”一点，这个博真的不容易呀：（
+     so 我真的动了退的心，想想真是对不起bama，还有自己从前的优秀成绩，可是害怕一味的坚持等于最终的不识时务！！！还害怕退了找工作还需要programingprograming，疯了：（

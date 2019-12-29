@@ -1,0 +1,42 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <cao@ccert.edu.cn>; Sun, 21 Aug 2005 15:39:39 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <cao@ccert.edu.cn>; Sun, 21 Aug 2005 15:52:41 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 16:16:09 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: lv@126.com
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7V0Ma4ob+439C9s8/GuMvRy/fS/cfm0dC3osjL1LE=?=
+Date: Sun, 21 Aug 2005 15:47:23 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+北京锐客空间信息技术有限公司系中关村科技园区高新技术企业，
+位于北邮留学人员创业园，由美国麻省大学留学归国人员创办，
+并赢得国际风险投资支持。公司2004年7月推出了国内第一个手机
+搜索引擎易查Yicha.cn(原Waproot.com)，已经在中国移动梦网、
+联通互动视界和多家手机内置软件中提供服务。公司诚聘英才加盟：
+招聘职位：
+搜索研发工程师
+要求：
+1、计算机相关专业本科以上
+2、精通Java语言、至少两年以上Java开发经验
+3、熟悉网络通信、多线程编程技术
+4、有系统分析/架构设计经验，并有编写高质量文档的经验
+5、有自我激励能力，乐于承担工作压力，可以适应加班工作要求
+6、有大型分布式网络系统研发经验者优先
+6、有网络搜索引擎开发经验者优先
+请将个人简历发送到hr@yicha.cn并在邮件标题注明应聘职位，

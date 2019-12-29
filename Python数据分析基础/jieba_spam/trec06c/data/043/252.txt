@@ -1,0 +1,27 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <xue@ccert.edu.cn>; Fri, 26 Aug 2005 13:00:10 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 13:18:30 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 13:18:30 +0800
+Date: Fri, 26 Aug 2005 13:18:30 +0800
+From: qiu@cernet.com
+Subject: =?gb2312?B?UmU6ILbUy9G6/Lmry761xNK70Km9qNLpo6jUrbS0o6k=?=
+To: xue@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+sohu是在美国注册的，不完全属于中国化
+把公司领导架空，因为你是被收购的，不能完全听你的
+不过，sohu确实面临很多挑战，他自己慢慢解决吧
+                
+     张朝阳先生领导的搜狐公司，经过多次收购，现在可以说是一锅粥，大杂烩。
+     尤其是对吉菲尔技术有限公司（GoodFeel）的收购，对搜狐公司来说是一个严峻的考验。
+     为什么这么说呢？ 因为GoodFeel是一个韩国人领导企业，与中国企业存在一个企业文化的融合问题。

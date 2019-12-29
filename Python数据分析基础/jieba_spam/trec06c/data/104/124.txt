@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86NYrNl030488
+	for <yun@ccert.edu.cn>; Fri, 9 Sep 2005 00:46:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j86Nl5Cw020630
+	for <yun@ccert.edu.cn>; Fri, 9 Sep 2005 00:59:10 +0800 (CST)
+Message-Id: <200509062347.j86Nl5Cw020630@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 8 Sep 2005 16:44:52 -0000
+From: "yuan" <yuan@mail.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Cc: <bai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/W1NrTyr7Wu+O/7srVvLi24MrW0Pi30T8=?=
+Date: Fri, 9 Sep 2005 00:59:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C5B380.54702A70"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzPUXCPFDEFrr6STeY429PH7DHSw==
+
+你上次坐火车不是放军挎里面没丢吗？
+     标  题: 现在邮局汇款收几多手续费?
+     
+     我下午要去汇款啦~~~~~~~~~~
+     
+     --
+     兔子吃饭回来说:11食堂的盘子很新,可以照镜子,真高兴
+     正确mm看了说:照出来一只兔子,分不清楚到底是盘子里的兔子还是吃盘子里的兔子的兔子了
+     兔子:正确mm学问高,你这句话我看了2次还是没看明白
+     jackghost建议我做个qmd,于是有了这个qmd
+     然后microcheng说:你这个qmd可读性不强，建议取消
+     兔子:对于理解力比我还差的人,我不予考虑其建议的
+     
+     

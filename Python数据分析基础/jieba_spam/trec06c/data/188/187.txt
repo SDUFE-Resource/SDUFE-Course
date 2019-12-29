@@ -1,0 +1,19 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <yan@ccert.edu.cn>; Mon, 26 Sep 2005 18:29:37 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <yan@ccert.edu.cn>; Mon, 26 Sep 2005 17:49:56 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "zhang" <zhang@cert.org.cn>
+To: yan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/rzazFrtPRzay+06OswsW0zrG7vtyjrM7StO3By/fho78=?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Mon, 26 Sep 2005 18:35:35 +0800
+
+这位兄弟，我敬佩你!
+     社会可以多元化，生活态度可以多元化，但是基本的是非标准可以因此而淡化吗？

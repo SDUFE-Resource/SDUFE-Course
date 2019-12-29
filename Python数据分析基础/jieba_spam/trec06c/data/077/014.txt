@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82FLbGe032642
+	for <wu@ccert.edu.cn>; Sat, 3 Sep 2005 04:49:11 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FJdh8031910
+	for <wu@ccert.edu.cn>; Sat, 3 Sep 2005 04:47:47 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j82FJK7s031906
+	for <wu@ccert.edu.cn>; Sat, 3 Sep 2005 04:47:09 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 3 Sep 2005 04:36:06 +0800
+Message-ID: <325673713.12029@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 3 Sep 2005 04:36:05 +0800
+From: guo@mails.tsinghua.edu.cn
+To: wu@ccert.edu.cn
+Date: Sat, 3 Sep 2005 04:36:05 +0800
+X-Priority: 3
+Content-Type: text/plain
+Subject: =?gb2312?B?ofEgx+vOyrmry76yu8rY0MXTw6Oss/a2+7e0tvvO0rjD1PXDtLDso78=?=
+Precedence: list
+Reply-To: guo@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+毕业之前本来说好我试用期工资是1200，试用期过后就是1800的底薪还有提成
+可是现在我已经顺利通过了试用期，前两天经理把我叫到办公室里告诉我我的工资每月只有1500，而且其他的补助之类的什么都没有
+我很痛恨他们，可是要实现在离开，我就已经算是往届生了，还听说往届生是很不好找工作的
+请你们帮我支支招，我该怎样才能保护自己的利益?
+我还没有和公司签协议，应为他们说要试用期过后才签，可试用期过了他们就这样说了
+大家说我该怎么办？刚毕业谁都不容易，那些衣冠禽兽怎么会这么坏呢？
+他们现在肯定就是把住了这种情况，就让我觉得现在的工作是鸡肋，食之无味，但又弃之可惜，我该怎么办呀......
+等待救助的可怜的我......

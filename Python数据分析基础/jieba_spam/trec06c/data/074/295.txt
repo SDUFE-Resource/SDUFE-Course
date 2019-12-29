@@ -1,0 +1,53 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <long@ccert.edu.cn>; Fri, 2 Sep 2005 22:39:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <long@ccert.edu.cn>; Fri, 2 Sep 2005 22:52:33 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 14:41:44 -0000
+From: "zhong" <zhong@mail.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Cc: <wang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW7mruOZdILnY09q31sDgv6q3xbDmw+a1xLmruOYgKNeq1Ngp?=
+Date: Fri, 2 Sep 2005 22:52:31 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+【 以下文字转载自 sysop 讨论区 】
+发信人: SYSOP (System Operator), 信区: sysop
+标  题: [公告] 关于分类开放版面的公告
+    由于本站技术准备工作已基本完成，且近期站内讨论秩序逐步
+恢复正常，本站从即日起分类开放各类版面。
+    特此公告。
+                                        BBS水木清华站
+                                         2005年9月1日
+附：分类开放版面简表
+                                                                                
+                                     ┌─────────┬─────────┐ 
+                                     │      读权限      │       写权限     │ 
+                                     ├─┬─┬─┬─┬─┼─┬─┬─┬─┬─┤ 
+                                     │校│校│可│普│试│校│校│可│普│试│ 
+                                     │内│友│信│通│用│内│友│信│通│用│ 
+ ┌─────────────────┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤ 
+ │THUExpress,Graduate等校内综合版面 │√│  │  │  │  │√│  │  │  │  │ 
+ ├─────────────────┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤ 
+ │院系、社团版面等校内版面          │√│√│  │  │  │√│√│  │  │  │ 
+ ├─────────────────┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤ 
+ │Military、History等敏感版面       │√│√│  │  │  │√│√│  │  │  │ 
+ ├─────────────────┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤ 
+ │SecondHand,PieLove等信用版面      │√│√│√│√│√│√│√│√│  │  │ 
+ ├─────────────────┼─┼─┼─┼─┼─┼─┼─┼─┼─┼─┤ 
+ │学术、技术版面，娱乐等版面        │√│√│√│√│√│√│√│√│√│√│ 
+ └─────────────────┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┘ 
+  注：校内用户指1）未经验证，但是通过校内ip(不含无线网ip段)上网                 
+           2）通过校内电子邮箱验证用户 3）通过校内Tunet验证用户（开发中）       
+      校友用户指通过校友邮箱验证用户                                            
+      可信用户指校外全球通等实名短信验证，兄弟高校等校外可信邮箱验证（测试中）  
+      普通用户指校外非可信邮箱验证                                              
+      试用用户指未经验证                                                        

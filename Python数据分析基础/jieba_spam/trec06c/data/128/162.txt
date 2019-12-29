@@ -1,0 +1,29 @@
+Received: from sendmail.iclp.com.hk (sendmail.iclp.com.hk [203.193.56.98])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8D9HfCC018617
+	for <kong@ccert.edu.cn>; Wed, 14 Sep 2005 02:45:40 +0800 (CST)
+Received: from ebpc1 ([192.168.17.111])
+	by sendmail.iclp.com.hk (8.11.6/8.11.6) with SMTP id j8DNBbb24415
+	for <kong@ccert.edu.cn>; Wed, 14 Sep 2005 03:39:31 -0500
+thread-index: AcW4RY0OBhyKhSqsSemwSUmiAKaPGg==
+Thread-Topic: =?gb2312?B?SnVuaXBlcs34wue5q8u+0dC+v7rNvczT/bv6ubnNqNG2MjAwNcTqOdTC?=
+Reply-To: <tao@apac-juniper.net>
+From: "tao" <tao@apac-juniper.net>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMzsvfLK0Ln609C2wNfKxvPStdXQxrg=?=
+Date: Wed, 14 Sep 2005 02:56:41 +0800
+Message-ID: <8c3801c5b845$8d1d0270$6f11a8c0@ebpc1>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_8C39_01C5B888.9B404270"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Exchange 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+ 补充说一下，我的这个朋友能力很强的，今年刚刚30岁，无论是个人能力还是为人等方面都是很出色的，所以才把这么重要的一个公司交给他去办，至今为止他还是天津市最年轻的处级干部，一直还没有人能打破这个纪录。他绝对是一个好领导，好朋友。
+  天津是历史文化名城，这个太平洋西岸的繁华都市，每时每刻都在发生着巨大的变化。好多人对天津怀有偏见，觉得它比较落后，其实远不是那样的，大家有机会可以来天津走走看看，只有自己看到的才是最真实的。我也是刚毕业不久，当时找工作的时候目标一直就是天津。天津的城市规模没有北京大，是很适合居住生活的，而且天津的治安是全国最好的，一直被称为中国“最后一个社会主义堡垒”。
+       我的一个朋友在天津市房产局工作，现在房产局正在组建一个公司，是戴相龙主抓的，国家投资十几个亿，该公司的发展前景绝对是很好的，薪酬方面也是不错的。大家也可以通过网络了解一下天津的小洋楼。以下是该公司的一些信息：
+       该公司正在紧张筹备当中，名称为“天津市历史风貌建筑整理有限责任公司”，是由天津市政府出资组建的国有独资企业，是天津市历史风貌建筑整理的唯一主体。天津市房地产管理局受国资委委托，对公司国有资产进行监管。
+       何谓“整理”？毛泽东同志曾经说过“北京四合院，天津小洋楼”。各国不同风格的小洋楼成为天津宝贵的城市资源。整理，就是与历史风貌建筑有关的保护策划、腾迁、整修、收购、转让的活动。通过一系列的整理工作，挖掘小洋楼的经济价值，并按照城市发展规划和旅游需求赋予其新的使用功能。

@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EBDbnN008658
+	for <qing@ccert.edu.cn>; Thu, 18 Aug 2005 22:42:25 +0800 (CST)
+Received: (eyou send program); Thu, 18 Aug 2005 22:50:51 +0800
+Message-ID: <324018523.18139@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 18 Aug 2005 22:50:51 +0800
+Message-ID: <324018523.18120@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 18 Aug 2005 22:50:51 +0800
+From: xu@mail.tsinghua.edu.cn
+To: qing@ccert.edu.cn
+Cc: lu@ccert.edu.cn
+Date: Thu, 18 Aug 2005 22:50:51 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IFvT9MPGXdLRvq3O3reo0MXIzsq10enK0sHL?=
+Content-Type: text/plain
+
+一个极端走到了另一个极端
+     真是典型70年代人的想法，什么“并且，不管老板让干什么，如果用一种积极的心态去面对，最终还是有收获的” 我觉得一定要和老板据理力争。
+     我下学期就是直博的第五年了，还在使劲做实验。我发觉现在没有作出结果的，除了特别笨的那种，都是被老板使唤来使唤去，中途调整了很多次题目的人。我4年时间多时间做了3个课题，前两个是作出了结果，但是老板不想深入于是被停掉，当然发了小文章，可能能够达到毕业SCI

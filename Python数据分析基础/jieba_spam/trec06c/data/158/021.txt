@@ -1,0 +1,35 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J65V6j013138
+	for <zhao@ccert.edu.cn>; Tue, 20 Sep 2005 05:43:15 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J61MoI086766
+	for <zhao@ccert.edu.cn>; Tue, 20 Sep 2005 05:39:32 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J61Hls086762
+	for <zhao@ccert.edu.cn>; Tue, 20 Sep 2005 05:39:03 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15003 invoked by uid 512); Mon, 19 Sep 2005 21:47:26 -0000
+Message-ID: <20050919060943.15002.qmail@stu.ee.tsinghua.edu.cn>
+From: luo@stu.ee.tsinghua.edu.cn
+To: zhao@ccert.edu.cn
+Date: Tue, 20 Sep 2005 05:47:26 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEg1tDH77zHysI=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+   这个中秋节是和一个MM一起过的。今年9月份她刚刚考上研究生。中秋节的时候我说想去找她玩，她就答应了。中秋那天在她们学校转了一天。觉得这个MM还不错哦，温柔善良，脾气很好，也很健谈，和我挺谈的来的（只是我自己的感觉啊），主要是我很喜欢她这种性格。由于我们两家以前认识，所以虽然这是第一次见面，但是我们都还对对方有一些了解，有一种一见如故的感觉，她还说让我以后多带她出去转转北京。今年我研三了，明年春天就毕业了，她还有三年才毕业。
+   我不知道她对我感觉怎么样，还是只是想做个一般朋友。我该什么时候表白合适呢？

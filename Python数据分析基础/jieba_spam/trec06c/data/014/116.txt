@@ -1,0 +1,19 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <tan@ccert.edu.cn>; Sat, 20 Aug 2005 00:35:07 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <tan@ccert.edu.cn>; Sat, 20 Aug 2005 00:48:25 +0800 (CST)
+Date: Sat, 20 Aug 2005 00:42:30 +0800
+From: "xu" <xu@sohu.com>
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG+1dDGuKG/suLK1Lmks8zKpqGiTGludXggv6q3ormks8zKprywsqG2vrfWzva5pLPMyqY=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+2004年在美国成立在中国就有分部了？
+        Anchiva Systems, Inc.以开发和销售顶尖内容过滤网络安全系统与应用软件为主业。 公司由angel VCs 创立。angel VCs 同时也是 Netscreen的早期创始人，并将其引领至一个巨大成功的位置（在2001年成为IPO并在2004年以40亿美圆的价格被Juniper 收购）。 Anchiva 于2004

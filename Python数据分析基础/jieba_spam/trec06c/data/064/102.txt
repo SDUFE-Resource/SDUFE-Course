@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <mei@ccert.edu.cn>; Thu, 1 Sep 2005 10:56:22 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 10:59:14 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 10:59:14 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 10:59:14 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 02:52:37 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 10:44:47 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 10:44:47 +0800
+From: bi@mails.tsinghua.edu.cn
+To: mei@ccert.edu.cn
+Cc: long@ccert.edu.cn
+Date: Thu, 1 Sep 2005 10:44:47 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INC0uPjFrsn6tcS7sA==?=
+Content-Type: text/plain
+
+年轻时候除了学习还应该干啥啊
+     也许已经走过了年少憧憬的年纪，也许心情在慢慢沉淀，不会再那样冲动去做一些事情，减少了狂燥，多了思考，这是不是一种转变。 
+     看着周围的同学结婚，生子，以前也以为自己也会早早这个样子，不知道为什么，却拖延到现在，还是一个人的自己。 
+     时间一点点滑过，年轮一条条增加，知道自己也在慢慢老去，我知道，惟有自己却不肯去承认，还在努力挣扎着年轻，孰不知，已经不大合适。 

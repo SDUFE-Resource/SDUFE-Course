@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <xue@ccert.edu.cn>; Fri, 30 Sep 2005 14:06:12 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Fri, 30 Sep 2005 14:09:10 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 06:09:10 UT
+To: xue@ccert.edu.cn
+From: yi@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgvLHOytLRvq25pNf3wcuxqL+80dC+v8n6u7nQ6NKqtaXOu7P2vt/WpMP3o7+41bLF18nRr8jL
+tPOhow==?=
+
+急问已经工作了报考研究生还需要单位出具证明？刚才咨询人大，想报考法律硕士的非全日制，老师说要原单位出具证明。如果要是到时候辞职了，原单位又不方便开，那怎么办？好像前几年就不需要原单位开证明了啊，而且我还是自费，不是什么委培。
+而且，如果以后涉及调档案的问题；（我得户口不在北京）现在我的档案就随便放在一个亲戚的公司，也没有按他们正式员工的编制存放人才中心，（好像就存在亲戚的家里，呵呵），这个会影响考上研究生后迁入集体户口吗？
+谢谢。

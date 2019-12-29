@@ -1,0 +1,38 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <you@ccert.edu.cn>; Thu, 1 Sep 2005 01:00:56 +0800 (CST)
+Received: (qmail 18809 invoked from network); Wed, 31 Aug 2005 17:12:39 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Wed, 31 Aug 2005 17:12:39 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "liu" <liu@jdl.ac.cn>
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7XqsjDob+8xsvju/rA4M28yukgKNeq1Ngp?=
+Date: Thu, 1 Sep 2005 01:14:57 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 SecondBook 讨论区 】
+发信人: zzhwb (这一生就是你了，我不会让你跑掉的！), 信区: SecondBook
+标  题: 【转让】计算机类图书
+书名              作者          出版社      原价      现价
+(全新)操作系统精髓与设计原理(影印版) 第3版 
+           作者：william stallings 清华大学  35.00  22.00
+数据结构   唐发根               科学出版社    25.00     10.00
+数据结构习题与解析  唐发根      科学出版社    22.00     8.00
+数据结构(c)   严蔚敏            清华大学      22.00     8.00
+数据结构题集(c)  严蔚敏         清华          16.00     6.00
+计算机操作系统  汤子瀛          西安电子      27.00     10.00
+数据结构(第二版)   严蔚敏            清华     6.05       2.00
+数据结构题集(第二版)  严蔚敏     清华大学      15.80     6.00
+计算机专业研究生入学考试全真题解---操作系统分册28.00     10.00
+                      ---数据结构与程序设计分册38.00     15.00
+数字电子技术基础(第四版)  阎石    高等教育   看不到,后封面没了12.00
+计算机组成原理    唐朔飞        高等教育       22.50     8.00
+高级语言C++程序设计   刘

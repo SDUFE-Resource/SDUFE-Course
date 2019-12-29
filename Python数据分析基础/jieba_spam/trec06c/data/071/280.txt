@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <lian@ccert.edu.cn>; Fri, 2 Sep 2005 13:10:34 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <lian@ccert.edu.cn>; Fri, 2 Sep 2005 13:23:09 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 05:12:20 -0000
+From: "ding" <ding@mail.tsinghua.edu.cn>
+To: lian@ccert.edu.cn
+Cc: <wen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyMjB0ru2063K/dGnz7Whosn6zu/PtaGiu6/Rp8+1sc/Stcn6tb3W3MXg1LTTptPDyv3Rp9HQ
+vr/W0NA=?=
+Date: Fri, 2 Sep 2005 13:23:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+热烈欢迎数学系、生物系、化学系毕业生
+到周培源应用数学研究中心攻读博士学位（直博生）
+清华大学周培源应用数学研究中心（以下简称"中心"）是清华大学在2002年设立的开展交叉基础科学研究的实体。它的宗旨是：推动数学和经验科学的学科交叉、渗透与合作研究，促进清华大学应用数学和经验科学的发展；增强清华大学科学研究的交叉性、科学性和前瞻性，活跃学术思想；开展国际学术交流与合作；培养具有创新能力的杰出人才。
+　　"中心"聘请林家翘教授为名誉主任，谢定裕教授为主任，海内外著名科学家担任顾问或学术委员会委员，并聘请一批海内外知名学者任研究员，客座研究员，以形成开展基础研究的优势力量。
+几年来，中心已经招收一批博士生、博士后，在林家翘教授和谢定裕教授的指导下从事科学研究工作，2006年预计将招收2～3名直博生。我们热烈欢迎数学系、生物系、化学系的毕业生来我中心攻读博士学位。
+国际应用数学大师林家翘先生说：“物理学和化学业已形成相对完备的理论体系，而生物学却缺乏有数学支持的基本原理和进一步的理论化。数学家、物理学家和化学家涌入生物研究领域，正在完成这个庞大的工程。”
+目前，一个非常活跃的研究领域是数学在生物科学和药理学以及医学方面的新的应用。从上个世纪五十年代起已有几千篇重要文章发表。但仍然有很多研究领域在基础和应用方面面临着饶有兴致的挑战，比如脑科学和蛋白质结构及功能等领域。目前，我们正在致力于蛋白质结构及折叠过程的研究。随着经验数据的迅速积累和扩充，通过数学方法的应用，对一些基本原理和动力学机制有了进一步的发现和理解。我们目前正在做的就是立足统计物理（包括随机过程）的原则建立蛋白质折叠的统计理论。
+这些研究必须建立在对应用数学的数学分析和数值模拟的有效充分的发展之上。它们起始于对经验数据的研究分析，终止于新的实验和观测所得到的数据和事件对预测的证实。在新旧世纪转换之际人类基因组计划的巨大成功使生物学家得出生物是自然科学的十项全能运动；亦即，因为自然科学的四大传统领域，数学、物理、化学、生物之间的相互关系是如此紧密，它们应该被看作一个整体，即自然学科。我们希望和有共同兴趣的科学家一道引导我们数学中心的学生本着这种精神去追求真理。
+尽管无法进行具体的实验室研究，但希望有生物学和化学知识背景的人加入我们中心的研究工作中来。”
+你会从我们的主页得到更多有关信息. zcam.tsinghua.edu.cn
+一些补充信息请见附件。

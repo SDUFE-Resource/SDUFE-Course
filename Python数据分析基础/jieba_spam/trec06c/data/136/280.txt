@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <wua@ccert.edu.cn>; Thu, 15 Sep 2005 19:03:40 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <wua@ccert.edu.cn>; Thu, 15 Sep 2005 19:15:39 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 10:57:53 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "gu" <gu@mail.tsinghua.edu.cn>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQ1tzSu8/CzufIpcnP087TvrjfvLaw4LXEv861xM2s0afC8D8=?=
+Date: Thu, 15 Sep 2005 19:11:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+        上学期的游泳课根本没考试
+        上完就完了
+        高级班应该是一样的，本科和研究生不一样的要求
+         本科是 3000米30分，考勤10分(迟到早退一次扣1分，病假有校医院假条扣2分，事假扣5分，缺席扣10分)，如果自由泳可以游50米是40分，100米是45分，100米时间2\'05"是50分，1\'55"是55分，1\'45"是60分。
+         研究生很轻松，只要每次都去了，然后可以游25米就通过了

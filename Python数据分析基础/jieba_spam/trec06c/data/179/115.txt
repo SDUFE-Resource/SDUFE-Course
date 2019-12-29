@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <he@ccert.edu.cn>; Sat, 24 Sep 2005 17:28:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <he@ccert.edu.cn>; Sat, 24 Sep 2005 17:40:21 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 09:17:27 -0000
+From: "fan" <fan@mail.tsinghua.edu.cn>
+To: he@ccert.edu.cn
+Cc: <zhu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILW8yqa1xNDEyfk=?=
+Date: Sat, 24 Sep 2005 17:40:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+这牵扯到一个利益分配问题
+企业里面，资本家也要分工人一杯羹，才不会有罢工
+王银这件事，你可以说他个性太强，是个例外
+但清华这么多博士生，有同样遭遇的不是少数
+导师拿到好处太多，学生得到太少，才会底下暗流涌动，师生矛盾尖锐
+     说实话，清华的试验室相当与一个企业，企业主是学校和老板两个人。学生没错是打工的，注定要干活，请问哪儿不是这样，你以为你到哪儿不受剥削。唯一不同的是你还可以在这儿学点纯学术的东西
+     【 在 finfin (独。

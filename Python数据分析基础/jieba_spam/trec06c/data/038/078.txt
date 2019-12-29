@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <cheng@ccert.edu.cn>; Thu, 25 Aug 2005 12:48:22 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 04:37:57 -0000
+From: "xue" <xue@mails.tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 25 Aug 2005 13:01:39 +0800
+
+        当年大四的时候，那时候国家明令规定各公司不得在11月之前进入
+        学校开招聘会，而华为则从10月初就进驻偶们学校。先下手为强，
+        招了n多人。不过后来偶很多打算签华为的同学最后大多反悔，去了
+        贝尔/联通/电信之类的。那时候一篇《华为真相》的文章，加上一
+        些从华为跑出来的师兄师姐的现身说法，让大家很是迷惑。
+        
+     华为做事太具有狼性
+     以去年在北京招聘为例，很多一个班同学一起被叫到友谊宾馆面试，而可能其中一部分人
+     在第一轮、第二轮就被淘汰，而且很明显，同去的都知道谁被淘汰了，在第几轮被淘汰的

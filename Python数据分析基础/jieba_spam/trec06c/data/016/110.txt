@@ -1,0 +1,35 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <zheng@ccert.edu.cn>; Sat, 20 Aug 2005 09:49:24 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <zheng@ccert.edu.cn>; Sat, 20 Aug 2005 10:02:26 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 10:25:54 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: bi@126.com
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILP2uPbLrqGjoaOhow==?=
+Date: Sat, 20 Aug 2005 09:57:08 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+让病人自己选择，他/她自己对自己的生命有选择权，或长或短
+而且临终关怀未必对病人就是最好的选择，看似善意，其实未必
+你知道病人还有多少想做的事未做，想说的话未说
+作为家属，你们在这个很有限的时间在时间和金钱上都会受一些折磨
+但是等病人告逝时，家属才能得予欣慰
+医生永远只能给病人提供治疗方案，不能为病人和家属做决定
+     如果换做是你，你会如何去做。。。
+     人物：A 患恶疾患者
+           B A之主管大夫

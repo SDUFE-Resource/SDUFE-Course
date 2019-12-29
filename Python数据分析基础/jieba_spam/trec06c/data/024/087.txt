@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <ren@ccert.edu.cn>; Mon, 22 Aug 2005 02:25:18 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <ren@ccert.edu.cn>; Mon, 22 Aug 2005 02:38:36 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 18:33:13 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "lai" <lai@mail.tsinghua.edu.cn>
+To: ren@ccert.edu.cn
+Cc: "tunet" <gong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Syse6o7nqztLI3dLXwvA=?=
+Date: Mon, 22 Aug 2005 02:34:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+海外教育背景后面一般都写上全额奖学金字样， 比清华北大的牛多了
+     说海龟工作不好找。我也在今年毕业后加入到茫茫的求职大军中。 
+     　　媒体上总是说海龟东挑西拣，不能给自己好好定位，也就出来了反面的呼声，什么海带，什么洋垃圾。我的体会是，有时候在一开始海龟就已经被不平等的对待了。 
+     　　许多公司没有任何理由的拒绝海龟。简历投出去只要是看到是海龟就扔到一边。有一些是因为曾经招聘过失败的海龟，有一些则是完全因为媒体报章的误导，觉得海龟都是国内失败的有钱人出去混文凭。工资要的钱少了，他们就觉得是底气不足没有本事，毕竟自己都不能相信自己

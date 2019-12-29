@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <cao@ccert.edu.cn>; Sat, 20 Aug 2005 18:09:59 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <cao@ccert.edu.cn>; Sat, 20 Aug 2005 18:23:13 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sat, 20 Aug 2005 17:51:54 +0800
+Date: Sat, 20 Aug 2005 18:23:04 +0800
+From: "wu" <wu@wnt.com.cn>
+To: cao@ccert.edu.cn
+Cc: "lic" <feng@ccert.edu.cn>, "sunt" <jiang@ccert.edu.cn>, "caoy" <yang@ccert.edu.cn>,
+        "wangb" <bai@ccert.edu.cn>, "songhm" <wua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILfWyta687j4o+2j7dC0tcTQxaOoo+2j7bvhuf3AtL+0o6k=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+也许  她是不懂得珍惜
+也许  她是不值得珍惜
+你的真命天女似乎还没有出现 相信自己 一定能找到自己的幸福的
+     　写在分手后：
+     　　想想还是给你写封信比较合适。最后再和你聊聊心理话......
+     　　说真的　我本来是非常非常想挽回这段爱情的，因为来的实在是太不容易了，太不容易了。在这段感情之前我们都受过了那么多感情的伤和痛，都经历过爱自己的人和自己爱的人，但最后并没有在一起。我本来以为这段感情将是我们双方的最后一段感情，我们能够幸福的步入人生

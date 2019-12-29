@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <lv@ccert.edu.cn>; Sat, 24 Sep 2005 12:49:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <lv@ccert.edu.cn>; Sat, 24 Sep 2005 13:00:57 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 04:38:03 -0000
+From: "lu" <lu@mail.tsinghua.edu.cn>
+To: lv@ccert.edu.cn
+Cc: <mo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sat, 24 Sep 2005 13:00:37 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+    怎么动不动就说是盲目崇拜！好像是举世皆浊唯你独清了！
+         
+     大家有能力分辩，又何苦你在这里jjww。
+     我和他曾经一个教研室过。
+     说实在话，我们都佩服王垠，能对计算机“专业”这么有热情，我们都希望他能够有很好的发展。
+     但是我们看到今天的王垠已经不是单纯的玩着linux向我们演示他的bbs机器人的程序能人了。他成了一个符号，一个象征，在一些人眼中成了有理想，有追求的偶像了！

@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <zhuang@ccert.edu.cn>; Thu, 29 Sep 2005 16:15:39 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Thu, 29 Sep 2005 08:01:55 -0000
+Date: Thu, 29 Sep 2005 16:27:39 +0800
+From: "lu" <lu@mail.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+我和老公俩人，这个月才500不到，自成婚以来头一次这么省，真是激动啊
+交通费手机费没有，房租是三月一交
+只有饭费（水果是从爸妈那儿搜刮的，不花钱）
+早餐牛奶两袋，2*30=60  （干粮是月饼和麻花，来源与水果同，今天刚吃完）
+晚餐平均来算，15*24=360（剩下几天都在爸妈那儿蹭）
+还有几十块钱，是偶然拎到大人那儿的水果，估计在60上下。。
+     当然不包括房租水电了
+     1.早饭,吃公司的饼干
+     2.中饭,11块,食堂  11*24=264

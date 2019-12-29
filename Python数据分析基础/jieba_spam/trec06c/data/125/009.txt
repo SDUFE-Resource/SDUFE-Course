@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <xing@ccert.edu.cn>; Tue, 13 Sep 2005 09:41:03 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <xing@ccert.edu.cn>; Tue, 13 Sep 2005 09:53:04 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 01:35:37 -0000
+From: "hou" <hou@mail.tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Cc: <long@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg09DIy7u7v87C8KOs0dC+v8n6obbK/da1t9bO9qG3ICjXqtTYKQ==?=
+Date: Tue, 13 Sep 2005 09:52:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+【 以下文字转载自 StudentTH 讨论区 】
+发信人: zhaoqf (SharePoint|Skate|Guitar), 信区: StudentTH
+标  题: 有人换课吗，研究生《数值分析》 (转载)
+发信人: zhaoqf (SharePoint|Skate|Guitar), 信区: ZiJing
+标  题: 有人换课吗，研究生《数值分析》
+发信人: zhaoqf (SharePoint|Skate|Guitar), 信区: DESE
+标  题: 有人换课吗，研究生《数值分析》
+想跟去深圳的研究生换这门课
+可怜本校的不能选深圳的课，即使选上了也不让上，
+想和选了非限深圳学生选的这门课的xdjm换课
+bg吃饭

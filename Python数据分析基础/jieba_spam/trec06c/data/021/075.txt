@@ -1,0 +1,43 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <qian@ccert.edu.cn>; Sun, 21 Aug 2005 10:14:09 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <qian@ccert.edu.cn>; Sun, 21 Aug 2005 10:27:11 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 10:50:39 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: you@126.com
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7rPvK9dINe8sbizycGiSUO5q8u+o6zV2dPQ1r7Wrsq/?=
+Date: Sun, 21 Aug 2005 10:21:53 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+☆─────────────────────────────────────☆
+   renjuntong (tommyren) (Thu Aug 18 20:31:28 2005):
+你好，我是一名有着5年工作经验的IC工程师，曾在一家大公司做，因此对于IC得整个设计流程熟悉，而且积累了相当多的IP库，也做了大量高性能芯片的研发设计。根据我的了解目前我国现在IC设计仍然处于低水平状态，很难有做到高性能芯片的公司，大家知道，集成电路设计水平高低将是未来国家社会的主要工业基础，而我有充分的设计经验以及与大公司合作的机会，还有一定数量IP库，不象国内的小企业大部分是采用国外企业的IP,为此招募有志之士加盟，来建立一个中国很强的企业，做一番为国为己的事业。
+不过由于刚刚成立，困难可能会重重，不过相信以我们的智慧和不屈不挠的毅力一定会成功；
+现在急需下列有经验的人士参加：
+1。算法研究工程师包括DSP及CPU算法的研究1名；
+2。verilog前端设计资深工程师1名；
+3。p&amp;R高级后端工程师1名；
+当然也希望其他公司的支持和帮助，为此我们也可提供所需IP。
+有理想的人士可以把问题和自身介绍发到我的信箱，也可以把简历发到renjuntong@tom.com.
+另外想做兼职的也可以。
+谢谢
+☆─────────────────────────────────────☆
+   MaHongYe (心有所属，身仍自由) (Thu Aug 18 20:37:17 2005):
+通常是先拉到项目(俗称钱)才开始拉人
+有了项目自然会有人
+     你好，我是一名有着5年工作经验的IC工程师，曾在一家大公司做，因此对于IC得整个设计流程熟悉，而且积累了相当多的IP库，也做了大量高性能芯片的研发设计。根据我的了解目前我国现在IC设计仍然处于低水平状态，很难有做到高性能芯片的公司，大家知道，集成电路设计水平

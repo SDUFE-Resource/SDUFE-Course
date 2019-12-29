@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFG0025934
+	for <tu@ccert.edu.cn>; Fri, 30 Sep 2005 05:29:26 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Thu, 29 Sep 2005 21:15:00 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "yu" <yu@mail.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Cc: "Duan Haixin" <zhao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMWusqnKv9XmtcS+zcTHw7TE0bSmxa7F89PRwvCjvw==?=
+Date: Fri, 30 Sep 2005 05:40:17 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+re
+     认识了一个女孩，博士毕业，
+     感觉平时她性格还可以，一谈论到学术就总是象5.4运动的热血青年那样，很是小马乍行
+     恨天低的样子，今天居然因为一点小事情在手机短信里和我大吵了一次，我在尽力克制自己，可她讲话的语气居然口气硬得让我吃惊，很是恼怒之极的样子。我一直希望找个比较温柔点的GF，可今天她的表现真让我感觉困惑。是不是多数女博士的性格都很强硬啊？

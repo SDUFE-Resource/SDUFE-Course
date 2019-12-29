@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <yan@ccert.edu.cn>; Wed, 24 Aug 2005 19:23:21 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <yan@ccert.edu.cn>; Wed, 24 Aug 2005 19:36:35 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 11:31:08 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "feng" <feng@mail.tsinghua.edu.cn>
+To: yan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXitvnT0Mrsz6SzpMmzytC1xMXz09HC8D8gvLHOyg==?=
+Date: Wed, 24 Aug 2005 19:32:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+那附近正规一点的好象有晚报大酒店,是长沙晚报报业集团下面的酒店,估计3*吧.价格不大清楚，但肯定比会展中心便宜.距离也不算远.那边还有省教育厅,好象还有法院,估计应该有系统的酒店吧.
+     我最近要去长沙开个会议. 但我不想住会议方推荐的星级酒店(4星5星的). 我想为老师省点钱. 会议地址: 湖南国际影视会展中心酒店, 湖南长沙浏阳河大桥东金鹰影视文化城.
+     请问这个五星级酒店附近有没有便宜点的旅馆?(打车20分钟内能到的) 请知情的朋友告知. 非常急! 谢谢! 

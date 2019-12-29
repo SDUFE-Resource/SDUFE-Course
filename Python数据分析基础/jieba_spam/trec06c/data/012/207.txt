@@ -1,0 +1,26 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <cen@ccert.edu.cn>; Fri, 19 Aug 2005 16:22:43 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <cen@ccert.edu.cn>; Fri, 19 Aug 2005 16:56:03 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 16:37:02 +0800
+From: "gong" <gong@mail.nisac.gov.cn>
+Reply-To: gong@mail.nisac.gov.cn
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXixqrOxNXCuty80rDmo63O0rrNwM+5q9K7xvC5qbe/o6y/yc6qyrLDtNKq0LS5q8bFtcTD
++9c=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+解释一下吧
+是不是说以后男的月供2000里面其实有1000是女方的
+如果以后离婚
+投资在他父母房子里的那些钱应该算是女方财产?
+     标  题: Re: 这篇文章很家版－我和老公一起供房，可为什么要写公婆的名

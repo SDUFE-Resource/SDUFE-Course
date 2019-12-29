@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <weng@ccert.edu.cn>; Fri, 23 Sep 2005 04:21:05 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 04:10:05 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 04:10:04 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 04:10:04 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 20:10:04 -0000
+From: "cen" <cen@mail.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Fri, 23 Sep 2005 04:32:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+对文章中提到的许多现象，深有同感，不过，有些话说得太偏激了。清华里面藏龙卧虎，也不乏庸才。我也和他一样，从小就怀揣着科学家的梦想，一心要做真正的学问。清华的确不是做学问的好地方，本科时整天就是GPA阴影下的埋头苦读，牺牲了多少兴趣爱好；研究生时为了课题疲于奔命，根本就很难做出真正的研究，倒像是廉价的民工。博士虽然没读过，不过我看着师兄师姐那样，我也害怕了，导师屡次让我免试读博，我坚决不肯。出国吧，出国就好，国外至少还有居里夫人，爱因斯坦一类的人物，那才是天堂。我现在就在申请。祝他好运！
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)
+     发信站: 水木社区 (Fri Sep 23 12:00:32 2005)

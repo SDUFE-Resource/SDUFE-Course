@@ -1,0 +1,47 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <qing@ccert.edu.cn>; Mon, 15 Aug 2005 10:28:49 +0800 (CST)
+Received: (qmail 5448 invoked from network); Mon, 15 Aug 2005 02:39:36 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Mon, 15 Aug 2005 02:39:36 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "peng" <peng@jdl.ac.cn>
+To: qing@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7V0Ma4ob+437y2z+7Ev76twO0=?=
+Date: Mon, 15 Aug 2005 10:43:35 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+公司简介
+--------
+北京得意音通技术有限责任公司（简称“得意音通”公司），是拥有完全自主知识产权的自动语音识别和自然语言理解领域的专业技术开发商，拥有三大类核心技术：自动语音识别（ASR）技术、声纹识别（VPR）技术和中文自然语言理解（CNLU）技术。
+北京得意升文技术有限公司（以下简称“得意升文”公司），是得意音通公司的合资公司，2005年8月成立于北京中关村国际孵化园。得意升文公司是专业从事技术开发、应用推广、信息服务等业务的高科技公司。
+现因业务发展需要，得意升文与得意音通公司联合招聘各层次的管理和技术人才若干名。
+招聘职位一：高级项目经理
+------------------------
+工作性质：全职
+招聘人数：1～2人
+月薪范围：面议
+工作经验：2年或以上
+学历：硕士或以上
+工作内容：
+1. 大型应用系统项目的方案规划、设计；
+2. 与客户、合作伙伴及政府部门的沟通、协调；
+3. 具体项目的组织、实施和过程控制。
+任职要求：
+1. 工作认真踏实，积极主动，富有责任心；
+2. 有良好的沟通能力、协调组织能力和团队合作精神；
+3. 有丰富的应用系统设计、项目管理经验和外部人脉资源；
+4. 有IT领域的专业背景，有较强的方案撰写及文字写作能力，以及较强的英语读写能力。
+联系方式
+--------
+E-mail：jobs@d-Ear.com
+网址：http://www.d-Ear.com
+工作地点：北京市海淀区上地信息产业基地
+有意者请发送简历、对工作内容的理解和设想、期望的待遇，以及其它任何能证明自己能力的材料（如近期工作内容或完成的系统描述等）到：jobs@d-Ear.com。

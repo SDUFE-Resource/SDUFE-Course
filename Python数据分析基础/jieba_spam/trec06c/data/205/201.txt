@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R9oOdP018957
+	for <ding@ccert.edu.cn>; Thu, 29 Sep 2005 19:22:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8RA1dYd023981
+	for <ding@ccert.edu.cn>; Thu, 29 Sep 2005 19:34:07 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 19:09:04 +0800
+Message-ID: <327813796.02359@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 19:09:04 +0800
+From: guo@mail.tsinghua.edu.cn
+To: ding@ccert.edu.cn
+Date: Thu, 29 Sep 2005 19:09:04 +0800
+Reply-To: guo@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILeivLi49s3G0dDD5srUtcTQpruw?=
+Content-Type: text/plain
+
+我们系的面试是一个学生进入一个阳光不是很充足的小屋，5个教授坐成一排，活象审问。
+我一个哥们进去后，坐下，自我介绍几句后等着教授发话提问，结果半天了没有一个教授说话。
+我同学急了，大手一挥，很英勇壮烈地说：
+“你们想知道什么就问吧！”
+     １　面试本系直推学生的时候，因为平时很熟悉，一般不会问什么专业问题，而是一些
+     很诡异的问题
+     问：你对中国女足有什么看法？

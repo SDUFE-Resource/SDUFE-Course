@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86NYrNl030488
+	for <fu@ccert.edu.cn>; Thu, 8 Sep 2005 07:09:57 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j86Nl5Cw020630
+	for <fu@ccert.edu.cn>; Thu, 8 Sep 2005 07:22:09 +0800 (CST)
+Message-Id: <200509062347.j86Nl5Cw020630@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 7 Sep 2005 23:07:51 -0000
+From: "liu" <liu@mail.tsinghua.edu.cn>
+To: fu@ccert.edu.cn
+Cc: <xia@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjfI1bmk1/e8zcK8?=
+Date: Thu, 8 Sep 2005 07:22:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C5B380.54702A70"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzPUXCPFDEFrr6STeY429PH7DHSw==
+
+报失
+徐一菱  51531848      挎包，书包，黑色，内有一个笔记本 
+黄鹏    13810091395   黑色鳄鱼钥匙包
+肖冬雪  13552252333   黑色长袖休闲外套男装
+郑超惠  51531320      IC卡（2002010570）
+孙晖    13811342762   乒乓球拍（三只）
+郭远舟  51531767      钱包，黑色，内有IC卡，餐卡，身份证，电话卡及现金若干
+送交
+王建华  67462705      手机，NOKIA
+郝文嘉  51531752      钥匙
+彭霄    62775742      100元
+段承杰                钱包，黑色（已找到失主）
+领取
+张维拓  51531840    手机，NOKIA
+朱利民              钱包，黑色

@@ -1,0 +1,57 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ACNovr029742
+	for <kang@ccert.edu.cn>; Sun, 11 Sep 2005 11:59:45 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8ACKv6Q093262
+	for <kang@ccert.edu.cn>; Sun, 11 Sep 2005 11:57:16 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8ACKomW093258
+	for <kang@ccert.edu.cn>; Sun, 11 Sep 2005 11:56:49 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+Message-Id: <200509101220.j8ACKomW093258@gradinfo.net.edu.cn>
+Received: from free-qhkbi6e7yv (unknown [59.66.201.85])
+	by smtp2 (Coremail) with SMTP id QsA3yF3IIkPPuYAD.1
+	for <kang@ccert.edu.cn>; Sun, 11 Sep 2005 11:25:48 +0800 (CST)
+X-Originating-IP: [59.66.201.85]
+Date: Sun, 11 Sep 2005 11:27:35 +0800
+From: "tu" <tu@163.com>
+To: kang@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8ACKomW093258
+Subject: =?gb2312?B?ofEgysC959aqw/vW0Ln6v8bRp7zS?=
+Precedence: list
+Reply-To: tu@163.com
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+卓有成就的华裔科学家
+经过二十年的学习和工作，八十年代出国的中国留学生中，有一批科学上卓有成就，在各个
+专业成为主要的科学家，在国际科学界取得相当学术地位。
+化学和化工：Sunney Xiaoliang Xie (谢晓亮，哈佛大学，化学物理), Zhen-Gang Wang(王
+振钢，加州理工学院，统计力学、高分子物理), Jun Liu (刘钧，化学生物学，麻省理工学
+院)。
+生命科学：Xiao-Dong Wang (王晓东，得州大学西南医学中心，生物化学), Junying Yuan 
+(袁钧瑛，哈佛大学医学院，细胞生物学), Yi Rao (饶毅，华盛顿大学，神经生物学), Min
+Han (科罗拉多大学，发育生物学), Xing-Wang Deng (耶鲁大学，植物生物学), Kun-Lian
+g Guan (管坤良，密执安大学，生物化学), Tian Xu (耶鲁大学，遗传学), Liqun Luo (骆
+利群，斯坦福大学，发育生物学)。
+数学： Gang Tian (田刚，麻省理工学院，微分几何), Thomas Yizhao Hou (侯宜召，加州
+理工学院，应用数学), Weinan E (鄂维南，普林斯顿大学，应用数学)。
+物理： Huajian Gao (高华健，斯坦福大学，材料力学), Zhi-Xun Shen (沈治勋，斯坦福大
+学，超导), Shoucheng Zhang (张寿成，斯坦福大学，理论凝聚态物理), Zhigang Suo (索
+此外还有：
+卢天健（剑桥大学800年历史上第一位华人reader），黄永刚（伊里诺伊大学），陈十一（约翰霍普金丝大学机械系主任），佘振苏（ucla数学系教授），王中林（佐治亚理工，欧洲科学院院士），何大一（美国科学院院士），钱煦（美国科学院、美国工程院，美国医学科学院院士），潘建伟（中国科学技术大学），戴宏杰（斯坦福大学）

@@ -1,0 +1,500 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <pan@ccert.edu.cn>; Mon, 29 Aug 2005 16:50:00 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 17:00:33 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Mon, 29 Aug 2005 17:00:33 +0800
+From: "qiu" <qiu@ctbu.edu.cn>
+To: pan@ccert.edu.cn
+Date: Mon, 29 Aug 2005 17:00:33 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "qiu" <qiu@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INKqsrvSqsnPsqnKv8TYo78=?=
+Content-Type: text/plain
+
+以下是旧水博版置底，看看应该会有帮助
+发信人: yuanm (我爱水木.路漫漫兮), 信区: PhD
+标  题: 中英文版：到底美国PhD要干啥?
+hoho，简单翻译了一下，英语不好，凑活看看。
+最后的警告尤其有用。
+――――――――――――――
+发信人: Woodchuckle (木耳), 信区: PhD
+标  题: 到底美国PhD要干啥? Notes on the PhD Degree[zt]
+发信人: kissall (阿呆), 信区: Overseas
+标　题: 到底美国PhD要干啥? Notes on The PhD Degree[zt]
+发信站: Unknown Space - 未名空间 (Thu Feb 17 13:47:42 2005) WWW-POST
+很多人在申请的时候其实不知道PhD意味着什么，要干什么。不管怎么样，提前了解
+对作
+出正确的决定帮助很大.
+另一篇类似的文章《So long, and thanks for the Ph.D.!》在
+http://www.cs.unc.edu/~azuma/hitch4.html 太长了，就不转
+From http://www.cs.purdue.edu/homes/dec/essay.phd.html
+――――――――――――――
+正文
+――――――――――――――
+Notes On The PhD Degree
+说说博士学位
+Last week at the department colloquium coffee hour, several students engaged
+the faculty in a discussion about our Ph.D. program. It became clear that
+ many
+of the students did not understand the basics; they were surprised at some
+ of
+the questions and confused by some of the answers.
+ 上周系里咖啡时间的讨论会上，几个学生跟教员讨论了我们的博士课程。显然，多
+数学生
+对基本问题缺乏了解。他们对一些问题很惊讶而且对答案也弄不清楚。
+These notes provide basic information about the purpose of a Ph.D. program
+ in
+an attempt to help students decide whether to pursue a Ph.D. degree.
+The Basics
+ 对于博士学位课程的目的，这些解释提供了一些基本信息，可能有助于学生决定是
+否读博
+。
+A Doctor of Philosophy degree, abbreviated Ph.D., is the highest academic
+degree anyone can earn. Because earning a Ph.D. requires extended study and
+intense intellectual effort, less than one percent of the population attains
+the degree. Society shows respect for a person who holds a Ph.D. by addressing
+them with the title ``Doctor\'\'.
+ 哲学博士，也就是PH.D，是一个人能取得的最高的学位。因为获得博士学位需要长
+期的
+学习和强烈的心智努力。不到百分之一的人能成为博士。博士这一称呼表达了社会对
+博士
+学位持有者的尊敬。
+To earn a Ph.D., one must accomplish two things. First, one must master a
+specific subject completely. Second, one must extend the body of knowledge
+about that subject.
+ 要取得博士学位，必须做到两件事：一是完全掌握某一课题的知识，二是必须增加
+此课题
+的知识积累。
+Mastering A Subject
+掌握一个课题
+To master a subject, a student searches the published literature to find 
+and
+read everything that has been written about the subject. In scientific
+disciplines, a student begins by studying general reference works such as
+ text
+books. Eventually, the student must also search scholarly journals, the
+publications that scientists use to exchange information and record reports
+ of
+their scientific investigations.
+ 要掌握一个课题，学生必须检索全部与本课题相关的公开发表的文献，并且阅读。
+在科学学科中，学生首先从研究通用的参考材料比如课本开始。最后他必须研究学术
+期刊。
+学术期刊就是科学家用来交换信息和纪录科学研究报告的地方。
+Each university establishes general guidelines that a student must follow
+ to
+earn a Ph.D. degree, and each college or department within a university sets
+specific standards by which it measures mastery of a subject. Usually, in
+preparing for Ph.D. work in a given field, a student must earn both a
+Bachelor\'s and Master\'s degree (or their equivalent) in that field or in 
+a
+closely related field. To demonstrate complete mastery of the subject, a
+student may be required to complete additional graduate-level courses,
+maintain a high grade average, or take a battery of special examinations.
+ In
+many institutions, students must do all three.
+ 每个大学都有成为博士所需要执行的指导方针。而且每个学院或者系都有专门的标
+准，
+来衡量对学科掌握的程度。通常在准备读给定领域的博士学位之前，学生必须先拿到
+该领域（或者紧密相关的领域）的学士和硕士的学位（或者同等学历）。为了证明你
+已经完全掌握了这个科目，学生可能需要完成附加的研究生水平（？）的科目课程，
+或者有很高的等级分数（学分绩？），或者参加特别的考试选拔。很多机构要求全部
+这三个条件。
+Because examinations given as part of a Ph.D. curriculum assess expert
+knowledge, they are created and evaluated by a committee of experts, each
+ of
+whom holds a Ph.D. degree.
+ 因为考试是博士课程的一部分，是要用来评判专家级的知识，所以由一个专家委员
+会来
+命题和评判。专家们都必须有博士学位。
+Extending Knowledge
+ 扩展知识
+The essence of a Ph.D., the aspect that distinguishes Ph.D. study from other
+academic work, can be summarized in a single word: research. To extend
+knowledge, one must explore, investigate, and contemplate. The scientific
+community uses the term research to capture the idea.
+博士的本质，也是博士学习区别于其他学院工作的方面，简而言之就是一个字：研究
+。:)
+为了扩展知识，你必须探索，调查，思考。科学共同体用这个术语――研究，来获得
+思想。
+In scientific disciplines, research often implies experimentation, but
+research is more than mere experiments -- it means interpretation and deep
+understanding. For Computer Scientists, research means searching to uncover
+the principles that underlie digital computation and communication. A
+researcher must discover new techniques that aid in building or using
+computational mechanisms. Researchers look for new abstractions, new
+approaches, new algorithms, new principles, or new mechanisms.
+ 在科学学科里里，研究常常意味着实验。但是研究不只是实验――它还包含解释和
+深刻
+的理解。对于计算机科学家，研究意味着揭示数字计算和通讯之下的规律。一个
+研究者必须发现新的技术来帮助建造或者使用计算设备。研究者寻找新的概念，
+新的方法，新的算法，新的原理，或者新的装置。
+To complete a Ph.D., each student must present results from their research
+ to
+the faculty in a lengthy, formal document called a dissertation (more
+popularly referred to as a thesis). The student must then submit their
+dissertation to the faculty and defend their work an oral examination.
+ 要获得博士学位，学生必须通过冗长的、正式的文件即学位论文（通常也叫thesis
+）
+来表述他的研究成果，提交给相关机构，并为论文做口头答辩。
+Relationship To Products
+ 和产品的关系
+In some cases, the results of scientific research can be used to develop 
+new
+products or improve those that exist. However, scientists do not use
+commercial success or potential commercial profits as a measure of their 
+work;
+they conduct investigations to further human understanding and the body of
+knowledge humans have compiled. Often, the commercial benefits of scientific
+research are much greater in the long-term than in the short-term.
+ 有些情况下，科学研究的成果能被用于开发新产品或者提高现有产品。但是科学家
+不用
+商业的成功或者潜在的商业利润来衡量他们的工作。他们把研究目的指向更长远的人
+类
+思维和人类已经整理的知识体系。经常的，科学研究的长期商业价值比短期的要大得
+多。
+Research Activities
+ 研究活动
+Computer Science research can include such diverse activities as designing
+ and
+building new computer systems, proving mathematical theorems, writing computer
+software, measuring the performance of a computer system, using analytical
+tools to assess a design, or studying the errors programmers make as they
+build a large software system. Because a researcher chooses the activities
+appropriate to answer each question that arises in a research investigation
+,
+and because new questions arise as an investigation proceeds, research
+activities vary from project to project and over time in a single project
+. A
+researcher must be prepared to use a variety of approaches and tools.
+ 计算机科学研究包括不同类型的活动，例如设计建造新计算机系统，提供算法，写
+计算
+机软件，衡量计算机系统的性能，用分析工具评估设计，或者研究大型软件系统程序
+员
+的错误。因为针对研究中出现的不同问题，研究者要选择相适应的操作，而且总会有
+新问题
+产生，不同的课题和课题不同阶段研究活动是不一样的。研究者必须准备好用不同的
+方法
+和工具。
+A Few Questions To Ask
+一些问题
+Many of you are trying to decide whether to pursue a Ph.D. degree. Here are
+ a
+few questions you might ask yourself.
+ 很多人将要决定是不是去读博士学位，这里有些问题你可能要问问自己先。
+1. Do you want a research career?
+ 你想干研究工作么？
+Before enrolling in a Ph.D. program, you should carefully consider your
+long-term goals. Because earning a Ph.D. is training for research, you should
+ask yourself whether a research position is your long-term goal. If it is
+, a
+Ph.D. degree is the standard path to your chosen career (a few people have
+managed to obtain a research position without a Ph.D., but they are the
+exception, not the rule). If, however, you want a non-research career, a 
+Ph.D.
+is definitely not for you.
+ 在参加博士课程之前，你应该仔细考虑你的长期目标。因为获得博士学位是一种研
+究的
+训练。你要问问自己是否把研究工作作为自己的长期目标。如果是的，博士学位是你
+走上研究工作的标准道路。（有些人不用博士学位也搞 研究，但他们是例外，不是
+常规）
+如果不是，你想做非研究的工作，博士学位与你根本无关。
+2. Do you want an academic position?
+ 2 你想获得学院职位么？
+A Ph.D. is the de facto ``union card\'\' for an academic position. Although
+ it
+is possible to obtain an academic position without a Ph.D., the chances are
+low. Major universities (and most colleges) require each member of their
+faculty to hold a Ph.D. and to engage in research activities. Why? To insure
+that the faculty have sufficient expertise to teach advanced courses and 
+to
+force faculty to remain current in their chosen field. The U.S. State
+Department diplomatic protocol ranks the title ``professor\'\' higher than 
+the
+title ``doctor\'\'. It does so in recognition of academic requirements: most
+professors hold a Ph.D., but not all people who hold a Ph.D. degree are
+professors.
+ 博士学位实际上是取得学眼职位的会员卡。虽然没有博士学位也能获得学院的职位
+，
+但是机会比较小。主要的大学和多数学院要求每个教员都有博士学位从而能进行研究
+工作。为什么呢？为了保证教员能有足够的专业能力教授高级课程，并且强迫教员在
+自己的领域内跟得上形势。美国的传统惯例（？）认为教授比博士要高，这是学术的
+要求：多数教授有博士学位，而不是所有的博士都能当教授。
+3. Do you have what it takes?
+ 你具备条件了么
+It is difficult for an individual to assess their own capabilities. The
+following guidelines and questions may be of help.
+ 自己评估自己的能力是困难的。下面几条方针和问题可能有所帮助。
+Intelligence:
+    In your college and graduate courses, were you closer to the top of your
+class or the bottom? How well did you do on the GRE or other standardized
+tests?
+ 智力：
+你的学院和研究上课程里，你是班里顶级水平还是垫底？GRE之类的标准考试考
+的如何？
+Time:
+    Are you prepared to tackle a project larger than any you have undertaken
+before? You must commit to multiple years of hard work. Are you willing to
+reduce or forego other activities?
+时间：
+你准备好要对付一个比你以往做过的任何课题都大的课题么？ 你必须苦干好几年。
+你
+愿意为此减少或者牺牲其他活动么？
+Creativity:
+    Research discoveries often arise when one looks at old facts in a new
+ way.
+Do you shine when solving problems? Do you like ``brain teasers\'\' and similar
+puzzles? Are you good at solving them? In school, did you find advanced
+mathematics enjoyable or difficult?
+ 创造性：研究发现常常来自用新的角度看待老的事实。你解决问题的时候机灵么？
+你
+喜欢脑筋急转弯和类似的秘题么？你善于解决它们么？在学校，你觉得做数学难题是
+享受
+还是困难？
+Intense curiosity:
+    Have you always been compelled to understand the world around you and
+ to
+find out how things work? A natural curiosity makes research easier. Did 
+you
+fulfill minimum requirements or explore further on your own?
+ 强烈的好奇心：
+你经常强迫性的要了解身边的世界并且想发现其中的奥秘么？天生的好奇心使研究变
+得容易
+。
+你是满足最小的需要还是进一步自己探索？
+Adaptability:
+    Most students are unprepared for Ph.D. study. They find it unexpectedly
+different than course work. Suddenly thrust into a world in which no one 
+knows
+the answers, students sometimes flounder. Can you adapt to new ways of
+thinking? Can you tolerate searching for answers even when no one knows the
+precise questions?
+ 适应性：
+多数学生没有准备好读博。他们发现读博和课程学习出乎意料的不同。突然进入一个
+无人知道答案的世界，学生有时候会发慌。你能适应新的思考方式么？你能忍受寻找
+一个根本没有人准确知道的答案么？
+Self-motivation:
+    By the time a student finishes an undergraduate education, they have
+become accustomed to receiving grades for each course each semester. In a
+Ph.D. program, work is not divided neatly into separate courses, professors
+ do
+not partition tasks into little assignments, and the student does not receive
+a grade for each small step. Are you self-motivated enough to keep working
+toward a goal without day-to-day encouragement?
+ 自我激励：
+在学生完成本科教育之前，他们已经习惯于每学期每门课程得到分数。博士课程里，
+工作不是清楚的分解到独立的课程的。教授不会把任务细分到很小，学生也不会每个
+小
+的阶段都得到一个分数。你能够自觉的保持向一个目标努力工作，而不需要一天天的
+鼓
+励么？
+Competitiveness:
+    If you choose to enroll in a Ph.D. program, you will compete with others
+at the top. More important, once you graduate, your peers will include some
+ of
+the brightest people in the world. You will be measured and judged in
+comparison to them. Are you willing to compete at the Ph.D. level?
+ 竞争：如果选择读博，你将和其他顶级人才竞争。更重要的是，你的同类将包括一
+些
+世界上最聪明的人。你将被和他们相比来获得评价。你愿意在博士级别竞争么？
+Maturity:
+    Compared to coursework, which is carefully planned by a teacher, Ph.D
+.
+study has less structure. You will have more freedom to set your own goals
+,
+determine your daily schedule, and follow interesting ideas. Are you prepared
+to accept the responsibility that accompanies the additional freedoms? Your
+success or failure in Ph.D. research depends on it.
+ 成熟：相对于由老师仔细计划过的课程工作，博士学习的结构不怎么清晰。你有更
+多的自
+由
+决定自己的目标和每天的日程。并且可以跟随有趣的思想。你准备好接收与这些自由
+相应的
+责任了么？你的博士课程的成败都在此。
+A few warnings:
+ 警告：
+Students sometimes enroll in a Ph.D. program for the wrong reasons. After
+ a
+while, such students find that the requirements overwhelm them. Before
+starting one should realize that a Ph.D. is not:
+ 学生常常因为错误的理由决定读博。不久这些学生就会发现自己不能满足要求。开
+始之前
+，
+你必须知道，博士学位不是：
+Prestigious in itself
+    Almost everyone who has obtained a Ph.D. is proud of their efforts and
+ the
+result. However, you should understand that once you graduate, you will work
+among a group of scientists who each hold a Ph.D. degree. (One faculty member
+used to chide arrogant graduate students by saying, ``I don\'t see why you
+think it\'s such a great accomplishment -- all my friends have a Ph.D!\'\').
+  自身就很有声望的：
+每个博士都为自己的努力和成果而骄傲。但是你必须理解，你
+一旦毕业，你将在一群人人都有博士学问的科学家中间工作。一个教员常常这样责骂
+自大的毕业生：我看不出你有什么理由觉得自己有什么大本事――我的朋友都是博士
+！）
+A guarantee of respect for all your opinions
+    Many students believe that once they earn a Ph.D. people will
+automatically respect all their opinions. You will learn, however, that few
+people assume a Ph.D. in one subject automatically makes you an authority
+ on
+others. It is especially true in the science communicaty; respect must be
+earned.
+所有的意见都被尊敬的保证：
+许多学生相信一旦当了博士，大家会自动尊敬自己的意见。但是你会明白，没人以为
+博士
+学位会自动带给你在业内的权威地位。特别是在科学界，尊敬必须靠自己争取。
+A goal in itself
+    A Ph.D. degree prepares you for research. If all you want is a diploma
+ to
+hang on the wall, there are much easier ways to obtain one. After you
+graduate, you will have occasion to compare your record of accomplishment
+ to
+those of other scientists. You will realize that what counts is the research
+work accumulated after a scientist finishes their formal education.
+本身就是目标：
+博士学位是为你的研究做准备的。如果你的目标只是个墙上的文凭，
+这个很容易得到。毕业以后你就会有机会和其他的科学家比比成就。你会意识到，一
+个
+科学家在完成了正规教育之后的研究积累才算数。
+A job guarantee
+    When an economy slows, everyone can suffer. In fact, some companies reduce
+research before they reduce production, making Ph.D.s especially vulnerable
+.
+Furthermore, once a person earns a Ph.D., many companies will not hire that
+person for a non-research position. As in most professions, continued
+employment depends on continued performance.
+ 工作的保证：
+当经济发展变慢，每个人都会倒霉。实际上，一些公司首先削减研究，之后才是生产
+。
+博士因此特别容易倒霉。更糟糕的，一旦你成了博士，很多公司就不会雇你做非研究
+的
+工作了。多数行业里，持续的业绩才能带来持续的就业。
+A practical way to impress your family or friends
+    Your mother may be proud and excited when you enroll in a Ph.D. program
+.
+After all, she imagines that she will soon be able to brag about her child
+,
+``the doctor.\'\' However, a desire to impress others is insufficient motivation
+for the effort required.
+ 打动家人和朋友的实际途径：
+拿了博士，你妈会很骄傲和激动。因为她起码认为她很快就可以拿她儿子吹牛“博士
+！”
+但是吓人这样的动机，是不足以支撑读博所需付出的努力的。
+Something you can ``try\'\' to find out how smart you are
+    Sorry, but it just doesn\'t work that way. Unless you make a total
+commitment, you will fail. You will need to work long hours, face many
+disappointments, stretch your mental capabilities, and learn to find order
+among apparently chaotic facts. Unless you have adopted the long-range goal
+ of
+becoming a researcher, the day-to-day demands will wear you down. Standards
+will seem unnecessary high; rigor will seem unwarranted. If you only consider
+it a test, you will eventually walk away.
+有时候你可以试着看看自己有多聪明：
+不好意思，但是不是这么回事。除非你作出彻底承诺，否则必定失败。你要长时间工
+作，
+面对许多失望，延伸你的心智能力，学习从混乱的事实中找到秩序。除非你已经决定
+长
+期目标为搞研究，否则日复一日的要求会把你磨倒。标准会显得没比要的高，严格程
+度
+也会显得没道理。如果你只是把读博当成一种测试，你最后会走开的。
+The only research topic you will ever pursue
+    Many students make the mistake of viewing their Ph.D. topic as a research
+area for life. They assume each researcher only works in one area, always
+pursues the same topic within that area, and always uses the same tools and
+approaches. Experienced researchers know that new questions arise constantly
+,
+and that old questions can become less interesting as time passes or new 
+facts
+are discovered. The best people change topics and areas. It keeps them fresh
+and stimulates thinking. Plan to move on; prepare for change.
+只追求一个研究课题：
+许丢学生误以为博士课题就是一生的研究目标。他们以为研究者只在一个领域里工作
+，
+只研究领域里的同一个主题，用同一个工具和方法。有经验的研究者知道新的问题总
+是
+持续出现，而旧问题会变得无趣，随着时间推移和新的事实被发现。最优秀的人会改
+变
+主题和领域。这让他们鲜活而且能刺激思考。计划继续前进，准备改变。
+Easier than entering the work force
+    You will find that the path to successful completion of a Ph.D. becomes
+much steeper after you begin. The faculty impose constraints on your study
+,
+and do not permit unproductive students to remain in the program.
+ 比加入就业大军容易：
+一旦开始，你会发现成功完成博士学位的道路变得更艰难了。教员会约束你的学习，
+并且不让干不出活来的学生继续呆在项目里。
+Better than the alternatives
+    For many students, a Ph.D. can be a curse. They must choose between being
+at the top among people who hold a Masters degree or being a mediocre
+researcher. The faculty sometimes advise students that they must choose
+between being ``captain of the B team\'\' or a ``benchwarmer\'\' on the A team
+.
+Everyone must decide what they want, and which profession will stimulate 
+them
+most. But students should be realistic about their capabilities. If you really
+cannot determine where you stand, ask faculty members.
+ 比另一个选择好：
+对于许多学生，博士学位是个魔咒。他们必须选择：成为硕士中的顶级人才，还是研
+究者
+中的中等人。教员有时候建议学生，他们必须在B队的队长和A队的板凳队员之间选择
+。
+每个人决定他想要的，和最能刺激他的。但是学生应该了解自己的能力。如果你不能
+自己
+判断，问问教员。
+A way to make more money
+  While we haven\'t heard any statistics for the past couple of years,
+graduate students used to estimate the ``payoff\'\' using the starting salaries
+of Ph.D. and M.S. positions, the average time required to obtain a Ph.D.,
+ the
+value of stock options, and current return on investments. For a period of
+ at
+least five years that we know, the payoff was clearly negative. Suffice it
+ to
+say that one must choose research because one loves it; a Ph.D. is not the
+optimum road to wealth.
+ 挣更多钱的方法路子：
+当我们还不知道过去几年的统计数据，毕业生通常用博士和硕士的起步薪水，获得博
+士学
+位所需的平均时间，股权价值，当前投资回报来评估盈利。据我们所知，至少五年内
+，
+盈利显然是负的。可以说一个人选择研究，必须是基于热爱，博士不是发财的最佳途
+径。
+The good news:
+ 好消息：
+Despite all our warnings, we are proud that we earned Ph.D. degrees and proud
+of our research accomplishments. If you have the capability and interest,
+ a
+research career can bring rewards unequaled in any other profession. You 
+will
+meet and work with some of the brightest people on the planet. You will reach
+for ideas beyond your grasp, and in so doing extend your intellectual
+capabilities. You will solve problems that have not been solved before. You
+will explore concepts that have not been explored. You will uncover principles
+that change the way people use computers.
+ 虽然有这些警告，我们还是为我们获得的博士学位和研究成果而骄傲。如果你有能
+力
+和兴趣，一个研究职位能带来其他任何职业不能比的回报。你将遇到这个星球上最聪
+明的
+人并且和他们合作。你将接触倒超过你所掌握的想法，极大的扩展你的智力水平。你
+将解
+决从来没有被解决过的问题。你将探索从来没被探索过的概念。你会发现改变人们使
+用
+计算机的方式的规律。
+The joy of research:
+A colleague summed up the way many researchers feel about their profession
+.
+When asked why he spent so many hours in the lab, he noted that the
+alternatives were to go home, where he would do the same things that millions
+of others were doing, or to work in his lab, where he could discover things
+that no other human had ever discovered. The smile on his face told the story
+:
+for him, working on research was sheer joy.
+研究的乐趣：
+一个同事总结了很多研究者对自己行业的感受。当被问及为什么他花这么多时间在实
+验室
+里，他说他还有一个选择就是回家，但那是数百万其他人都在做的。而在实验室，他
+能发现
+没有其他人发现过的东西。他脸上的微笑说明：对他来说，搞研究是纯粹的乐趣。

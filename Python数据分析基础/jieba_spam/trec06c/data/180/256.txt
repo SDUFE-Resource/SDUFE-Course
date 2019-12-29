@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <lu@ccert.edu.cn>; Sat, 24 Sep 2005 23:54:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <lu@ccert.edu.cn>; Sun, 25 Sep 2005 00:05:47 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 15:43:19 -0000
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Cc: <liu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvMbL47v6v86zzLTtuf3Rob/OyrG85KOsvfS8scfz1vqjoQ==?=
+Date: Sun, 25 Sep 2005 00:05:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+计算机系联合培养博士生，现错过选课时间，但还可以旁听，紧急向大家求助如下课程的上课时间和地点：
+1。70240013 高等计算机系统结构                   郑纬民 16
+2。80240123 计算机网络中形式化方法与协议工程学   尹霞   13
+3。80240283 网络系统建模与分析                   任丰原 42
+4。60420024 高等数值分析                         贾仲孝 21
+5。60420144 基础泛函分析                         步尚全 24
+请知道的同学发信至LRZ@ha.edu.cn或回本站信箱。
+不胜感激！

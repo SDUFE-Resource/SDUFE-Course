@@ -1,0 +1,20 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R2Ql7k015088
+	for <zhu@ccert.edu.cn>; Wed, 28 Sep 2005 10:46:36 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8R2U2q21285;
+	Wed, 28 Sep 2005 10:49:51 +0800
+Message-Id: <200509270230.j8R2U2q21285@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 02:49:51 UT
+To: zhu@ccert.edu.cn
+From: bi@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09p3ZWK1xMzWwtvKx7rcv8nQprXEysI=?=
+
+我很佩服大家能写这么多
+我都没有勇气看完.....
+     这几天讨论得热闹，经常来看看。姑且不论事情本身，看到上面某些关于Web和telnet的讨论，忍不住说几句。也许在这种场合，应当先表明一下自己的身份，免得被某些人指摘。上水木也有六七年了，土著出身，水木常来，公网的论坛也常上。简单说，对小圈子里的种种规矩是心领

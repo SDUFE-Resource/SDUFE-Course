@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <luo@ccert.edu.cn>; Thu, 29 Sep 2005 14:13:45 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 06:24:52 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 14:24:52 CST
+Date: Thu, 29 Sep 2005 14:24:52 +0800 (CST)
+From: liang ming <peng@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgv8bRp9HQvr/Q6NKqus3Qsw==?=
+To: luo@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+    科学研究在真正变成钱之前是不会有股东资助的，因为他们不可能真正懂科学而把人才筛选出来。
+    科研体制是一群人研究政策、经济等诸多因素，为了把钱骗出来，作秀表演乞讨媚俗而搭建的平台，这个平台的所有权是搭建平台的工作者。
+    把搭建平台的人简称为科学商人，把科学家简称为科学民工。
+    所以，做好研究，要正确处理平台和个体的关系，科学民工要学会省钱多出活，科学商人要学会关怀弱势群体。
+    近年来，生意不好做，克扣民工工资的事件屡有发生，这件事情要引起注意，避免民工作出过激行为。要加强对民工的教育，理解老板的难处。

@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <ou@ccert.edu.cn>; Mon, 26 Sep 2005 22:31:30 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Mon, 26 Sep 2005 22:34:48 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 14:34:46 UT
+To: ou@ccert.edu.cn
+From: zhou@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzhvvbFxMvAzfXb89Xi0fnN/Lb3uLrS5bXEsNfR28DH?=
+
+每个人选择不同。阁下可以在浮躁的环境中真正做学问（希望你没有用脚投票。我这人从不看别人id的，假设你在国内某名校高就吧），为什么别人就不能脱离这个环境去做学问呢？ 为什么别人就批评不得这种环境呢？ 
+     为什么不能现在就成熟起来呢？
+     为什么不能在“恶劣”的环境中，向内心追求纯净的学术理想呢？
+     可能与你想象的不同，在中国恶劣、浮躁的学术环境中，还是有那么“一小撮”内心是真正作学问的，他所在的实验室，周围的环境中就有这样的人。

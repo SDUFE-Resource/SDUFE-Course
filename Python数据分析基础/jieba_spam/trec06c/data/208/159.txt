@@ -1,0 +1,40 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T2QvLi001892
+	for <huang@ccert.edu.cn>; Fri, 30 Sep 2005 09:35:38 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8T2U2h24691;
+	Fri, 30 Sep 2005 09:38:43 +0800
+Message-Id: <200509290230.j8T2U2h24691@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 01:38:43 UT
+To: huang@ccert.edu.cn
+From: jin@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgserM4qO6u6rOqtSk0dDV0Ma4uN+2y8jLssWjqLfHu9vNqKOp?=
+
+多媒体视音频技术研究工程师/多媒体通信技术研究工程师   
+岗位职责： 
+1、多媒体技术研究及产品开发； 
+2、跟踪多媒体通信技术及标准的发展趋势； 
+3、跟踪DTV/IPTV技术及标准发展趋势； 
+4、参加国际/国内标准及技术论坛会议，提交标准、会议论文或发表学术论文； 
+岗位要求： 
+基本要求： 
+1、至少拥有学士学位及两年以上工作经验； 
+2、通信、计算机、数学等多媒体技术相关专业； 
+3、扎实的数字信号处理基础知识； 
+4、熟悉C/C++、MATLAB； 
+专业技能：精通下列一项或多项技术： 
+1、图像、视频、音频、语音处理技术； 
+2、图像、视频、音频、语音压缩编码技术； 
+3、MPEG、H.26x、G.7xx系列视音频协议及实现； 
+4、H.323、SIP、IMS等多媒体通信协议； 
+5、多媒体通信网络系统架构； 
+6、数字电视系统及DVB标准； 
+有其它数字信号处理或算法研究经验者优先。 
+有相关的实际开发经验及标准、技术论坛参会经验者优先。 
+简历发至：ephymail@gmail.com
+ 

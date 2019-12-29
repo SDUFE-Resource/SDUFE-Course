@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <yuan@ccert.edu.cn>; Fri, 16 Sep 2005 00:38:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <yuan@ccert.edu.cn>; Fri, 16 Sep 2005 00:50:03 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 16:31:33 -0000
+From: "zhong" <zhong@mail.tsinghua.edu.cn>
+To: yuan@ccert.edu.cn
+Cc: <cao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfyzOzN7cnPuPrAz8bFs7O83A==?=
+Date: Fri, 16 Sep 2005 00:49:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+你辛苦了，不过你lp也不容易，几天没见到你，回来就摆着脸色
+互相理解一下，过去就算了，毕竟是小事情
+     俺昨天就是心情不好发的飚，  出去干了3天活，48小时连续作业，6小时一倒班。
+     回来的时候看人都是重影，晚上本来还想在研究室干活，结果，实在不行就回来睡觉。一看到这种情况就怒从心中起。于是发飚了。
+     其实本来想忍过去，先睡一觉再说。结果，老婆说我给他脸色看，一定要纠缠我，俺于是就发飚了。  最后困死了，一觉睡到早上10点，现在还困。

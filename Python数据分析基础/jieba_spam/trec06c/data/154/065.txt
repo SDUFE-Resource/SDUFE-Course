@@ -1,0 +1,33 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <zhang@ccert.edu.cn>; Mon, 19 Sep 2005 06:51:54 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Sun, 18 Sep 2005 23:02:55 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Sun, 18 Sep 2005 23:02:55 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <zhang@ccert.edu.cn>; Sun, 18 Sep 2005 16:13:52 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <zhang@ccert.edu.cn>; Sun, 18 Sep 2005 18:11:18 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 07:02:42 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <tian@motorola.com>
+To: zhang@ccert.edu.cn
+Cc: chi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INf20ru49qO/o7+jv6O/tcTFrsjL1eayu8jd0tejrMDb0b0=?=
+Date: Mon, 19 Sep 2005 07:02:16 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+三个人同路走有什么啊，还多个人说话不是还好玩点么，又不是三个人一起回去见父母
+     本来十一要去他家的，可是后来听他说感觉他妈妈对这事顾虑比较多。一下子让我没了兴趣，很紧张，压力很大，然后，很害怕他妈妈挑剔。都不想去了。可是考虑到他这么兴致勃勃地。并且应该和他站在一起，让她妈妈认识我，接受我。不能让他夹在中间，还是决定去了。
+     然后回去的时候还要和他特别好的一个女性朋友一起走。其实我这个人还是很内向很害羞不太爱应酬的人，并且从来没见过这个人，其实我感觉2个人回去，我还是会更舒服一些的。但是考虑到，他一定不放心让这个女生自己回，他一定希望路上可以照顾她一些的，并且他们关系那么

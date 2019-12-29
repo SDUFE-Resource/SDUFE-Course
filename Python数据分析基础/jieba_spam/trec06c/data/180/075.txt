@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <ou@ccert.edu.cn>; Sat, 24 Sep 2005 21:17:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <ou@ccert.edu.cn>; Sat, 24 Sep 2005 21:28:30 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 13:05:30 -0000
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: ou@ccert.edu.cn
+Cc: <ding@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sat, 24 Sep 2005 21:28:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+呵呵，我是学cs的，但是我对于王垠那篇文章的感觉，也是觉得他总是
+“不惮以最坏的恶意来推断别人”；根据我有限的心理学知识，我也怀疑他是不是有轻微的受迫害妄想症（我也仅仅是猜测，我完全是外行，不过看到有人和我意见一致还比较高兴）
+况且，他对于同学的贬低缺乏根据（比如用word和用latex的区别）。
+另外，老兄你说话也挺武断啊，上来就说别人“胡说”，另外用“大家”这个词来偷换概念。你说的第一个“大家”应该是指“发帖表示支持王垠的人”，而不是第二个大家的同位语确实“做技术的”。你的隐含的逻辑就是，做技术的=支持王垠的？
+另一个逻辑错误就是，你假设，因为“大家”觉得现在的学术太浮躁了，因此就要“想做而没有”退学？学术浮躁，解决或者改进的办法有很多种，为什么“大家”都想这么做？
+王垠退学，那是他的自由，他的一个选择，无可厚非；但是他对于导师和同学的贬低和攻击却让人不齿，尤其是，在我看来，这些文字不但充满了主观恶意，而且毫无根据，反而凸现出王垠本人心态的不正常。
+     又在胡说了，为什么大家支持王垠，因为大家做技术的都深有感触，现在的学术太浮躁
+      ~~~~          ~~~~              ~~~~ 
+了，没有一点点作学术的精神。
+王垠做到了我们大家一直在想做而没有付诸行动的事情，所以我们佩服他。不要轻易对一个人下结论，更何况像王垠这样想的人占了很大的一部分。受迫害妄想症？好像是老兄你吧

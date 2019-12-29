@@ -1,0 +1,47 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q5fuZC005739
+	for <che@ccert.edu.cn>; Wed, 28 Sep 2005 11:38:04 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8Q5a2Mr047588
+	for <che@ccert.edu.cn>; Wed, 28 Sep 2005 11:33:21 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8Q5ZvY7047584
+	for <che@ccert.edu.cn>; Wed, 28 Sep 2005 11:32:07 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Wed, 28 Sep 2005 11:44:26 +0800
+Message-ID: <327713698.12325@mails.tsinghua.edu.cn>
+Received: from 59.66.110.132 by mails.tsinghua.edu.cn with HTTP;
+	Wed, 28 Sep 2005 11:44:26 +0800
+From: lu@mails.tsinghua.edu.cn
+To: che@ccert.edu.cn
+Date: Wed, 28 Sep 2005 11:44:26 +0800
+X-Priority: 3
+Content-Type: text/plain
+Subject: =?gb2312?B?ofEgobCzpLfnxsbAy6GxtdrSu8bavbLX+aO60d29ssjLvPK96SAo16rU2Ck=?=
+Precedence: list
+Reply-To: lu@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 THUExpress 讨论区 】
+发信人: charlesguo (小哥哥), 信区: THUExpress
+标  题: “长风破浪”第一期讲座：演讲人简介
+发信人: opalmi (哆啦A梦的抽屉), 信区: SS_SAST
+标  题: “长风破浪”第一期讲座：演讲人简介
+    大野友义 , 1944年4月台湾台北生。台湾清华大学数学研究所理学硕士（1968)，日本山梨大学电子计算机科学专业工学硕士（1972)，日本东京大学数学教室自动化理论专业研究员（1976)。  
+    大野先生是资深ISO9001 /Ticket体系首席评估师及SEI-CMM 评估师，曾负责过多个大型项目，如日本通产省大型项目-平行处理设计开发、油层分析研究-2D/3D图形图像处理及应用、日本斯伦贝谢(株) ISO9001/Ticket 认证系统的建立、NTT-斯伦贝谢大型项目的协调 (Verisys Inc.设立)、J-PHONE软件过程的确立等等。
+    另外，大野先生还曾任日本庆应大学(情报科学研究所)兼职教授；现任中国石油大学（华东）兼职教授。
+    大野先生曾在日本科学技术联盟研修所、东芝总合研究所等任项目经理。之后，在斯伦贝谢公司度过了20余载的职业生涯，先后任项目经理、部门经理及斯伦贝谢技术(北京)有限公司副董事长，曾负责斯伦贝谢公司的多个项目、企业文化的革新及人员培训、斯伦贝谢技术(北京)有限公司的设立等。2004年9月起任斯伦贝谢技术(北京)有限公司策略顾问至今。
+     期待已久的"长风破浪"系列讲座第一期就要开始啦！^_^
+         你是否刚刚走进软件学院，踌躇满志，准备塑造一个羽翼丰满的自我？
+           你是否已经学习了很多课程，却开始揣测是否真正掌握了社会需要的知识？

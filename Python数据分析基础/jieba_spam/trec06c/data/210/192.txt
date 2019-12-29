@@ -1,0 +1,52 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U301rY010973
+	for <guo@ccert.edu.cn>; Fri, 30 Sep 2005 20:17:57 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s67T079931
+	for <guo@ccert.edu.cn>; Fri, 30 Sep 2005 20:12:41 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.200])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s2q2079927
+	for <guo@ccert.edu.cn>; Fri, 30 Sep 2005 20:11:58 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id t9so856482wxc
+	for <guo@ccert.edu.cn>; Fri, 30 Sep 2005 05:28:12 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=W8KmBVYgtJQpTKJHhyqBPQpNMrndwd0y2MpDtldR3I4RhE6Kc4T1HsM706J0vp9CsI6L8ZXwRUVAEpb0VeWHwwgHOmzIJg3N5ezU1rxXNE5OB77ZnjAGIUptwrX52M2CpQAbjQGH9u8CAY2rjKNU/w6Ll7Ao3skKpgKarKaNhNI=
+Received: by 10.70.28.8 with SMTP id b8mr798445wxb;
+	Fri, 30 Sep 2005 05:28:12 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Fri, 30 Sep 2005 05:28:12 -0700 (PDT)
+Message-ID: <a00ed9800509292010qaccea32sfc4e2251cb90c982@mail.gmail.com>
+Date: Fri, 30 Sep 2005 05:28:12 -0700
+From: Shaozhi Ye <yun@gmail.com>
+To: guo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK7sd/Kx7DWwujSu7HfysdnZyDO0tfz09LOqsTR?=
+In-Reply-To: <200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+	<200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j8U2s2q2079927
+Precedence: list
+Reply-To: Shaozhi Ye <yun@gmail.com>
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+你要考虑清楚，我觉的你太幼稚了，他哥哥那样家里都管不住或者不管
+你难道不能推断一下他父母或者家人的人品或做事原则吗？
+难道他嫂子当时不是宝贝一样娶进门的？？？现在还不是这个样子，
+你现在去就是上赶呢，以后有点矛盾就会有人提出这个事来贬你的。
+信不信由你。
+     gg家就在我奶奶家不远的农村 奶奶已派姑姑早早的侦查了他家的底细
+     他爸在村里做小生意 是“典型的商人作风”
+     他gg是民工 还包了个小姐 嫂子住娘家 差点要离婚

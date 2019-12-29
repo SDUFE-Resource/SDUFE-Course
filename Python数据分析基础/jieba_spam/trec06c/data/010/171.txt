@@ -1,0 +1,31 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <xie@ccert.edu.cn>; Fri, 19 Aug 2005 06:08:17 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <xie@ccert.edu.cn>; Fri, 19 Aug 2005 06:21:35 +0800 (CST)
+Date: Fri, 19 Aug 2005 06:15:40 +0800
+From: "lv" <lv@sohu.com>
+To: xie@ccert.edu.cn
+Subject: =?gb2312?B?ofEgSUJNIENSTNXQxrjKtc+w0afJ+g==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+IBM CRL，诚聘实习学生一名，从事电信解决方案相关的研发工作。
+实习期为4-6个月（视项目进展情况会有所调整）。
+要求：（★代表要求程度）
+1、熟悉Web程序设计和数据库。                            ★★★★
+2、熟练掌握Java语言。                                   ★★★★★
+3、有Crystal Report的经验。                             ★★
+4、每周至少3个工作日来CRL工作，能全职工作者优先。       ★★★★★
+5、计算机或者相关专业的研究生。                         ★★★
+6、有责任心，学习能力强。                               ★★★★
+注意事项：
+1、将简历投到Agent99@mails.tsinghua.edu.cn
+2、在邮件题目为Intern Application（your name)
+3、请注明对各项语言和工具的熟悉程度。
+4、请注明可以工作的时间（如全职，或者每周3个工作日）。

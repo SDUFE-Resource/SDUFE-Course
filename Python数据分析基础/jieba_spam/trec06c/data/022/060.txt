@@ -1,0 +1,51 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <cheng@ccert.edu.cn>; Sun, 21 Aug 2005 15:20:51 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sun, 21 Aug 2005 07:31:05 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 21 Aug 2005 07:31:05 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "qing" <qing@jdl.ac.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgw8C5+rjfv8a8vLmry76jqEVTU6Ops8/GuMjtvP65pLPMyqY=?=
+Date: Sun, 21 Aug 2005 15:35:13 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+ 公司介绍：
+亿世(ESS)电子科技有限公司是一家美国公司在华独资机构， 其总部位于美国硅谷，是纳斯达克上市高科技公司。公司致力于研发，设计生产和销售高品质多媒体高科技产品，在DVD, Video CD, Camera Phone及数码娱乐产品的相关领域占有主导地位，在国际半导体多媒体产业界享有盛名。 
+ 
+ESS公司在北京、深圳、苏州、香港、台湾、韩国等亚太地区设有分公司。同时在这些国家也有着我们庞大的领导世界的客户群。万利达、长虹、新科、创维、TCL、大宇、三星、富士通、松下、索尼、东芝、菲利普、广达、摩托罗拉等都是和ESS公司有着良好合作关系。
+北京分公司是ESS公司在亚太地区的研发中心。我们追求公平与公正，尊重人才，创造一个让员工能在为企业做出最大贡献的同时不断发展和完善自己的企业文化环境，正确、规范的管理制度，畅通、开放的沟通渠道，强调员工的主动意识。北京分公司将聘用并开发潜质优秀的人才，把公司建设成为一个大型的研发中心。
+我们为员工提供：
+*优良的办公环境
+*良好的工作设备
+*技术培训
+*国家规定的各种福利和保险，包括：1）养老保险；2）医疗保险；3）失业保险；4）工伤保险； 5）生育保险； 6）住房公积金；
+职位介绍：
+Software Engineer :     9410A
+- Summary: Design and implement embedded software using C and assembler.
+- Assist in the specification and verification of ASICs.
+- Specific skills required: C; Assembler; DSP; Matlab; GNU development tools; Modern software engineering practices; Real-time systems.
+- Knowledge of MPEG, digital coding/compression, and hardware engineering is preferred.
+- 2+ years of professional experience in real-time embedded software using C and assembler.  Self-reliant.  Ability to lead in project development.
+- Master of Science or Master of Engineering is preferred.
+- Proficiency in spoken and written English.
+软件工程师 (9410A)
+职位描述：
+* 使用C语言和汇编语言开发嵌入式软件；
+* 协助硬件设计部门完成ASIC的测试；
+技能要求：
+* 熟悉C语言，汇编、DSP、MATLAB、GNU开发工具，现代软件工程，实时系统概念；
+* 熟悉MPEG及相关数字信号编码压缩过程，有相关硬件开发经验者优先；
+* 两年以上实时嵌入式软件开发经验，能够独立承担部分项目。
+* 硕士以上学历优先
+* 能用英语进行工作交流
+Website: www.esstech.com
+请将中、英文简历e-mail 至 zl@esstech.com.cn, 并写明职位代号，请直接粘贴到正文，附件将不予打开。

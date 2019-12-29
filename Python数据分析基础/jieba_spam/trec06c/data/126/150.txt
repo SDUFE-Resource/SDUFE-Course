@@ -1,0 +1,20 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8BNCpQ4005027
+	for <ke@ccert.edu.cn>; Tue, 13 Sep 2005 17:24:18 +0800 (CST)
+Received: (eyou send program); Tue, 13 Sep 2005 17:19:28 +0800
+Message-ID: <326480081.20005@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 13 Sep 2005 17:19:27 +0800
+Message-ID: <326480080.19987@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Tue, 13 Sep 2005 17:19:27 +0800
+From: ren@mail.tsinghua.edu.cn
+To: ke@ccert.edu.cn
+Date: Tue, 13 Sep 2005 17:19:27 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IKG+x+u9zKG/09DDu9PQy8279brcv+y1xM34teOjvw==?=
+Content-Type: text/plain
+
+我明白。其实，每一次灯灭，应该是温度传感器所在的地方的温度达到了指定温度，水温并没有达到，奶瓶里的奶更没有达到。要等足够长的时间才可以，而且如果没有温度计，用户无法知道到底什么时候达到了指定温度。
+如果没有一个明确的指示，还不如用热开水烫来得快且方便。多试几次后用多少热水烫多多长时间就有数了，而且人工试温还保险。
+     这么说吧，
+     奶瓶里的水跟温奶器里的水温不是同步的，
+     每一次灯灭即是温奶器的水温达到了设定的温度，

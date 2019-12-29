@@ -1,0 +1,23 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <yang@ccert.edu.cn>; Fri, 26 Aug 2005 20:53:00 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Fri, 26 Aug 2005 12:42:35 -0000
+From: "kang" <kang@mails.tsinghua.edu.cn>
+To: yang@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 21:06:17 +0800
+
+你真的不了解教育体系，国外的精华是在于博士阶段，国内的本科比起国外而言
+差距不大，这些个你可以从国内国外大学的本科毕业生上看到，至少我看到的是这样。
+但是真正做research的phd们还是国外的强，这个是事实。至于master，大部分
+只不过是国外读书的拿不到phd的一个安慰奖而已。
+     国外的精华还真在本科阶段 
+     就算你哈佛PHD 人家还是不承认你是校友 如果本科不在那读的 
+     有些国内有钱人送出来读本科的孩子 本身又努力 还是很有出息的 

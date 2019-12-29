@@ -1,0 +1,31 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <zhou@ccert.edu.cn>; Thu, 29 Sep 2005 14:17:50 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 06:28:57 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 14:28:57 CST
+Date: Thu, 29 Sep 2005 14:28:57 +0800 (CST)
+From: liang ming <guan@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgW7rPvK9dILTzvNKw787Ss/az9tb30uKwyQ==?=
+To: zhou@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+☆─────────────────────────────────────☆
+   bankbank (国家开发银行) (Mon Sep 26 15:00:37 2005):
+家务最烦的是要擦地阿，我家100平米的房子要先扫，然后用擦地布擦，要用手蹲着擦。
+我结婚前没怎么做过家务，结婚后，老婆有点洁癖，以前要求每天擦一遍地的，后来才改为
+每星期擦一次。
+本来我觉得我对老婆够好的了，全部工资上交（月收入近8000），老婆到现在已经6个月没
+有上班了，下班就回家，晚上是老婆做饭，吃完饭后是我洗碗。每周还要打扫卫生一遍。
+大家觉得我做得够可以吧，不抽烟、不喝酒。
+可是老婆还是老挑我毛病，我毛病就是玩玩电脑游戏，然后就是有事业心，总想着做点事情
+，可是丈母娘和老婆都不认可我的事业心。
+各位提提建议吧
+☆─────────────────────────────────────☆
+   windeer (风 ◎ 三十功名尘与

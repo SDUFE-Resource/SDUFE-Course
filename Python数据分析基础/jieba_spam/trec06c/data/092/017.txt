@@ -1,0 +1,42 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8464SY3009167
+	for <xie@ccert.edu.cn>; Tue, 6 Sep 2005 09:31:15 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMA008AX4CVO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Tue, 6 Sep 2005 09:48:54 +0800 (CST)
+Date: Tue, 6 Sep 2005 09:44:59 +0800
+From: =?gb2312?B?wre0utPq?= <ou@cernet.com>
+Subject: =?gb2312?B?ofEgx/O9zMjnus7QtLj2yMu88sD6o7+jv6O/vLGjoaOho6E=?=
+To: xie@ccert.edu.cn
+Cc: ylu4859 <lu@ccert.edu.cn>, "grey.wang" <wua@ccert.edu.cn>,
+ zy <shi@ccert.edu.cn>
+Message-id: <0IMA008AY4CVO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/mixed; boundary="Boundary_(ID_mtIjcpm6pV5fNK0/E3Q5IQ)"
+
+本人为北京交大计科学生，欲保送中科院本人个人情况如下，现在不知道简历该如何写，急问达人，如果愿意提供一些例子模板或者建设性的建议我将感激不尽！！！
+：
+――――――――――――――――――――――――――――――――――――――――
+[成绩]：
+      平均分：83+
+（在我们学校的计算机系380+人中应该在前10%，现在由于还没有完全出来所以更详细的情况不知）（中科院理论上说在专业排名前15%就接受，但是我们学校的现状就是一般只有前几名才最终能去）
+――――――――――――――――――――――――――――――――――――――――
+[奖项]：
+      大一 ：学习一等奖学金
+      大二 ：学习二等奖学金+校级的三好学生
+      大三 ：学习三等奖学金
+（没有参加任何竞赛也没有跟老师做过项目，这本来应该是最关键的！）
+――――――――――――――――――――――――――――――――――――――――
+[英语]：
+      四级优秀（85）
+      六级通过（61.5）
+――――――――――――――――――――――――――――――――――――――――
+[职务]：
+      在本班担任学习委员
+――――――――――――――――――――――――――――――――――――――――
+[实习]：
+      大二曾经在kill杀毒软件公司做过销售方面的实习
+――――――――――――――――――――――――――――――――――――――――
+总体上说我保送中科院难度很大，没有什么优势可言，寄希望于做一份好的简历，面试能有不让人尴尬的表现，诚求建议，这也是本人第一次写个人简历，真的不知道该怎么写，help！

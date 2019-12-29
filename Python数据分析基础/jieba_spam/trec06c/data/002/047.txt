@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <weng@ccert.edu.cn>; Mon, 15 Aug 2005 05:42:46 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <weng@ccert.edu.cn>; Mon, 15 Aug 2005 05:56:17 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 05:51:12 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 05:51:12 +0800
+From: xia@mail.tsinghua.edu.cn
+To: weng@ccert.edu.cn
+Date: Mon, 15 Aug 2005 05:51:12 +0800
+Reply-To: xia@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1dDGuNDQ1f7OxNSx?=
+Content-Type: text/plain
+
+   北京宇动源科技有限公司创建于2002年，是一家技术力量雄厚的专业软件公司。公司在吸收国外先进软件技术和软件经验的同时，不忘紧密结合国内企业的实际情况，一直致力于发展适合国内企业需要的，自主知识产权的软件技术和软件产品。公司具有研发大型软件产品的能力和实施大型IT工程项目的经验．中国惠普、中国华能等国内外知名企业都在使用我们的产品和技术。 
+　　公司的主要业务包括：企业级商业智能（BI）解决方案和决策支持系统的完整实施；多维数据的成像和动态分析 (Visualization)． 
+公司现招聘行政人员一名，要求： 
+1、   女，大专以上学历，一年以上行政工作经验； 
+2、   熟练使用各种办公软件，有一定的财务知识，工作踏实、勤奋； 
+3、   良好的沟通协调能力； 
+4、   敬业、有责任感，性格开朗。 
+联系人：艾润 
+其它信息： 
+公司名称：北京宇动源科技有限公司 
+地址：北京市海淀区长春桥路5号8-1017 （100089） 
+电话：010-82561316，82561429 
+网址：www.cosmosource.com 
+电子邮箱：info@cosmosource.com , sales@cosmosource.com 

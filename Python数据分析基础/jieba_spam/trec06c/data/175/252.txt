@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <gao@ccert.edu.cn>; Sat, 24 Sep 2005 02:28:15 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <gao@ccert.edu.cn>; Sat, 24 Sep 2005 02:39:44 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 18:16:50 -0000
+From: "you" <you@mail.tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+Cc: <fan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL/exvy1xLDZus8=?=
+Date: Sat, 24 Sep 2005 02:39:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+mm受席的影响太深了
+     如果时间是一只沙漏，光阴沙沙地穿过细细的瓶颈，滑落梦境的虚无。托腮凝思的女子，有一只手伸出窗去，接那夏雨止后小小的檐滴。琴弦上幽幽的丽音，尚未冷落下来，在屋子里低低地缠绵着，像风吟。 
+     　　如果十年是一只水袖，红唇的花旦飘飘忽忽地舞着甩着，用湿湿的喉咙，唱那愁情别恨的《十八相送》。回忆里长长的荒亭，枯树上的鸦啼，残阳孤天，兰舟隐隐去远。 
+     　　伫立河岸的女子，黛眉烟目。瘦削的衣肩伏着落花几片，淡淡的粉红，是风浅浅的唇印。 

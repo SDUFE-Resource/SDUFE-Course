@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBMZaM026296
+	for <mo@ccert.edu.cn>; Fri, 16 Sep 2005 13:16:41 +0800 (CST)
+Received: (eyou send program); Fri, 16 Sep 2005 13:10:23 +0800
+Message-ID: <326696577.15347@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 16 Sep 2005 13:10:23 +0800
+Message-ID: <326696577.15331@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Fri, 16 Sep 2005 13:10:23 +0800
+From: mo@mail.tsinghua.edu.cn
+To: mo@ccert.edu.cn
+Date: Fri, 16 Sep 2005 13:10:23 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgob45LjE2yc/O56G/yfrO77mks8zPtcHQvbLX+dauQmlvbG9naWNhbCBIeWRyb2dlbiBQcm9k
+dWN0aW8=?=
+Content-Type: text/plain
+
+【 以下文字转载自 CampusInfo 讨论区 】
+发信人: YuanLu (风儿), 信区: CampusInfo
+标  题: 【9.16上午】生物工程系列讲座之Biological Hydrogen Productio
+                               生物工程系列讲座
+                   Biological Engineering Seminar Series
+讲座题目：Biological Hydrogen Production - Molecular Studies to System Engineering
+演讲者：Dr. &amp; Prof. Jun Miyake (三宅 淳)
+演讲者背景：Researcher of National Institute of Advanced Industrial Science and Technology (AIST),Osaka, Japan. Professor of The University of Tokyo， Japan
+讲座地点：工物馆332教室
+时间：上午8：00-9：30，星期五，2005年9月16日 
+      Room 332, Engineering Physics Bldg.  8：00-9：30 AM，Fri，Sept. 16，2005

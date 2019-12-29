@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <zhang@ccert.edu.cn>; Thu, 25 Aug 2005 21:01:11 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 21:19:31 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 21:19:31 +0800
+Date: Thu, 25 Aug 2005 21:19:31 +0800
+From: jian@cernet.com
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+To: zhang@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+可能外企把核心技术搬来中国的进程还不会那么快。因为这不单单是成本的问题，
+还牵涉到研发实力的积累问题。真正的核心研发，是需要很多年积累的，队伍的
+培养也非常不容易，以国内的浮躁环境和研发人员普遍的经验、水平，我觉得洋
+人不放心也是有道理的。
+不过，现在有的外企已经把一些前景不看好的核心技术拿到中国来做了，无论如
+何也是个开端吧。
+     这个跟大环境有关系
+     如果一直是浅显的研发的话  确实很难积累一定的经验和能力
+     不过我觉得以后国内对有丰富经验和很强能力研发人员的需求会逐渐大起来的

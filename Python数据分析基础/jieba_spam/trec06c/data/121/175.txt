@@ -1,0 +1,76 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4UcVN027622
+	for <chi@ccert.edu.cn>; Mon, 12 Sep 2005 16:36:00 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4RrpH090421
+	for <chi@ccert.edu.cn>; Mon, 12 Sep 2005 16:33:34 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A4Roin090417
+	for <chi@ccert.edu.cn>; Mon, 12 Sep 2005 16:33:12 +0800 (CST)
+	(envelope-from zhuyangbo99@mails.tsinghua.edu.cn)
+Received: from th122216.ip.tsinghua.edu.cn (HELO ?127.0.0.1?)
+	(zhuyangbo99@59.66.122.216)
+	by localhost with SMTP; Mon, 12 Sep 2005 08:22:20 -0000
+Message-ID: <43226458.3080902@mails.tsinghua.edu.cn>
+Date: Mon, 12 Sep 2005 16:48:26 +0800
+From: Yangbo Zhu <gong@mails.tsinghua.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0.2 (Windows/20050317)
+MIME-Version: 1.0
+To: chi@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?vczKpr3av+zA1g==?=
+In-Reply-To: <326324394.13336@mails.tsinghua.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+学校太无耻了，不给就不给吧，还要用这种办法”调整“
+所谓调整，就是变相剥夺这部分钱，为什么这么说？
+原来博金直接有学校给，导师还另外给一部分钱
+比如说博金按照每个月200（按照10个月算）、导师每个月给你400
+现在调整了，把负担全部丢给导师，有钱的导师倒也无所谓，等于一个月多给200
+但是有钱的导师有多少阿？而且现在一个博导带好些博士生，
+这笔钱还是数目不小的
+导师怎么办？学校要求发博金，还要经过系里审核，导师自然会出这笔钱，
+但是原来每个月给你的钱，给与不给、给多少完全由导师决定，如果导师经费不多，
+自然会减少原来每月的额度，比如由原来的400，降为200
+朝三暮四＝朝四暮三，这个道理谁不知道阿，可以预见，
+很多经费不多的导师会如此处理
+最后导师支出是一样的，学校还做着“调整”的好人，所谓“不降低博士生生活水平”
+哄鬼吧！
+这件事学校表现太不负责任了，太无耻了
+这种搞法，明摆这就是取消了，还要把责任推给导师，无耻之尤
+附件……………………
+关于调整博士生导师基金发放办法有关问题的通知
+清校发〔2005〕39号
+各相关单位：
+我校博士生导师基金（以下简称博导基金）自1999年设立，学校按额度下发给博士生导师，
+由导师根据博士生的学术表现及业绩，作为其生活补贴按月发放。博导基金发放几年来，对
+我校吸引优秀生源、确保博士生基本生活水平起到重要作用。随着我校博士生培养规模不断
+扩大，博士生在通过承担导师科研项目来完成自身培养的过程中，为学校近年来科研经费的
+不断增长做出了重要贡献；另一方面，博导基金占学校整体经费比例逐年加大，已对研究生
+教育教学基本建设投入造成影响。综上原因，经2004～2005学年度第21次校务会议（2005年
+6月27日）讨论通过，决定在不降低博士生基本生活水平的基础上，自2005年秋季学期开始
+调整我校博导基金发放办法。现就有关问题通知如下：
+一、允许参加课题研究工作的博士生的生活补贴从其导师所支配的课题经费中列支，学校不
+再额外发放博导基金。
+二、上述博士生生活补贴按学期结算，每学期初由导师交转至所在院（系）统一帐号，由院
+（系）核定发放名单及额度后发放给博士生。
+三、学校对长期从事基础理论研究、科研经费确有困难的博士生导师继续提供博导基金，以
+确保其博士生的基本生活水平。该基金以学期为单位，由导师申请，学校审核，定期调整。
+每位导师最多申请3名博士生的博导基金支持。
+四、博士生导师根据其博士生在课程学习以及学位论文工作方面的实际表现，可降低或停发
+上述生活补贴。降低或停发生活补贴应经所在院（系）主管副院长（副系主任）批准，并通
+知到博士生本人。
+………………

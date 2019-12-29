@@ -1,0 +1,46 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <chen@ccert.edu.cn>; Sun, 18 Sep 2005 00:46:33 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <chen@ccert.edu.cn>; Sun, 18 Sep 2005 01:03:08 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <chen@ccert.edu.cn>
+	; Sun, 18 Sep 2005 01:03:08 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <chen@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 00:28:09 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "ling" <ling@njnu.edu.cn>
+To: chen@ccert.edu.cn
+Subject: =?gb2312?B?ofEguPSx2sDPw8C1xLnKysJbMl0=?=
+Date: Sun, 18 Sep 2005 00:58:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+凌晨四点多，隔壁老美抱了个mm回家。
+从沉重的脚步可以听到老美已经有些不堪重负了，
+毕竟是6层楼呀。
+可以听到半醉的MM的嚷嚷。
+老美说，“不要吵着邻居了~”
+mm说，“就要。你个骗子。……”
+MM说的是京片子，但是不地道。
+不过言语间的放纵和任性已经尽显无遗。
+老美中国话说得不错，但是有些词还不能理解。
+MM说，“你和我认识，那叫一个词，缘分！”
+      “缘分你知道么？那叫四个字，机缘巧合！”
+      “机缘巧合你知道么？你知道什么叫机缘巧合么！？”
+老美说，“你和我认识，那是碰巧”
+老美申辩着，MM自顾自的喧闹着，说着一些不着边际
+的话语。
+老美后来不说话了。
+窗外月圆，老美怕是该想家了吧。
+MM会不会想家呢？

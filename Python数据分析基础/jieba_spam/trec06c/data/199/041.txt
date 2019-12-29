@@ -1,0 +1,33 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <lai@ccert.edu.cn>; Wed, 28 Sep 2005 17:02:38 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 09:13:48 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 17:13:48 CST
+Date: Wed, 28 Sep 2005 17:13:48 +0800 (CST)
+From: liang ming <wang@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILjQvvWhsMnxu7Chscixt6bBpsG/?=
+To: lai@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+终于看了《神话》了
+有不少地方没法编圆
+一开始两个人瞎打什么
+就算打也完全可以把妞儿先拉上来再决斗
+印象比较深刻的是天宫的部分
+还有一夫当关的部分
+金同学这次比花瓶还是好点儿的
+小龙女装扮不错
+兰衣装束像极了郭羡妮
+比较喜欢天宫对皇陵的解释
+片子让我想起了《古今大战秦俑情》
+     一开始吹大发了后来收不住了。
+     类似的情况参考《达芬奇密码》。
+     不这么结束也不行，总不能让一个长生不老的美女和杰克共同生活吧。

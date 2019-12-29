@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <lian@ccert.edu.cn>; Thu, 1 Sep 2005 00:00:42 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 00:03:34 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 00:03:34 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 00:03:34 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 15:56:57 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 23:49:07 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 23:49:07 +0800
+From: hou@mails.tsinghua.edu.cn
+To: lian@ccert.edu.cn
+Cc: wu@ccert.edu.cn
+Date: Wed, 31 Aug 2005 23:49:07 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMH5vLa31sr91PXDtMvjsKEgzazRp7+8wcs1MDC31g==?=
+Content-Type: text/plain
+
+　　自2005年6月起，四、六级考试的分数在经过加权、转换等数据处理后，总分满分为71
+0分，各单项分之和等于总分。考试不设及格线，取消证书，改发成绩报告单，以利于广大
+师生和学校行政部门根据本校的教学实际，合理使用四、六级考试的成绩和相关数据。
+　　举例：2005年6月大学英语四、六级考试各单项成绩计分如下：听力(20%)满分为142分
+；阅读（40%)满分为284分；综合(25%)满分为178分；作文(15%)满分为106分。单项部分如
+没有作答或全部答错，该部分成绩计为0分。

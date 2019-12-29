@@ -1,0 +1,26 @@
+Received: from 163.com (m12-11.163.com [220.181.12.11])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KG4ZiJ024610
+	for <ye@ccert.edu.cn>; Wed, 21 Sep 2005 15:22:01 +0800 (CST)
+Message-ID: <200509210004.j8KG4ZiJ024610@spam-gw.ccert.edu.cn>
+Received: from jn556000 (unknown [218.90.189.12])
+	by smtp12 (Coremail) with SMTP id sLt_sb01MEMy81oE.1
+	for <ye@ccert.edu.cn>; Wed, 21 Sep 2005 15:33:18 +0800 (CST)
+X-Originating-IP: [218.90.189.12]
+Date: Wed, 21 Sep 2005 15:33:12 +0800
+From: "chen" <chen@163.com>
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOy63NLWw8Y=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+别的硕博郁闷不？
+如果大家都郁闷过，那就是老板的问题。
+如果只有你郁闷，那还要消消气，把心放宽了
+有时候一个人越想越郁闷，听听别人怎么样看会好些
+或许你的老板也在为某种原因郁闷呢
+     今天很抑闷，收到编辑部的email告诉我的一篇论文被无限期推迟发表。
+     事情是这样的，我前段时间有一篇文章投了一个快报的期刊，影响因子3.0，由于我的工
+     作创新性很突出，写得也不错，审稿专家高度评价，因此主编决定直接录用不需修改。我

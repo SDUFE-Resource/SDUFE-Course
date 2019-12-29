@@ -1,0 +1,33 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <wei@ccert.edu.cn>; Sat, 20 Aug 2005 07:40:51 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Sat, 20 Aug 2005 07:57:17 +0800 
+Date: Sat, 20 Aug 2005 07:53:53 +0800
+From: "lin" <lin@admin.iscas.ac.cn>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvLHGuKO6SmF2YdOm08O/qreiuaSzzMqm?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+职责：
+1、使用Java AWT, Swing, .NET进行软件界面开发
+要求：
+1、    计算机或工程专业本科或以上学位
+2、    1~3年以上参与Java AWT, Swing 前端界面开发工作经验 
+3、    具有XML工作经验
+4、    具有Web Portal开发经验者优先考虑
+5、    能使用开源的Java开发工具者优先考虑
+6、    具有很强的分析和沟通能力
+公司提供丰厚的福利待遇和广阔的个人发展空间，如想更多的了解公司及职位的信息，请登录公司网站：www.sightna.com
+有意者请将简历发送至christina@sightna.com
+                    hr@sightna.com

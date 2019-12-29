@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <he@ccert.edu.cn>; Wed, 28 Sep 2005 05:10:07 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 21:21:17 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 05:21:17 CST
+Date: Wed, 28 Sep 2005 05:21:17 +0800 (CST)
+From: liang ming <lu@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM312/OjrMTjtb21183L0afBy8O709CwoaO/?=
+To: he@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+谁抨击他的选择啊，是抨击他的做法。你是不是喜欢和他一样，上高中骂高中老师，军训骂教官，大学骂同学，毕业酒会骂敬酒人，实验室骂师兄师姐，骂导师，反正一切都是别人的错，不用思考自己。正所谓有理走遍天下，不就是讲个理字吗，他师兄师姐们有他那样不讲道理吗。
+     王垠的师兄弟们的简历
+     作者简介：flyingdream 曾就读于清华大学计算机系设计自动化实验室并获博士学位，现在美某大学继续深造
+     作者简介：waterside, 1997-2000年就读于清华大学计算机系设计自动化教研组，获硕士学位，现在加州某大学攻读同专业博士学位

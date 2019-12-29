@@ -1,0 +1,28 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <xu@ccert.edu.cn>; Sat, 10 Sep 2005 00:20:01 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <xu@ccert.edu.cn>; Fri, 9 Sep 2005 09:32:08 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 09:32:08 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 09:32:08 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sat, 10 Sep 2005 00:32:08 +0800
+From: =?GB2312?B?1/O+pw==?= <yana@gmail.com>
+Reply-To: yana@gmail.com
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INT1w7SyxcTcyLDXoW1tsKGjv8frtPO80tan1dA=?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+先领证,然后大家一起面对钱的问题...
+     我本来打算明年春天就跟mm去领证，然后办一个简单的婚礼（我们都没有多少钱，我家里
+     经济状况不太好，支援不了），但是mm昨天打电话说想要旅行结婚，我基本也赞同，可是她要去国外旅行，想多看看不同国家的风土人情，增加一些阅历，算下来2个人估计要3w，这个数目我实在接受不了（因为我们还没买房，现在我们可选的房子首付都在6w以上），可mm又很坚持，真不知该咋办了。大家有没有什么好主意？
+     虽然沈阳的消费没有北京那么高，但我们的收入在沈阳也不算高的，有时候很担心将来结婚了无法满足mm的各种期望，真不知道将来会怎么样。其实mm真是个好mm，平常很为我着想，

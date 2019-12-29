@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <tian@ccert.edu.cn>; Sat, 3 Sep 2005 14:47:49 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <tian@ccert.edu.cn>; Sat, 3 Sep 2005 15:00:24 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 06:49:35 -0000
+From: "tian" <tian@mail.tsinghua.edu.cn>
+To: tian@ccert.edu.cn
+Cc: <yana@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyMjB0ru2063K/dGnz7Whos7vwO3PtaGiwabRp8+1oaK+q9LHz7Wxz9K1yfq1vdbcxeDUtNOm
+08PK/dE=?=
+Date: Sat, 3 Sep 2005 15:00:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+热烈欢迎数学系、物理系、力学系、精仪系毕业生
+到周培源应用数学研究中心攻读博士学位（直博生）
+清华大学周培源应用数学研究中心（以下简称"中心"）是清华大学在2002年设立的开展交叉基础科学研究的实体。它的宗旨是：推动数学和经验科学的学科交叉、渗透与合作研究，促进清华大学应用数学和经验科学的发展；增强清华大学科学研究的交叉性、科学性和前瞻性，活跃学术思想；开展国际学术交流与合作；培养具有创新能力的杰出人才。
+　　"中心"聘请林家翘教授为名誉主任，谢定裕教授为主任，海内外著名科学家担任顾问或学术委员会委员，并聘请一批海内外知名学者任研究员，客座研究员，以形成开展基础研究的优势力量。
+几年来，中心已经招收一批博士生、博士后，在林家翘教授和谢定裕教授的指导下从事科学研究工作，2006年预计将招收2～3名直博生。我们热烈欢迎数学系、物理系、力学系、精仪系的毕业生来我中心攻读博士学位。
+在清华大学新闻网上，“清华人物”一栏登载了“杨建科―应用数学领域的优秀青年学者”的文章，杨建科教授为我中心讲习教授组成员。
+     杨建科教授的研究方向为非线性波动理论。非线性波动理论是应用数学的一个重要分支。它研究物理工程中出现的各种非线性波动现象。典型的例子为水波问题和光纤通讯问题。这些非线性波动问题一般由非线性偏微分方程来描述。通过对物理问题的建模，对非线性偏微分模型方程的数学分析和计算，最后将数学结果应用到物理问题中去，从而达到对物理问题的理解和对新的物理现象的预测。非线性波动理论是数学和物理工程的交叉学科。它需要比较强的应用数学基础 (如泛函分析，常微分方程，偏微分方程，动力系统，摄动理论， 渐进分析，数值计算等) ，物理基础 (如电磁学，流体力学等) ，以及对解决与波动现象有关的数学和物理问题的浓厚兴趣。 
+    欢迎数学/应用数学，物理，力学，精仪系等系的毕业生报考我中心直读博士生。 
+你会从我们的主页得到更多有关信息. zcam.tsinghua.edu.cn
+一些补充信息请见附件。

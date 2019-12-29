@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <hou@ccert.edu.cn>; Fri, 23 Sep 2005 13:27:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <hou@ccert.edu.cn>; Fri, 23 Sep 2005 13:39:10 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 05:16:16 -0000
+From: "cen" <cen@mail.tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Cc: <ke@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgw7vP67W90KHb883L0afByw==?=
+Date: Fri, 23 Sep 2005 13:38:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+工作后是孤陋寡闻，今天才看到这个消息，确实是大吃一惊。细细读了他的文章，感觉印证了我最近一个想法，就是人的成熟总要经过一个心理叛逆阶段，要从接受服从转向行驶自己的意志，然后明白自己的行为与自己承担行为结果密不可分，从而能理智地反思理解以前被动接受的规则。不同人，这个叛逆阶段的表现时间和方式会不同，付出的代价也因人而异。前一阵子跟高中同学聚会，聊着聊着说起了当时高中为了高考都成了学习机器，到了大学一放松，都是放浪形骸，还就不听长辈们说教，你说东我偏要往西。然后大四突然顿悟，改邪归正，考研的考研，找工作的找工作，混到如今。我感觉小垠正处于这个叛逆阶段，并以比较激烈的形式爆发了，结果不但自己付出了很大的代价，也伤及了导师和同学。记得以前在教研组的时候，感觉他是个有才华也很有个性的小师弟（不是同一个导师，但在同一个教研组，可以算是师弟吧），当时觉得他很有潜力成为他前几届牛师兄师姐的接班人，也为我们教研组发出一两篇DAC文章（这个是我们方向上的顶级国际会议）或IEEE的TRANS啥的，导师也很喜欢他，放手让他做自己想做的课题，给我的感觉就是你只管向前冲锋，后面有老师们的全力支持了。说起来我们教研组的导师人都挺好，对学生总是尽量地帮助，为我们创造各种条件和机会。现在出了这样的事，估计包括小垠导师在内我们都是意料不到，也不想看到。只希望小垠一路走好，不辜负大家对他的期望吧。

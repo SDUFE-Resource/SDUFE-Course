@@ -1,0 +1,25 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <long@ccert.edu.cn>; Tue, 13 Sep 2005 18:44:59 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Tue, 13 Sep 2005 18:56:58 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <long@ccert.edu.cn>; Tue, 13 Sep 2005 18:56:57 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <tan@dlut.edu.cn>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7StcS/vNHQwrejutOi0++1xNGnz7At0MK2q7e9LUdSRQ==?=
+Date: Tue, 13 Sep 2005 18:56:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     re！
+     咱们的小猪猪可是英语大牛呵~~~
+     哈哈。帮咱可爱的大哥也总结总结； 我对英语也有点小心得。 就是郑重的对英语水平中等（6级80左右），或中等以下 的朋友说一句：千万不要再拖长时间的背单词了。 尤其是有些人买了星火那种几百页，画了图图，左右联系的那种。 单词只有在文章中才能记住。建议买个超级小的一个单词就1，2个解释的那种（同样，星火也有 ）。快速记了就仍掉。然后做阅读理解。 时间有限的就只做真题就行了。
+哈哈， 我是老猪啦。 显然没老大你口语牛逼，明年相会清华找老大聊聊。 呵呵。大家继续侃哇。我照老大方法得看数学去了。

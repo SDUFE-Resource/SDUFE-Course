@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <tu@ccert.edu.cn>; Sun, 21 Aug 2005 19:27:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <tu@ccert.edu.cn>; Sun, 21 Aug 2005 19:41:16 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 11:35:53 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "hong" <hong@mail.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Cc: "tunet" <lu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILmk1/fBy6Ostau7ucrHyMyyu9ehutzL18b4tdjP67W9x64=?=
+Date: Sun, 21 Aug 2005 19:37:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+进了大学就不要太多考虑钱的问题，别和别人比工资。
+学历比你低（甚至能力也比你低），工资是你好几倍的人大把，要正视这个事实。
+     博士毕业了，去了一个不好不坏的高校，竞争很激烈，自身有些优势加运气，终于进来了，许多朋友都说我去高校可惜了，该去格外企什么的，发展更好，但考虑到外企等企业的二次就业问题，还是选择了高效。当时以为工资只是眼前的问题，要看长远的发展，当然，长远来看也确实

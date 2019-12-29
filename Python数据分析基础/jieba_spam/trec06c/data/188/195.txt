@@ -1,0 +1,28 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <bai@ccert.edu.cn>; Mon, 26 Sep 2005 18:42:11 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Mon, 26 Sep 2005 18:45:29 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 10:45:27 UT
+To: bai@ccert.edu.cn
+From: zheng@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj4x+W7qtK70KnL+c690afV373Mytq1xL6vyr6joQ==?=
+
+补充：
+文人就是社会分工的结果，
+脱离了简单劳动，通过阅读而掌握真理，
+可以发现现实生活中的诸多问题，
+采用言论的方式，调动社会各方面力量，
+达到改善社会发展从而改善自身生活的一种劳动方式，
+具有绿色环保低能耗无污染的诸多优点，
+党中央推出李敖这个产品的目的就是为了解决现在的就业问题、社会发展问题。
+     就是就是，觉得这位大侠一起说了三个人！呵呵
+     文人就是靠骂人活着的，林林总总
+     要不他们这些人还能干啥？

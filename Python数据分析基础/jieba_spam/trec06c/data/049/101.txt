@@ -1,0 +1,20 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <lai@ccert.edu.cn>; Sat, 27 Aug 2005 20:12:43 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 20:20:13 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 27 Aug 2005 20:20:13 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sat, 27 Aug 2005 20:20:13 +0800
+From: hu@mail.tsinghua.edu.cn
+To: lai@ccert.edu.cn
+Cc: gao@ccert.edu.cn
+Date: Sat, 27 Aug 2005 20:20:13 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+Content-Type: text/plain
+
+不仅仅是实力积累的问题，看看联想买IBM的PC,受到了多少审核啊，生怕漏出点什么有用东西来给中国。更不要说什么核心技术了，都是受限制的
+     可能外企把核心技术搬来中国的进程还不会那么快。因为这不单单是成本的问题，
+     还牵涉到研发实力的积累问题。真正的核心研发，是需要很多年积累的，队伍的
+     培养也非常不容易，以国内的浮躁环境和研发人员普遍的经验、水平，我觉得洋

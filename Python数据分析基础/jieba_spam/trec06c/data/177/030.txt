@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <ou@ccert.edu.cn>; Sat, 24 Sep 2005 07:51:57 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <ou@ccert.edu.cn>; Sat, 24 Sep 2005 08:03:22 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 23:40:19 -0000
+From: "ye" <ye@mail.tsinghua.edu.cn>
+To: ou@ccert.edu.cn
+Cc: <fu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM312/PL+c69S251dGi1xGJ1Z8bkyrXKx9K7tcDPsMzitcS/sc7z?=
+Date: Sat, 24 Sep 2005 08:03:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+我不关心他说的那个bug是什么
+也没觉得即使是小问题对于他的印象我会改变什么
+我觉得他文章所表现的是想说明
+“以前的教育，高中的应试扼杀学生的创造力
+现在的研究，学术气氛不好，交流不多”
+～～～～～～～～～～～～～～～～～
+这种成词滥调，我都不好意思再喊old了，有点创意好不好。
+高考扼杀什么，你出个什么公平的主意？
+交流不多什么的，研究要靠自己钻，有问题无论是懂的人，还是paper的原作者，发个mail，              那个不是热情的回复。不会就是我rp好吧。
+还帮你补充一个滥调：只看paper云云。phd stud 出牛文章就是硬道理。出不了文章，谁tm鸟你，不要忘了Einsten（可能有误）出警世咳熟的四片牛paper之前，没人鸟他的。
+我觉得这些说的没错
+至于他这个人牛不牛，有什么关系？
+     不同行你可以听听和他同行的其它人的话啊，偏听偏信不是fans是什么？

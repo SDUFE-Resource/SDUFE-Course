@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U4X83o011570
+	for <qiu@ccert.edu.cn>; Fri, 30 Sep 2005 12:18:53 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U4RWjN080763
+	for <qiu@ccert.edu.cn>; Fri, 30 Sep 2005 12:13:39 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U4RU2J080759
+	for <qiu@ccert.edu.cn>; Fri, 30 Sep 2005 12:13:15 +0800 (CST)
+	(envelope-from yang.feng00@mails.tsinghua.edu.cn)
+Received: from unknown (HELO zyyf) (yang.feng00@221.219.242.164)
+	by localhost with SMTP; Fri, 30 Sep 2005 04:25:40 -0000
+Message-ID: <002001c5c579$779e87c0$0c01a8c0@zyyf>
+From: "jiang" <jiang@mails.tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+	<328049616.11361@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?UmU6IMj9xOrQwb/gsrvI58PmytTD5rXEusM=?=
+Date: Fri, 30 Sep 2005 12:28:57 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+	j8U4RU2J080759
+Cc: 
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+成绩不好更不能适应搞科研，面试水分很多！
+     面试还是应该应该占一定分数的，不然面试还有什么意义？“走过场”不应该是发展的方向
+     我们系里老师也说，学分高个0.5分真能说明你在学术研究上比别人更强？连老师自己也不信，只不过像我们系里往年都是大家自己按成绩排好，然后一个萝卜一个坑的去面试，没有什么“双向选择”，只是学生选择老师而已，老师其实也无奈，一共5个本系名额就来5个人面试，你要涮下1个人不就浪费一个名额？从这点来看，面试占一定成绩还是有积极意义的（客不客观是另外一回事，我承认会有些优秀的学生可能拙于言词），至少对系内推研而
+     言，是给老师一个选择的机会

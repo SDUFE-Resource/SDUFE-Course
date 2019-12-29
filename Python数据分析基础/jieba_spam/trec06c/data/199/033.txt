@@ -1,0 +1,42 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <yang@ccert.edu.cn>; Wed, 28 Sep 2005 16:54:02 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 09:05:09 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 17:05:09 CST
+Date: Wed, 28 Sep 2005 17:05:09 +0800 (CST)
+From: liang ming <weng@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgyb22q9HYuqPR2M/fwsPQ0LzGu66jqNXQ0dC+v8n6u/LS1MnPyMvUsaOp?=
+To: yang@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+模仿别人的计划：
+曾想过N多的地方，但还是决定把我的脚印留在海边，
+漫步黄沙，水天一线；朝迎红日，西送晚霞；
+急可夜行明月路，闲能盐水日光浴；见鱼虾贝蟹，得煎炒烹炸;
+百味辛香能入骨，万般销魂游海疆。纵有豪浪千百丈，不啻情人泪一滴。
+活动路线：：： (北京)－(天津)－ (沧州)歧口港－冯家堡－新村乡－ (山东)东风港－新旧黄河入海口－黄河农场－羊口镇－莱州－蓬莱三岛－烟台（威海）－ (天津) 塘沽 －北京 （ 最后由烟台做观景舱到天津塘沽 ）
+活动人数：：10
+活动计划：：：
+10．1 上午做火车去天津，然后奔长途客运中心站，搭下午13：45去烟台的长途汽车，到冯家堡下车，然后过夜农家；
+10．2 沿海边公路前进，体会自己脚下的路，中午到新村回族乡吃饭，下午搭车去黄河口（可能要到东营去换车），晚上夜宿黄河口。
+10．3 上午游览黄河三角洲自然保护区，并行程到黄河农场，并沿沿海大坝前进至羊口镇，沿途港口众多，如果可能的话，可做船到羊口。顺利的话在中午左右到，然后坐车去莱州，到文峰山去看看，并在晚上到达三山岛（绿野8月份有人去过的），
+10．4 上午到龙口市，周边转转，下午到达蓬莱，然后坐船到长岛。
+10．5 从蓬莱下午感到烟台，到海边去看看，有足够的时间再去威海 ；
+10．6 机动的一天，并再晚上前，解决票的问题，晚上坐船开往塘沽，距离较远，至少也得一晚上的时间，第二天返回塘沽，相信这时候的海鲜已经吃泥了
+10．7 中午前，返回北京，解散并修整等待上班。
+在网上看到，一路沿线交通很发达，到处都能做到车，吃饭也很方便，所以做到背小包，轻装，如有可能带防潮垫和睡袋就足够了，吃得要少带。
+交通：：：天津到山东方向的汽车满多的
+1、长途客运中心站河东区天津站后广场 咨询电话：60531818
+开往河北黄骅港的客车每日两班发车时间为9:40和13:45途经歧口、三号院、冯家堡
+住宿：：： 农家
+费用：：： 预计500元左右。
+装备：：： 随意带，要能防雨，防晒，防冻，防病，能走路，能下
+请感兴趣的朋友报名确认！并在十一前组织一次活动或聚会！！！ 
+ 

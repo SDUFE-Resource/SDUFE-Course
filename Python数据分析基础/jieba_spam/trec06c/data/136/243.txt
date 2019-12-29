@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <guan@ccert.edu.cn>; Thu, 15 Sep 2005 18:31:43 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <guan@ccert.edu.cn>; Thu, 15 Sep 2005 18:43:38 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 10:25:55 -0000
+From: "wua" <wua@mail.tsinghua.edu.cn>
+To: guan@ccert.edu.cn
+Cc: <luo@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1qq1wMv9w/vX1rrNuavLvrXnu7CjrNT1w7TIz8q2tb3L/Q==?=
+Date: Thu, 15 Sep 2005 18:43:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+无意中在电梯口碰到她同事叫她，这下就知道她的名字了
+又因为是隔壁公司的，所以很容易得到她们公司的电话号码
+现在这两个都有了，该怎么认识到她呢？
+大家有什么好方法吗？
+我昨天是这么试的：
+等她下班后，往她公司打了电话，说，我找某某某，哦，她走了啊
+那能否告诉我她手机号，我是她同学
+就这样得到她手机号了，可想不到手机号却是过期的：）可能因为她同事没
+记下她新号什么的吧
+现在这个方法已经用了，还有其他什么好方法吗
+请教大家了：）

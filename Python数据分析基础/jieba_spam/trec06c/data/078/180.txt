@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <pu@ccert.edu.cn>; Sat, 3 Sep 2005 09:18:56 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <pu@ccert.edu.cn>; Sat, 3 Sep 2005 09:31:32 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 01:20:07 -0000
+From: "tian" <tian@mail.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Cc: <han@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Sw8e2vLulz+DP4LCuo6y1q8jUsru1w7K7t9a/qqOsztLDx7u5xNy8zND4w7Q=?=
+Date: Sat, 3 Sep 2005 09:31:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+如果真的爱你，她会理解你原谅你的，
+如果在一起了，以后好好的珍惜就是了
+     我和她是一个偶然的场合相遇的，第一次见面，她让我太惊讶了，造物主如此神奇，它塑造了一个与我心目中完美形象完全吻合的女生，她的气质，她的神情，她的独立，她的才华，她的一颦一笑，都完全让我震惊，人世间有太多的巧合，她与我还是同为厦门大学的校友，
+     都见证了南光那棵大榕树的离去（同时跨越榕树前与榕树后两个时代：））
+     虽然她总说自己并不很PP(读音皮皮，第一次见面，她就纠正我说，不能读漂漂）我觉得，她就是我的白雪公主。

@@ -1,0 +1,89 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <xia@ccert.edu.cn>; Fri, 23 Sep 2005 22:52:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <xia@ccert.edu.cn>; Fri, 23 Sep 2005 23:03:52 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 14:41:24 -0000
+From: "lai" <lai@mail.tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+Cc: <gu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbUzfXNrNGntcTF+sbAus29qNLp?=
+Date: Fri, 23 Sep 2005 23:03:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+     标  题: 对王同学的批评和建议
+     
+     首先我不知道你想要什么？清华怎么对不起你了？
+     我只是看出来你对清华，对导师，对同学的水平的鄙视。
+     依据是你能用linux工作，你能够搞些latex，你写的文章
+     得了个最佳论文。我作为一个cluster的管理员，写并行
+     计算的code,也用latex写所有的论文，我心底里也喜欢
+     open source,推崇latex和linux。可是这不代表用word和
+     windows就是罪过，就是比你水平差！
+罪过和评价大学氛围不同
+     
+     你老师代你去了希腊，看得出你不高兴。其实大可不必这么
+     小心眼。第一作者不还是你吗？这些地方有得是机会去的。
+     别人给你的code没有源代码，你也不高兴，这也很正常。
+     就是open souce 还有个GPL呢。你发现别人已经作美国大学
+     的副教授了，写个code还老是dump core。其实这是有很多因素
+     可能的。我写的code windows下面可以，linux下面还老是
+     段错误，最后发现是linux compiler的bug。更何况硬件变化的
+     可能性更多一些。
+     
+     社会上生活是要和别人相处的。发现你和别人相处的不好，而是
+     沉迷在网络中受人敬仰。其实若干年后回头看一看，这些同学
+     还是好同学，简单的人，他们也许会无意中伤害了你，你的自尊。
+     但是请你也想一想，你是否伤害过他们？也请你尊敬别人的劳动。
+     我的论文也是99%都是自己做的，做一年也许才发一片，我的老板
+     只需要花一下午改语法和结构就能够挂名。但是他用了他多年的
+     积淀和经验。
+~~~~~~~~~~~~~~~这里很搞笑，呵呵。要不要全国所有成果都写core的名字？
+也许你的水平真得很高，语法很好，作文很棒，你的
+     boss真得没有改什么，别人都只是附骥挂名而已。这种可能性有多少
+     请你自己思考。
+     
+     聪明只是成功一方面；勤恳也只是成功的一方面；选对方向才是
+     更重要的。xwindows看完几乎所有reference的确不容易，不过
+     我相信很多人也看了，写了latex扩展（？）好像不知得那么骄傲。
+     找出了两个bug拿了支票也不用再沾沾自喜。还是要踏实做事情。
+     如果你不喜欢你正在做的，那么你可以去找些自己喜欢做的
+     当作兴趣爱好。你提到过书法，你可以继续练习阿。再就是软件，
+     只要有个电脑，想做什么研究都可以。而且根本没必要是什么好东西，
+     学校里面奔腾到处都是，捡一个回家就可以研究操作系统了。
+     布局布线的算法我不懂，不过工程上面实现你的算法可能会有问题，
+     所以之前总是论文被拒。可能是你的算法并行实现困难？
+     
+     最后你这样子公开信，对你的导师很不好，也很不公正。我看不出你导师
+     什么地方做得不好。做人一定要厚道，多为别人着想。才没有成为
+     牛顿，爱因斯坦之前不要老想着别人围着你转。
+不觉得有什么人看了他这个会觉得导师有什么不好不对，没有针对个人。
+而且不笨的人应该能看出他老师还不错的。
+     
+     
+     
+      
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     --
+     

@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <wen@ccert.edu.cn>; Tue, 27 Sep 2005 19:40:53 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 11:27:09 -0000
+Date: Tue, 27 Sep 2005 19:52:53 +0800
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: wen@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+党员？
+     这几天讨论得热闹，经常来看看。姑且不论事情本身，看到上面某些关于Web和telnet的讨论，忍不住说几句。也许在这种场合，应当先表明一下自己的身份，免得被某些人指摘。上水木也有六七年了，土著出身，水木常来，公网的论坛也常上。简单说，对小圈子里的种种规矩是心领

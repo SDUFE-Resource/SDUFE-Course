@@ -1,0 +1,25 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M9u4Oh007208
+	for <ye@ccert.edu.cn>; Fri, 23 Sep 2005 19:26:27 +0800 (CST)
+Received: from USER-8A61F7734D (tu203210.ip.tsinghua.edu.cn [166.111.203.210])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8MA7Wo22604;
+	Fri, 23 Sep 2005 19:37:55 +0800 (CST)
+Message-Id: <200509221007.j8MA7Wo22604@netarchlab.tsinghua.edu.cn>
+Date: Fri, 23 Sep 2005 19:35:13 +0800
+From: "guan" <guan@netarchlab.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILbUzfXNrNGntcTF+sbAus29qNLp?=
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+做人最起码要诚实。敢问一句，即使在清华大学，windows,office都是正版的么？我听说清华是买了一些正版，但是都是过时的版本了，手里现在用的是什么？
+一个大学生连诚实都不懂，这不是罪过么？
+王垠只不过讲了一些真话，说出了自己和一些人的心声，还有，这片文章是别人转来的，为什么要说他把自己看的太高呢？
+他不为了所谓的成功，只是热爱自己热爱的东西，讨厌世俗。我们被生活所迫去追求所谓的理想，他也是追求他自己的理想，只不过他的理想太高太远罢了。我们何尝不愿意脱俗，可是我们没有这个勇气。我们应该佩服，至少是容忍这种奔真正理想而去的人。
+安于现状的人总喜欢说他偏激，人家只不过讲了几句真话，只不过说的是中国的黑暗面罢了。一天到晚歌功颂德的人，难道就不偏激了么？
+     草草看了他的文章，本来潜水得我也不由想说几句。
+     我想王同学的核心问题，是把自己看得太高了，也许你真得
+     有这么高明，并且通过这么多年的一些小项目，你也的确取

@@ -1,0 +1,26 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <you@ccert.edu.cn>; Fri, 9 Sep 2005 19:57:51 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <you@ccert.edu.cn>; Fri, 9 Sep 2005 05:09:58 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 05:09:58 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 05:09:58 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Fri, 9 Sep 2005 20:09:58 +0800
+From: =?GB2312?B?1/O+pw==?= <zhang@gmail.com>
+Reply-To: zhang@gmail.com
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG2wfGXhsauxq6hty0tx9i6o+i0uNWz9rXAtcTTsMas?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+很好的电影，有内涵。
+　　《榴

@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <zhong@ccert.edu.cn>; Tue, 23 Aug 2005 23:37:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <zhong@ccert.edu.cn>; Tue, 23 Aug 2005 23:51:02 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 15:45:35 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "yan" <yan@mail.tsinghua.edu.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuLvhvMbSu8P7?=
+Date: Tue, 23 Aug 2005 23:47:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+资历：专职从事财务工作2年以上；
+学历：财会相关专业大学本科，有会计从业资格证书；
+执行品行：稳重、有责任感、积极肯干、有原则；
+有较强的沟通协调能力；
+                  热爱财务工作；
+知识界面：系统的掌握财经方针、政策和财务会计法规、制度；
+                熟练应用各种办公软件；熟知工商税法；
+                能担负一个公司全面的财务会计核算管理工作；
+工作地：外派海南省海口市；
+工作机会：工作表现出色，可提升至海南区财务主管（兼管海口和三亚）
+工资：面议
+有意者发简历到liuly@hc360.com
+替友发文勿回站内

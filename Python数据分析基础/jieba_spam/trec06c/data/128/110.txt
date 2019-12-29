@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C2BpmJ006744
+	for <pan@ccert.edu.cn>; Wed, 14 Sep 2005 01:55:48 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28l5c009623
+	for <pan@ccert.edu.cn>; Wed, 14 Sep 2005 01:53:06 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28iWw009619
+	for <pan@ccert.edu.cn>; Wed, 14 Sep 2005 01:52:41 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EEefy-0005d0-00
+	for toefl@gradinfo.net.edu.cn; Wed, 14 Sep 2005 02:52:07 +0800
+Message-ID: <016301c5b740$c2f51a00$2fcb6fa6@wanglanjia>
+From: "hua" <hua@ns.6test.edu.cn>
+To: pan@ccert.edu.cn
+Date: Wed, 14 Sep 2005 02:05:29 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Subject: =?gb2312?B?ofEgz/LX89ffo6zP8tPS198=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1871831781=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+经历过，才会懂。星期六看了《向左走，向右走》。只能用感动两个字来形容。之前听很多人说这个片子不好看，其实是没有真正的体验过那种感觉。每个人都是在人潮汹涌的大都市中游荡，直到你能找到让自己灵魂得到宁静的港湾。那也许是一个亲密伴侣也许是让你得以安身立命的事情，总之人需要一个寄托来慰藉自己孤独的心灵。那种在寻觅过程中的孤独、寂寞、无奈一点点渗入你的身体，直到逼出眼泪来。但最让人感动的还是主角一直都有一颗坚强而执著且柔软的心，无论何时都不放弃自己的理想。向左走，向右走无论哪个方向，终究都会找到属于自己的灵魂伴侣。

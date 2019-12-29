@@ -1,0 +1,29 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <lin@ccert.edu.cn>; Mon, 15 Aug 2005 17:09:43 +0800 (CST)
+Received: (qmail 5448 invoked from network); Mon, 15 Aug 2005 09:20:30 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Mon, 15 Aug 2005 09:20:30 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "mo" <mo@jdl.ac.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsKajrLCzsNe77MHLwb3E6sHLo6zMq8qnsNzByw==?=
+Date: Mon, 15 Aug 2005 17:24:29 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+上班两年了，什么都不会了，太失败了
+刚开始的时候在工程师底下实习，主要是看看程序和电路设计，然后公司
+搞9000认证把我弄到一个协调的位置，作了快半年作完了又把我搞到一个
+所谓的管理岗位，开始负责生产许可证的相关测试安排和协调工作，前两个月终于
+做完了，可是我什么都没有学会除了一些为人办事以外技术全扔了，本来
+电子就不是我的本行，两年来没有弄自己的专业东东，连专业知识都忘了
+唉，薪水不高，还得不到发展的机会，小公司里管理一塌糊涂，根本没有学习
+提高的可能。未来很迷茫啊。我想到咨询中心做一个职业生涯规划不知道有没
+有用，请大家指点指点

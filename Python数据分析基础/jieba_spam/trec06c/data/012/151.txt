@@ -1,0 +1,35 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7FBL9jQ015986
+	for <yu@ccert.edu.cn>; Fri, 19 Aug 2005 15:39:45 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7FBr5I2010935;
+	Fri, 19 Aug 2005 16:11:41 +0800
+Message-Id: <200508151153.j7FBr5I2010935@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 15:52:41 +0800
+From: "wang" <wang@mail.nisac.gov.cn>
+Reply-To: wang@mail.nisac.gov.cn
+To: yu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMqv082089Gno6ixsb6po6m1xENTtcTH6b/2?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+肯定有合作
+但是计算机系拉不到项目
+原因有两个：
+1、高职称的少，只有一个教授、博导，一个副教授，其他的，基本上都是讲师
+2、高学历的少，只有一个石油方面的老博士
+每个学校的教师工资，主要由两大块组成，
+1、国家给的，这个，几乎所有的高校都差不多，讲师，大概2500
+2、奖金，这个，看你有没有项目，有的话，你可以自己给自己发奖金，如果自己单位的
+项目特别多，你又参与其中，也有奖金
+石油大学计算机系没有项目，当然也没有什么奖金
+就靠那干巴巴的2500了
+当然，如果你职位较高，例如是系主任，工资也会高，
+但没有什么位置了，系主任是个硕士，好像姓路（陆），今年30岁，讲师
+     哦，是这样啊。我只是类比了一下，因为我了解石油系统的其它某些高校，项目还是挺多的，与各石油管理局和油田公司的项目合作，而且几乎是项目垄断。
+     本以为石油大学(北京)应该在信息口(石油方面)可以竖立一面旗帜，如你说，看来还是很糟糕的。btw, 难道石油大学没有与 石油天然气总公司、勘探开发研究院那些单位合作吗？

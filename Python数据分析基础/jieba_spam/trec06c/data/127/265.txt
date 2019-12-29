@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <xia@ccert.edu.cn>; Tue, 13 Sep 2005 23:26:40 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <xia@ccert.edu.cn>; Tue, 13 Sep 2005 23:23:55 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <xia@ccert.edu.cn>; Tue, 13 Sep 2005 23:22:57 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Tue, 13 Sep 2005 23:34:29 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Tue, 13 Sep 2005 23:37:05 +0800
+From: "mei" <mei@runway.cn.net>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S0qrN6sPAxNDF89PRIKO6o6k=?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: mei@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+      应该是这个样子滴：
+      * 有点害羞，但曾在分别的街头，大声说我爱你。 
+     　　* 同我去庙里求签，轻轻捉住我的手一同跪下。 
+:）好美好，如果能这样生活一辈子将会是最最美好的事了，致使，我有现在的男朋友也很满足了，起码，他在过马路时会站在车来的那边，他会看着我上车直到不见我的身影，他会陪我一起手牵手买我最喜欢的西瓜，他会容忍我的小脾气，会在我哭泣时轻轻吻掉我的眼泪，很满足了...

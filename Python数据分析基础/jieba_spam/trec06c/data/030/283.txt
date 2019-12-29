@@ -1,0 +1,46 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <kong@ccert.edu.cn>; Tue, 23 Aug 2005 18:40:39 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <kong@ccert.edu.cn>; Tue, 23 Aug 2005 18:53:50 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "lv" <lv@126.com>
+To: kong@ccert.edu.cn
+Cc: <kong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW7T6yMvV0Ma4XbqjzeK35822uN+/xry8uavLvtXQxrg=?=
+Date: Tue, 23 Aug 2005 18:53:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+一家刚刚成立的海外风险投资高科技公司
+地点在中关村软件园
+由于业务扩展需要招聘如下人员：
+（以下所有招聘职位都是待遇面谈）
+软件研发人员：（两名）
+要求：
+        1. 精通C++编程
+        2. 能够熟练地在Linux或者windows平台下面开发系统软件
+        3. 深入了解多媒体、网络或者分布式编程
+        4. 有相关开发经验者优先
+        5. 兼职全职皆可
+行政助理：（一名，女性）
+要求：
+        1. 英语较好，最好国家六级
+        2. 了解财务税收方面的知识并且有相关经验
+        3. 了解高科技IT公司的相关情况，有相关从业经验者优先
+        4. 做事认真细致，有敬业精神和责任感
+        5. 品貌端庄
+网页设计人员：（两名）
+要求：
+        1. 熟悉web设计，包括CGI,PHP,Mysql等相关编程
+        2. 最好有美工方面的经验
+        3. 能够保证足够的工作时间，最好全职
+有意者请发邮件到：haoly001@vip.sina.com
+(请勿回站内信箱)

@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j888M6Jx010719
+	for <wei@ccert.edu.cn>; Fri, 9 Sep 2005 01:26:54 +0800 (CST)
+Received: from cernet27fd8164 ([211.68.120.195])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMH00NKBPDV0F@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 9 Sep 2005 01:44:18 +0800 (CST)
+Date: Fri, 9 Sep 2005 01:39:10 +0800
+From: noc-serv <hua@cernet.com>
+Subject: =?gb2312?B?UmU6ILLQvLLIy77Nsru4w9PQyvTT2tfUvLq1xLCux+nC8KO/stC8ssjLvs3Ex8O0yMO9ociryMvE
+0YE=?=
+To: wei@ccert.edu.cn
+Cc: lian@ccert.edu.cn
+Message-id: <047d01c5b450$1df5d280$c37844d3@cernet27fd8164>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+
+嗯，报纸上报导过，一个30多岁的珠儒娶了一个20多岁。
+还有照片。。。
+女的挺漂亮的，男的就到她腰这。不过人家属于创业成功了。
+这样的组合，也不为下一代着想。。
+     标  题: Re: 残疾人就不该有属于自己的爱情吗？残疾人就那么让健全人难

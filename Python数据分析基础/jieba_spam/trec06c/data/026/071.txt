@@ -1,0 +1,31 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <he@ccert.edu.cn>; Mon, 22 Aug 2005 13:18:10 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <he@ccert.edu.cn>; Mon, 22 Aug 2005 13:31:21 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "hong" <hong@126.com>
+To: he@ccert.edu.cn
+Cc: <he@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFu6z7yvXSDM/bTzvNK2vMu1u6rOqqOsztLSssu1wb2+5A==?=
+Date: Mon, 22 Aug 2005 13:31:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+  呵呵， 说得满好的。
+   受原来学校氛围的影响，我原本对华为的印象并不怎么样。进了
+目前公司，或多或少也耳闻了一些华为的情况，同时在本版也周期性
+或非周期性的会对华为进行讨论，了解的增多，逐步觉得华为作为一个
+公司还是有不少值得许多其他公司去学习、去借鉴的地方，华为能对
+其中的“员工”进行“洗脑”，必有其吸引人的地方。任正非还是满牛的。
+ 
+             今天看大家谈的很兴起，我也来谈两句。
+             因为和华为打的实在是太多了，所以对华为不敢说了解，但是也还是知道一些。
+             看了前面两个哥们说的，代表了两种观点，我总结一下：

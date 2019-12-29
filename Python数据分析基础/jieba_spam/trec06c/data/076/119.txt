@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <zhou@ccert.edu.cn>; Sat, 3 Sep 2005 02:50:02 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Sat, 3 Sep 2005 03:21:31 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Sat, 3 Sep 2005 03:02:36 +0800
+From: "liu" <liu@mail.nisac.gov.cn>
+Reply-To: liu@mail.nisac.gov.cn
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?ofEgttTRp9CjtcTXocveytW30dPQ0sm786O/?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+   前几天从8月26日的新京报，还有信报都看了一条新闻，说高校内新学生公寓不涨价，单元式每生每学年不超过1200元，非单元式不超过900元。具体请看一下超链接：
+1）http://cn.news.yahoo.com/030807/260/1qoyk.html
+2）http://cn.news.yahoo.com/050825/1340/2elyg.html
+  突然想到我校对于住紫荆公寓的博士们，紫荆15、16等楼的收费都是每年1500元。我肯定是不相信党领导下的清华大学会不按照国家和北京市的相关规定办事。随后我打了北京市发改委（http://www.bjpc.gov.cn/index.jsp）的价格咨询电话：66415588－0931/2，接电话的同志明确告诉我，如果情况属实肯定是违规，并要求大家拨打价格监督举报电话12358-3。
+   希望负责人能够出来澄清、解释一下，大家也可以在校长接待日进行反映 

@@ -1,0 +1,22 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <gong@ccert.edu.cn>; Tue, 27 Sep 2005 17:07:49 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Tue, 27 Sep 2005 17:11:07 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 09:11:05 UT
+To: gong@ccert.edu.cn
+From: yuan@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtLK7xNyz9syo1f6y36O6srvUytDttPPRp73MyqbU2s3ivObWsKO/ICjXqtTYKQ==?=
+
+兄弟，如果人家手头有项目，有经费话，也不会往外跑了。
+在教育市场化的大背景下，很多老师特别是年轻老师的生存压力很大。
+要管也应先管那些拿着清华牌子在外面招摇撞骗，坏败清华名声的家伙。
+     发信人: sunwk (学习英语不放松), 信区: EduForum
+     标  题: 为什么不能出台政策：不允许大学教师在外兼职？

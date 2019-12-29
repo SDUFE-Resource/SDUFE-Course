@@ -1,0 +1,28 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j876ZGXw000980
+	for <lei@ccert.edu.cn>; Fri, 9 Sep 2005 06:44:15 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 2924001B7062
+	for <lei@ccert.edu.cn>; Fri, 9 Sep 2005 06:56:23 +0800 (CST)
+Date: Fri, 9 Sep 2005 06:56:22 +0800
+From: "zheng" <zheng@sohu.com>
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC5+r/G0afUurXY1srT67XYx/LO78Dt0dC+v8v5uN/Owrjf0bnKtdHpytLV0Ma4vObWsMjt
+vP7Eo78=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907064725.2924001B7062@sohumx06.sohu.com>
+
+工作内容：网络数据库、数据建模前处理平台相关模块开发；
+工作报酬：每模块开发费用6000～10000元（共4个模块）；
+工作地点：面议；
+工作时间：9月中旬～10月中旬；
+工作描述：软件模块开发；
+工作要求：软件、数学相关专业大四或研究生以上学生；具有在linux平台下开发java应用程序、ASP网络数据库或插件开发经验（任意一项）；有能力独立完成相关软件模块能力；
+求职要求：提供个人简历、参与实际项目介绍；
+有效时间：15天内；
+联系方式：请将简历发送至邮箱rockphy@163.com；
+我们将会在收到简历以后择优通知面试。谢谢关注！

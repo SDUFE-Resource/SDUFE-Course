@@ -1,0 +1,48 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <luo@ccert.edu.cn>; Wed, 21 Sep 2005 03:04:40 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 19:15:41 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 19:15:41 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <luo@ccert.edu.cn>; Tue, 20 Sep 2005 12:26:38 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <luo@ccert.edu.cn>; Tue, 20 Sep 2005 14:24:04 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Wed, 21 Sep 2005 03:15:28 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <cheng@motorola.com>
+To: luo@ccert.edu.cn
+Cc: ding@ccert.edu.cn
+Subject: =?gb2312?B?ofEgu7bTrdOmxrixpr3guavLvsrQs6Gyv6Oosaa94MrQs6G+rcDtyMvC28yzu7bTrcT6tcTdsMHZ
+o6k=?=
+Date: Wed, 21 Sep 2005 03:15:02 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+欢迎应聘宝洁公司市场部（宝洁市场经理人论坛欢迎您的莅临）
+你想了解世界上最经典、最先进的品牌管理模式吗？
+你想知道如何让品牌管理走在时代的前沿，引导时尚的潮流吗？
+你想了解宝洁市场人的丰富多彩的工作和生活吗？
+答案就在这里。
+快来吧，欢迎参加宝洁市场经理人论坛！
+时间：2005年9月28日19：00－21：00
+地点：北京大学英杰交流中心阳光大厅
+主讲人：Irwin Lee （宝洁公司大中华区副总裁）
+      Lisa Li （宝洁公司玉兰油市场副总监）
+时间：2005年10月13日18：30－20：30 
+地点：中国人民大学逸夫会议中心
+主讲人：Austin Lally （宝洁公司大中华区副总裁）
+欢迎对品牌管理有浓厚兴趣的本科三四年级和研究生高年级同学参加！请提前半小时入场。
+宝洁公司市场部热切盼望您的加入
+应聘请登陆www.pg.com.cn报名
+（网上报名时间：2005年9月19日起）

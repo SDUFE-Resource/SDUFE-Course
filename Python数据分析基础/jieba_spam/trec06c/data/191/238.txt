@@ -1,0 +1,22 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <pu@ccert.edu.cn>; Tue, 27 Sep 2005 10:10:03 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Tue, 27 Sep 2005 02:32:57 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Tue, 27 Sep 2005 02:32:57 -0000
+Date: Tue, 27 Sep 2005 10:27:32 +0800
+From: "jiang" <jiang@csnet1.cs.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+应该说作者是一个智商不低的人，但王同学比，还差一大截．
+清华该不该骂？中国这个科研制度该不该骂？个人觉得王同学还是说得很客观．
+说白了，反对王同学者，大多是不能理解王同学的心境，是可以理解的．
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。

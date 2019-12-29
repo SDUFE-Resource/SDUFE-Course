@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <zhang@ccert.edu.cn>; Sat, 3 Sep 2005 08:08:43 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Sat, 3 Sep 2005 08:40:12 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Sat, 3 Sep 2005 08:21:17 +0800
+From: "ke" <ke@mail.nisac.gov.cn>
+Reply-To: ke@mail.nisac.gov.cn
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO80sbAwO2jrMrHztK07cHLwvCjvw==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+我来挖坑：
+我是学计算机的，老公电脑坏了，所以一直拿我的电脑上网，上个月我渐渐发现，我电脑上gmail多出好几个帐户。我就问老公是不是他的，他一口否认，还说我冤枉好人。
+我就奇怪啊，你不登陆的话IE是不会记忆的。后来我尝试破解，结果其中两个邮箱的密码都被我破解了，但还有两个没有搞定。打开那两个一看，发现里面全都是他的信。btw：我非常地不爽，不过我觉得这属于个人隐私，而且我理亏在先。所以这一口气就压了一个月。
+今天不知道什么事给引起来了。我开玩笑的跟他说我犯了个错误。他就开始盘问，结果我就把此事全盘托出了。他开始是不承认发脾气，后来我们打开电脑当面进了他的邮箱，他就狡辩说这些都不是他的邮箱，是他帮别人注册的，（当时的表情那叫一个坦然）我气晕了，我说可以不因为你原来的欺骗生气，也可以容忍你泡妞，但是你现在当面撒谎，实在是让我失望至极。于是我就发飚一个人回家了。
+晚上11点多钟他回来了，一进门就非常酷的摔门，拿眼睛瞪我，一个人跑到里面去洗澡，上床睡觉。我在客厅给气得要死，后来想了半天，消了气。跑到里面去哄他，他很坚决地不理我。气死我了。我做错了什么吗？？？

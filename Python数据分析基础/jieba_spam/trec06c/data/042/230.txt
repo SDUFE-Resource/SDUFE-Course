@@ -1,0 +1,56 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <xu@ccert.edu.cn>; Fri, 26 Aug 2005 08:15:45 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 08:34:08 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 08:34:08 +0800
+Date: Fri, 26 Aug 2005 08:34:08 +0800
+From: fan@cernet.com
+Subject: =?gb2312?B?UmU6IM7K0ru49mPT79HUzsS8/rXEzsrM4qOs1NrP37XI?=
+To: xu@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+     减去一个值，好像是28？记不清楚了，很久前的事了
+     你可以做个试验:
+     print(int(\'0\'));
+但如果是多位的怎么办，我要处理的内容是这种
+ATOM   1671  C   ARG A 210      14.881-165.412  89.772  1.00 12.57           C  
+ATOM   1672  O   ARG A 210      14.209-165.127  88.802  1.00 17.19           O  
+ATOM   1673  CB  ARG A 210      15.885-167.493  88.923  1.00 19.22           C  
+ATOM   1674  CG  ARG A 210      17.086-168.413  88.747  1.00 29.13           C  
+ATOM   1675  CD  ARG A 210      18.037-167.913  87.674  1.00 35.87           C  
+ATOM   1676  NE  ARG A 210      17.400-167.809  86.357  1.00 46.46           N  
+ATOM   1677  CZ  ARG A 210      17.349-168.789  85.445  1.00 49.03           C  
+ATOM   1678  NH1 ARG A 210      17.771-170.016  85.744  1.00 51.63           N  
+ATOM   1679  NH2 ARG A 210      16.827-168.553  84.238  1.00 46.03           N  
+ATOM   1680  N   PHE A 211      14.503-165.149  91.020  1.00  8.29           N  
+ATOM   1681  CA  PHE A 211      13.183-164.609  91.337  1.00  5.55           C  
+ATOM   1682  C   PHE A 211      13.227-163.245  91.987  1.00  5.50           C  
+ATOM   1683  O   PHE A 211      14.056-162.980  92.852  1.00  6.41           O  
+ATOM   1684  CB  PHE A 211      12.403-165.571  92.233  1.00  2.00           C  
+ATOM   1685  CG  PHE A 211      12.019-166.839  91.558  1.00  2.00           C  
+ATOM   1686  CD1 PHE A 211      12.910-167.909  91.505  1.00  5.44           C  
+ATOM   1687  CD2 PHE A 211      10.759-166.990  91.011  1.00  2.00           C  
+ATOM   1688  CE1 PHE A 211      12.542-169.126  90.923  1.00  4.91           C  
+ATOM   1689  CE2 PHE A 211      10.374-168.187  90.416  1.00  2.00           C  
+ATOM   1690  CZ  PHE A 211      11.263-169.260  90.371  1.00  4.89           C  
+ATOM   1691  N   GLY A 212      12.309-162.386  91.562  1.00  3.10           N  
+ATOM   1692  CA  GLY A 212      12.246-161.043  92.078  1.00  3.28           C  
+ATOM   1693  C   GLY A 212      10.813-160.562  92.034  1.00  6.19           C  
+ATOM   1694  O   GLY A 212       9.893-161.368  91.849  1.00  7.95           O  
+ATOM   1695  N   LEU A 213      10.635-159.243  92.059  1.00  5.73           N  
+ATOM   1696  CA  LEU A 213       9.313-158.635  92.186  1.00  7.48           C  
+ATOM   1697  C   LEU A 213       8.907-157.792  90.989  1.00  4.29           C  
+ATOM   1698  O   LEU A 213       9.735-157.110  90.386  1.00  2.45           O  
+ATOM   1699  CB  LEU A 213       9.266-157.762  93.454  1.00  8.25           C  
+好像也很麻烦

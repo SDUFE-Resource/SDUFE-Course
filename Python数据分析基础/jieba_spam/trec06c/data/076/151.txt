@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <li@ccert.edu.cn>; Sat, 3 Sep 2005 03:02:53 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <li@ccert.edu.cn>; Sat, 3 Sep 2005 03:14:39 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 19:02:10 -0000
+From: "hua" <hua@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Cc: <lei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzS8s6qxLPIy7XEy6zUvNDQzqq63LK7uN/Qyw==?=
+Date: Sat, 3 Sep 2005 03:14:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+应该7点半就相互打电话叫起床，然后一起吃早饭出去玩
+多体谅体谅对方嘛
+     标  题: 今天因为某人的爽约行为很不高兴
+     
+     昨天说好了今天出去玩
+     约好早晨8；30见面
+     
+     起床后我早早跑到实验室等人
+     结果等到9点还不见人
+     只好打电话了
+     某人还在睡觉
+     
+     计划就泡汤了
+     
+     更可恶的事
+     对自己的爽约行为竟然一点歉意都没有
+     
+     气死了
+     
+     --
+     

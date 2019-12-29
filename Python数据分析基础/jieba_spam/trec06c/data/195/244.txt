@@ -1,0 +1,21 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <xie@ccert.edu.cn>; Wed, 28 Sep 2005 03:48:44 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 19:59:54 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 03:59:54 CST
+Date: Wed, 28 Sep 2005 03:59:54 +0800 (CST)
+From: liang ming <qian@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILrczbS/4LXE0ru8/srC?=
+To: xie@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+就是啊，这个时候你一定要懂得体谅他。你和他的妈妈对他来说无疑都是最重要的人，为了其中任何一方而伤害另一方都是不好的。他一定很想在你们之间找到一个平衡点，让他的妈妈能够接受你。这个时候不能逼他，对他来说，失去或者伤害谁心里都会十分伤心的。
+     我也是这么想的，我们彼此很融洽，可是他的妈妈可能对我们不是很理解，我现在要做的可能就象是前面师兄说的那样用真诚和爱心来感动他的妈妈，可是我不知道我该怎么去做。需要改变他妈妈的态度还需要一段时间，我会努力，他也很为难，他现在也很痛苦。一个是妈妈一个是女

@@ -1,0 +1,22 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <chi@ccert.edu.cn>; Wed, 28 Sep 2005 20:02:49 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 12:13:56 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 20:13:56 CST
+Date: Wed, 28 Sep 2005 20:13:56 +0800 (CST)
+From: liang ming <xia@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INXm0MTH673Mo7rI57rOzdrBvNDUx729xw==?=
+To: chi@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+这个……好危险地说，弄不好会搞得所有人不痛快……
+     简要介绍一下背景：我的一女性朋友M的女性朋友N有个男友C，C很懒没有上进心，没有工作甚至都不愿意找工作，天天在家玩游戏，也不干活，女的不做饭自己就不吃，女的干活累的要命也不管，衣来伸手饭来张口还不带疼着女的，M找N说过很多次让她甩了这男的，可是没什么效果，
+     因此M要我假装追求N,至少是把一个男人好的方面要表现齐全让N对比一下她那没人性的男友，把他们搅黄了，好让这女生跳出苦海。
+     难点：本人虽有女友，但是全靠上天照应，不是把妹功夫了得。因此对于如何主动进攻不太清楚，而且这次的任务更高一级：挖墙角-_-!! 

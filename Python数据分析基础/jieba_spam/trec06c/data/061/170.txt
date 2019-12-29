@@ -1,0 +1,32 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <wang@ccert.edu.cn>; Wed, 31 Aug 2005 12:24:58 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 12:27:50 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 12:27:50 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 12:27:50 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 04:21:13 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 12:13:23 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 12:13:23 +0800
+From: bai@mails.tsinghua.edu.cn
+To: wang@ccert.edu.cn
+Cc: ning@ccert.edu.cn
+Date: Wed, 31 Aug 2005 12:13:23 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7StcTQ0M6qutzIw8jLyfrG+MLwo7/O0srHxa7J+g==?=
+Content-Type: text/plain
+
+你做这件事情是为什么
+呵呵，就是开个玩笑吗
+一般的男生这种玩笑开过就算了，毕竟只是去开了下门
+你自己觉得他和你的关系到了哪种地步？
+     不知道上这个版来问这个问题合不合适。
+     我有一个很好的异性朋友，今天很晚（12点，他好像在家忙点工作的事情）我开玩笑给他打电话骗他说就在他家门外，让他开门，他开始不信，后来终于被我骗到，扔下电话，跑去开门，可事实上我在家呢，根本就没去他家。
+     然后他好像很生气，就不理我了：（

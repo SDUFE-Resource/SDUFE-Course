@@ -1,0 +1,39 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <yu@ccert.edu.cn>; Sat, 17 Sep 2005 12:25:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <yu@ccert.edu.cn>; Sat, 17 Sep 2005 12:37:00 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 04:18:30 -0000
+From: "su" <su@mail.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Cc: <wua@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg09DQp7m1zai8vMfJoaqhqqGwzayw6b3M0/2hscrXs6G77ravv6rKvLGow/vBy6Oh?=
+Date: Sat, 17 Sep 2005 12:36:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+                清华大学2005年秋季学期“同伴教育”首场活动
+  参加了众多的报告会，你是否觉得收获颇多却憾于无法实战演练？听主讲人慷慨激昂，你是否也想抒发自己的感受与心得？“同伴教育”给你提供一个亲自演练的舞台！！Acing your job，为你的求职旅程再添一把力；Go together，你我同行一起交流共同分享经验与感悟！
+          敬请关注清华大学2005年秋季学期“同伴教育”首场活动――
+                     有效沟通――通往成功的阶梯
+   你能否成功得给人留下深刻的印象
+     你能否切实体会听者的情绪和感受
+       你是否想知道如何成功的说服他人
+         你是否想知道如何在团队中脱颖而出
+           你是否想了解如何影响他人获得“双赢”
+             你是否想和同伴分享求职路上的心得点滴
+         同伴教育第一期活动“有效沟通技巧”，将和你一起感受沟通的魅力
+时间（两场活动相同内容，2选1）：
+  2005.9.23（周五） 14：30
+  2005.9.27（周二） 19：00
+届时将有来自卡耐基or IBM or 其他名企的资深人士给我们的表现作精彩点评 
+“同伴教育”是清华大学继春季学期 “职业辅导月”系列活动之后，又一精品系列活动，精彩不容错过！请到水木career、THAScda、THUinfo、graduate版下载报名表格。
+             Acing your job
+                        Let’s go together!

@@ -1,0 +1,33 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <zhou@ccert.edu.cn>; Tue, 27 Sep 2005 21:46:20 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Tue, 27 Sep 2005 13:57:14 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Tue, 27 Sep 2005 13:57:14 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <zhou@ccert.edu.cn>; Tue, 27 Sep 2005 07:08:21 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <zhou@ccert.edu.cn>; Tue, 27 Sep 2005 09:04:47 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 21:57:02 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <lv@motorola.com>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Su7nSqrK70qrV4tH5tcTAz7mro78=?=
+Date: Tue, 27 Sep 2005 21:56:37 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+如果你老婆是在怀孕， 或者辞职准备考试都是有请客源的
+     家务最烦的是要擦地阿，我家100平米的房子要先扫，然后用擦地布擦，要用手蹲着擦。
+     我结婚前没怎么做过家务，结婚后，老婆有点洁癖，以前要求每天擦一遍地的，后来才改为每星期擦一次。
+     本来我觉得我对老婆够好的了，全部工资上交（月收入近8000），老婆到现在已经6个月没有上班了，下班就回家，晚上是老婆做饭，吃完饭后是我洗碗。每周还要打扫卫生一遍。

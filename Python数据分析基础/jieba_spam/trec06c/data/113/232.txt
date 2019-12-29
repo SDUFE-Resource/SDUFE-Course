@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4tSbr027739
+	for <tao@ccert.edu.cn>; Sun, 11 Sep 2005 01:44:29 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4qb7D090785
+	for <tao@ccert.edu.cn>; Sun, 11 Sep 2005 01:42:03 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4qXBY090781
+	for <tao@ccert.edu.cn>; Sun, 11 Sep 2005 01:41:34 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EDyGt-000FfA-00
+	for toefl@gradinfo.net.edu.cn; Sun, 11 Sep 2005 02:40:28 +0800
+Message-ID: <007a01c5b5c5$4bb2c900$2fcb6fa6@wanglanjia>
+From: "yun" <yun@ns.6test.edu.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INH40+OzydPjuMmjrNH4st2zybjJst21xMTQyfq7udPQ18q48dO109CwrsO0?=
+Date: Sun, 11 Sep 2005 01:54:10 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1216707451=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+难道要变老婆饼？
+     去年暑假，我养了一缸金鱼，结果开学的时候，我的舍友发现那一缸水已经蒸发没了，金鱼已经变成了鱼干。
+     今年暑假，我养了一盘小草，是一种会开出美丽的五角形的小红花的草，结果开学的时候，我的舍友发现那一盘小草已经变成了干草。
+     我舍友开玩笑说我养鱼成鱼干，养草成干草，以后我养老婆……他们立马就打住了，说这玩笑开不得。我想他们是尊重我了。

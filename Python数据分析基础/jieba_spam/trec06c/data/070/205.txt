@@ -1,0 +1,45 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <zhuang@ccert.edu.cn>; Fri, 2 Sep 2005 09:01:27 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 09:04:19 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 09:04:19 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 09:04:19 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 00:57:42 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 08:49:52 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 08:49:52 +0800
+From: zhang@mails.tsinghua.edu.cn
+To: zhuang@ccert.edu.cn
+Cc: kong@ccert.edu.cn
+Date: Fri, 2 Sep 2005 08:49:52 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IENlZGR5v7S159Ow1q7G36O6sa2+xsjLyfo=?=
+Content-Type: text/plain
+
+在他看来，所有的宝贵的、以及值得珍藏的东西统统失去了意义，他本来希望在一个特殊的日子打开那瓶酒。快餐店的一幕是整个电影的一个相对的高潮部分，看到这里，我的心跟着湿漉漉。他什么都没有，他把自己最珍贵的东西随便浪费掉，那是因为他感到没有希望。
+    这里湿漉漉了我的眼眶，不过感觉他不是把自己最珍贵的东西随便浪费掉，而恰恰是明白了什么才是真正珍贵的。正如旅途中相遇的女子所说，你打开它的那天，就是不寻常的一天。
+生活对他残忍了一次 又一次
+可是他真的如此的不堪么
+他谈起葡萄酒时候的神采飞扬
+他帮助好友取回钱包的机警敏捷
+旅途中的女子向他讨看书稿
+他搬出了一大盒 又一大盒
+不是随便一个人就能写这么长的东西
+认真而专注的耗尽心血
+却无人能欣赏
+如同他用心良苦却离他而去的爱情
+当前妻携比他俊朗比他成功的丈夫参加朋友婚礼 告诉他已经有了孩子时
+他心里一向坚持守候憧憬的东西彻底坍塌
+痛苦之后他体味到了那位女子说的话
+明白该珍惜的是眼前的拥有 比如一瓶好酒
+在快餐店喝酒的场景是一个强烈的反差 和他之前所期盼的
+但又有什么关系呢 我们看到了他惬意的笑容
+一部好片子 很细致 基调看似散漫低落 却暗藏张力
+      

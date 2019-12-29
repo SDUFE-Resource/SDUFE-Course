@@ -1,0 +1,29 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <kang@ccert.edu.cn>; Mon, 22 Aug 2005 21:12:20 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <kang@ccert.edu.cn>; Mon, 22 Aug 2005 21:25:31 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "cai" <cai@126.com>
+To: kang@ccert.edu.cn
+Cc: <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09qxprGmtcSx47Hj?=
+Date: Mon, 22 Aug 2005 21:25:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+书上说，大便次数的多少是小孩的个性，有的多有的少，只要孩子开心
+吃奶就没有问题。
+不过我觉得一天七八次实在是有点多，对于2个多月的孩子来说。大米
+现在一天3次，都不算少啦。天气凉了，老是拉要洗屁股，孩子也怪不
+舒服的。泡沫，如果没有别的症状，是因为糖发酵，没有关系。
+     悠悠已经两个多月了，现在是母乳喂养为主，
+     一天要便至少七八次，而且便比较稀，有时还有沫子，
+     基本上一直如此，请问是否有问题，应该如何调整。

@@ -1,0 +1,34 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <yana@ccert.edu.cn>; Wed, 7 Sep 2005 08:23:01 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Wed, 7 Sep 2005 00:35:16 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Wed, 7 Sep 2005 00:35:16 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Wed, 7 Sep 2005 00:35:16 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "you" <you@iim.ac.cn>
+To: yana@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxa7Iy8rHsrvKx8zsyfq1xM+yu7bO3sDtyKHE1g==?=
+Date: Wed, 7 Sep 2005 08:35:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+mm经常无缘无故莫名其妙的就生气不理我了
+每周都会有至少一次
+无论我怎么发短信就是不回，打电话倒是接，就是什么都不吭
+事后问她为什么，说不知道
+以前每次她这样，我都很紧张，到处乱找原因，又哄又赔不是，
+结果发现无论做什么全没用，人家该怎样还怎样。而且根本就不是因为我做错了事
+而是，就是不想搭理我（原话）。
+真是莫名其妙
+于是，最近她再这样，我也没啥感觉了，不理就不理，我做自己的事情
+请问JJMM，女人这样到底是什么心理，是天生就喜欢这样吗？
+我实在是不明白
+ps，我和mm是两地

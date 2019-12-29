@@ -1,0 +1,24 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <ou@ccert.edu.cn>; Tue, 13 Sep 2005 03:37:05 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Tue, 13 Sep 2005 03:49:04 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <ou@ccert.edu.cn>; Tue, 13 Sep 2005 03:49:03 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <xin@dlut.edu.cn>
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILi4xLi7ucrHsK7H6Q==?=
+Date: Tue, 13 Sep 2005 03:49:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+嗯，有道理是这样的
+他们对我们还没有信心
+     父母的话只是参考，可以思考一下他们的话有没有道理，我想，如果双方都合情合理，并且想法成熟，肯定会意见一致的。父母反对表示他们认为你还没有成熟到可以做出合理的决定。比如，你如果能够给出3年内的职业/学业规划，和3年内的收入/支出规划，就可以有力的说服他们。如果只是执意要结婚，到时候你辞职考什么学位又要花家里钱，生了孩子还要花家里钱，自己也不能带孩子，怎么办？

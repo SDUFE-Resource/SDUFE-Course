@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j826MNsm028905
+	for <kong@ccert.edu.cn>; Sun, 4 Sep 2005 17:55:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j826YvNG017832
+	for <kong@ccert.edu.cn>; Sun, 4 Sep 2005 18:07:52 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 4 Sep 2005 09:56:03 -0000
+Message-ID: <00b101c5af87$e9547800$787d6fa6@hotline>
+From: "liu" <liu@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNKw787Sv7S/tCy/tL+0ztK4w9T1w7Sw7C4=?=
+Date: Sun, 4 Sep 2005 18:04:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00AE_01C5AFCA.F7623430"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+哎，这年纪就要带着孩子单身过，不容易啊。
+     大家好,今年6月我曾在此发表过关于以下事件的文章,但问题一直没解决掉.再次请大家帮忙看看我该怎么办.谢谢了.
+       我和老公于去年初结婚,去年10月我们可爱的女儿出生了,我们应该过的非常幸福.我老公原来有个姐姐,于2003年病逝,给他父母的打击非常大,我们也是为了安慰他的父母而结婚,那么快要孩子也是为了安慰他的父母.因为他母亲一直说,想抱孙子或孙女,这样她心里会觉得舒服一点.我

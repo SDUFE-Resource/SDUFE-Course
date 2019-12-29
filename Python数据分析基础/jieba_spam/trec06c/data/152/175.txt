@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <yi@ccert.edu.cn>; Sun, 18 Sep 2005 19:47:33 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <yi@ccert.edu.cn>; Sun, 18 Sep 2005 20:04:08 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <yi@ccert.edu.cn>
+	; Sun, 18 Sep 2005 20:04:08 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <yi@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 19:29:09 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "lv" <lv@njnu.edu.cn>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IGdm1fvM7M/r18W3orbM0MWho9T1w7Sw7KO/?=
+Date: Sun, 18 Sep 2005 19:59:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+我男朋友也一样，他现在在国外，有6个小时的时差，他下班回来，已经是夜里12点多了，可是我还要一直在线上等着他，如果他上线看我不在，就会给我打电话。
+部门刚换了领导，有项目要验收，工作很忙。他才走了一个月，我的脸上已经长出了好多小豆豆，黑眼圈也越来越明显。
+     她出差了，10多天才能回来。
+     我白天要上班，每天晚上给她打一个多小时电话，打完后还要发短信，还要求我回短信陪她，平均5分钟发一次，一直到12点睡觉为止。
+     赶上周末就得全天陪着她短信电话

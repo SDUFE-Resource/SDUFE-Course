@@ -1,0 +1,48 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U301rY010973
+	for <gong@ccert.edu.cn>; Sun, 2 Oct 2005 15:24:15 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s67T079931
+	for <gong@ccert.edu.cn>; Sun, 2 Oct 2005 15:18:59 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.200])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s2q2079927
+	for <gong@ccert.edu.cn>; Sun, 2 Oct 2005 15:18:16 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id t9so856482wxc
+	for <gong@ccert.edu.cn>; Sun, 2 Oct 2005 00:34:30 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=W8KmBVYgtJQpTKJHhyqBPQpNMrndwd0y2MpDtldR3I4RhE6Kc4T1HsM706J0vp9CsI6L8ZXwRUVAEpb0VeWHwwgHOmzIJg3N5ezU1rxXNE5OB77ZnjAGIUptwrX52M2CpQAbjQGH9u8CAY2rjKNU/w6Ll7Ao3skKpgKarKaNhNI=
+Received: by 10.70.28.8 with SMTP id b8mr798445wxb;
+	Sun, 2 Oct 2005 00:34:30 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Sun, 2 Oct 2005 00:34:30 -0700 (PDT)
+Message-ID: <a00ed9800509292010qaccea32sfc4e2251cb90c982@mail.gmail.com>
+Date: Sun, 2 Oct 2005 00:34:30 -0700
+From: Shaozhi Ye <che@gmail.com>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SysfV5rXEyOe0y9DS1MvC8KO/o7+jv6Oho6E=?=
+In-Reply-To: <200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+	<200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j8U2s2q2079927
+Precedence: list
+Reply-To: Shaozhi Ye <che@gmail.com>
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+娶了你，日后他怎么出轨你也只能忍着了
+聪明的男人啊！
+       有点不感相信。。。和GG已经两年了，本来我就不漂亮，他能看上我我已经觉得很奇怪了！毕竟他也算个身材，相貌，学历都不错的年轻小伙子。接下来的事情，我就越来越不能相信了，两年内，我迅速长胖了20斤，我老管不住自己的嘴巴，又不爱锻炼，不长胖真的很奇怪啊。可是GG居然没有表示过任何嫌弃？？太神奇了，难道他不符合男人审美观点。他已经具有很多MM梦想的特质：温柔，善良，专一（真的很专一啊，我都很感叹），宽容（不是一般的宽容），175，身材匀称，长相不赖，有责任心（还未结婚买的房子就已经送给我了），聪明，上进（这个是: 在我的培养下更进一层楼了）。。。。。中和这一切，我觉得他居然傻傻的告诉我，喜欢看我笑，很高兴，觉得我象小孩说大人话，很可爱。。。。没有搞错吧，认识他时间越长，我越不能相信这个事实了，然后冲过去问他，为什么喜欢我，居然说喜欢一个人不需要理由这种话来搪塞我。。。。
+        想不通了，一个身材矮小，肥胖，读书很烂，不做家务，挑剔，霸道，自我。。。。的女生怎么可能会碰到一个这样的男生，这个世界太奇妙了吧。。。。不能相信的说。。。难道我在做梦？？

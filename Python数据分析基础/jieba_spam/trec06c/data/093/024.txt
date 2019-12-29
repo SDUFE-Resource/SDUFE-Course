@@ -1,0 +1,47 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <zhan@ccert.edu.cn>; Tue, 6 Sep 2005 15:01:15 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <zhan@ccert.edu.cn>; Tue, 6 Sep 2005 14:59:31 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <zhan@ccert.edu.cn>; Tue, 6 Sep 2005 14:59:11 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Tue, 6 Sep 2005 06:48:23 -0000
+Date: Tue, 6 Sep 2005 15:09:15 +0800
+From: "huang" <huang@mails.tsinghua.edu.cn>
+To: zhan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzrC089PR0urE3NPA1LbE6sfhwvCjvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <lai@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+看When harry met sally的时候就记下：
+男人和女人之间没有纯粹的友谊
+觉得还蛮有道理...
+不过，请大家设想一下，除了老婆意外，有一位伟大友谊，
+清瘦秀丽又懂事那种...接触起来很感觉舒服，又不容易产生邪念那种（才80多斤）呢，
+送行抱抱的时候都只有伤感，没有歹意那种....
+这种关系是否可以不变庸俗，长久一些呢。
+因为这种伟大友谊还蛮难得的，所以想好好维护这种关系啊...
+不知道各位的经历和朋友的经历是否能验证下可行性？

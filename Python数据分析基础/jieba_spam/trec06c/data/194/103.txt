@@ -1,0 +1,27 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdWEc032356
+	for <gu@ccert.edu.cn>; Tue, 27 Sep 2005 21:31:45 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 21:47:27 +0800
+Message-ID: <327652915.11497@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Tue, 27 Sep 2005 21:47:27 +0800
+Message-ID: <000201c5c1cf$bb5d1d80$0301a8c0@CCERTDAWEI>
+Reply-To: "li" <li@ccert.edu.cn>
+From: "li" <li@tsinghua.org.cn>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S0rK9srj2xfPT0bXEucrKwrDJ?=
+Date: Tue, 27 Sep 2005 18:47:28 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+现在流行长篇？
+     以前一个男孩曾经拒绝的一个女孩，最近她的亲戚又来找这个男孩的父母，问他愿不愿回头。
+     但但这个男孩不能欺骗自己的感觉，她并不是自己喜欢的那种类型。
+     那个女孩家里挺有背景的，当初他们要真好了，这个男孩在仕途上会一帆风顺，但他最后还是选择了放弃，但也因此得罪了人，并不得不离开当初工作的地方，半年多来，他孤身一人一直在奋斗，并且通过自己的努力，如愿进入了一个大机关当公务员，虽然所处的岗位并不特别满意，

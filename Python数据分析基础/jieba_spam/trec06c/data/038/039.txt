@@ -1,0 +1,24 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <zhu@ccert.edu.cn>; Thu, 25 Aug 2005 12:10:07 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 12:23:14 +0800 (CST)
+Date: Thu, 25 Aug 2005 12:17:00 +0800
+From: "xu" <xu@sohu.com>
+To: zhu@ccert.edu.cn
+Cc: "yxl" <ye@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgo9vV0Ma4o928vMr11qez1i+8vMr1t63S6w==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+Job Openings
+  Community Engine(CE) 公司是开发在线娱乐软件及其平台的软件公司。
+我们拥有简单的公司架构,注重员工的能力，在这里所有人机会均等。
+我们拥有一支年轻，掌握尖端技术且有创造力的开发队伍，
+欢迎同样能够创造新的娱乐价值的人才加入到我们中来！
+[研发

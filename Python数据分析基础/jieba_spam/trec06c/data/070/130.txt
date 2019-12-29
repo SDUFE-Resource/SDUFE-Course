@@ -1,0 +1,40 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <liu@ccert.edu.cn>; Fri, 2 Sep 2005 08:09:53 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 08:12:45 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 08:12:45 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 08:12:45 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 00:06:08 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 07:58:18 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 07:58:18 +0800
+From: yi@mails.tsinghua.edu.cn
+To: liu@ccert.edu.cn
+Cc: zhang@ccert.edu.cn
+Date: Fri, 2 Sep 2005 07:58:18 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgQU5TWVMtQ0hJTkGxsb6psOzKwrSm1dDGuLy8yvW5pLPMyqY=?=
+Content-Type: text/plain
+
+ANSYS-CHINA北京办事处招聘技术工程师
+ 
+职位要求:  
+1. 力学、航空航天、兵器科学或其他理工科相关专业，硕士以上学历，博士优先；
+2. 精通数值计算方法和有限元技术，力学基础扎实；
+3. 有大型有限元分析程序的使用或者工程分析经验或者编程经验；
+4. 独立科研能力强，思路清晰，严谨科学地分析问题和解决问题能力；
+5. 有较好的人际沟通、协作和表达能力。
+ 
+优先条件等其他说明:
+1. 具有航空航天或兵器行业的工程经验或者相关知识，独立承担过航空航天或者兵器行业工程项目的有限元分析和相关工作；
+2. 具有深厚固体力学或者数值计算专业背景，有丰富的有限元编程经验；
+3. 了解或者熟悉企业信息化知识。 
+ 
+简历投送到：techsupp.bj@ansys.com.cn

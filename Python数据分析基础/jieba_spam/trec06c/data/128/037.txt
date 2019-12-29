@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <yi@ccert.edu.cn>; Wed, 14 Sep 2005 00:44:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <yi@ccert.edu.cn>; Wed, 14 Sep 2005 00:56:39 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 16:39:12 -0000
+From: "ma" <ma@mail.tsinghua.edu.cn>
+To: yi@ccert.edu.cn
+Cc: <shen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgSkFWQb+qt6K5pLPMyqajqLzm1rCjqQ==?=
+Date: Wed, 14 Sep 2005 00:56:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+                           JAVA开发工程师（兼职）
+    长城战略创建于1993年（公司网址：www.gei.com.cn），是国内一流的管理咨询公司，在企业咨询，公共咨询和知识管理咨询领域成果斐然。
+    公司在快速推进咨询业务快速发展的同时，积极开拓管理软件业务，开拓咨询与管理软件实施相结合的新咨询模式。
+现招聘JAVA开发工程师（兼职）2人
+工作描述：
+    管理软件的模块实现，代码编写。
+基本要求：
+    计算机相关专业硕士研究生，有较多的业余时间，每周3天以上。
+英语水平：大学英语6级
+技能要求：
+    精通JAVA编程，有编写Web应用的经验。
+    熟悉ORACLE等常用数据库。
+    熟悉Hibernate，struts等开源项目者优先。
+    具备良好的学习能力，思维敏捷，逻辑分析能力强。
+    富有创新精神和求实态度，有良好的团队协作精神及沟通技巧。
+联系人：夏雪，tel:82000975-291
+简历投送至: ehr@gei.com.cn 

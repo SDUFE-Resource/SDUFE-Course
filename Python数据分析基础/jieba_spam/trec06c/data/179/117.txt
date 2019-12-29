@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <hong@ccert.edu.cn>; Sat, 24 Sep 2005 17:30:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <hong@ccert.edu.cn>; Sat, 24 Sep 2005 17:42:00 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 09:19:06 -0000
+From: "ling" <ling@mail.tsinghua.edu.cn>
+To: hong@ccert.edu.cn
+Cc: <bi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOy5xMbw08LG+M/ybW2x7bDXo6y1w7W91eLR+dK7uPa72Li0oaM=?=
+Date: Sat, 24 Sep 2005 17:41:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+我觉得既然是这样的诗句，表面态度并不是特别坚决的答应或反对，更多的是表达一种模棱两可的感觉或顾虑，她自己心里也没有太明确的态度，所以才用诗词直接把这种犹豫的心情表达出来（这是文人常见的习惯，无法解决问题时，就把自己的心情直接写出来）
+所以，我觉得比较聪明的做法就是大致知道她心情中所可能担心的东西，回一副诗词或者其他什么，打消她的顾虑
+我觉得她所可能的顾虑包括：害怕时光流逝红颜易老，害怕有了归宿没了自由，害怕感情无法长久等等
+针对这些方面给她肯定的回应。但不适合说的过于直白，比如“放心吧，亲爱的，我给你自
+由
+     字面上来看，似懂非懂的感觉。
+     第一句，如果不是时光过去，年龄大了，就不会为回家的事为难（想来父母很着急她的终身大事可以确定吧，谁家都这样）。
+     第二句，你给她的感觉可能比较浅，跟浮云相似。或者她认为你只是想跟她交个朋友玩玩，而没有长久相处的欲望，这样的话，你就不必纠缠了吧。记得那首歌吗？“我是天空的一片云，偶尔投影在你的心。......你有你的，我有我的方向。你记得也好，最好你忘掉，你我在交会时互

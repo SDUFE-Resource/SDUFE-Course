@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <luo@ccert.edu.cn>; Fri, 30 Sep 2005 08:38:22 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Fri, 30 Sep 2005 00:23:56 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "cen" <cen@mail.tsinghua.edu.cn>
+To: luo@ccert.edu.cn
+Cc: "Duan Haixin" <lai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfyze3P17PzwcvSu7TOo6y6umluZw==?=
+Date: Fri, 30 Sep 2005 08:49:13 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+忍不住说
+你太笨了吧。。。。。。
+sigh
+昨晚回家做饭，不知咋的电饭锅没法用了，换了几个插座都不行。除了照明电，家里的电器统统用不了。偶一个人在家，不知如何是好――于是连忙打电话告诉lg，结果，被告知家里的照明电和插座的电是分开的，估计是跳闸了，让我把电表里面的跳闸的开关给合上就好了。哎，这么点小事，真是让我郁闷了半天，怎么说偶也是学过一些自动化控制的嘛。被lg笑话了。。。。。。
+此事就罢了，不过电话里lg的态度倒是着实让我感动了一次。当时我在电话里告诉lg说家里出事了（估计是一时忙，用词过重），结果lg一听，立即声音提高了8分，很着急，很担心的问我有没有事？说马上赶回来。后来一听是电闸出问题，才松了一口气，还一再叮嘱要小心，别触电什么的。
+嘻嘻，原来lg挺在意我的呢。自个儿窃喜了一把^_^

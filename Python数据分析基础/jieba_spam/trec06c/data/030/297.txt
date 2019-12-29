@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <mei@ccert.edu.cn>; Tue, 23 Aug 2005 19:00:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <mei@ccert.edu.cn>; Tue, 23 Aug 2005 19:14:02 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 11:08:35 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "ling" <ling@mail.tsinghua.edu.cn>
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFu6z7yvXSBaWsLt1Ma4+NHFu6LUsbmk0d29sqO6sK61z8n6xtvGrcHLysC956Oh?=
+Date: Tue, 23 Aug 2005 19:10:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+不是爱因斯坦说的么
+我从小就受这样的教育阿
+     ☆─────────────────────────────────────☆
+        elescorpion (晨风的翅膀) (Thu Aug 25 12:11:08 2005):
+     

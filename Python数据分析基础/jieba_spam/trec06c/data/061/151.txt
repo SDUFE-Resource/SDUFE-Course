@@ -1,0 +1,28 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UNMoHg011058
+	for <xu@ccert.edu.cn>; Thu, 1 Sep 2005 01:41:56 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 01:44:01 +0800
+Message-ID: <325444295.10797@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 01:44:01 +0800
+Message-ID: <325444295.10780@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 01:44:01 +0800
+From: li@mail.tsinghua.edu.cn
+To: xu@ccert.edu.cn
+Date: Thu, 1 Sep 2005 01:44:01 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INewz7XNs6Os08PI7cXM1/fBy7j2z7XNs8XM?=
+Content-Type: text/plain
+
+xp
+呵呵
+     标  题: Re: 装系统，用软盘作了个系统盘
+     
+     装98？
+     : 在bios里设置从A盘启动后，进入dos形式的界面，在命令提示符下输入：format c:\\
+     : 说是badcommand or file name? 如下：
+     : A:\\&gt;format c:\\
+     
+     --
+     我常和外国人辩论想挽回中国的尊严,但是他们常说很多我们都不知道的事件,一个外国人反而比我们知道更多的中国,这是中国人的悲哀 
+     
+     

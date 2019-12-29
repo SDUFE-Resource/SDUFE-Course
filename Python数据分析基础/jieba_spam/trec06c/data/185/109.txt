@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <hu@ccert.edu.cn>; Sun, 25 Sep 2005 23:15:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <hu@ccert.edu.cn>; Sun, 25 Sep 2005 23:26:27 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 15:03:27 -0000
+From: "jiang" <jiang@mail.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Cc: <huang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILWly7W3onBhcGVytcTOyszi?=
+Date: Sun, 25 Sep 2005 23:26:17 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+我的老板就是拿着我的论文去旅游di。
+由于长期没有下实验室，
+建议我去做的方向或者意义不大，或者很难实现。
+最ft的是，对我想要做的方向总是嗤之以鼻。
+结果我和另外一个组的一个博士私下合作，把我的一个想法用实验证实出来了，
+那个组的老板建议我们去投nature的一个杂志。
+当然文章的最后一名作者还是要挂上老板的名字。
+     呵呵，很多大佬是邀请或者就是拿着学生的论文来旅游的。没有要求要说明项目资助啊，我老板现在就没资助，不也一样发会议。写上资助容易中罢了

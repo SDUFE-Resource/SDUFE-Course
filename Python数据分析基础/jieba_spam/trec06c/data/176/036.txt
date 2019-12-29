@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <zhang@ccert.edu.cn>; Sat, 24 Sep 2005 03:40:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <zhang@ccert.edu.cn>; Sat, 24 Sep 2005 03:51:39 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 19:28:45 -0000
+From: "tian" <tian@mail.tsinghua.edu.cn>
+To: zhang@ccert.edu.cn
+Cc: <yana@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SvvW1w8O709DIy8rHyrLDtMOkxL+z57Dd?=
+Date: Sat, 24 Sep 2005 03:51:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+今年暑假在工厂实习一圈，感觉时间特别紧凑
+一回来，觉得对博士生平时的约束太松了。
+我们系有不少博士生，是校研会、团委、学生工作组等组织的干部，
+平时几乎从不做实验，有一个人现在直博第三年了，还只是把以前本科毕设的东西
+改来改去发paper凑数。可是系里根本没有监管机制，还觉得他们做那么多工作挺好。
+     主要是王的做法有点偏激把
+     他怎么面对很多事情是他个人问题
+     但是他提到了清华这两个字

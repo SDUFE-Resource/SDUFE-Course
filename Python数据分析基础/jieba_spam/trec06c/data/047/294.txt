@@ -1,0 +1,23 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <qian@ccert.edu.cn>; Sat, 27 Aug 2005 12:51:15 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 13:09:35 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 13:09:35 +0800
+Date: Sat, 27 Aug 2005 13:09:35 +0800
+From: wua@cernet.com
+Subject: =?gb2312?B?ofEg19S8us+50LTA1rXjtqvO96OsxMOz9sC0z9ez8w==?=
+To: qian@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+简单爱，说起来很简单，可是真正能做到的又有几个人呢。我们都是生活在这钢筋混凝土搭建的冷漠的城市中，每个人都在用尽全力的保护自己，害怕自己受到伤害。友情如是，爱情亦如是。于是大家都收起自己的那份热情，欣然享受着虚伪，只是心中却一直期盼着，可怜的现代的城市中的人啊，麻木的只能从小说和漫画中寻找那份真挚的感情了。
+也许麻木的多了就自然了，但是，我相信真情是可以改变这一切的，我们虽然害怕受到伤害，但是我相信，只要我们勇于付出自己的真心，一定会有回报的：）
+就让我们这一辈子简简单单的去爱吧，去享受爱

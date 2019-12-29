@@ -1,0 +1,30 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U2OGpf004571
+	for <han@ccert.edu.cn>; Wed, 31 Aug 2005 10:47:28 +0800 (CST)
+Received: (qmail 5721 invoked from network); Wed, 31 Aug 2005 02:59:08 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Wed, 31 Aug 2005 02:59:07 -0000
+Message-ID: <001101c5ad0b$dfe7c0c0$e900a8c0@d47db5334f2a479>
+From: "lu" <lu@jdl.ac.cn>
+To: han@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INewz7XNs6Os08PI7cXM1/fBy7j2z7XNs8XM?=
+Date: Wed, 31 Aug 2005 11:01:27 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+没有光区,想从硬盘装,呵呵
+     标  题: Re: 装系统，用软盘作了个系统盘
+     
+     最简单的，找张2000 or xp的安装盘，启动进去，安装过程中可以格式化
+     : 在bios里设置从A盘启动后，进入dos形式的界面，在命令提示符下输入：format c:\\
+     : 说是badcommand or file name? 如下：
+     : A:\\&gt;format c:\\
+     
+     --
+     

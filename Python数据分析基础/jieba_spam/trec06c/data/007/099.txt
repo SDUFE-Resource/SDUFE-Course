@@ -1,0 +1,24 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7FBL9jQ015986
+	for <ding@ccert.edu.cn>; Thu, 18 Aug 2005 07:59:09 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7FBr5I2010935;
+	Thu, 18 Aug 2005 08:31:05 +0800
+Message-Id: <200508151153.j7FBr5I2010935@stmp.nisac.gov.cn>
+Date: Thu, 18 Aug 2005 08:12:05 +0800
+From: "han" <han@mail.nisac.gov.cn>
+Reply-To: han@mail.nisac.gov.cn
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3x1OfIpdeisuE=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+去系里请个假就可以了。系里会对这部分学生的信息进行管理
+     本来心情不错的去了。同时，替同学问问：现在有事，很久不能回来，该怎么办？
+     给我注册的小jj还不错。问这件事时，小jj不知道，让俺去问最前面的管事的老师。
+     去问时，那老师用我看来势利的眼光看了我一眼，回答的时候，压根就不愿理我的样子，又好像很烦，不愿回答 的样子，总之，我感到心里很堵。最后我说了声：谢谢。那老师连一点点反应都没有。心里更堵了。

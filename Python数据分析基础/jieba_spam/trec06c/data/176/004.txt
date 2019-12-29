@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <rao@ccert.edu.cn>; Sat, 24 Sep 2005 03:07:46 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <rao@ccert.edu.cn>; Sat, 24 Sep 2005 03:19:15 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 18:56:21 -0000
+From: "kong" <kong@mail.tsinghua.edu.cn>
+To: rao@ccert.edu.cn
+Cc: <yi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09rN9dvzyqbQ1rXEzsrM4rXEyPS4ydLJu/M=?=
+Date: Sat, 24 Sep 2005 03:18:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+第二个问题,
+我的意思是在大学学的理科科目,
+不会对我找工作带来什么帮助的样子
+起码,我还找不到方式来利用这个帮助自己找到工作
+似乎理科生要出去找工作最后来得借助于学习其他知识
+我其实要表达的大概就是这个意思了
+不能表述清楚,是我的错误
+谢谢你的解答
+     第一个问题我不够资格回答
+     第二个问题是这样：找工作不比推研失败，推研更多的是随大流，也和社会的价值取向有关，但是找到一份好工作，就从自身的锻炼和发展来说也非常不错
+     但是，现在什么都看学历，所以有的时候人在江湖，身不由己，比如上海据说今年不接收本科毕业生落户，一刀切。做学术，当官，都看学历，你看那些当官的，没学历还要混个学历，买个学历

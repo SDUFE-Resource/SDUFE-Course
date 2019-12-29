@@ -1,0 +1,42 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <zhan@ccert.edu.cn>; Sat, 20 Aug 2005 12:00:03 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <zhan@ccert.edu.cn>; Sat, 20 Aug 2005 12:13:21 +0800 (CST)
+Date: Sat, 20 Aug 2005 12:07:26 +0800
+From: "zhong" <zhong@sohu.com>
+To: zhan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyP3Qx9bQufq1xNawzru/1cixICjXqtTYKQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+【 以下文字转载自 Korea 讨论区 】
+发信人: fascforever (闲看落花), 信区: Korea
+标  题: 三星中国的职位空缺
+公司  工作城市  工作分类  招聘人数  标题  发布时间  
+三星（中国）服务总部  天津  服务  2  手机维修培训讲师  2005-8-12  
+三星(中国）广告有限公司  北京  广告  1  设计  2005-8-9  
+三星(中国）广告有限公司  北京  广告  1  制作  2005-8-9  
+三星(中国）广告有限公司  北京  广告  1  完稿  2005-8-9  
+三星(中国）广告有限公司  北京  广告  1  文案指导  2005-8-9  
+三星(中国）广告有限公司  北京  广告  3  美术指导  2005-8-9  
+三星（中国）服务总部  广州  仓库,仓管  1  库存管理  2005-8-9  
+三星（中国）服务总部  北京  服务  27  电话商谈员  2005-8-9  
+三星电子中国采购中心（上海IPC）  上海  其他  2  供应商管理工程师（SQE）  
+2005-8-8  
+三星（中国）服务总部  北京  服务  1  环境品质担当  2005-8-8  
+三星（中国）服务总部  郑州  服务  1  郑州POST人员  2005-8-5  
+三星电子中国总括  北京  市场营销  2  大客户经理  2005-7-28  
+三星电子中国总括  北京  市场营销  1人  手机产品经理  2005-7-28  
+三星电子中国总括  广州  销售  1人  手机销售  2005-7-28  
+三星电子中国总括  北京  市场营销  4人  通讯市场企划  2005-7-28  
+三星电子中国总括  北京  电算  4 名  ERP工程师  2005-7-28  
+三星电子中国总括  北京  市场营销  1  促销企划课长  2005-7-28  
+三星电子中国总括  北京  市场营销  1  Yepp渠道专员  2005-7-28  
+三星电子中国总括  北京  财务  1名  税务经理  2005-7-28  
+三星电子中国总括  北京  市场营销  1  Yepp渠道经理  2005-7-28  

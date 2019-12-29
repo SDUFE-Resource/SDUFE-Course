@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <han@ccert.edu.cn>; Fri, 16 Sep 2005 08:41:53 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <han@ccert.edu.cn>; Fri, 16 Sep 2005 08:53:40 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 00:35:10 -0000
+From: "wei" <wei@mail.tsinghua.edu.cn>
+To: han@ccert.edu.cn
+Cc: <ma@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILG7s/XW0Mn6scnK08HLo6zH873MuN/Iyw==?=
+Date: Fri, 16 Sep 2005 08:53:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+=================================
+A xL,b yL c zL
+x+y+c=11
+y=x+3
+40%*x+36%*y+35%*z=11*38.5%
+==================================
+可是我记得高中时，老师说酒精含量说的是体积比而不是质量分数:P
+     初中的一个妹妹问我一道题，结果我居然没有做出来。被妹妹鄙视了一番。自己也很没有面子，难道自己真的是学历越来越高，智商越来越低？哪位高人能够帮忙，最好给出具体解答步骤，让我也学习学习！
+     A种酒精中纯酒精的含量为40%B种酒精中纯酒精的含量为36%，C种究竟中纯酒精含量为35%，它们混合在一起得到了纯酒精含量为38。5%的酒精11升，其中B种酒精比A种酒精多3升那么A种酒精有多少升？ 

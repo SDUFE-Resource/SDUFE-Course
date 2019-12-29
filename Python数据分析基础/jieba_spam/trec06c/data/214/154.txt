@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3XRsq011198
+	for <mei@ccert.edu.cn>; Sun, 2 Oct 2005 01:58:29 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U3S2Fd080380
+	for <mei@ccert.edu.cn>; Sun, 2 Oct 2005 01:53:15 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U3RxnO080376
+	for <mei@ccert.edu.cn>; Sun, 2 Oct 2005 01:53:00 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 2 Oct 2005 02:05:25 +0800
+Message-ID: <328051624.14203@mails.tsinghua.edu.cn>
+Received: from 202.112.4.39 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 2 Oct 2005 02:05:25 +0800
+From: bai@mails.tsinghua.edu.cn
+To: mei@ccert.edu.cn
+Date: Sun, 2 Oct 2005 02:05:25 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1ffIy8qu0rvG2rzkyKXH4MH6z7+xxLyrLNKyu7bTrc2swrfIyy4=?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: bai@mails.tsinghua.edu.cn
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+一直想去蹦极,体验一下那种感觉.征了几回人,结果由于种种原因,未能成行.再征一次!
+行程暂定为10.3或者10.4号,早上去西直门火车站坐火车.约1个多小时的路程.万一错过了,可以去东直门乘长途汽车.
+费用,约200-300元,AA,请带上足够的食品和水.
+欢迎想去青龙峡玩的GGJJDDMM同往.
+偶的联系方式: sql2005910@hotmail.com
+或者QQ:494521200,加QQ的时候请注明"蹦极",否则会被当作恶意骚扰不予理会.

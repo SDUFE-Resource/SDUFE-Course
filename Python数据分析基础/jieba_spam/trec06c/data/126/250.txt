@@ -1,0 +1,39 @@
+Received: from sendmail.iclp.com.hk (sendmail.iclp.com.hk [203.193.56.98])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8D9HfCC018617
+	for <mo@ccert.edu.cn>; Tue, 13 Sep 2005 18:50:58 +0800 (CST)
+Received: from ebpc1 ([192.168.17.111])
+	by sendmail.iclp.com.hk (8.11.6/8.11.6) with SMTP id j8DNBbb24415
+	for <mo@ccert.edu.cn>; Tue, 13 Sep 2005 19:44:49 -0500
+thread-index: AcW4RY0OBhyKhSqsSemwSUmiAKaPGg==
+Thread-Topic: =?gb2312?B?SnVuaXBlcs34wue5q8u+0dC+v7rNvczT/bv6ubnNqNG2MjAwNcTqOdTC?=
+Reply-To: <wua@apac-juniper.net>
+From: "wua" <wua@apac-juniper.net>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVv7TN6qG2zNOz9r/LwqG1uqG3?=
+Date: Tue, 13 Sep 2005 19:01:59 +0800
+Message-ID: <8c3801c5b845$8d1d0270$6f11a8c0@ebpc1>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_8C39_01C5B888.9B404270"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Exchange 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我从这部片子拍摄开始关注它
+从开始放映到现在基本下线
+RT和imdb这两个数字基本没什么变化
+跟什么完成时、进行时一点关系都没有
+所谓恶评如潮，总不能以身边bbs上那么几个人为准
+即使是在中国的bbs上，叫好的人也很多，不限于这里
+在英文的论坛上，也不是一边倒的叫坏
+总是好坏兼有，或许肯定的更多
+相比更大多数买票进场的人来说，这都是少数中的少数
+RT和imdb的数字纵然不能说有多权威
+但作为参照，分别代表影评人/影迷，总比个人主观印象有说服力得多
+这么说吧，72%,6.8等等是完成时，是观点的汇总，“恶评如潮”是过去进行时，是一部分观点；两个根本不是一码事；如果你在世界大战放映期间关注一下评论，便会认可“恶评如潮”这个评价
+     RT上影评人综合rating有72％
+     imdb影迷评分有 6.8
+     这还叫恶评如潮啊

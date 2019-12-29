@@ -1,0 +1,67 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <xiao@ccert.edu.cn>; Sat, 20 Aug 2005 20:36:19 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <xiao@ccert.edu.cn>; Sat, 20 Aug 2005 20:49:21 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 21:12:49 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: hu@126.com
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtdfQvTYwMNSq1dDGuLP1vLayxs7xyMvUsdK7w/s=?=
+Date: Sat, 20 Aug 2005 20:44:03 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+[基本要求]
+性别要求：女性；
+学历要求：中专以上；
+外语要求：基础英语；
+工作时间：全周(周一到周日) 上午9:00-下午7:00
+工资：底薪RMB600；
+奖金：视工作表现发放奖金(正常情况下为每月RMB200)；
+接受简历语言：中文；
+其他要求：相貌端正；人品端正；
+相关说明：
+    1.休息时间不固定，原则上每月有4天休息时间；
+    2.公司提供午餐；
+    3.试用期为一个月，试用期内无奖金；
+    4.应聘者需有在校学生或学校教职工作为担保人。
+[能力要求]
+1、中专以上学历；
+2、具有良好的汉语书面和口头表达能力；
+3、具有基本的的英语听、说、读、写能力；
+4、能熟练使用电脑办公，有2年以上的计算机使用经验；
+5、做事情认真负责，有耐心，能吃苦。
+6、性格不内向，善于和人交流，具有良好的团队精神；
+7、学习能力强，积极上进；
+[工作职责]
+在上班时间内
+1、负责公司日常出入库单据的管理，做好相应记录；
+2、整理统计每日的产品进货和销售情况；
+3、按照公司规定按时给经销商结帐；
+4、接听电话，做好电话记录，转达给其他员工。
+[联系方式]
+请通过电子邮件附件的方式提交简历；
+简历文件格式要求为MS-Word或PDF；
+简历请附本人近期照片；
+简历请附有效联系方式；
+简历请提交至 E-mail:chinakr@sina.com；
+邮件主题请参考此格式书写："应聘财务-张小倩"；
+简历提交后可以回复站内信件一封以确认。
+说在最后：
+    虽然这个工作要求不高，待遇也相对较低，但是并不意味着这个工作
+不重要。相反这个工作对于公司的正常运作有重要作用。我们希望应聘者
+能有优秀的品格和良好的心态，专注于本职工作，并且不放过每一次培训
+机会。相信随着公司的良性发展的，你的个人价值也将得到更充分的体现。

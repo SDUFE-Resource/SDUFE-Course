@@ -1,0 +1,26 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <zhang@ccert.edu.cn>; Fri, 2 Sep 2005 10:23:08 +0800 (CST)
+Received: (qmail 18809 invoked from network); Fri, 2 Sep 2005 02:34:51 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 2 Sep 2005 02:34:51 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "bai" <bai@jdl.ac.cn>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1PXR+bLwt9bX1rf7tK6jv6O/?=
+Date: Fri, 2 Sep 2005 10:37:09 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+文本如下
+ATOM     58  CG  GLU A   7      17.727-142.730  77.194  1.00 47.20           C  
+ATOM     59  CD  GLU A   7      18.075-142.114  75.851  1.00 54.74           C  
+在TC用fgets读入后，每一行作为一个字符串，现在要把它每一行拆分成8个字符串，基本是以空格为界，比较特殊的有17.727-142.730拆为两个17.727 -142.730，不知道该怎么做。
+我是用一个
+for(j=0;line[i][j]!=\' \';j++),其中line[i][j]是第i行第j个字符，但只能把ATOM复制出来，后面的就不知道该怎样往for()括号里填了，请各位xdjm指教为谢！

@@ -1,0 +1,30 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <pu@ccert.edu.cn>; Thu, 29 Sep 2005 16:36:34 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 08:47:44 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 16:47:44 CST
+Date: Thu, 29 Sep 2005 16:47:44 +0800 (CST)
+From: liang ming <hua@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgv7Shtsnxu7Cht7XE0rvQqbjQvvW14w==?=
+To: pu@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+1 武打不错，不错在前面，而最后一段基本不能算武打，可惜了卢惠光一帮动作明星。
+2 两个女孩子很不错，金喜善美丽动人，两眼泪汪汪很吸引人；印度美眉身材火爆。
+3 故事讲的不好，而且中间一段讲的很沉闷。
+4 配乐很差，但也不全是，在影片结尾的那段就很不错。
+5 孙周说话中气过足，暴露了大陆演员和香港演员的不和谐。
+6 邵兵却是一个例外，他是亮点。
+7 成龙的古装太失败，而且戴上古装显得他老脸皱痕。
+8 梁家辉演得非常失败。
+9 摄影很差，简直还比不上《七剑》。
+10　动作指导一栏里面居然见到了元德！久违了的武术指导。
+11 再说一下，金喜善真的很漂亮，hoho~~

@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <lv@ccert.edu.cn>; Fri, 26 Aug 2005 09:29:13 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 09:47:33 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 09:47:33 +0800
+Date: Fri, 26 Aug 2005 09:47:33 +0800
+From: tang@cernet.com
+Subject: =?gb2312?B?ofEgyczW+r/GvLzV0ry8yvXIy9SxvNPI67S00rXNxbbT?=
+To: lv@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+    商助科技是一家互联网高科技公司，由美国留学人员回国创建，现位于清华大学高科技创业园内。创建以来发展迅速，有多家知名企业在使用我们的服务，包括百度、当当等；多个风险投资商都表示了浓厚的投资意向。我们寻求志同道合的人士加盟我们的事业。
+  
+Java程序员：
+  * 本科以上学历，计算机或其他理工专业
+  * 对技术工作有浓厚的兴趣，并具备软件从业人员的优秀品质，如敬业、钻研、互助等精神
+  * 良好的团队工作意识和沟通能力
+  * 精通JAVABEAN、JSP、SERVLET、JAVASCRIPT、HTML
+  * 熟悉 ORACLE 或 MYSQL 数据库
+  * 一年以上相关经验

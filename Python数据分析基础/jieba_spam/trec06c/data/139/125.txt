@@ -1,0 +1,22 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <shi@ccert.edu.cn>; Fri, 16 Sep 2005 06:56:18 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <shi@ccert.edu.cn>; Fri, 16 Sep 2005 07:27:26 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 07:07:33 +0800
+From: "lei" <lei@mail.nisac.gov.cn>
+To: shi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVv7TN5szAxLdzZ9b30d21xL3otbbJscjL?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+也不能说导演刻意玩后现代耍酷，这电影要不给杀手主角加一点个性，就道德不正确，赤裸裸宣扬暴力了；这片子的杀手文森特，哲人一样洞彻世事，却又儿童一样天真无牙；象基督一样悲天悯人，却又象魔鬼一样无恶不作，所以他体现了虚无主义基础上的技术理性和狗儒主义，在杀手里面也是比较出彩的了
+     看了汤姆最后的一句：　 
+     Hey, Max...
+     A guy gets on the MTA here in L.A. and dies.

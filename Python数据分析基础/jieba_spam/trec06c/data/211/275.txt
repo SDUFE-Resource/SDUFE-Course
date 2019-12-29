@@ -1,0 +1,47 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U4X83o011570
+	for <fu@ccert.edu.cn>; Sat, 1 Oct 2005 04:03:46 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U4RWjN080763
+	for <fu@ccert.edu.cn>; Sat, 1 Oct 2005 03:58:32 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U4RU2J080759
+	for <fu@ccert.edu.cn>; Sat, 1 Oct 2005 03:58:08 +0800 (CST)
+	(envelope-from yang.feng00@mails.tsinghua.edu.cn)
+Received: from unknown (HELO zyyf) (yang.feng00@221.219.242.164)
+	by localhost with SMTP; Fri, 30 Sep 2005 20:10:33 -0000
+Message-ID: <002001c5c579$779e87c0$0c01a8c0@zyyf>
+From: "zhan" <zhan@mails.tsinghua.edu.cn>
+To: fu@ccert.edu.cn
+	<328049616.11361@mails.tsinghua.edu.cn>
+Subject: =?gb2312?B?ofEgx/O5us35xOrTotPv16jStb+80dDK1MziICjXqtTYKQ==?=
+Date: Sat, 1 Oct 2005 04:13:50 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Content-Transfer-Encoding: 8bit
+	j8U4RU2J080759
+Cc: 
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 AimGraduate 讨论区 】
+发信人: liusir (突破势阱), 信区: AimGraduate
+标  题: 求购往年英语专业考研试题
+本人预明年报考清华大学英语专业研究生，现需要购买往年的试题，最好是近三五年的，主要有二外的法语卷子和两门专业课的卷子包括基础英语和专业英语。哪位同学可以提供的话请和我E-MAIL联系，并请将价钱报给我，谢谢!
+E-MAIL：qgiant_hr@163.com
+（代友发文，请勿回站内信箱）

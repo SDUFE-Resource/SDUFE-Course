@@ -1,0 +1,27 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <cao@ccert.edu.cn>; Fri, 26 Aug 2005 02:50:19 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 03:08:42 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 03:08:42 +0800
+Date: Fri, 26 Aug 2005 03:08:42 +0800
+From: gao@cernet.com
+Subject: =?gb2312?B?UmU6ILzy1rHDu7+0uf2xyMbfvaO4/MDDtcTO5M/A?=
+To: cao@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+我觉得还可以。当然导演为了场景调度不可能把所有客观的因素都一一实现。首先开场能感觉出是徐克的电影，徐克的电影镜头总是摆放很多人，不像张的电影镜头一看就能分出几个大的块面，因此难免给人一种乱哄哄的感觉。再一个从布景到着装给人的视觉都很朴实，甚至有那么一点点土，人物设定也很好，没有把七剑神化，但是烽火连城这个人越看越让我联想到方士玉中的那个大光头（名字叫什么我忘了呵呵）
+btw：看了5分钟突然想到很早以前看的另一部电影双旗镇刀客，好像那里有点相似。
+     除了烂还是烂
+     普通话加广东口音普通话（或者别的什么烂口音），听得我想吐
+     情节超级夸张，人住的地方就跟黄土高坡似的，却种了那么多的玉米

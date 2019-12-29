@@ -1,0 +1,27 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <shi@ccert.edu.cn>; Sun, 14 Aug 2005 10:02:01 +0800 (CST)
+Received: (qmail 5448 invoked from network); Sun, 14 Aug 2005 02:12:48 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 14 Aug 2005 02:12:48 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "pan" <pan@jdl.ac.cn>
+To: shi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzsrSu7K/zrrX2s3ytcS159Oww/uzxg==?=
+Date: Sun, 14 Aug 2005 10:16:47 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+讲的是孔子后人的故事。一个老领导回到家乡，跟儿子感情不和，跟贪财的孙子孔为本和睦。
+老领导的弟弟魏宗万是赶马车的。
+有个洋妞大概是考察民俗的，在他们家过年。
+孔为本总想出国，被爷爷教育了。
+最后，一家人基本和解。
+顺便问另一类电影，北京青年电影制片厂的。中越战背景。一军人被介绍了一个对象，去相亲。女方是军队医院的护士，犹豫不决，总是在回忆战场上负伤的男友，好像还没死。最后
+男方表示理解，归队了。

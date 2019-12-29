@@ -1,0 +1,30 @@
+Received: from sendmail.iclp.com.hk (sendmail.iclp.com.hk [203.193.56.98])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8D9HfCC018617
+	for <ding@ccert.edu.cn>; Wed, 14 Sep 2005 14:41:12 +0800 (CST)
+Received: from ebpc1 ([192.168.17.111])
+	by sendmail.iclp.com.hk (8.11.6/8.11.6) with SMTP id j8DNBbb24415
+	for <ding@ccert.edu.cn>; Wed, 14 Sep 2005 15:35:03 -0500
+thread-index: AcW4RY0OBhyKhSqsSemwSUmiAKaPGg==
+Thread-Topic: =?gb2312?B?SnVuaXBlcs34wue5q8u+0dC+v7rNvczT/bv6ubnNqNG2MjAwNcTqOdTC?=
+Reply-To: <mo@apac-juniper.net>
+From: "mo" <mo@apac-juniper.net>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQ1tzSu8/CzufIpcnP087TvrjfvLaw4LXEv861xM2s0afC8D8=?=
+Date: Wed, 14 Sep 2005 14:52:13 +0800
+Message-ID: <8c3801c5b845$8d1d0270$6f11a8c0@ebpc1>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_8C39_01C5B888.9B404270"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Exchange 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    那天肖老师说这学期学校要求比较严
+        上学期的游泳课根本没考试
+        上完就完了
+        高级班应该是一样的，本科和研究生不一样的要求
+         本科是 3000米30分，考勤10分(迟到早退一次扣1分，病假有校医院假条扣2分，事假扣5分，缺席扣10分)，如果自由泳可以游50米是40分，100米是45分，100米时间2\'05"是50分，1\'55"是55分，1\'45"是60分。
+         研究生很轻松，只要每次都去了，然后可以游25米就通过了

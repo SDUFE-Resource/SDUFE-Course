@@ -1,0 +1,22 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <lv@ccert.edu.cn>; Wed, 28 Sep 2005 00:10:26 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Tue, 27 Sep 2005 16:33:20 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Tue, 27 Sep 2005 16:33:20 -0000
+Date: Wed, 28 Sep 2005 00:27:55 +0800
+From: "xia" <xia@csnet1.cs.tsinghua.edu.cn>
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzqrKssO0TUlUus3LrsS+ttS0/c312/O1xMystsiyu82so78=?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+一个有趣的现象是，在水木上有不少人捧王垠，而在MIT BBS上几乎都是一边倒地批王。
+仔细看看那些捧王垠的，多半都是比较FQ，空喊口号地批驳中国教育制度的。
+而MIT上发帖子的，基本上都是在国外继续深造过的，明白王垠所批判的东西，其实并不是中国所仅有的，他即使到了美国，他会发现那里跟清华并没有本质的区别：老板照样要你多发文章，因为没有文章就没有资金，没有资金就没钱吃饭；老板也会限制你的选课，因为你选课太多就会影响你的研究...这些规则，即使是在顶级名校的顶级教授那里，也是无法避免的。
+所以，也许适合王垠的路，就是普林斯顿高等研究院去拿一个终身职位，在那里，你可以做自己喜欢的事情。但是那要求你是超级牛人才行，就王垠文章里显露出来的浅薄(看了两本科普书籍就以为自己懂数学了)，他恐怕很难成为超级牛人。

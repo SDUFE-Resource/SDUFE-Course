@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8431hfN008529
+	for <pan@ccert.edu.cn>; Tue, 6 Sep 2005 10:47:07 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM900833VWCO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Tue, 6 Sep 2005 11:04:49 +0800 (CST)
+Date: Tue, 6 Sep 2005 11:00:53 +0800
+From: =?gb2312?B?wre0utPq?= <wua@cernet.com>
+Subject: =?gb2312?B?UmU6IHJlOlu6z7yvXSC159fTzajQxbe9z/I80MW6xdPrz7XNsz6yu7+8tcTE2sjd?=
+To: pan@ccert.edu.cn
+Cc: "grey.wang" <lu@ccert.edu.cn>, swgui <hou@ccert.edu.cn>,
+ zhaohonglin82 <fu@ccert.edu.cn>
+Message-id: <0IM900834VWCO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_4iCo3BsWakluEN5O95QvqA)"
+
+稍微做过一点。
+感觉价值就是覆盖很全面，
+题目设计很精巧，
+和郑老师的书不是一个风格。
+两者相辅相成，互相促进，
+定有相得益彰之效！
+你做过奥本的习题没有？说说价值啊
+     对啊，电路题还真用不上。
+     俺说没用的题还有几个变换中的电路题，郑通过电路引进的好多概念，这违背信号的重点吧，考试也没有，所以说他没用。
+     奥本的答案我有，研究研究啦，多谢

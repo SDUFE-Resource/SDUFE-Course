@@ -1,0 +1,44 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <yuan@ccert.edu.cn>; Tue, 27 Sep 2005 03:05:36 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 19:16:30 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 19:16:30 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <yuan@ccert.edu.cn>; Mon, 26 Sep 2005 12:27:37 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <yuan@ccert.edu.cn>; Mon, 26 Sep 2005 14:24:03 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 03:16:18 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <mo@motorola.com>
+To: yuan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEZyZWVkb20gaXMgTk9UIGZyZWUgo7q4+M31zazRp7rNtNPKwr/G0dC5pNf3tcTNrMjK?=
+Date: Tue, 27 Sep 2005 03:15:53 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+呵呵 灵感可能就是这样出来的
+     标  题: Re: Freedom is NOT free ：给王同学和从事科研工作的同仁
+     
+     有钱可以养一堆天才帮自己实现胡思乱想的事情，唉唉
+     : 恩, 很可能,有钱后天才就可以做些研究了
+     
+     
+     --
+     在“错啦送死嚓啦music”里灌水牛的，
+             该毕业的一年年延期，
+             要推研的推不上研，
+             踉踉跄跄毕个业还找不到出路得上手段……
+     唉，我忏悔！千万汲取我的教训！
+     
+     

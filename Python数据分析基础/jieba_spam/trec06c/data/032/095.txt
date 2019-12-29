@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <li@ccert.edu.cn>; Wed, 24 Aug 2005 03:54:32 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <li@ccert.edu.cn>; Wed, 24 Aug 2005 04:07:46 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 20:02:19 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "mei" <mei@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Subject: =?gb2312?B?ofEgbWF4aXQgQmog1dDGuLv60LW6zbXn19PXqNK1yeixuM6su6S5pLPMyqa499K7w/s=?=
+Date: Wed, 24 Aug 2005 04:04:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+MAINTENANCE TECHNICIAN
+JOB DESCRIPTION
+         The maintenance technician will take care of the maintenance of all
+ equipments within the production plant. He will have to follow the working plan established by the maintenance responsible and attend the corrective 
+maintenance required in each moment. The maintenance technician will report to 
+the maintenance responsible.
+         
+BACKGROUND REQUIRED
+&amp;#8226;    Native Chinese with a very strong technical background in electrical &amp; mechanical fields. 
+&amp;#8226;    Basic spoken English will be a plus.
+&amp;#8226;    Familiar with computer environment and PLC systems.
+&amp;#8226;    Minimum experience of 5 years as maintenance technician of a production plant.
+&amp;#8226;    Good communication skills and capable to work in a multicultural / multinational environment.
+&amp;#8226;    It is a must to be a motivated, active person and be able to provide intelligent and rational solutions to many different problems.
+SALARY CONDITIONS
+       It will be negotiated with each candidate according to his background and skills.
+DATE NEEDED: ASAP
+Website: www.maxit.cn
+Email: hr@maxit.cn

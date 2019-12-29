@@ -1,0 +1,22 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8V0cL023464
+	for <long@ccert.edu.cn>; Sat, 20 Aug 2005 16:57:19 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 40F4F0045593
+	for <long@ccert.edu.cn>; Sat, 20 Aug 2005 17:10:37 +0800 (CST)
+Date: Sat, 20 Aug 2005 17:04:43 +0800
+From: "shi" <shi@sohu.com>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzGy+O7+teo0rW1xNChy7axz9K1uvPWu8TctNPKwsjtvP6/qreiwvCjvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084420.40F4F0045593@sohumx06.sohu.com>
+
+恩。MM开始思考人生了。慢慢来嘛，只要自己努力，总会有收获的。我看过前几天一八几年的研究生总结她及她的同学的情况。好几个同学都开了自己的公司，也有继续在外企作的。也有混得很一般的，没房没车。总体来说，一开始就自己干的，现在混得不咋样。开始做技术的，还行；
+所以我觉得，还是踏踏实实的，干好技术再说。干一行爱一行，别太计较得失。曙光就在眼前！加油！
+     快毕业了，还不知道自己能做些什么样的工作
+     本科是英语专业的，毕业后直接读的计算机专业研究生
+     经验比较少，只做过一些简单的java有关的编程，做过一些黑盒测试

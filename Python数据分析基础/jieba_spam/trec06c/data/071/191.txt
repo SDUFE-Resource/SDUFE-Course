@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <ou@ccert.edu.cn>; Fri, 2 Sep 2005 12:03:49 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 12:06:41 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 12:06:41 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 12:06:41 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 04:00:04 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 11:52:14 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 11:52:14 +0800
+From: gu@mails.tsinghua.edu.cn
+To: ou@ccert.edu.cn
+Cc: yu@ccert.edu.cn
+Date: Fri, 2 Sep 2005 11:52:14 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INTZ1N7QocfFyqa4taOsuvG1wA==?=
+Content-Type: text/plain
+
+5555
+在十四号楼下换过前轴车轴，花了30+
+那天一去又让我换后轴要20+，当即我就走人了。。
+真是气愤，每次他都要我换东西
+下次去小桥了
+     从跟一些师傅的攀谈中，得知后勤其实对他们的剥削很厉害，一个摊位要2万左右，并且加上其他杂七杂八的费用，平均下来基本一天要交100元，所以现在大部分都用最便宜的零件，收的钱也不低，比如换个车轴，后轴一般的只要不到两块钱，好的才2块多一点，然后一般都要收到10

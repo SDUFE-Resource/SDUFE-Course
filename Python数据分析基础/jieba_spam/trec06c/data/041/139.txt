@@ -1,0 +1,40 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <li@ccert.edu.cn>; Fri, 26 Aug 2005 02:44:56 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 03:03:19 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 03:03:19 +0800
+Date: Fri, 26 Aug 2005 03:03:19 +0800
+From: fu@cernet.com
+Subject: =?gb2312?B?UmU6ILKpyr+xz9K1s/a5+qOsu6e/2s7KzOKjvw==?=
+To: li@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+统一放在留学服务中心，拿到国外学位以后，
+你就是留学归国人员了
+     标  题: Re: 博士毕业出国，户口问题？
+     
+     你说的不知道是否准确。
+     如果原籍不是北京的，恐怕是不会给你放在服务中心的吧
+     
+     
+     可以，现在可以放到留学服务中心，和档案一块
+     : 是打回老家去么？如果学校保留会保留几年？博士毕业如果直接出去做访问学者，户口可不可以还挂在北京呢？多谢，
+     
+     
+     --
+     
+     
+     
+     --
+     

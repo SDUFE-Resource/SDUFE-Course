@@ -1,0 +1,30 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <xie@ccert.edu.cn>; Thu, 25 Aug 2005 12:26:58 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 12:45:21 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 12:45:21 +0800
+Date: Thu, 25 Aug 2005 12:45:21 +0800
+From: zhou@cernet.com
+Subject: =?gb2312?B?ofEgvrTH67nY16IiONTCMjnI1c3twbzKptLm09Em0afK9dDC0OPT69HQvr/J+tDCyfrPtcHQ1/nM
+uLvhKLU=?=
+To: xie@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+报告题目：      良师益友&amp;学术新秀与研究生新生系列座谈会(第二场) 
+报告人：        陈剑教授 郭迅华 
+具体时间：      2005-08-29 19:0  
+报告地点：      环境系报告厅（十食堂南侧） 
+主办单位：      清华大学研究生院、校党委研究生工作部 
+提交人院系/协会：       admin 
+备注：  详见http://166.111.4.128/news/2005/8/24/1124865470360.shtml。本次系列讲座主要面向研究生新生同学。活动将邀请近年获得"良师益友"称号的部分优秀教师与"学术新秀"代表，以对话的形式与现场同学进行面对面的交流，为师为友，相磋相磨，帮助刚刚进入清华园的同学们从名师和出色的学友身上学习如何做事，如何做人，正确把握个人的发展方向，早日成为一名合格的"清华人"！ 

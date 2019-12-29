@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <yun@ccert.edu.cn>; Sat, 24 Sep 2005 03:58:59 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <yun@ccert.edu.cn>; Sat, 24 Sep 2005 04:10:20 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 19:47:20 -0000
+From: "zhao" <zhao@mail.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Cc: <lai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Date: Sat, 24 Sep 2005 04:10:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+恩,我觉得也确实需要改进一下科研和培养体制了
+要是大家都根王同学一样,研究的东西从没坚持过，方向换了一个又一个，
+ 博三博四还没发过文章。几个月不去教研组，出去旅游两个月不给老板打招呼。
+清华就该关门了
+     说得不错，不过我觉得王垠退学是他自己的选择，功过是非且不论，但是临走前发这篇文章还是值得肯定的，至少还引起这么大的反响，说明对清华研究生制度不满的大有人在，可以引起我们的深深思考，来改进中国的科研和培养体制 

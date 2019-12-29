@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <long@ccert.edu.cn>; Tue, 23 Aug 2005 23:10:24 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <long@ccert.edu.cn>; Tue, 23 Aug 2005 23:23:38 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 15:18:11 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "ni" <ni@mail.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1eLA79PQ1/bIy8rCuaTX97XExfPT0cLwo7/E3LK7xNyw78Omo78gKNeq1Ngp?=
+Date: Tue, 23 Aug 2005 23:20:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 WorkLife 讨论区 】
+发信人: Paparazzi (疯狂的狗仔队), 信区: WorkLife
+标  题: 这里有做人事工作的朋友吗？能不能帮忙？
+我表妹迁移档案的时候出了麻烦，接收单位说少了几个文件，派遣证，工资关系证明表，还有什么招工表什么的。当时表妹打算是要出国，很多东西毕业的时候弄得匆忙，没搞齐全。
+可是原档案管理单位说所以东西都作了不管了，两边工作都作了做不通。
+现在想找原档案单位把缺的几个文件给做进去，可是不知道北京这边的格式是什么。
+谁了解啊，帮忙，快急死了。

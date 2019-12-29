@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <rao@ccert.edu.cn>; Fri, 23 Sep 2005 13:11:43 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 13:00:43 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 13:00:42 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 13:00:42 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 05:00:42 -0000
+From: "su" <su@mail.tsinghua.edu.cn>
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj4x+W7qtK70KnL+c690afV373Mytq1xL6vyr6joQ==?=
+Date: Fri, 23 Sep 2005 13:23:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+“人书俱老”是什么意思。是指精神和书法已经到了“炉火纯青”的地步，“老”指炉火纯青。是指书法的至高境界，如颜真卿。
+     李敖来大陆，轰轰烈烈，热热闹闹，国内有些人也坐不住了，总有人要跳出来显摆显摆，不过，没显好倒是现了眼。大家看看下面的材料，真为清华汗颜啊！
+     资料一【清华大学学者评李敖演讲：李敖老矣 尚能骂否？】
+     http://news.anhuinews.com/system/2005/09/23/001359039.shtml

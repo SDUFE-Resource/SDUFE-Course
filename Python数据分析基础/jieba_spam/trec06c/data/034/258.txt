@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <zhong@ccert.edu.cn>; Wed, 24 Aug 2005 19:17:01 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 24 Aug 2005 19:35:24 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 19:35:24 +0800
+Date: Wed, 24 Aug 2005 19:35:24 +0800
+From: mo@cernet.com
+Subject: =?gb2312?B?ofEguau5srncwO3Rp9S60MK/qr/Os8yhqqGqtqvRx7HIvc+3otW5wtujrLu2063RodDe?=
+To: zhong@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+本学期，深受同学喜爱的孟健军教授受薛澜院长邀请，专门回到公共管理学院为清华同学
+讲授一个学期的《东亚比较发展论》。
+孟健军老师学术造诣很高，曾在国外留学多年，在发展经济学方面有很多颇具影响的论著。
+在本门课程中，他将和大家讨论东亚经济发展的过去、现在和未来；中国、日本、四小龙以及东盟的经济改革；东亚的比较优势和地区差距；东亚经济发展的机制与战略；东亚经济资源的重组；东亚的制度变迁；经济双赢下的东亚发展模式等问题。
+课程号    90590193    ；课序号    0
+欢迎全校本科生、硕士、博士研究生选修。

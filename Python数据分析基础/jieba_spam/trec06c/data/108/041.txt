@@ -1,0 +1,39 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j888M6Jx010719
+	for <xia@ccert.edu.cn>; Fri, 9 Sep 2005 21:27:41 +0800 (CST)
+Received: from cernet27fd8164 ([211.68.120.195])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMH00NKBPDV0F@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 9 Sep 2005 21:45:05 +0800 (CST)
+Date: Fri, 9 Sep 2005 21:39:57 +0800
+From: noc-serv <feng@cernet.com>
+Subject: =?gb2312?B?ofEgzca89tOi0+/UxLbBssTBz6O6?=
+To: xia@ccert.edu.cn
+Cc: su@ccert.edu.cn
+Message-id: <047d01c5b450$1df5d280$c37844d3@cernet27fd8164>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+
+《GRE阅读全真题详解》，
+上海世界图书出版公司，1999年10月第一版，
+不知道现在出新版了没有。
+这本书绝对经典；不用全看，
+只从当中摘录最经典的一二十篇文章啃下来即可。
+有体力看政治红宝书、xxx220篇的人，
+不如把力气省下来干点真正有用的事。
+老老实实提高一些阅读水平，此乃固本培元之法，
+成效肯定高于急功近利式的突击做题。
+在四六级的基础上看GRE阅读肯定会很痛苦，
+但是记住，你痛苦的时候就是你长功力的时候。
+平时轻松愉快，考场上哭；
+平时痛苦一些，考场上笑。
+至于什么“GRE词汇这辈子只会用一次”之类的说法纯属扯淡；
+GRE词汇当中的绝大多数都是高级英语当中的核心词汇，
+对考研肯定是有帮助的。
+~
+大体就这个情况；
+希望大家能找到适合自己的参考书。

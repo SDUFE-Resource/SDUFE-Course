@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8BNCpQ4005027
+	for <xing@ccert.edu.cn>; Tue, 13 Sep 2005 10:56:02 +0800 (CST)
+Received: (eyou send program); Tue, 13 Sep 2005 10:51:12 +0800
+Message-ID: <326480081.20005@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 13 Sep 2005 10:51:11 +0800
+Message-ID: <326480080.19987@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Tue, 13 Sep 2005 10:51:11 +0800
+From: ou@mail.tsinghua.edu.cn
+To: xing@ccert.edu.cn
+Date: Tue, 13 Sep 2005 10:51:11 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1ty2/qOoOaGjMTOjqb2y1/mjurjfzai5q8u+19yywyAo16rU2Ck=?=
+Content-Type: text/plain
+
+公共管理学院学术报告会：
+世界通信产业的未来
+主讲人：保罗・雅各布博士（美国高通公司首席执行官）
+保罗o雅各布先生（Dr. Paul E. Jacob）现任高通公司首席执行官和公司董事会成员，1989年获得加州大学伯克利分校电子工程学博士学位。高通公司是CDMA数字无线技术的领先厂商，连续三年进入全球财富500强，被华尔街日报列为第55大上市公司。
+在高通公司，雅各布博士一直致力于支持无线数据的发展，被公认为是多个技术团队的具有创新意识的领导人，而且他在无线技术方面所获得的发明专利已经超过25项。无线数据服务业务使得蜂窝式移动电话不仅成为语音通讯的工具，而且成了娱乐、计算以及获取信息的个人设备。在世界市场的锤炼中，雅各布博士获得了丰富的运营经验，推出了众多的CDMA系统，并与全球顶级运营商和制造商的高层管理人员建立了友好关系。此次演讲保罗o雅各布博士将全面地评价和展望世界通信产业。 
+时间：2005年9月13日（星期二）19：00
+地点：清华大学公共管理学院一楼报告厅
+         （经管学院和法学院之间）
+ 
+清华大学国情研究中心

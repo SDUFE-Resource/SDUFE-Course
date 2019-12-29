@@ -1,0 +1,29 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q8Ih5e007338
+	for <huang@ccert.edu.cn>; Tue, 27 Sep 2005 21:27:38 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q8M1b01723;
+	Tue, 27 Sep 2005 21:30:56 +0800
+Message-Id: <200509260822.j8Q8M1b01723@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 13:30:56 UT
+To: huang@ccert.edu.cn
+From: cai@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgtrzKx2xpbnV4uqa1xLCho7q52NPazfXb8yAo16rU2Ck=?=
+
+【 以下文字转载自 LinuxApp 讨论区 】
+发信人: okla (IP~IC~IQ卡，统统告诉我密码), 信区: LinuxApp
+标  题: Re: 都是linux害的啊：关于王垠
+linux害了多少人啊
+整天折腾这，折腾那
+好多人都不懂
+所以自以为会很多东西，其实什么都不会
+浪费了多少做科研学知识的时间，而且还养成了浮躁偏激的性格
+我现在一直认为玩linux和玩电子游戏没有本质上的差别
+     其中一段
+     2004年左右发表《完全用linux工作》和《写给支持和反对&lt;完全用Linux工作&gt;的人们》的文章，在中国的linux阵营引起极大轰动效应，成为水木清华linuxapp版和中国多个linux社区的偶像级人物。
+     http://news.163.com/special/w/000113A4/wangyin050926.html

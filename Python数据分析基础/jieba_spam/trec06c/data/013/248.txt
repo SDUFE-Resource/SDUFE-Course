@@ -1,0 +1,48 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <ning@ccert.edu.cn>; Fri, 19 Aug 2005 21:38:51 +0800 (CST)
+Received: (qmail 23946 invoked from network); Fri, 19 Aug 2005 13:49:05 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 19 Aug 2005 13:49:05 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "ding" <ding@jdl.ac.cn>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob6zz8a4ob/I7bz+vLzK9cjL1LEgMiDD+w==?=
+Date: Fri, 19 Aug 2005 21:53:13 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+诚聘软件技术人员 2 名
+招聘职位：数据库管理和开发人员 1 人
+职位性质：全职
+职位描述：从事与证券市场、财务管理相关的数据库管理及其软件的设计、开发和
+维护；负责（上门）为用户提供数据库的安装和调试等服务，不是经常需要出差，
+且出差范围不会超出北京市。
+要求：
+1、精通 SQL Server 和 Access 数据库的管理和程序开发；
+2、熟悉 .NET 编程技术，ADO.NET 数据库开发技术，以及 VB.NET 编程语言；
+3、有项目建设以及 2 年以上的软件开发经验；
+4、作风严谨、细致、敬业、富有团队合作精神；
+5、有 Microsoft Office 编程经验，熟悉 Office 编程模型的优先；
+6、熟悉网络知识和系统管理的人员优先。
+招聘职位：软件开发工程师 1 人
+职位性质：全职
+职位描述：从事与证券市场、财务管理相关的分析软件的设计、开发和维护；负责
+（上门）为用户提供软件的安装和调试等相关服务，不是经常需要出差，且出差范
+围不会超出北京市；负责相关的技术支持。
+要求：
+1、熟悉 .NET 编程技术，精通 VB.NET 编程语言及相关概念；
+2、熟悉软件设计与实现的基本流程，有项目建设和 2 年以上的软件开发经验；
+3、熟悉软件图形用户界面的设计与实现方法，有相关经验；
+4、作风严谨、细致、敬业、富有团队合作精神；
+5、有 Microsoft Office 编程经验，熟悉 Office 编程模型的优先；
+6、熟悉 SQL Server 等数据库，熟悉 ADO.NET 熟悉开发技术的优先；
+7、熟悉网络知识和系统管理的人员优先。
+应聘者请将中文简历投至：infostar@infostar.org.cn
+其它事宜可以站内信箱联系，谢谢！

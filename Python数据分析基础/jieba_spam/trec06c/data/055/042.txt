@@ -1,0 +1,23 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <hou@ccert.edu.cn>; Mon, 29 Aug 2005 12:25:40 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 12:36:13 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Mon, 29 Aug 2005 12:36:13 +0800
+From: "hong" <hong@ctbu.edu.cn>
+To: hou@ccert.edu.cn
+Date: Mon, 29 Aug 2005 12:36:13 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "hong" <hong@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgob7V0Ma4ob/Qo8TayrXR6crSvLHQ6MTax9rD2Mrpo6E=?=
+Content-Type: text/plain
+
+清华大学汽车工程系交通安全与事故再现研究室招聘工作人员一名。
+招聘条件：具有大专及以上学历，35岁以下，身体健康；具有较强的责任心；熟练掌握计算机文字处理功能、软硬件安装维护及基本网络应用。
+工作职责：负责处理研究室内日常事务、计算机局域网维护；
+工作时间：每天（周六、周日除外）8：30~12：00，14：00～18：00
+待遇面谈
+联系方式：鲁老师/袁老师（62772721）tarl@mail.tsinghua.edu.cn
+截止日期：2005年8月27日

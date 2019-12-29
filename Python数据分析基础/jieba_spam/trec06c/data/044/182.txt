@@ -1,0 +1,24 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <ning@ccert.edu.cn>; Fri, 26 Aug 2005 16:13:59 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Fri, 26 Aug 2005 08:03:34 -0000
+From: "tang" <tang@mails.tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 16:27:16 +0800
+
+这个 ...... 你说的可能是90年代中期的华为。
+今天的华为早就不是以前那个样子了，现在里面也有不少职位，干的活就和外企
+在中国的研发一样无聊，对人也没什么提高，更别说什么核心设备研发了。
+我认识的很久以前离开华为的老员工，确实很厉害，不过近两年进去的嘛，感觉
+也就那么回事，有牛人有烂人，和国内其他通信公司没多大区别。
+       在华为干过研发，至少会知道什么是真正意义上的核心设备研发。
+       今天面了一个人，发现虽然是干开发的，但是由于多年低强度、
+       低含金量的技术工作，很难达到核心设备研发工程师的要求。

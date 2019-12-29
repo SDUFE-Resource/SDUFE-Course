@@ -1,0 +1,39 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <tang@ccert.edu.cn>; Fri, 19 Aug 2005 19:46:19 +0800 (CST)
+Received: (qmail 23946 invoked from network); Fri, 19 Aug 2005 11:56:33 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 19 Aug 2005 11:56:33 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "chi" <chi@jdl.ac.cn>
+To: tang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INTozMPBq8Xuzbe99NXFtcTKwqOsztLT0NK7uPaw7LeoICjXqtTYKQ==?=
+Date: Fri, 19 Aug 2005 20:00:41 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+让我想起银行拿票的，澡塘前面一些大凳子
+然后广播喊：请2365号同学到3号房间洗澡
+     标  题: 澡堂莲蓬头紧张的事，我有一个办法
+     
+     【 以下文字转载自 THUExpress 讨论区 】
+     发信人: IfThenElse (:,), 信区: THUExpress
+     标  题: 澡堂莲蓬头紧张的事，我有一个办法
+     
+     其实很简单，投资也不大：
+     在每个澡堂的门口设进出两个通道，用红外或者IC卡计数，
+     进去加１、出去减１，大家在网上的myhome可以实时查询澡堂内的人数。
+     这样能起到几个澡堂分流的作用，也能使不着急洗澡的同学缓一两天再洗。
+     
+     如果不是用红外，而是象图书馆那样用IC卡，还能同时起到限制外来人员洗澡的作用。
+     
+     
+     --
+     
+     ※ 修改:・IfThenElse 于 Mar  6 20:53:32 修改本文・[FROM: 219.224.120.*]

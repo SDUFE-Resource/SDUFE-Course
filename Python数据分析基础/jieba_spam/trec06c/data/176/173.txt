@@ -1,0 +1,25 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 05:40:46 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 05:03:04 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "che" <che@cert.org.cn>
+To: cen@ccert.edu.cn
+CC: "huang@ccert.edu.cn" <gu@ccert.edu.cn>,
+   "tian@ccert.edu.cn" <hong@ccert.edu.cn>,
+   "gong@ccert.edu.cn" <zhan@ccert.edu.cn>, "wang@ccert.edu.cn" <lu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgur3M7DEx1LrV0MrVw+LK1M3GvPbJ+tDFz6KjqLq9zOzRp9S60afJ+sfrwfTS4qOp?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 05:48:31 +0800
+
+中国航天科技集团公司第十一研究院(原701所），是以空气动力学为主体的大型综合性应用技术研究院。创建于1956年，是我国第一个空气动力研究、实验基地，拥有技术先进、配套齐全的亚、跨、超声速风洞和电弧加热风洞等实验设备。现有职工近千人，其中中国科学院院士1名，博士生导师9名，国家级和部级有突出贡献的专家、学术带头人17名。主要承担我国研制的飞船、导弹、火箭等航天飞行器的空气动力和气动防热的研究和实验任务，1978年以来，获部级以上科研成果奖近300项。
+改革开放以来，我院的科技人员在完成航天领域科研任务的基础上，充分利用航天技术的科研成果，向国民经济的各个领域拓展。有以气垫船系列为代表的高速船艇，小型飞机，建筑与环境空气动力学，传感器及测试仪器、阀门、喷油枪等20余种产品。在国际上，我院已与世界许多国家和地区的同行建立了广泛的联系，积极开展技术合作和人才交流工作。
+我院从1983年开始培养研究生，现为流体力学专业硕士点和博士点，并设有力学学科博士后流动站。2003年我院又成立了研究生部，对在读研究生实行集中规范管理。现有在读硕士生19名，博士生13名，博士后科研人员 2名。为提高在学研究生待遇，我院还建立助研费制度、伙食补助制度等。在读硕士研究生助学金标准为每月800元，论文阶段还享受助研费和伙食补助，标准为每月300元。对于学习成绩和学位论文优秀者，还可申请“航天科技集团公司研究生奖学金”和我院“吴镇远奖学金”。
+    十一院位于北京市丰台区云岗，交通十分方便，有良好的科研生产条件和优美的生活环境。热忱欢迎全国各高等院校应届本科毕业生、推荐免试生及具有本科学历的在职人员报考我院攻读硕士学位研究生。
+联系电话：010－68374679
+Email：caaahr@126.com

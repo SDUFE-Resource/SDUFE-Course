@@ -1,0 +1,38 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <wen@ccert.edu.cn>; Wed, 28 Sep 2005 00:36:27 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Wed, 28 Sep 2005 00:39:42 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 16:39:40 UT
+To: wen@ccert.edu.cn
+From: guan@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgU09IVbPPxrjTzs+3yO28/r+qt6K5pLPMyqY=?=
+
+ 搜狐公司（NASDAQ:SOHU）是中国最领先的新媒体、电子商务、通信及移动增值服务公司，是中文世界最强劲的互联网品牌。
+    搜狐游戏，依托一流的互联网平台，致力于开发中国最好的游戏，充满活力，
+卓具创意，以敏锐的视角、新颖的理念，引领数字娱乐的最前沿。
+     在网络游戏逐渐成为中国年轻一代主流休闲娱乐方式的今天，搜狐游戏将全力推献更多精良之作，丰富年轻群体的娱乐生活，引导国内网游市场的健康发展，为树立中文世界最强劲的网络游戏品牌打下深厚基础。
+              
+     一个舞台，一片天…… 
+招聘职位：软件工程师
+工作地点：北京
+职位描述：
+    
+　　1 网络游戏程序设计
+    
+招聘人数：3
+学    历：大学以上学历
+薪水范围：面议
+具备条件： 
+    精通C++、VC++
+    熟悉网络应用程序开发
+    有网络游戏开发经验者优先
+有意者请EMAIL至badownzhang@sohu-inc.com
+games.sohu.com期待你的加盟

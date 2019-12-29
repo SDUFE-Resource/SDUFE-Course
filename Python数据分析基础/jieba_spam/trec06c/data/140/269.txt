@@ -1,0 +1,48 @@
+Received: from mailsvr.icst.pku.edu.cn ([162.105.163.117])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F4nrgY000524
+	for <wen@ccert.edu.cn>; Fri, 16 Sep 2005 13:13:43 +0800 (CST)
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5B9B2.8ECC9B35"
+Subject: =?gb2312?B?ofEgzqLI7dXQxrjIq9a1yrXPsMn6?=
+X-MimeOLE: Produced By Microsoft Exchange V6.5.7226.0
+Date: Fri, 16 Sep 2005 13:25:29 +0800
+Message-ID: <3BF3883AB800694AA3296642EE8781602E83C1@icstmail.icstdom.icst.pku.edu.cn>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: =?gb2312?B?udjT2kNDRVJU1dDGuMfpv/ajrLG+v8bJ+rGj0dDH6b/2tcg=?=
+thread-index: AcW5so5MmpWRfBlsT0KLn2ZYXxwJZA==
+From: =?gb2312?B?emh1Z2VqaWFud2VpKNbuuPC9qM6wKQ==?= <wei@icst.pku.edu.cn>
+To: wen@ccert.edu.cn
+
+题：微软亚洲研究院(MSRA)
+平台元件中心组（PDC
+）招全职实习生(VS)
+微软亚洲研究院(MSRA)平台元件中心组（PDC
+）招全职实习生(Visiting
+Student)，要求如下
+:
+1.
+熟悉模拟电路、数字电路设计调试
+2.
+熟悉PCB设计，会使用Protel,
+DxDesigner, Expedition PCB等
+EDA软件。
+3.
+熟练使用C, 汇编在常用单片机上编程
+4.
+熟悉HDL(Verilog或VHDL)
+代码设计和验证
+5.
+熟悉电磁场理论，有RFID
+项目经验者优先考虑
+6.
+熟悉嵌入式系统，具有较强的软件编程能力者优先考虑
+7.
+能够征得导师同意在微软亚洲研究院全职实习
+有意者请发简历到zlxia@microsoft.com。谢谢！
+Best Regards,
+Zenglin
+ Xia
+替友发文，不要回本人信箱

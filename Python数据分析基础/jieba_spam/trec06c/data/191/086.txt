@@ -1,0 +1,66 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <xu@ccert.edu.cn>; Tue, 27 Sep 2005 08:06:11 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Tue, 27 Sep 2005 00:29:05 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Tue, 27 Sep 2005 00:29:05 -0000
+Date: Tue, 27 Sep 2005 08:23:40 +0800
+From: "tan" <tan@csnet1.cs.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhdsbG+qe+szNq159fTv8a8vNPQz965q8u+LUVEQSBTb2Z0d2FyZSBFbmdpbmVlciAo
+UFJPKQ==?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+“校园招聘大全”(http://www.jobmm.com)独家提供 
+-------------------------------------------------------------------------------- 
+=== 招聘信息 ===
+ 
+ 公司名称:北京铿腾电子科技有限公司 
+ 招聘职位:EDA Software Engineer (PRO)[急聘]  
+ 截至日期:2005-10-21  
+ 最低学历:硕士  
+ 招聘人数:人 
+ 工作地点: 北京 
+ 简历投递处: http://www.jobmm.com/cadence/Kuntai_job.asp 
+ 
+岗位描述: 
+Job Responsibilities: 
+1.Maintain device modeling tools；
+2.Responsible for new feature design and development；
+3.Maintain macro modeling and RF modeling flow in modeling tool - BSIMPROPLUS；
+ 
+相关要求: 
+Job Requirements:
+1.MS or above in Microelectronics, Electronic Engineering, Computer Science, 
+  or related majors；
+2.Solid knowledge in semiconductor device physics and device modeling；
+3.At least 2 years experience in C++ programming. Be familiar with VC++ 6.0
+  environment and COM. The experience in large scale software development is
+  strongly preferred；
+4.The knowledge of flow and algorithm of small-scale circuit simulator is 
+  highly desired；
+5.Strong numerical skill is a big plus；
+6.Team player； 
+   
+--------------------------------------------------------------------------------
+=== 公司详细资料 ===
+ 
+ 公司名称:北京铿腾电子科技有限公司 
+ 企业性质:三资企业  
+ 成立日期:2001-12-18 
+ 注册资金:4800万人民币 
+ 公司网站:http://www.cadence.com.cn 
+ 
+公司简介: 
+ 
+    Cadence Design Systems Inc.是全球最大的电子设计技术(Electronic Design 
+Technologies)、程序方案服务和设计服务供货商。其解决方案旨在提升和监控半导
+体、计算机系统、网络工程和电信设备、消费电子产品以及其它各类型电子产品的设
+计。其总部位于美国加州圣何塞（San Jose），在全球各地设有销售办事处、设计及
+研发中心，现拥有员工约4800名，2003年收入约11亿美元。

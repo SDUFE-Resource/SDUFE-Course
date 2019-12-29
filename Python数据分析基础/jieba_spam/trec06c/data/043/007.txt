@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <ning@ccert.edu.cn>; Fri, 26 Aug 2005 09:30:04 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 09:48:24 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 09:48:24 +0800
+Date: Fri, 26 Aug 2005 09:48:24 +0800
+From: fan@cernet.com
+Subject: =?gb2312?B?UmU6ILXn07ChttTazKvQ0Mm9yc+ht7XEvLi49s7KzOI=?=
+To: ning@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+这个字怎么念？？
+     1、八路军军帽上的军徽应该是两颗纽扣上有12角星，刻意的抹去是不尊重历史。我曾经在互联网上看到过一张八路军某高级将领（记的有点不清了，大体应该是林彪）的一张标准军装照，照片上的12角星帽徽及其显眼。本来想找到发上来的，但搜索了好久没有找到，sorry！
+     2、朱总司令对八路军战士演讲，念到公元1937年的时候，我暗自好笑编剧的弱智；
+     3、独臂将军贺炳炎是断了右臂，影片最初拍摄的时候把梁家辉搞成断了左臂（估计是想当然的认为右撇子演员挥刀砍杀，还是右手顺手）。后在贺将军后人的抗议下，通过现代技术（数码反转、图像计算机处理等）回复为贺将军左手砍杀，总算亡羊补牢成功。不过仍然鄙视此片的编

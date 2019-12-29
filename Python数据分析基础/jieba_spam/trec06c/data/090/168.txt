@@ -1,0 +1,66 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83CBlYV005279
+	for <xia@ccert.edu.cn>; Mon, 5 Sep 2005 23:59:26 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83COHdV019350
+	for <xia@ccert.edu.cn>; Tue, 6 Sep 2005 00:11:56 +0800 (CST)
+Message-Id: <200509031224.j83COHdV019350@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 15:59:27 -0000
+From: "gong" <gong@mail.tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+Cc: <ni@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsbG+qcrQv8bOr8jtv8bRp9fK1vqyqcq/yfrRp867wtvOxNHQvr+1xM2o1qogKNeq1Ngp?=
+Date: Tue, 6 Sep 2005 00:11:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5B0C5.716D46C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWwgmMrCakV2o5FTJGgH6GL8DeD6Q==
+
+【 以下文字转载自 CampusInfo 讨论区 】
+发信人: seric (伤逝), 信区: CampusInfo
+标  题: 北京市科委软科学资助博士生学位论文研究的通知
+分类：研究生院  
+ 
+--------------------------------------------------------------------------------
+关于北京市科委软科学资助博士生学位论文研究的通知 
+北京市科委围绕科技与经济社会发展方面开展软科学研究。为培养软科学研究人才，调动年轻学者参与研究首都科技经济和社会发展问题的积极性，2005年将在组织研究单位承担研究任务的同时，对在京院校和研究机构中攻读博士学位的博士生给予研究资助。 
+　　一、 资助对象： 
+　　北京地区高校和研究机构在校博士生，有研究工作经历者优先考虑。 
+　　二、 资助研究领域： 
+　　1、首都科技促进经济、社会发展领域中的相关问题 
+　　2、首都科技产业发展规律、科技政策相关研究 
+　　3、未来首都科技发展趋势相关问题研究 
+　　4、其他与首都发展相关的问题研究 
+　　5、软科学研究的前沿领域 
+　　三、 博士生资助研究遵循的管理办法： 
+　　1、《北京市科技计划项目（课题）管理办法》 
+　　2、《北京市科技计划项目（课题）经费管理办法》 
+　　3、《北京市科委软科学研究项目管理办法》 
+（请登录北京市科委网站“软科学”栏目查阅。网址：www.bjkw.gov.cn）
+四、 程序 
+　　1、申报者向北京市科委软科学处委托的管理机构北京技术交易促进中心提交申报表（见附件一）； 联系方式：
+单 位: 北京技术交易促进中心 
+　　 　地 址：海淀区苏州街丙78号　　邮 编:100080 
+　　 　联系人: 郑青 　　 　电 话: 62577242－833 
+　　　 E-mail: zhengq777@vip.sina.com 
+2、申请受理截止时间：2005年9月20日
+市科委组织专家对提请申报的研究领域和研究者情况进行初评和复评；并在北京市科委网站上公布最终被资助者名单。 
+　　3、被资助者进行正式表格的填写，需书面填写《北京市科委软科学研究博士生学位论文资助项目推荐表》（见附件二），并附上已通过审核的博士学位论文开题报告复印件。 
+　　4、被资助者开展研究，在此期间市科委软科学处将组织专家进行研究的过程管理，论文完成后，提交3份博士论文、论文摘要及电子版；市科委结束研究资助和管理，并将研究成果择优推荐有关部门。
+联系方式：
+单 位：北京市科委软科学处 
+地 址：北京西直门南大街16号　　邮 编：100035 
+联系人：马斌 电 话：66153432 
+E-mail: mab@mail.bsti.ac.cn 　
+五、请申请者将申报材料及电子版抄送清华大学文科建设处备案。（联系方式：62782629聂培琴，　62773090武海燕，wkc@mail.tsinghua.edu.cn）。
+六、 资助范围 
+　　经费将由技术交易中心统一管理，被资助者在中心实行报销和相关费用的开支，经费结余部分将以适当的形式返给被资助者， 资助强度：1.5-3万元/人， 资助人数：10人左右。 
+附件一：北京市科委软科学研究博士生学位论文资助项目申报表.doc
+附件二：北京市科委软科学研究博士生学位论文资助项目推荐表.doc
+附件一、二也可以直接从www.bjkw.gov.cn上下载。
+清华大学研究生院　　清华大学文科建设处
+2005年9月2日
+ 

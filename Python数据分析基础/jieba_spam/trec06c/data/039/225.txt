@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <fu@ccert.edu.cn>; Thu, 25 Aug 2005 19:50:15 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 20:08:38 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 20:08:38 +0800
+Date: Thu, 25 Aug 2005 20:08:38 +0800
+From: fan@cernet.com
+Subject: =?gb2312?B?UmU6ILjVuNXBrNK5v7TN6sHLysC957Tz1b0=?=
+To: fu@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+30年代的科幻小说你还能指望它情节能怎么样...
+     刚刚连夜看完了世界大战，感觉还是不错的嘛，挺好看的，hoho，场面制作也还不错。
+     那些外星人怎么进化了那么多年就长这样啊，而且还用那么落后的器械，几个手榴弹就打坏了，还搞了那么难看的笼子来装人，哈哈，美国人也很奇怪，居然派出那么落后的武器去打外星人，看来是藏富阿！
+     令我不解的是他们那人类的血作肥料想种什么东西啊？？而且干吗非要等那么多年要用人类的血呢，奇怪！不过还是有点哲理意义的，看来难以战胜的事物居然毁在不起眼的小东东上。

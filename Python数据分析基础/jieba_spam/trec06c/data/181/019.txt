@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <chi@ccert.edu.cn>; Sun, 25 Sep 2005 00:54:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <chi@ccert.edu.cn>; Sun, 25 Sep 2005 01:06:04 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 16:43:01 -0000
+From: "gao" <gao@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <ye@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbUzfXNrNGntcTF+sbAus29qNLp?=
+Date: Sun, 25 Sep 2005 01:05:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+没觉得你批评得对，也没觉得人家哪是骄傲自大看不起人了。如实陈述自己的经历和感悟的来源就成了夜郎？真话和事实都该被封锁？他批评的只不过是这种学术氛围和氛围下人们行事的方式，这也错了吗？
+还有，就人权来说，虽然那个副导替学生去了希腊或许是惯例，仍然是不合理的。就因为以后还有机会去人就不能有意见了？好笑！
+     草草看了他的文章，本来潜水得我也不由想说几句。
+     我想王同学的核心问题，是把自己看得太高了，也许你真得
+     有这么高明，并且通过这么多年的一些小项目，你也的确取

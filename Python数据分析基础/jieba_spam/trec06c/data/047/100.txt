@@ -1,0 +1,33 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <zhang@ccert.edu.cn>; Sat, 27 Aug 2005 08:31:04 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 08:49:24 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 08:49:24 +0800
+Date: Sat, 27 Aug 2005 08:49:24 +0800
+From: bai@cernet.com
+Subject: =?gb2312?B?ofEgbWF4aXQoQmop1dDGuM3BxL65pLPM16jStby8yvW5pLPMyqYxw/s=?=
+To: zhang@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+技术工程师
+工作描述：
+1．市场、销售部门的技术支持。
+2．为客户做产品和技术的演示和培训。
+3. 产品实际应用中的技术指导。 
+4．为公司新员工做产品和技术的培训。
+任职资格：
+1．本科学历，土木工程专业背景。
+2．三年以上相关岗位工作经验，熟悉外墙外保温体系的优先考虑。
+3．有一定的英语听说读写能力。
+4．熟练操作计算机。
+有意请发送中英文简历至hr@maxit.cn
+公司详情请浏览www.maxit.cn

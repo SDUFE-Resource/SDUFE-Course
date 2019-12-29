@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <hou@ccert.edu.cn>; Thu, 25 Aug 2005 01:07:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <hou@ccert.edu.cn>; Thu, 25 Aug 2005 01:20:37 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 17:15:10 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "qing" <qing@mail.tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILuqzqq807DgzsS7r83qyKuyu7bUUmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+Date: Thu, 25 Aug 2005 01:17:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+这一点你误解了
+我回家也经过那儿
+在华为，20：30以后走，可以领水果、坐班车，
+多数人那时走未必是在加班，那个点都很累了，谁还干得动啊？
+当然华为晚上有时会有培训，一直到20：30或21：00
+晚上22：00还是23：00回去，可以打的，也会有人在那时回去
+但如果没有紧急任务，做研发的很少会经常呆到22：00/23：00，只是为数不多的几个人
+做测试的一拨人经常会这个时候回去
+有时走的时候，灯未必会关，给路人的感觉是灯火通明，其实里面已经没人了
+23：00以后，会有专门值班的人巡楼关灯
+每次22:00多从华为北研所经过
+老看见好多层工作室灯都亮着
+且不论别的，就这种乱加班的企业文化那就是错误的
+我自己是自己的boss
+尚且加班到21:00点就走了
+怎么可以叫没有股份的员工这么加班呢？

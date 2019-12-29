@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <kong@ccert.edu.cn>; Sun, 18 Sep 2005 04:18:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <kong@ccert.edu.cn>; Sun, 18 Sep 2005 04:29:56 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 20:10:38 -0000
+From: "jian" <jian@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: <liu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi0fm1xLGjz8i40L71sci9z6GjoaOhow==?=
+Date: Sun, 18 Sep 2005 04:29:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+    我觉得大环境是有影响的，很多政治教育的形式太生硬太僵化了，没有活力，给人的感觉就是政治教育就是僵化的，自然而然就没有兴趣了。另外，很多党员入党的时候没有想清楚，感觉上党员就是要做好人，做好人就能入党了，在政治修养和政治觉悟上都不够，所以对政治学习没有积极性也是可以理解的。
+    至于理论的号召力，我觉得对学生党员的理论宣传没有达到一定的水准。理论也是分层次的，大学生尤其是研究生属于思想开放知识面广而且有相当强的独立思考能力以及一定领域的高专业水平的人，仅仅用通俗的普及知识或者死记硬背式的教条知识来进行政治学习，我觉得效果不会太明显。就好像大家都能背中学政治、历史课本上的一些东西，有几个人能真的明白说什么呢？对付考试肯定没有问题，但是真说是理论学习提高了思想认识，估计也没有几个人能相信。
+    对学生党员的教育，才真要有相当强的干部才能完成，不仅有理论水平，也了解学生实际，还要有相当的各方面知识储备，还要了解中国各个方面的事情，还要能以身作则，因为这些都可能会用来和学生进行讨论交流。这样的干部实在太难得。
+     其实应该反思为什么这么初衷很好的教育活动会成为很多人（绝不是少数人）的一种负担 为什么这么多人是被动的接受教育 而不是主动积极 是理论的号召力有问题呢 还是社会大环境和人的思想的问题

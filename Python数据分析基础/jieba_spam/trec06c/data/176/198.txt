@@ -1,0 +1,24 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 06:03:12 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 05:25:30 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "ling" <ling@cert.org.cn>
+To: you@ccert.edu.cn
+CC: "ou@ccert.edu.cn" <zhu@ccert.edu.cn>,
+   "ling@ccert.edu.cn" <jin@ccert.edu.cn>,
+   "li@ccert.edu.cn" <cao@ccert.edu.cn>, "gong@ccert.edu.cn" <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILj4x+W7qtK70KnL+c690afV373Mytq1xL6vyr6joQ==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 06:10:57 +0800
+
+     李敖来大陆，轰轰烈烈，热热闹闹，国内有些人也坐不住了，总有人要跳出来显摆显摆，不过，没显好倒是现了眼。大家看看下面的材料，真为清华汗颜啊！
+     资料一【清华大学学者评李敖演讲：李敖老矣 尚能骂否？】
+     http://news.anhuinews.com/system/2005/09/23/001359039.shtml
+    我不知王君超何许人也？亦不知他在什么样的心态下作出这番评论。但我以为这种言论都拿得出手的人确实有很大的勇气――比李敖在北大讲堂上慷慨陈词勇气要大得多！
+    只知道在事后摆着个教授的臭架子评评点点，只敢探头张望察无风险时唧唧歪歪。既然这么有水准，为什么不指导一下本校的学生如何提问呢？

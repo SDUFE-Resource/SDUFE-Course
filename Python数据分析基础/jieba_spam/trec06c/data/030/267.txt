@@ -1,0 +1,32 @@
+Received: from aryasec.com ([218.1.92.40])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J5nswI015469
+	for <huang@ccert.edu.cn>; Tue, 23 Aug 2005 18:18:25 +0800 (CST)
+Message-ID: <200508191349.j7J5nswI015469@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?sLLR1NfJ0a8=?= <lu@aryasec.com>
+Subject: =?gb2312?B?UmU6IE9FTdXi1tayv8PF1vfSqsrHuMnKssO0uaTX96O/?=
+To: huang@ccert.edu.cn
+Content-Type: multipart/mixed;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";charset="GB2312"
+MIME-Version: 1.0
+Reply-To: lu@aryasec.com
+Date: Tue, 23 Aug 2005 18:35:05 +0800
+X-Priority: 2
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+看来你还没有理解，说一个比较通俗的：
+比如你是IBM oem部门的，他们要生产大量笔记本，那么需要大量电源适配器，
+但是他们一般不自己生产，就让oem部门去大量采购或者联系厂商让他们提供给ibm。
+     标  题: Re: OEM这种部门主要是干什么工作？
+     
+     大宗采购？怎么个采购法？
+     就是厂商用到大公司的产品，大量购买？
+     
+     : 也不一定提供方案，说不定就是大宗的采购
+     
+     
+     --
+     Never give up!
+     Never give in!
+     Never say never!
+     
+     

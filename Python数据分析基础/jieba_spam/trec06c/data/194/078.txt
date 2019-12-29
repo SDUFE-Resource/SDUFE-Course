@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <peng@ccert.edu.cn>; Tue, 27 Sep 2005 21:09:34 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 12:55:50 -0000
+Date: Tue, 27 Sep 2005 21:21:34 +0800
+From: "tao" <tao@mail.tsinghua.edu.cn>
+To: peng@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+想必仁兄也是sa的。我那会做快设，没有背方案，结果临阵手忙脚乱，当时觉得特别不公平，老师怎么那么笨啊，非往背方案同学的枪口上撞。但这能怪谁呢，因为我快设头一天晚上还躺在宿舍床上看卫慧的流氓小说，哈哈。
+考完当天去照兰院的小吃街吃肉加馍和刨冰，幸好当时有我们班的2个ppmm和我一起，呵呵。晚上回去在水房里冲冷水澡，靠，爽，记忆犹新。
+     这人怎么那么像我
+     我也失败了，可是想哭却没有泪

@@ -1,0 +1,33 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <ni@ccert.edu.cn>; Sat, 20 Aug 2005 20:32:42 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <ni@ccert.edu.cn>; Sat, 20 Aug 2005 20:45:44 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 21:09:12 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: liu@126.com
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SyfrI1aOsxNDF89PRvs274cfrs9S3uSDV5s7ewcSjoaOho6E=?=
+Date: Sat, 20 Aug 2005 20:40:26 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+知足吧
+我过生日的时候,我的那位说是已经和别人约好,去隔壁城市吃饭叙旧,不能陪我.
+说实话,我觉得他挺蠢的,把我当傻子.
+我知道他是一直记得我的生日是哪一天,竟然还跟我说和别人约好什么的,分明是没把我放在眼里. 还说要送我礼物,我都找借口说他没钱就别送了.其实心里想的是,连我的生日都不放在眼里,竟然还想随便买个礼物打发我?
+     刚认识的时候
+     农历7。14生日 阳历7。14为了见我送我礼物是一大束玫瑰场
+     当时心里开心  但是挺俗的

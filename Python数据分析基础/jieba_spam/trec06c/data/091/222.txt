@@ -1,0 +1,28 @@
+Received: from ict.ac.cn (webmail.ict.ac.cn [159.226.39.7])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j857bP4P016205
+	for <yu@ccert.edu.cn>; Tue, 6 Sep 2005 07:25:56 +0800 (CST)
+Received: (qmail 13088 invoked by uid 507); Mon, 5 Sep 2005 23:06:59 -0000
+Received: from unknown (HELO Computer) (liwei@159.226.40.3)
+  by ict.ac.cn with SMTP; Mon, 5 Sep 2005 23:06:59 -0000
+From: "wen" <wen@ict.ac.cn>
+To: yu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INeq1NijrdS6yr/WxrbIo7rW0Ln60afK9b3n0+u5pLPMvee1xMnxzLMgKNeq1Ngp?=
+Date: Tue, 6 Sep 2005 07:37:58 +0800
+Message-ID: <000001c5b1ee$60e52550$0302000a@Computer>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+In-Reply-To: <010301c5af72$bae79980$26cb6fa6@liuwu>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+
+虽然有一定的道理，但还是片面了。。
+中国整个的科研和教育体制就有很大问题，院士制度是大环境下的产物，如果不分等级，不设院士，很多事情根本就没办法展开，院士荣誉和权威的背后，也承担了很多责任的。。
+是利是弊，这与国外的情况恐怕也不好对比吧。。
+     【 以下文字转载自 Postdoc 讨论区 】
+     发信人: zhuimeng (I have a dream), 信区: Postdoc
+     标  题: 转载－院士制度：中国学术界与工程界的神坛

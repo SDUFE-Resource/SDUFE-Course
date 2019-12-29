@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <hua@ccert.edu.cn>; Sun, 21 Aug 2005 22:28:01 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <hua@ccert.edu.cn>; Sun, 21 Aug 2005 22:41:15 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 22:09:56 +0800
+Date: Sun, 21 Aug 2005 22:41:06 +0800
+From: "jian" <jian@wnt.com.cn>
+To: hua@ccert.edu.cn
+Cc: "lic" <hou@ccert.edu.cn>, "sunt" <liao@ccert.edu.cn>, "caoy" <li@ccert.edu.cn>,
+        "wangb" <jin@ccert.edu.cn>, "songhm" <wen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgbW3X7r38srvU9cO0ttTO0sjI0MTVprDs?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+    mm最近不知道怎么回事，很少给我打电话，短信，都是我给她打/发，mm放假在家，家在北京近郊（她爸妈大概还不知道她有男朋友：我），相隔有点远，而我上着班，所以很少见面，一个月都没见了，周末了我说要去找她，mm总是很害怕我去的样子，说天太热让我多注意休息，不让我去，我很喜欢她，初中时还坐过同桌，那时候和她一块经常因为学习啊什么的打打闹闹的，很有感情的，一块回忆起来很甜蜜，现在却不知怎么跟她开口问她到底在干吗。
+    前两天打电话跟她说因为老见不着她，单位里人还以为我没女友，常有同事给我张罗着介绍女朋友，mm说那你去跟她们见见阿。我不会介意的，我不知说啥了。然后她说还是对我有信心的，呵呵我无语。mm是射手座，偶是处女座，虽然我不相信星座，但是在别人影响下看了介绍说这两个星座成的很少，心理有点疙疙瘩瘩的。mm是ppmm（在我眼里永远最pp），我虽然因喝酒和忙碌工作等等原因，脸上偶有冒痘，但还是比较帅的。至于上进心、名校学历、钱、幽默感啥的也不缺。对于感情也很专一，为了能和她在一起，我违反了父母的意愿放弃过外地一个待遇很优厚的工作，人在职场难免若干次面对诱惑，而每次都不为所动，只为mm。可是现在我觉得我们这么下去会有点危险，大家给点建议。兄弟在此谢过！
+    

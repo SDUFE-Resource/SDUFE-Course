@@ -1,0 +1,27 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdWEc032356
+	for <zheng@ccert.edu.cn>; Tue, 27 Sep 2005 02:09:17 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 02:24:59 +0800
+Message-ID: <327652915.11497@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Tue, 27 Sep 2005 02:24:59 +0800
+Message-ID: <000201c5c1cf$bb5d1d80$0301a8c0@CCERTDAWEI>
+Reply-To: "tian" <tian@ccert.edu.cn>
+From: "tian" <tian@tsinghua.org.cn>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Mon, 26 Sep 2005 23:25:00 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+还有，去市场上找找工作，或者工作两年后，这哥们儿就不会这么想了
+可能还会这么做，但是不会写出这么多孩子气的话
+     如果你到美国来，你会非常失望的。

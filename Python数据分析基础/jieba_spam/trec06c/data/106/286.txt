@@ -1,0 +1,46 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <yi@ccert.edu.cn>; Fri, 9 Sep 2005 15:08:45 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <yi@ccert.edu.cn>; Fri, 9 Sep 2005 00:20:52 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 00:20:52 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 00:20:52 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Fri, 9 Sep 2005 15:20:52 +0800
+From: =?GB2312?B?1/O+pw==?= <hu@gmail.com>
+Reply-To: hu@gmail.com
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INTe0ru49sflu6q1xEdH?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+完了，你要被泡了
+     标  题: 赞一个清华的GG
+     
+     
+     本周一认识了一个清华的GG，很单纯，很善良，比我善良多了。
+     
+     还来帮我修电脑，一副负责到底的样子。尤其是后来没有修好，不过我理应是要让他在家吃晚饭的嘛！（妈妈都做好了）。他超可爱的说：我都没修好，怎么好意思留下吃饭呢。呵呵
+     
+     后来去清华玩，也是挺照顾我的。路过个报摊，都要问我有没有什么需要的，呵呵。
+     
+     不幸被他看到我灌的水，有些说他不好的地方，要是我，早就kick那个说我不好的人了。不过他没有，只是说有点难过和失落。
+     
+     我实在没什么别的好夸的了，饶了我吧！
+     --
+     我是猫猫
+     
+     多么沮丧成人世界并不像童话
+     王子公主很少喜剧收场
+     不是只要够勇敢够善良
+     就会有仙女帮忙实现愿望
+     
+     

@@ -1,0 +1,25 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U2OGpf004571
+	for <tao@ccert.edu.cn>; Wed, 31 Aug 2005 17:28:50 +0800 (CST)
+Received: (qmail 5721 invoked from network); Wed, 31 Aug 2005 09:40:30 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Wed, 31 Aug 2005 09:40:29 -0000
+Message-ID: <001101c5ad0b$dfe7c0c0$e900a8c0@d47db5334f2a479>
+From: "liu" <liu@jdl.ac.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrvcyjrLbBsqlvcrmk1/ejvw==?=
+Date: Wed, 31 Aug 2005 17:42:49 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+提高自己水平的机会还很多，如果不是很喜欢搞科研，就不要上博士
+或者以后工作了目标更明确以后，上个在职的博士，压力也不会那么大
+   我现在是工科的应届硕士生，我想读博提高一下自己的科研能力，但是听说博士出去到学校当老师比较合算，如果当老师肯定大部分时间搞科研，这是我不想期望的。
+   我现在只是想通过读博提高一下自己的专业水平，但是不可能长期搞科研的，所以想问一下各位工科博士毕业后想不长期搞科研，应当去哪？
+   恳请各位指教，谢谢！

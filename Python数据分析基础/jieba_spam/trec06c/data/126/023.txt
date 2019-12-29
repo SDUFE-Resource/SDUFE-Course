@@ -1,0 +1,23 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C5ZHks008458
+	for <mei@ccert.edu.cn>; Tue, 13 Sep 2005 15:14:18 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8C50nS32226
+	for <mei@ccert.edu.cn>; Tue, 13 Sep 2005 14:39:31 +0800
+Message-Id: <200509120500.j8C50nS32226@mail.cert.org.cn>
+From: "fu" <fu@cert.org.cn>
+To: mei@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: CNCERT/CC=CD=F8=C2=E7=B0=B2=C8=AB=D3=A6=BC=B1=BC=BC=CA=F5=B9=AB=BF=AA=BF=CE=CD=A8=D6=AA?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 13 Sep 2005 15:23:50 +0800
+
+教育部将首次举办全国硕士生招生网上宣传咨询活动 
+中国研究生招生信息网   2005年09月06日 10:42 
+　　记者从教育部获悉，为帮助广大考生全面、准确了解2006年全国硕士研究生招生政策、办法和程序等相关问题，教育部有关部门将于9月12日至14日举办“2006年全国硕士研究生招生网上宣传咨询活动”。 
+　　活动期间，教育部有关部门、各省市招办以及全国800多个招生单位和500多个报名点将在线回答考生提出的有关问题。各单位具体咨询时间由其在上述时间段内自行确定。考生如有咨询意向，可登录中国研究生招生信息网http://www.chinayz.com.cn(公网用户)或http://www.chinayz.edu.cn（教育网用户）。 
+　　有关负责人提醒广大考生，为了避免网络堵塞，上网咨询前，请先阅读“考生须知”，查询招生专业目录，浏览各招生单位发布的院校信息，以避免重复咨询。同时，请考生留意各单位设定的咨询时间。 

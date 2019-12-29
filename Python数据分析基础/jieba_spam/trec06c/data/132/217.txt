@@ -1,0 +1,38 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBVolI019299
+	for <zheng@ccert.edu.cn>; Wed, 14 Sep 2005 22:44:12 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8DBSOBg018678
+	for <zheng@ccert.edu.cn>; Wed, 14 Sep 2005 22:41:17 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn ([166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8DBSHbY018673
+	for <zheng@ccert.edu.cn>; Wed, 14 Sep 2005 22:40:44 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 14359 invoked by uid 512); Wed, 14 Sep 2005 14:49:06 -0000
+Message-ID: <20050913113644.14358.qmail@stu.ee.tsinghua.edu.cn>
+From: cao@stu.ee.tsinghua.edu.cn
+To: zheng@ccert.edu.cn
+Date: Wed, 14 Sep 2005 22:49:06 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6IM3GvPa087zS08PW0NDQtcS/qLvjv+6wyQ==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+你要是从其他银行的网上银行划转似乎成本更低吧
+     今天给姐姐汇款，有现金，有存折，有卡。柜台的JJ很好心的告诉我，先把钱都打到卡上，用卡汇的话便宜，10w以下手续费是13.5。10w以上是20。1w以下是一档，我没问。
+     开心死了，我还以为各个银行都是50呢。以前在工行汇过两次都是50，亏了。中行的JJ听我说以后还挺惊讶，说不应该啊。也不知道是不是被工行黑了。
+     浦发的好像汇款没手续费，不过还是觉得中行网点多，方便一点。

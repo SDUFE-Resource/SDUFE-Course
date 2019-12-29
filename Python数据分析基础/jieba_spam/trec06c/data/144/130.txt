@@ -1,0 +1,21 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2Dh1P009817
+	for <xu@ccert.edu.cn>; Sat, 17 Sep 2005 04:14:44 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G2ifhm004555
+	for <xu@ccert.edu.cn>; Sat, 17 Sep 2005 04:45:42 +0800
+Message-Id: <200509160244.j8G2ifhm004555@stmp.nisac.gov.cn>
+Date: Sat, 17 Sep 2005 04:25:50 +0800
+From: "gao" <gao@mail.nisac.gov.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILG7s/XW0Mn6scnK08HLo6zH873MuN/Iyw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+趁没混合前，先量一下
+     初中的一个妹妹问我一道题，结果我居然没有做出来。被妹妹鄙视了一番。自己也很没有面子，难道自己真的是学历越来越高，智商越来越低？哪位高人能够帮忙，最好给出具体解答步骤，让我也学习学习！
+     A种酒精中纯酒精的含量为40%B种酒精中纯酒精的含量为36%，C种究竟中纯酒精含量为35%，它们混合在一起得到了纯酒精含量为38。5%的酒精11升，其中B种酒精比A种酒精多3升那么A种酒精有多少升？ 

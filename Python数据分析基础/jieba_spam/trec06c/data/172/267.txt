@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <yun@ccert.edu.cn>; Fri, 23 Sep 2005 13:14:18 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <yun@ccert.edu.cn>; Fri, 23 Sep 2005 13:25:47 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 05:02:53 -0000
+From: "gu" <gu@mail.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Cc: <gong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IGJzzfXNrNGnsNHH5buqudLJz6Oh?=
+Date: Fri, 23 Sep 2005 13:25:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+web用户水平见长阿
+能发长文了
+     标  题: bs王同学把清华挂上！
+     
+     典型自以为是！靠点没有深度没有新意的连研究都算不上的东西唬一群外行，博取同情！
+     清华校内默默无闻的牛人多了去了！也没见过天天在外面蹦的！
+     中国教育制度的问题是人都知道，难道这是清华整出来的？
+     就你的想法nb，清华的研究都是垃圾，难道生物系的cell，化学系的jacs，nature，都是垃圾？
+     4年发不出文章，也好意思说！本来按时毕业拿学位就玄了，早走转硕都是好的选择，拜托不要拉上清华给你垫背，你的行为越看越像fr！
+     还有，中国最基本的宽容，感恩品德你一点没学到，不管你导师对你怎么样，他给了你直博的名额就应该感激了，不信拿这个名额出去，抢的人一跎一跎的。而且你开了一个非常不好的先例，相信以后cs的老师会非常慎重的考虑川大过来的学生，不过对你也无所谓，反正你对于川大只有非常恶劣的感觉，师弟师妹的死活和你无关！
+     --
+     

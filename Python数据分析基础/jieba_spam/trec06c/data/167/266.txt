@@ -1,0 +1,38 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M5vbgt005692
+	for <pan@ccert.edu.cn>; Thu, 22 Sep 2005 12:29:08 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8M5qUEM011899
+	for <pan@ccert.edu.cn>; Thu, 22 Sep 2005 12:24:58 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8M5qPKG011895
+	for <pan@ccert.edu.cn>; Thu, 22 Sep 2005 12:23:59 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 19856 invoked by uid 512); Thu, 22 Sep 2005 04:32:22 -0000
+Message-ID: <20050922060051.19855.qmail@stu.ee.tsinghua.edu.cn>
+From: hu@stu.ee.tsinghua.edu.cn
+To: pan@ccert.edu.cn
+Date: Thu, 22 Sep 2005 12:32:22 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?UmU6IM7SttTT2qG2sKK4ytX9tKuht7XEv7S3qA==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+个人觉得你的对当前社会的看法有一定的问题
+有一些偏激
+     《阿甘正传》如果不是反讽，便是童话；因为它的情节，你倘若不视为荒谬，就得理解为唯美；更值得注意的是，它表达的那种世界观，只能要么理解为对于现实的讽刺，要么只能把它看成谎言
+     《阿甘》中囊括了美国60－80年代的主要政治变化，以及各个阶段席卷美国的各种思潮，运动，并巧妙得把主要人物安插进这些事件中，它几乎展现了整整一代美国人的成长史；在情节的编排，叙事的转换上，它都可圈可点
+     然而在主要人物的塑造上，也就是在主线情节上，它用一种过于庸俗化的方式欺骗了观众；或者说，它刻意得嘲弄了观众。由于绝绝大多数观众都不认为《阿甘》在嘲弄我们，所以我们只能认为它实际上欺骗了我们。也就是我们假设导演是一个热爱阿甘得导演，他讲这个故事得态度是

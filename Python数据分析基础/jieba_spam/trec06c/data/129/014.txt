@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <yan@ccert.edu.cn>; Wed, 14 Sep 2005 05:05:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <yan@ccert.edu.cn>; Wed, 14 Sep 2005 05:17:09 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 20:59:26 -0000
+From: "su" <su@mail.tsinghua.edu.cn>
+To: yan@ccert.edu.cn
+Cc: <wang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0LS4+M7Sx9ewrrXEwM/GxQ==?=
+Date: Wed, 14 Sep 2005 05:17:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+     今天是老婆来上海整整两年的纪念日，本来不是什么特殊的日子，只因为03年的八月十五是九月十一号，我在北京和老婆过完八月十五，第二天晚上就乘车离开了北京。那时候老婆还在读研三，我在复旦读硕博连读的第二年。
+     两年了，我们真的可以说是经历了风风雨雨，因为老婆还没有毕业，来上海只是找地方实习，希望毕业时可以顺利找到工作。老婆是学金融的，在上海复旦，上财，交大，华师大...这些学校每年不知毕业多少牛学生呢，可想而知老婆在这边和人家挣饭碗是多么的难！！！！
+     开始在一个小的咨询公司，后来到证券公司，在03年底到04年的股海中，搏掉了家里的四万块钱（当时看行情，确实有希望挣的，估计跳楼的人也是这想法），然后是一家靠暴利的民营企业，最终于04年十月到了现在这样一个外资银行里，算是自己比较满意的工作。
+     我总在回味老婆为了我跑到上海来，吃的这些苦，她北京的同学找的工作都不错，当时她一个人为我跑来，从小都没有什么挫折的人，一下子遇到那么多的事，现在想来真是让老婆受苦了。
+     亲爱的老婆，在一起的日子已经两年了，这两年是我们最难的两年，我们都挺过来了，我们的日子越来越好了，虽然我们还是比较拮据，毕竟只有老婆一个人在挣钱（我今年博士二年级）但心里的踏实感确实实实在在的，老婆我会让你尽快过上好日子的。
+    老婆正在我们图书馆学习，周五要考cpa了，老婆一定会成功的！！！！
+    
+   常来家版，也常看些形形色色的家庭故事，也发发自己的感慨。写给老婆写给自己，也写给常来家版的xdjm，赞扬想老婆这样的好姑娘，也希望没有成家的找到自己合适的另一半，成家的要懂得珍惜，互相支持体谅，携手白头。
+   毕竟两个人走到一起不容易！！
+   另外，家版是个好地方！！！！！！！！！！！！！

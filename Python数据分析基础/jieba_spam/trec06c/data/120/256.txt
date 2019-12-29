@@ -1,0 +1,25 @@
+Received: from maila.dlut.edu.cn (maila.dlut.edu.cn [202.118.66.71])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A029Pl026452
+	for <yang@ccert.edu.cn>; Mon, 12 Sep 2005 13:33:43 +0800 (CST)
+Received: by maila.dlut.edu.cn (Postfix, from userid 1001)
+	id 8B3846E7AE9; Mon, 12 Sep 2005 13:45:48 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by maila.dlut.edu.cn (Postfix) with ESMTP
+	id C4B576E76D9; Mon, 12 Sep 2005 13:45:42 +0800 (CST)
+Message-ID: <000f01c5b59b$fc2b9480$370410ac@commonor995309>
+From: "feng" <feng@dlut.edu.cn>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVuNW/tM3qobBUaGUgSXNsYW5kobGhqqGqt8ezo9Teo6E=?=
+Date: Mon, 12 Sep 2005 13:34:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_000B_01C5B5DE.08F861B0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+
+同好，无论是The Island还是I,Robot即便对于我这种对科幻片不太感冒的
+人来讲都能说是非常娱乐的电影，喜欢The Island的动作场面、色彩和配乐，
+也喜欢I,Robot里面的特技与大规模，逼真无比。
+     发现现在的美国科幻片不再是那么炫耀特级和视觉效果，而是把情感和对人性的反思放在第一位，感觉非常好，好像前段时间看的“I,Robot”也是如此。
+     P.S.里面的广告还是有些明显，特别是林肯和乔丹虚拟搏击是旁边满墙的XBOX和在珞珊机街边电话亭上大大的MSN，看来微软没少赞助啊，呵呵

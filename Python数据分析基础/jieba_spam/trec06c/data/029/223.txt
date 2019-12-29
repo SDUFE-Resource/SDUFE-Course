@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <mo@ccert.edu.cn>; Tue, 23 Aug 2005 10:50:57 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <mo@ccert.edu.cn>; Tue, 23 Aug 2005 11:04:11 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 02:58:44 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "lei" <lei@mail.tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0dC3oiBSZTogu6rOqtPr1tDQy7XEttSxyFvXqsz5XQ==?=
+Date: Tue, 23 Aug 2005 11:00:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+比较关注研发。
+在待遇方面，研发的没有销售的好，习以为常还能接受。如果研发的比其他职位都差的话，那实在说不过去。
+"在华为镀镀金"，一方面是指外面的很多公司挺看重华为的这块牌子。
+如果不是特别看重待遇，而看重所掌握的技术，相对来说，在华为还是能学到不少东西，只要愿意去学。但里面的工作分得很细，还很明确，如果不幸的话，做的东东不好，那就惨了。像网络处理器，有的人做底层微码，最具挑战性；有的人做上层的，模块化的东西，差了很多；如果去写什么仿真程序，就废了。

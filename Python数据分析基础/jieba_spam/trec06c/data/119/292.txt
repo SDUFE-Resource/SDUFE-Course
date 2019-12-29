@@ -1,0 +1,48 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5NG8m027911
+	for <cheng@ccert.edu.cn>; Mon, 12 Sep 2005 09:39:22 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5KeKS091336
+	for <cheng@ccert.edu.cn>; Mon, 12 Sep 2005 09:36:55 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5Kblh091332
+	for <cheng@ccert.edu.cn>; Mon, 12 Sep 2005 09:36:43 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 09:25:52 +0800
+Message-ID: <326328986.06301@mails.tsinghua.edu.cn>
+Received: from 59.66.112.135 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 09:25:52 +0800
+From: su@mails.tsinghua.edu.cn
+To: cheng@ccert.edu.cn
+Date: Mon, 12 Sep 2005 09:25:52 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgzPrNqLXnu7DQwrHku68g18q30dK1zvG++bz7tffV+yh6eikgKNeq1Ngp?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: su@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 SL 讨论区 】
+发信人: rely (没有语言天赋的人◎江湖不再有Miller), 信区: SL
+标  题: 铁通电话新变化 资费业务均见调整(zz)
+ms更贵了……
+铁通电话新变化 资费业务均见调整 
+ 
+作者：学通社记者 李思进 编辑 王蕾    发布时间：2005-9-10 8:34:14    点击数：120 
+ 
+     当你由外部向紫荆宿舍系统拨入电话，等待接听的时段内，听到的将是不同以往的音乐铃声。与此同时，铁通201校园卡也发生了一系列的变化。
+     资费方面：本地0.3元/3分钟；国内长途0.06元/6秒，休息日优惠价0.04元/6秒。
+     此外，每个用户可在卡内设置5个亲情号码，费率为0.2元/分钟，习惯煲电话粥的同学大可尽情沟通，通话时不必为每分钟0.6元的话费而战战兢兢。
+     铁通电话系统同时开通了存储来电的“电话留声机”、支付网络游戏、电影费用的“小付通”业务，详情可见各宿舍楼宣传资料。 
+ 

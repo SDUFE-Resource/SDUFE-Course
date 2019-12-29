@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QNo9MB013563
+	for <gu@ccert.edu.cn>; Thu, 29 Sep 2005 06:11:18 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8R01MBr028203
+	for <gu@ccert.edu.cn>; Thu, 29 Sep 2005 06:22:31 +0800 (CST)
+Message-Id: <200509270001.j8R01MBr028203@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 28 Sep 2005 21:57:41 -0000
+From: "yana" <yana@mail.tsinghua.edu.cn>
+To: gu@ccert.edu.cn
+Cc: <liao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INaj1tjJ+cP3o6E=?=
+Date: Thu, 29 Sep 2005 06:22:25 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C339.A353D6A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXC9pQv9PjT/MfrSEOqvQPxaHLccg==
+
+你觉得中国将来会出现像牛顿，爱因斯坦那样的牛人吗？
+如果不可能，那么将来的中国还有希望吗？
+            会不会沦为无法掌握高深技术的世界工厂，仅仅依靠出卖劳动力为生？
+如果可能，为什么现在还没有出现？
+          是因为时间问题吗？是不是我们只需要耐心等待，就可以出现？
+          是因为制度问题吗？是不是制度慢慢在变好，
+          直到有一天好到可以让牛人出现。现在有变好的迹象吗？
+还有，请不要在乎thu的人，他们中许多人都必然要出国的，很多人都不会再回来的。
+我觉得中国的未来不在于他们，而在于广大的普通院校的普通学生。
+     我，仅代表我自己，我不喜欢thu的所谓牛人，我觉的该校的学生心理有问题，在我眼里真正的牛人是牛顿，爱因斯坦等

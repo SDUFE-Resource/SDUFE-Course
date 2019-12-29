@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9qIIm028353
+	for <yan@ccert.edu.cn>; Fri, 30 Sep 2005 07:13:26 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SA3UnO014607
+	for <yan@ccert.edu.cn>; Fri, 30 Sep 2005 07:24:37 +0800 (CST)
+Received: (eyou send program); Fri, 30 Sep 2005 06:59:02 +0800
+Message-ID: <327900275.22130@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Fri, 30 Sep 2005 06:59:02 +0800
+From: xu@mail.tsinghua.edu.cn
+To: yan@ccert.edu.cn
+Date: Fri, 30 Sep 2005 06:59:02 +0800
+Reply-To: xu@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgz8jAtMfs16PSu8/Cw+bK1M2ouf2jrNTZx+u9zLTzvNK8uLj2zsrM4g==?=
+Content-Type: text/plain
+
+前几天面试清华cs，面完后高性能所的杨所长和我谈了一下，表示愿意接受我，只等上报学校审批了，呵呵，so高兴：）
+杨所长说他们是实验室集体招生，和我谈了一下，听他的意思，似乎我可以自己选愿意学习的方向，是这样么？好像也没有规定我什么时间之前要定下方向，以前的师兄姐们，你们也是这样的么？
+我看了一下高性能的几个方向
+集群计算 
+CPU设计 
+网格计算 
+网络存储 
+我个人觉得网格计算似乎不错，可毕竟我了解不多，大家能否给我点意见？多谢指点拉：）

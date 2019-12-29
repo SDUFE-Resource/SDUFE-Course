@@ -1,0 +1,22 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <su@ccert.edu.cn>; Wed, 28 Sep 2005 02:54:42 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 19:05:49 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 03:05:49 CST
+Date: Wed, 28 Sep 2005 03:05:49 +0800 (CST)
+From: liang ming <gan@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILjD1PXR+dGnu+HN/LzHo78=?=
+To: su@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+为什么分手呢，如果不是非常严重的问题，你应该试着再次把握一下。
+     和他相识在这里的鹊桥版，并不漂亮的我和并不帅气的他一见钟情，互相感觉都很好，这也是我第一次真正喜欢一个人。听那首“咖啡屋”忍不住会掉下泪来，半年多以后，我们也由情侣变成了陌路。
+    和他在一起有太多美好的回忆，太多语言无法形容的感觉，总是出现在空余时间的脑海里，出现在梦里。
+    昨天晚上另一个男孩对我说了一些超越普通朋友该说的话。我无法描述自己是什么心情，我还是忘不了他，尽管在睡前我想了很多该怎样面对这个男孩，我们是否会合适，可是我做梦居然又梦到了他，梦到了那种很难有的感觉，和他分开后，我已经不只一次梦到这种感觉了，男孩给我的最后一个短信是好梦，可是我的好梦里没有这个男孩，我该怎么办？

@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <su@ccert.edu.cn>; Wed, 28 Sep 2005 07:20:44 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 23:07:00 -0000
+Date: Wed, 28 Sep 2005 07:32:44 +0800
+From: "yuan" <yuan@mail.tsinghua.edu.cn>
+To: su@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+但是很多人不但不认为这有责任，还很赞成这一点
+君不见王在么某些人眼中都成了，反抗旧势力，旧制度的英雄了
+     标  题: Re: 作为王垠的同学，我的一点看法
+     
+     过失伤人和故意伤人需要承担的责任是不同的。
+     
+     
+     : ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~但是客观上已经造成
+     : 了这样的结果，这不能不说是他的责任
+     
+     
+     --
+     
+※ 修改:・sxb 于 Sep 28 15:23:16 修改本文・[FROM: 59.66.127.*]

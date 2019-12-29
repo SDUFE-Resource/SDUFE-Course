@@ -1,0 +1,28 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <jian@ccert.edu.cn>; Sat, 20 Aug 2005 11:13:34 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Sat, 20 Aug 2005 11:30:00 +0800 
+Date: Sat, 20 Aug 2005 11:26:36 +0800
+From: "ren" <ren@admin.iscas.ac.cn>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgU09GVFRFQ0i5q8u+1dDGuA==?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+Soft Tech公司成立于1991年，总部在硅谷；1996年，Soft Tech公司在北京成立分公司，是一家从事以软件为核心的咨询服务公司，服务包括CMM/CMMI咨询及评审服务、高级IT管理技术咨询服务、培训服务及外包服务等。
+公司地址在健翔桥
+公司网站：www.softtechdev.com.cn
+招聘职位1：软件开发人员  可专职或兼职
+招聘职位2：CMM咨询与评估，专职，硕士或博士学位，希望能有工作经验（工作几年再读硕士或博士的最好）
+招聘职位3：管理人员/业务人员，专职，主要工作内容是基于IT培训的管理、业务拓展、组织协调等工作要求做事认真，具有一定的专业基础
+简历请发至：chenxx@thsp.com.cn

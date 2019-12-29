@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <zeng@ccert.edu.cn>; Sun, 21 Aug 2005 17:17:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <zeng@ccert.edu.cn>; Sun, 21 Aug 2005 17:30:32 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 09:25:09 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "fan" <fan@mail.tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Cc: "tunet" <xin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILj2y7DG8NX3tePVxzcwMNSqIMO/yMvDv9TC1+624MnZvcnLsDMxNdSq?=
+Date: Sun, 21 Aug 2005 17:26:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+就知道搜刮老百姓，起码要按照社会平均工资三倍来起征才合理。否则公积金的最高限为什么按照这个定么。
+     2005-08-24 08:52:40 　 新华社 
+     新华社北京８月２３日电（记者张宗堂、沈路涛）十届全国人大常委会第十七次会议２３日开始审议个人所得税法修正案草案，拟将个人所得税起征点从８００元提高到１５００元。如果以每月１５００元作为个税起征点并付诸实施，我们每个月将少缴多少钱？按照税率表计算，每人每月将最多少缴税３１５元。而按照有关专家测算，一年国家财政收入要减少２００多亿元。
+     　　

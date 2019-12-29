@@ -1,0 +1,36 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <lv@ccert.edu.cn>; Thu, 1 Sep 2005 05:24:46 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 05:27:38 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 05:27:38 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 05:27:38 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 21:21:01 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 05:13:11 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 05:13:11 +0800
+From: ding@mails.tsinghua.edu.cn
+To: lv@ccert.edu.cn
+Cc: you@ccert.edu.cn
+Date: Thu, 1 Sep 2005 05:13:11 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1tC5+sO/zOwyzfLIy7LO0+vC48zlytPGtc34wcQ=?=
+Content-Type: text/plain
+
+　　（上海讯）山东一名父亲看到28岁的女儿赤身裸体在电脑前跟网友视频聊天，在与女儿理论撕打时错手将女儿掐死。
+　　在黑龙江，一名母亲则惊骇万分地发现，12岁的儿子在电脑的网络摄像头前脱光了衣服，进行视频聊天……
+　　这两起在上个月发生的个案，给中国日益受关注的网络道德问题再次敲响了警钟，但它们已经不是单独事件。
+　　上海一项研究显示，中国现在每天午夜时分估计有多达2万名网民登入聊天室，参与裸体视频聊天（naked internet chatting）。
+　　英文《上海日报》的报道说，目前尚不知这种行为是否违反了禁止互联网色情内容的法律，上海公安局受询时拒绝置评。
+　　但研究这个裸体聊天室现象的中华全国青年联合会研究员刘刚（译音），已经打算将其研究结果交给有关当局跟进。
+　　刘刚说：“开始的时候，我们还以为这只是少数精神失常者的游戏，但随着研究的进展，我们发现问题比预期严重。”
+　　刘刚是从提供有关服务的网站活动情况，计算出每晚约有1至2万人登入。
+　　要参与裸体视频聊天的网民必须下载一款多人视频聊天软件，并且给电脑安装上网络摄像头。有了这两样东西，他们就可以一面和别人聊天，一面宽衣解带、摆出挑逗性的姿态。每个聊天室可以容纳10个人，没有网络摄像头的登入者通常很快就会断线。
+　　刘刚和他一起进行这项研究的同事并没有使用网络摄像头，但他们很幸运，能够留在几个聊天室跟一些参与者谈话。他们最后收集到了大约10名参与者的资料，其中八人是25至35岁的单身男性，大多数人都没有一份稳定的工作。
+　　上海社会科学院青少年研究所研究员韩晓燕说，一些年轻人可能是为了满足自己对性的好奇心而参与裸体视频聊天：“但这种行为肯定会对年轻人的成长产生负面影响。”

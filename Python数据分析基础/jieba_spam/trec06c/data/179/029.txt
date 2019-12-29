@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <shi@ccert.edu.cn>; Sat, 24 Sep 2005 16:14:11 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 16:03:11 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 24 Sep 2005 16:03:10 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 24 Sep 2005 16:03:10 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 08:03:10 -0000
+From: "ou" <ou@mail.tsinghua.edu.cn>
+To: shi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMP3zOzD5srUwcujrNejuKPPwqOh?=
+Date: Sat, 24 Sep 2005 16:25:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
++U!!
+     明天就去材料系面试了，心里的感觉怪怪的，没有成功前的喜悦，也没有失败前的痛苦，只想好好的发挥，作个真正的自己，为了直博清华我准备了1年多了，从知道可以直博清华开始我就一直在努力着。本校的直博，保硕都放弃了，老师特意征求了我的意见，我很坚决的放弃了，很感谢老师的关心，但是我们还年轻，我们有梦想，现在就是我实现梦想的时候了
+     。所以很执着的走着这条路。
+     相信凭着自己的成绩，自己的获奖经历，自己的paper，自己的表现，我会杀出重围的。

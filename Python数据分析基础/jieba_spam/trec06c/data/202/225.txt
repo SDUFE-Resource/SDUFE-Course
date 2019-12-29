@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <bi@ccert.edu.cn>; Thu, 29 Sep 2005 07:35:01 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 23:46:11 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 07:46:11 CST
+Date: Thu, 29 Sep 2005 07:46:11 +0800 (CST)
+From: liang ming <xing@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM312/O6zbOsyMs=?=
+To: bi@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+力挺王垠，赞同他以怨报德的做法，其实是害他，就好比支持FRJJ一样。
+     骂他的人，应该都是那些以真正做过研究自居的人或者决心在中国真正做研究的人吧，那王垠认为中国研究环境太差太烂以至于做出这么出格的举动你们应该不难理解吧，不支持一下也不用骂的这么狠嘛。
+     难道他说的不是事实，难道非得都像那个yao说的那样，不要去改变环境，改变你自己？改变自己我不反对，在一个已经这么恶劣的环境里，每个人在表面上都是需要做出妥协的，否则就是愣头青，容易撞个头破血流。但咱们不能不许愣头青尝试改变环境啊，最多像yao那样，建议他不要去尝试，但没有权利禁止啊，今天禁止了他，明天就是禁止自己。今天骂了他，明天你就不好去做他所做过的努力了
+     王垠就是个愣头青，再看他被骂的，白眼狼，不要脸（把他和芙蓉并列），畜牲（出自网上一个人骂他畜牲，占了别人的清华招生名额）...幸好他已经不是8年前的王垠了。

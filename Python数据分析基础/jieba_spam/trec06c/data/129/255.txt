@@ -1,0 +1,64 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBVolI019299
+	for <feng@ccert.edu.cn>; Wed, 14 Sep 2005 08:48:39 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8DBSOBg018678
+	for <feng@ccert.edu.cn>; Wed, 14 Sep 2005 08:45:44 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn ([166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8DBSHbY018673
+	for <feng@ccert.edu.cn>; Wed, 14 Sep 2005 08:45:11 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 14359 invoked by uid 512); Wed, 14 Sep 2005 00:53:33 -0000
+Message-ID: <20050913113644.14358.qmail@stu.ee.tsinghua.edu.cn>
+From: ou@stu.ee.tsinghua.edu.cn
+To: feng@ccert.edu.cn
+Date: Wed, 14 Sep 2005 08:53:33 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?ofEgt9bP7c6iyO3Wx7vbo6zB7MXczrTAtMjLyfqhqs6iyO26zcTj0rvG8MHsxdwgKNeq1Ngp?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: westside (Peace), 信区: THUInfo
+标  题: 分享微软智慧，领跑未来人生―微软和你一起领跑 (转载)
+发信人: westside (Peace), 信区: THUExpress
+标  题: 分享微软智慧，领跑未来人生―微软和你一起领跑
+发信人: leftbank (左岸没有水), 信区: DEE
+标  题: 分享微软智慧，领跑未来人生―微软和你一起领跑
+分享微软智慧，领跑未来人生――――微软和你一起领跑
+活动时间：2005年9月16日（周五）晚19:30
+活动地点：主楼后厅大报告厅                 
+二十一世纪什么最重要！人才？技术？抑或文化？
+在新时代的激烈竞争中，如何才能在各方面胜人一筹，脱颖而出？
+微软专家造访清华大学，结合亲身经历和微软发展历程，
+阐释人才领跑、技术领跑和文化领跑
+让微软和你一起成为新世纪的领跑者！
+从这里，我们一起出发
+从这里，我们一起领跑
+从这里，我们一起奔向更高更远更广阔的未来……
+ 
+微软亚洲研究院院长沈向洋博士、微软亚洲工程院技术总监林斌先生等微软著名专家偕同微软清华校友做客“清华学子财富论坛”，作为2005微软高校行的第一站，从人才领跑、技术领跑和文化领跑三个视角诠释成才与成功！
+让我们相聚在2005年9月16日（周五）晚19:30的主楼后厅，共同体会微软的内涵，领略微软专家的风采，和微软专家一起启迪未来、规划人生！ 
+ 
+主办：微软亚洲研究院高校关系部 
+清华大学研究生会
+  承办：清华大学计算机系研究生会  
+ 
+【嘉宾简介】
+沈向洋：微软亚洲研究院院长，高级研究员。主要负责计算机视觉、图形学、人机交互、统计学习、模式识别和机器人等方向的研究工作，兼任研究院形象计算组主任研究员，之前，沈博士是微软美国研究院视觉技术组研究员。加盟微软研究院之前，沈博士曾在DEC公司剑桥实验室及苹果公司交互媒体实验室工作。沈博士是计算机视觉和图形学研究的世界级专家。沈博士已拥有20多项专利，并曾在国际图形学年会Siggraph等世界级会议和学报上发表论文100余篇。沈博士现任多所著名高校和中科院客座教授及博士导师，还兼任多本权威学术杂志(包括IEEE Transactions of PAMI, IEEE Transactions of CSVT)编委。沈博士是2005年国际计算机视觉大会主席。沈博士13岁进入南京工学院，之后相继获得香港大学电机电子工程系哲学硕士学位,及美国卡内基梅隆大学计算机学院机器人专业博士学位。
+ 
+林斌：微软亚洲研究院新技术开发部经理。1990年毕业于中山大学,获得学士学位,后在美国Drexel大学获得计算机专业硕士学位。曾全程参与"视窗"三个版本SMTP/NNTP/POP3服务器的开发工作。1998年以来，林斌在交换协议组担任主任工程师，并全程参与了Exchange2000服务器以及在"视窗2000"上的SMTP/NNTP服务器的大型研发工作。

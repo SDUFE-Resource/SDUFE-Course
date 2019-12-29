@@ -1,0 +1,23 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U2R6AL010810
+	for <lei@ccert.edu.cn>; Sat, 1 Oct 2005 18:32:47 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8U2U2g26094;
+	Sat, 1 Oct 2005 18:35:43 +0800
+Message-Id: <200509300230.j8U2U2g26094@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Sat, 1 Oct 2005 10:35:43 UT
+To: lei@ccert.edu.cn
+From: kang@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEg0/a1vcat19OjrM7SytW1vbbM0MXLtc7Svei8x7+o1/LU2s7WtvvC6s/7t9E1ODAw1KogKNeq
+1Ngp?=
+
+【 以下文字转载自 Graduate 讨论区 】
+发信人: doss (薰衣草的花语是等待爱情 ), 信区: Graduate
+标  题: 遇到骗子，我收到短信说我借记卡昨在沃尔玛消费5800元
+结果按咨询电话打过去，对方回答是是工商行总行，询问我名字和身份证号码，说是帮我查，我回答后她说确实有消费5800，我说我没有借记卡，结果她让我打另一个电话登记，然后打那个号码。发现对方和原来那个电话的人都是一样的广东腔，我就说：听你的口气不像工作人员，对方就挂机了。
+问题不知道会怎么样，他们知道我的名字和身份证了，不知道会干什么。

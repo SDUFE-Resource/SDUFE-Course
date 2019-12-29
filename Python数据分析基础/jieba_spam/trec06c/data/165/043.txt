@@ -1,0 +1,22 @@
+Received: from smtp.263.net (mx04.x263.net [211.150.96.24])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LDnGRe032370
+	for <yang@ccert.edu.cn>; Wed, 21 Sep 2005 21:02:27 +0800 (CST)
+Received: by smtp.263.net (Postfix, from userid 500)
+	id 62B4343643; Wed, 21 Sep 2005 21:13:54 +0800 (CST)
+From: =?gb2312?B?bmFtZQ==?= <yi@263.net>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTHuPbKrrTztcQsy/nS1MTQyMuyu8+yu7bFrsjLzPm1xMyrvfQ=?=
+Date: Wed, 21 Sep 2005 21:14:04 +0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+MIME-Version: 1.0
+X-Mailer: XMail-3.0
+Content-Type: multipart/mixed;
+	boundary="----=NextPart_263Mail-XMAIL-000-000-1127311244Ti4"
+Message-Id: <20050921140045.62B4343643@smtp.263.net>
+
+     女人不应该妨碍男人干事业,虽然说爱情很重要,但是现在缠绵倒是爽,以后怎么办.
+     而且这样感觉就会淡的.所以要理解做男人的不容易,那些太粘的大多最后都失败,为什么,到头来还说什么不爱啊,变心啊这些,胡扯,不从自己找原因,所以这就是不懂事.
+     以后还是要找成熟懂事的,懂得理解男人,真正成为男人背后的女人,而不是男人口中衔着的女人
+虽然我不认识楼主，
+但楼主言谈之间很有泄私愤的嫌疑……

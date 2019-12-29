@@ -1,0 +1,24 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <xing@ccert.edu.cn>; Wed, 28 Sep 2005 19:54:33 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Wed, 28 Sep 2005 19:57:48 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 11:57:46 UT
+To: xing@ccert.edu.cn
+From: che@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILXGuOe1xM/ftPrV5sDDIKOs?=
+
+     俺觉得最烂的还是灯的概率，我彻底地迷茫了......
+不是哇，我觉得灯哥概率不烂。 或者说概率就没有烂的。 概率考的本身就简单 。而且和高数高度相关。基本没有什么内容，别担心。
+打个比方：
+        高数是一个微笑刺客 ，容易接近，越接近越觉得高深末测
+        线数是一个职业杀手 ，开始隐蔽的挺好，慢慢觉得难对付，再往后也潜力有限
+        概率是一个李鬼     ，张牙舞爪的 ， 多复习2，3遍 ，根本没深度，至少数一如此。
+线数需要全局性总结，灯哥做的不好。近期偶先作题，过些天看看用不用买乐哥的。

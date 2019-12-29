@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FDF2nP003737
+	for <xin@ccert.edu.cn>; Sat, 17 Sep 2005 09:24:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FDQpvs001563
+	for <xin@ccert.edu.cn>; Sat, 17 Sep 2005 09:36:28 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sat, 17 Sep 2005 01:17:40 -0000
+Message-ID: <003701c5b9f9$461a6f60$787d6fa6@hotline>
+From: "weng" <weng@mail.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj3zrvQ1rXcvePDw6OsztLT0Lj2zsrM4qOsz6PN+9PQyMu6zc7SvbK9sg==?=
+Date: Sat, 17 Sep 2005 09:37:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0034_01C5BA3C.5412CED0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+老实说你的家人似乎只有继父做的不够好，妈妈和妹妹还是挺舍不得你的，
+其实也没必要非要到别的什么城市啊，就在自己一直生活的城市里好了，
+搬出来住，你可以继续关心家里人，至于钱什么的，似乎也不用给了
+这样不是挺好吗？再说那里有很多“宠”着你的同学和朋友们，
+照我看来，你一下子离开他们，似乎是不好适应过来的
+     我的家庭情况和你们讲过了
+     家庭的矛盾真的看起来是无法调和的
+     我也真的尽力25年了

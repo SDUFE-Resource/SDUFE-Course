@@ -1,0 +1,54 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j89NXemq026361
+	for <zhan@ccert.edu.cn>; Sun, 11 Sep 2005 11:11:02 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j89Njdhf013553
+	for <zhan@ccert.edu.cn>; Sun, 11 Sep 2005 11:23:01 +0800 (CST)
+Message-Id: <200509092345.j89Njdhf013553@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 11 Sep 2005 03:07:08 -0000
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: zhan@ccert.edu.cn
+Cc: <zhou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEga2F0eXVzemG/vNHQz7XB0Nauo7rQwcvhtcTQobLlx/o=?=
+Date: Sun, 11 Sep 2005 11:22:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0027_01C5B5DB.A0103850"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW1mJFRbMPWdltKQa60CX3VacmLiQ==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+什么痛苦郁闷失败绝望希望成功这些东西，
+我都经历过了。
+我考了不止一年才考上。
+04年春节到05年春节之间的这一年，
+我住在清华一个哥们儿的宿舍，
+成了校漂一族，
+在清华蹭课，打工，复习考研。
+我得到了很多朋友的无私帮助，
+也体会过被人冷眼相待的辛酸。
+为了挣钱，
+我几乎什么事情都做过了：
+发传单，当家教，心理学实验的被试实验者……
+其中最痛苦的一件事情是，
+在我拼死拼活给“燕园菁华语言教育研究中心”讲了半学期的英语六级之后，
+这个狗屎学校里面的杂种们竟然恶意拖欠我的工资。
+两三千块钱的血汗钱，支撑我下半年考研的全部经济来源，
+他们竟然扣下了不给我。
+从老板鲁会勇到会计王朋朋，
+我第一次亲密接触了大千世界的各种丑态，
+但同时也一步步走向成熟。
+最后他们跟我耍流氓，
+我就跟他们耍流氓，
+结果他们没耍过我，
+很郁闷地把工资全额开给了我。
+这时已经是04年的九月了，
+该开始复习了。
+（p.s.关于拖欠工资那段，
+我去parttimejob版搜了一下我去年的帖子，
+竟然都还在。
+不禁感慨；
+当终于迎来彩虹的时候，
+蓦然回首，
+我走过的路竟然如此辛酸。）

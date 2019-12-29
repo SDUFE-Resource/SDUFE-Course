@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <lv@ccert.edu.cn>; Sat, 24 Sep 2005 19:40:48 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 19:29:48 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 24 Sep 2005 19:29:47 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 24 Sep 2005 19:29:47 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 11:29:47 -0000
+From: "jin" <jin@mail.tsinghua.edu.cn>
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sat, 24 Sep 2005 19:52:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+之所以这么多人支持他，类似于王斌余讨薪杀人案，
+借他的事情浇自己胸中块垒。
+呵呵，学生和老板之间的阶级矛盾，还是有一点的。
+而这里面可能存在的对老板或是师兄弟的攻击，
+除了这些师兄弟本人，还有谁在乎呢？
+     呵呵，我是学cs的，但是我对于王垠那篇文章的感觉，也是觉得他总是
+     “不惮以最坏的恶意来推断别人”；根据我有限的心理学知识，我也怀疑他是不是有轻微的受迫害妄想症（我也仅仅是猜测，我完全是外行，不过看到有人和我意见一致还比较高兴）
+     况且，他对于同学的贬低缺乏根据（比如用word和用latex的区别）。

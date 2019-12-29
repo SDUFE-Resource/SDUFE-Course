@@ -1,0 +1,35 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <ren@ccert.edu.cn>; Thu, 25 Aug 2005 06:45:33 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 06:58:40 +0800 (CST)
+Date: Thu, 25 Aug 2005 06:52:26 +0800
+From: "ma" <ma@sohu.com>
+To: ren@ccert.edu.cn
+Cc: "yxl" <wu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgytW8r8HL0rvQqcfz1rC8vMfJtcTXysHPz8LU2LXY1rc=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+里面关于人生规划和定位、求职技巧、行业介绍的东西都有，这里给个地址，给版友share。不知道能不能加精？&gt;&lt;
+下载中心地址是http://www.hiall.com.cn/datacenter/index.php
+里面除了我给的这些内容还有些MBA申请和英语学习的东西
+剪裁人生
+http://www.hiall.com.cn/datacenter/index.php?o=display;id=6
+求职胜经
+http://www.hiall.com.cn/datacenter/index.php?o=display;id=7
+简历专题
+http://www.hiall.com.cn/datacenter/index.php?o=display;id=39
+面试专题
+http://www.hiall.com.cn/datacenter/index.php?o=display;id=40
+咨询公司专题
+http://www.hiall.com.cn/datacenter/index.php?o=display;id=54
+附原求职FAQ地址
+http://www.hiall.com.cn/datacenter/index.php?o=display;id=32
+还有个实习申请技巧电子书压缩包
+http://www.hiall.com.cn/datacenter/index.php?o=display;id=22

@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <cen@ccert.edu.cn>; Fri, 2 Sep 2005 07:18:43 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <cen@ccert.edu.cn>; Fri, 2 Sep 2005 07:31:18 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 23:20:29 -0000
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: cen@ccert.edu.cn
+Cc: <yu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyOe5+8qxvOS/ydLUtbnNyw==?=
+Date: Fri, 2 Sep 2005 07:31:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+    如果时间可以倒退，我希望可以回到两个月前。乖乖的做我的毕业设计，早早地去考下驾照，好好的看看CPA。
+    如果时间可以倒退，我希望我可以选择更好的生活方式，远离喧闹糜烂的环境，远离会给我带来伤害的人们。
+    可是时间不能够倒退，就像发生的事情不可以后悔，做错的事情不能够补救，放错的感情不能完全收回。
+    生活总是有意外。今天的我不能预料到明天得我会出现在哪里，会遇到什么样的人，会掉下什么样的深渊。
+    也许我真得不能够像你想象的那样大度，那样的无所谓，那样的那得起放得下。我同样需要一段正常的感情生活，需要有个宽厚的肩膀让我依靠，让我看到希望，看到未来。
+    经历过的生活会改变人，发生过的事情会改变想法。我想我变了。曾经的年少轻狂为所欲为似乎已经不是我能够选择的生活方式。我害怕，我迷惘，我只愿意抓住看得见的未来，不敢再触碰也许会很美的幻影。
+    想了很多，心里很乱。很想把一切删除，一了百了。可是不忍心。
+    不想放弃却又无从争取。
+    很难受。

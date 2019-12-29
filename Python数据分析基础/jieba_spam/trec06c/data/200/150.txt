@@ -1,0 +1,23 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFG0025934
+	for <ding@ccert.edu.cn>; Wed, 28 Sep 2005 22:03:37 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Wed, 28 Sep 2005 13:49:11 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "xin" <xin@mail.tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Cc: "Duan Haixin" <cen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IE1N1sfJzMyrtc2jrM7SuMPU9cO0sOyjv6O/o7+jv6O/o7+jv6O/o78=?=
+Date: Wed, 28 Sep 2005 22:14:28 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+     事迹1：过中秋节了，她让快递公司给我送月饼，我直到发稿时还没收到月饼，打电话问她，她告诉我说她把快递公司的电话忘了，我让她去查，她说不知道
+     事迹2：同样是中秋节，还是关于快递。她家人给她寄了月饼，快递效率低，寄到手时月饼已经坏了。她居然稀里糊涂地在签收单上签了字
+     事迹3：过马路的时间看不懂红绿灯：不明白那个指示向左转的红绿灯和指示直行的红绿灯的区别

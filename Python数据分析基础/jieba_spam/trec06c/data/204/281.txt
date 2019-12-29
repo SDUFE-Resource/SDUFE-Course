@@ -1,0 +1,25 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <guan@ccert.edu.cn>; Thu, 29 Sep 2005 16:23:49 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 08:34:56 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 16:34:56 CST
+Date: Thu, 29 Sep 2005 16:34:56 +0800 (CST)
+From: liang ming <zhong@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgv7S1vdK7ts6yu7TttcS7sKOsuse6xw==?=
+To: guan@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+    当男女之间进入牵手这一非常重要的确立“江湖地位”的阶段之后，男女双方往往都
+会产生一些不良习惯，男人往往会因为觉得已经开始确立自己在女人心目中的地位而不再
+像从前那么积极，而女人也同样认为自己已经占据男人心目中重要的地位而变得理所当然
+的提出更多的要求。所以，一般影视剧都会将爱情定格在男女双方关系的确立上，他们未
+来的相处会怎样很难估计，如果有幸部分影视剧有续集的部分，男女主角一定会经历分手
+的场景。男女关系的确立只能说明他们的爱情进行式进入了一个新的阶段，而这个阶段才
+是最“艰辛”和充满未知数的历程。

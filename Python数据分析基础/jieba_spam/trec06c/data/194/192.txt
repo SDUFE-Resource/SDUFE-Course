@@ -1,0 +1,53 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <yang@ccert.edu.cn>; Tue, 27 Sep 2005 22:44:09 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Tue, 27 Sep 2005 14:55:03 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Tue, 27 Sep 2005 14:55:03 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <yang@ccert.edu.cn>; Tue, 27 Sep 2005 08:06:10 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <yang@ccert.edu.cn>; Tue, 27 Sep 2005 10:02:36 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 22:54:51 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <chen@motorola.com>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtLTU7Lzb1rUtLbGmveC089bQu6rH+L/Nu6eyxs7xsr/X3L6twO3H5buq0d29srvhICjXqtTY
+KQ==?=
+Date: Tue, 27 Sep 2005 22:54:26 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+【 以下文字转载自 Career 讨论区 】
+发信人: HBeyond (Hub◎The last live~~~the last song), 信区: Career
+标  题: 创造价值--宝洁大中华区客户财务部总经理清华演讲会
+Acing Your Job
+清华大学职业辅导活动月第二场演讲--创造价值（Value Creation）
+9月28日（周三）晚19：00   就业中心大报告厅
+主讲人:   Suran Suranjan 
+宝洁大中华区财务部总经理(Director, Finance &amp; Accounting)
+讲座简介:
+The Seminar offers a view into how F&amp;A can lead value creation in a business such as P&amp;G’s, from day to day business operations to long term strategic planning. Influencing and leading the business to create value will ensure the company sustains a winning advantage in the competitive consumers products industry.   
+影响并领导商业经营行为，从而实现价值的创造将会为公司在竞争激烈的消费品市场赢得持续领先的优势。从日常的商业经营还是到长期的企业战略制定过程，讲座将会多方面多角度向大家展示财务部在宝洁公司中所发挥的作用。
+主讲人简介:
+Suran Suranjan
+1994            Cost Analyst, US Fabric &amp; Home Care Product Supply Finance
+1995            Senior Analyst, US Fabric &amp; Home Care Forecasting
+1996            Senior Analyst, US Customer Business Development Finance
+1998            Group Manager, NA Customer Business Development Finance
+1998            Group Manager, PG Chemicals, Product Supply Finance
+2000            Associate Director, NA Cosmetics
+2002            Associate Director, Global CBD Finance
+2004            Associate Director, Greater China Skincare &amp; Cosmetics
+2005            Finance Director, Greater China Beauty Care
+期待大家的关注。演讲现场提问的同学可获赠礼品

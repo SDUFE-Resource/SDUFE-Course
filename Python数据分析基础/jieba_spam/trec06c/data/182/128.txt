@@ -1,0 +1,29 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 07:50:20 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 07:12:38 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "wang" <wang@cert.org.cn>
+To: zhang@ccert.edu.cn
+CC: "zhao@ccert.edu.cn" <qing@ccert.edu.cn>,
+   "tan@ccert.edu.cn" <zhou@ccert.edu.cn>,
+   "yang@ccert.edu.cn" <xu@ccert.edu.cn>, "gao@ccert.edu.cn" <zeng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvsXUwrXay8TW3Nfu0MLV0Ma4u+HQxc+i1fvA7Q==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 07:58:05 +0800
+
+九月第四周最新招聘会信息整理：
+http://www.jobmm.com/jobmeeting.asp
+-----
+我们长期与用人单位及各高校合作，建立企业与人才间的双向服务
+是对学生完全“免费”，且“简单”“实用”的非营利站点
+应聘者请注册登录 http://www.jobmm.com/addnew.asp 投递简历，
+还可以下载中英文简历模版，中英文求职信模版
+以及应用简历制作导航自动生成word,txt,及电子版简历
+并由 http://www.jobmm.com 浏览每日提供之数百条企业招聘信息
+九月第四周最新招聘会信息整理：http://www.jobmm.com/jobmeeting.asp

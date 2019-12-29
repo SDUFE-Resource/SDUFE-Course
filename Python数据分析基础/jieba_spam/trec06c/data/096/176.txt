@@ -1,0 +1,23 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <ma@ccert.edu.cn>; Wed, 7 Sep 2005 09:35:11 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Wed, 7 Sep 2005 01:47:26 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Wed, 7 Sep 2005 01:47:26 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Wed, 7 Sep 2005 01:47:26 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "jin" <jin@iim.ac.cn>
+To: ma@ccert.edu.cn
+Subject: =?gb2312?B?ofEgu7bTrdGh0N7Wo76puqPAz8qm0MK/qr/Os8yhsL6tvMPU9rOk16jM4qGx?=
+Date: Wed, 7 Sep 2005 09:47:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+哥

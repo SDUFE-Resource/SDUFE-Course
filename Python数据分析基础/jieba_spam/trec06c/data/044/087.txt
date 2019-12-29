@@ -1,0 +1,27 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <xia@ccert.edu.cn>; Fri, 26 Aug 2005 14:48:03 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Fri, 26 Aug 2005 06:37:38 -0000
+From: "ou" <ou@mails.tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 15:01:20 +0800
+
+北京格林威尔科技发展有限公司
+研发部    
+职位：逻辑设计工程师
+工作所在地：北京
+要求：
+1.本科以上学历，通信、计算机、电子相关专业经验。1-2年的相关专业工作经验；
+2.熟练掌握vhdl（或verilog）语言，具备较强的RTL代码能力；
+3.熟悉FPGA的开发流程，熟练掌握quartus、ise等FPGA开发工具，modelsim仿真工具，了解逻辑分析仪、示波器等基本工具的使用；
+4.熟悉以太网的基本知识，熟悉二层以太网的测试仪器（smartbit、md1230a等）；
+5.丰富的项目开发经验，至少开发过2-3个FPGA设计的项目。
+如有任何疑问，或投递简历，请发信至gwhr@gwtt.com

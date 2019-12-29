@@ -1,0 +1,30 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R2Ql7k015088
+	for <ke@ccert.edu.cn>; Thu, 29 Sep 2005 07:08:05 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8R2U2q21285;
+	Thu, 29 Sep 2005 07:11:20 +0800
+Message-Id: <200509270230.j8R2U2q21285@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 23:11:20 UT
+To: ke@ccert.edu.cn
+From: gu@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtE1JVLrNy67EvrbUtP3N9dvztcTMrLbIsrvNrKO/?=
+
+他说的经费支持就是指你当研究生拿的钱.
+老板没经费了, 你就准备走人吧. 
+     标  题: Re: 为什么MIT和水木对待王垠的态度不同？
+     
+     3,因为国内导师根本就没有经费支持
+     
+     
+     : 1，大环境，国内国外还真差不多，所不同的是不同的水平。
+     : 2，很多人在国内，会觉得这个不好，那个不行，但是一旦到了国外，
+     : 就顺从的不行，认为：人家就是这样的。
+     
+     --
+     

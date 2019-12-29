@@ -1,0 +1,25 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <gan@ccert.edu.cn>; Wed, 28 Sep 2005 11:03:22 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 03:14:32 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 11:14:32 CST
+Date: Wed, 28 Sep 2005 11:14:32 +0800 (CST)
+From: liang ming <kong@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM7S09C148Cnu/M=?=
+To: gan@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+     我觉得这件事情你有一点自我了，读完你的文章觉得你的gg已经作了它能做的一切事情了，许多事情之所以没有做是因为他的性格和处事原则，并不是说他做错了。
+     希望你不要总觉得自己想的才是对的，换位思考一下，个人认为你gg已经作了他能做的一切了，他的到现在这个局面比你有更多的委屈！
+     没有冒犯你的意思，只是觉得你的gg在这个问题上心情一定比你的差，为难的感觉往往比单纯的生气痛苦的多，理解他一下吧。
+我一直很体谅他
+只是不明白为什么他就是不肯跟她说清楚以后不要再联系了
+你能告诉我吗

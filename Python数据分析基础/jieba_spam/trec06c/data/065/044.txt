@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UNMoHg011058
+	for <che@ccert.edu.cn>; Wed, 31 Aug 2005 23:42:06 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 23:44:11 +0800
+Message-ID: <325444295.10797@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 23:44:11 +0800
+Message-ID: <325444295.10780@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 23:44:11 +0800
+From: you@mail.tsinghua.edu.cn
+To: che@ccert.edu.cn
+Date: Wed, 31 Aug 2005 23:44:11 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfrvcyjrLbBsqlvcrmk1/ejvw==?=
+Content-Type: text/plain
+
+那就不用读博士，找个技术水平比较高的地方工作，不要在乎钱
+        我现在是工科的应届硕士生，我想读博提高一下自己的科研能力，但是听说博士出去到学校当老师比较合算，如果当老师肯定大部分时间搞科研，这是我不想期望的。
+        我现在只是想通过读博提高一下自己的专业水平，但是不可能长期搞科研的，所以想问一下各位工科博士毕业后想不长期搞科研，应当去哪？
+        恳请各位指教，谢谢！

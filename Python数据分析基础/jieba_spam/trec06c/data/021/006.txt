@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <cheng@ccert.edu.cn>; Sun, 21 Aug 2005 08:59:17 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <cheng@ccert.edu.cn>; Sun, 21 Aug 2005 09:12:31 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 08:41:12 +0800
+Date: Sun, 21 Aug 2005 09:12:22 +0800
+From: "lin" <lin@wnt.com.cn>
+To: cheng@ccert.edu.cn
+Cc: "lic" <hou@ccert.edu.cn>, "sunt" <wen@ccert.edu.cn>, "caoy" <huang@ccert.edu.cn>,
+        "wangb" <chen@ccert.edu.cn>, "songhm" <ding@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgqUnU2dK7tM7M+NxTqUkyMDA1IDA4IDE1t7W72MyonrPHsLXEu9jumaO6336wocPctcTTm5Gb?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+美

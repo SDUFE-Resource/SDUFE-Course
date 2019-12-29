@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <gong@ccert.edu.cn>; Mon, 22 Aug 2005 01:02:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <gong@ccert.edu.cn>; Mon, 22 Aug 2005 01:15:57 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 17:10:34 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "gan" <gan@mail.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Cc: "tunet" <guan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvdTE3KOo0cfW3qOp09DP3rmry77V0Ma40rXO8bT6se2horL6xre+rcDt?=
+Date: Mon, 22 Aug 2005 01:12:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+皆能（亚洲）有限公司是一家专业技术服务
+公司。近二十年来，在中国的科学技术领域
+结识了众多老师和朋友，并建立了长期稳定
+的联系。所提供的产品正服务于北大、清华
+、中科院、军事科学院、环境科学院、中国
+工程物理研究院、中国兵器工业集团等单位
+。现因业务发展，公司计划在北京、深圳招
+聘业务代表、产品经理若干名。研究生学历
+和有工作经验者优先考虑。
+详细信息可浏览公司网站 
+www.guyline.com.hk, 有意加盟者，请将个
+人简历邮寄到：北京市西城区西直门外大街
+新兴东巷甲15号，北京洲际华侨酒店1406室
+， 皆能（亚洲）有限公司人力资源部收。邮
+政编码：100044

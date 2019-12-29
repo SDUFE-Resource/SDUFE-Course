@@ -1,0 +1,26 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <zhong@ccert.edu.cn>; Sat, 20 Aug 2005 21:03:25 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <zhong@ccert.edu.cn>; Sat, 20 Aug 2005 21:16:29 +0800 (CST)
+Date: Sat, 20 Aug 2005 21:10:46 +0800
+From: "wua" <wua@sohu.com>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7V0Ma4ob+wy7fW1tO+48DWsr/V0Ma40rvD+9K1zvHW+sDto6jIq9awyrXPsMn6o6k=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+【招聘】八分钟俱乐部招聘一名业务助理（全职实习生）
+岗位职责：负责俱乐部的日常工作、活动主持工作。
+工作地点：北京王府井东方广场E2写字楼/五道口华清商务会馆
+要求
+1. 全职实习生。
+2．本科/研究生在校生，可以工作6个月以上。
+3．文笔好，善写作。
+4．普通话标准，形象好,性格开朗大方，思维敏捷，善交际，有主持人经验者优先。
+5．时间观念强，做事规范，有责任心，对俱乐部活动有兴趣。
+有意者请发简历至bamboo1103@163.com，邮件标题注明“应聘”

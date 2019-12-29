@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <tian@ccert.edu.cn>; Fri, 23 Sep 2005 21:36:59 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <tian@ccert.edu.cn>; Fri, 23 Sep 2005 21:48:20 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 13:25:20 -0000
+From: "weng" <weng@mail.tsinghua.edu.cn>
+To: tian@ccert.edu.cn
+Cc: <hu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Fri, 23 Sep 2005 21:48:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+他要是李嘉诚的儿子就不用paper drive了，呵呵
+     其实这哥们儿思维挺混乱的，看他的志向似乎是想当科学家，但计算机很多都是技术层面的东西，能满足他研究欲望应该去搞理科那4样。所以如果他真的是那么牛的话，读研的时候应该转行才对。如果他读研之前没意识到应该转行，说明他还没看透，也不算什么牛了。
+     再说现在做science的人也是paper drive啊，不然你凭什么申请funding来支撑实验室呢？若是这位仁兄固执己见的话，地球上估计是没有他的position了。

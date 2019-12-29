@@ -1,0 +1,21 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <weng@ccert.edu.cn>; Fri, 2 Sep 2005 23:00:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <weng@ccert.edu.cn>; Fri, 2 Sep 2005 23:13:04 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 23:02:43 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 23:02:43 +0800
+From: yun@mail.tsinghua.edu.cn
+To: weng@ccert.edu.cn
+Date: Fri, 2 Sep 2005 23:02:43 +0800
+Reply-To: yun@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7S08PSu7j2yu682cil17fL/aOs08PSu8zsyqfIpcHLy/2joQ==?=
+Content-Type: text/plain
+
+     我们一自习，一起吃饭，一切都发展进很快。但即便如此，我还是在犹豫，我是否可以好好地照顾她！ 
+     给她找资料，带好，给她送饭。她从家回来了，第一个就给我电话，我知道有好几个人在追她，而这一切...... 
+     她看到了我的移动硬盘中写有“情书”字样的WORD文件，她问是写给谁的，我说我乱写的，没敢说其实就是写给她的；在她的宿舍本来有机会去抱她，但我没有，而是径直地走开了...... 
+努力练习吧，等遇见更好的，就不那么。。。。。

@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <tu@ccert.edu.cn>; Sun, 21 Aug 2005 20:53:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <tu@ccert.edu.cn>; Sun, 21 Aug 2005 21:06:28 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 13:01:05 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "su" <su@mail.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Cc: "tunet" <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNKw787Ss/az9tb30uKwyQ==?=
+Date: Sun, 21 Aug 2005 21:02:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我5点钟就下班了，现在还留在办公室就是想尽可能的知道大家的意见
+我当版主也有几年了，版面管理的事情我也了解
+但是我还是觉得你的办法欠妥
+我也已经和你说了
+把这篇文章设为不可re
+并且在文章里说明回复到信箱
+刚才接到母亲电话告诉我那件事，我就已经觉得吃了苍蝇一样恶心
+不想再在这里吵架了
+     其实我建议你到法律版去比较合适
+     遇到无聊诬赖的人呢,不动真格的她不让步的
+     一般情况的处理方法是没有任何用处的

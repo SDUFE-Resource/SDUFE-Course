@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FDF2nP003737
+	for <tao@ccert.edu.cn>; Sat, 17 Sep 2005 02:09:34 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FDQpvs001563
+	for <tao@ccert.edu.cn>; Sat, 17 Sep 2005 02:21:23 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Fri, 16 Sep 2005 18:02:35 -0000
+Message-ID: <003701c5b9f9$461a6f60$787d6fa6@hotline>
+From: "zhao" <zhao@mail.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhTeW1iaWFuv6q3ormks8zKpl0=?=
+Date: Sat, 17 Sep 2005 02:22:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0034_01C5BA3C.5412CED0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+技术要求：
+1.熟悉熟悉c，c++,java语言；
+2.一年以上Symbian平台开发经验，有Symbian平台游戏开发经验更佳;
+3.熟悉windows mobile平台或J2me平台开发；
+岗位要求：
+1.本科学历，计算机或相关专业
+2.有团队合作素质，同时能够应对高强度压力工作
+3.如是应届研究生可以解决户。
+4.待遇年薪6-8万
+北京凌视在线信息技术有限公司系凌视传媒机构在2005年新近成立的一家无线增值技术公司
+公司地址在清华科技园学研大厦b709,联系电话62790308-800
+希望有兴趣的同学请回站内信箱或者zhangxw@04tech.com
+简历一定要注明自己的技术特点和相关经验。 我们会组织面试 

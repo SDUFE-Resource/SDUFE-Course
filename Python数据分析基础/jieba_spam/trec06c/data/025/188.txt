@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <jiang@ccert.edu.cn>; Mon, 22 Aug 2005 09:54:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <jiang@ccert.edu.cn>; Mon, 22 Aug 2005 10:07:31 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 02:02:08 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "xia" <xia@mail.tsinghua.edu.cn>
+To: jiang@ccert.edu.cn
+Cc: "tunet" <guan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEguNW41cGs0rm/tM3qwcvKwL3ntPPVvQ==?=
+Date: Mon, 22 Aug 2005 10:03:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+刚刚连夜看完了世界大战，感觉还是不错的嘛，挺好看的，hoho，场面制作也还不错。
+那些外星人怎么进化了那么多年就长这样啊，而且还用那么落后的器械，几个手榴弹就打坏了，还搞了那么难看的笼子来装人，哈哈，美国人也很奇怪，居然派出那么落后的武器去打外星人，看来是藏富阿！
+令我不解的是他们那人类的血作肥料想种什么东西啊？？而且干吗非要等那么多年要用人类的血呢，奇怪！不过还是有点哲理意义的，看来难以战胜的事物居然毁在不起眼的小东东上。
+到最后有了点搞笑意味，感觉像过家家，原本应该是一场大灾难阿！阿汤哥怎么肥成这样了，在吸血鬼里他和brad都好帅阿！

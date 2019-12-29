@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <weng@ccert.edu.cn>; Fri, 23 Sep 2005 10:15:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <weng@ccert.edu.cn>; Fri, 23 Sep 2005 10:27:27 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 02:04:33 -0000
+From: "mei" <mei@mail.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+Cc: <yana@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtPO80tei0uLBy6Os09DIy9TazbzK6bndy8Sy47XEzNiy2MrSx7C58dfTxMPX38HLztK1xMrW
+u/rIpdM=?=
+Date: Fri, 23 Sep 2005 10:27:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+大家注意了，有人在图书馆四层特藏室前的放包柜子，拿走了我的手机去用了！我的手机很旧的，拿去就拿去了，可惜我的里面有几年来与我联系的几百人的号吗，太可惜了，这个兄弟，能不能把号码卡片送到新馆的保安处呀！其实我已经在监控录象认识你了，你来去匆匆呀！这个兄弟，你没有手机的话，就用我那个吧，旧是旧了点，以后不能再拿别人的哦！其他同学不要不小心再给他送手机了！他已经有了！呵呵！

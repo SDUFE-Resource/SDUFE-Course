@@ -1,0 +1,24 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <shi@ccert.edu.cn>; Wed, 24 Aug 2005 03:38:12 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 03:51:19 +0800 (CST)
+Date: Wed, 24 Aug 2005 03:45:05 +0800
+From: "yang" <yang@sohu.com>
+To: shi@ccert.edu.cn
+Cc: "yxl" <jin@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+vOytK7uPbRp8n6tbWwuLK7xNzJz7Gjz9W1xM7KzOKjrNTaz9+1yKOtvLE=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+5月底进了一家公司，不解决户口，因此学校给我下发了派遣证，将我的户口和我的档案都
+打回老家了，三个月的试用期里面，公司说国家规定试用期可以不用上保险，就没上
+现在试用期过了，公司要我的档案，我的档案现在在家里，公司说也是属于学生档案，必须在当地人才中心，半年后做完转正定级，方可往北京调。
+也就是说，我即使现在能拿回档案，也没有用，属于学生档案，公司不给上保险
+请问我该怎么办？？？急 啊
+另外问下，公司的保险费是从我的工资里面扣的吗？我跟公司约定的是税前的工资，如果不给我上，那工资会不会多点？

@@ -1,0 +1,24 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2Qvx5029940
+	for <gao@ccert.edu.cn>; Sat, 20 Aug 2005 04:13:08 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A377.00010B.12784@m52.126.com>
+Date: Sat, 20 Aug 2005 04:25:51 +0800 (CST)
+From: "fan" <fan@126.com>
+To: gao@ccert.edu.cn
+Bcc: "xjhxf@263.net" <xjhxf@263.net>,"jmwhxf@sina.com" <jmwhxf@sina.com>
+Subject: =?gb2312?B?UmU6INK7uPbQobmry761xGN0b7rNvt7Qzbmry761xLmks8zKpg==?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_bOPJtnjNRxiIvorDRthwNKQyQThj"
+
+在那种所谓的名企里面，整天就是来一个feature，然后coding，然后测试 ―― 一个真正的工人，做的事情都是具体的不能再具体了
+想进入一个稍微不太具体的工作，都好难
+去这种小公司的犹豫是：
+1、去了相当于以前的技术经验基本没用了
+2、假如从小公司再出来，不知道那里的管理、规划经验是否用的上，因为小公司做的东西是某个具体领域的，而出来之后极其可能不再做那个领域了
+如果是我，我就考虑赚钱，技术又不是创造性的东西，何必苦苦去钻研呢；但是现在技术已经成了唯一的一个吃饭家伙了，很累，而且以后越做下去，对他的依赖性就越强，然后其他方面的能力就退还的越厉害
+     呵呵，为什么你觉得选择有困难呢？
+     如果是我，首先要考虑5年以后自己愿意做什么样的
+     事情，然后才能决定选哪个。

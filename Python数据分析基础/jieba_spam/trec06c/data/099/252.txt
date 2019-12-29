@@ -1,0 +1,19 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j874iPdV032722
+	for <yun@ccert.edu.cn>; Thu, 8 Sep 2005 01:33:52 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by smtp119.sohu.com (Postfix) with ESMTP id 84D5F0526C87
+	for <yun@ccert.edu.cn>; Thu, 8 Sep 2005 01:45:54 +0800 (CST)
+Date: Thu, 8 Sep 2005 01:46:03 +0800
+From: "hong" <hong@sohu.com>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?ofEgt6LKxNTZ0rKyu7j4R0fX9rarzvez1MHLIQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907045627.84D5F0526C87@smtp119.sohu.com>
+
+  到现在心里还是有一股难忍的火,不说说今晚睡不着.
+   真是窝火.......干嘛拿自己的热脸贴他的冷PP呢...对他再好有用吗?以为他会改,会对我好点.这才没过几天,看来是性格不合..没法过了.

@@ -1,0 +1,20 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <long@ccert.edu.cn>; Tue, 27 Sep 2005 20:28:11 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Tue, 27 Sep 2005 20:31:26 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 12:31:24 UT
+To: long@ccert.edu.cn
+From: wua@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgztK8x7XDo6zE48rH09DIqNeq1+K1xA==?=
+
+    你取得的是使用权，这期限内，你可以自由支配这个权力。包括对此权力的转手。但房屋的所有权是房东的，如果下家对此房屋有所损害，对房东直接负责的，是你。而你也没必要让你找好的下家和房东见面，或是得到她的认可，因为这个责任是由你来负的。你和下家的交易，与房东无关。但你和房东之间的合同，你有履行的责任。
+    我记得是这样，可能当年的商法没有学好，说的不是很清楚。呼唤牛人出来。
+     如果房东不同意的话

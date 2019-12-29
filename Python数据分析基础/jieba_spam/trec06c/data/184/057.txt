@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <qiu@ccert.edu.cn>; Sun, 25 Sep 2005 16:41:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <qiu@ccert.edu.cn>; Sun, 25 Sep 2005 16:53:13 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 08:30:10 -0000
+From: "xing" <xing@mail.tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+Cc: <hong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Svs3WqrXA09DIy7vhzPiz9sC0t7SytVJlOiDOqsqyw7S087zSw6TEv7PnsN3N9dvzo7+j
+v6M=?=
+Date: Sun, 25 Sep 2005 16:52:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+你懂，你牛
+呵呵
+     王就是皇帝的新衣中的那个小孩。或者说，王勇敢地说出来自己没穿衣服，但同时也说和他一起的人也都是光屁股。于是，其他光屁股的人就跳出来说其实只有王才是真正的光屁股。
+     不过这篇檄文火力太弱了，甚至前后矛盾。人家可以写出best paper，还会不能毕业？还敢攻击人家根本不懂科研？ 莫非尔等真正懂科研的人是不屑发表best paper的？
+     中国科研的可怜支出就在于此了。

@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <chi@ccert.edu.cn>; Wed, 31 Aug 2005 08:56:12 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <chi@ccert.edu.cn>; Wed, 31 Aug 2005 09:08:54 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 08:58:33 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 08:58:33 +0800
+From: ma@mail.tsinghua.edu.cn
+To: chi@ccert.edu.cn
+Date: Wed, 31 Aug 2005 08:58:33 +0800
+Reply-To: ma@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW8rbXSDH5buqvajW/teo0rUgv7zR0NfKwc8gyKvM1w==?=
+Content-Type: text/plain
+
+ 清华大学 建筑学专业历年试题和笔记                                                                                     
+     历年试题有建筑设计，建筑技术，建筑历史内容很多，从89年的开始，复习的时候很有用                                        
+，后来考的时候也有很多重复的试题出现                                                                                    
+     笔记有建筑构造和建筑历史及电子版的各科笔记                                                                            
+     因为经过多番周折才得到这些资料，有些也是高价买来的，希望各位研友见谅                                                  
+     联系方式   13810447747
+站内也可
+:

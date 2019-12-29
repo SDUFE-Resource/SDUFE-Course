@@ -1,0 +1,22 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <hou@ccert.edu.cn>; Sun, 28 Aug 2005 05:09:27 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 05:20:00 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sun, 28 Aug 2005 05:20:00 +0800
+From: "zhou" <zhou@ctbu.edu.cn>
+To: hou@ccert.edu.cn
+Date: Sun, 28 Aug 2005 05:20:00 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "zhou" <zhou@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgzu/A7cDgU0NJwtvOxNGwx/PK8MP7us/X99Xf?=
+Content-Type: text/plain
+
+发信人: Wilczek (Asymptotic Freedom), 信区: AimGraduate
+标  题: 物理类SCI论文寻求署名合作者
+如果您拥有一篇署名的SCI论文，那么您在考研的征程中就具有了更大的优势！本人现在有一些文章初稿已经完成，但是还需要一些数值方面的工作和结果，很简单，用matlab就能搞定。现在寻找合作者，一起合作完成论文，然后投稿给核心期刊或SCI刊物。署名顺序可按照姓氏笔划排序，或者其他方式。你要先付一定的订金，并写好合同，如果成功发表，再付剩下的报酬。如果最终没有被发表，我将退还定金。
+强调：是合作，你必须参与到论文工作中，当然我会尽力帮助你。
+请志同道合者站内联系。或发短信到13811119662。
+本人已发表SCI论文：Chinise Physics Letters 1篇，Physical Review D一篇，Physics Letters B 一篇， Modern Physics Letters A 一篇。

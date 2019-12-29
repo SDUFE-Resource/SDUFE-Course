@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82FXXc8032690
+	for <zhao@ccert.edu.cn>; Sat, 3 Sep 2005 22:07:25 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FVva4032094
+	for <zhao@ccert.edu.cn>; Sat, 3 Sep 2005 22:06:02 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FVsOj032090
+	for <zhao@ccert.edu.cn>; Sat, 3 Sep 2005 22:05:45 +0800 (CST)
+	(envelope-from cmk@ns.6test.edu.cn)
+Received: from [221.218.34.129] (helo=[192.168.0.225])
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1EBEP4-000214-00; Sat, 3 Sep 2005 23:02:25 +0800
+Message-ID: <43187389.7080805@ns.6test.edu.cn>
+Date: Sat, 3 Sep 2005 22:19:04 +0800
+From: Maoke CHEN <kong@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0.2 (Macintosh/20050317)
+MIME-Version: 1.0
+To: zhao@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?aGVscH5+fsutwcu94mJ0tchwMnDTptPDtcTTptPDsuM=?=
+	=?GB2312?B?uPHKvaO/?=
+In-Reply-To: <200509011321.j81DLpFM024763@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: zhuang@ccert.edu.cn
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+sb学者
+         本报讯(记者林文龙)“应对本地人和外地人实施不同房价，是控制人口的有效方法”，首都经贸大学人口研究所周浩博士的这个观点经本报报道后，在读者中引起强烈反响。有读者认为，差异房价是控制人口的有效手段；但也有读者认为，此观点太偏激，是对外地人的歧视。
+     “提高房屋租金控制流动人口”
+     　　前天下午，周浩博士与北京市人口和计划生育委员会政策法规处副处长周新茹做客北京市政府官方网站时表示，控制人口要提高生活必需的消费水平，使一批人无法在北京生活。其中，对本地人和外地人使用不同购房价格是控制人口的一种有效手段。而提高租房价格则会控制流动

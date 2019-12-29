@@ -1,0 +1,26 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <ding@ccert.edu.cn>; Thu, 8 Sep 2005 18:02:09 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Thu, 8 Sep 2005 10:14:24 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Thu, 8 Sep 2005 10:14:24 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Thu, 8 Sep 2005 10:14:24 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "feng" <feng@iim.ac.cn>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTQxa7J+su8zqy1xLLu0uzV5rTzsKEtLbP1vLbX3L3hsOY=?=
+Date: Thu, 8 Sep 2005 18:14:30 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+第一条总结得很好呵呵
+     实在无聊，来谈谈男女思维的差异。欢迎大家探讨。
+     1、据男生说：男生都比较直接。如果他对哪个女生好、帮忙，或者请吃饭、出去走走、聊聊什么的，基本都是对这个女生有意思，是委婉的追求。
+     据女生说：如果哪个男生像上面这样对她，或者她这样对男生，有可能是喜欢，也有可能是单纯的友谊――想这个人不错啊，对我很好，做个朋友挺合适，可是做男朋友不行没感觉。

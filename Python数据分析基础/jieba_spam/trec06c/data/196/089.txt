@@ -1,0 +1,22 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <cheng@ccert.edu.cn>; Wed, 28 Sep 2005 05:47:23 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 21:58:34 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 05:58:33 CST
+Date: Wed, 28 Sep 2005 05:58:33 +0800 (CST)
+From: liang ming <hua@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IL+0x+WwrsfptcSxvsC0w+bEv7DJo6GjoaOho6E=?=
+To: cheng@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+第一段和第三段有强烈的共鸣感.
+btw:改日再发吧，经典文章一次发多了，我都re不过来了。
+     　　　曾经看过韩国的一部探讨情感的片子，名字忘了。有个音乐MTV叫《所谓爱情》，把主要情节都概括了：女孩的眼睛一次意外失明了，需要别人捐献角膜，她的男朋友捐给她了，但自己因此失明。男友为了以后她的幸福，悄悄离开了。女孩开始还以为是因为她受伤男友才走的，

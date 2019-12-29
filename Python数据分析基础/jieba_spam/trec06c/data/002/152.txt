@@ -1,0 +1,20 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <kang@ccert.edu.cn>; Mon, 15 Aug 2005 08:53:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <kang@ccert.edu.cn>; Mon, 15 Aug 2005 09:06:45 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 09:01:40 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 09:01:40 +0800
+From: guan@mail.tsinghua.edu.cn
+To: kang@ccert.edu.cn
+Date: Mon, 15 Aug 2005 09:01:40 +0800
+Reply-To: guan@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILTyzP249srCx+mjrLPCv6246LXEobbO3ryrobfU9cO0w7u2r76ywcs=?=
+Content-Type: text/plain
+
+看成千里走貂禅了，不知道眼睛怎么了
+     海峡都市报  2005-08-15 10:16
+         本报讯  张艺谋的新电影《千里走单骑》，将于今年12月16日在全国公映。而声称耗资3亿的《无极》公映期，一直保持神秘。昨晚，记者从北京影视圈张先生处获悉：为了确保《无极》上映形成高潮，有关投资者正式确定《无极》的公映期为2005年12月15日，陈凯歌与张艺谋的

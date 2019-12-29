@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J65V6j013138
+	for <yun@ccert.edu.cn>; Wed, 21 Sep 2005 14:02:31 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J61MoI086766
+	for <yun@ccert.edu.cn>; Wed, 21 Sep 2005 13:58:48 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J61Hls086762
+	for <yun@ccert.edu.cn>; Wed, 21 Sep 2005 13:58:19 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15003 invoked by uid 512); Wed, 21 Sep 2005 06:06:42 -0000
+Message-ID: <20050919060943.15002.qmail@stu.ee.tsinghua.edu.cn>
+From: hong@stu.ee.tsinghua.edu.cn
+To: yun@ccert.edu.cn
+Date: Wed, 21 Sep 2005 14:06:42 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEgsai45rb50dDL+cLyuMa8xw==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+    儿子缺钙，网上学习了一番，准备去儿研所买复合钙II冲剂。
+    中午从清华出发，在五道口坐331到终点站新街口豁口，换乘44路到雅宝路站下车，步行到雅宝路尽头右转即到儿研所附属儿童医院，这个和月坛那里的儿童医院不是一回事。步行时间大约10分钟。
+    在大厅预诊咨询处领一个保健的小条子，拿着该纸条到挂号处挂号，没有病例本，挂保健科的普通门诊，交费5.5元，然后拿着病例本、挂号条上4楼，进入保健科，直接告诉医生想开复合钙II号，医生问有没有吃伊可新，家里有，没要。复合钙可以随便开几盒，我要了5盒。然后拿着处方单、挂号单等一系列纸条子，下一楼，划价，得知每盒36.1元（60袋×2g，可以吃一个月左右），共180.5元，交完钱，拿着收据去药房的指定窗口（机打的收据上说明了去哪个窗口）取药。完成。 进入儿研所到开完药，共用去不到15min。
+    出来继续坐44路到新街口豁口，换乘331路回清华。
+    历时：共3个半小时。
+    费用：车费共4元，药费共180.5元。
+    仅开钙这样的药，可以不用带孩子去。
+    顺便问了一下医生，说周一到周五都可以为孩子做微量元素测定，费用大概二十多。

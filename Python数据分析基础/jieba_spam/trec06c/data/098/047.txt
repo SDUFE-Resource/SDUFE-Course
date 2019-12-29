@@ -1,0 +1,22 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j874iPdV032722
+	for <shen@ccert.edu.cn>; Wed, 7 Sep 2005 17:26:12 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by smtp119.sohu.com (Postfix) with ESMTP id 84D5F0526C87
+	for <shen@ccert.edu.cn>; Wed, 7 Sep 2005 17:38:14 +0800 (CST)
+Date: Wed, 7 Sep 2005 17:38:23 +0800
+From: "sun" <sun@sohu.com>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTH1rDByw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907045627.84D5F0526C87@smtp119.sohu.com>
+
+.....
+bless
+     水母社区内测得时候我进来了，忙活了半天搞了一个制版方针，其实还是抄的原来arrowpower的那个，又招几个核心网友。然后从原来伪站的版三变成了版大。
+     这么久过去了，版面水化现象比较严重了，我有责任，而且事情是从原来伪站那个时候就开始了。
+     近期原创较多，也希望其他的版主能处理好版面的工作，别让老人们失望啊，因为过去卸任的那些人（包括将来的我在内）都会继续潜水关注的。

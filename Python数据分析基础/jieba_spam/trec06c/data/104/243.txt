@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j87BlNH3002554
+	for <weng@ccert.edu.cn>; Fri, 9 Sep 2005 02:52:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j87Bxb76001146
+	for <weng@ccert.edu.cn>; Fri, 9 Sep 2005 03:04:52 +0800 (CST)
+Message-Id: <200509071159.j87Bxb76001146@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 8 Sep 2005 18:50:19 -0000
+From: "hong" <hong@mail.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+Cc: <sun@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztLV4srH1PXDtMHLo78=?=
+Date: Fri, 9 Sep 2005 03:04:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C5B3E6.AA53DD40"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzo5wDUyjmuLAhQNybYzBBmyxuiw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+  最近心情一直很好，而且也经常出去玩，每当工作累的时候我就想出去释放一下心情，所以我觉得自己没有任何压力。因为所有的一切都能用好心情掩盖过去。但是现在我无法用心情掩盖我的不快，从昨天开始我很不高兴，说起来会觉得自己很莫名其妙的，不知道为什么？我是一个很看重朋友的人，我也希望被我重视的朋友能够重视我，所以当朋友对我不再有以前的热情的时候我会觉得心里落差很大，也许这是我不快乐的原因吧（这里说的朋友是指绝对的异性朋友，没特殊关系的）。
+  我是天生的乐天派，但是也不能否认我也喜欢用哭来解决一些问题，因为我是女人。昨天在洗澡的时候我哭了，我不想让大家看到我的泪，哭过之后我好多了，只能说心情好了，可是这并不代表我不去想很多事，昨夜失眠，我想了很多，对朋友的好是无私的，为什么我现在会想别人也对我同样的好呢？
+  我到现在也不能明白，我的心情到底和什么有关？也许一个人，也许一件事~~~
+                 郁闷中~~~~~~~~~~~~~~~~~

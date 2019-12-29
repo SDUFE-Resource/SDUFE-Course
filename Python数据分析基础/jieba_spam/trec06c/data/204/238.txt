@@ -1,0 +1,20 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <pan@ccert.edu.cn>; Thu, 29 Sep 2005 15:46:35 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 07:57:46 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 15:57:45 CST
+Date: Thu, 29 Sep 2005 15:57:45 +0800 (CST)
+From: liang ming <liu@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgztK+9bXDv8bRp7W9z9bU2tLRvq3Kx9K7t925pNf3wcs=?=
+To: pan@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+科学的细化和高度的资金需要，使得过去那种创造知识，发现知识的为基础的研究不可能 再继续下去啦。而且如果要有所突破，必须有大量的人力物力投入，而投入的人或公司国家不可能没有现实的目的。像爱因斯坦那样靠兼职就能做出那样的理论的时代已经过去了。所以，科研，我以为就是一份工作。如何评价你工作怎么做得好，这的确是个问题。不像工厂，可以有利润这些，而科研不是直接反映经济价值。所以，paper也许是很无奈的衡量标准。你工作，就要考核，这是天经地义的事情。如何这个paper考核的方法已经严重扭曲甚至阻碍了科学的发展，那就需要改正。如同现在在我们国内存在的问题一样。如何改正，需要大家好好想想。

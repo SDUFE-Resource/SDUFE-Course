@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9qIIm028353
+	for <gu@ccert.edu.cn>; Fri, 30 Sep 2005 16:33:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SA3UnO014607
+	for <gu@ccert.edu.cn>; Fri, 30 Sep 2005 16:44:15 +0800 (CST)
+Received: (eyou send program); Fri, 30 Sep 2005 16:18:40 +0800
+Message-ID: <327900275.22130@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Fri, 30 Sep 2005 16:18:40 +0800
+From: zhu@mail.tsinghua.edu.cn
+To: gu@ccert.edu.cn
+Date: Fri, 30 Sep 2005 16:18:40 +0800
+Reply-To: zhu@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgzqrKssO0tNO0/c312/O1xMrCvP4gztK/tLK7tb3H5buqtcShsLrxtcLU2M7vobGjvw==?=
+Content-Type: text/plain
+
+这使我想到了一个实验
+一群猴子，关在一个笼子里面。笼子最顶端挂着一串香蕉。一开始猴子们只要拽香蕉，就会被用高压水枪猛射。
+后来猴子们习惯了，只要有新来的猴子们想要拽香蕉就会被猛k一顿。其实后来工作人员早就把高压水枪撤了。
+大家在用自己的规则要求别人
+没有人比别人自己更知道自己需要什么
+很多事情很难用一个对错来评判
+留下的不一定都好
+走了的不一定都不好
+没有改变的不一定都好
+改变得不一定都不好
+没有走过的路
+总得有人走
+后面得人 才能得到经验和教训
+没有一个最后的结果前
+没有一个人能下一个正确的评判
+只有多年以后的历史
+只有客观事实
+可以给一个比较客观的评判
+或许凡高当初的画也是被这样子嘲笑的
+很多的发现
+总是在打破了传统以后才有的
+不破不立
+清华人，捡起你的“厚德载物”

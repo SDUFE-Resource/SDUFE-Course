@@ -1,0 +1,21 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <feng@ccert.edu.cn>; Mon, 15 Aug 2005 16:58:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <feng@ccert.edu.cn>; Mon, 15 Aug 2005 17:12:02 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 17:06:57 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 17:06:57 +0800
+From: yan@mail.tsinghua.edu.cn
+To: feng@ccert.edu.cn
+Date: Mon, 15 Aug 2005 17:06:57 +0800
+Reply-To: yan@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfrzsrV4rj2xa66orjDtMfWsL+80dC7ucrHvMzQ+Lmk1/ejvw==?=
+Content-Type: text/plain
+
+她为什么想要读研？如果是为了待遇好点的话，告诉她，等她研究生毕业，找的工作未必有现在好
+     一个女生在南方一国有单位工作了一年，还算比较轻松，转正前包括奖金一个月将近2k，就快转正
+     了，转正后待遇会好点，想现在辞职后来北京考研，工作一年的积蓄应该很少，来北京租房也不便
+     宜，我并不觉得一定要读研，想问问大家现在这个社会读研有多大好处？ 不读研又该如何同研究生

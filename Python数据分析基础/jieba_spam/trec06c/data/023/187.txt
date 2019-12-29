@@ -1,0 +1,25 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <tian@ccert.edu.cn>; Sun, 21 Aug 2005 22:47:08 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <tian@ccert.edu.cn>; Sun, 21 Aug 2005 23:00:19 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "pan" <pan@126.com>
+To: tian@ccert.edu.cn
+Cc: <lin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMD6yre+qsjLz+DKtjqxz9K1vLTKp9K1?=
+Date: Sun, 21 Aug 2005 23:00:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+历史从来就没有改变过，人的生活状态是一样的
+     这是季羡林的自传留德十年中的几段话:
+     那时候有两句名言："毕业即失业"；"要努力抢一只饭碗"。一个大学毕业生，如果没有后门，照样找不到工作，也就是照样抢不到一只饭碗。如果一个人能出国一趟，当时称之为"镀金"，一回国身价百倍，金光闪烁，好多地方会抢着要他，成了"抢手货"。
+         当时要想出国，无非走两条路：一条是私费，一条是官费，前者只有富商、大贾、高官、显宦的子女才能办到。后者又有两种：一种是全国性质的官费，比如留英庚款、留美庚款之类；一种是各省举办的。二者都要经过考试。这两种官费人数都极端少，只有一两个。在芸芸学子中

@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <tao@ccert.edu.cn>; Sun, 4 Sep 2005 01:57:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <tao@ccert.edu.cn>; Sun, 4 Sep 2005 02:09:51 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 17:59:02 -0000
+From: "xin" <xin@mail.tsinghua.edu.cn>
+To: tao@ccert.edu.cn
+Cc: <qing@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvKrB1tS2o6zEz7L9uPzUtn5+?=
+Date: Sun, 4 Sep 2005 02:09:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+他要去南昌大学了~真远。还想起他高考前晚和高考的两天我什么都不做吊在网上的日子，抓狂的到水木上狂发文，转眼快三个月了，版上xdjm们的安慰祝福似乎还在耳边，真快，只是，唉，感情这东西，到底要经过多少考验呢？真是好事多磨还是有缘无份？能经受得起多远的距离多久的思念？果真是“两情若是久长时又岂在朝朝暮暮”？？我不知道，我也不清楚时隔三月，现在的我是否还有当时那般自信？难道消磨得真这么快？不过真得好远。。。好远。心里总是踏实不下来。他是我快乐的港湾，是我忧伤时的依靠，他有很少有人能拥有的可以镇住我的气势，那么神奇。可当我突然发现两年前丢失的亲情使我变得如此懦弱，害怕一切形式的失去，而这期间的所有放纵，都不过是一种逃避，所有的洒脱，不过是对胆小的掩饰，当我突然明白这一切时，我不知道自己还有多少胆量去承受一份无法预言的未来，说到底，自己还是一个胆小鬼，自私鬼，懦弱的家伙。

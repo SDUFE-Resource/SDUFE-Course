@@ -1,0 +1,32 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 13:38:51 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 13:01:09 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "gao" <gao@cert.org.cn>
+To: zhao@ccert.edu.cn
+CC: "zhu@ccert.edu.cn" <shen@ccert.edu.cn>,
+   "zhong@ccert.edu.cn" <bi@ccert.edu.cn>,
+   "zhou@ccert.edu.cn" <yana@ccert.edu.cn>, "gan@ccert.edu.cn" <luo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 13:46:36 +0800
+
+我是这个教研室毕业的，我想所有从这个教研室出来的人都很怀念导师和这个教研室所给与的。
+这个师弟我是认识的，我也很佩服他的能力，但是他永远是个孩子。
+很客观地说，这个教研室的导师都很nice,对学生都很负责任，即使是王同学这样的奇才，
+导师们也本着因材施教的方针，给他很多的自由空间，他不来教研室也没有关系，他要做
+感兴趣的方向，老板也很大度，就是希望他能够用到他的聪明智慧，大家也都看到了，
+他也取得了成果，甚至得到了ASPDAC的best paper（这里我要解释一下ASPDAC是我们领域
+很好的会议，并不是他所说的一钱不值，我们领域所有的大牛都会去参加，录取率都很低，尤其这两年，作为我们大陆的学生，要和所有美国一流大学的论文竞争，他能够得到一个best paper，足见他的聪明智慧得到了专家的认可）我想在清华，这个教研室给他了很好
+的空间，这不是大部分其他的教研室所能够给予的环境，我想这也是他能够坚持4年的原因吧。但如今王同学却要以这样的方式收场，我们只好祝福他，祝福他能够在世界的某个角落
+找到更加适合他的环境，也希望他能经历了这些事情以后，有所感触。。。。。。
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)
+     发信站: 水木社区 (Fri Sep 23 12:00:32 2005)

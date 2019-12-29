@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <ning@ccert.edu.cn>; Wed, 28 Sep 2005 04:27:18 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 20:13:34 -0000
+Date: Wed, 28 Sep 2005 04:39:18 +0800
+From: "peng" <peng@mail.tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+俺家的两博士，科研作的好，钱挣的多，八大菜系都会做，哪都特好，你说的都是什么博士呀，见过博士吗？别乱分析了~
+     这里所谓的优越性是对整体人群的。
+     至于那种非常强的女博士，你不喜欢自然有人喜欢，呵呵，我就见过一个，人家gg疼着那～
+     认为人家性格就算十分强，也没什么可以说的，还是类比：假如你是一个十分孤僻的人，大家就可以加上你的工作职位（假定医生）说“孤僻起来的医生真吓人”?

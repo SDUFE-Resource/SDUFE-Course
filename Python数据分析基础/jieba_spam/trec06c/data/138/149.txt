@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <xu@ccert.edu.cn>; Fri, 16 Sep 2005 01:59:02 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <xu@ccert.edu.cn>; Fri, 16 Sep 2005 02:11:01 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 17:53:15 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "liao" <liao@mail.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgudjT2tGh0N6hsNHQvr/J+tDEwO3RtcG3obG/zrPMtcTNqNaqICjXqtTYKQ==?=
+Date: Fri, 16 Sep 2005 02:07:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 Graduate 讨论区 】
+发信人: yjsshb (校研会生活部), 信区: Graduate
+标  题: 关于选修“研究生心理训练”课程的通知
+各位同学：
+    在上学期本课程成功举办的基础上，本学期根据校党委研究生工作部的安排，决定与校心理咨询中心继续联合开设“研究生心理训练”选修课程，本课程同时面向本科生，不计学分，期末不考试，但是按照学校正式选修课程的要求出勤，并在期末对课程成绩记录“通过”或者“不通过”。
+    本课程内容涉及人生、爱情、催眠、抑郁、精神分析等心理学相关领域，邀请一批校内外名师专家做精彩讲演。通过每一次的课上讲授和互动交流，帮助同学们营造一片清澈明亮的心灵天空。
+    “研究生心理训练”主要采取双周心理讲座和单周心理电影加专家点评的形式开展，从第二周开始正式上课，预计延续到第十四周结束，除去国庆假期，共12次课。第1次课（9月22日）的上课地点由于跟学校的重要活动有冲突，所以第1次课的上课地点临时调至东阶大教室，其它时间的上课地点在主楼后厅。
+开课时间：周四晚7：20（第六大节）
+开课地点：主楼后厅
+开课教师：李焰（校心理咨询中心主任）、黄晓霞（研究生院）
+任课教师：李焰、刘丹、樊富珉等校内外著名心理咨询专家
+选课办法：
+1、    9月16日周五一天，登录网上选课系统，选择“研究生心理训练”。
+2、    现场选课，在第二周第一堂课（9月22日）上，向助教登记选课。
+3、    Email登记，在第二周第一堂课前，通过填写附件中的选课登记表，发送到以下信箱进行选课：jwr2000@mails.tsinghua.edu.cn
+附件：选课登记表
+《研究生心理训练》选课登记表
+学号    姓名    院系    班级    宿舍电话    手机    Email
+                        

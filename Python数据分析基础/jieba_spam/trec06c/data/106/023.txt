@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j87BlNH3002554
+	for <tu@ccert.edu.cn>; Fri, 9 Sep 2005 10:09:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j87Bxb76001146
+	for <tu@ccert.edu.cn>; Fri, 9 Sep 2005 10:21:53 +0800 (CST)
+Message-Id: <200509071159.j87Bxb76001146@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 9 Sep 2005 02:07:20 -0000
+From: "ye" <ye@mail.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Cc: <lu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/rzsrOyrTzvNLS7LXYwbXH6cTcubu84bPWtuC+w6O/?=
+Date: Fri, 9 Sep 2005 10:21:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C5B3E6.AA53DD40"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzo5wDUyjmuLAhQNybYzBBmyxuiw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+     我坚持了一年半，可我MM8月27日回学校时提出和我分手，是我做了一些让她感觉不确定我们爱
+     的事情！可我真的很爱她，她离开我的时候我好痛苦，同时我也好后悔！！28日早上我座上飞机
+     去了MM所在学校的城市，她座的火车晚上才能到于是我在哪个城市的火车站等待了一个下午，晚上
+相爱的人哪，不管距离多远，总能很好的维持下来的；脆弱的感情即使是朝夕相处，仍旧会撒手的。
+恋情不在空间和时间，最可怕的在于心灵的距离。

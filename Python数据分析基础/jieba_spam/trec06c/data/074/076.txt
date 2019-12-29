@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j826MNsm028905
+	for <han@ccert.edu.cn>; Fri, 2 Sep 2005 20:27:35 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j826YvNG017832
+	for <han@ccert.edu.cn>; Fri, 2 Sep 2005 20:40:05 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Fri, 2 Sep 2005 12:28:16 -0000
+Message-ID: <00b101c5af87$e9547800$787d6fa6@hotline>
+From: "feng" <feng@mail.tsinghua.edu.cn>
+To: han@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNLGwMDto6zKx87StO3By8Lwo78=?=
+Date: Fri, 2 Sep 2005 20:36:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00AE_01C5AFCA.F7623430"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+你为什么认错？你隐瞒了什么吧，打他了？
+     我来挖坑：
+     我是学计算机的，老公电脑坏了，所以一直拿我的电脑上网，上个月我渐渐发现，我电脑上gmail多出好几个帐户。我就问老公是不是他的，他一口否认，还说我冤枉好人。
+     我就奇怪啊，你不登陆的话IE是不会记忆的。后来我尝试破解，结果其中两个邮箱的密码都被我破解了，但还有两个没有搞定。打开那两个一看，发现里面全都是他的信。btw：我非常地不爽，不过我觉得这属于个人隐私，而且我理亏在先。所以这一口气就压了一个月。

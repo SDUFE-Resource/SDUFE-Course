@@ -1,0 +1,19 @@
+Received: from softedit ([159.226.100.150])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UJNl022027
+	for <xie@ccert.edu.cn>; Sat, 20 Aug 2005 14:37:05 +0800 (CST)
+Received: from mail pickup service by softedit with Microsoft SMTPSVC;
+	Sat, 20 Aug 2005 15:02:46 +0800
+From: <ye@iscas.ac.cn>
+To: xie@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INHQvr/J+sO/1MKyucz51PXDtLPJwcsyNjCjvw==?=
+Date: Sat, 20 Aug 2005 15:02:46 +0800
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Message-ID: <SOFTEDITGJ2TUSzbAUf0000003c@softedit>
+
+通知在哪里？
+发信人: zhoujia (快乐幸福的QyLG), 信区: Graduate
+标  题: Re: 研究生每月补贴怎么成了260？
+已经没了，上学期不是通知过吗？
+     上学期俺替我们班同学领的，当时老师说这是博士最后一次了，钱已经不是从985出了
+     是学校从别的地方弄来的，下学期就没了
+     而且后来系里老师开会也说过一次，虽然没说硕士，但博士都没了，硕士估计也挂了

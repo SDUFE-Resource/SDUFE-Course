@@ -1,0 +1,47 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <ye@ccert.edu.cn>; Fri, 16 Sep 2005 20:48:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <ye@ccert.edu.cn>; Fri, 16 Sep 2005 21:00:05 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 12:40:47 -0000
+From: "gao" <gao@mail.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Cc: <chen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQw7vT0LHIueLL2bj8v+y1xKO/?=
+Date: Fri, 16 Sep 2005 20:59:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+相对速度是有可能的，比如说a,b两个物体分别以0.9c向相反的方向走，人观察到的
+两个物体的飞离速度就是1.8c，但这并不是真正超光速。因为时间变慢了。如果以
+a为参照物，那么b的速度就是0.99c，这个可以通过相对论算出来。
+以下个人观点有待验证啊。
+听说时间的定义好像跟原子外的电子旋转有关系。一旦达到光速，好像电子就不转
+了，时间也就停止了，呼呼，觉得这个有点悬，好像不大可能。
+我觉得时间是一个相对的概念，在不同坐标系下是不同的。比如说有人乘一架接近
+光速的飞船，离我们远去，那么我们看到他的时间变慢；而他看到我们的时间也在
+变慢，就像是在放慢动作，因为我们想对他的速度和他想对我们的速度是一样的。
+这也很好解释，因为光的传播也是需要时间的。如果飞船速度等于光速，那末我们
+看他就在静止，同样他看我们也在静止，但在各自的时间轴上好像没有什么不同。
+在距离一定的情况下，时间和速度就是一对矛盾，好像我们不能弄明白其中的一个
+，因为一旦一个弄明白了，另一个好像也就明白了。而这些东西好像不大能通过实
+验来验证，因为即使有超光速存在，目前我们也没有任何办法能够感知它的存在，
+唯一能够通过知道的东西预测未知的东西的依据就是哲学。
+所以，我相信宇宙既然有诞生的一天，也就有灭亡的一天。石头、剪子、布构成了
+这个世界，轮回才是正道，没有什么是绝对本源的，总是不断在变化，周而复始。
+万事万物的存在都是周期性的。小到衣食住行，人的行为周期是一天，每天都要睡
+觉。地球的周期是一天，太阳的周期是一年，银河系的周期大概是几亿年吧（据说
+恐龙的灭绝就正好是太阳系运行到银河系没有悬臂的时候，现在正在悬臂里，所以
+看到银河系的星星比较多:-)）估计整个宇宙也是有周期的，不断变化发展，灭亡了
+之后还会有新的宇宙或者是其他什么东西出现，那就是很远以后的事了。集合论中
+的悖论也是跟这种圈套圈的关系有关，可能也就是因为有这种纠缠不清的东西存在
+，整个世界才变得这么复杂，否则可能这个世界就不存在了。
+好了，就说到这吧，瞎说了一堆，请大家见谅。
+     是否有这种可能，可能是什么？

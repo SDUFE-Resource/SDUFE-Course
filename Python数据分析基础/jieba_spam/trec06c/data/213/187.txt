@@ -1,0 +1,39 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <zhou@ccert.edu.cn>; Sat, 1 Oct 2005 17:16:23 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sat, 1 Oct 2005 09:27:19 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sat, 1 Oct 2005 09:27:19 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <zhou@ccert.edu.cn>; Sat, 1 Oct 2005 02:48:58 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <zhou@ccert.edu.cn>; Sat, 1 Oct 2005 04:33:51 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sat, 1 Oct 2005 17:27:14 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <guo@motorola.com>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3G0dDLxLSmxfax2qOstPO80rj4ztKz9rP21vfS5bDJo6y40Lyksru+oQ==?=
+Date: Sat, 1 Oct 2005 17:27:12 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+我的建议是去找你系里的老师，首先找你熟悉的老师看看有没有人能接受你
+作研究生，其次找系里主管推研的老师再说说你的情况，现在其实是A系录取
+了你但你没去，所以属于“不好”的典型，你得尽可能多求求他们，老师们
+也不是铁石心肠，多去跑跑，也别打电话，直接过去找，就说知道自己处事不
+当，现在很后悔，多求求老师，实在不行了你就和老师哭诉让他帮你看看你现
+在该怎么办，事关前途的，其他的什么也别多想了，能找到什么地方先进去再
+说，最好进本系，A系就别考虑了，加油啊~
+     我是清华大学的大四学生。在今年推研招生中，我的第一志愿为A（别的系），第二志愿为本系。
+       在A的面试结束后的第二天，也就是本系面试的时候，刚刚走出考场的我心情很乱，这时候看到手机上有一个陌生的未接来电，于是就打了这个电话，对方说：“你有资格被A录取了，你要不要来？”我想了一下，因为刚刚结束本系的面试，所以心情很乱，就说能给我一点时间吗？他
+     我本来想和家里商量一下然后再做决定，因为事先都没有和家里商量，所以觉得在做这个决定之前问一下父母。可是他没有丝毫给我考虑的时间，他们居然就说算了吧，他们就算我放弃了！

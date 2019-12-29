@@ -1,0 +1,109 @@
+Received: from mail.datangmobile.cn ([219.142.67.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j88AcTuE011542
+	for <hong@ccert.edu.cn>; Fri, 9 Sep 2005 20:00:08 +0800 (CST)
+X-MimeOLE: Produced By Microsoft Exchange V6.0.6249.0
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Subject: =?gb2312?B?ofEgUG9zdCBkb2N0b3Igd2FudGVkIGF0IElUQyAo16rU2Ck=?=
+Date: Fri, 9 Sep 2005 20:11:57 +0800
+Message-ID: <D728AD1FA2543948B89DE29C5BF4CD070470257E@bjmail1.bj.datangmobile.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: =?gb2312?B?Rlc6usPP+8+i?=
+Thread-Index: AcW0W9Gb9xS9vAx0TwWoHUbj8TSJYgABzy5Q
+From: <wei@datangmobile.cn>
+To: hong@ccert.edu.cn
+
+【 以下文字转载自 DigitalEarth 讨论区 】
+发信人: dci (vi), 信区: DigitalEarth
+标  题: Post doctor wanted at ITC
+*********************************************************************************************
+ITC develops and transfers knowledge on Geo-Information Science and Earth
+Observation
+The International Institute for Geo-Information Science and Earth
+Observation (ITC), undertakes education, research and advisory
+services in earth observation and spatial information collection,
+analysis and management. We provide tools and methods for the
+exploitation and conservation of natural resources, particularly in
+developing ountries.
+INTERNATIONAL INSTITUTE FOR GEO-INFORMATION SCIENCE AND EARTH OBSERVATION
+The Department of Water Resources (WRS) is a multidisciplinary
+scientific department pecialising in scientific research and education
+in earth observation &amp; geo-information sciences for the understanding,
+monitoring, predicting and sustainable use and anagement of water
+resources. The main mission of WRS is to provide higher academic
+education and professional training and to execute fundamental and
+applied research in earth observation of water resources and related
+environmental issues. Furthermore, worldwide advisory project services
+constitute an important part of the work of the WRS department. We
+invite qualified persons to apply for the positions of
+PhD RESEARCHER (Promovendus) m/f
+Post-Doctoral RESEARCHER m/f
+PROJECT INFORMATION
+The researchers are required to work on the project "Modelling
+radiation, heat and mass (water vapour and carbon) exchanges at the
+land-atmosphere interface using multi-angular optical and thermal
+measurements". The project is a collaborative research project unded
+by the Nationaal Programma Gebruikersondersteuning GO (SRON, EO-071).
+The project team consists of Prof.Dr. Z. Su (ITC, the Netherlands),
+Prof.Dr. M. Menenti (University Louis Pasteur, France), Dr. W. Verhoef
+(National Aerospace Laboratory, the Netherlands), rof.Dr. A.J. Dolman
+(Free University of Amsterdam, the Netherlands) and Dr. L. Jia
+(Wageningen University and Research Centre, the Netherlands). The goal
+of this project is to improve understanding of the land-atmosphere
+exchange processes of adiation, heat, water vapour and carbon fluxes
+at heterogeneous land surfaces, based on multi-angular synergistic
+optical and thermal measurements obtained by space borne and airborne
+sensors.
+TASKS
+In close collaboration with the PhD researcher, the post-doctoral
+researcher will work towards developing the convective transfer of
+energy, water and carbon in a 3D eterogeneous vegetation canopy. This
+will involve better parameterisation of turbulent fluxes at the land
+surface, improvements in the parameterisation of plant physiological
+processes, and the integration of developed concepts and model
+components with the parallel development on radiative transfer
+achieved by the PhD researcher. The task of the PhD researcher is to
+model synergistically the complete spectra from 0.3 μm to 14 μm and to
+use the model in understanding land-atmosphere exchanges. The tasks of
+the two researchers may be adjusted in line with the qualifications of
+the applicants.
+REQUIREMENTS
+At the time of appointment the post-doctoral researcher must hold a
+PhD (doctorate), with the dissertation relating to the focus of the
+above project. The PhD researcher must hold an MSc degree.
+The required background for both positions is an exact education in
+physical sciences (hydrology, atmospheric sciences, physics and
+engineering), preferably supported by expertise in quantitative remote
+sensing, physical meteorology and environmental physics, including
+optical and thermal remote sensing observations. Familiarity with
+field experiments and at least one programming language (e.g. IDL,
+Fortran or C) is
+desired.
+WE OFFER
+We offer an inspiring and challenging international environment. The
+post-doctoral researcher will be appointed for a period of two years,
+while the PhD researcher will be appointed for a period of four years.
+Salary and conditions will be in accordance with the Collective Labour
+Agreement (CAO) of the Dutch Universities (Followers). Gross monthly
+salary depends on experience and qualifications, and ranges from m
+2179 Euro, to 4027 Euro, for the position of post-doctoral researcher,
+and from m 2179 Euro,- to m 3453 Euro,- for the position of PhD
+researcher (in accordance with the University System for Job
+Classification (UJC), job profile researcher level 3 respective
+promovendus.
+INFORMATION
+Additional information about these positions can be obtained from:
+Prof.Dr. Z. Su,
+Head Department of Water Resources
+E-mail: b_su AT itc.nl (Replace AT with @, please)
+You are invited to visit our homepage:
+http://www.itc.nl
+Interested candidates are invited to send their letter of application
+and detailed curriculum vitae to ITC for the attention of Mrs. M.F.G.
+Assink Personnel &amp; Organisation
+P.O. Box 6, 7500 AA Enschede, the Netherlands
+E-mail: posecretariat AT itc.nl (Replace AT with @,please)

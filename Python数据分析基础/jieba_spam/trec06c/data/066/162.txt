@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <jin@ccert.edu.cn>; Thu, 1 Sep 2005 18:34:06 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 18:36:58 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 18:36:58 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 18:36:58 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 10:30:21 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 18:22:31 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 18:22:31 +0800
+From: yana@mails.tsinghua.edu.cn
+To: jin@ccert.edu.cn
+Cc: mei@ccert.edu.cn
+Date: Thu, 1 Sep 2005 18:22:31 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INGn0KPTztO+ud3C9LXEtqvO97rNt/7O8dbKwb+2vLrcsu4=?=
+Content-Type: text/plain
+
+nod,那个阿姨很不怎么样的说，有次朋友外校的要抵押金，五元着，可是我们没有零钱，她就在那非常不满意的骂骂咧咧，还不想给我们找零钱，还不想多留那押金～很没素质的那么个人～～～
+     寝室mm今天在游泳馆买了一副泳镜，刚游完橡胶垫就掉了。门口发钥匙的阿姨态度巨差，一口咬定是mm扯掉的，说完还拿出一副泳镜自己扯，表示卖的东西质量没问题。mm心平气和的说这么用力都扯不掉怎么可能是我扯掉的？她见状转身就走，说她下班了，别烦她，坚决不给换。怎么

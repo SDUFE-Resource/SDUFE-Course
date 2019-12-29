@@ -1,0 +1,37 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <ling@ccert.edu.cn>; Tue, 27 Sep 2005 18:24:59 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 10:36:09 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 18:36:09 CST
+Date: Tue, 27 Sep 2005 18:36:09 +0800 (CST)
+From: liang ming <cao@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMzW0eG1scWuyfo=?=
+To: ling@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+都想飞跃。。
+     标  题: Re: 讨厌当女生
+     
+     嗯哪
+     新东方
+     555
+     : 介个……
+     : 以前也是这个想法
+     : 你十一还上课噢 cmft
+     
+     --
+     发信人: UK (独立小熊), 信区: Single                     c∞c c  c
+     标  题: Re: sigh                                        (..) (..)
+                                                             O O  O O
+             laaaaaaaaf.......收捕鸟了…… patpat松松……
+             先是被人家说尾巴上没毛，现在又变成了坠落的松鼠……:P
+     
+     

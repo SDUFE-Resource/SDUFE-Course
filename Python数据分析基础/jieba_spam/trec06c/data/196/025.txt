@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <zeng@ccert.edu.cn>; Wed, 28 Sep 2005 05:01:16 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 21:12:23 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 05:12:23 CST
+Date: Wed, 28 Sep 2005 05:12:23 +0800 (CST)
+From: liang ming <huang@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILeivLi49s3G0dDD5srUtcTQpruw?=
+To: zeng@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+强！真的是强！
+不过俺记得俺那时候，俺专业的一个女生，被推荐，在面试的时候，就说了一句就走人，“我放弃这次推荐研究生”。牛人！现在人在剑桥（也许毕业了，N久不和俺们联系了）。
+     我们系的面试是一个学生进入一个阳光不是很充足的小屋，5个教授坐成一排，活象审问。
+     我一个哥们进去后，坐下，自我介绍几句后等着教授发话提问，结果半天了没有一个教授说话。
+     我同学急了，大手一挥，很英勇壮烈地说：

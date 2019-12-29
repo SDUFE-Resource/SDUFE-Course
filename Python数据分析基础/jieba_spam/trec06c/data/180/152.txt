@@ -1,0 +1,24 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 22:16:38 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 21:38:56 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "xin" <xin@cert.org.cn>
+To: pan@ccert.edu.cn
+CC: "che@ccert.edu.cn" <yun@ccert.edu.cn>,
+   "xia@ccert.edu.cn" <feng@ccert.edu.cn>,
+   "bi@ccert.edu.cn" <zeng@ccert.edu.cn>, "qiu@ccert.edu.cn" <tian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Sw8fX3MrHsru4w8+wud/T2suzy+zT67PBy68tLdPrzfXb87myw+M=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 22:24:23 +0800
+
+文科生和理科生就是不一样。。。
+我试了三次都没能看完，更别说看懂了。。。
+         弗罗斯特的林中路，关于人生和可能性的隐喻。存在、真理、谎言与游戏，肉身和魂灵总要在斯芬克司面前经受拷问。
+         生活中一旦开始有反省和不满,总会让人坐立不安,特别是,被点到自己不愿面对的,似乎也无关我们顺利迈入小资生活的事件时.
+         但我以为,我们总还是能经常发现,事情并不按我们预期的发展--一种隐约能感觉出来的不对劲的东西.

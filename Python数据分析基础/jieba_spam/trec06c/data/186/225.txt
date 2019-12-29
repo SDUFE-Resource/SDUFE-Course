@@ -1,0 +1,27 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <wei@ccert.edu.cn>; Mon, 26 Sep 2005 07:51:38 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Sun, 25 Sep 2005 23:59:06 -0000
+From: "ning" <ning@mails.tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsrvXpdbYteOjrMTD1qa92su1ysKjoVJlOiDOqsqyw7S087zSw6TEv7PnsN3N9dvzo7+jv6O/?=
+Date: Mon, 26 Sep 2005 08:08:47 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+他的文章的意思主要是说，对现在清华（或则可以扩大到国内）的研究环境不满，然后就退学了。
+你却拿人情说事。人无完人，在人情上做的事情，对错，因人而已，你觉得对就对，你觉得错就错。
+很多时候，人们就把注意力投向枝节问题，然后忘记了别人主要要说什么，最后发展为否定别人。
+     我和他曾经一个教研室过。
+     说实在话，我们都佩服王垠，能对计算机“专业”这么有热情，我们都希望他能够有很好的发展。
+     但是我们看到今天的王垠已经不是单纯的玩着linux向我们演示他的bbs机器人的程序能人了。他成了一个符号，一个象征，在一些人眼中成了有理想，有追求的偶像了！

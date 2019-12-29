@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <cai@ccert.edu.cn>; Sat, 3 Sep 2005 10:31:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <cai@ccert.edu.cn>; Sat, 3 Sep 2005 10:44:15 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 02:32:50 -0000
+From: "qiu" <qiu@mail.tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Cc: <bi@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgMDbE6rGxtPO+rdS6v7zR0Liotbyw4DEwLjG/qr/OwLI=?=
+Date: Sat, 3 Sep 2005 10:44:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+应广大同学的要求在０５年国庆节期间办理０６年北大经院考研辅导班，机会难得，不
+ 
+可错过，有报者请速与北大经济学院顾老师联系提前预约．电话：１３３９１８８９７０
+７ 
+专业课辅导费用：宏微观政经三科１２００元 
+上课时间：２００５年１０月１日－１０月９日 
+上课地点：北大校内 
+报名地点：北大资源宾馆１６０７室　：６２７５７０２３　６２７５５５６３ 
+　　　　　北大邮局二楼燕园培训办公室：６２７５６０２０　１３３９１８８９７０７
+ 
+汇款报名：北京大学经济学院　顾琳娣老师（收）邮编：１００８７１ 

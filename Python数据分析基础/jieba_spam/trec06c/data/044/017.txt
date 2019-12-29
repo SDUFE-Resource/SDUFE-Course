@@ -1,0 +1,23 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <zhong@ccert.edu.cn>; Fri, 26 Aug 2005 13:49:52 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 14:08:15 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 14:08:15 +0800
+Date: Fri, 26 Aug 2005 14:08:15 +0800
+From: guo@cernet.com
+Subject: =?gb2312?B?ofEguaSzzMa9w+bJ6LzGvLDQp7n7zbw=?=
+To: zhong@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+大家好，本工程是一个处理规模60000m3/d的污水处理厂，该厂是当地的重点工程，要求建成一座花园生态示范工程。该厂区位于陕西省，商洛市东侧，厂区北侧35m左右是汉江的主要支流－丹江，南侧为秦岭南麓，四周是农田，厂区北侧拟建一条路面宽为24m宽的规划路。请考虑一下厂前区（综合楼至大门之间的景观设计及全厂的绿化设计，并出一套全厂的鸟瞰图（立体效果图），时间在污水处理厂平面确定后一个星期左右，全部费用1000～2000元，设计完成后一次付清。有兴趣者请将个人作品发给我：liaojun@thunis.com；或与我联系：mp 13167540171。

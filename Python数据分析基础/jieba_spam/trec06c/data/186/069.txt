@@ -1,0 +1,25 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdW0h032355
+	for <yana@ccert.edu.cn>; Mon, 26 Sep 2005 04:32:39 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 04:48:22 +0800
+Message-ID: <327652915.84524@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Mon, 26 Sep 2005 04:48:22 +0800
+Message-ID: <000101c5c1cf$bb387e80$0301a8c0@CCERTDAWEI>
+Reply-To: "jiang" <jiang@ccert.edu.cn>
+From: "jiang" <jiang@tsinghua.org.cn>
+To: yana@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Date: Mon, 26 Sep 2005 01:48:12 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。
+     首先，我们学习是为了什么？我觉得即使是我们学理工科的人，也不是为了成为所谓的爱因斯坦和牛顿。我这里用了所谓的爱因斯坦和牛顿，因为我们从小受到的教育就对爱因斯坦和牛顿扭曲了，我们那个时候不知道什么叫做科学只知道爱因斯坦和牛顿是非常非常牛的人。其实真正了解了爱因斯坦和牛顿的事情，并且做了很多年的科研，你就会发现其实爱因斯坦和牛顿只是同时代千千万万科学家的一员，只是他们的代表。很多同时代的很多科学家也很牛的，只是名头没有他们那么响而已。如果对于做科研了解的还不深的话就口出狂言要成为爱因斯坦和牛顿，那

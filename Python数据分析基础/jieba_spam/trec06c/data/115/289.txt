@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4thuT027743
+	for <mo@ccert.edu.cn>; Sun, 11 Sep 2005 13:21:25 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4r30e090926
+	for <mo@ccert.edu.cn>; Sun, 11 Sep 2005 13:18:59 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A4qgGS090788
+	for <mo@ccert.edu.cn>; Sun, 11 Sep 2005 13:18:24 +0800 (CST)
+	(envelope-from tianying00@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 13:07:33 +0800
+Message-ID: <326327311.25345@mails.tsinghua.edu.cn>
+Received: from 166.111.66.12 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 11 Sep 2005 13:07:33 +0800
+From: "li" <li@mails.tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Date: Sun, 11 Sep 2005 13:07:33 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILrcz+vV0sflu6q9qNb+udzA7c+1tcTR0L6/yfo=?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: tianying00 <li@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+你想知道什么？
+btw：先把系名搞清楚，谢谢
+        朋友，首先谢谢你来看这篇贴。
+        我很遗憾我大学没有在清华上，因为那是一个我期待的地方。经过三年的学习和思考（我觉得我大学是在思考的），第四年我决定考清华的建管的研究生。
+         有两个师兄，现在已经在清华读研了，听他们说了清华，感觉很好。我考清华也有他们的影响，他们两很厉害，一个从九月中旬开始复习，从土木系跨到社会学，专业课还考了第二名，由于总分的原因，调到了别的专业；一个在经济管理院，434分，初试第一名。

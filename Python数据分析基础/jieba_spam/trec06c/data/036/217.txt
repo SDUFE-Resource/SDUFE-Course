@@ -1,0 +1,21 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <bai@ccert.edu.cn>; Thu, 25 Aug 2005 05:05:07 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 05:18:14 +0800 (CST)
+Date: Thu, 25 Aug 2005 05:12:00 +0800
+From: "chi" <chi@sohu.com>
+To: bai@ccert.edu.cn
+Cc: "yxl" <luo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7KuPbQoc7KzOKjusPmttS087qjILS6xa+7qL+q?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+面朝大海，春暖花开 
+海子
+    从明天起, 做一个幸福的人 

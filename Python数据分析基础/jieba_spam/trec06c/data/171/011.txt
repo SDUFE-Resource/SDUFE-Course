@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <ding@ccert.edu.cn>; Fri, 23 Sep 2005 04:24:09 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 04:13:09 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 04:13:08 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 04:13:08 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 20:13:08 -0000
+From: "sun" <sun@mail.tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvMbL47v6v86zzLTtuf3Rob/OyrG85KOsvfS8scfz1vqjoQ==?=
+Date: Fri, 23 Sep 2005 04:35:30 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+计算机系联合培养博士生，现错过选课时间，但还可以旁听，紧急向大家求助如下课程的上课时间和地点：
+1。70240013 高等计算机系统结构                   郑纬民 16
+2。80240123 计算机网络中形式化方法与协议工程学   尹霞   13
+3。80240283 网络系统建模与分析                   任丰原 42
+4。60420024 高等数值分析                         贾仲孝 21
+5。60420144 基础泛函分析                         步尚全 24
+请知道的同学发信至LRZ@ha.edu.cn或回本站信箱。
+不胜感激！

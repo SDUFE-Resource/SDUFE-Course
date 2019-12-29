@@ -1,0 +1,21 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <tu@ccert.edu.cn>; Wed, 24 Aug 2005 10:01:12 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 10:14:19 +0800 (CST)
+Date: Wed, 24 Aug 2005 10:08:05 +0800
+From: "long" <long@sohu.com>
+To: tu@ccert.edu.cn
+Cc: "yxl" <hong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILSrwaLDvczlo6htaW5kc2hhcmWjqdXQxrjDvb3pubrC8tb6wO2jqGFzcy5idXllcqOp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+没错，我们和他们合作，所以知道他们的工作真的很琐碎，经常就是为了网站上放banner的位置、尺寸、文件大小就要忙半天。所以研究生最好别来， 来了会很失望的。
+     呵呵，不是的。因为助理执行的工作会非常琐碎，很烦杂，要研究生有点屈才了。
+     而且媒介，并不是大家想象的做创意那样有趣。媒介购买是非常需要耐心和细心的工作，每天都要跟数据数字打交道，我怕有些人真过来会失望……

@@ -1,0 +1,42 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <ling@ccert.edu.cn>; Thu, 29 Sep 2005 06:01:27 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 22:12:37 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 06:12:37 CST
+Date: Thu, 29 Sep 2005 06:12:37 +0800 (CST)
+From: liang ming <kong@yahoo.com.cn>
+Subject: =?gb2312?B?ofEg09HH6czhyr6jrFu98c3tN7XjXbGmveC089bQu6rH+LLGzvHX3LzgobC0tNTsssa4u6Gx0d29
+sg==?=
+To: ling@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+“创造财富”――宝洁大中华区财务总监清华研讨会
+演讲题目：Value Creation
+演讲人：Suran Suranjan
+时间：9月28日（星期三） 晚7：00
+地点：就业中心大报告厅
+About the Seminar: Value Creation
+The Seminar offers a view into how F&amp;A can lead value creation in a business such as P&amp;G’s, from day to day business operations to long term strategic planning. Influencing and leading the business to create value will ensure the company sustains a winning advantage in the competitive consumer products industry.  
+About P&amp;G
+Founded in 1837, Procter &amp; Gamble is today one of the largest consumer goods manufacturing and marketing companies in the world. We have operations in more than 70 countries, with more than 300 product brands selling in 160 countries.
+P&amp;G has a tradition of attracting quality staff. Each year, the company recruits from famous universities aggressive, creative graduates with leadership potential, fine analytical skills, excellent language and communication abilities and a strong cooperative spirit. 
+About Mr. Suran Suranjan
+Suran obtained his MBA degree from University of Chicago, USA and joined P&amp;G in 1994.
+        1994          Cost Analyst, US Fabric &amp; Home Care Product Supply Finance
+        1995            Senior Analyst, US Fabric &amp; Home Care Forecasting
+        1996            Senior Analyst, US Customer Business Development Finance
+        1998            Group Manager, NA Customer Business Development Finance
+        1998            Group Manager, PG Chemicals, Product Supply Finance
+        2000            Associate Director, NA Cosmetics
+        2002            Associate Director, Global CBD Finance
+        2004            Associate Director, Greater China Skincare &amp; Cosmetics
+        2005            Finance Director, Greater China Beauty Care
+Personal Interests: Family, people development, fast cars, faster boat, golf, any probability-oriented games, foot massage.

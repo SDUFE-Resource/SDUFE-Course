@@ -1,0 +1,44 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <zhou@ccert.edu.cn>; Wed, 14 Sep 2005 08:05:34 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <zhou@ccert.edu.cn>; Wed, 14 Sep 2005 08:02:49 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <zhou@ccert.edu.cn>; Wed, 14 Sep 2005 08:01:51 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Wed, 14 Sep 2005 08:13:23 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Wed, 14 Sep 2005 08:15:59 +0800
+From: "tian" <tian@runway.cn.net>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7StcS/vNHQwrejutOi0++1xNGnz7At0MK2q7e9LUdSRQ==?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: tian@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+re！
+咱们的小猪猪可是英语大牛呵~~~
+     大家多提提批评意见把。
+     越写越臃肿了，
+     再没人帮我控制一下思路只怕就要乱套了。
+哈哈。帮咱可爱的大哥也总结总结； 我对英语也有点小心得。 就是郑重的对英语水平中等（6级80左右），或中等以下 的朋友说一句：千万不要再拖长时间的背单词了。 尤其是有些人买了星火那种几百页，画了图图，左右联系的那种。 单词只有在文章中才能记住。建议买个超级小的一个单词就1，2个解释的那种（同样，星火也有 ）。快速记了就仍掉。然后做阅读理解。 时间有限的就只做真题就行了。

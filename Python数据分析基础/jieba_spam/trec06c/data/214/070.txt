@@ -1,0 +1,32 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <qing@ccert.edu.cn>; Sat, 1 Oct 2005 22:52:45 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sat, 1 Oct 2005 15:03:41 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sat, 1 Oct 2005 15:03:41 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <qing@ccert.edu.cn>; Sat, 1 Oct 2005 08:25:20 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <qing@ccert.edu.cn>; Sat, 1 Oct 2005 10:10:13 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sat, 1 Oct 2005 23:03:36 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <ling@motorola.com>
+To: qing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK7sd/Kx7DWwujSu7HfysdnZyDO0tfz09LOqsTR?=
+Date: Sat, 1 Oct 2005 23:03:34 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+对，那种为了所谓事业成功之类的可以付出多少多少东西的人，很危险。说不定哪天就把你付出去了。呵呵。
+象我就不会，虽然俺也很狂热于事业成功。但俺为了父母兄弟姐妹老婆孩子，可以把全中国全世界都付出去哈。
+     这么说吧，现在他还没发达，可能好些事情能迁就你，或者他觉得反正已经是煮熟的鸭子不会飞了，就不管这么多了。以后发达了就很容易滋生换只鸭子尝尝的想法了，到时可能哭就是你了，所以rp最重要，你要是没有搞清楚rp就不要轻易嫁了，哪怕是同居也行。离了婚的不如同居的

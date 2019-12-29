@@ -1,0 +1,33 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <mo@ccert.edu.cn>; Tue, 27 Sep 2005 20:36:34 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 12:47:44 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 20:47:44 CST
+Date: Tue, 27 Sep 2005 20:47:44 +0800 (CST)
+From: liang ming <liao@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+To: mo@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+终于可以探讨帖子的“学术”问题了。
+：1,讨论的论点不是用word和ppt更有学术气质或者用linux和latex更像搞研究,而是说
+：  用什么工具与研究无关. (btw:我用Latex和ppt)
+没太懂你的中国话，我的观点是王垠用“它”的学识和热情征服了无数fans。而你们确以“它”不务正业来挖苦他。可是你们自己的写文章的样子还比较猥琐，这个气势上输了一筹。当然以偏概全也是我的错误，也有大牛用更专业的工具来些学术论文的。
+：2,ieee,sci的期刊中国人占得还很少,如果真是全是中国人得了, 显然是成为科技强国的重要指标, 至少因为说明研究得到很多支持.
+嘿嘿，这是你们的理想阿，灌水。可是人家不让你们灌阿。所以我说就算给你们灌水证，让ieee发一个“中国年专版”，也无法从实质上提高科研的能力阿。像“它”那样做点副业，拉拉linux的人气，好像更实际点吧。
+：3, 电池,交卷,液晶, 也许属于材料化工吧, 不是IEEE的范畴.
+您的意思是，我应该举路由器，无线AP，flash ram这些东西？
+范畴？原来“牛人”都不搭理IEEE以外的东西阿。
+：感觉你是只看到"清华"两字了.
+讲逻辑的人怎么开始讲第6感了？潜意识逻辑？
+：另外我感觉讨论的paper-driven的制度,不是清华制度,而是目前通行的学术制度.
+呵呵，通行的就是无敌的，成为大牛们可以依据的“学术之道”了。逻辑?
+再说，paper-driven 和 灌水-driven 还是有本质区别的。

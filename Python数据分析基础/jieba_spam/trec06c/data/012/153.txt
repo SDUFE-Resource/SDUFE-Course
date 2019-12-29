@@ -1,0 +1,26 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8V0cL023464
+	for <kong@ccert.edu.cn>; Fri, 19 Aug 2005 15:40:10 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 40F4F0045593
+	for <kong@ccert.edu.cn>; Fri, 19 Aug 2005 15:53:28 +0800 (CST)
+Date: Fri, 19 Aug 2005 15:47:34 +0800
+From: "ye" <ye@sohu.com>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC5+ru3vrPRp9Gnu+G8vMr118nRr9Przca547K/1dDGuA==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084420.40F4F0045593@sohumx06.sohu.com>
+
+中国环境学学会技术咨询与推广部，上级主管单位为国家环保总局、中国科学技术协会。
+因工作需要，中国环境学学会技术咨询与推广部现面向社会招聘市场营销人员，相关事宜如下：
+1．	应聘者应有市场营销或广告基础经验，中专以上学历；
+2．	招聘人数为2-3人；
+3．	薪金待遇：底薪+提成+奖金，详细情况面议。
+对此职位感兴趣人员，请于近期之内与我们电话联系，我们将尽快安排面试。
+联系电话：010－58836329
+Email： chianyhw2008@126.com
+学会相关信息请浏览www.chinacses.org。

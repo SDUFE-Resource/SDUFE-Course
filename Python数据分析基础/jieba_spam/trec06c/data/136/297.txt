@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <xiao@ccert.edu.cn>; Thu, 15 Sep 2005 19:21:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <xiao@ccert.edu.cn>; Thu, 15 Sep 2005 19:33:39 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 11:15:09 -0000
+From: "jian" <jian@mail.tsinghua.edu.cn>
+To: xiao@ccert.edu.cn
+Cc: <zhong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0rvT6taqx+8=?=
+Date: Thu, 15 Sep 2005 19:33:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+一直以为自己会在哪一天以“一叶知秋”写一篇日记，却不想这么早就要写了，而且还不是预想的题目。是啊，北京今年冷得好早，叶子都还油绿油绿，只因一场雨，就冷得如此了。窗外阴霾的天让人很觉得安静，屋里的光线像盛夏的清晨，透明的阴暗，深，却不浓。雾气在低空悬浮，从阳台上看去，紫操像仙境一样。操场那边女硕宿舍楼稀稀落落的灯光点缀着浅浅的雨雾，依稀，还有细雨中踢球的男孩子们鲜艳的球衣映入眼帘。隐隐约约，很多声音嘈杂的纠结，却反而让这世界更加安静。湿湿的路上，偶尔有一只只伞花幸福飘过，我能看见那下面一对对甜蜜依偎的身影。
+喷香浓郁的牛奶饮料，温热的茶，柔软的椅背，淋了雨回到宿舍，洗洗干净，换上干燥舒适的旧衣服，我想会有一个宁谧温暖的午后迎面而来，想说一声“welcome, lady”却不料时间飞逝，转眼间都是过去时，我错过了那个等待我的午后，也错过了那份心情。很累，想好好睡一觉，是有些疲倦了。
+早上上了数理方程，认真听课并记了笔记，中午在mcdonald\'s一边吃饭一边看完了书并整理了笔记，不懂的问题也弄懂了，感觉很踏实。雨天总是能给我踏实吧，过于明媚过于美好的天气让我快乐却不安，我愿意这种安安静静的冷色调的平和。我想念我亲爱的他……
+是否兰州也是一样的天气呢？是否我思念的人也一样思念着我？这毫无征兆的想念，像魔咒，想幻术，我却喜欢这种被控制的感觉。忽又想起很多逝去的时光，也曾一样在雨天的基调下谱着这样那样珍贵的心情，只是当时却不觉得，如今想想，逝者如斯难再返，那些记忆里的人有的已杳无音讯，有的已天各一方，有的已形同陌路，仿佛只有在记忆中温情而鲜活。那些时间都回不去了，那些伙伴都回不去了，那些心情都回不去了，那些恩怨也都回不去了……“此情可待成追忆，只是当时已惘然”，还是那句话，如果我料想到如今内心承受的凄楚和悔恨，是否会珍惜多一点点，是否会用心多一点点，是否还会那样无忌的挥霍我浅薄的幸福，是否还会那样懵懂地预支那么多奢侈的欢愉……
+寒冷让我安静。仿佛灵魂深处的不安和浮躁都被冻结。恩。秋天已经来了，离冬天还会远么？

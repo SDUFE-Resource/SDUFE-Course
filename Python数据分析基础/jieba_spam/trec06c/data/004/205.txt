@@ -1,0 +1,33 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <ye@ccert.edu.cn>; Tue, 16 Aug 2005 11:52:54 +0800 (CST)
+Received: (qmail 5448 invoked from network); Tue, 16 Aug 2005 04:03:41 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Tue, 16 Aug 2005 04:03:41 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "ning" <ning@jdl.ac.cn>
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsrSu7j2vPzFzLXEzsrM4iAo16rU2Ck=?=
+Date: Tue, 16 Aug 2005 12:07:40 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+赞，研究精神。
+     标  题: Re: 请问一个键盘的问题 (转载)
+     
+     呵呵呵，你跟我当时的情况一样呢
+     我是因为咖啡泼了一点在上面了，等我用吹风机吹干后，就发现ER、DF、CV这一排的键都相通了，估计是里面线路烧掉了
+     因为好奇，我就彻底打开了键盘来研究，重装后发现更多的键不知所谓了
+     呵呵呵，此键盘至今被我收藏，留待有兴趣时慢慢研究
+     : 【 以下文字转载自 Hardware 讨论区 】
+     : 发信人: perfects (eidolon), 信区: Hardware
+     : 标  题: 请问一个键盘的问题
+     
+     --
+     

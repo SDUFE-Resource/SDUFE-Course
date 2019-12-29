@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j89BWCU9022808
+	for <guan@ccert.edu.cn>; Sat, 10 Sep 2005 12:18:59 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j89BiKkB022586
+	for <guan@ccert.edu.cn>; Sat, 10 Sep 2005 12:31:07 +0800 (CST)
+Message-Id: <200509091144.j89BiKkB022586@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 10 Sep 2005 04:15:31 -0000
+From: "mei" <mei@mail.tsinghua.edu.cn>
+To: guan@ccert.edu.cn
+Cc: <gao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IGdnt7S21M7SsaPR0A==?=
+Date: Sat, 10 Sep 2005 12:31:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B576.DC006930"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW1M82V4fCsJlcmRKqhxo69KqiULA==
+
+面对诱惑的确很难作出抉择
+要么你让一步，申请出国
+要么你gg让一步，继续呆在清华
+否则你们就准备接受几年的异国生活把
+这个时候最重要的是信心，和对爱情的执着
+其实你要申请出国困难并没有你想的那么大，如果你决心去做的话
+其实你gg不出国也并不意味着在国内发展就比去国外差了
+看怎么想了
+     我在川大，本来是想和gg一起申请国外读研，但是现在越来信心不足，所以想退一步，恰好有个机会能保送南开的研究生，想争取一下，可是现在在清华的gg却铁了心要出国。要不要保研，已经考虑很长时间了。gg现在还是强烈反对我保研。大家怎么看这个问题呢？

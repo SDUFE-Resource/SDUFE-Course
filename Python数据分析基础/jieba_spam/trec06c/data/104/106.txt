@@ -1,0 +1,29 @@
+Received: from tfol.com ([221.236.5.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8820wkq006952
+	for <yu@ccert.edu.cn>; Fri, 9 Sep 2005 00:29:25 +0800 (CST)
+Received: (umta 23260 invoked by alias); Thu, 8 Sep 2005 16:41:24 -0000
+X-Lasthop: 61.139.64.53
+Received: from unknown (HELO happylele) (unknown@61.139.64.53)
+  by localhost with SMTP; Thu, 8 Sep 2005 16:41:24 -0000
+Message-ID: <001501c5b41a$dd6c9f80$2e838f0a@happylele>
+From: "qiu" <qiu@tanfoidc.com>
+To: yu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7KzsrR0L6/yfq/zqG+19S2r7/Y1sbUrcDtob+jvw==?=
+Date: Fri, 9 Sep 2005 00:41:30 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2670
+Disposition-Notification-To: "zhangle" <zhangle@tanfoidc.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2670
+
+本科的自控1主要是讲经典控制
+就是bode图，乃魁斯特图，根轨迹什么的
+研究生的好像还包括现代控制理论，可观可控什么的
+研究生的应该比本科生的容易
+     偶计研的，本科的时候没有学过自动化的课程，由于以后的方向和自动控制挂钩比较密切
+     ，所以想补一补控制方面的课程，想问问这门研究生课和这学期本科开的《自动控制原理
+     （1）》有些什么区别？是选这门课还是去旁听本科生的课程效果好点？（主要是不知道

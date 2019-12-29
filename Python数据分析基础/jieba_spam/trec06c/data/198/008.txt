@@ -1,0 +1,43 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFG0025934
+	for <zhao@ccert.edu.cn>; Wed, 28 Sep 2005 12:48:27 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Wed, 28 Sep 2005 04:34:01 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "feng" <feng@mail.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Cc: "Duan Haixin" <shi@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs8/GuLzm1rBKQVZBv6q3ormks8zKpg==?=
+Date: Wed, 28 Sep 2005 12:59:18 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+工作性质：兼职
+招聘职位：
+1、网站开发工程师
+    主要负责开发WAP网站相关业务
+    具体要求：
+      -有网站开发经验，熟悉大型数据库与网站开发工具软件
+      -熟悉linux系统
+      -熟悉J2EE架构、JAVA/SERVLET/JSP编程
+      -至少熟悉RESIN、WEBLOGIC、TOMCAT中的一种应用服务器的开发部署
+2、JAVA服务器应用开发工程师
+    负责开发基于JAVA的应用服务器程序
+    具体要求：
+      -掌握JAVA编程，有JAVA项目开发经验
+      -熟悉多线程编程、TCP/IP协议、Socket编程
+      -对TOMCAT、RESIN等WEB服务器有一定的了解
+  
+薪资待遇：面议
+特殊要求：一周至少有四天能来公司(包括六日)
+招聘公司：北京邦邦网络科技有限公司
+我公司主要在移动互联网领域进行产品研发和运营，旗下wap.81088.com是目前国内领先的免费WAP业务门户，手机IM客户端产品邦邦通在专业评测中全面领先。
+兼职人员在毕业后可以择优录用。公司气氛和谐向上，欢迎加入我们的邦邦大家庭！
+联系方式：010-68372858-801
+email:hr@81088.com

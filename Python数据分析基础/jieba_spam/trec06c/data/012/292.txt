@@ -1,0 +1,63 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7FBL9jQ015986
+	for <yang@ccert.edu.cn>; Fri, 19 Aug 2005 17:47:11 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7FBr5I2010935;
+	Fri, 19 Aug 2005 18:19:07 +0800
+Message-Id: <200508151153.j7FBr5I2010935@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 18:00:07 +0800
+From: "yu" <yu@mail.nisac.gov.cn>
+Reply-To: yu@mail.nisac.gov.cn
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9PD09HI7bz+1dDGuF1Vc2FiaWxpdHkgU3BlY2lhbGlzdA==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+Usability Specialist Recruitment
+Title: User Interface Usability Specialist
+Position: Full-Time Regular
+Location: Beijing, China
+Education: Bachelor\'s Degree in Human Computer Interaction, Cognitive Psychology, Industrial Design, Graphical design or equivalent
+Description: 
+Profile
+This position is ideal for those who enjoy problem solving. Fresh thinking is a must, as well as excellent communication skills.
+Description
+The Usability Specialist works closely with the UFIDA development community. The Usability Specialist is responsible for the ensuring that software products meet user requirements. The Usability Specialist is also responsible for the creation and delivery of design patterns, samples, design guidelines and design best practices. 
+Key Responsibilities
+oCreation of guidelines for interaction design
+oSupervision of the guidelines Implementation
+oConduction of user testing and heuristic evaluation
+oDevelopment of prototypes for new products
+oHold Focus groups, interview, think aloud, and so on.
+Experience: 
+o 1 years experience in usability engineering or HCI field is a plus.
+Skills:
+oTechnical Writing
+oUsability methods, such as field observation and cognitive walkthrough
+oExperimental Deign, conduct and data analysis
+Motivated candidates please send you resume to this email address: yaz@ufsoft.com.cn and cc to whr@ufsoft.com.cn
+ 
+User Interface Designer
+Title: User Interface Designer
+Position: Full-Time Regular
+Location: Beijing, China
+Education: Bachelor\'s degree in fine arts, industrial design, graphical design or equivalent
+Description: 
+Profile
+This position is ideal for those who enjoy problem solving. Fresh thinking is a must, as well as excellent communication skills.
+Description
+User Interface designing including visual design, icon design and interaction design for the software and websites.
+Key Responsibilities
+oUser interface design for products
+oCreation of guidelines for user interface design
+oSupervision of the guidelines Implementation
+Experience: 
+o Minimum 1 year experience and background in visual design and interaction design
+Skills:
+o Familiar with software tools such as Photoshop, Illustrator, Flash, 3d Max-Ability to deliver creative visual and interaction design to meet and reflect users\' requirements
+Motivated candidates please send you resume to this email address: whr@ufsoft.com.cn

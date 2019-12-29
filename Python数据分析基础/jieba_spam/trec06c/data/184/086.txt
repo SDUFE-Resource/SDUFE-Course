@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8OB6nor025292
+	for <tu@ccert.edu.cn>; Sun, 25 Sep 2005 17:10:34 +0800 (CST)
+Received: (eyou send program); Sun, 25 Sep 2005 16:58:29 +0800
+Message-ID: <327559284.25099@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 25 Sep 2005 16:58:29 +0800
+Message-ID: <327559284.25083@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Sun, 25 Sep 2005 16:58:29 +0800
+From: cai@mail.tsinghua.edu.cn
+To: tu@ccert.edu.cn
+Cc: xia@ccert.edu.cn
+Date: Sun, 25 Sep 2005 16:58:29 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEguPHA19DAt6jU8iAo16rU2Ck=?=
+Content-Type: text/plain
+
+【 以下文字转载自 Sales 讨论区 】
+发信人: albb (无心之心，道之所存), 信区: Sales
+标  题: 格雷欣法则
+ 在经济学上，五百多年前的英国葛拉森爵士（Sir Thomas Gresham）提出著名的劣币驱逐良币的定律（即通常所谓“格雷欣法则”）。他告诉我们，如果市场上有两种货币――良币和劣币，只要二者所起的流通作用等同，因为劣币成本低，人们在使用中往往会选择劣币，储存良币，久而久之良币就会退出市场，这就是劣币驱逐良币原理。
+如果一方对感情认真，那么就属于良币了。这时候，如果另一方对感情只是玩玩，那么就属于劣币了。
+感情能流通吗？我想双方为感情的所做的事情，可以等于货币流通了。
+玩玩的兑付认真的，似乎是很划算的。
+……
+没完全想明白。

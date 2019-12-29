@@ -1,0 +1,46 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <lei@ccert.edu.cn>; Fri, 19 Aug 2005 16:35:39 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <lei@ccert.edu.cn>; Fri, 19 Aug 2005 16:48:41 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Fri, 19 Aug 2005 17:12:09 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: long@126.com
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuEpBVkG5pLPMyqa6zc34wufI7bz+uaSzzMqm?=
+Date: Fri, 19 Aug 2005 16:43:23 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+   北京直真节点技术开发有限公司成立于1999年10月15日，是一家总部位于北京中关村科技园区的高新技术软件企业。公司自成立以来专注于从事电信领域的高技术产品开发、系统集成及相关的服务。公司发展迅速，公司2001年5和2002年7月分别在上海、广州成立子公司和分公司，并于2001年通过ISO9001:2000的国际、国内质量体系认证，2002年9月获得中国信息产业部计算机系统集成资质二级认证，2004年11月通过SEI的CMM3认证，2004年11月成功地在香港联交所主板挂牌上市!（股票代码：2371）
+    公司网址：www.zznode.com
+    现公司因发展需要，诚邀各路英才加盟！
+JAVA工程师
+任职资格：
+1、3年以上的软件开发工作经验；
+2、熟悉J2EE技术，熟练掌握JAVA或JSP/EJB等开发技术；
+3、熟练掌握数据库开发技术（ORACLE、SYBASE、INFORMIX）；
+4、计算机或相关专业毕业，大本以上学历。
+网络软件工程师
+任职资格：
+1.有扎实的计算机网络基础知识；
+2.熟悉TCP/IP、Http、Https、Smpt、Pop3、Ftp协议；
+3.熟悉H.323、Iptv、Voip协议者优先；
+4.有一定的VC++/Linux gcc和socket开发经验；
+5.熟悉Windows、Linux、Unix；
+6.为人正直勤奋。
+    有意者请将个人简历发至北京直真节点技术开发有限公司人力资源部，邮件地址：
+hr@zznode.com
+    请在邮件标题处注明应聘岗位，不要以附件形式发送，谢谢！

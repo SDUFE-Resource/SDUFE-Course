@@ -1,0 +1,27 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7FBL9jQ015986
+	for <lv@ccert.edu.cn>; Fri, 19 Aug 2005 08:09:46 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7FBr5I2010935;
+	Fri, 19 Aug 2005 08:41:42 +0800
+Message-Id: <200508151153.j7FBr5I2010935@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 08:22:42 +0800
+From: "long" <long@mail.nisac.gov.cn>
+Reply-To: long@mail.nisac.gov.cn
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx/O+yKO6yOe6zrDRvK/M5bunv9q007WlzrvHqLP2wLSjvw==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+本人04年毕业， 某国企帮我解决了户口
+但最近人事部门讲因为机构重组所以我们的集体户口不能长期在其名下挂靠了。。。
+所以希望我能想办法 把我的集体户口迁出来。。。听说好像只有结婚和买房才能迁是吧？ 有没有其他的办法呢？
+人事部还讲如果实在没办法，那么只有由他们去把我的集体户口迁往另一家公司（也是某超大国企，算他们兄弟单位吧）不过他们讲最好不要这样，我猜是不是有什么风险在里头呢？
+因为要办新的身份证，我已经把户口卡借出来了，人事部说如果我找不到迁出的办法还要再还给他们。。。
+各位大牛帮忙分析分析，我现在该怎么做才好啊~~~
+p.s.该单位为某中央直属企业，当初使用的是国家人事部的指标。

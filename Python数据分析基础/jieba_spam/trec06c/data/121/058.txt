@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ACNovr029742
+	for <gao@ccert.edu.cn>; Mon, 12 Sep 2005 15:10:24 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8ACKv6Q093262
+	for <gao@ccert.edu.cn>; Mon, 12 Sep 2005 15:07:55 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8ACKomW093258
+	for <gao@ccert.edu.cn>; Mon, 12 Sep 2005 15:07:28 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+Message-Id: <200509101220.j8ACKomW093258@gradinfo.net.edu.cn>
+Received: from free-qhkbi6e7yv (unknown [59.66.201.85])
+	by smtp2 (Coremail) with SMTP id QsA3yF3IIkPPuYAD.1
+	for <gao@ccert.edu.cn>; Mon, 12 Sep 2005 14:36:27 +0800 (CST)
+X-Originating-IP: [59.66.201.85]
+Date: Mon, 12 Sep 2005 14:38:14 +0800
+From: "ke" <ke@163.com>
+To: gao@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8ACKomW093258
+Subject: =?gb2312?B?UmU6ILW8yqajrL3QztLWqrXAyrLDtMrHwOTFr9fU1qo=?=
+Precedence: list
+Reply-To: ke@163.com
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     今年，相同的饭店，相同的包间，同门聚会
+     不同的是，我们成了师兄、师姐
+     而去年，我们刚进门，有些紧张和手足无措
+我现在也有和你类似的感觉，只是老师没有你的老师那么程度深，我还不完全像你那样。我觉得就是和会不会办事，是否圆滑，会说话有关，哪里都是一个样子。和我一届的直博生（不同老师）早都开始做试验了，组里面比我后进来的人都开始了，我的设备仪器还不知道在那里了，我的设计什么的早就给了老师了，我也总去催，但前天发现我上学期给老师的材料，他就根本没有看多。当然他也是忙，但是关键是不平均。总是说要做了要做了，但最后就是脱。我第一个文章过年着急的写完，直到6月份，可能看我实在没事情干，安慰我一下才看完给寄出去啊，这学期别人写的文章不到一个月就都寄走了，也不知道是不是就是针对我。组里的人有的是内部关系，有的很会说话对老师的脾气，有的是在职的也个性比较厉害，就我十分的老实，虽然很听话，但就是被耍的那种。现在我真是没有一点斗志了，那天老师不知道怎么了，和我商量了一些仪器的事情，然后给我个新实验室搬过去，第二天他就出差了，仪器自然我估计也没有做，我当时居然不在乎了，然后发现别人的设备搬了过来，正好是我腾的地方，唉。昨天教师节送花，每人给了个月饼，说这是那个什么仪器公司送来的，（那个仪器值5万美金），我心更凉了，我那个东西加工一下估计也就3000，他还不放权利给我。唉，谁让我老实呢。
+ 我真怕延期啊，不完全是我的原因。我要学会圆滑（我送他的东西也不少啊，老爹出差来也会请他吃饭）我要厚脸皮多奉承人，反正哄死人不偿命，我还要厉害些，不能老被欺负。唉，好人都是这样被逼坏的。

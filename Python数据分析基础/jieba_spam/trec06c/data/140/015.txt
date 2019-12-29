@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <che@ccert.edu.cn>; Fri, 16 Sep 2005 09:43:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <che@ccert.edu.cn>; Fri, 16 Sep 2005 09:55:00 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 01:36:30 -0000
+From: "hua" <hua@mail.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <yun@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMLowujAtLGxvqnBy6Oh1PXDtL3ivvbL/bXEucK2wM7KzOKjvw==?=
+Date: Fri, 16 Sep 2005 09:54:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+  附近有公园吗？可以让你妈妈去公园活动，跳健身操，
+打太极拳。然后去买买菜，逛逛街。在家做做家务，看看电视，报纸。
+在小区里面着找个人聊天。北京的老头老太太待人还是很和气的。
+     妈妈退休了，我好不容易帮她请到了北京。现在我和老公白天都忙着上班，留下我妈妈一个人在家，我怕她无聊，想给她找点具体的事情做做或者玩玩，比如参加个老年人协会什么的，不知大家能否给点建议？
+     另外，我妈妈普通话讲得不好，一听就是外地人，担心出去有人欺负她啊。。。

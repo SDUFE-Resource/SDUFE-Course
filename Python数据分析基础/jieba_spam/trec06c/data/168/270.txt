@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <zhu@ccert.edu.cn>; Thu, 22 Sep 2005 18:09:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <zhu@ccert.edu.cn>; Thu, 22 Sep 2005 18:20:28 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 09:58:00 -0000
+From: "gu" <gu@mail.tsinghua.edu.cn>
+To: zhu@ccert.edu.cn
+Cc: <tang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7NxtHQ0MXPoqG/x+W7qrTz0ae/xry80+vJ57vh0dC+v9bQ0MQ=?=
+Date: Thu, 22 Sep 2005 18:20:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+   清华大学科学与技术研究中心（STS）隶属于清华大学人文与社会科学学院，旨在培养科技哲学、科技与社会、科技政策与管理等方面的高层次专门人才。现有部分校内交叉名额（含深圳研究生院名额）欢迎对上述方向感兴趣的同学踊跃报名。
+    报名时间：9月23日（仅明天一天）      报名地点：新斋226（STS办公室）
+    报名时请携带个人简历、成绩单（复印件）等证明资料，初选结果及面试时间另行通知。若有其他问题，请参见本所主页：http://rwxy.tsinghua.edu.cn/xi-suo/kjs/StsinTsinghua.htm  
+                                           清华大学科技与社会研究中心   

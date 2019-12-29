@@ -1,0 +1,49 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <yuan@ccert.edu.cn>; Sun, 18 Sep 2005 00:19:58 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <yuan@ccert.edu.cn>; Sun, 18 Sep 2005 00:36:33 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <yuan@ccert.edu.cn>
+	; Sun, 18 Sep 2005 00:36:33 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <yuan@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 00:01:34 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "huang" <huang@njnu.edu.cn>
+To: yuan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INbQx++1vcHLftX3uPbIy7P2yKXBxMHEzOw=?=
+Date: Sun, 18 Sep 2005 00:31:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+咳咳
+啊瑞那吧。
+     标  题: Re: 中秋到了~征个人出去聊聊天
+     
+     
+     
+     完了  碰到熟人了~~
+     
+     
+     换张照片好了 呵呵
+     : 嗯，认识
+     
+     
+     --
+       
+     幸福随时光流去 灵魂再也不会藏到最阴暗的角落里哭泣
+          假如有一天你也不免凋残，
+                    我只有个简单的小小的希望：
+                           保持着那初放时的安祥。
+     
+     

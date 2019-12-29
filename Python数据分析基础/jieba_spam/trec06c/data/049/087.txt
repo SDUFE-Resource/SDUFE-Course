@@ -1,0 +1,28 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <cheng@ccert.edu.cn>; Sat, 27 Aug 2005 19:55:19 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 20:05:52 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sat, 27 Aug 2005 20:05:52 +0800
+From: "ye" <ye@ctbu.edu.cn>
+To: cheng@ccert.edu.cn
+Date: Sat, 27 Aug 2005 20:05:52 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "ye" <ye@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INHQvr/J+r3Xts7NqLn9y67Gvbb+tcSyu8Tcw+LQ3tOi0++jrGZ0?=
+Content-Type: text/plain
+
+2005级博士硕士研究生英语教学安排请参见附件
+几项常见问题说明：
+1、本科阶段通过水平II的硕士生英语免修，不必参加英语分级考试，只需选课时选择课序号99的免修英语（60640012）课堂。
+2、未免修英语的硕士生必须在第一学年内春季或者秋季学期参加水平II考试（2次机会），以后的水平II成绩不参与最后成绩的合成。
+3、本科与硕士段通过水平II的博士生英语免修，不必参加英语分级考试，只需选课时选择课序号99的免修英语（90640012）课堂。
+4、未免修英语的博士生必须在第一、二学年内春季或者秋季学期参加水平II考试（4次机会），以后的水平II成绩不参与最后成绩的合成。
+其它安排请阅读附件。
+研究生院培养办公室
+2005年8月22日 
+     我是普博，研究生的时候通过了学校的水平二
+     就没有去参加分级考试。
+     今天业务办的老师说学校有个通知，研究生阶段通过水平二的普博生不能免修英语

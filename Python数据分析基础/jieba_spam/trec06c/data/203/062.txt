@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R65apq017246
+	for <zhuang@ccert.edu.cn>; Thu, 29 Sep 2005 09:13:27 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 09:21:06 +0800
+Message-ID: <327801595.21795@mails.tsinghua.edu.cn>
+Received: from 166.111.8.254 by mails.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 09:21:06 +0800
+From: qiu@mails.tsinghua.edu.cn
+To: zhuang@ccert.edu.cn
+Date: Thu, 29 Sep 2005 09:21:06 +0800
+Reply-To: qiu@mails.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM6qyrLDtM31tcTAz8qmsaOz1rPBxKyjvw==?=
+Content-Type: text/plain
+
+不过清华号称出的总数国内最多，看这个
+IEEE Fellow（国际电气电子工程师协会院士）是国际电气电子学术界最高荣誉，当选IEEE Fellow的清华学子在国内居第一位。
+1. 蔡宣三，1963年毕业于清华大学电机系。清华大学电器专业创办人之一，IEEE电力电子学会中国分会主席；中国电力学会名誉副理事长；曾任IEEE中国分会主席、IEEE亚太教育委员会主席和中国电源学会理事长。
+2. 陈清泉，1959年研究生毕业于清华大学电机系。中国工程院院士、香港工程科学院院士、英国皇家工程院院士、乌克兰工程科学院院士和国际电动车辆研究中心主任，世界电动车会创办人，世界电动车"三贤士"之一。
+3. 黄学东，1984年硕士毕业于清华大学计算机系。美国微软公司Speech.Net总负责人，微软技术副总裁。
+4. 李文源，1968年毕业于清华大学电机系。1996年全加拿大IEEE唯一的"杰出工程师"奖获得者。
+5. 凌复云，1968年毕业于清华大学。世界最顶尖的通信技术公司-美国高通公司全球技术副总裁。
+6. 徐 雷，1986年博士毕业于清华大学自动化系。国际模式识别学会Fellow，香港中文大学计算机系教授。2002年当选为欧州科学院院士。
+7. 郑元芳，1970年毕业于清华大学无线电系。美国俄亥俄州立大学电气与计算机系主任，2004年9月受聘上海交大电子信息与电气工程学院院长。
+8. 周孝信，1965年本科毕业于清华大学电机系。现任国家电力公司电力科学研究院总工程师，《电网技术》杂志社长，中国科学院院士。
+9. 顾毓

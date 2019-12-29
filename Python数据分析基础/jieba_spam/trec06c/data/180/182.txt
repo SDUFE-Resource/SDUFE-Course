@@ -1,0 +1,24 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 22:52:48 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 22:15:06 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "luo" <luo@cert.org.cn>
+To: shi@ccert.edu.cn
+CC: "jin@ccert.edu.cn" <lai@ccert.edu.cn>,
+   "lian@ccert.edu.cn" <ke@ccert.edu.cn>,
+   "fan@ccert.edu.cn" <ren@ccert.edu.cn>, "long@ccert.edu.cn" <tian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM31zazRp9eq0afKx7j2utzV/bOjtcTKwsfpo6jWuNTaufrN4qOp?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 23:00:33 +0800
+
+不过这哥们也不给自己留条退路，先申请到国外的学校，再退学也不迟啊。
+骂人我倒没看出来，只不过他说得很多老板的不好我倒觉得他的老板实际上挺好的。
+从他的文章看，他对一些问题的看法很个人化。这些看法对他以后的学习工作可能还会造成一些伤害。
+     转学无所谓，不要公开骂自己的老板，更何况自己的老板实际上对他挺好的。
+     他老板还给他活动转硕毕业，然后推荐到国外呢，按上面一个人说的。

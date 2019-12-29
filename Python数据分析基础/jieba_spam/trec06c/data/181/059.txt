@@ -1,0 +1,42 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <luo@ccert.edu.cn>; Sun, 25 Sep 2005 01:35:34 +0800 (CST)
+Received: (eyou send program); Sun, 25 Sep 2005 01:24:34 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 25 Sep 2005 01:24:33 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 25 Sep 2005 01:24:33 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 17:24:33 -0000
+From: "lai" <lai@mail.tsinghua.edu.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMflu6q8xsvju/q2wbKpxtq85MO/1MLK1cjrxNzT0Lbgydmjvw==?=
+Date: Sun, 25 Sep 2005 01:46:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+是啊，人家写程序的都没有这么拽，他在书里面找个bug就拽成这样
+pfpf
+     标  题: Re: 清华计算机读博期间每月收入能有多少？
+     
+     : If you do succeed in finding a previously undiscovered bug in the programs for either TeX or METAFONT, I shall gladly pay you a reward of $327.68. Corrections to errors in The TeXbook or The METAFONTbook are worth $2.56, as in all my other books.                                              ~~~~~~~~~
+                                               这个价这么低，说明他也没那么自信吧？ 
+     
+                         
+     : 自信的Knuth岂是matlab,maple,mathematic这些软件能比得
+     
+     
+     --
+     正如ciwp的文章所言，在一些人处在水深火热生死攸关的时候，另一些人看来，不过是游
+     戏一场，人生是不是游戏这个问题就像鸡生蛋蛋生鸡一样被无数人讨论了无数个年头，依
+     旧各执一词没结果。
+     所以其实这人生没个标准答案，你写成什么样的它就是什么样的。所以我们要学会喜欢自
+     己亲笔写下的东西，快乐的一页当然好，悲伤的已既成事实，也不能撕掉啊，不如以天真
+     和简单的心情去对待吧。                         ――ifitis《如果生活欺骗了你》
+     
+     

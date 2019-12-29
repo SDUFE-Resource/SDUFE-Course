@@ -1,0 +1,43 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFG0025934
+	for <sun@ccert.edu.cn>; Fri, 30 Sep 2005 15:13:47 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Fri, 30 Sep 2005 06:59:21 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "guo" <guo@mail.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Cc: "Duan Haixin" <peng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1bnRttXQxrijus+1zbPI7bz+uaSzzMqmKDEp?=
+Date: Fri, 30 Sep 2005 15:24:38 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+公司简介： 
+==================================================== 
+    展讯通信有限公司是一家由中国留学生创建于2001年的技术领先的集成电路设计公司。专注于无线通信领域，为全球无线通信终端厂商、设计公司提供可快速市场化、最优性价比的无线终端整体解决方案。 
+    我们的核心产品：2G/2.5G/3G基带芯片、开放的软硬件开发平台、无线通信模块 
+    结合展讯专家多年行业经验和业界最新设计方法，以及着眼于客户需求的创新设计，使展讯的芯片新产品具有更高的集成度、更小的尺寸、更低的功耗以及更好的性能；展讯的协议栈软件和开发平台具有稳定、高效和高度模块化特点，方便客户可以进行软硬件并行开发从而缩短产品上市时间。  
+==================================================== 
+职位名称：系统软件工程师  
+工作地点：北京市海淀区 
+招聘人数：1人 
+联系人：李小姐 
+联系方式：lora.li@spradtrum.com.cn 
+  
+Job description: 
+1、   实时操作系统软件的集成、调试和维护； 
+2、   Linux及其它开放式操作系统的配置及到芯片的移植； 
+3、   为整个系统提供稳定可靠的系统平台。 
+  
+Requirements: 
+1、   本科以上学历，计算机电子工程相关专业； 
+2、   两年以上嵌入式实时操作系统开发调试经验； 
+3、   具有Linux内核裁减、移植及debug经验； 
+4、   具有嵌入式设备驱动开发经验； 
+5、   良好的英语阅读及表达能力。 

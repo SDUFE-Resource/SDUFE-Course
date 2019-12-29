@@ -1,0 +1,23 @@
+Received: from ict.ac.cn (webmail.ict.ac.cn [159.226.39.7])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j857bP4P016205
+	for <xu@ccert.edu.cn>; Wed, 7 Sep 2005 06:59:30 +0800 (CST)
+Received: (qmail 13088 invoked by uid 507); Tue, 6 Sep 2005 22:40:33 -0000
+Received: from unknown (HELO Computer) (liwei@159.226.40.3)
+  by ict.ac.cn with SMTP; Tue, 6 Sep 2005 22:40:33 -0000
+From: "guan" <guan@ict.ac.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfz1vrT0L6t0em1xG1tLM6qyrLDtLvh1eLR+T8=?=
+Date: Wed, 7 Sep 2005 07:11:32 +0800
+Message-ID: <000001c5b1ee$60e52550$0302000a@Computer>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.6626
+Importance: Normal
+In-Reply-To: <010301c5af72$bae79980$26cb6fa6@liuwu>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2527
+
+直截了当问态度，这种事情拖着对大家都不好。

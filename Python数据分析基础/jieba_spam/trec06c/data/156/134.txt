@@ -1,0 +1,39 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <zhu@ccert.edu.cn>; Mon, 19 Sep 2005 20:32:03 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Mon, 19 Sep 2005 12:43:04 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Mon, 19 Sep 2005 12:43:04 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <zhu@ccert.edu.cn>; Mon, 19 Sep 2005 05:54:01 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <zhu@ccert.edu.cn>; Mon, 19 Sep 2005 07:51:27 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 20:42:51 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <che@motorola.com>
+To: zhu@ccert.edu.cn
+Cc: ma@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dXAvdS6v8K079XVz+C1xLXYt728uLXjv6rDxaO/ICjXqtTYKQ==?=
+Date: Mon, 19 Sep 2005 20:42:25 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+【 以下文字转载自 Graduate 讨论区 】
+发信人: junebreeze (风动书香), 信区: Graduate
+标  题: 照澜院柯达照相的地方几点开门？
+发信人: junebreeze (风动书香), 信区: THUInfo
+标  题: 照澜院柯达照相的地方几点开门？
+明天急着要照片，哪儿几点开门？最快多长时间可以取
+一寸的照片
+有什么其他快的地方推荐的？
+谢谢

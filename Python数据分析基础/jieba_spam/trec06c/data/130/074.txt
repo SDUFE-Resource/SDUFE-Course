@@ -1,0 +1,28 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C5ZHks008458
+	for <che@ccert.edu.cn>; Wed, 14 Sep 2005 10:32:51 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8C50nS32226
+	for <che@ccert.edu.cn>; Wed, 14 Sep 2005 09:58:04 +0800
+Message-Id: <200509120500.j8C50nS32226@mail.cert.org.cn>
+From: "xiao" <xiao@cert.org.cn>
+To: che@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: CNCERT/CC=CD=F8=C2=E7=B0=B2=C8=AB=D3=A6=BC=B1=BC=BC=CA=F5=B9=AB=BF=AA=BF=CE=CD=A8=D6=AA?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 14 Sep 2005 10:42:23 +0800
+
+我觉得你对机械表的态度有点偏了
+其实人类很多时候都是追求极致
+手表在某些方面是代表了人类的手工的最高水平的
+比如万年历表
+在上千个零件中要有一个零件每4年的2月未跳动一下
+还有各种复杂功能的机械表
+现在还有人甘愿为这种你不屑的机械技术奉献一生
+     机械表忘了上弦不走了的时候就不准了
+     贵族就是戴着玩的
+     我的手机是个混蛋手机，电池取出来充一次电之后手机时间自动清零

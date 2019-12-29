@@ -1,0 +1,62 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AD9Mx3029876
+	for <wu@ccert.edu.cn>; Sat, 10 Sep 2005 23:41:15 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6dUu093533
+	for <wu@ccert.edu.cn>; Sat, 10 Sep 2005 23:38:46 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bluebox.CS.Princeton.EDU (bluebox.CS.Princeton.EDU
+	[128.112.136.38])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6ZAN093529
+	for <wu@ccert.edu.cn>; Sat, 10 Sep 2005 23:38:29 +0800 (CST)
+	(envelope-from wangyi@ns.6test.edu.cn)
+Received: from [140.180.169.187] (yiwang.student.Princeton.EDU
+	[140.180.169.187]) (authenticated bits=0)
+	by bluebox.CS.Princeton.EDU (8.12.11/8.12.11) with ESMTP id
+	j8ADL2a8029505
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <wu@ccert.edu.cn>; Sat, 10 Sep 2005 11:52:56 -0400 (EDT)
+Message-ID: <4322DDBC.1080807@ns.6test.edu.cn>
+Date: Sat, 10 Sep 2005 11:52:53 -0400
+From: Yi Wang <weng@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+MIME-Version: 1.0
+To: wu@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?vczKpr3av+zA1g==?=
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 mlx=-1
+	adultscore=0 adjust=0 reason=safe engine=3.0.0-05090301
+	definitions=3.0.0-05090911
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+北京市宣武区爱国卫生运动委员会
+蟑螂的防治
+（1） 如何防止蟑螂侵入室内？
+  概括讲就是"封三眼""堵六缝"：用油灰或水泥封死上下水管、煤气管、暖气管的楼层套管间隙，即为封三眼。用油灰、水泥或玻璃胶对胶壁、地板门框、窗框、水池、灶台的孔洞和缝隙抹严实，即为堵六缝，同时严格控制食源的密闭存放、水源和及时清理生活垃圾等。
+（2） 如何通过环境治理来防治蟑螂？
+  ①经常性卫生大扫除。
+  ②清除和减少蟑螂的食物源和栖息场所。
+  ③清除厨房内残剩食物和清洗或开水烫刷橱柜、用具等。
+  ④清除蟑迹（蟑粪）及可栖息场所。
+  ⑤修补门窗纱。
+  ⑥堵洞抹缝。
+（3）如何使用毒饵杀灭蟑螂？
+  毒饵适应蟑螂生态特点，环境污染少，使用方便、引 剂性能强、适用于不宜喷洒杀虫剂的场所，使用时遵循"少量点多"原则，将毒饵放在隔潮器皿中，重点投放厨房、餐厅、食品加工和医院等场所内橱柜回抽屉的角落处、家俱背后夹缝、电线和管道上或直接撒布在蟑螂栖息处，１克毒饵可放５个点，通过采取量少、点多面广的方法增加蟑螂取食机会并根据毒饵消耗情况加以补充或更换，达到诱杀效果。
+（4）如何使用杀蟑粉剂？
+  杀蟑粉剂对蟑螂有触杀作用，可喷酒在缝隙、孔洞、墙踢角线上、角落和固定设备隐蔽处、喷酒时量不宜多，讲究薄而均匀即可，用量过多层过厚反引起蟑螂拒避作用，另外桌面及暴露表面、柜内不宜喷洒否则美观爱损，潮湿物体不宜撒粉，否则失效。
+（5）如何采用熏蒸方法？
+  熏蒸法是一种效率高、效果好的施药方法能在短时间内迅速降低蟑密度，其原理是在相对密闭的房间内用专用熏蒸器将杀虫剂原体直接挥发成气体均匀弥散室内，渗透到各处缝隙角落，使蟑螂触药而兴奋从洞穴中爬出，最终死亡。此法具国际水平，对人安全、灭蟑效率高，５０分钟内可杀灭９０％的蟑螂种群，使用后开窗通风换气并清除死蟑螂和蚊蝇等害虫，不会留下任何痕迹，也不会造成环境污染等，是一种理想、清洁、快速有效的灭蟑方法。
+     现在家里的蟑螂多的不能在多了，我都感觉他们的居住面积已经比较拥挤了，不知道谁有杀蟑螂的什么好药没有，麻烦告诉一下了，谢谢了！

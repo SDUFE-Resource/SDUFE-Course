@@ -1,0 +1,27 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <lian@ccert.edu.cn>; Sat, 20 Aug 2005 07:17:35 +0800 (CST)
+Received: (qmail 23946 invoked from network); Fri, 19 Aug 2005 23:27:49 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 19 Aug 2005 23:27:49 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "xia" <xia@jdl.ac.cn>
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMq3yqvV5rXExMfDtLrD1/fDtKO/?=
+Date: Sat, 20 Aug 2005 07:31:57 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+  对于上面提到的那几部，尤其是张艺谋的作品，能否归为史诗类还是个问题，因为
+  这个概念实在是很模糊。我也觉得他并非出于什么“使命感”去拍这样的电影，
+  利益驱动是首当其冲的目的。
+  要说这种“使命感”，倒是文人背景的陈凯歌可能会有这样的心态，比如他眼下的
+  &lt;无极&gt;就被媒体赋上了一层所谓史诗电影的色彩。
+     赚钱肯定是第一，但是有着优越精英心态意识的导演们
+     恐怕心里有某种文化“使命感” 而恰恰是这些东西让他们变得很可笑

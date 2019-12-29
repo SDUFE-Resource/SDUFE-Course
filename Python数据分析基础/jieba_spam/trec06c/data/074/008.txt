@@ -1,0 +1,29 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <guan@ccert.edu.cn>; Fri, 2 Sep 2005 19:47:57 +0800 (CST)
+Received: (qmail 18809 invoked from network); Fri, 2 Sep 2005 11:59:40 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 2 Sep 2005 11:59:40 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "yana" <yana@jdl.ac.cn>
+To: guan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXSuaTX97XE06a97Mu2yr/N+dXiwO+/tKOho6E=?=
+Date: Fri, 2 Sep 2005 20:01:58 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+jobMM.com（校园招聘大全）为毕业生量身定做的求职网站！
+1、28套简历/求职信模版，7项毕业生制作简历时常遇到的问题
+2、51job，前程无忧，chinahr三大招聘网站，以及北京上海广东17所高校校园招聘信息。
+3、日历展示大型招聘会、校园宣讲会的日程安排。
+4、中文简历制作导航，简单的简历填写界面，独特的关键词填写方式，引导学生整理自己
+的学习工作经历，填写完毕后，还可自动生成三种学生实用简历（word，html，记事本）.
+     现在版上说面试啊，offer啊，什么的都是你们么？大家现在就开始面试了么？
+     真的很想知道，你们是怎么找的呢？好像大部分校园招聘还没开始吧？
+     这个问题我想了好久了，越想越怕怕，忍不住还是出来问一下吧。

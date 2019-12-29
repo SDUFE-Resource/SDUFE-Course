@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <xia@ccert.edu.cn>; Sat, 27 Aug 2005 08:15:34 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 08:33:54 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 08:33:54 +0800
+Date: Sat, 27 Aug 2005 08:33:54 +0800
+From: hong@cernet.com
+Subject: =?gb2312?B?ofEgvfS8scfz1vo6ztK1xG9mZmljZTIwMDPW0HdvcmSx4MLrzsrM4iE=?=
+To: xia@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+我的word使用一直没有问题,写文章时装了ENDNOTE, 一个查文献和文献管理的软件,可以自动在word中插入文献,非常方便.当时我的ENDNOTE不熟,也不知道弄的,现在我每次打开word,我的word中的插入文献都以一种我说不清楚的编码显示了,我选中后按右键选择切换域代码才能变回我想要的样子.后来我发现凡是我在word中引入的其他程序编制的图片资料表格都以某种编码显示,
+如下所示:
+这是插入文献位置所显示的,本来应该是显示(1)的.现在显示如下,只有切换域代码后才能换过来.
+ADDIN EN.CITE &lt;EndNote&gt;&lt;Cite&gt;&lt;Author&gt;Numazawa&lt;/Author&gt;&lt;Year&gt;1996&lt;/Year&gt;&lt;RecNum&gt;63&lt;/RecNum&gt;&lt;record&gt;&lt;rec-number&gt;63&lt;/rec-number&gt;&lt;ref-type name=\'Journal Article\'&gt;17&lt;/ref-type&gt;&lt;contributors&gt;&lt;authors&gt;&lt;author&gt;Numazawa, S.&lt;/author&gt;&lt;author&gt;Inoue, N.&lt;/author&gt;&lt;.....
+这是
+  {EMBED CHEMDRAW.DOCUMENT.6.0}本来应该显示我以前用化学软件chemdraw做的化学结构式图,现在却显示这个.因为把软件卸载了,转换都没得转换了.
+这是插入的excel表格的显示,不能显示表格.
+{EMBED EXCEL.SHEET8}
+我重装了OFFICE,还是不能解决问题,高手指点一下,谢谢!

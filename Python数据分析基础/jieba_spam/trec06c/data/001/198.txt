@@ -1,0 +1,29 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <he@ccert.edu.cn>; Mon, 15 Aug 2005 01:47:09 +0800 (CST)
+Received: (qmail 5448 invoked from network); Sun, 14 Aug 2005 17:57:56 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 14 Aug 2005 17:57:56 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "tan" <tan@jdl.ac.cn>
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC52LTluN/Qwry8yvXG89K1s8/V0LPM0PLUsTXD+yjIq9awKQ==?=
+Date: Mon, 15 Aug 2005 02:01:55 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+职位要求:
+    1.计算机、自动化专业或相近专业，本科以上学历，国家统招生，毕业证学位证齐全。
+    2.基本功扎实，熟悉数据库开发，对VC++，VB，DELPHI熟悉，并做过相应开发。
+3.对关系数据库和实时数据库比较熟悉。
+    4.有过一定实践经验者优先，尤其是做过组态控制类软件开发者，或熟悉各种优化算法，进行过相关内容设计。
+    5.具有吃苦和团队合作精神。
+工资待遇面议。
+联系方式(请附简历)：
+    E_mail：excel.boy@tom.com

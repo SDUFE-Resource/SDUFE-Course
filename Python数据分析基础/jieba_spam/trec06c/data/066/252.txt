@@ -1,0 +1,25 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U1PmpO004160
+	for <liu@ccert.edu.cn>; Thu, 1 Sep 2005 19:41:17 +0800 (CST)
+Received: (qmail 858 invoked from network); Thu, 1 Sep 2005 11:52:54 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 11:52:53 -0000
+Message-ID: <000701c5ad03$b6eade80$e900a8c0@d47db5334f2a479>
+From: "bi" <bi@jdl.ac.cn>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILbBsqnSu8C0tdrSu7TO1ebV/dDEt7M=?=
+Date: Thu, 1 Sep 2005 19:55:19 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我也是不喜欢编程
+开学博二
+现在连C语言都忘记了
+要有信心，总有一条不需要编程的路子
+     硕博连读，今天开学就博2了，虽然本科硕士成绩优秀，但愈发现学习和科研风牛马不相及！！！！不喜欢编程，我想主要是我保研后就只顾着玩了，落的太多，该学的super 多，感觉没有补救了：（  熟悉的同学们马上明年就毕业了，不知自己到时能不能挺下来，我编程能力很差！

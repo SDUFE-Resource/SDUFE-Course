@@ -1,0 +1,22 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <bi@ccert.edu.cn>; Fri, 26 Aug 2005 22:55:37 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 23:13:57 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 23:13:57 +0800
+Date: Fri, 26 Aug 2005 23:13:57 +0800
+From: yu@cernet.com
+Subject: =?gb2312?B?UmU6IM7Sz+u45svfTU3Dx9K7uPa88rWltcS1wMDtLg==?=
+To: bi@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+老大你好jingye啊
+     nod，看到某些人的话，我的心好痛！一些人对金钱的崇拜已经超过了合理的界限。在这样竞争激烈的社会里，重视经济是正常的，也是必要的。但是，有一个界限，那就是要热爱我们的祖国和我们伟大的民族。推动国家发展不仅是那些政府领导人、那些大企业家、高级知识分子、各

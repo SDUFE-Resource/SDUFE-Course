@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <zhang@ccert.edu.cn>; Wed, 24 Aug 2005 15:28:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <zhang@ccert.edu.cn>; Wed, 24 Aug 2005 15:41:24 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 07:35:57 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "zhou" <zhou@mail.tsinghua.edu.cn>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMflu6rGrcHLy7bKv8n6?=
+Date: Wed, 24 Aug 2005 15:37:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+清华硕士生的住宿确实是不敢恭维
+和北京其他比较好的大学相比是比较落后
+只能忍了
+大中校长在的时候规划的421
+看来在相当长的一段时间内不可能实现了
+我觉得是有一部分宿舍资源学校不打算用来改善博士硕士生的住宿
+而想作为某种盈利方式的一个组件
+如果不给继教留那么多住宿的话
+或者继教的住宿条件和普通同学相差不太大的话
+会有更多的宿舍的
+     我妈上次过来看了，感慨
+     天哪，这是清华的硕士生待遇啊。。。
+     本科最后一年赶上了紫荆

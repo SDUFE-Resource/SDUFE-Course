@@ -1,0 +1,28 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 06:10:36 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 05:32:54 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "zhuang" <zhuang@cert.org.cn>
+To: xing@ccert.edu.cn
+CC: "gan@ccert.edu.cn" <lei@ccert.edu.cn>,
+   "zhao@ccert.edu.cn" <yana@ccert.edu.cn>,
+   "chen@ccert.edu.cn" <jin@ccert.edu.cn>, "wua@ccert.edu.cn" <wei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbUzfXNrNGntcTF+sbAus29qNLp?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 06:18:21 +0800
+
+非常赞同你的观点
+偶个人觉得,全然隔离政治那种理想化的学术净土根本不存在,换言之,做博士还是需要
+几片文章的,还是需要有老板引导地,
+就算到了国外,在清华遇到地这些情况同样还是会遇到;
+从另外一个角度来说,博士也不代表就能把学问能做的唯我独尊了,
+从学术上来说,绝大多数人就算是博士做完了,也只是刚刚进了这个领域研究的门而已,
+当然,像德布罗意那种天纵奇才仅靠几页博士论文就能获诺贝尔奖的除外了
+不过这种人又能有几个那?
+     我觉得他最大的错误在选择清华博士的时候被清华二字屏蔽了对其它方面的思考，尤其是屏蔽了对博士本身的思考..

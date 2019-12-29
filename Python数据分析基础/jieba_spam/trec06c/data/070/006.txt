@@ -1,0 +1,38 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <gong@ccert.edu.cn>; Fri, 2 Sep 2005 06:57:11 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Fri, 2 Sep 2005 07:28:40 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Fri, 2 Sep 2005 07:09:45 +0800
+From: "yu" <yu@mail.nisac.gov.cn>
+Reply-To: yu@mail.nisac.gov.cn
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgSUJNIENETCDV0Ma4SW50ZXJu?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+Job Title:      Intern (software developer)
+ 
+Opening Seats:  2
+  
+Contact Person: wangqf@cn.ibm.com
+  
+Job Description:
+Software developer to aide in the development of DB2 II product. 
+This individual will be responsible for the development of DB2 II relational/non-relational wrappers, including the build/test environment setup and configuration, coding, debugging and problem determination, etc.
+ 
+Requirements:
+Database:   Relational Database experience 
+Language:   C++ must,  Perl is a plus. 
+Platform:   Unix, Windows 
+English:    Good English Reading/Writing 
+Education:  B.S or higher in Computer Science or related 
+Time:       At lease 3 days per week 
+Others:     Good team player 

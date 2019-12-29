@@ -1,0 +1,22 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 11:23:01 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 10:45:19 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "tang" <tang@cert.org.cn>
+To: weng@ccert.edu.cn
+CC: "jin@ccert.edu.cn" <xu@ccert.edu.cn>,
+   "weng@ccert.edu.cn" <ma@ccert.edu.cn>,
+   "ni@ccert.edu.cn" <cai@ccert.edu.cn>, "che@ccert.edu.cn" <ding@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMP3zOzD5srUwcujrNejuKPPwqOh?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 11:30:46 +0800
+
+bless
+bless all
+     明天就去材料系面试了，心里的感觉怪怪的，没有成功前的喜悦，也没有失败前的痛苦，只想好好的发挥，作个真正的自己，为了直博清华我准备了1年多了，从知道可以直博清华开始我就一直在努力着。本校的直博，保硕都放弃了，老师特意征求了我的意见，我很坚决的放弃了，很

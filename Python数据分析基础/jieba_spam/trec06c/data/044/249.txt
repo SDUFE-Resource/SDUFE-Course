@@ -1,0 +1,18 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <guan@ccert.edu.cn>; Fri, 26 Aug 2005 17:09:09 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 17:16:39 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 17:16:39 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 17:16:39 +0800
+From: yu@mail.tsinghua.edu.cn
+To: guan@ccert.edu.cn
+Cc: mei@ccert.edu.cn
+Date: Fri, 26 Aug 2005 17:16:39 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7KuPfOu7Tzz8DSu7j2zsrM4qO6ssTBz9Gny7bKv7u50qqyu9KqvMzQ+LbBsqk=?=
+Content-Type: text/plain
+
+喜欢就读贝 很简单
+     去年毕业的，当时想在导师实验室读直博。但课题不好，担心以后不能按期毕业，还有就是方向不好可能会耽误博士毕业后找工作的问题，当时也没准备考其他学校的博士，现在工作后才知道自己其实很喜欢搞科研，所以想明年考清华的博士，希望哪位大侠能给予一些指点，我现在也挺迷茫的，因为博士也很多，以后毕业进高校也不太容易，但企业要博士有没太大的用途。谢谢。

@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <kong@ccert.edu.cn>; Wed, 17 Aug 2005 00:03:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <kong@ccert.edu.cn>; Wed, 17 Aug 2005 00:16:31 +0800 (CST)
+Received: (eyou send program); Wed, 17 Aug 2005 00:11:26 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Wed, 17 Aug 2005 00:11:26 +0800
+From: cai@mail.tsinghua.edu.cn
+To: kong@ccert.edu.cn
+Date: Wed, 17 Aug 2005 00:11:26 +0800
+Reply-To: cai@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM/rzsrOyrTzvNK5pNK1uaSzzMu2yr/HsL6wyOe6zg==?=
+Content-Type: text/plain
+
+IE的特性就是管理运用于生产
+我说的虚是指自己现在的学习过程只是看书看论文
+甚至编程也不多，就我个人来说计算机能力就不是很强
+还有觉得国内工厂对这个专业普遍认识还比较落后
+觉得招的人少-.-
+觉得比单纯学经管的管理方面的知识和概念又有些弱
+（虽然和经管专业知识不是在同一层面上）
+对就业情况很不了解，期望工作了的前辈们指教:)
+     ie还虚？事管理专业里面比较实的乐
+     可以去工厂作ie工程师
+     一些咨询也需要的

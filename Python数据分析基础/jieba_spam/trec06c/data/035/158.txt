@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <ou@ccert.edu.cn>; Wed, 24 Aug 2005 22:52:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <ou@ccert.edu.cn>; Wed, 24 Aug 2005 23:06:04 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 15:00:37 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "tu" <tu@mail.tsinghua.edu.cn>
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyP3Qx76tvMPR0L6/y/my+tK10dDM1rvhu7bTrbLOvNM=?=
+Date: Wed, 24 Aug 2005 23:02:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+三星经济研究所是韩国三星集团总部下属的经济智囊机构。三星经济研究所产业经济研讨会将于周五（8月26日）召开，由国务院发展研究中心研究员做讲座且于会后有交流活动并提供午餐，三星中国总部的其他人员也会届时参加。
+讲座主题：电子产品的流通渠道
+时间8月26日上午10：30-12：00
+地点：北京朝阳区建国路118号，招商局大厦25层，三星经济研究所会议室
+欢迎清华大学的师生来参加，每人提供20元车费补贴，人数20人，请感兴趣者尽快报名，报名请回站内信箱
+请告知姓名、院系、专业和联系方式
+PS:
+三星经济研究所的研究员主要由来自北大、清华、沃顿和香港科技大学的硕士博士构成。在中国的招聘才刚刚开始，参加研讨会也是一个潜在员工和研究所相互了解的机会。

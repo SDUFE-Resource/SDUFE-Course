@@ -1,0 +1,32 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <tu@ccert.edu.cn>; Sat, 17 Sep 2005 02:25:33 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <tu@ccert.edu.cn>; Sat, 17 Sep 2005 02:42:08 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <tu@ccert.edu.cn>
+	; Sat, 17 Sep 2005 02:42:08 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <tu@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 02:07:09 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "ni" <ni@njnu.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INeqzPmjusWuuqKjrLK70qrH4dDFtcTI/dH5tqvO9w==?=
+Date: Sat, 17 Sep 2005 02:37:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+re   说的很对！超赞
+     对女孩来说， 
+     世界上有三样东西不能轻易相信：男人的承诺、男人的感情、男人的理由。 
+     如果他给过你天长地久的承诺，是因为他自己对你们之间的那份感情都没把握；如果他说你是他一生最深的（唯一的）爱，这表示他一定对别的女人说过同样的话；如果他失约，给了你若干的理由，千万不要信以为真，男人是编造理由方面的高手，他的种种理由归根结底只有两个字：借口。 
