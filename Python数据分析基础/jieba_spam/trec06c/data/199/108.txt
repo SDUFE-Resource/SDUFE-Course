@@ -1,0 +1,25 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <jian@ccert.edu.cn>; Wed, 28 Sep 2005 17:47:16 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Wed, 28 Sep 2005 17:50:31 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 09:50:29 UT
+To: jian@ccert.edu.cn
+From: ni@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEg1Nm0zsu1w/ejurnY09rFo9a+yf3Az8qmvbLX+bXEcHB0ICjXqtTYKQ==?=
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: xiaoyanliu (挪威的宁静), 信区: THUInfo
+标  题: 再次说明：关于牛志升老师讲座的ppt
+发信人: xiaoyanliu (挪威的宁静), 信区: DEE
+标  题: 再次说明：关于牛志升老师讲座的ppt
+如果大家想索取ppt，直接发到我的邮箱就可以了，xy-liu04@mails.tsinghua.edu.cn
+就不要发到牛老师那里去了，谢谢合作！
+我们将在组织下一次讲座考虑到这种情况，谢谢

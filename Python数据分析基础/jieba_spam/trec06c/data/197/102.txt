@@ -1,0 +1,68 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <ren@ccert.edu.cn>; Wed, 28 Sep 2005 10:08:00 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 02:19:10 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 10:19:10 CST
+Date: Wed, 28 Sep 2005 10:19:10 +0800 (CST)
+From: liang ming <guan@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgW7rPvK9dILXD1qqxu8K8yKGjrLeizPvH7Nej?=
+To: ren@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+☆─────────────────────────────────────☆
+   yoyuli (毕生追求一个美女) (Tue Sep 27 21:45:00 2005):
+面试本以为肯定挂的 
+问了那么多专业问题，其他什么也不谈，没底
+竟然过了，也可能是人品好吧
+总是从大悲到大喜 
+☆─────────────────────────────────────☆
+   clarkwang (我有我个性！) (Tue Sep 27 21:50:28 2005):
+录到哪里了？
+     面试本以为肯定挂的 
+     问了那么多专业问题，其他什么也不谈，没底
+     竟然过了，也可能是人品好吧
+☆─────────────────────────────────────☆
+   nokiafans (领导我们事业的核心力量是中国共产党) (Tue Sep 27 21:51:44 2005):
+con
+     面试本以为肯定挂的 
+     问了那么多专业问题，其他什么也不谈，没底
+     竟然过了，也可能是人品好吧
+☆─────────────────────────────────────☆
+   beautyhero (世界末日) (Tue Sep 27 21:54:12 2005):
+cong~
+     面试本以为肯定挂的 
+     问了那么多专业问题，其他什么也不谈，没底
+     竟然过了，也可能是人品好吧
+☆─────────────────────────────────────☆
+   sohease (包子要好好复习~) (Tue Sep 27 21:55:20 2005):
+bg！
+     面试本以为肯定挂的 
+     问了那么多专业问题，其他什么也不谈，没底
+     竟然过了，也可能是人品好吧
+☆─────────────────────────────────────☆
+   exceptional (*^o^*) (Tue Sep 27 21:59:19 2005):
+cong!
+我怎么那么命苦啊 竟然问我交流发电机的机械特性曲线 哪位牛能记得哦 反正我被鄙视了
+gx lz！
+     面试本以为肯定挂的 
+     问了那么多专业问题，其他什么也不谈，没底
+     竟然过了，也可能是人品好吧
+☆─────────────────────────────────────☆
+   sohease (包子要好好复习~) (Tue Sep 27 22:00:46 2005):
+patpat
+     cong!
+     我怎么那么命苦啊 竟然问我交流发电机的机械特性曲线 哪位牛能记得哦 反正我被鄙视了
+     gx lz！
+☆─────────────────────────────────────☆
+   yoyuli (毕生追求一个美女) (Tue Sep 27 22:30:07 2005):
+北大 还没敢来清华 听说我这个专业 只找一个啊 
+说实话 清华有点狠  我一同学也是今天被清华抛弃了
+     录到哪里了？

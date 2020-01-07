@@ -1,0 +1,25 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <jin@ccert.edu.cn>; Wed, 28 Sep 2005 09:46:39 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 01:57:50 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 09:57:49 CST
+Date: Wed, 28 Sep 2005 09:57:49 +0800 (CST)
+From: liang ming <feng@yahoo.com.cn>
+Subject: =?gb2312?B?ofEg09DFrsXz09GjrLCuyc/By8Ht0ru49sWuuqKho6GjoaM=?=
+To: jin@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+因为同女朋友见面的机会比较少，同另一个好女孩接触的机会多，就爱上另外的这个女孩了。
+女朋友和这个好女孩都很优秀，都很爱我。
+虽然我很多次向另外的这个女孩声明我现在UNAVAILABLE，另外的这个女孩还是不止一次地暗示我，我虽然表面上保持距离，但是心里根本抵挡不住，对她的感觉甚至超过了对女朋友。
+我的女朋友还没有察觉这一切。
+因为心里太压抑，我把这些都告诉了我身边的朋友，这些朋友都是既认识我又认识另外的这个女孩的。朋友们告诉我这么做不对，我现在就努力躲着另外的这个女孩，并且尽量创造机会和女朋友多处，但是我对另外的这个女孩的感情越来越强烈。
+朋友们都看的清清楚楚，不知道另外的这个女孩是不是也明白了我的想法。目前的这种状态已经持续两个多月了，心里一直这么纠缠不清的，真不知道怎么办了。

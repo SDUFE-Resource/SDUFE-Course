@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <shi@ccert.edu.cn>; Wed, 14 Sep 2005 08:37:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <shi@ccert.edu.cn>; Wed, 14 Sep 2005 08:49:07 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 00:31:55 -0000
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: shi@ccert.edu.cn
+Cc: <mo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMunuOfX1NS4yOu84MfzveLN0bPGxa7T0bHIvODT/Lj8v8nFwg==?=
+Date: Wed, 14 Sep 2005 08:49:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+joke
+     11日上午，一长相英俊的男青年来到随州市公安局曾都区分局西城派出所“投案”。这名叫阿刚（化名）的男青年坚称自己强奸一女子达两年之久，并诈骗该女子1万余元，请求民警将自己收监。
+     　　警方调查阿刚所称的受害女子蓉蓉（化名）时，蓉蓉却称两人是自愿同居，她花的钱也不属于被诈骗。阿刚见“强奸”无法成立，遂又称自己1999年底曾在老家吉林盗砍过树木。
+     　　西城派出所与吉林辉南县警方取得联系。辉南警方回复，阿刚未参与那起盗伐林木案。

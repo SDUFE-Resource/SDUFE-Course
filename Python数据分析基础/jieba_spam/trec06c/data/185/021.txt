@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <bai@ccert.edu.cn>; Sun, 25 Sep 2005 21:50:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <bai@ccert.edu.cn>; Sun, 25 Sep 2005 22:01:25 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 13:38:25 -0000
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+Cc: <ning@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S0rLAtLy4vuQ=?=
+Date: Sun, 25 Sep 2005 22:01:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+嗯。第3条
+前面还可以理解
+反正数学难得部分就是几乎没人懂，容易的地方就是谁都能懂
+就理解为他发现数学也有容易的一面吧
+不过后面。。。？？？没听过老罗，很难说
+     1.技术偏执这没什么的.很多人都有这种倾向,我们宿舍有2个同学,成天大赞java,把C/C++贬得一文不值,充满情绪.这不是关键,关键是你可以痴迷linux,tex,emacs,可是你没资格认为别人用windows,office就是低你一等,就是不是搞学术,是伪科学.这没任何道理.教研组就是没这个风气,
+     2.退学很好,重新选择自己的路,大家尊重,甚至敬佩.我不知道这和高中时候老师没给解答问题有什么关系,跟军训时候受教官同学委屈有什么关系,跟川大宿舍不好有什么关系,跟保研时候某院士看不起川大有什么关系,跟师兄师姐用word有什么关系,跟副导师不让他去希腊开会有什么关

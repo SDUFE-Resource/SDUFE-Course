@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3DEnC011057
+	for <xin@ccert.edu.cn>; Sat, 1 Oct 2005 16:56:58 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U37j6F080151
+	for <xin@ccert.edu.cn>; Sat, 1 Oct 2005 16:51:45 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U37hcH080147
+	for <xin@ccert.edu.cn>; Sat, 1 Oct 2005 16:51:27 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509300307.j8U37hcH080147@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodo-f4b2088bd3) (ksj00@202.112.4.221)
+	by localhost with SMTP; Sat, 1 Oct 2005 09:03:52 -0000
+Date: Sat, 1 Oct 2005 17:03:26 +0800
+From: "chen" <chen@mails.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNIxMC4xtrzT0Mm2tPLL4w==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8U37hcH080147
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+版聚的话可以相约哪个公园一起去
+不过带着孩子活动的地方比较小
+     幼儿园今天下午开始放假，之后7。5天都要一刻不离陪着关关
+     石头这个猪头居然说国庆正好干活加班！气愤之余真想找个亲子旅游团带儿子一起消失
+     Q1:大家知道哪的儿童图书（尤其低幼）比较全？想买米菲兔的绘本，几个童书网站都缺货――动画片出来前还没人买呢，唉――西单图书大厦尽一堆启蒙教育、少儿英语+日本漫画，哪个柜台都放着洪恩英语的碟“i like potato I LIKE POTATO……”

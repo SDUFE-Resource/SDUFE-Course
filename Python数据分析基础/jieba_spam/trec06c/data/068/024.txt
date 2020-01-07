@@ -1,0 +1,46 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <yun@ccert.edu.cn>; Fri, 2 Sep 2005 00:24:13 +0800 (CST)
+Received: (qmail 18809 invoked from network); Thu, 1 Sep 2005 16:35:56 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 16:35:56 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "shen" <shen@jdl.ac.cn>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tC5+r/G0afUurncwO2hor72st/T69DFz6LPtc2z1ti148q10enK0r+qt8XI1aOo16rU2KOp?=
+Date: Fri, 2 Sep 2005 00:38:14 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+中国科学院管理、决策与信息系统重点实验室开放日
+                       Open Day of MADIS, CAS
+                           9月4日  9:00 - 15:00
+                  中国科学院基础科学园区思源楼一楼大报告厅
+**
+学  ●质量管理的过去、现在和未来  9:00 - 9:40
+术  *刘源张，中国工程院院士
+报  ●机遇与挑战--科研创新例证  9:40 - 10:20（报告后休息10分钟)
+告  *陆维明，研究员
+    ●蛋白质结构研究中的OR方法  10:30 - 11:10
+    *吴凌云，助理研究员
+**
+招  ●重点实验室基本情况和2006年招生情况介绍  11:10 - 11:25
+生  *汪寿阳, 主任，国家杰出青年基金获得者
+咨  ●汪寿阳、金芝、张汉勤、杨晓光等老师回答问题  11:25 - 11:40
+询  ● 访谈实验室的研究生导师  11:40 - 12:00
+**  工作午餐（免费）    12:00 - 13:00
+**  系统演示   13:00 - 15:00
+    ●动画自动生成--踢足球  ● MADIS外汇汇率预测网  ●MADIS中国基金网
+    ●MADIS国际石油价格波动预测网   ●知识发现与系统综合集成
+**  实验室、图书馆参观    13:00 - 15:00
+欢迎到实验室咨询研究生招考有关情况.
+地 点 见附图
+交通路线：乘47、320支、355支、706、735、809、851、983路公共汽车至保福寺站下车即?
+中国科学院管理、决策与信息系统重点实验室 联系人：申玫玫，赵秀娟 电话：62565817
+             网址:http://www.amss.ac.cn/ ; http://madis1.iss.ac.cn/

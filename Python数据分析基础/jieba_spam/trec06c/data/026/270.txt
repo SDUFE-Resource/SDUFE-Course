@@ -1,0 +1,35 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <ou@ccert.edu.cn>; Mon, 22 Aug 2005 17:30:01 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <ou@ccert.edu.cn>; Mon, 22 Aug 2005 17:43:12 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "fan" <fan@126.com>
+To: ou@ccert.edu.cn
+Cc: <tang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx/O+yDrO0rXEtefE1M7et6jJz834?=
+Date: Mon, 22 Aug 2005 17:43:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+我学校的局域网是那种打开ie直接弹跳到学校的计费系统
+然后自己登陆的那种
+今天用，就根本不跳
+自己找到那个Id想过去都不行
+昨天上网还好好的，
+有没有达人告诉我怎么办/
+很着急
+因为电脑那边的版面人太少，只好这里求救了
+救命啊！！
+-
+本昵称的由来： 
+    由于本人和ppmm差点档次，所以叫ppnn。昵称呢，开始想叫胖胖妞妞，
+    可是觉得太俗，
+    后来突发灵感，就叫品牌奶奶了

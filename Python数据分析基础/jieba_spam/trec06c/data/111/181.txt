@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5NG8m027911
+	for <yi@ccert.edu.cn>; Sat, 10 Sep 2005 16:11:34 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5KeKS091336
+	for <yi@ccert.edu.cn>; Sat, 10 Sep 2005 16:09:07 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5Kblh091332
+	for <yi@ccert.edu.cn>; Sat, 10 Sep 2005 16:08:55 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 10 Sep 2005 15:58:04 +0800
+Message-ID: <326328986.06301@mails.tsinghua.edu.cn>
+Received: from 59.66.112.135 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 10 Sep 2005 15:58:04 +0800
+From: zhao@mails.tsinghua.edu.cn
+To: yi@ccert.edu.cn
+Date: Sat, 10 Sep 2005 15:58:04 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM3GvPa1vbXn07DUur+0oba++MPct8nQ0KG3?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: zhao@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+同推，刚在星美看完，
+倒也没有楼主说的那么好，不过算不错了
+剧情的bug和视觉效果都比island好不少
+btw：那个泰国妞太容易被搞上了吧
+     俺昨天在新东安看的，爽呆了，几乎可以说是这几年来在电影院看过的最爽的片子
+     不在指环王和matrix之下
+     故事情节很简单，基本上属于不用动脑筋那种，看的纯粹就是视觉效果，从头到尾几乎没有停顿的快感。跟这个比起来，星战前传3开头的那段空战太小儿科了。中间休息一段插进来的泰国风光也很美，看来偶要找个时间到泰国去玩了，哈哈

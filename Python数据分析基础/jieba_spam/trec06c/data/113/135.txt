@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A7NDlm028500
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 00:11:39 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A7KBdR092194
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 00:09:12 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A7K7ld092190
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 00:08:34 +0800 (CST)
+	(envelope-from sxh@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 10 Sep 2005 23:57:40 +0800
+Message-ID: <326336154.01040@mails.tsinghua.edu.cn>
+Received: from 59.66.122.238 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 10 Sep 2005 23:57:40 +0800
+From: "peng" <peng@mails.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Date: Sat, 10 Sep 2005 23:57:40 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILW8yqajrL3QztLWqrXAyrLDtMrHwOTFr9fU1qo=?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: sxh <peng@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+  活该！一年了都什么没给导师干，导师凭什么管你？还抱怨2年熟悉新学校难？我要是你老板肯定不让你毕业！我到这个国外的新学校不说语言问题，光是时差就12小时，我下飞机第二天就去见导师，第四天开始做实验。个人认为努力做事对自己对导师都有好处，不用送什么贵重礼物也会得到导师的赏识！
+     今年，相同的饭店，相同的包间，同门聚会
+     不同的是，我们成了师兄、师姐
+     而去年，我们刚进门，有些紧张和手足无措

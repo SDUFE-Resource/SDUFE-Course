@@ -1,0 +1,31 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <gan@ccert.edu.cn>; Fri, 23 Sep 2005 18:35:55 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Fri, 23 Sep 2005 10:43:38 -0000
+From: "yuan" <yuan@mails.tsinghua.edu.cn>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW83G0dDQxc+iXcflu6q089GnvqvSx8+1xKaywdGnufq80tbYtePKtdHpytK8pLni0+ux7cPm
+uaSzzL8=?=
+Date: Fri, 23 Sep 2005 18:47:34 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+研究方向为：表面涂层/薄膜制备及性能, 激光在表面技术中的应用。组内拥有良好的实验条件，现有3套镀膜设备和3台激光器。
+招生老师：邵天敏  
+办公地点：精仪系馆(9003大楼)4502室
+电话: 62783160
+Email：shaotm@mail.tsinghua.edu.cn
+招收本校交叉学科硕士生一名。
+    因为课题需要，希望招收材料系、物理系或化学系的同学，入学后专业方向主要为激光与材料的相互作用(适合材料系和物理系同学)、聚合物薄膜(适合化学系同学)。自然，也可以结合同学的兴趣爱好灵活选择。
+    由于交叉学科名额很少, 希望成绩相对靠前,以便有竞争力.
+欢迎有兴趣的同学和邵老师联系！

@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <lv@ccert.edu.cn>; Sun, 21 Aug 2005 18:08:17 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <lv@ccert.edu.cn>; Sun, 21 Aug 2005 18:21:31 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 17:50:12 +0800
+Date: Sun, 21 Aug 2005 18:21:22 +0800
+From: "qing" <qing@wnt.com.cn>
+To: lv@ccert.edu.cn
+Cc: "lic" <che@ccert.edu.cn>, "sunt" <che@ccert.edu.cn>, "caoy" <zhan@ccert.edu.cn>,
+        "wangb" <xing@ccert.edu.cn>, "songhm" <tian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INbQudi05bi9vfzEx8Dv09CxyL3PusO1xLC0w/63/s7xo7/WzsHGvrHXtbKhtcShow==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+中关村医院就有这个科，我坐电脑前时间久了也会肩酸脖子疼，去按摩过一段时间，还行。不过还是应该注意平时要加强锻炼。肩和颈椎分开收费，每次20元或25元。
+     lp一直有颈椎病，工作累了就头晕眼花的。我虽然也琢磨着学一些按摸的知识，但由于工作忙，技术差，不起啥作用。因此想找一个长期的医疗性质的按摸场所，那里有？各位推荐推荐。
+     现在所知道的有五道口的济安堂药店中医按摸（30￥/半小时）与其邻居的良子健身（50￥/半小时）。

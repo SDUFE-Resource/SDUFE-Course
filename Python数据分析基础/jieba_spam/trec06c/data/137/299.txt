@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <ma@ccert.edu.cn>; Thu, 15 Sep 2005 23:38:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <ma@ccert.edu.cn>; Thu, 15 Sep 2005 23:50:08 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 15:32:25 -0000
+From: "ding" <ding@mail.tsinghua.edu.cn>
+To: ma@ccert.edu.cn
+Cc: <wang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7NqNaqob/N0NK1v7zK1NCj1LDW+tGnvMa7rjEw1MK33b+8ytSxqMP70OvWqiAo16rU2Ck=?=
+Date: Thu, 15 Sep 2005 23:50:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+【 以下文字转载自 Career_Plaza 讨论区 】
+发信人: alphayoung (alpha), 信区: Career_Plaza
+标  题: 【通知】托业考试校园助学计划10月份考试报名须知
+发信人: alphayoung (alpha), 信区: EnglishTest
+标  题: 【通知】托业考试校园助学计划10月份考试报名须知
+校园托业助学计划2005
+各位同学，新学期已至，清华大学托业报名点报名具体时间如下：
+10月30日考试的报名时间为：现在----9月30日
+希望大家抓紧时间报名！
+校内报名方法：
+文南楼103室 杨宗玉老师
+联系电话：62785552
+费用：374元（在校大学生凭学生证）

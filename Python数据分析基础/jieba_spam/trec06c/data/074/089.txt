@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <jiang@ccert.edu.cn>; Fri, 2 Sep 2005 20:36:36 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 20:39:28 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 20:39:28 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 20:39:28 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 12:32:51 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 20:25:01 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 20:25:01 +0800
+From: hong@mails.tsinghua.edu.cn
+To: jiang@ccert.edu.cn
+Cc: zhu@ccert.edu.cn
+Date: Fri, 2 Sep 2005 20:25:01 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INb4w/vR3dSxuLWx69LyuM6wqbTHysAgz+3E6jQwy+o=?=
+Content-Type: text/plain
+
+其实普通老百姓因各种癌症死去更是多得很，只是名人的死亡才让人想到什么而已。
+英年早逝已经不是什么新鲜的事情，也不是个别现象，在目前的社会中应当是一个普遍现象，值得我们每个人好好注意身体，也提醒政府等各种机构加强不损害人民身体健康的保障和建设。
+     YULE.SOHU.COM 2005-08-30 10:51　 来源： 搜狐娱乐
+     著名演员傅彪因肝癌于今日上午9点45分在北京武警总医院安静的辞世，享年40岁。医院
+     外面聚集的众多的记者眼含热泪与傅彪的众多好友一起为好人傅彪送行。

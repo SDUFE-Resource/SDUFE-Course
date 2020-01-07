@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <chi@ccert.edu.cn>; Mon, 22 Aug 2005 00:53:03 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <chi@ccert.edu.cn>; Mon, 22 Aug 2005 01:06:21 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 17:00:58 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "guan" <guan@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: "tunet" <wei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09qwrrXPyfq1xMTHvuTD+9HUo621vbXXysfKssO0KHp6KQ==?=
+Date: Mon, 22 Aug 2005 01:02:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我们的教育相对于work smarter更为强调work harder
+不过这个东西不像是马同学的言论
+太假了
+     http://blog.donews.com/llf/archive/2005/07/19/471832.aspx
+     在sohu教育频道看见这么一个文章《中国教材为什么要篡改爱迪生的名言》，举了两个小小的著名的例子，都是我们打小就学习并牢记的。一个是大发明家爱迪生先生的那句“天才那就是1%的灵感加上99%的汗水”，一句是大物理学家爱因斯坦先生的那句“上帝不掷色子。”文中说我

@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KNVQWO026957
+	for <xia@ccert.edu.cn>; Wed, 21 Sep 2005 11:43:18 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8KNgrSA012901
+	for <xia@ccert.edu.cn>; Wed, 21 Sep 2005 11:54:49 +0800 (CST)
+Message-Id: <200509202342.j8KNgrSA012901@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 21 Sep 2005 03:33:05 -0000
+From: "ren" <ren@mail.tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+Cc: <wen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNLE3L3TytzX1Ly6tcRiZi9nZtPQuty24MjL17fC8KO/?=
+Date: Wed, 21 Sep 2005 11:54:37 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0056_01C5BE80.0E54D8A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW+PP+dE9Zps0Q1RamkdUKgZkzF9Q==
+
+     出现这种情况时
+     大家会不会难受呢？
+俺老公在中科院读博，他的那个所的性质使得他经常要往野外出差，也经常往另外一个城市的所跑。今年已经出四个多月差了！
+最近出差回来跟我说另外一个所有个mm追他，去年去了一次之后那个mm就给他发了封email，他看了就删了，今年中秋又给他发了张贺卡。
+呵呵，我听了，也不知是什么感受，但没有那么难受，我呵呵的跟他说你也有人追啊，那好啊，说明我眼光好啊，嘿嘿。

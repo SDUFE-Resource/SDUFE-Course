@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <guan@ccert.edu.cn>; Thu, 29 Sep 2005 19:29:46 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Thu, 29 Sep 2005 11:16:02 -0000
+Date: Thu, 29 Sep 2005 19:41:46 +0800
+From: "jin" <jin@mail.tsinghua.edu.cn>
+To: guan@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+稀有动物。 
+       90年，爸爸得重病，房子差点卖掉，工作停了，妈妈把我寄在亲戚家，一边照顾他看病一边挣钱，吃饭都是爸剩下的；
+         93年，爸得遇贵人当上副总，宠得我和妈妈像公主一样，换新房子，但是他应酬完，会把吃到好东西做给我和我妈吃，而且不在外面过12点；
+         01年，公司出事，爸爸下岗，妈妈努力通过关系给爸找工作，同时在外面做投资，爸挣钱很少，但我门过得还是很开心。妈在外面强悍，在家还是崇拜爸得很；

@@ -1,0 +1,19 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <hua@ccert.edu.cn>; Thu, 29 Sep 2005 03:37:50 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 19:48:57 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 03:48:57 CST
+Date: Thu, 29 Sep 2005 03:48:57 +0800 (CST)
+From: liang ming <ni@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IL/Sx+u498671ri148PVvq0=?=
+To: hua@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+     这是一个关于我的朋友的故事；我的朋友几个月前交了一个女友，在他女友的诱惑下他们有了他们的第一次，我朋友把处男交给了女友，可是几个月后从女友口中得知女友曾经在大学期间和三个人发生过关系，我朋友要和女友分手，可女友苦苦哀求说自己当时无知才发生的，说自己真的爱他，说要痛改前非，好好珍惜他，他女友的话他能信吗？在女友的哀求下我的朋友有些心软，因为毕竟两人在一起有一段时间啦，有些感情啦，有些割舍不下，但又有些接受不了；不知如何才好，恳请各位指点谜经！

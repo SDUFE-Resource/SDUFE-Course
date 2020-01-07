@@ -1,0 +1,30 @@
+Received: from mailgate1.neusoft.com ([210.83.210.153])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F2h5xA032120
+	for <wua@ccert.edu.cn>; Sat, 17 Sep 2005 05:22:29 +0800 (CST)
+Received: from smtp3.neusoft.com (mail.neusoft.com [210.83.210.139])
+	by mailgate1.neusoft.com (8.12.11/8.12.11) with ESMTP id j8F2pa4i001038
+	for <wua@ccert.edu.cn>; Sat, 17 Sep 2005 05:30:56 +0800
+Received: from win2003 ([192.168.74.50])
+ by smtp3.neusoft.com (iPlanet Messaging Server 5.2 Patch 1 (built Aug 19
+ 2002)) with ESMTPA id <0IMU0027B80HRF@smtp3.neusoft.com> for
+ weike@ccert.edu.cn; Sat, 17 Sep 2005 05:32:25 +0800 (CST)
+Date: Sat, 17 Sep 2005 05:33:33 +0800
+From: SQL <yu@neusoft.com>
+Subject: =?gb2312?B?UmU6IM27yLu85Lrc09DQxMfp0LS148qyw7Q=?=
+To: wua@ccert.edu.cn
+Message-id: <001e01c5b9a0$c21b92a0$324aa8c0@win2003>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+X-MailScanner: Not scanned: please contact your Internet E-Mail Service Provider for details
+
+     加班到半夜，想来离开学校才两个月，就觉得已经开始改变很多东西并怀念很多回忆。终于干完了那些以体力劳动为主的活儿，突然间想起他。
+     他也离开了清华，并且也不在北京，尽管他很快是要回去北京的，但无论如何，也不是和我在一个城市里生活了。
+     我们吵过太多，他也伤害我太深，乃至于到了最后，我不敢再对爱情有什么要求，也不知道自己究竟是否还喜欢他。不过，自从分开以后，我彻彻底底放弃了对爱情的期待，反而觉得他对我挺好的了。
+       行到水穷处，坐看云起时。
+  
+       很多时候，角色的转换可以让人忽略曾经刻骨的伤痛。没有什么是可以永恒的，有个词叫“豁然开朗”，想明白这个，就可以无欲而刚了。  
+       但愿你可以很快适应那些已经改变的人和事，淡定的面对一切。

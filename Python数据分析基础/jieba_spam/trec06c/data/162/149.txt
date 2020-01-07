@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8JBii0m015387
+	for <yu@ccert.edu.cn>; Wed, 21 Sep 2005 07:38:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8JBuNSM005175
+	for <yu@ccert.edu.cn>; Wed, 21 Sep 2005 07:49:43 +0800 (CST)
+Message-Id: <200509191156.j8JBuNSM005175@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 20 Sep 2005 23:28:50 -0000
+From: "lai" <lai@mail.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Cc: <xie@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfyzOxCVFbQws7FwO/D5rfFuf3C7cK3tcS9u82oysK5yqOsxMe90NK7uPaho6GjoaOhow==?=
+Date: Wed, 21 Sep 2005 07:49:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD54.315C4400"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW9ESMViAP3rUc6TpGavIn8JvsLVg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+我也看了，很惨，不过那个老大爷骑车太猛了，前面的人都停着，他怎么就往前冲呢
+     昨天看北京新闻，说有一个老大爷骑自行车过马路，结果被一辆吉利给撞了。以后过马路还正是得小心，以前觉得那些协管的管事太多，现在觉得还是要听好的，对大家都负责。
+     没看过新闻的，这里有一个链接，可以去看看。http://211.144.23.6/program_list.asp?chan_name=%B1%B1%BE%A9%D0%C2%CE%C5&amp;chan_type=0#

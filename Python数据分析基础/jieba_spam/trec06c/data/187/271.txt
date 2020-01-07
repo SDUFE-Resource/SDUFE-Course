@@ -1,0 +1,24 @@
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q25iG8003971
+	for <cen@ccert.edu.cn>; Mon, 26 Sep 2005 14:42:56 +0800 (CST)
+Message-ID: <200509261005.j8Q25iG8003971@spam-gw.ccert.edu.cn>
+Received: from LJF (unknown [221.2.147.100])
+	by smtp2 (Coremail) with SMTP id FsDnWBRaN0OCCNUE.1
+	for <cen@ccert.edu.cn>; Mon, 26 Sep 2005 14:53:58 +0800 (CST)
+X-Originating-IP: [221.2.147.100]
+Date: Mon, 26 Sep 2005 14:53:59 +0800
+From: "feng" <feng@163.com>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INeq1Ngg1tC5+tXmtcTQ6NKq0dC+v8Lwo7+jqGZsb2F0bGVhZqOp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/related;
+	boundary="=====002_Dragon056103722146_=====";
+	type="multipart/alternative"
+
+日本的基础研究不差，nobel也出来好多个。
+韩国也有自己的核心技术。
+现在没研究就没专利，没专利就只能跟着别人屁股后面跑，受人脸色。
+         对于一个社会而言，任何一种发展都是以社会需求为推动力的。欧洲工业革命的时候无疑是需要研究的，中世纪千年的黑暗导致整个社会知识水平停滞，没有研究就没有任何新的知识、认识，没有理论指导也根本谈不到新的工艺技术去推动生产力。今日的西方世纪同样需要研究，
+     然而今日的中国需要研究吗？研究，去发现从未被发现的事实，去探索全新的领域，这对于我们这个基础薄弱、技术落后、人口过于庞大而资源又极端稀缺的国家到底有什么意义？且不说研究是一种“运气”成份相当高的行为，可能投入的资金全部血本无归，就算是研究出了东西，也
+     再看看我们的邻国，靠仿造原创者几十年间跃居世纪第二的日本，靠仿造仿造者十几年间迅速攀升的南韩，以及靠着殖民地的英语遗产和高度一致的思维模式数年内大发软件财的印度。他们原来都很穷，都很弱，那个是靠着“研究”来充实实力的？

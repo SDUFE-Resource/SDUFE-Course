@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <yu@ccert.edu.cn>; Wed, 24 Aug 2005 19:15:01 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <yu@ccert.edu.cn>; Wed, 24 Aug 2005 19:28:15 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 11:22:48 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "weng" <weng@mail.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzujMqL7nobbR9Myoobe/qsq8ytvGscCyfg==?=
+Date: Wed, 24 Aug 2005 19:24:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+-演出名称-  舞台喜剧《阳台》
+-演出时间-  2005年9月23日-9月27日，9月30日-10月2日，10月5日-10月7日（共1
+1场） 每晚7：30
+-演出地点-  海淀剧院（北京）
+-票    价-  VIP880  680  480  380  280  180  80  500（双人套票）
+-故事梗概-  在高档住宅区"亚亭花园"的顶楼天台上，有人要跳楼。
+这是包工头老穆为众民工讨要拖欠工钱无奈之下上演的"跳楼秀"。但是由于过火的
+"表演"老穆不慎失足掉到了侯处长家的阳台。此时，侯处长的情人李丽正在导演一
+出侯处长和他老婆张秀芝"猫捉老鼠的游戏"。还没演完"跳楼秀"的老穆又被迫加入
+到了他们的"游戏"之中。几番周折，老穆终于脱身，却无意中"带"走了侯处长藏在
+床底下的巨款……
+一边是老穆怀揣巨款急于还钱；另一边是众民工误会老穆贪污工款并围追堵截；还
+有一边是侯处长设法要回巨款，他们相互纠结在不知所措的张秀芝和毫不知情的李
+丽之间。于是，这个"猫捉老鼠的游戏"便开始演变，越来越无法收场……他们玩的
+投入，玩的辛苦，但玩的令人发笑！
+在高档住宅区"亚亭花园"的顶楼阳台上，有人要跳楼。这次不是老穆，是侯处，而
+且是真的……
+-主要演员-  陈佩斯、何瑜、刘军、王晶、朱军、王虎
+联系人：大卫
+联系电话：81958655      13681508501
+mail: hmily_hss@126.com

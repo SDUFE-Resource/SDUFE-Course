@@ -1,0 +1,26 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7FBL9jQ015986
+	for <wua@ccert.edu.cn>; Thu, 18 Aug 2005 11:06:04 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7FBr5I2010935;
+	Thu, 18 Aug 2005 11:38:00 +0800
+Message-Id: <200508151153.j7FBr5I2010935@stmp.nisac.gov.cn>
+Date: Thu, 18 Aug 2005 11:19:00 +0800
+From: "ren" <ren@mail.nisac.gov.cn>
+Reply-To: ren@mail.nisac.gov.cn
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztLQo9XZv6qxo7PWubKy+rWz1LHPyL340NS9zNP9u+62r7mk1/eyvNbDu+E=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+我校召开保持共产党员先进性教育活动工作布置会  
+　　8月16日下午2：30，我校在纳米科技楼报告厅召开保持共产党员先进性教育活动工作布置会。我校党政领导、各单位党委书记、先进性教育活动联系指导组成员、先进性教育领导小组办公室成员等共120多人参加会议。市教工委督导组组长曾妙南也应邀参加会议。校党委常务副书记庄丽君主持会议。
+　　会上，校党委书记陈希做了动员讲话，他首先强调了开展保持共产党员先进性教育活动的重要意义，介绍了参加第二批先进性教育活动单位的特点，重点阐述了先进性教育活动贯彻执行的原则，并向各单位党委书记提出了五点要求：一是要高度重视先进性教育工作，把先进性教育工作作为下半年党委工作的重中之重来抓；二是认真学习、深刻领会中央、北京市委、北京市教工委等上级单位一系列指导文件的精神；三是贯彻过程中各单位要高标准，严要求，严格履行相关程序，把先进性教育工作落到实处；四是要求各单位在开展先进性教育活动过程中做到规范、到位，并鼓励基层单位在活动方法、方式上的创新；五是要求各单位加强对基层党支部工作的指导力度，加强基层党支部建设，提高基层党支部的战斗力。
+　　庄丽君在会上介绍了我校开展保持共产党员先进性教育活动准备阶段工作方案与目前各单位开展先进性教育工作的具体任务和要求，详细阐述了我校保持共产党员先进性教育活动的步骤、内容、方法和时间安排。
+　　随后，市教工委督导组曾妙南同志讲话，对我校先进性教育工作提出三点要求：一是要紧密结合学校实际，突出重点；二是要开拓创新，有针对性地开展工作，创造新的经验、做法；三是争取使我校先进性教育工作成为高校系统的榜样。
+ 

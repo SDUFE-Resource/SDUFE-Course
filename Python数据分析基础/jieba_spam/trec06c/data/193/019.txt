@@ -1,0 +1,28 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <wu@ccert.edu.cn>; Tue, 27 Sep 2005 16:00:33 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 08:11:40 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 16:11:40 CST
+Date: Tue, 27 Sep 2005 16:11:40 +0800 (CST)
+From: liang ming <lai@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM7S09C148Cnu/M=?=
+To: wu@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+给他一点时间
+但是原则不能变
+当然方式有很多，撒娇啦，怒吼啦……不过千万不要罗嗦，也不要牵涉多很多无关的细节
+男人是无法理解的，还可能觉得你无法理喻
+你只要表达这个意思就好了，态度强硬一点
+如果他实在做不到
+我觉得没必要和他在一起了
+     恩，我觉得你说的非常有道理。
+     我觉得我跟他说的很清楚了，我很在意这些事情，所以希望他能跟她断绝联系，不要再有任何联系，我早就跟他说过。他当时也答应了，可她的电话他照接，也不跟她说清楚，这边还说让我相信他。
+     我该怎么办？

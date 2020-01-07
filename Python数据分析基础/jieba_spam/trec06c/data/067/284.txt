@@ -1,0 +1,21 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U1PmpO004160
+	for <cen@ccert.edu.cn>; Thu, 1 Sep 2005 23:52:09 +0800 (CST)
+Received: (qmail 858 invoked from network); Thu, 1 Sep 2005 16:03:46 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 16:03:45 -0000
+Message-ID: <000701c5ad03$b6eade80$e900a8c0@d47db5334f2a479>
+From: "lu" <lu@jdl.ac.cn>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgoba98LjVobc=?=
+Date: Fri, 2 Sep 2005 00:06:11 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+《金刚》改编自1933年的同名经典电影，集科幻、惊悚、爱情、历险、特技等元素于一身，并由《指环王》的特技公司负责电脑特技。身兼监制、导演及编剧的杰克逊，联同《指环王》电影班底包括摄影师、剪接师、美术指导、服装等再次制造震撼的视觉体验。《金刚》故事背景设于1933年的美国，杰克・布莱克饰演一名勇于冒险的企业家及电影制作者，率领摄制队伍到荒岛拍摄，其中包括女主角安及编剧杰克，他们遇到恐龙及当地土著的袭击，安发出的尖叫声换来金刚的回应。这只巨大无比的猩猩，连凶悍的恐龙也惧怕它几分，偏偏它却钟情于安。安其后将金刚由荒岛带回纽约，但却是它悲剧命运的开始…… 

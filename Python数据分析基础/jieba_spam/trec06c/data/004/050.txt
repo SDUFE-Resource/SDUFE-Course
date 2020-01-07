@@ -1,0 +1,38 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <qing@ccert.edu.cn>; Tue, 16 Aug 2005 04:26:32 +0800 (CST)
+Received: (qmail 5448 invoked from network); Mon, 15 Aug 2005 20:37:19 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Mon, 15 Aug 2005 20:37:19 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "jiang" <jiang@jdl.ac.cn>
+To: qing@ccert.edu.cn
+Subject: =?gb2312?B?ofEgU09IVbPPxrjTzs+3yO28/r+qt6K5pLPMyqYgKNeq1Ngp?=
+Date: Tue, 16 Aug 2005 04:41:18 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 GAME_Designer 讨论区 】
+发信人: jingoist (Freshman), 信区: GAME_Designer
+标  题: SOHU诚聘游戏软件开发工程师
+SOHU诚聘游戏软件开发工程师
+招聘人数：3
+学    历：大学以上学历
+薪水范围：面议
+ 
+主要内容：网络游戏开发
+技能要求： 
+        精通C++、VC++
+        熟悉网络应用程序开发
+        熟悉WINDOWS 2000系统
+        有网络游戏开发经验者优先
+工作地点：北京
+另招JSP开发人员2名，要求两年以上工作经验
+有意者请EMAIL至badownzhang@sohu-inc.com
+games.sohu.com期待你的加盟

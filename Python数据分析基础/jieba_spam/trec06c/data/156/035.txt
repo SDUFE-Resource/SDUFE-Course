@@ -1,0 +1,32 @@
+Received: from 163.com (bj44-212.i.netease.com [202.108.44.212])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J2mLj7012065
+	for <hua@ccert.edu.cn>; Mon, 19 Sep 2005 18:36:11 +0800 (CST)
+Message-ID: <200509191048.j8J2mLj7012065@spam-gw.ccert.edu.cn>
+Received: from tsinghua-i1p2se (unknown [219.223.254.137])
+	by smtp4 (Coremail) with SMTP id DkAhVaYpLkMLBk0E.1
+	for <hua@ccert.edu.cn>; Mon, 19 Sep 2005 18:47:42 +0800 (CST)
+X-Originating-IP: [219.223.254.137]
+From: "you" <you@163.com>
+Reply-To: you@163.com
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhdvObWsM341b6/qreiyMvUsQ==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 19 Sep 2005 18:47:38 +0800
+
+招聘单位是一家私营企业，地址在大运村附近（知春路上，骑车距离清华学校约半小时），主要从事翻译和培训业务。现因业务发展需要，欲建立和升级网站。网站采用数据库，能够支持后台管理、基于数据库数据的动态页面，并能为用户交流提供平台。
+拟采用ASP或ASP.NET + Access或Sql Server。ASP或ASP.NET内拟采用C#。
+招聘兼职网站开发人员一名，要求：
+1。熟练使用ASP或ASP.NET+Access或Sql Server；最后要是采用C#；
+2。有充足的工作时间；
+3。较好的学习能力。
+如果采用Visual Studio.Net开发更佳。
+有意者请将个人简历发送至 wangyoutian@sina.com 或 wangyoutian@msn.com。注意：
+1。请注明您的工作时间安排（按周），以及每周可以工作几天；
+2。在上述工作时间安排下，期望报酬（按月）；
+3。注明本人在上述技术方面的特长、能力和经验；
+4。注明本人联系方式。
+5。不要用附件；

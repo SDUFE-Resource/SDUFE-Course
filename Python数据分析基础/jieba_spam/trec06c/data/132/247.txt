@@ -1,0 +1,53 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <xing@ccert.edu.cn>; Wed, 14 Sep 2005 23:17:27 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <xing@ccert.edu.cn>; Wed, 14 Sep 2005 23:29:28 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 15:12:01 -0000
+From: "huang" <huang@mail.tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Cc: <lian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1tC5+tfKsb7K0LOhwtvMs6Gk1dDGuLzm1rA=?=
+Date: Wed, 14 Sep 2005 23:29:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+清华大学经管学院和美国证券业协会将在10月18－19日举行《China’s Capital M
+arkets: Competing in Today’s Global Economy》论坛，需要部分同学
+参与相关会务工作、专家接待、临时翻译等工作。现在面向金融系学生招聘兼职如
+下：
+1、专业要求：清华大学经管学院金融系，大四以上（包括大四）学生，熟悉一些金
+融专业术语；
+2、英语要求：必须具备流利的英语口语；
+3、工作时间：2005年10月18－19日；
+4、工作地点：北京东方君悦大酒店（Grand Hyatt Beijing）；
+5、详细内容：参见下文的网站；
+6、人数需求：4－5人；
+7、补贴报酬：有一定的工作补贴，具体需待系办公室确定；
+8、投放简历：感兴趣者，务必于9月18日（本周日）晚上10：00以前将自己的简历
+发送到以下邮箱（chengjy@em.tsinghua.edu.cn），简历投放
+以收到回复为有效。
+9、录取安排：9月20日确定初步录用名单，录用以电子邮件的方式发送；未被录用
+的同学，就不再发邮件通知，请谅解。一旦录用，必须保
+证10月18－19日的工作时间，否则系办公室将以一定方式通报批评。
+========================================================================
+==========
+在中国人民银行和中国证券监督管理委员会的支持下,清华大学经济管理学院和美国
+证券业协会将荣幸举办
+ 
+中国资本市场论坛――当今全球经济竞争
+China’s Capital Markets: Competing in Today’s Global Economy
+ 
+日期：2005年10月18－19日
+地点：北京东方君悦大酒店（Grand Hyatt Beijing）
+获取更多关于论坛的信息，包括会议回执，请浏览我们的网站：http://www.sia.c
+om/beijing/
+========================================================================
+===========

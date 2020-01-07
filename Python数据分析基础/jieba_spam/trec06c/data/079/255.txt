@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <mo@ccert.edu.cn>; Sat, 3 Sep 2005 13:32:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <mo@ccert.edu.cn>; Sat, 3 Sep 2005 13:44:36 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 05:32:07 -0000
+From: "ye" <ye@mail.tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Cc: <pu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1fdNTcXz09E=?=
+Date: Sat, 3 Sep 2005 13:43:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+今天下午花了一下午时间在北师、北理、北外，逛了一圈，发现从我家到那边还很方便
+还去了北理那个雕刻时光待了一会儿，感觉空间太局促了，门脸也太小，没有丽都饭店那边的环境好。
+要不是打电话问，我就是站在北理南门也没找不到。北外里面外面好多中国的外国的PPMM呀
+呵呵，觉得还很新鲜的说，征个这几个学校的朋友吧，等下回去就不会那么孤单了
+最好是学生MM，要比我小，DD也可以吧，我去的时候要是你有空就一起吃饭坐坐，你是学生，我可以BG的。
+我是26岁的JJ

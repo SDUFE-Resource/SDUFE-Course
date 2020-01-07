@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <yan@ccert.edu.cn>; Fri, 23 Sep 2005 22:23:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <yan@ccert.edu.cn>; Fri, 23 Sep 2005 22:34:58 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 14:12:04 -0000
+From: "bi" <bi@mail.tsinghua.edu.cn>
+To: yan@ccert.edu.cn
+Cc: <zhou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILmrvbuztcnPtPO80ra8yMPOu8Lwo78=?=
+Date: Fri, 23 Sep 2005 22:34:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+这话逻辑有问题，人有思想斗争很正常，看你道德水准是看最后哪个想法占上风。
+真正的英雄绝不是没有低下的情操,只不过永不为低下的情操所控制罢了,我们普通人,就尽量让自己控制自己的低下情操就可以了.
+     看心情吧  想让就让  不想让就睡觉
+     道德是什么啊？是自发的做一些有益于他人的事情
+     当你觉得道德规范开始约束你了，当你做好事需要思想斗争了，这时候你道德水准已经低了

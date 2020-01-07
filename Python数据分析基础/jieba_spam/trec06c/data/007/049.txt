@@ -1,0 +1,27 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7F5seeW013938
+	for <gan@ccert.edu.cn>; Thu, 18 Aug 2005 06:38:41 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7F6S7Cu010058
+	for <gan@ccert.edu.cn>; Thu, 18 Aug 2005 07:12:08 +0800
+Message-Id: <200508150628.j7F6S7Cu010058@stmp.nisac.gov.cn>
+Date: Thu, 18 Aug 2005 06:53:08 +0800
+From: "wang" <wang@mail.nisac.gov.cn>
+Reply-To: wang@mail.nisac.gov.cn
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILOkzL7Su8n5OiC21Li4xLjWu9PQv+3I3cHLo6zDu9PQsfC1xLDst6jByw==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+和我老爸很像啊，呵呵，今年70了，还要去湖北我大哥的电站那边去做工程，
+我们老老少少好多个劝了好几回才总算劝住了。
+我觉得老人家是一辈子干活习惯了，要是突然停下来反而不适应，
+老骥伏枥，志在千里，老人家是想找点事情做做，好有些成就感。
+     自己一向不喜欢抱怨什么的，总觉得走那条路就唱那首歌
+     暑假回家带了一个月，回来后总觉得心里说不出什么滋味。
+     家在农村，父母今年都57岁了，之前供我们姐妹四人读书很不容易，吃了很多苦，

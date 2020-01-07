@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <cai@ccert.edu.cn>; Sat, 24 Sep 2005 05:06:01 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <cai@ccert.edu.cn>; Sat, 24 Sep 2005 05:17:25 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 20:54:57 -0000
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: cai@ccert.edu.cn
+Cc: <qiu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvrTH67nY16KhsLOkt+fGxsDLobHPtcHQvbLX+bXa0rvG2iAo16rU2Ck=?=
+Date: Sat, 24 Sep 2005 05:17:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: sffib (微笑的飞鱼), 信区: THUInfo
+标  题: Re: 敬请关注“长风破浪”系列讲座第一期 (转载)
+                                                

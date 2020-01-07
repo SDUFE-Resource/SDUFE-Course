@@ -1,0 +1,20 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <kong@ccert.edu.cn>; Tue, 27 Sep 2005 09:20:48 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Tue, 27 Sep 2005 09:24:03 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 01:24:01 UT
+To: kong@ccert.edu.cn
+From: yana@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMzsxMSjrE1NtcTWx8nMtryyu7W9MTAwo6GjoaOh?=
+
+以后孩子可不能让她多带
+     一直感觉MM好像都很笨的样子，什么问题都需要给她解释半天才能懂，而且有时候会问一些让人觉得很弱智的问题，比如说前几天去买定做沙发的面料，售货小姐说：布宽1.4米，每米是25元，结果MM问人家：1.4米宽，那布到底有多长？这不是废话吗，当然是你买多长就有多长了。
+     前两天偶然在网上看到一个智力测验的题，就让MM做了一下，结果都不到100分，我自己做了是130，不到100分属于智力偏低，让我一直郁闷到现在。

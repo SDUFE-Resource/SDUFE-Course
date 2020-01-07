@@ -1,0 +1,24 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 11:34:26 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 10:56:44 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "yang" <yang@cert.org.cn>
+To: bi@ccert.edu.cn
+CC: "hua@ccert.edu.cn" <tan@ccert.edu.cn>,
+   "wen@ccert.edu.cn" <hua@ccert.edu.cn>,
+   "kang@ccert.edu.cn" <ni@ccert.edu.cn>, "wei@ccert.edu.cn" <ma@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgudjT2jIwMDXE6rn6x+y92rfFvNm8sLX3v86wssXF09C52MrC0su1xM2o1qo=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 11:42:11 +0800
+
+标题: 关于2005年国庆节放假及调课安排有关事宜的通知
+作者:党办校办
+发布日期：（2005.9.20）
+------------------------------------------------------------------------
+--------

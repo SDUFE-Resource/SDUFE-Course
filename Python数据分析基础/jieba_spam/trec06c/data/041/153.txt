@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <bi@ccert.edu.cn>; Fri, 26 Aug 2005 02:55:40 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 03:03:10 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 03:03:10 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 03:03:10 +0800
+From: gao@mail.tsinghua.edu.cn
+To: bi@ccert.edu.cn
+Cc: cheng@ccert.edu.cn
+Date: Fri, 26 Aug 2005 03:03:10 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7Sw8fItLG7wM/N4sujwcujoaOho6E=?=
+Content-Type: text/plain
+
+老外在获得市场的时候, 答应给你技术了吗.?
+一厢情愿, 
+          都说中国人想法复杂，我觉得那是体现在生活琐事上。在一些决策性的大事上，我们的想法太简单了，被外国人耍了！！！下面这篇文章希望能引起大家的深思。
+                                 以市场换技术？？ 
+          “十几年下来，大家才发现‘市场换技术’已经难以为继，技术没有换来，市场丢掉了。”深圳科技局人士说，同样以医疗器械行业为例，业内都在流传一个教训：“1990年代国内比较有名的‘无锡海鹰’跟GE合资前有相当的技术储备，合资后这个品牌影响丢了。”现在GE已经

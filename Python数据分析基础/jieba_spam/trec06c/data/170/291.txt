@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <yana@ccert.edu.cn>; Fri, 23 Sep 2005 04:02:51 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <yana@ccert.edu.cn>; Fri, 23 Sep 2005 04:14:15 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 19:51:47 -0000
+From: "yu" <yu@mail.tsinghua.edu.cn>
+To: yana@ccert.edu.cn
+Cc: <xing@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuGMjyrXPsMn6?=
+Date: Fri, 23 Sep 2005 04:14:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+北京城建勘测设计院是一家集设计与施工于一体的勘察测绘国有企业，承担着奥运场馆和北京地铁等许多大中型国家建设项目的勘测工作，在行业内有极高的声誉！
+近年来，本企业在岩土信息技术方面也取得了长足的进步，为了进一步发展岩土信息技术在工程领域的开发和应用，现向北京各个高校诚招.NET编码实习生，共谋发展。
+  要求如下：
+ 1）刻苦敬业，有很好的协作精神和学习能力，有较充裕的工作时间。
+ 2）精通.net 框架和C#编程
+ 3）熟悉SQL SEVER 2000 开发
+ 4）具有建筑工程工程背景或者熟悉GIS者优先（非必要条件）
+ 
+ 根据个人的能力和工作量，工资待遇在1000－3500元
+ 有意者，请把个人材料发送到zjxu123@yahoo.com.cn, 勿访！

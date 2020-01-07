@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <yuan@ccert.edu.cn>; Sat, 20 Aug 2005 21:02:03 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <yuan@ccert.edu.cn>; Sat, 20 Aug 2005 21:15:17 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sat, 20 Aug 2005 20:43:58 +0800
+Date: Sat, 20 Aug 2005 21:15:08 +0800
+From: "zhang" <zhang@wnt.com.cn>
+To: yuan@ccert.edu.cn
+Cc: "lic" <zhu@ccert.edu.cn>, "sunt" <bi@ccert.edu.cn>, "caoy" <peng@ccert.edu.cn>,
+        "wangb" <yun@ccert.edu.cn>, "songhm" <tang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL+80dC1xNDEzKyjqNeq1Ni1xNK7sr+31qOsz6PN+7bUtPO80tPQ08OjqQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+是不是真的考上五道口的都准备了一两年啊……
+恐怖地说
+     1、制定比较合理的复习计划，严格的按照自己的计划进行，不要轻易的改变或者受别人影响（如果你的计划是合理的），但同时也要根据各方面的情况适当的修正。我会提供一个比较合理的计划，如果大家能够严格的要求自己遵守，问题不大。
+     2、养成良好的生活习惯，尤其是学习和休息的时间，既要根据自己的情况安排，也不要和正常的情况差得太远。一般情况下，我建议：
+     早晨7：00-7：30起床；   8：00-12：00学习；   中午12：00-2：00午饭和休息；下午2：00-4：30学习；   下午4：30-5：00锻炼； 5：00-6：30晚饭和休息；

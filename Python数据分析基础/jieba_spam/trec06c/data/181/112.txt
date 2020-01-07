@@ -1,0 +1,24 @@
+Received: from nankai.edu.cn (sun.nankai.edu.cn [202.113.16.21])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N7Br6G015829
+	for <bi@ccert.edu.cn>; Sun, 25 Sep 2005 02:19:39 +0800 (CST)
+Received: (eyou send program); Sun, 25 Sep 2005 02:36:32 +0800
+Message-ID: <327460528.07655@nankai.edu.cn>
+Received: from 222.30.48.129 by 202.113.16.21 with HTTP; Sun, 25 Sep 2005 02:36:32 +0800
+From: "jian" <jian@nankai.edu.cn>
+To: bi@ccert.edu.cn
+Date: Sun, 25 Sep 2005 02:36:32 +0800
+Reply-To: "jian" <jian@nankai.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7SzPnU2tXiwO+wySy087zSx8bHxi4=?=
+Content-Type: text/plain
+
+标点符号严重混乱，
+逗号、句号要紧贴在前面的单词后，
+标点之后要空一格。
+这是写英文文章最基本的要求，
+先把这个改正了再继续看。
+难道你的 Word 没给你画出红线绿线？
+还是你根本不用 Word？
+      我写的一篇essay,大家帮忙看看,U of TEXAS-Austin要求的,大家多提宝贵意见,指出一些语法错误,谢谢了.发在别的版没人搭理.
+     Topic:
+     Many students expand their view of the world during their time in college. Such growth often results from encounters between students who have lived different cultural, economic, or academic experiences. With your future growth in mind, describe a po

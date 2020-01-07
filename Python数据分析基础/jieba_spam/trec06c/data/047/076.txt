@@ -1,0 +1,36 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <zhuang@ccert.edu.cn>; Sat, 27 Aug 2005 08:02:35 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 08:20:55 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 08:20:55 +0800
+Date: Sat, 27 Aug 2005 08:20:55 +0800
+From: gu@cernet.com
+Subject: =?gb2312?B?ofEgob5TVFbXqrKlob8oOC4yNs3tMTmjujMwo6mzrLy2xa7J+cj9vNfM2LytICjXqtTYKQ==?=
+To: zhuang@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: rely (没有语言天赋的人◎江湖不再有Miller), 信区: THUInfo
+标  题: 【STV转播】(8.26晚19：30）超级女声三甲特辑
+发信人: stvnet (清华大学学生网络电视), 信区: STVNET
+标  题: 【STV转播】(8.26晚19：30）超级女声三甲特辑
+超级女声三甲特辑将于今晚湖南卫视19:30现场直播,欢迎通过学生清华视听媒体专区的网络电视转播直击现场！
+为方便清华校内没有电视但能联网且又关注超女的用户收看现场直播，学生网络电视（STVNET）将调整电视转播频道，对赛事进行转播！
+具体收看办法：
+点击学生清华视听媒体右部顶端的“电视转播”下的“Gridmedia”蓝色背景图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+　　1.选择“打开”(或者OPEN/RUN)等本地打开按钮直到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网用户)”频道收看这场直播。
+　　2.选择“保存”(或者SAVE)等按钮保存到您的计算机上，运行保存下来的“Gridmedia学生网络电视版”程序，即可看到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gidmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网用户)”频道收看这场直播。
+　　另外由于将从远处服务器以及一些动态的转发节点获得数据，所以在选择频道弹出windows media player播放器后，您会看到播放器下端将出现“正在连接到媒体...”字样以及后来的“缓冲 XX％”字样，此时请您耐心等待数据的接收。
+　　为保证您的收看效果，建议安装windows media player 8.0或以上版本。
+                                                        学生网络电视
+http://www.student.tsinghua.edu.cn/media/default.aspx
+Enjoy：）

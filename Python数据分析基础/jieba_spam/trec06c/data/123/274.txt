@@ -1,0 +1,50 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C2BpmJ006744
+	for <gu@ccert.edu.cn>; Tue, 13 Sep 2005 03:32:39 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28l5c009623
+	for <gu@ccert.edu.cn>; Tue, 13 Sep 2005 03:29:57 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28iWw009619
+	for <gu@ccert.edu.cn>; Tue, 13 Sep 2005 03:29:32 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EEefy-0005d0-00
+	for toefl@gradinfo.net.edu.cn; Tue, 13 Sep 2005 04:28:58 +0800
+Message-ID: <016301c5b740$c2f51a00$2fcb6fa6@wanglanjia>
+From: "cao" <cao@ns.6test.edu.cn>
+To: gu@ccert.edu.cn
+Date: Tue, 13 Sep 2005 03:42:20 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Subject: =?gb2312?B?ofEgU0lNYWdpbmUgMjAwNrXaxt+97Mirx/IgR1NNILywIEphdmEgJiM4NDgyO7+o06bTw7+qt6K0
+88j8vek=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1871831781=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+SIMagine 2006第七届
+全球 GSM 及 Java &amp;#8482;卡应用开发大赛介绍会
+ 
+介绍会日期：2005年9月14日（晚）
+介绍会时间：19：00-21：00
+介绍会地点：清华大学信息科学技术大楼（FIT楼）二层多功能厅
+ 
+ 
+雅斯拓公司 (Euronext: NL0000400653 - AXL) ，是世界领先的微处理器卡提供商（来源：Gartner, 2005, Frost &amp; Sullivan 2004）。公司除了提供通往数字网络钥匙的微处理器卡，也是销售点（Point-of-sale）终端的主要供应商。雅斯拓拥有来自70个国家的4500 名员工，为100 多个国家的客户提供服务，公司迄今全球销售超过30 亿张智能卡。公司在智能卡创新方面拥有25年的经验，在安全技术和开放系统领域独占鳌头。
+雅斯拓联合 Sun微系统公司和三星半导体公司，邀请无线通信领域专业认识及广大学生基于Java &amp;#8482;技术，为未来的SIM卡创新开发无线应用解决方案。由移动通信领域中的重要专家组成的评委会将对所有递交的作品进行评审，并评选出8-10件参赛作品进入最后的获奖名单。评审标准包括：创新性、有市场吸引力、用户界面友好、简洁、安全、方便市场投放等原则。评委会由移动通信、Java&amp;#8482;技术、产业以及行业标准化组织中的重要专家组成。评委会将根据作品的技术含量以及行业吸引力来决定取舍。
+奖金总额超过60,000欧元

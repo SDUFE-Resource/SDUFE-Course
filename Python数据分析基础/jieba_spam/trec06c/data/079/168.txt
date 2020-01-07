@@ -1,0 +1,24 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <zeng@ccert.edu.cn>; Sat, 3 Sep 2005 12:27:54 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Sat, 3 Sep 2005 12:59:23 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Sat, 3 Sep 2005 12:40:28 +0800
+From: "ou" <ou@mail.nisac.gov.cn>
+Reply-To: ou@mail.nisac.gov.cn
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxMfGrM23xqzOstfWxLvW0LOjs/bP1rXEQS5DLkUuus1BLlMuQy62vLT6se3KssO0sKGjvw==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+是什么的缩写啊，一直猜不到，呵呵
+     不是一个简单的“制片”就可以确定的，其实很很多等级
+     最高级别就是制片人：producer，这是凌驾于导演之上代表投资方的，好莱坞基本上都是制片人中心制，或者制片人与导演同等重要，只有大陆多数情况下还是导演中心制
+     下面就是执行制片人：executive producer 类似香港的监制，就是制片人的代言人，很大程度上影响整个片子的呈现

@@ -1,0 +1,29 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <fan@ccert.edu.cn>; Wed, 28 Sep 2005 13:03:34 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <fan@ccert.edu.cn>; Wed, 28 Sep 2005 12:23:53 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "liao" <liao@cert.org.cn>
+To: fan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTjw8fQqtCqsMmjrL+0v7TO0sPH1eLA7w==?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Wed, 28 Sep 2005 13:09:32 +0800
+
+你们的一个博士弟兄也想退学了，嘿嘿
+实在混不动了
+     标  题: 你们歇歇吧，看看我们这里
+     
+     文章四片当然不够，除非你发的档次很高啦，但是大家没这个水平啊
+     补助一分没有，吃饭自己想办法啦，当然不延期的时候国家还是有290快钱一个月的
+     但是住宿费用还有水电就花掉了100多了
+     咋拌呢，总不能大家都去跳楼吧
+     战争在继续，生活也在继续，该咋地就咋地吧
+     
+     --
+     

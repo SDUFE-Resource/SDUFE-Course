@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <ling@ccert.edu.cn>; Sat, 24 Sep 2005 16:38:05 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <ling@ccert.edu.cn>; Sat, 24 Sep 2005 16:49:29 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 08:27:01 -0000
+From: "zhou" <zhou@mail.tsinghua.edu.cn>
+To: ling@ccert.edu.cn
+Cc: <su@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sat, 24 Sep 2005 16:49:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+其实他的老板的方法都还可以吧，在他的文章里面他的老板好像管理方法还不错，王同学也得到了很多自由发挥的机会吧，也没什么特别的任务需要他天天忙的（也可以说没有什么事情浪费他的时间），这种管理方法我觉得挺适合他的吧。
+个人认为他的性格有些地方值得改改，不可否认，现实是存在很大的弊端和缺陷，但是不能因为现实的问题而否认本身存在的问题，更不能因为他是牛人而对他本身存在的问题视而不见。可以用一句话总结一下：勇气可嘉，方式不妥。
+     思想腐朽
+     如果社会制度不能给每个人提供自由发展的空间， 不能跳动每个人的主观能动性
+     就是制度的失败，阻碍生产力发展。 

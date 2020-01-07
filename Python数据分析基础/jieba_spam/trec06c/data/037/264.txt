@@ -1,0 +1,37 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <zhan@ccert.edu.cn>; Thu, 25 Aug 2005 10:52:25 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 11:05:32 +0800 (CST)
+Date: Thu, 25 Aug 2005 10:59:18 +0800
+From: "chi" <chi@sohu.com>
+To: zhan@ccert.edu.cn
+Cc: "yxl" <zhang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7V0Ma4vObWsKG/sbG+qdbQzOzFtdHHzOXT/b/GvLzT0M/euavLvrPPxri85taw?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+北京中天诺亚体育科技有限公司是一家以运动营养、体育数字技术、高端体育仪器设备的研发创新为主业的高科技产业公司。（请登陆公司主页http://www.noahsports.com.cn/了解公司详情。）
+由于公司软件事业部业务发展的需要，现诚聘兼职三名，具体要求如下：
+一、    兼职软件工程师一名：
+1、    在校研究生，计算机相关专业； 
+2、    熟悉C# .NET开发，有一定的开发经验。
+3、    了解WEB技术和中间件技术。
+二、    兼职软件工程师一名：
+1、    在校研究生，计算机相关专业； 
+2、    熟悉Delphi开发，有一定的开发经验。
+3、    了解软件界面开发技术。
+三、    兼职仿真工程师：一名：
+1．    具有动力学和运动学基础，具有良好的数学功底。
+2．    了解UG和ADAMS联合仿真。
+有意者请将个人简历发至 jiangjm@noahsports.com.cn 
+联系人：江小姐   
+（请直接e-mail联系，勿发站内信箱。）
+北京中天诺亚体育科技有限公司
+地址：中国北京市长春桥路5号院新起点嘉园2号楼1901
+邮编：100089

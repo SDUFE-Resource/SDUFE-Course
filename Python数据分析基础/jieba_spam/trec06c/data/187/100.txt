@@ -1,0 +1,32 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8OB6nor025292
+	for <ye@ccert.edu.cn>; Mon, 26 Sep 2005 11:20:02 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 11:07:57 +0800
+Message-ID: <327559284.25099@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 26 Sep 2005 11:07:57 +0800
+Message-ID: <327559284.25083@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Mon, 26 Sep 2005 11:07:57 +0800
+From: lv@mail.tsinghua.edu.cn
+To: ye@ccert.edu.cn
+Cc: yuan@ccert.edu.cn
+Date: Mon, 26 Sep 2005 11:07:57 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7SvvW1w8312/Oyu7auv8bRpw==?=
+Content-Type: text/plain
+
+没啥好说的了
+     标  题: Re: 我觉得王垠不懂科学
+     
+     no，首先windows的定位就是易用，不会出现会linux而不会windows的事情
+     最大的区别还是在于GNU，open source，多么伟大的一件事情
+     如果windows能开源，那些说windows的人绝对会马上闭嘴的，或许linux消失都不一定。
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     但是windows开源，痴人说梦
+     
+     : 嗯，估计要是国内没几个人用windows.估计某些人会认为会用windows就是大牛了
+     
+     
+     --
+     这些人间最智慧的一群精英，每个人都可以毫不费力地精确预测电子运行的轨道，却没有一个人能够计算出自己的人生。
+     
+     

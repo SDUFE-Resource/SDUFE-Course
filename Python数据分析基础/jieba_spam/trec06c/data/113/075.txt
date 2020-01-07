@@ -1,0 +1,32 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <zheng@ccert.edu.cn>; Sat, 10 Sep 2005 23:10:17 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Sat, 10 Sep 2005 23:28:17 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Sat, 10 Sep 2005 23:28:16 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "zhou" <zhou@mail.csu.edu.cn>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/gx9e8x87lfs/Ws8m24A==?=
+Date: Sat, 10 Sep 2005 23:09:43 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     标  题: Re: 相亲记五~现成多
+     
+     你是男的吧？写不出女性心理的
+     
+     : -_-!
+     : 我已经尽力模仿了
+     
+     
+     --
+           ┏------

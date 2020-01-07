@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <zhan@ccert.edu.cn>; Fri, 26 Aug 2005 06:28:31 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 06:46:51 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 06:46:51 +0800
+Date: Fri, 26 Aug 2005 06:46:51 +0800
+From: ren@cernet.com
+Subject: =?gb2312?B?UmU6INXms8/OyqO6R0dKSizV4tH5tcS88sD61Nqxsb6pxNzC9Lj2yba826O/?=
+To: zhan@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+嗯，怎么说，看找什么样的工作了。
+个人感觉，如果去做coder的话，月薪不会超过5000的。当然，做一段时间有了经验后可以更多
+如果做sales的话也不错，不过需要考虑个人的性格，口才，当然身高外貌也挺重要。社会上还是漂亮者生存的。
+或者，考虑作一些大公司的售后工程师？只是这些大都没有技术上的发展前途。
+反正，工资一般肯定跟工作挂钩了。而工作的性质又往往跟个人的爱好有关。
+我倒是有一个建议，根据你的条件，可以考虑去投银行，呵呵。工资或许不高，不过收入也还能够算得过去
+     北航力学（工学），应用数学（理学）双学士学位。
+     英语六级  计算机三级。
+     北航“冯如杯”学生科技竞赛二等奖

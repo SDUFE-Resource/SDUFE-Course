@@ -1,0 +1,21 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <jian@ccert.edu.cn>; Sat, 20 Aug 2005 02:17:54 +0800 (CST)
+Received: (qmail 23946 invoked from network); Fri, 19 Aug 2005 18:28:08 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 19 Aug 2005 18:28:08 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "zheng" <zheng@jdl.ac.cn>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTHvuS7sLXE1f3X2tStsObKx9T10fm1xKO/?=
+Date: Sat, 20 Aug 2005 02:32:16 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+这句话出自韩诗外传．卷九：‘

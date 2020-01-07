@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R9oOdP018957
+	for <jian@ccert.edu.cn>; Thu, 29 Sep 2005 05:18:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8RA1dYd023981
+	for <jian@ccert.edu.cn>; Thu, 29 Sep 2005 05:29:38 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 05:04:35 +0800
+Message-ID: <327813796.02359@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 05:04:35 +0800
+From: ye@mail.tsinghua.edu.cn
+To: jian@ccert.edu.cn
+Date: Thu, 29 Sep 2005 05:04:35 +0800
+Reply-To: ye@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgudjT2sflu6q8xsvju/q/vNHQtcS8uLj2zsrM4g==?=
+Content-Type: text/plain
+
+首先声明我已经在精华区泡了三四天时间了，感觉有的写的很好，有的写的也是很简略，而且有的信息已经有些旧了，因此在这里再提一些问题，大家来讨论一下：
+1、历年专业试卷有价值吗？版主能不能把历年的真题整理发布一下？
+2、官方的招生信息网上提供的参考书都是贼厚贼厚的，有必要把它们都认真的看一遍吗？（我感觉数据结构要认真看，可是别的呢？）  哪些参考书比较有价值？
+3、专业课的课件、讲义有多少参考价值？怎么样才能找到这些资料呢？（ftp：pigclub.net里面有个计算机复习资料，这个就是CS专业的课件吗？怎么只有体系结构呢？）
+4、总的来说，CS的专业课应该怎么复习、复习到什么样的程度、怎么与其他的考试科目协调好？希望各位大牛给些建议......
+5、希望已经考过CS的师兄师姐们再给些经验教训......

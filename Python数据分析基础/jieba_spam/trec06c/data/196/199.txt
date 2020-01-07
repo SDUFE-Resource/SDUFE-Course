@@ -1,0 +1,34 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R2Ql7k015088
+	for <gan@ccert.edu.cn>; Wed, 28 Sep 2005 07:15:26 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8R2U2q21285;
+	Wed, 28 Sep 2005 07:18:41 +0800
+Message-Id: <200509270230.j8R2U2q21285@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 23:18:41 UT
+To: gan@ccert.edu.cn
+From: gong@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+
+即使ieee trans
+水平差别也是天上地下
+像ieee trans on consumer electronics
+ieee trans on broadcast
+ieee trans on man,system and cybernetics
+就不值得大家这么推崇
+当sci多起来的时候，又开始强调IEEE Trans了，呵呵
+干脆，中国人自己也成立一个IEEE得了，那不是又会很多IEEE的文章了么
+为什么一次又一次地陷入一个怪圈？
+最开始是核心期刊多少片，然后是一级学报多少片，然后是ei多少篇，然后又是
+sci多少片，。。。以后是nature、science多少片
+真可谓是人有多大胆，地有多大产
+博士无产阶级，对于清华、中科院一些实验室也许不适用
+但是绝对适用于中国一半以上的博士生
+     ：2,ieee,sci的期刊中国人占得还很少,如果真是全是中国人得了, 显然是成为科技强国的重要指标, 至少因为说明研究得到很多支持.
+     嘿嘿，这是你们的理想阿，灌水。可是人家不让你们灌阿。所以我说就算给你们灌水证，让ieee发一个“中国年专版”，也无法从实质上提高科研的能力阿。像“它”那样做点副业，拉拉linux的人气，好像更实际点吧。
+     阁下好像对IEEE很不以为然，但是请问阁下，中国一年能在IEEE TRANS.上发几篇文章呢？IEEE上发文章的多少，客观上可以说明研究的水平。至于LINUX的人气，那是更实际的问题，跟学术研究无关。

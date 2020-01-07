@@ -1,0 +1,25 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <tao@ccert.edu.cn>; Mon, 22 Aug 2005 03:06:10 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <tao@ccert.edu.cn>; Mon, 22 Aug 2005 03:19:21 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "liu" <liu@126.com>
+To: tao@ccert.edu.cn
+Cc: <jian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Syse6o7nqztLI3dLXwvA=?=
+Date: Mon, 22 Aug 2005 03:19:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+我也来说几句。以前曾在一家世界顶级的跨国公司任职，手上有一个项目需要与美国同事有非常多的交流，而该职位又需要有一定程度的软硬件开发水平。在国内候选者中找到的要么英语不够好要么就是英语不错开发水平又太低。我就把眼光放到了那些“海龟”身上，开发水平勉强算不错的都很难碰到要价还非常高，碰到的绝大多数都是对本专业狗屁都不懂还一个个拽得不得了。
+     说海龟工作不好找。我也在今年毕业后加入到茫茫的求职大军中。 
+     　　媒体上总是说海龟东挑西拣，不能给自己好好定位，也就出来了反面的呼声，什么海带，什么洋垃圾。我的体会是，有时候在一开始海龟就已经被不平等的对待了。 
+     　　许多公司没有任何理由的拒绝海龟。简历投出去只要是看到是海龟就扔到一边。有一些是因为曾经招聘过失败的海龟，有一些则是完全因为媒体报章的误导，觉得海龟都是国内失败的有钱人出去混文凭。工资要的钱少了，他们就觉得是底气不足没有本事，毕竟自己都不能相信自己人家还能信你么？要的钱多了，就是目空一切，只会注重待遇也不看看自己几斤几两。 

@@ -1,0 +1,39 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <gu@ccert.edu.cn>; Thu, 25 Aug 2005 21:07:19 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 21:25:42 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 21:25:42 +0800
+Date: Thu, 25 Aug 2005 21:25:42 +0800
+From: xiao@cernet.com
+Subject: =?gb2312?B?ofEg1qrD+7eoufq5q8u+1dDGuKO6uN+8tkpBVkG/qreiuaSzzMqm?=
+To: gu@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+If interested, please send your resume at new8069@263.net. thanks!
+Please notice: You should have at least 4 years programming experience in Java and good understanding in UML.
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+Senior Java Developer  (1 vacancy)  
+Location : Beijing  
+Main Responsibilities:
+&amp;#8226;    Participate in the whole cycle of development of software and system based on browser/server structure: be responsible for the design, implementation and integration. 
+Main Requirements : 
+&amp;#8226;    Master degree in computer science or engineering;
+&amp;#8226;    At least 4 years programming experience in Java is a must, good understanding in UML;
+&amp;#8226;    With concrete project experience in J2EE platform design and development; be autonomous in J2EE server architectural design and implementation. 
+&amp;#8226;    With experiences in Tomcat/Weblogic/JBoss, Oracle, Linux/Unix;
+&amp;#8226;    Solid knowledge of software development processes;
+&amp;#8226;    Knowledge on wireless communication is a plus;
+&amp;#8226;    Working experience in multinational company;
+&amp;#8226;    Good communication skills with fluency in written and oral English;
+&amp;#8226;    Team work spirit and sense of responsibility are appreciated.　

@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <kong@ccert.edu.cn>; Tue, 13 Sep 2005 23:24:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <kong@ccert.edu.cn>; Tue, 13 Sep 2005 23:36:06 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 15:18:54 -0000
+From: "lin" <lin@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: <jian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM2suLu586OsubK7vMTRoa2hrQ==?=
+Date: Tue, 13 Sep 2005 23:36:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+他的意思好像是，他已经很辛苦了，你不能照顾他一些，还给他添乱了
+     昨天本来好好的，给GG打电话，不知怎么就争起来了。我身体不舒服，头很痛，我对他撒娇，想要他安慰我。GG有点不经心的样子，随便说了几句就忙着挂电话。
+     我实在心里堵得慌，后来给他发短信，告诉他我已经很久都感觉不到他的爱了。结果……GG说我是个只能同富贵不能共患难的人，他不可能像我希望的那样对我……其实我们这样的确是很久了。然后我就感觉到了深深的绝望或者说是出离绝望，然后我就提出了分手，我也真的是很想分了。
+     他先是答应只是我实在很想不通，他凭什么这样说我呢？他刚刚毕业，准备考研，真的是要是没什么的时候，我并没觉得他失败。以前他本来要出国，我支持；后来他决定留下，我支持；再后来是考研，我仍然全心全意支持他。从来没有想过会和他分开，从来都只觉得和他在一起最快乐。

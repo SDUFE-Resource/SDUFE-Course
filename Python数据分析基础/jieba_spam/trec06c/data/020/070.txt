@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <xiao@ccert.edu.cn>; Sun, 21 Aug 2005 04:23:04 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <xiao@ccert.edu.cn>; Sun, 21 Aug 2005 04:36:18 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 04:04:59 +0800
+Date: Sun, 21 Aug 2005 04:36:09 +0800
+From: "jiang" <jiang@wnt.com.cn>
+To: xiao@ccert.edu.cn
+Cc: "lic" <qing@ccert.edu.cn>, "sunt" <zeng@ccert.edu.cn>, "caoy" <fan@ccert.edu.cn>,
+        "wangb" <wang@ccert.edu.cn>, "songhm" <chen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILzSwO/Iy7j4tqjBy7j2xa7T0cz1vP6118/foaM=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+本来属于是你们的家务事，俺这个外人不该说什么
+但是，既然你写出来了，俺就忍不住想骂两句：
+农村人怎么了？你们家祖祖辈辈天生就是城里人？
+知道中国历史上多少农村出身的王侯将相吗？知道当代中国大陆的首富家族是农村出身的吗？
+典型的小市民势力眼，难成大气
+         问一下大家的看法，别鄙视我。
+         父母认为我快博士毕业了（今年本命），该找女友了，给了个底线的要求，说是达不到的话也就别往家领，省得大家都不开心。
+         条件是 1.正规大学本科毕业

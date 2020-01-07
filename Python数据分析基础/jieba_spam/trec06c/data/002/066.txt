@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <zhu@ccert.edu.cn>; Mon, 15 Aug 2005 06:18:32 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <zhu@ccert.edu.cn>; Mon, 15 Aug 2005 06:32:03 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 06:26:58 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 06:26:58 +0800
+From: lin@mail.tsinghua.edu.cn
+To: zhu@ccert.edu.cn
+Date: Mon, 15 Aug 2005 06:26:58 +0800
+Reply-To: lin@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgztLJ7bHftcTN5tPOz7fJpda+tcTKwsfpoaqhqnN3ZWV0YXBwbGVtZb+0uf3AtA==?=
+Content-Type: text/plain
+
+  大学时候认识一个哥们儿，围棋业余四段还是五段，天天蹲在开放机房玩Mud，据说
+屡次打破上机时长记录什么的。毕业后某次在大街上碰到他，半迷茫半羞涩的申请，啥
+证都没拿到，在家里待业呢。
+   如果说上面的还不够直观的话，另一个朋友就更厉害了。北大毕业的帅哥，人帅会玩
+又有人缘，做饭做得还很好（这个狂赞，绝无虚假），工作也很不错。然而，自从出了某某网络游戏以后。。。。。。
+从测试期之前他就开始搜集了好多相关资料，然后升级计算机什么的。在单位里，每天
+经常下午就偷跑回家玩游戏。等游戏正式期一开始，哥们儿请了20天的年假再加春节假，
+就蹲在北京租的房子里玩游戏，也不回家了，就为了在游戏初期能冲高的级别啥的。玩了
+整整一个月，再回单位的时候也估计可能心不在焉，就被单位开了，拿了一笔遣散费，然后
+他也不计较了。回家后继续玩，然后通过父母关系又给找了个的工作，然后他就基本上能
+保证上班的日子里能每天玩8小时，不上班的日志里能玩12~14小时。那个鬼游戏，每次必须
+6人凑一组，要特别信任又等级相当的，因此有一个人不在可能都不行，大家到时间了必
+须在，他那队伍里还有一个家里给自费在国外上学的孩子，每天在这个破游戏上浪费时间。
+然后呢？这个朋友工作换了又换，越来越差；经济状况不够好，没时间挣外快，就跟个店
+做杀熟的事情，专杀好朋友的熟；没时间陪女朋友，女朋友离开他；身体状况也下降，脸色
+也没了以前的光彩。。。。。。举个例子说明一下他迷恋的程度吧，他曾经收养过一条流浪
+小狗，之前体重已经22斤左右了，但是玩游戏后因为没时间去溜狗，又不能容忍狗在屋里
+拉屎，只好减少喂食，半年多以后狗被饿到13斤！绝对的皮包骨头！现在这个朋友也恢复
+了，不那么迷游戏了，但是代价够大的了。恩，而且呢，游戏瘾绝对不是不能克制的，需要
+别的人多去帮他。

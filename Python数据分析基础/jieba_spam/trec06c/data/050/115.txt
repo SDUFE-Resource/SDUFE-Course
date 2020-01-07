@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <liao@ccert.edu.cn>; Sun, 28 Aug 2005 03:12:36 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 03:20:06 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 28 Aug 2005 03:20:06 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sun, 28 Aug 2005 03:20:06 +0800
+From: gao@mail.tsinghua.edu.cn
+To: liao@ccert.edu.cn
+Cc: che@ccert.edu.cn
+Date: Sun, 28 Aug 2005 03:20:06 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgzsrSu7j2Y9Pv0dTOxLz+tcTOyszio6zU2s/ftcg=?=
+Content-Type: text/plain
+
+一个文本文件，内容比如
+zhang 1001 19 room_101
+fun   1002 20 room_102
+Tan   1003 21 room_103
+ling  1004 21 room_104
+怎样用C语言把它读进去，我定义结构体的时候，
+struct student_type
+{
+  char name;
+  int num;
+  int age;
+  char address;
+}stud[SIZE];
+中间两个为整型的时候，读进去是乱码，好像只能作为字符串读进去，但我需要的是整型变量，不知道该怎么处理，请各位xdim指教,我在这里感激不尽！谢谢！

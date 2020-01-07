@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <wang@ccert.edu.cn>; Mon, 22 Aug 2005 09:59:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <wang@ccert.edu.cn>; Mon, 22 Aug 2005 10:13:10 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 02:07:47 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "chen" <chen@mail.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Cc: "tunet" <qing@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgt6LBqbDsuavK0tCmu7A=?=
+Date: Mon, 22 Aug 2005 10:09:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+最近大家在谈论观测火星的事情,好象是几千年离地球最近的距离云云
+一个兄弟恍然大悟:"我看见了,就在昨晚,桔黄色的,特别圆特别大在天上跟脸盆一样大"
+大家突然都静下来了,细细回想自己所见过的火星的样子... ...
+终于有人忍不住了,上去打了他一拳,"那不是火星,那是木星,木星才是行星中体积最大的"
+可惜我吃了一半的肉饼都要喷出来了...这就是鬼老的智商...明明那个东西叫月亮嘛..哎
+单位最近引入竞争机制,生产部门搞技术大比武,四条生产线搞质量评测,结果公开,做的好
+有奖金.一号三号四号线水平差不多,就是二号线,真真扶不起的啊斗,搞来搞去在最后
+根据对2号线的调查和结果统计,发现质量和产率成真正的反比,而其他几条线在引入一定的
+激励机制以后,产率质量都能有所上升.为什么2号线不行,百思不得其解.线上的小组长看着
+人家到手奖金,自己没有,脸都要绿了.公司特派我去做一个分析,找出2号线的问题所在.先
+看人员配备,以老工人为主,技术熟练,基本都是5级以上(6级到头), 线上设备和其他无异,
+照明良好,速度,产品都没有差异.非常纳闷...昨天看一个2号线的工人来签名,突然发现他
+是左撇子,然后问了问工头,有几个左撇子啊,你们线.回答超过一半...嗯???会不会是这个
+原因呢?生产线从南往北走的话,左手兄弟要是站东向西,手里干活可就要追着线走了...
+把所有左手人调成站西面东,手可以迎着线,会不会好一些呢?几天来把线上的岗位重新安排
+了一下,左手和左手的重新组合,减少了左右手相邻岗位打架的现象...今天早晨刚拿到昨天
+的2号线表现评测...嘿嘿...我真美啊,事情就这么解决了!

@@ -1,0 +1,84 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j822KE0j026900
+	for <gao@ccert.edu.cn>; Sun, 4 Sep 2005 05:07:45 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j822I2Cp027723
+	for <gao@ccert.edu.cn>; Sun, 4 Sep 2005 05:06:25 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j822Hw7X027719
+	for <gao@ccert.edu.cn>; Sun, 4 Sep 2005 05:05:30 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 4 Sep 2005 04:54:32 +0800
+Message-ID: <325626821.22783@mails.tsinghua.edu.cn>
+Received: from 202.38.188.130 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 4 Sep 2005 04:54:32 +0800
+From: bi@mails.tsinghua.edu.cn
+To: gao@ccert.edu.cn
+Date: Sun, 4 Sep 2005 04:54:32 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILnY09rXqNK1tcTRodTx?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: bi@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+也祝你能把她搞到手
+     标  题: Re: 关于专业的选择
+     
+     
+     首先，能到清华搞研究工作，恭喜你。
+     
+     不知道你的专业是哪一个？无机化学、有机化学、物理化学、分析化学？
+     
+     国内比较精细的研究很难搞，原因是硬件（实验仪器精度不够）不行。
+     
+     比较靠近工程类的研究工作，材料、化工、环境、动力工程对于女生来说都是一种挑战。
+     
+         实际上，在你报到之前，清华的导师已经为即将到来的研究生安排好了课题内容，不是由研究生本人挑选的。
+     
+         如果你的数学功底比较扎实，搞一些模拟之类的计算机编程方面的工作是比较理想的，但是很多男生也在这类课题上败下阵来。原因就是数学功底非常脆弱。客观地讲，这与性别没有关系，只要数学功底不太好，搞计算是一件很头痛的工作。
+     
+         否则，就搞实验研究工作。
+     
+         清华的化学系要求比较高，可能要有SCI检索的文章才能毕业。
+     
+         至于材料、化工、环境、热能等系不一定要求SCI检索的文章，但是Ei/核心期刊检索的文章还是需要的。
+     
+         化学系的实验工作强度不大，但是精度要求比较高。
+     
+         其他几个系的试验研究工作精度要求不太高，但是要做成实验、有一定的学科进展，基本上是自己设计、加工一个试验台架或者在师兄、师姐的试验台架的基础上继续进行研究工作。自己加工试验台架的工作量比较大，但是课题进度掌握在自己手里。利用别人的台架出文章，进度往往难以保证。最后的结局是延期毕业。
+     
+     其次，
+         从就业和未来的发展角度考虑，读研究生对于女生来说不一定就是理想的选择。除非你已经下定决心要在科学研究领域奋斗一生，否则尽早找一份自己喜欢的工作、尽早建立自己的家庭，等到合时的时机，在考虑继续深造。而且深造的方向不一定是本科的专业方向。
+     
+         偶个人观点：搞一些新材料的研究工作也许对未来的发展会比较有帮助。新材料的售价往往是传统材料的20-400倍，要挣钱，靠这个比较快。但是这一点还取决于自己毕业时的机会。
+     
+         如果希望自己活得从容一些，就想办法找到自己理想的gg，他挣钱，你来打理家务。但是这条路也是需要付出代价的：恋爱、婚姻的技巧不是一天就能速成的。
+     
+         从全国各行业的发展趋势看，材料工程科学、化学工业、冶金工业、控制工程、电力行业、机械制造业、精密仪器制造业、生理学与医学、农业工程科学、军事工程技术都是非常有潜力的行业。目前我国最大的矛盾就是人口多与能源利用效率低。如果你对其中的一个行业感兴趣，就赶紧查阅你们学校的图书、科技期刊（重点大学的图书馆藏书应当很多而且质量上乘），尽快确定自己的研究方向。
+     
+     
+     
+     最后，
+         自己的命运50%掌握在上帝手中，50%掌握在自己手中。
+     
+         预祝：你的清华之行：一路顺风。
+       
+     
+     :   各位学长好，我是一重点大学化学系本科生，马上大四，准备保研来清华。
+     :   据我所知，除了保送化学，相关的一些专业如化工，材料，环科等都可以保去，我对这些专业兴趣方面都差不多，所以想请教各位化学及相关专业的学长，读哪个比较好呢？说说你们自己专业的情况吧。主要从以后就业和行业发展前景方面来看咯，另外，不要太脏太累的吧，小女子
+     :   在此多谢各位学长了！！！
+     
+     --
+     

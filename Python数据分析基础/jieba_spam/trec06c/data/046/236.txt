@@ -1,0 +1,23 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <xiao@ccert.edu.cn>; Sat, 27 Aug 2005 05:06:02 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 05:13:32 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 27 Aug 2005 05:13:32 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sat, 27 Aug 2005 05:13:32 +0800
+From: lian@mail.tsinghua.edu.cn
+To: xiao@ccert.edu.cn
+Cc: ling@ccert.edu.cn
+Date: Sat, 27 Aug 2005 05:13:32 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgSk1TsO/O0rP2uPbW99Llo6zO0rjD1PXDtNGh1PG1wMK3tcSwoQ==?=
+Content-Type: text/plain
+
+突然间遇到一些问题，周围都没有合适的人可以商量解决一下，所以到这里来问问JMS
+首先说明一下情况：
+我现在研二了，有一个男朋友，但是不很稳定。
+面临的选择是，跟老师好好做研究，将来留校出国，或者在北京高校任教，这是我很想的一条路，但是这样就没有办法解决现在到将来至少年之内的生活问题，当然我可以换一个完全有能力养我的男朋友，当然我觉得这样很不好；
+还有一条路，我现在自己接项目，月收入也能在1W以上，但是如果走这条路，将来很可能就自己做公司了，以后也许会发展很好，但是我觉得这条路太辛苦了，而且我现在的男朋友也在创业，也是很忙，将来走这条路，不一定退得下来。
+所有的机会都是在选择中转瞬即使的，我现在就面临很两难的选择，具体的情况就是导师派去做国际会议的论文和一个10W左右的项目，我该如何选择呢。。
+谢谢大家拍砖了。哎

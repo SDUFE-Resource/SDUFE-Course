@@ -1,0 +1,44 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <chen@ccert.edu.cn>; Fri, 26 Aug 2005 06:16:16 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 06:34:36 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 06:34:36 +0800
+Date: Fri, 26 Aug 2005 06:34:36 +0800
+From: ding@cernet.com
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+To: chen@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+     我有若干个同学在华为，应该还是有资格说几句的。不过我
+     事先声明，1我的℃信息都是两年前的；2，不保证一定正确，
+     但是可以保证我不会骗你，如果我说错了那一定是别人骗了我。
+若干个同学在华为，就有资格说几句？
+即使在华为的，也未必敢这么肯定。起码我是不敢肯定有资格对一些我不确定的东西发言
+比如上面有位兄弟说中华两家在海外的事情，我经历的不是，但我不敢保证别的国家是否
+有这种情况，所以我不敢否定。
+但这篇作者仅以有同学在华为就可以如此断定一些事情，而且断章取义，令人难以信服
+1，华为是否拖欠国家贷款？？我不知道这位作者有什么证据没有，我可以请这位作者查
+一下国家统计局公布的一些数据。看看华为每年的利润率、给国家上缴的money分别是多
+少，有几家公司可以超过，或者说有没有。
+资本是一个趋利的东西，国家给了华为巨额的贷款，得到的是丰厚的回报。这是日韩、
+乃至欧美大国扶持本国跨国公司的模式。
+至于文章中列举的几个市场的例子，不具备可信度。按文中的做法，华为怎么可能连续利
+润率排名这么高？请作者解释一下。
+贷款有那么容易？“银行不敢不给。。”这里不知道有没有银行工作的网友，不妨就这点
+解释一二
+2，华为的发展。你说的这些东西套在哪个公司上都可以，把自己的前途寄希望于公司，
+不以自己为根本，没有哪个公司敢打包票。和李一男一起进公司的人多了去了，为什么
+只有他当副总裁了？机会是公平的，关键在个人身上。
+3，没有人说在华为一定比在外企舒服、在华为一定比在外企发展好。
+华为他本身是怎么样的，就是怎么样的。外企也是。
+谁也不需要向任何人证明什么，谁都有自己选择的权力。
+包括你、我、他，每一个人。

@@ -1,0 +1,22 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <xin@ccert.edu.cn>; Mon, 26 Sep 2005 20:55:10 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Mon, 26 Sep 2005 20:58:28 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 12:58:26 UT
+To: xin@ccert.edu.cn
+From: gong@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFu01cr91ffOxF0gx++jrM73uv7DwLXDtc7B78HvtcQ=?=
+
+在西湖玩的照片 后边那张是在喝茶的地方，面前那杯茶￥180/位的
+到杭州以后皮肤变好了好多，能不能看出来？哈哈
+         西湖就是西湖，必须要坐船游才能领略她的美。
+         正是一个好天气，阳光明媚而不火辣，没有风，没有雾，水面平似镜，两岸清晰如画――一扫西湖一贯的水氲朦胧。这样珍贵的晴朗天气恐怕只有此刻。
+         一叶小舟，一壶龙井，一个摇船的老人，伴我们出发。

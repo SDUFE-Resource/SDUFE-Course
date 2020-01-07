@@ -1,0 +1,30 @@
+Received: from sendmail.iclp.com.hk (sendmail.iclp.com.hk [203.193.56.98])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8D9HfCC018617
+	for <gan@ccert.edu.cn>; Wed, 14 Sep 2005 00:58:09 +0800 (CST)
+Received: from ebpc1 ([192.168.17.111])
+	by sendmail.iclp.com.hk (8.11.6/8.11.6) with SMTP id j8DNBbb24415
+	for <gan@ccert.edu.cn>; Wed, 14 Sep 2005 01:52:00 -0500
+thread-index: AcW4RY0OBhyKhSqsSemwSUmiAKaPGg==
+Thread-Topic: =?gb2312?B?SnVuaXBlcs34wue5q8u+0dC+v7rNvczT/bv6ubnNqNG2MjAwNcTqOdTC?=
+Reply-To: <kang@apac-juniper.net>
+From: "kang" <kang@apac-juniper.net>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQ0Ke5tc2ovLzHyaGqoaqhsM2ssOm9zNP9obHK17Ohu+62r7+qyryxqMP7wcujoQ==?=
+Date: Wed, 14 Sep 2005 01:09:10 +0800
+Message-ID: <8c3801c5b845$8d1d0270$6f11a8c0@ebpc1>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_8C39_01C5B888.9B404270"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Exchange 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+  re
+  祝成功
+  
+                     清华大学2005年秋季学期“同伴教育”首场活动
+       参加了众多的报告会，你是否觉得收获颇多却憾于无法实战演练？听主讲人慷慨激昂，你是否也想抒发自己的感受与心得？“同伴教育”给你提供一个亲自演练的舞台！！Acing your job，为你的求职旅程再添一把力；Go together，你我同行一起交流共同分享经验与感悟！
+               敬请关注清华大学2005年秋季学期“同伴教育”首场活动――

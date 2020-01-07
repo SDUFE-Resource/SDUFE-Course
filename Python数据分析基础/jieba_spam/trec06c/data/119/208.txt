@@ -1,0 +1,26 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <shen@ccert.edu.cn>; Mon, 12 Sep 2005 08:17:09 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Mon, 12 Sep 2005 08:29:08 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Mon, 12 Sep 2005 08:29:04 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "rao" <rao@dlut.edu.cn>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/ru9ixsb6pwcs=?=
+Date: Mon, 12 Sep 2005 08:24:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我在上海工作了两年半，我的理解在上海穿的不行是会受歧视滴，北京一般比较朴实，相对来讲上海比较奢华，不过上海小姑娘穿的很漂亮其实并不一定很贵，到襄阳路多看看找找，如果不想作技术的话还是注意一下穿着比较好。
+不过我总觉得北京人跑到上海去会不习惯的，我呆了这么久也没习惯，还是跑回来了
+     中秋节放一天，加上周末，一共三天
+     天冷了，上次过来带的全是夏天的衣服
+     今天去做了一套秋天的衣服花了430

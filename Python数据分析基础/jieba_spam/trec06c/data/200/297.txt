@@ -1,0 +1,25 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <ma@ccert.edu.cn>; Wed, 28 Sep 2005 23:59:51 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 16:11:02 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 00:11:01 CST
+Date: Thu, 29 Sep 2005 00:11:01 +0800 (CST)
+From: liang ming <lin@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILn6x+y72Milv7TFrsXz09GjrL/Jy/3Su7/avty++MHLo6zO0ru50qq72MilwvCjv6O/?=
+To: ma@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+可是现在我什么都不知道，虽然想问她的朋友，可是现在不想问了，不想让自己的伤痛让他们看见，可心里真的是很苦闷。
+我情愿相信她，同时做好最坏的准备。
+btw:我体会过喝酒时忘掉一切的感觉，可是现在不会了。她就是因为那个男生天天喝酒买醉不忍心才和那个男生在一起的,我起码不会这么没有出息的堕落。男人怎么能考酒精来麻醉自己！
+     我亲眼目睹了我的好兄弟经历了像这样的一场痛，我陪他出去喝酒、通宵聊天、醉生梦
+     死…我也希望你的她不是那样的女孩。
+     总之，兄弟时刻保持清醒！

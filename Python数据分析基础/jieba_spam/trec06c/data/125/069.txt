@@ -1,0 +1,22 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C5ZHks008458
+	for <chi@ccert.edu.cn>; Tue, 13 Sep 2005 10:33:11 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8C50nS32226
+	for <chi@ccert.edu.cn>; Tue, 13 Sep 2005 09:58:24 +0800
+Message-Id: <200509120500.j8C50nS32226@mail.cert.org.cn>
+From: "jiang" <jiang@cert.org.cn>
+To: chi@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: CNCERT/CC=CD=F8=C2=E7=B0=B2=C8=AB=D3=A6=BC=B1=BC=BC=CA=F5=B9=AB=BF=AA=BF=CE=CD=A8=D6=AA?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 13 Sep 2005 10:42:43 +0800
+
+一次在七食堂吃饺子，要二两白菜（一块钱一两）的二两三鲜（一块二一两）的，看着给我打出五块六来，我说不对，我要的是二两白菜的二两三鲜的，那师傅说三两三鲜的行吗？我说不行，就要二两的，于是师傅给拿掉五个饺子然后改成四块四，我就刷完卡到一边吃去了，吃了一个以后突然发现今天这饺子怎么这么少啊，数了数，发现居然只有14个！原来那师傅当初饺子数目是对的，只是钱算错了，改了以后，钱对了，饺子数目不对了！-_-
+     时间是今天晚上6:15
+     去紫荆园食堂四楼排队，跟一个师傅A说要三两炒饭
+     另一个师傅B负责按钱，我接过A递来的饭，看到显示是2.5元

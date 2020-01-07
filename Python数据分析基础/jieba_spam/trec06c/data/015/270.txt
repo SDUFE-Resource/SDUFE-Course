@@ -1,0 +1,27 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <zhong@ccert.edu.cn>; Sat, 20 Aug 2005 07:44:13 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <zhong@ccert.edu.cn>; Sat, 20 Aug 2005 08:17:33 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Sat, 20 Aug 2005 07:58:32 +0800
+From: "xue" <xue@mail.nisac.gov.cn>
+Reply-To: xue@mail.nisac.gov.cn
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMq3yqvV5rXExMfDtLrD1/fDtKO/?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+       对于上面提到的那几部，尤其是张艺谋的作品，能否归为史诗类还是个问题，因为
+       这个概念实在是很模糊。我也觉得他并非出于什么“使命感”去拍这样的电影，
+       利益驱动是首当其冲的目的。
+       要说这种“使命感”，倒是文人背景的陈凯歌可能会有这样的心态，比如他眼下的
+       &lt;无极&gt;就被媒体赋上了一层所谓史诗电影的色彩。
+放心，等无极一上映，你就会发现又是一部
+有明星有投资有特技有画面有炒作的商业大制作。

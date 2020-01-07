@@ -1,0 +1,26 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <hou@ccert.edu.cn>; Wed, 28 Sep 2005 03:09:32 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 19:20:39 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 03:20:39 CST
+Date: Wed, 28 Sep 2005 03:20:39 +0800 (CST)
+From: liang ming <fu@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILGmsaayocHLo6y8scvAztLBy6Oh?=
+To: hou@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+姐姐家的宝宝前段时间就是这样，
+打退烧药下去后，过3小时又上来
+去儿童医院一周都没好
+后来去雅宝路那边的一个三甲的儿童研究所附属医院
+住院1周多才好的，也不知道是什么病，反正好啦出院
+不过费了快1万啦
+现在小孩还真费钱啊
+     我家宝宝快6岁了，最近总是发烧，吃点退烧药就下去了，不吃就又开始烧，还咳嗽，我给她吃了头孢氨苄胶囊和清热解毒口服液，可是效果并不明显，我自己一个人带着她，又不能不上班，急死了，想问问海淀区中关村附近什么医院看儿科比较合适，价钱也合理？

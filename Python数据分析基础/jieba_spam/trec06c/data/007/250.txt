@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EBDbnN008658
+	for <jin@ccert.edu.cn>; Thu, 18 Aug 2005 13:19:26 +0800 (CST)
+Received: (eyou send program); Thu, 18 Aug 2005 13:27:52 +0800
+Message-ID: <324018523.18139@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 18 Aug 2005 13:27:52 +0800
+Message-ID: <324018523.18120@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 18 Aug 2005 13:27:52 +0800
+From: lin@mail.tsinghua.edu.cn
+To: jin@ccert.edu.cn
+Cc: liao@ccert.edu.cn
+Date: Thu, 18 Aug 2005 13:27:52 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgoba6+7X70KfTpqG306HP8w==?=
+Content-Type: text/plain
+
+说的是有个年轻人，对自己少年时代的一段经历总是耿耿于怀，后悔不已，觉得现在自己和自己的朋友的遭遇都是当时没有做对造成的，总想着如果我当初不那样就好了。
+后来发现了一个日记本可以帮他回到过去，回到当初几个伙伴一起玩耍的那个场面。他看着日记本上的字开始跳动，自己就回去了，然后就按照自己的设想这样这样做，然后一觉醒来发现自己是从完全不同的一个环境醒来，过了一段时间适应了这个现状之后，找到了以前的朋友，发现更加生活现状更加不如意。于是又找到那个日记本再回去重新改变。。。
+这样折腾了好几次，每次都不如意，甚至境遇更加糟糕，他的朋友的境遇也更加糟糕。。。
+看了这个片子，感觉整个世界就是一个状态迁移自动机。状态和事件都已经设置好的自动机。一个微小的事件的触发可能改变这个自动机的状态迁移方式。
+所以每个人对自己的过去也没有必要后悔什么，也许当时选择了别的方式，虽然想象中会有更好的结果，但是势必会影响到这个状态迁移路径，可能好，也可能坏，状态迁移现在，未必就比目前的状态要好。

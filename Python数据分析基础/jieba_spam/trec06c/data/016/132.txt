@@ -1,0 +1,46 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <gao@ccert.edu.cn>; Sat, 20 Aug 2005 10:12:48 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Sat, 20 Aug 2005 10:29:14 +0800 
+Date: Sat, 20 Aug 2005 10:25:50 +0800
+From: "fu" <fu@admin.iscas.ac.cn>
+To: gao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgU0FQIFIzyrXKqdfJ0a+5y87KvLHGuA==?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+SAP Consultant 
+Job Description: 
+This position is responsible for the installation and maintenance of the SAP R/3 system. 
+1     Take part in SAP implementation and support projects as SAP developer. 
+2     Help functional consultants on customized solutions and effort estimation. 
+3     Understand function spec and develop technical spec. 
+4     Develop interfaces, transactions, data conversion, reports, on-line programs, forms/smart forms, user exits, etc using ABAP/4. 
+5     Develop ALE/EDI, IDOC, BAPI/RFC for system integration (for senior consultant). 
+6     Develop J2EE or ABAP based Business Server Pages on Web Application Server 6.20 version (for senior consultant). 
+7     Develop, mature and ensure compliance of technology standards and solutions (for project lead). 
+8     Work with other domains to establish implementation plans for changes, projects and backup and recovery. 
+9     Manage/consult on the architecture and design of hardware and software within the client(s) environment. 
+10       Map customer requirements to specifications. 
+  
+Job Requirements:              
+1.         Experience in full-cycle implementation of SAP projects. 
+2.         Experience in at least two of the following modules: FI/CO/SD/MM/PP/HR/PS/PM. 
+3.         3+ experience in SAP consulting (for senior consultant and project lead) and SAP Project Management; or 2+ years experience in SAP implementation or support project 
+4.         Experience in taking customers from a Development R/3 system through to production. 
+5.         Nice to have Experience in installation, administration and maintenance of SAP R/3, BW, APO systems; or 2+ years experience in SAP BASIS. 
+6.         Able to work under pressure 
+7.         Professional verbal and written communication skills; Strong consulting skills. 
+8.         Willing to travel. 
+9.         Bachelor Degree in computer science or related 
+Huajun.xu@hp.com or kelie.shen@hp.com 

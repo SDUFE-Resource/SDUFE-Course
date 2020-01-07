@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8JBii0m015387
+	for <hong@ccert.edu.cn>; Wed, 21 Sep 2005 20:35:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8JBuNSM005175
+	for <hong@ccert.edu.cn>; Wed, 21 Sep 2005 20:47:29 +0800 (CST)
+Message-Id: <200509191156.j8JBuNSM005175@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 21 Sep 2005 12:26:36 -0000
+From: "hong" <hong@mail.tsinghua.edu.cn>
+To: hong@ccert.edu.cn
+Cc: <zhu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrvcy087zS1PXR+bbUtP3AtKGwzba/v6GxtcSx7cPDo78=?=
+Date: Wed, 21 Sep 2005 20:47:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD54.315C4400"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW9ESMViAP3rUc6TpGavIn8JvsLVg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+找个人嫁了
+     我现在生活在一个沿海城市，已经成家，丈夫家的经济条件不错
+     我表妹在内地一个大城市中专毕业后工作了一两年，前年到我生活的城市来，觉得这里能够有更好的发展（是她自己愿意来的，她母亲也支持）。
+     我们给她找了个工作，但她并不满意，觉得工资不如想象的高，也学不到东西，单位宿舍的居住条件太差，她和她母亲都觉得我们没有尽力帮这个妹妹，否则应该有一个更好更体面的工作。现在我们又给她换了工作，但是地点离我们比较远，她又觉得我们嫌弃她，把她支开。

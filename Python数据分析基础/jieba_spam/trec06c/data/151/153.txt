@@ -1,0 +1,37 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2Dh1P009817
+	for <wang@ccert.edu.cn>; Sun, 18 Sep 2005 13:49:02 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G2ifhm004555
+	for <wang@ccert.edu.cn>; Sun, 18 Sep 2005 14:20:00 +0800
+Message-Id: <200509160244.j8G2ifhm004555@stmp.nisac.gov.cn>
+Date: Sun, 18 Sep 2005 14:00:08 +0800
+From: "lin" <lin@mail.nisac.gov.cn>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjE2yNW5pNf3vMfCvA==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+报失
+朱明儒  87449832     门卡，白色上有红色，3109字样；
+        13681031162  丢失时间：9月16日，          丢失地点：不详
+黄诗杨  13810427584  钥匙：“喜”字金属挂饰；
+                     丢失时间：9月14日，          丢失地点：清青批萨或澡堂
+朱文佳  51534504     钱包，黑色；
+                     丢失时间：9月16日上午，      丢失地点：不详
+李一鸣  51531359     书包，威豹牌黑灰色，内有钱包(银行卡,身份证），书等
+                     丢失时间：9月16日，          丢失地点：万人
+姚玲玲  62791627     文件夹，天蓝色，内有资料若干；
+                     丢失时间：不详，             丢失地点：长亭
+送交
+李同学               玉佛吊坠；
+                     捡获时间：9月16日，          捡获地点：图书馆旧管台阶
+邱羽中               餐卡；
+                     捡获时间：9月15日晚，        捡获地点：紫荆5#
+领取
+0
+  

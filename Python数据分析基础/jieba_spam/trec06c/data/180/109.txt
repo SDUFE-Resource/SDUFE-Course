@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <wang@ccert.edu.cn>; Sat, 24 Sep 2005 21:45:11 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <wang@ccert.edu.cn>; Sat, 24 Sep 2005 21:56:32 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 13:33:32 -0000
+From: "qiu" <qiu@mail.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Cc: <ren@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztK98czs0rLT0LXjuNDJyw==?=
+Date: Sat, 24 Sep 2005 21:56:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+今天接到前主管的电话,说是原来我做的项目要添加一些新的功能,做点维护工作,问我周末有没有空,让我去帮他,说是付我工资.我拒了....回想在他手下干活的那一年多,真是感慨万千,那么久的时间他对我的工作从没有一句肯定的话,每天都是无休止的斥责和不满....我所需要的认同感他从没给过...终于我提出辞职了...说好一个月的交接工作的时间...过了三个星期,他就让网管把我的帐号封了...一些代码和资料愣是没让我带走...最后闹得很是不愉快....这会倒是惦记起我来了...sigh...拒掉他的要求后,心里像是翻到了五味瓶...

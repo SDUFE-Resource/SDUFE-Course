@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J65V6j013138
+	for <ma@ccert.edu.cn>; Wed, 21 Sep 2005 09:59:21 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J61MoI086766
+	for <ma@ccert.edu.cn>; Wed, 21 Sep 2005 09:55:38 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J61Hls086762
+	for <ma@ccert.edu.cn>; Wed, 21 Sep 2005 09:55:09 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15003 invoked by uid 512); Wed, 21 Sep 2005 02:03:32 -0000
+Message-ID: <20050919060943.15002.qmail@stu.ee.tsinghua.edu.cn>
+From: xu@stu.ee.tsinghua.edu.cn
+To: ma@ccert.edu.cn
+Date: Wed, 21 Sep 2005 10:03:32 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?UmU6INX3yMuw787Sv7S/tNXiysfW0La+wcvC8KO/?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+未读邮件不是经常，只有过一次，可是明明没有看的信，怎么就没有未读标识？sohu系
+统的问题？
+qq消息我收到过别人的，关键是这是我自己给别人发的，可是我没有登陆啊。
+我发誓昨晚下班没有登陆qq，而且上来之后师妹说我8点多上线发的哪个消息，ip显示外
+地的！
+     我觉得关于邮箱没有未读邮件，很正常啊，以前经常有，现在没有很正常啊？
+     qq消息也很正常，我有时也会收到
+     qq在别处登陆的事呢有点怪，莫非你原先在别处登陆过忘记退了？

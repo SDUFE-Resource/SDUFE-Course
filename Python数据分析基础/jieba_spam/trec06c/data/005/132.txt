@@ -1,0 +1,33 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EBDbnN008658
+	for <jian@ccert.edu.cn>; Wed, 17 Aug 2005 05:56:47 +0800 (CST)
+Received: (eyou send program); Wed, 17 Aug 2005 06:05:13 +0800
+Message-ID: <324018523.18139@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 17 Aug 2005 06:05:13 +0800
+Message-ID: <324018523.18120@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 17 Aug 2005 06:05:13 +0800
+From: pan@mail.tsinghua.edu.cn
+To: jian@ccert.edu.cn
+Cc: rao@ccert.edu.cn
+Date: Wed, 17 Aug 2005 06:05:13 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1dDGuMjtvP65pLPMyqYzLTTD+w==?=
+Content-Type: text/plain
+
+电信网络通信类研发公司，待遇良好，招聘软件工程师3-4名（可以Traniee，但要求全职），要求如下：
+C/C++软件工程师2-3名：
+1.     计算机/电子/通信/数学或相关专业本科以上学历，英语4级以上； 
+2.     扎实的C/C++基础，对大型复杂软件平台开发有兴趣；
+3.     熟悉Linux开发环境，可以在Linux平台下进行复杂程序开发；
+4.     熟悉SIP协议者优先；
+5.     熟悉Linux平台下数据库开发者优先； 
+6.     具备良好的团队合作意识，工作投入，学习能力强，有良好的交流能力；  
+Java软件工程师1-2名：
+1.     计算机/电子/通信/数学或相关专业本科以上学历，英语4级以上； 
+2.     扎实的Java基础，对大型复杂软件平台开发有兴趣；
+3.     熟悉EJB、JBoss、Web Services；
+4.     熟悉Linux开发环境，可以在Linux平台下进行复杂程序开发；
+5.     熟悉SIP协议者优先；
+6.     熟悉Linux平台下数据库开发者优先； 
+7.     具备良好的团队合作意识，工作投入，学习能力强，有良好的交流能力；  
+有意者请将简历用文本正文发送至hr@goldentek.biz，请不要采用附件形式，谢谢!

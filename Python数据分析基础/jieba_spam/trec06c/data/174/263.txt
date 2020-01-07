@@ -1,0 +1,23 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Fri, 23 Sep 2005 22:23:52 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Fri, 23 Sep 2005 21:46:10 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "yi" <yi@cert.org.cn>
+To: bi@ccert.edu.cn
+CC: "guan@ccert.edu.cn" <jiang@ccert.edu.cn>,
+   "huang@ccert.edu.cn" <li@ccert.edu.cn>,
+   "ling@ccert.edu.cn" <ning@ccert.edu.cn>, "ni@ccert.edu.cn" <bai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Fri, 23 Sep 2005 22:31:37 +0800
+
+这些道理在中学就应该明白，因为都是些最基本的道理，在上大学之前已经有十几年的时间去学习
+不过我上了北大才知道，原来大家EQ的平均数并不高于同龄人
+哈哈哈哈
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。

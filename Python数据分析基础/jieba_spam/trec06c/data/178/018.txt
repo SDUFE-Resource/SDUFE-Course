@@ -1,0 +1,39 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <chen@ccert.edu.cn>; Sat, 24 Sep 2005 11:38:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <chen@ccert.edu.cn>; Sat, 24 Sep 2005 11:49:52 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 03:26:58 -0000
+From: "qiu" <qiu@mail.tsinghua.edu.cn>
+To: chen@ccert.edu.cn
+Cc: <wei@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtaXLtbeicGFwZXK1xM7KzOI=?=
+Date: Sat, 24 Sep 2005 11:49:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+前面有人说得对，即便是为发paper而发paper，只要够牛，也
+是可以的。因为这样下来，自己不做科研，也不知不觉中作了。
+我也见过有牛人写篇简单的review（虽然这种东西是需要老
+资格的人才好些的，我这么觉得，实际上那人是个博士），文
+献引用了300多。
+这么看来，能发paper与发不发paper，实在不能成为批判一个
+人学究气的发端。不过论文本来的目的就是交流之用，只是在
+评价机制不能明确的时候一种苟且的做法，才用来评价一个人
+的成就。既然如此，对于一个对论文持有批判态度的人，有些
+人也大可不必紧追不放，百般苛责。
+很多东西，在国外好好的，拿到中国来就变样，已经不可胜数。
+我们这种弱者和无能之辈，也只有随波逐流。分明用来交流用
+的paper，到这里成了拿经费评职称的招牌，更可恶的是多数
+都是垃圾充斥其中；本来是交流用的seminar，到这里常常就
+成了感情联络会，但大家都装模做样地端坐在下面听着，然后
+装模做样地提问讨论；至于会议，就更不用说了，一定是到
+风光优美，环境幽雅的处所去举办。
+我们有能做什么呢？游戏规者就是这样。

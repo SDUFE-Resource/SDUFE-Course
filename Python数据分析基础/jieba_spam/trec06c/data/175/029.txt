@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <yang@ccert.edu.cn>; Fri, 23 Sep 2005 23:16:45 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <yang@ccert.edu.cn>; Fri, 23 Sep 2005 23:28:10 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 15:05:07 -0000
+From: "ni" <ni@mail.tsinghua.edu.cn>
+To: yang@ccert.edu.cn
+Cc: <mo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Fri, 23 Sep 2005 23:27:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+知道王垠是因为Linux和LaTex，只是在板上和主页上对他有所了解
+个人以为什么地方都有优有缺，国内一样，国外也一样
+要学会更多的包容
+当然我也很支持你对自己梦想的追逐
+希望你早日实现自己的追求
+但是我觉得不能一概否定的好，毕竟清华还是有他自己特有的东西，只是需要自己去主动获取，而不能一味的怪罪他人，你没有这个权利，别人也没有这个义务
+这样不好
+     【 以下文字转载自 SJC.THU 讨论区 】
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)

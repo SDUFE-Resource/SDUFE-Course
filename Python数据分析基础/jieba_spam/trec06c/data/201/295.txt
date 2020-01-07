@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R9oOdP018957
+	for <long@ccert.edu.cn>; Thu, 29 Sep 2005 04:15:45 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8RA1dYd023981
+	for <long@ccert.edu.cn>; Thu, 29 Sep 2005 04:27:00 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 04:01:57 +0800
+Message-ID: <327813796.02359@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 04:01:57 +0800
+From: zhu@mail.tsinghua.edu.cn
+To: long@ccert.edu.cn
+Date: Thu, 29 Sep 2005 04:01:57 +0800
+Reply-To: zhu@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7SzqrKssO0vrTF5c312/M=?=
+Content-Type: text/plain
+
+在学校里面的博士们何尝不知道目前制度的弊端
+但是想想手头的工作，看看国内外的差距，抱怨或者跑到国外去能解决问题么？
+自己的问题解决了，中国的问题谁来解决呢？罗马不是一天建成的，现在的科研也不是
+一天有了灵感就能突破的，我自己搞的能源的领域就是一个例子
+     首先我想说明的是，在现有制度环境下，他的导师的作为是可以理解的，所以我不认为王垠是在攻击他的导师，到更是在批判这个科研制度。我想知道那些批评王垠的人有多少是拥护和赞成现有制度的？如果你赞成现有制度，那你批判王垠我可以理解，如果你也有与王垠同样的感觉，

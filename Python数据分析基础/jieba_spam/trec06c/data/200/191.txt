@@ -1,0 +1,24 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <sun@ccert.edu.cn>; Wed, 28 Sep 2005 22:33:22 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Wed, 28 Sep 2005 22:36:20 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 14:36:20 UT
+To: sun@ccert.edu.cn
+From: ma@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILWxza+7sLDjtcSwrsfp1MnC5C4uLi4uLg==?=
+
+跟随你的理智和道德.感情可以从头再来,但这是两条不可逾越的界.
+时间会淡忘一切,就在你念念不忘的时候,你会发现你已经忆不起他的脸.
+重新寻找一份归宿吧.有这样的心怀和柔软内心的女孩,会有很多人爱你.
+平安
+     当他远渡重洋的时候，我就有点不安，我担心我们从此就会像白天和黑夜一样永不相逢；
+     当他生日的时候，我就有些内疚，我痛恨自己不能陪他一起度过；
+     当他深夜返回宿舍的时候，我就感到心酸，我怜惜他外出求学的寂寞和不易；

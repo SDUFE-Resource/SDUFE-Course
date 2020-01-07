@@ -1,0 +1,51 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AD9Mx3029876
+	for <zheng@ccert.edu.cn>; Mon, 12 Sep 2005 17:00:50 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6dUu093533
+	for <zheng@ccert.edu.cn>; Mon, 12 Sep 2005 16:58:21 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bluebox.CS.Princeton.EDU (bluebox.CS.Princeton.EDU
+	[128.112.136.38])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6ZAN093529
+	for <zheng@ccert.edu.cn>; Mon, 12 Sep 2005 16:58:04 +0800 (CST)
+	(envelope-from wangyi@ns.6test.edu.cn)
+Received: from [140.180.169.187] (yiwang.student.Princeton.EDU
+	[140.180.169.187]) (authenticated bits=0)
+	by bluebox.CS.Princeton.EDU (8.12.11/8.12.11) with ESMTP id
+	j8ADL2a8029505
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <zheng@ccert.edu.cn>; Mon, 12 Sep 2005 05:12:31 -0400 (EDT)
+Message-ID: <4322DDBC.1080807@ns.6test.edu.cn>
+Date: Mon, 12 Sep 2005 05:12:28 -0400
+From: Yi Wang <rao@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+MIME-Version: 1.0
+To: zheng@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?vczKpr3av+zA1g==?=
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 mlx=-1
+	adultscore=0 adjust=0 reason=safe engine=3.0.0-05090301
+	definitions=3.0.0-05090911
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+Overview
+The Harvard-Smithsonian Center for Astrophysics (CfA) invites applications for the CfA Postdoctoral Fellowship 2005, which will be awarded to an outstanding researcher displaying significant promise in theory, observation, instrumentation, and/or laboratory experiments. Online applications are due by November 1, 2005. Offers will be made by December 20, 2005. For application instructions and a login to the application, please see the Application page.
+The CfA combines the resources and research facilities of the Harvard College Observatory and the Smithsonian Astrophysical Observatory under a single director. Now organized in six research divisions-Atomic and Molecular Physics; High Energy Astrophysics; Optical and Infrared Astronomy; Radio and Geoastronomy; Solar, Stellar, and Planetary Sciences; and Theoretical Astrophysics-nearly 350 Smithsonian and Harvard scientists work cooperatively in an environment that welcomes the ideas and contributions of young scientists
+The facilities include the MMT (Fred Lawrence Whipple Observatory, Arizona), Magellan (Las Campanas Observatory, Chile), and other optical and infrared telescopes; radio telescopes, especially the Submillimeter Array on Mauna Kea, Hawaii; a large Beowulf cluster and network of workstations; a number of specialized laboratories; an outstanding library system; and access to data from a wide range of space missions, especially the Chandra X-ray Observatory and the Spitzer Space Telescope.
+A list of previous CfA Fellows is available.
+Appointments for 2 years, with renewal for a third year likely , contingent upon satisfactory progress. The stipend for 2005-2006 will be approximately $50,000 with a research budget of $13,000. Funds are also provided for health benefits and relocation expenses. Only applicants who receive their Ph.d. between July 1, 2005, and September 1, 2006, will be considered for CfA Fellowship.
+The detail information are in the website: http://www.cfa.harvard.edu/postdoc/

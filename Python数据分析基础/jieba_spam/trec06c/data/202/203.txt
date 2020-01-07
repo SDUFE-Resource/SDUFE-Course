@@ -1,0 +1,18 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R9oOdP018957
+	for <hu@ccert.edu.cn>; Thu, 29 Sep 2005 07:15:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8RA1dYd023981
+	for <hu@ccert.edu.cn>; Thu, 29 Sep 2005 07:26:22 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 07:01:19 +0800
+Message-ID: <327813796.02359@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 07:01:19 +0800
+From: wua@mail.tsinghua.edu.cn
+To: hu@ccert.edu.cn
+Date: Thu, 29 Sep 2005 07:01:19 +0800
+Reply-To: wua@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgUG9zaXRpb25zIGluIFF1YW50aXRhdGl2ZSBGaW5hbmNl?=
+Content-Type: text/plain
+
+Position in Quantitative Finance 

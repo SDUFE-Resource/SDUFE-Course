@@ -1,0 +1,32 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <gong@ccert.edu.cn>; Fri, 19 Aug 2005 11:16:29 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <gong@ccert.edu.cn>; Fri, 19 Aug 2005 11:29:47 +0800 (CST)
+Date: Fri, 19 Aug 2005 11:23:52 +0800
+From: "tang" <tang@sohu.com>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyre/y83+tvuwrMThv8vLudXQxrjDwMr1yei8xsjL1LE=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+史克威尔艾尼克斯（中国）互动科技有限公司（SQUARE ENIX (CHINA) CO., LTD）于
+2005年1月在北京成立，是株式会社史克威尔艾尼克斯（SQUARE ENIX CO., LTD.）在
+中国设立的全资子公司，业务覆盖中国和亚洲其它国家及地区。史克威尔艾尼克斯（
+中国）互动科技有限公司致力于数字互动娱乐产品，包括互动娱乐软件的研发、运营
+、市场推广，以及母公司优秀产品的本地化工作。目前因业务需要，特招聘美术设计
+人员一名。
+要求：
+具有两年或以上平面美术设计经验
+可独立完成相关美术设计工作
+对印前工艺熟悉
+熟悉mac平台及windows平台
+可熟练使用photoshop、Illustrator、PageMaker等平面设计软件
+有意者请将个人简历mail to:
+nathan@square-enix.net.cn
+请在邮件标题处注明“应聘美术设计”字样，谢谢。

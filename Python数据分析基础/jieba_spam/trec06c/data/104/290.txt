@@ -1,0 +1,28 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j876ZGXw000980
+	for <ren@ccert.edu.cn>; Fri, 9 Sep 2005 03:52:21 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 2924001B7062
+	for <ren@ccert.edu.cn>; Fri, 9 Sep 2005 04:04:29 +0800 (CST)
+Date: Fri, 9 Sep 2005 04:04:28 +0800
+From: "wua" <wua@sohu.com>
+To: ren@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7mruOZdIENhcmVlciC31sf4sObW97X31fsgKNeq1Ngp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907064725.2924001B7062@sohumx06.sohu.com>
+
+【 以下文字转载自 BMManager 讨论区 】
+发信人: Menphis (Rogues Do It From Behind), 信区: BMManager
+标  题: [公告] Career 分区版主调整
+    根据 Career 分区正版主 cjmm 申请，现对分区内的版主作如下调整：
+    任命下列版面的新任版主为：
+        Career_MNC      dabenshu
+        Career_PHD      alcohol
+        Career_Servant  westcat
+        Career_POST     alcohol
+        Career_Plaza    alcohol         dabenshu
+    特此公告

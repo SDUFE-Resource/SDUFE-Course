@@ -1,0 +1,37 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <jiang@ccert.edu.cn>; Fri, 2 Sep 2005 17:04:15 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 17:07:07 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 17:07:07 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 17:07:07 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 09:00:30 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 16:52:40 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 16:52:40 +0800
+From: bi@mails.tsinghua.edu.cn
+To: jiang@ccert.edu.cn
+Cc: chen@ccert.edu.cn
+Date: Fri, 2 Sep 2005 16:52:40 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgz+DP8Q==?=
+Content-Type: text/plain
+
+在eMule上下纪录片，一些以为很少人关心的题材，却有着相当可观的连接数。
+许多人从美国，从德国，从法国，甚至很多我连国旗都认不出来的国度连线过来。
+速度很慢，多则几k，少则几十字节，而且动不动就断掉，却还是孜孜不倦。
+突然觉得很感动，不知道为什么，也许只是为彼此共同的爱好，而欣喜着吧。
+想起最近在看的韩剧，其中有句台词是：说谁与谁相像，是多么温暖的一句话。
+说话的人，从小在孤儿院长大，他说：像我们这样的人，应该最明白这句话的意思。
+一些人，能够怀着同样的梦，做着同样的事，说着同样的话，真的是很幸福的事情。
+漫漫长路，总会有疲惫的时候，想想还有人与自己同行，是不是也能轻松一点呢。
+想起也曾有不止一个人说过我们很像，然而，其实，到底还是不像或者不够像吧。
+我能够容忍你身上的差异，却不可能去模仿，而你，则根本不能容忍我身上的差异。
+我能够接受你的冷漠，转过身去不再看你，而你，甚至吝于给我一个最起码的善终。
+正如一个姐姐对我说过的，无情就是无情。我要像你的无情，也只能像你的无情。

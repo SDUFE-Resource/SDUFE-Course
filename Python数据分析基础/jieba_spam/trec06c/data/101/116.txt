@@ -1,0 +1,27 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <zhao@ccert.edu.cn>; Thu, 8 Sep 2005 10:06:05 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <zhao@ccert.edu.cn>; Thu, 8 Sep 2005 10:18:22 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "he" <he@126.com>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyc/O57G7bm9raWG+3cHLo6zXo7rYo6E=?=
+Date: Thu, 8 Sep 2005 10:18:14 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+Hi, Thank you for the application. However, I have to say sorry to you beca
+use one of the main objective for post-docs in Nokia is to make publications
+ and invention reports, in English. Based on your publication list, I didn\'t
+ see the needed competences. You do have an long list of publications, unfor
+tunately I haven\'t found top journals or international conferences in this a
+rea. Wish you fin

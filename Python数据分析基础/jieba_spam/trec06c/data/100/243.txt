@@ -1,0 +1,31 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j874iPdV032722
+	for <gu@ccert.edu.cn>; Thu, 8 Sep 2005 06:53:26 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by smtp119.sohu.com (Postfix) with ESMTP id 84D5F0526C87
+	for <gu@ccert.edu.cn>; Thu, 8 Sep 2005 07:05:28 +0800 (CST)
+Date: Thu, 8 Sep 2005 07:05:37 +0800
+From: "wua" <wua@sohu.com>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+W7qrTz0adJQ7+o0afJ+takvLDWvdbG0afJ+tak1dDB7MP7taV6eg==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907045627.84D5F0526C87@smtp119.sohu.com>
+
+发信人: ttlzz (秋&amp;天), 信区: THUInfo
+标  题: IC卡学生证及纸制学生证招领名单
+本科生
+2004010048 彭 琳 （IC卡在注册中心，请到清华学堂1112房间领取。）
+研究生
+2003219214 李可巍 （IC卡在注册中心，请到清华学堂1112房间领取。）
+2003214838 张 立 （IC卡在注册中心，请到清华学堂1112房间领取。）
+2001315453 李登高 (红皮学生证在注册中心,请到清华学堂1112房间领取。)
+2003214854 王 欢 (蓝皮学生证在注册中心,请到清华学堂1112房间领取。)
+2001315632 葛 俊 (红皮学生证在注册中心,请到清华学堂1112房间领取。)
+2005212018 张艳霞 （IC卡在注册中心，请到清华学堂1112房间领取。）
+2004310855 郑法伟 (IC卡在注册中心，请到清华学堂1112房间领取。）
+2003315853 王 恒 (IC卡在注册中心，请到清华学堂1112房间领取。）
+2004212106 王 静 (IC卡在注册中心，请到清华学堂1112房间领取。）

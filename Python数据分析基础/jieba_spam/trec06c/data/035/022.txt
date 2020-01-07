@@ -1,0 +1,45 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <lin@ccert.edu.cn>; Wed, 24 Aug 2005 20:22:50 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 20:35:57 +0800 (CST)
+Date: Wed, 24 Aug 2005 20:29:43 +0800
+From: "yan" <yan@sohu.com>
+To: lin@ccert.edu.cn
+Cc: "yxl" <kang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgc3lnYXRl1dDGuLLiytS5pLPMyqY=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+公司网址：china.sygate.com
+公司简介：
+    Sygate技术公司（Sygate Technologies, Inc.）成立于1995年，总部位于美国硅
+谷，在美国纽约、亚特兰大、达拉斯、奥斯丁、华盛顿特区、芝加哥、底特律、凤凰
+城、洛杉矶、新泽西、英国伦敦、法国巴黎、德国柏林、中国等地设有分支机构。
+　　Sygate技术公司是网络端点保护与安全策略强制市场的领导厂商。世界上很多领域
+的领导企业和不少国家的政府机构都在使用Sygate的安全策略管理和保证方案来保护他
+们的网络，贯彻业务政策，并自动化网络安全管理流程，从而实现对所有网络端点的严
+格控制，降低管理成本，减轻IT部门工作负担和确保所有员工对企业安全规范的遵守。
+　　根据Frost &amp; Sullivan的调查，Sygate技术公司目前在网络端点保护与安全策略强
+制市场占有近2/3的市场份额。Frost&amp; Sullivan还预测Sygate在未来的几年里将继续领
+导该市场的发展。最新的Gartner研究报告则进一步指出Sygate在该领域无论是从对技
+术和市场需求的预见来说,还是从执行和交付的能力来说都是市场的绝对领导者。Red
+Herring更是把Sygate评选为最具有潜力的100家公司之一。
+职位：测试工程师
+要求：
+1. 大学本科以上学历，计算机或相关专业毕业
+2. 对测试工作有兴趣或有两年以上相关经验，熟悉企业级软件测试流程
+3. 熟悉TCP/IP协议，了解网络安全设备工作原理及配置，熟悉各类交换机更佳
+4. 熟悉网络应用、网络安全技术，具有网络安全产品测试经验更佳
+5. 熟悉Linux系统或windows系统，有系统底层开发经验更佳
+6. 熟悉SQL Server或Oracle数据库，有过相关编程经验更佳
+7. 良好沟通能力，英语能力，能够熟练撰写、阅读英文文档，口语好更佳
+工作地点：北京
+薪资：面议
+有意者请将个人简历发往 sygatehr@china.sygate.com, 标题请使用如下格式：
+&lt;您的姓名&gt;应聘测试工程师

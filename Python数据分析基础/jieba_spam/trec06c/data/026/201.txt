@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <cai@ccert.edu.cn>; Mon, 22 Aug 2005 16:06:19 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <cai@ccert.edu.cn>; Mon, 22 Aug 2005 16:19:33 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 15:48:14 +0800
+Date: Mon, 22 Aug 2005 16:19:24 +0800
+From: "gao" <gao@wnt.com.cn>
+To: cai@ccert.edu.cn
+Cc: "lic" <bi@ccert.edu.cn>, "sunt" <xue@ccert.edu.cn>, "caoy" <he@ccert.edu.cn>,
+        "wangb" <zhan@ccert.edu.cn>, "songhm" <huang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgt+e78MGss8c9wfW7qse/IQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+用一下午看完了《七剑》，最大的感觉就是风火连城明明就是《征服》里刘华强的翻版
+不但孙红雷把两人塑造得差不多，而且结局也差不多，无论坏人再怎么厉害，一旦遇到我英勇神武的公安干警（七剑），都是连反抗的能力都没有，真是够搞的：）
+还有陆毅和杨采妮，也不知道他们的武功何以突然间就变得厉害了，难道就是因为有了舍神和天瀑吗？只听说过高手可以把普通兵器变成神兵利器，还没听说过一把好剑就可以让一个武功平平的人成为高手

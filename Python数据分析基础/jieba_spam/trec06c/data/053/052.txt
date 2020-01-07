@@ -1,0 +1,20 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <gan@ccert.edu.cn>; Sun, 28 Aug 2005 22:54:39 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 23:05:12 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sun, 28 Aug 2005 23:05:12 +0800
+From: "hou" <hou@ctbu.edu.cn>
+To: gan@ccert.edu.cn
+Date: Sun, 28 Aug 2005 23:05:12 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "hou" <hou@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILT3xLfA1S2/y8Czy7nA1UFNQVDD5srUvq25/aOoNC3Pws7no6k=?=
+Content-Type: text/plain
+
+真无聊
+     下午部分-__-
+     teamwork: 给好多工具，搭个东西，需要经历桌子一头到另一头，延迟2秒，发出一个声音信号。要做出两个方案。
+     这里就是看大家表现了。我一开始提出两个发声方案，一个被采纳一个被忽视了，我自己也没坚持。第一个方案成功后，大家开始投入大量精力在搭建多米诺骨牌上，我觉得可以采用其他方式，发声方案也可以从多米诺骨牌撞铃铛改为球撞玻璃瓶，或者换个大小更合适的球。可惜没有

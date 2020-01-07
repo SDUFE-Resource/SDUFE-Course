@@ -1,0 +1,31 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2Qvx5029940
+	for <feng@ccert.edu.cn>; Sun, 21 Aug 2005 14:42:59 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A377.00010B.12784@m52.126.com>
+Date: Sun, 21 Aug 2005 14:55:42 +0800 (CST)
+From: "wang" <wang@126.com>
+To: feng@ccert.edu.cn
+Bcc: "xjhxf@263.net" <xjhxf@263.net>,"jmwhxf@sina.com" <jmwhxf@sina.com>
+Subject: =?gb2312?B?ofEgvdPIy8b4zsos1eK49rmry77IpbXEu7As1PXDtNH5Pw==?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_bOPJtnjNRxiIvorDRthwNKQyQThj"
+
+如下:
+===============================================================================
+职位：Linux 研发工程师 （2名） 
+要求：
+* 大学本科以上学力，计算机相关专业毕业； 沟通能力强，有团队合作精神； 能够熟练阅读英文手册及书写文档。
+1、2年以上Linux下C/C++语言开发经验, 其中有1年以上安全产品经验，FIREWALL，SSL VPN等 
+2、熟悉互联网协议，熟悉TCP/IP协议, 熟悉网络结构； 
+3、精通SSL/TLS协议；
+4、熟悉 UNIX/Linux/BSD操作系统； 
+5、熟悉Radius，LDAP协议； 
+6、熟悉XML
+7、有相关项目的开发经验，担任过项目负责人优先；
+===============================================================================
+问题:
+1,我23岁,以前没有接触过网络安全的东西,有前途吗?发展空间如何?
+2,3个月的适用期,没有各种保险.正式之后也没有公积金.这个怎么处理好?如果确实没有,值得吗?

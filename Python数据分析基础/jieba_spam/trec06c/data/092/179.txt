@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83Navcu007784
+	for <you@ccert.edu.cn>; Tue, 6 Sep 2005 12:24:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83NnJli001115
+	for <you@ccert.edu.cn>; Tue, 6 Sep 2005 12:36:26 +0800 (CST)
+Message-Id: <200509032349.j83NnJli001115@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 6 Sep 2005 04:23:43 -0000
+From: "xie" <xie@mail.tsinghua.edu.cn>
+To: you@ccert.edu.cn
+Cc: <ke@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0aHU8Q==?=
+Date: Tue, 6 Sep 2005 12:36:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B125.2476A9F0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWw4hYhpZKPpUbwSle4S7/Xq9uNDg==
+
+又到了一个选择的季节，
+其实选择一直都在进行中，是不过有些时候打着顺其自然的名号随波逐流的被生活推向一个选择，有时候站在风口浪尖上面对拍岸的惊涛自己强力推自己一把。
+大四的ddmm们又在为了推研还是出国的事情奔波，而我，推研后无非是将选择的时间推后了几年而已。权衡利弊，思来想去，工作？出国？转行？自己喜欢做什么？自己要的是什么？问了自己无数遍的问题至今给不出一个完全确定的答案。每次想起都觉得痛苦万分，然而却要时不时的思考，一边思考一边抉择。
+生活就是这样，既甜蜜又残酷，前途是光明的，道路是曲折的。想最快速度成功，就盯住一个目标不放，不论做什么选择都向这个方向努力就可以了；想体验丰富的人生，则要遍历各种各样的经历。自认为不是在学术中沉醉怡然自乐的人，便要面对这样尴尬的境地，选择那一条路？人生只有一次。于是又回到那个古老的问题：你要的是什么？如果两方面要放弃一个方面的话，你偏向于放弃哪一个？我只是想happy的过每一天而已，有这么复杂吗？

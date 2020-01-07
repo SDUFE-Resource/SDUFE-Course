@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <kong@ccert.edu.cn>; Sun, 25 Sep 2005 03:27:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <kong@ccert.edu.cn>; Sun, 25 Sep 2005 03:39:10 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 19:16:16 -0000
+From: "gan" <gan@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: <hong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEguPTBy8G9uPbUwqOs1tXT2rDRoba9zLi4M6G3v7TN6sHL?=
+Date: Sun, 25 Sep 2005 03:38:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+两个月前，连续看完了教父1，2
+第三部只看了一半，中间因故耽误了下来
+今天晚上，终于看完了
+片尾复仇的那一段还是和前两部的手法一样
+只是，麦克抱着血泊中的玛丽，翩翩起舞的往日又一幕幕再现
+他和年轻的玛丽在慈善晚会上，年轻的麦克在西西里与年轻姑娘的婚礼上，麦克与凯在舞会上……
+看到这里，不由得想起《天堂电影院》里最后的那一幕，多多一个人坐在放映厅里，看着那一卷又各种各样接吻镜头剪辑成的胶片，眼睛渐渐就模糊了
+是时间滑过的痕迹
+往事种种，似水无痕
+剧终时，老麦克一个人在镜头的一角，猝然倒下
+真的是这样吧，“老兵不会死去，只会默默消逝”

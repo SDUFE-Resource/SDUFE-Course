@@ -1,0 +1,18 @@
+Received: from nankai.edu.cn (sun.nankai.edu.cn [202.113.16.21])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N7Br6G015829
+	for <kang@ccert.edu.cn>; Sat, 24 Sep 2005 03:35:27 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 03:52:20 +0800
+Message-ID: <327460528.07655@nankai.edu.cn>
+Received: from 222.30.48.129 by 202.113.16.21 with HTTP; Sat, 24 Sep 2005 03:52:20 +0800
+From: "pan" <pan@nankai.edu.cn>
+To: kang@ccert.edu.cn
+Date: Sat, 24 Sep 2005 03:52:20 +0800
+Reply-To: "pan" <pan@nankai.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Content-Type: text/plain
+
+HOHO，看来小王戳痛某些人的神经了。个人觉得，大部分做过科研的人会对王垠的感受有共鸣。这倒怪不得他老板。。。。。。
+     我和他曾经一个教研室过。
+     说实在话，我们都佩服王垠，能对计算机“专业”这么有热情，我们都希望他能够有很好的发展。
+     但是我们看到今天的王垠已经不是单纯的玩着linux向我们演示他的bbs机器人的程序能人了。他成了一个符号，一个象征，在一些人眼中成了有理想，有追求的偶像了！

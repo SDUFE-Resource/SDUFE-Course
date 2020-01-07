@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <ye@ccert.edu.cn>; Sat, 24 Sep 2005 23:44:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <ye@ccert.edu.cn>; Sat, 24 Sep 2005 23:56:22 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 15:33:54 -0000
+From: "mei" <mei@mail.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Cc: <xin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sat, 24 Sep 2005 23:56:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+  一句话：人格不健全。
+  这个社会有它自己的客观规律，要想在这个社会上生存乃至有所成就，就必须把握它的规律，在这个基础之上再发挥自己的创造力，换句话说，你必须有能力来适应环境，而不是总想着找一个理想中的环境来适应自己。那样的理想世界是不存在的。
+  真正强悍的人应该有很强的适应能力，即使在恶劣的环境中也能破茧而出，因为他能会不断地总结这个规律来实现自己的目标。如果从很小的时候就想做牛顿，那么就应该从小就认真思考这条路究竟应该怎么走，那很快就该发现中国的大环境根本培养不出牛顿来，那怎么办？或者调整自己的梦想，或者继续思考这条路该怎么走，既然中国的条件不好，那就去美国，可是一个普通家庭的孩子要想出国尤其是出国做学问大概靠真本事来考了，相对来说，清华北大中科大的学生出国容易些，从这些学校毕业后再去普林斯顿、MIT，在那里应该会得到这个世界上第一流的教育，完成这些之后，可以说基本上就算是一个科学家了，至于能不能成为牛顿就要看个人了。可以看出，即使出生在中国最偏远落后的地区，也一样有机会成为牛顿。如果这样也走不通的话，那就只能证明，成为牛顿这个梦想是不切实际的，是违背这个世界的客观规律的，应该及时调整自己的目标。所以说，真正让你无法实现梦想的不是这个环境，而是你自己，总用自己臆想中的是非准则来代替这个社会的客观规律，你怎么可能成功呢？生活中的强者要能发现规律、掌握规律，进而利用规律，这样才能成为规律的主人，而不是规律面前的失败者。
+  与其毫无用处埋怨环境，不如踏踏实实地想想该怎么向自己的目标一步步地迈进。
+  
+  
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)
+     发信站: 水木社区 (Fri Sep 23 12:00:32 2005)

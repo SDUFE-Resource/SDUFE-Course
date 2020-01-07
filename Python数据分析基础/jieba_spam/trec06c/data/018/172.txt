@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <lin@ccert.edu.cn>; Sat, 20 Aug 2005 20:12:44 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <lin@ccert.edu.cn>; Sat, 20 Aug 2005 20:25:58 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sat, 20 Aug 2005 19:54:39 +0800
+Date: Sat, 20 Aug 2005 20:25:49 +0800
+From: "zeng" <zeng@wnt.com.cn>
+To: lin@ccert.edu.cn
+Cc: "lic" <ke@ccert.edu.cn>, "sunt" <weng@ccert.edu.cn>, "caoy" <lai@ccert.edu.cn>,
+        "wangb" <jiang@ccert.edu.cn>, "songhm" <lu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INe8sbizycGiSUO5q8u+o6zV2dPQ1r7Wrsq/?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+通常是先拉到项目(俗称钱)才开始拉人
+有了项目自然会有人
+     你好，我是一名有着5年工作经验的IC工程师，曾在一家大公司做，因此对于IC得整个设计流程熟悉，而且积累了相当多的IP库，也做了大量高性能芯片的研发设计。根据我的了解目前我国现在IC设计仍然处于低水平状态，很难有做到高性能芯片的公司，大家知道，集成电路设计水平

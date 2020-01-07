@@ -1,0 +1,69 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <zheng@ccert.edu.cn>; Sat, 27 Aug 2005 03:05:34 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 03:13:04 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 27 Aug 2005 03:13:04 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sat, 27 Aug 2005 03:13:04 +0800
+From: gan@mail.tsinghua.edu.cn
+To: zheng@ccert.edu.cn
+Cc: hua@ccert.edu.cn
+Date: Sat, 27 Aug 2005 03:13:04 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg0MTH6bK7usMty7PK1tTZzPm49tawzrujrM34wuewssirtcQ=?=
+Content-Type: text/plain
+
+公司介绍和职位描述原文如下：
+摘要：
+工作三年以上，做C/C++，unix平台，熟TCP/IP，从事网络安全相关工作，英文口语能交流。
+别的不说了，看JD吧。
+Job Title : FAE ( Field Application Engineer )
+Company :
+Sensory Networks ( http://www.sensorynetworks.com ) is a leading venture backed
+developer of high performance embedded network security products. HQ based in Palo
+Alto CA, USA. With R&amp;D located in Sydney, Australia, the company is developing the
+industry\'s first high-throughput, high accuracy, embedded security platform for
+communications equipment. The NodalCore&amp;#8482; platform is built around the company\'s
+proprietary security technology, which embeds a suite of security primitives into network
+silicon for identifying, analyzing and preventing network threats at true network speeds
+Job Responsibilities:
+Work with sales team members and OEM customers to facilitate sales in China, or Asia Pacific.
+Responsible for:
+. Providing pre-sales consulting,
+. Project implementation, code integrations, troubleshooting at customer sites,
+. Customization and contracting,
+. Product presentations/demonstrations/training,
+. Field tests and bug reports,
+. Produce technical papers to enhance customer’s experience of our products and technologies,
+. Maintain sales tools, feed field data into datasheets, demonstrations and benchmarks.
+The successful applicant MUST have the following qualifications:
+. Strong C and C++ language skills in a LINUX environment, with Five+ years of commercial
+experience,
+. Strong understanding of network security system applications like intrusion detection, spam
+filtering, anti-virus, and firewalling highly desirable,
+. Independent and highly motivated,
+. BSCS / BSEE degree with honours with minimum of 5 years direct industry experience,
+. Major accounts experience and strong presentation skills.
+. Fluent Mandarin / English ability (reading , writing, listening and speaking ) .
+. Must be able to travel,
+. The job position will be based in Beijing, China
+Desired Skills and Experience:
+. Fluent in English and Mandarin ,
+. Project management skills,
+. Strong Communication and Presentation skills,
+. Comfortable with working in a startup environment,
+. Excellent algorithmic and programming skills, these skills will be challenged by
+programming tasks,
+. Linux kernel development,
+. TCP/IP networking experience (such as Ethernet, routing, and packet filtering ),
+. Firewall/Proxy Product(s),
+. Protocols Analyzer Tools,
+. Systems, Data Security, Network Security and secure programming practices,
+. Internet technologies, HTTP, HTML, SSL, S/MIME.
+Salary and Benefit :
+competitive salary, participation in the employee stock program and other attractive
+benefits.
+任意方式联系我：msn：viwinxw@hotmail.com
+mail:vxu@tonykeith.com
+tel:85808080-135

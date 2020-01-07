@@ -1,0 +1,23 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <sun@ccert.edu.cn>; Fri, 26 Aug 2005 04:32:05 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 04:50:25 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 04:50:25 +0800
+Date: Fri, 26 Aug 2005 04:50:25 +0800
+From: zhu@cernet.com
+Subject: =?gb2312?B?UmU6IM/ruPjO0rDW1dK49tbQ0ae9zMqmtcS5pNf3?=
+To: sun@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+看看招聘网站，上面有许多招聘信息，尤其是民办学校的信息。带鱼可能还不错呢。
+     我爸是六十年代数学专业本科毕业一直教数学，现在退休了还返聘已经连续带了很多年高三了，下个学期还带高三。 我不想他这么累，现在他熬到这种资历应该可以轻松一点了，结果他忙啊忙啊的也不闲着， 真是郁闷，不知哪里有轻松点的合适工作给他， 平时就不用总是作题了。
+     我很想让他歇歇，有时间爬爬香山啥的， 可是他就喜欢工作，我都郁闷死了，跟我换换多好啊。

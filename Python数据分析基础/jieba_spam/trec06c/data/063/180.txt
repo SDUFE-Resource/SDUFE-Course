@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <chi@ccert.edu.cn>; Thu, 1 Sep 2005 08:57:35 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 09:00:27 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 09:00:27 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 09:00:27 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 00:53:50 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 08:46:00 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 08:46:00 +0800
+From: zeng@mails.tsinghua.edu.cn
+To: chi@ccert.edu.cn
+Cc: kang@ccert.edu.cn
+Date: Thu, 1 Sep 2005 08:46:00 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILDmyc/T0Lbgydltbbj6ztLSu9H5sKE=?=
+Content-Type: text/plain
+
+任务很容易完成的，mm别怕，再三五年就搞定了。
+     我也哭,可是不会梆梆响.枕头湿了什么的就是再平常不过的事了.就是晚上躺在床上想到一些事的时候眼泪会自己落下来.
+     也有挺长段时间了,以前是觉得总也找不到自己想找的人,并且以后也不会找到的.
+     就算有好的也会是错过错过错过.以前想的是精神恋爱,觉得只要有个人在心里精神上关心自己就好了,现在想想觉得太不现实了,这样想的时候难免觉得难过.

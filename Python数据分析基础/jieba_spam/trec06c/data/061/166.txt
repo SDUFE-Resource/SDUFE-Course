@@ -1,0 +1,39 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <gu@ccert.edu.cn>; Wed, 31 Aug 2005 12:23:29 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 12:26:21 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 12:26:21 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 12:26:21 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 04:19:44 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 12:11:54 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 12:11:54 +0800
+From: kong@mails.tsinghua.edu.cn
+To: gu@ccert.edu.cn
+Cc: zhou@ccert.edu.cn
+Date: Wed, 31 Aug 2005 12:11:54 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILbBsqnSu8C0tdrSu7TO1ebV/dDEt7M=?=
+Content-Type: text/plain
+
+ 编程序的确是一件痛苦的事情，编程序本来应该是高中生完成的事情，可是现在却要博
+士研究生自己动手，模式就存在问题。大环境改变不了
+说小问题吧。喝如果你就变成不敏感，还是提早放弃。这个我是见过很多先例的，拖到最
+后很痛苦的。  不过我也见过一个硕士男，在软件公司干了半年才对变成突然开窍了。使
+用期三个月的时候，几乎就迟退了，你自己会不会突然就对变成得心应手的了，你有你自
+己才会知道。
+最后的建议：博士既然读了，还是要坚持拿到学位。否则，会在你以后的发展的过程中造
+成一遇到困难就放弃的这样的困境，而且每次都可能给自己找到一个理由。学位一定要拿
+，放在家里垫床腿就好了。
+如果你特牛如gate，可以退学。
+     硕博连读，今天开学就博2了，虽然本科硕士成绩优秀，但愈发现学习和科研风牛马不
+     相及！！！！不喜欢编程，我想主要是我保研后就只顾着玩了，落的太多，该学的super 
+     多，感觉没有补救了：（  熟悉的同学们马上明年就毕业了，不知自己到时能不能挺下来
+     ，我编程能力很差！

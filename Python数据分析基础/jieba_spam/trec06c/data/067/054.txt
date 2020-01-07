@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <tian@ccert.edu.cn>; Thu, 1 Sep 2005 20:59:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <tian@ccert.edu.cn>; Thu, 1 Sep 2005 21:11:55 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 21:01:34 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 21:01:34 +0800
+From: yan@mail.tsinghua.edu.cn
+To: tian@ccert.edu.cn
+Date: Thu, 1 Sep 2005 21:01:34 +0800
+Reply-To: yan@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjjUwjMxyNW5pNf3vMfCvA==?=
+Content-Type: text/plain
+
+报失：
+张洋    62775824      书包：黑色单肩，内有棕色钱包(研究生证，身份证，银行卡)；
+                      丢失时间：8-30晚上；丢失地点：10#东棚
+邓澍军  13811847669   雨伞：绿色，丝状边；丢失地点：五教
+宋玉栋  13521451797   钥匙：四把房门钥匙，一把车锁钥匙，两把小钥匙，一个指甲刀;
+                      丢失时间：8-31上午8:30左右；丢失地点：十食堂附近  
+王鹏    62780007-801  钱包：黑色，内有餐卡两张；
+                      丢失时间：8-30晚
+孙娅楠  13810718258   钱包：红色条纹布质钱包，内有学生证（生物系），身份证等；
+                      丢失时间：8-31，14:30；丢失地点：主楼二楼
+送交：
+好心人     计算器   
+领取：
+韩松       计算器

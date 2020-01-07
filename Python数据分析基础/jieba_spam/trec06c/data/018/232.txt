@@ -1,0 +1,20 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <tu@ccert.edu.cn>; Sat, 20 Aug 2005 21:05:51 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <tu@ccert.edu.cn>; Sat, 20 Aug 2005 21:18:55 +0800 (CST)
+Date: Sat, 20 Aug 2005 21:13:12 +0800
+From: "wei" <wei@sohu.com>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQw7vT0LbUd29yZMrsz6S1xEdHwLS/tNK7z8Kjvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+不好意思啊，其实这个估计很多人都不会，我也不会。但我知道应该是有办法的，应该好像是紫光的扫描仪，就可以直接转换为文本格式，而扫描仪肯定是先扫描得到图像，再利用软件转换为文本大，所以你试试看安装一个扫描仪驱动程序，看里面有没有这个功能。
+     我就知道，贴上来果然会被笑，汗啊，
+     呵呵，8要紧，我皮厚……
+     我在网上看见有人可以转成正常的可编辑word文档，但是我想要的部分还不全，问题就是，不是这么一点……

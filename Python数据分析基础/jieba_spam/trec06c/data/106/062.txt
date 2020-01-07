@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j888M6Jx010719
+	for <bai@ccert.edu.cn>; Fri, 9 Sep 2005 10:43:47 +0800 (CST)
+Received: from cernet27fd8164 ([211.68.120.195])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMH00NKBPDV0F@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 9 Sep 2005 11:01:11 +0800 (CST)
+Date: Fri, 9 Sep 2005 10:56:03 +0800
+From: noc-serv <ni@cernet.com>
+Subject: =?gb2312?B?UmU6ILnY09q199X7sqnKv8n6tbzKprv5vfC3orfFsOy3qNPQudjOyszitcTNqNaq?=
+To: bai@ccert.edu.cn
+Cc: liao@ccert.edu.cn
+Message-id: <047d01c5b450$1df5d280$c37844d3@cernet27fd8164>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+
+硕士生的咋办？
+是不是说以后一年1000的那个钱就没有了？如果你老板不给的话
+     各相关单位：
+     我校博士生导师基金（以下简称博导基金）自1999年设立，学校按额度下发给博士生导师，由导师根据博士生的学术表现及业绩，作为其生活补贴按月发放。博导基金发放几年来，对我校吸引优秀生源、确保博士生基本生活水平起到重要作用。随着我校博士生培养规模不断扩大，博士
+     一、允许参加课题研究工作的博士生的生活补贴从其导师所支配的课题经费中列支，学校不再额外发放博导基金。

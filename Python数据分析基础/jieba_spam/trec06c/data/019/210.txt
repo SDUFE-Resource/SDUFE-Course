@@ -1,0 +1,19 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2Qvx5029940
+	for <tu@ccert.edu.cn>; Sun, 21 Aug 2005 01:27:50 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A377.00010B.12784@m52.126.com>
+Date: Sun, 21 Aug 2005 01:40:33 +0800 (CST)
+From: "sun" <sun@126.com>
+To: tu@ccert.edu.cn
+Bcc: "xjhxf@263.net" <xjhxf@263.net>,"jmwhxf@sina.com" <jmwhxf@sina.com>
+Subject: =?gb2312?B?ofEgU1VOKENoaW5hKSBFUkkgUmVjcnVpdGluZw==?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_bOPJtnjNRxiIvorDRthwNKQyQThj"
+
+Are you interested in working in Sun?
+If you are skilled in C/C++/Java and Solaris/Unix/Database/Kernel..., if you believe you are always at your computer and happiest at coding... please join in Sun!
+Sun China Engineer and Research Institite is waiting for your application with huge number openings. .. things like that. Then, we can direct them to go to www.sun.com.cn for details employement information and submit their resume to resumes@prc.com.cn.
+Thank you.

@@ -1,0 +1,27 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <kang@ccert.edu.cn>; Wed, 28 Sep 2005 05:54:50 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 22:05:57 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 06:05:57 CST
+Date: Wed, 28 Sep 2005 06:05:57 +0800 (CST)
+From: liang ming <hu@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INXkz6fT67WtyLs=?=
+To: kang@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+感觉平淡其实很难求的
+天天热情似火，你是很幸福，说实话很累得（指男生）
+就算你是他的最爱，但毕竟这个社会男生要面对的东西太多了
+你可以把他当作你的全部，但他不能，至少为了你们
+他也要去奋斗呀
+还是努力去体会那份平淡吧
+     一段感情还在继续着，用一句歌词形容最恰当不过“痛并快乐着”。
+     在一本杂志上看到这样一句话：“爱是男人感情的停留，是女人感情的开始”。
+     当我开始了我的感情时，我却发现他的热情似乎在一点点冷却。

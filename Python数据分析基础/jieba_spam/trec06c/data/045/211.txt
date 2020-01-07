@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <rao@ccert.edu.cn>; Fri, 26 Aug 2005 21:58:54 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 22:06:24 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 22:06:24 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 22:06:24 +0800
+From: yana@mail.tsinghua.edu.cn
+To: rao@ccert.edu.cn
+Cc: shen@ccert.edu.cn
+Date: Fri, 26 Aug 2005 22:06:24 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IEpBVkG1xLTzxaO2vNTaxMTA7y4uLi4uLg==?=
+Content-Type: text/plain
+
+不是跟你发火，就是郁闷。
+说真的，因为career认识的有好多现在都成了朋友，但是也有很多让我特郁闷的人。
+有的在msn上加了我，然后问了很多，最后说，哦，就是某某公司阿，我特熟，不用你了，我自己去找人给我投简历。
+还有的，在msn跟我说，你给我讲讲这个公司，不合适又说你再给我讲讲其他职位，最后说还有什么职位，你都给我讲讲，讲啊讲的一个多小时，我就说，要不你告诉我你的一些信息，我也好知道你现在的技术方向和资历什么的，我连你是干什么的都不知道也不好给你找合适的，他一听，反过来告诉我“我的个人信息怎么能跟你说呢？”然后就再也没有消息了。
+还有好多类似的，有的似乎就是拿我找乐而已，还有一些脾气不好的，我说可能客户公司那边觉得您不是很合适，就不高兴的似乎要骂我了。
+这两天一直都很郁闷。真的很想让大家都满意，但是太难了。
+     我就是转述一个人的话而已 ：P
+     mm不用这么较真。赫赫。
+     我目前没有跳槽打算。“等到我去sun”，就是个废话的假设了

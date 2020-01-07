@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <shen@ccert.edu.cn>; Sun, 25 Sep 2005 21:40:26 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <shen@ccert.edu.cn>; Sun, 25 Sep 2005 21:51:47 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 13:28:47 -0000
+From: "guan" <guan@mail.tsinghua.edu.cn>
+To: shen@ccert.edu.cn
+Cc: <xin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sun, 25 Sep 2005 21:51:37 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+我是清华代培的学生。刚进校的时候我也对清华抱有很高的期望，当时确实觉得很多事情让我失望。然而在这里两年多了，我觉得清华的所有人没有把我们当外人，我在各种活动、学业中找到了自己，并且还在坚持自己的梦想。我和我的同学们都感激清华。积极适应吧，我觉得清华还是给人提供了很大的空间的，关键是自己要学会利用。
+     赞一下
+     如果是真的,可见原作者是一个有理想有想法的人

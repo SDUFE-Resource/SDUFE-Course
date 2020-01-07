@@ -1,0 +1,33 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <tu@ccert.edu.cn>; Tue, 27 Sep 2005 07:36:42 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 23:47:36 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 23:47:36 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <tu@ccert.edu.cn>; Mon, 26 Sep 2005 16:58:43 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <tu@ccert.edu.cn>; Mon, 26 Sep 2005 18:55:09 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 07:47:24 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <wang@motorola.com>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCu0ru49sjLusPE0Q==?=
+Date: Tue, 27 Sep 2005 07:46:59 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+发错地了
+     我和他认识四年多，他是我的初恋，但我不是他的初恋，上周，他的初恋女友来找他，说想和他重新开始。
+     他开始陷入了艰难的抉择，他说他很爱他，但觉得对不起我，我觉得既然他们那么真心相爱，我应该退出，乘全这段美好的爱情，我和他说分手，他说舍不得我,他和那个女孩说把爱情埋藏在心里，可是那个女孩说会等他一辈子。
+     看了他给那个女孩写得分手信，感觉自己像个罪人，可是这件事从头到尾我都是无辜的，

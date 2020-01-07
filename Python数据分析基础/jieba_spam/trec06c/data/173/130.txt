@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <bi@ccert.edu.cn>; Fri, 23 Sep 2005 15:51:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <bi@ccert.edu.cn>; Fri, 23 Sep 2005 16:02:33 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 07:39:39 -0000
+From: "xing" <xing@mail.tsinghua.edu.cn>
+To: bi@ccert.edu.cn
+Cc: <hong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILClo6zAz8bFyse5+s3iwfTRp7vYwLS1xKOsv8nKx8i0srvPo837uPrO0rP2ufrJ+rvuoaM=?=
+Date: Fri, 23 Sep 2005 16:02:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+既然你现在都没有具体的计划，何必老拿出来说让大家都郁闷呢？她今天不想再出去以后
+说不定就又会想去了；你现在老长远长远的，以后就规划外了也不一定. 再说了，也要
+看你老婆念书的时候是在哪个国家，以后你定居又想去哪里，哪能一个"国外"就都概括了，
+国家和国家差别大了.
+     虽然我现在还没有具体的出国计划，但长远来看，有这样的规划，每次跟老婆探讨这件事的时候，她都不愿意跟我出国生活，哎，郁闷！

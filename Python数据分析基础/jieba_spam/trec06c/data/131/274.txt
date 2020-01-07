@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <fu@ccert.edu.cn>; Wed, 14 Sep 2005 18:33:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <fu@ccert.edu.cn>; Wed, 14 Sep 2005 18:45:03 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 10:27:20 -0000
+From: "li" <li@mail.tsinghua.edu.cn>
+To: fu@ccert.edu.cn
+Cc: <su@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOzU58nPuN/E3Mv50ru49rKpyr/M+MKlwcs=?=
+Date: Wed, 14 Sep 2005 18:44:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+要我说，博士的心理问题应该引起学校的专门重视
+长期学习和科研必然会以某种方式影响博士生的健康心理，应该严肃地加以研究分析
+虽然社会上关于博士生的很多论断多少都带有偏见，但不能熟视无睹，放任其继续发展
+应该找到真正的原因和背景，寻找解决之道
+     早上骑车经过高能所家属区那个新楼的时候，发现很多警车，警察和保安。
+     保安在拉着警戒线，周围群众远远地看着，小声议论着。
+     放眼看过去，在楼底下的草地上，趟着一个人，盖着布，一动不动，估计死了。

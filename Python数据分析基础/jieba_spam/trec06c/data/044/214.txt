@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <ye@ccert.edu.cn>; Fri, 26 Aug 2005 16:37:03 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 16:55:23 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 16:55:23 +0800
+Date: Fri, 26 Aug 2005 16:55:23 +0800
+From: xin@cernet.com
+Subject: =?gb2312?B?UmU6INXi0fm1xGJmuMOyu7jDt9bK1qO/o7/H63hkam28+Laoo6zQu8HLo6GjoQ==?=
+To: ye@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+分吧分吧
+       我的bf是清华毕业的，其实比较优秀。但是事业不顺，接近而立之年，还离自己的梦想很远。
+       他创业失败后，一家外企打工，工作压力很大，情绪很不稳定，每次遇到事业上的烦心事或是累了，回来总是会给我脸色看。经常吵架。
+       有一次我坐了5小时车去公司看他，晚上一起吃饭，他问我附近吃还是去海边吃海鲜，我看他好像很累，就说附近吧。他找了家比较大的酒店，我问这里会不会太贵？他说没事。

@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <ma@ccert.edu.cn>; Sat, 17 Sep 2005 19:02:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <ma@ccert.edu.cn>; Sat, 17 Sep 2005 19:14:18 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 10:55:00 -0000
+From: "zeng" <zeng@mail.tsinghua.edu.cn>
+To: ma@ccert.edu.cn
+Cc: <tang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1tDH77zRvdqjrNT10fnR+7zRyMvSu8bws/bAtMnN1MI=?=
+Date: Sat, 17 Sep 2005 19:14:11 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+昨天给她发短信，说想借她一样东西
+她说只要她有的，除了时间什么都可以借
+我说我只想借你一双眼睛，陪我一同去邀月
+她说你说话都这么文艺啊
+我说不是我说话文艺，使内心使然
+后来她就不说了
+背景情况是这样的：这个女孩二个月前刚和她男朋友分手，是她提出来的，原因是性格
+不合。我是6月份认识这个女孩的，后来一直都是短信联系。约了她几次出来，都没有成功
+，她说她不习惯也不喜欢和不熟的人晚上出去玩，特别是男生
+请各位看官帮我分析一下，我该怎么邀请她----今晚

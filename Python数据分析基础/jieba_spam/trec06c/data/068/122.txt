@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <hou@ccert.edu.cn>; Fri, 2 Sep 2005 01:25:11 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 01:28:03 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 01:28:03 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 01:28:03 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 17:21:26 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 01:13:36 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 01:13:36 +0800
+From: wu@mails.tsinghua.edu.cn
+To: hou@ccert.edu.cn
+Cc: rao@ccert.edu.cn
+Date: Fri, 2 Sep 2005 01:13:36 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INP0w8bBy6Os1ffH89K7z8LS4rz7?=
+Content-Type: text/plain
+
+     两年前，考清华，系里总共招15人，我排第16名，只好调剂到排名教育部直属倒数的一个大学，自筹经费。
+     一直很郁闷，老师人还好，只是没有课题，实验室硬件也很差，一分钱也不给。研二快结束时（6月），突然把我得课题改了（做ansys有限元分析的）。研三的人正好5月份离校了，很多他们以前积累的东西，都没传给我。（以前我做的东西，跟现在的相关不大，以为用不了，老师当时也怎么说得）现在什么也做不出来，论文怎么发表啊，愁死了。
+     现在开学时，学校突然单方面把当初调剂时签订的交费协议改了，提高了培养费，并规定这个学期交清。那个协议签得就像小孩过家家似的！没跟家里说是自费，第一年6000元是用自己买电脑得钱垫得，不想贷款，跟同学说好明年毕业前他们借给我，现在他们那钱也不够，学校就是想要，快给气死了！
+你想要的是什么呀？要是就要个学历的话，应该够了？如果不是实在没办法了背水一战的情况，就要谨慎考虑啊！

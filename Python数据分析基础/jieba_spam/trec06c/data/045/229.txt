@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <xie@ccert.edu.cn>; Fri, 26 Aug 2005 22:26:35 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 22:34:05 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 22:34:05 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 22:34:05 +0800
+From: wu@mail.tsinghua.edu.cn
+To: xie@ccert.edu.cn
+Cc: lian@ccert.edu.cn
+Date: Fri, 26 Aug 2005 22:34:05 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1dDGuMq1z7DJ+g==?=
+Content-Type: text/plain
+
+        职位：视频编码器研发人员 2 
+         要求： 
+               1、精通c\\c++语言，有linux开发经验；
+               2、熟悉RTP/RTCP/SDP流媒体传输协议，并有一定的开发经验；
+               4、熟悉h.264视频编码标准，有一定算法开发经验；
+               3、有Mplayer、MPEG4IP开发经验的优先。
+         研发内容：
+               1、实时编码器的研发；
+               2、多码率文件的研发；
+               3、解码器的相关配合工作。
+         工作地址：北京师范大学东门附近。
+         注意：需要全职实习，且需要至少半年的实习时间。
+         具体待遇面谈。
+        联系方式：sulei@ctid.com.cn  
+                  58511005-8330  

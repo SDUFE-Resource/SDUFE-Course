@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <hu@ccert.edu.cn>; Thu, 25 Aug 2005 19:28:11 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 19:46:31 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 19:46:31 +0800
+Date: Thu, 25 Aug 2005 19:46:31 +0800
+From: li@cernet.com
+Subject: =?gb2312?B?UmU6ILCmo6yyu9aqtcDU9cO0sOy6w8HL?=
+To: hu@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+也不能这样说，对于我们那个地方的人来说，能来北京玩一玩是很难得的机会，
+他们年纪大了，已经跟我妈说了好多次想到时跟我妈一起过来，再不来玩的话，
+身体也不行了，就没什么机会了
+我来读书那年，我妈本来说带我爷爷来说，姨妈她们说不如以后等熟悉了再来，
+结果第二年我爷爷就生重病，身体条件再也没好起来过，我妈对此特别内疚，
+所以这次她非常坚决要带长辈们过来玩
+长辈们对北京的情况不了解，我也不可能把为难的地方跟他们说，不然还
+以为我不乐意他们来玩呢，sigh
+     你家长辈咋这么多而且都不懂事呢...

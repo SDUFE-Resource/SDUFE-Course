@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <feng@ccert.edu.cn>; Fri, 23 Sep 2005 18:06:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <feng@ccert.edu.cn>; Fri, 23 Sep 2005 18:18:19 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 09:55:19 -0000
+From: "cen" <cen@mail.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Cc: <jiang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyrLDtMqxuvLL47O5tdfC5Luno78=?=
+Date: Fri, 23 Sep 2005 18:18:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+我是外地生源，研究生毕业，现落户北京某区。
+该区人才交流中心、公司、我，三方曾签订一份外地生源引进协议，
+该协议规定必须在该区服务5年，如违约将缴纳每年5000元的违约金，
+让人不解的是，还有一条规定“1年以后转正定级”。
+想请问各位，这个转正定级是不是意味着我不能在1年之内违约，
+否则就不能彻底落户到北京？还是，这个三方协议签订后，无论我何时离开公司，
+只要缴纳违约金即可，而户口却可以照旧落北京？

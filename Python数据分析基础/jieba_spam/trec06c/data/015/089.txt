@@ -1,0 +1,31 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <chi@ccert.edu.cn>; Sat, 20 Aug 2005 05:07:58 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <chi@ccert.edu.cn>; Sat, 20 Aug 2005 05:21:00 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 05:44:28 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: long@126.com
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzsrOyrTzvNLKx9T1w7TA7b3i1eK+5LuwtcQ=?=
+Date: Sat, 20 Aug 2005 05:15:42 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+他今天中午对我说：“我这个周末要是没事，我就去海边玩。再不去夏天就过去了...”
+我当时没说话，过了一会儿，我问：“你是要自己去还是，要我也一块儿去？”
+他立刻提高声调，一副受了伤的样子，“你说我能自己去吗？”
+可我听着这话根本没有征求我意见的意思，何况今天都星期五了，也不问问我去得了去不了。我这两天身体不舒服他是知道，他根本没想我是下不了海的。
+大家说说吧，要是我多心了，我改正。

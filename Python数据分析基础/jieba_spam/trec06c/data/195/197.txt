@@ -1,0 +1,42 @@
+Received: from 163.com (bj44-204.i.netease.com [202.108.44.204])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q2tW6V004284
+	for <fan@ccert.edu.cn>; Wed, 28 Sep 2005 03:04:03 +0800 (CST)
+Message-ID: <200509261055.j8Q2tW6V004284@spam-gw.ccert.edu.cn>
+Received: from LJF (unknown [221.2.147.100])
+	by smtp1 (Coremail) with SMTP id KkATbL5lN0MyGNUE.1
+	for <fan@ccert.edu.cn>; Wed, 28 Sep 2005 03:15:07 +0800 (CST)
+X-Originating-IP: [221.2.147.100]
+Date: Wed, 28 Sep 2005 03:15:07 +0800
+From: "tan" <tan@163.com>
+To: fan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK7uPa5pL/GtcTRp8n6LLeizsTVwsqyw7S2vLK7y+Mh?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/related;
+	boundary="=====002_Dragon176436605872_=====";
+	type="multipart/alternative"
+
+不拿项目经费怎么养学生啊? 你倒是提出个解决办法
+     标  题: Re:  一个工科的学生,发文章什么都不算!
+     
+     绝赞！！！！！
+     
+     
+     有些人为了拿项目拿经费，分明是没有问题非要搞出问题，
+     简单问题非要复杂化，说得多玄乎，然后憋出些垃圾来，
+     这种人在身边还少吗？
+     
+     恶心的是正是这些人口里口口声声地说如何真正的研究，
+     完全就是贼喊捉贼。
+     
+     真正解决问题、交流意见的文章，我觉得要越多越好。
+     
+     
+     : 文章是重要但是不是sci和ei的文章就好
+     : 去年看了moto研发的内部论文集,全球优秀论文,
+     : 感觉那才是,工程中真需要的论文,而不是整天在高校里憋出的论文就算影响因子再高也是垃圾
+     
+     
+     --
+     
+     

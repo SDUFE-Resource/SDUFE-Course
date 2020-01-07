@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8464SY3009167
+	for <gu@ccert.edu.cn>; Tue, 6 Sep 2005 02:46:00 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMA008AX4CVO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Tue, 6 Sep 2005 03:03:39 +0800 (CST)
+Date: Tue, 6 Sep 2005 02:59:44 +0800
+From: =?gb2312?B?wre0utPq?= <huang@cernet.com>
+Subject: =?gb2312?B?ofEgsOa+29TTuNCjqEGjqQ==?=
+To: gu@ccert.edu.cn
+Cc: ylu4859 <wen@ccert.edu.cn>, "grey.wang" <cen@ccert.edu.cn>,
+ zy <mei@ccert.edu.cn>
+Message-id: <0IMA008AY4CVO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/mixed; boundary="Boundary_(ID_mtIjcpm6pV5fNK0/E3Q5IQ)"
+
+        这是我在水木的第一次版聚，好奇而又亲切。
+        即将被他们见到id背后的我，那种情景该会是怎样的呢？
+        带着这种疑问，我很准时地睡到了5点45，匆忙地和小火直奔东门……
+        到了东门，正准备骑车直冲，却见到了松鼠。好诡异的女子，和我想象中差不多，都是属于那种一看就知道很活泼爽快的类型，挺可爱的。一路上比较佩服松鼠的车术，在我的处处排挤之下居然还能够顺利前进，看样子看不出她有这么灵巧啊。
+        来到包间，看到已经到了的三位--cleareyes不用问都能猜得出（果然眼如其id），很有西方相貌+东方韵味的一位ppjj；raycandy是个标准的阳光型帅哥，打扮很cool，看不出是大四的，而且完全不能把人和id的风格联系起来；chice比以前成熟了一点，一如既往地透露出高级技术型牛牛气质，看来日复一日的学习、钻研并没有摧残他的意志……不久小猪同学出现了，声称是待业青年的他依然十分开朗，很会说话，一直谈笑风生，是全桌人话题的发动机。
+        由于我和小火都没吃午饭，所以桌面上的东西很快就被扫荡光了，真是不好意思啊……松鼠不用担心这次我们不满意啥的，有东西吃我就很满足了，嗯。席间我们提起了wsn同学，听了很多描述，也进行了关于什么是ws的讨论，让我对这个诡异的id背后的男人产生了好奇，希望版大下次能来啦。最后的迷途羔羊hopeluck gg被松鼠拐带来了……想不到这个成熟的id背后真的带着一股沧桑感，绝对是见过世面的男人，谈吐之间显露出大将风范。
+To be continued…

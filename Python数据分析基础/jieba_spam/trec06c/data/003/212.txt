@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <xing@ccert.edu.cn>; Mon, 15 Aug 2005 22:00:57 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <xing@ccert.edu.cn>; Mon, 15 Aug 2005 22:14:28 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 22:09:23 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 22:09:23 +0800
+From: yu@mail.tsinghua.edu.cn
+To: xing@ccert.edu.cn
+Date: Mon, 15 Aug 2005 22:09:23 +0800
+Reply-To: yu@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgy7XLtbeowsnJz7XEuea2qLDJ?=
+Content-Type: text/plain
+
+一，同等条件下，承租人有优先购买权
+合同法第二百三十条　出租人出卖租赁房屋的，应当在出卖之前的合理期限内通知承租人，承租人享有以同等条件优先购买的权利。
+    意思是，如果有人想出10w购买你家的房子或者你想以10w把房子卖掉，如果承租人也想买，那么在他也出10w的情况下，他可以优先购买
+二，租约过期后不搬：
+    这个可以到法院起诉，诉由叫“排除妨碍”，因为他们妨碍了你们行使对房屋的所有权，其中包括处分权，即出卖。可以把这个讲给他们听，不知道有用否。
+三，关于租赁期间所安装空调
+最高人民法院关于贯彻执行《中华人民共和国民法通则》若干问题的意见（试行）第８６条．非产权人在使用他人的财产上增添附属物，财产所有人同意增添，并就财产返还时附属物如何处理有约定的，按约定办理；没有约定又协商不成，能够拆除的，可以责令拆除；不能拆除的，也可以折价归财产所有人，造成财产所有人损失的，应当负赔偿责任。
+承租人没有同你们商量安装的空调，你们可以商量，或者房屋所有人，指你爸爸妈妈，估价买下来，这个看起来不可能，或者，拆除，因为空调属于可以拆除的。
+     写一个摘要吧:
+     我家里急需卖掉一套房子用房款买新房,住在里面的熟人以怀孕为由打算长住在房子里.那边新房的房款催的很紧,有什么办法让他们搬出去?
+         我今年本科刚毕业,父母家在一个不是很发达的省城,母亲是一家小事业单位的科长,家里只有我一个女儿.从我小时候到现在我家一直住在一套一居室里,房子条件也不好.2001年左右家里通过母亲的单位买了一套旧的二居室,位置在市中心,但由于是6楼而且夏天太热,父母一直没有搬

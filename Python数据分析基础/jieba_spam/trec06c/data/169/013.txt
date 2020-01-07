@@ -1,0 +1,28 @@
+Received: from smtp.263.net (mx04.x263.net [211.150.96.24])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LDnGRe032370
+	for <chen@ccert.edu.cn>; Thu, 22 Sep 2005 18:53:02 +0800 (CST)
+Received: by smtp.263.net (Postfix, from userid 500)
+	id 62B4343643; Thu, 22 Sep 2005 19:04:29 +0800 (CST)
+From: =?gb2312?B?bmFtZQ==?= <ye@263.net>
+To: chen@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0dC+v8n6zrTRodGnzru/zrXEveK+9re9t6jLtcP3ICjXqtTYKQ==?=
+Date: Thu, 22 Sep 2005 19:04:39 +0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+MIME-Version: 1.0
+X-Mailer: XMail-3.0
+Content-Type: multipart/mixed;
+	boundary="----=NextPart_263Mail-XMAIL-000-000-1127311244Ti4"
+Message-Id: <20050921140045.62B4343643@smtp.263.net>
+
+【 以下文字转载自 CampusInfo 讨论区 】
+发信人: seric (伤逝), 信区: CampusInfo
+标  题: 研究生未选学位课的解决方法说明： 
+分类：注册中心  
+--------------------------------------------------------------------------------
+1.如补退选结束后仍有学位未选中，请填写“补选课申请 表”。（此表在综合信息门户界面，“部门信息发布”栏“注册中心”主页“表格下载”，“选课相关”中“本科生/研究生补选课程审批表__(学生用表)”）
+2.申请表经学生所在系、开课系批准盖章后，在补退选结束后，开学第三周内交注册中心，注册中心将根据教室容量手工补选课。
+特殊说明：补选课程中不包括（1）英语（第一外国语）；（2）博士生英语；（3）数值分析A；（4）自然辨证法；（5）社会主义与当代世界；春、秋两学期开课的课程，未在秋季学期选中以上课程的研究生可在春季学期继续选课。
+注册中心
+2005年9月20日
+ 

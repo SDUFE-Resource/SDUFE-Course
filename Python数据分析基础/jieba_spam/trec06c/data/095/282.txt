@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85Brq7S017804
+	for <qing@ccert.edu.cn>; Wed, 7 Sep 2005 05:56:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j85C6Fu5015902
+	for <qing@ccert.edu.cn>; Wed, 7 Sep 2005 06:08:56 +0800 (CST)
+Message-Id: <200509051206.j85C6Fu5015902@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 6 Sep 2005 21:55:22 -0000
+From: "mo" <mo@mail.tsinghua.edu.cn>
+To: qing@ccert.edu.cn
+Cc: <mo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09poZWFydA==?=
+Date: Wed, 7 Sep 2005 06:08:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5B255.40DC4970"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWyEjKLgqxyovE3TYCvYclclUUw1Q==
+
+夏天过去，花儿就让位给了果实和种子，青青的如果不能成熟，凋落也是一种美。
+在北京秋高气爽的时节里，给自己一点新鲜空气，生活，就会多一点点活力。
+     第一次在heart版发文，终于不再做潜水的乌龟了。也许是闷得太久，也许是想得太多了。总之，自己的heart已经无法承受了。不想去love版，因为太喧闹。。。只想找个安静的地方，透透气。正午的阳光投射在桌子的一角，风吹着窗帘轻轻地飘动，一起一伏。外面很安静，只有车棚

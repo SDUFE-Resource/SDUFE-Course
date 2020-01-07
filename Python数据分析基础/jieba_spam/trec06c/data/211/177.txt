@@ -1,0 +1,36 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <ye@ccert.edu.cn>; Sat, 1 Oct 2005 02:00:43 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Fri, 30 Sep 2005 18:11:39 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Fri, 30 Sep 2005 18:11:39 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <ye@ccert.edu.cn>; Fri, 30 Sep 2005 11:33:18 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <ye@ccert.edu.cn>; Fri, 30 Sep 2005 13:18:11 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sat, 1 Oct 2005 02:11:34 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <chi@motorola.com>
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3G0dDLxLSmxfax2qOstPO80rj4ztKz9rP21vfS5bDJo6y40Lyksru+oQ==?=
+Date: Sat, 1 Oct 2005 02:11:32 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+有了规则又不按照规则办事，最后的结果当然是自己承担了，追求个人最好的选择当然没
+有关系了，但是不能妨碍别人作出最好的选择，而且我就不明白为什么这个问题在结果出
+来之前lz不能预见到呢，明明可以早早考虑好的，还非得搞成现在这样，毕竟其他同学的
+心情可能比lz更焦急
+     切，我们那时计算机系的工程硕士名额也有好几个
+     没人愿意去罢了
+     工程硕士毕竟不如工学硕士，毕业找工作除非留在原单位

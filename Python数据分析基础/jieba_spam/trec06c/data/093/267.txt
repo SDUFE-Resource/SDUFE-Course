@@ -1,0 +1,56 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8622xnO022222
+	for <xia@ccert.edu.cn>; Tue, 6 Sep 2005 18:46:09 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8620e0D062537
+	for <xia@ccert.edu.cn>; Tue, 6 Sep 2005 18:44:17 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bighead.6test.edu.cn (Debian-exim@[202.38.99.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8620bmL062533
+	for <xia@ccert.edu.cn>; Tue, 6 Sep 2005 18:43:46 +0800 (CST)
+	(envelope-from lx@ns.6test.edu.cn)
+Received: from lx by bighead.6test.edu.cn with local (Exim 4.50)
+	id 1ECT2E-0005DY-7J
+	for toefl@gradinfo.net.edu.cn; Tue, 6 Sep 2005 19:01:15 +0800
+Date: Tue, 6 Sep 2005 19:01:15 +0800
+From: LIU Xin <peng@ns.6test.edu.cn>
+To: xia@ccert.edu.cn
+Subject: Re: [TOEFL] =?gb2312?B?1NnOytK7uPbOyszi?=
+	=?gb2312?B?o6ywssirt73D5rXE?=
+Message-ID: <20050906021806.GA20051@bighead.6test.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <200509051512.j85FCqUH055072@gradinfo.net.edu.cn>
+User-Agent: Mutt/1.4.1i
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【篇名】    中间相炭微球的粒径对其结构和性能的影响 CAJ原文下载    PDF原文下载 
+ 
+【作者】  张宝. 郭华军. 李新海. 王志兴. 彭文杰.  
+【刊名】    中南大学学报(自然科学版)    2005年03期    编辑部Email  
+ 《中文核心期刊要目总览》来源期刊   “中国期刊方阵”入选期刊   ASPT来源刊   
+CJFD收录期刊  
+【机构】  中南大学校团委. 中南大学冶金科学与工程学院. 中南大学冶金科学与工程学
+院 湖南长沙. 410083. 410083 .  
+【关键词】    锂离子电池. 中间相炭微球. 结构. 负极. 粒径. 容量.  
+【聚类检索】  同类文献   引用文献   被引用文献    
+【摘要】  采用X射线衍射、粒径分析、扫描电子显微镜、BET比表面积分析及电化学方法
+研究了粒径对中间相炭微球结构和性能的影响。研究结果表明随着粒径的增加,中间相炭
+微球的堆积密度增大,比表面积减小;中间相炭微球电极的充电容量和不可逆容量减小,可
+逆容量与首次充放电效率增加;以中间相炭微球为负极制成063448型锂离子电池的放电容
+量随着中间相炭微球平均粒径的增大而增加,不可逆容量减少;以平均粒径为19.09μm的中
+间相炭微球为负极制成的电池放电容量为838mA・h,首次充放电效率为87.29%,循环100次
+后的容量保持率为92.4%。  

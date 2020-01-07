@@ -1,0 +1,23 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <wu@ccert.edu.cn>; Tue, 27 Sep 2005 17:55:35 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 09:41:51 -0000
+Date: Tue, 27 Sep 2005 18:07:35 +0800
+From: "tang" <tang@mail.tsinghua.edu.cn>
+To: wu@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+每个人理想的生活都不尽相同
+对我来说，家庭成员健康、感情好，有自己喜欢的工作，物质不匮乏，缺一不可
+单选的话，大概会选聪明吧
+     昨天我们六个高中女同学小聚了一下！我们是93－96年的高中生，目前大家已经都27，8了，当中自然有结婚的，更是有宝宝的。大家外表变化不大，但是生活状态确完全不同。聊了一个晚上，回来我就思考了个问题，
+     A什么是女孩的幸福？
+     1）过衣食无忧的生活，有一个完整的家

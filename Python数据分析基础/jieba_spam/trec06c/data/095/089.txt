@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j863eH8r023838
+	for <luo@ccert.edu.cn>; Wed, 7 Sep 2005 02:15:46 +0800 (CST)
+Received: (eyou send program); Wed, 7 Sep 2005 02:14:17 +0800
+Message-ID: <325977928.03325@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 7 Sep 2005 02:14:17 +0800
+Message-ID: <325977928.03308@mail.tsinghua.edu.cn>
+Received: from 166.111.8.254 by 166.111.8.18 with HTTP; Wed, 7 Sep 2005 02:14:17 +0800
+From: xue@mail.tsinghua.edu.cn
+To: luo@ccert.edu.cn
+Date: Wed, 7 Sep 2005 02:14:17 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW83GueNdzcbR0M34yc+9u8H3z7XNsyAo16rU2Ck=?=
+Content-Type: text/plain
+
+一年一度的推研活动又要开始了，如何能够快速准确的了解同学之间的志愿信息，如何找到
+最适合自己位置的推研志愿，这个系统能够完成这样的任务。
+欢迎访问试用：
+http://www.lazyshop.net/tuiyan/
+系统构成：
+1、信息发布，通知本系参加推研的同学
+2、院系介绍以及教师介绍
+3、推研信息，这个是本系统的重点，每个推研同学登记自己的成绩以后，就保存到数据库，在这个栏目下面就是按照不同的方式进行统计的结果显示，能够按照班级统计，按照填报专业统计，还能按照推博还是推硕统计，结果显示清晰明了
+4、留言版
+该系统已经从2001年至今在热能系成功运行4年（今年是第5年），效果良好
+还有一些其他的院系去年也使用了该系统。为了近一步推广该系统，为推研同学服务
+本系统打算推广给各个院系使用，欢迎联系
+联系方式：fhong@smth 或者 fhong@newsmth
+          fhong@263.net
+电话：    13693085985  王

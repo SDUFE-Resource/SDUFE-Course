@@ -1,0 +1,26 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2Dh1P009817
+	for <su@ccert.edu.cn>; Sat, 17 Sep 2005 04:39:16 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G2ifhm004555
+	for <su@ccert.edu.cn>; Sat, 17 Sep 2005 05:10:14 +0800
+Message-Id: <200509160244.j8G2ifhm004555@stmp.nisac.gov.cn>
+Date: Sat, 17 Sep 2005 04:50:22 +0800
+From: "su" <su@mail.nisac.gov.cn>
+To: su@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVv7TN6qG2zNOz9r/LwqG1uqG3?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+好像除了美元其他地方的票票就不是钱似的，不过呢，的确，老美的那些公司
+更加注重的是国内票房，但那也只是以前，按照你的看法，那么Troy,The Last Samurai
+等片可以说是非常失败的，但事实完全不是这样，时代变了。
+BTW:不要老是拿Waterworld说话嘛，毕竟都已经过去了，我偶像离沉寂这样的字眼
+还早着呢，马上就有两部新片上映。
+     老美好像更看重北美票房而不是全球票房,
+     就像很久以前的waterworld,虽然全球票房赚了,
+     但北美票房惨不忍睹直接导致你的偶像沉寂

@@ -1,0 +1,35 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <sun@ccert.edu.cn>; Fri, 23 Sep 2005 05:26:02 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 05:15:02 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 05:15:01 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 05:15:01 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 21:15:01 -0000
+From: "tu" <tu@mail.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOy5xMbw08LG+M/ybW2x7bDXo6y1w7W91eLR+dK7uPa72Li0oaM=?=
+Date: Fri, 23 Sep 2005 05:37:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+试解：
+若非流光度，何苦为难归，不是久远心，又怎落浮云，了不了，何必草？弦断也听音
+偶认为MM通篇在诉自己的情怀：
+若非流光度，何苦为难归
+MM叹自己：如果不是时光飞逝流转，我根本不会为嫁人这样的事为难呵。（此处“归”作“于归”解）
+不是久远心，又怎落浮云，
+MM叹自己：可是如果我的心根本还没有长久的打算，那飘泊的心又怎可能定得下来呢？
+了不了，何必草？
+MM左右为难，但终下决心：到底考虑还是不考虑这事呢？唉，这样的事还是不宜草率啊。
+弦断也听音
+MM在安慰自己：弦断了，还可以有弦外之音可听呢。如果真的因为我今天不考虑这样的事情而导致我有那么一天（与首句呼应，例如青春年华逝去），那么我相信还是会有我自己的知音的。
+MM最终的弦外之音是：不是你好不好的问题，而是这样的事情我暂时不考虑。我不是在拒绝你，我在拒绝我自己。
+当然也可以隐含这个意思：GG你还没优秀到那种程度让我开始考虑自己的终身大事。

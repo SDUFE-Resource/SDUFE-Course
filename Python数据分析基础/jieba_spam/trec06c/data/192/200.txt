@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9wpWk007996
+	for <wu@ccert.edu.cn>; Tue, 27 Sep 2005 14:07:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QAAAcl020363
+	for <wu@ccert.edu.cn>; Tue, 27 Sep 2005 14:18:50 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 13:54:18 +0800
+Message-ID: <327727938.08832@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Tue, 27 Sep 2005 13:54:18 +0800
+From: gu@mail.tsinghua.edu.cn
+To: wu@ccert.edu.cn
+Date: Tue, 27 Sep 2005 13:54:18 +0800
+Reply-To: gu@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMrHsrvKx9DC08O7p7TztuDKx83hsrG1xD8=?=
+Content-Type: text/plain
+
+     标  题: Re: 是不是新用户大多是歪脖的?
+     
+     web用户讨论问题的基本特点：
+     
+     1。几乎所有问题，导向描写中国的贫穷、落后，尽管都是道听途说的；
+     2。几乎所有问题的根源，都是制度上的。归结为制度上的落后。顺便夸夸某些国家的某写
+     方面的优秀制度云云；当然也是道听途说的。
+     3。几乎都是一灌好几屏，但不知所云，还自我感觉良好，却不知如同中央台的新闻联播。
+     
+     问题的根源：
+     1.web用户基本缺乏对所讨论问题细节的把握，也不习惯由re文中把握重要细节，从而得到
+     自己的取向和判断；因此空话，套话连篇。
+     2.web用户和telnet用户在感受上不同。web用户感受的是静态的网页，telnet用户感受的是
+     连线另一端活生生的人，因此，在发言时采用的姿态不同。
+     
+     版权otherstone
+~~~~~~~~~~~~~~~~这里不严谨.
+     : 看过之后就一般能分辨出来,尽管没有什么特别的规则
+     
+     
+     --
+     我们的体积在宇宙中的地位比做沧海一粟也显得太过夸张，如果说我们
+     能在宇宙中有一席地位，那全是因为我们的思维延伸到了宇宙的深处。
+     
+     

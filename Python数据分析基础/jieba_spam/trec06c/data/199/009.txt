@@ -1,0 +1,37 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q5fuZC005739
+	for <wu@ccert.edu.cn>; Wed, 28 Sep 2005 16:41:55 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8Q5a2Mr047588
+	for <wu@ccert.edu.cn>; Wed, 28 Sep 2005 16:37:12 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8Q5ZvY7047584
+	for <wu@ccert.edu.cn>; Wed, 28 Sep 2005 16:35:58 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Wed, 28 Sep 2005 16:48:17 +0800
+Message-ID: <327713698.12325@mails.tsinghua.edu.cn>
+Received: from 59.66.110.132 by mails.tsinghua.edu.cn with HTTP;
+	Wed, 28 Sep 2005 16:48:17 +0800
+From: che@mails.tsinghua.edu.cn
+To: wu@ccert.edu.cn
+Date: Wed, 28 Sep 2005 16:48:17 +0800
+X-Priority: 3
+Content-Type: text/plain
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Precedence: list
+Reply-To: che@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+ 恩！
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。

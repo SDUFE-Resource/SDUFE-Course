@@ -1,0 +1,47 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A7NDlm028500
+	for <xin@ccert.edu.cn>; Mon, 12 Sep 2005 06:23:57 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A7KBdR092194
+	for <xin@ccert.edu.cn>; Mon, 12 Sep 2005 06:21:30 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A7K7ld092190
+	for <xin@ccert.edu.cn>; Mon, 12 Sep 2005 06:20:52 +0800 (CST)
+	(envelope-from sxh@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 06:09:58 +0800
+Message-ID: <326336154.01040@mails.tsinghua.edu.cn>
+Received: from 59.66.122.238 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 06:09:58 +0800
+From: "peng" <peng@mails.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Date: Mon, 12 Sep 2005 06:09:58 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7K0ru49rysyta1xM7KzOIh?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: sxh <peng@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+随便哪个银行都一样，异地的钱少不了。
+但是有一个洗钱的办法：
+就是异地消费。
+在能用银行卡消费的地方，替别人埋单，然后收对方的现金。
+如果是信用卡，还能顺便通过消费把年费免了。
+其实现在大多地方都能用银行卡消费，
+我最近一次还在密云刷卡买了两瓶矿泉水呢。
+为校内平台发个帖子把，恩。
+        我弟弟要马上去太原上学,但是我不想让他拿着一万多的现金去;
+        据说可以办一个什么异地存取卡,实现异地存取;请问哪个银行收取的费用比较低?
+        除了这种异地存取方式,还有没有其他更好的方式?

@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <zhou@ccert.edu.cn>; Sat, 24 Sep 2005 19:44:54 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <zhou@ccert.edu.cn>; Sat, 24 Sep 2005 19:56:23 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 11:33:29 -0000
+From: "yun" <yun@mail.tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Cc: <xin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sat, 24 Sep 2005 19:56:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+最不明白的早干吗了，花了4年的时间才知道是浪费时间，要是刚入学2年以内还可以理解，多点时间干自己想干的事，这都快毕业了才退学，还不如早点毕业拿了学位再走呢，毕竟人和社会之间也需要妥协啊，做事这样偏激那要头痛的事多了，人坚持自己没错，全盘否定别人也不见的对啊
+     这篇文章说明作者是一个充满自卑和怯懦感的人！学校不可能为你提供所需的一切，更多的东西要靠自己拼搏奋斗来实现。很多牛人在恶劣的环境下不也取得了惊人的成就吗？一天到晚只会抱怨老师不好、氛围不好，像作者这样的人，只怕给他再好的氛围和环境，他也同样是见异思迁，不停地找客观原因，而不去找找自身的原因，如果他不改掉自己这个恶劣的毛病，他必将终身一事无成！！！

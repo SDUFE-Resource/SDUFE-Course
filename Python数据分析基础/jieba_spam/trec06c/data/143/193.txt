@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <ding@ccert.edu.cn>; Sat, 17 Sep 2005 00:50:01 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <ding@ccert.edu.cn>; Sat, 17 Sep 2005 01:01:50 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 16:42:32 -0000
+From: "zhu" <zhu@mail.tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Cc: <weng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK71qq1wM7SuMPU9cO0sOw/?=
+Date: Sat, 17 Sep 2005 01:01:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+学会如何去表达爱
+     我觉得在这里讨论我自己很难为情，就好像让我告诉某个人‘我爱你’一样难为情。至少感觉是这样。
+     今天是我的生日，不过我却感到有种失落。我不知道我该做怎样的选择现在。我只想做一个正确的判断。
+     我们的认识跟工作有关系，而他可以算是我们的客户，不过是跟文章有关系罢了。当时，电话通知，他的文章被退了，后来终于将意见给了他，通过MSN。就这样我们开始有所认识。我感觉他是个对自己负责的人。很久没有联系了，因为他的MSN频繁上下线会让我的操作系统休克，感到

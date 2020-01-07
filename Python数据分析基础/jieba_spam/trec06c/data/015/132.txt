@@ -1,0 +1,35 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <hua@ccert.edu.cn>; Sat, 20 Aug 2005 05:45:44 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <hua@ccert.edu.cn>; Sat, 20 Aug 2005 05:58:46 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 06:22:14 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: zhuang@126.com
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXm09DV4tH5tcTIy8Lwo78=?=
+Date: Sat, 20 Aug 2005 05:53:28 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+原话应该是 ：你可以再胖点
+     标  题: 真有这样的人吗？
+     
+          昨天听人描述了这么段话，说的是一个gg背着一个mm走着走着，到达目的地了，gg把mm放下了，说了句“我希望你再胖点~”
+           tearing~，真有这样的好gg不计较mm的外貌和身材吗？
+     --
+           树欲静而风不止 子欲孝而亲不待
+          
+     

@@ -1,0 +1,23 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bkPe006750
+	for <he@ccert.edu.cn>; Mon, 26 Sep 2005 23:45:23 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4j00838;
+	Mon, 26 Sep 2005 23:48:41 +0800
+Message-Id: <200509260741.j8Q7f4j00838@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 15:48:39 UT
+To: he@ccert.edu.cn
+From: su@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtMu1ufrE2rn6zeLO3rG+1sqy7rHw?=
+
+你怎么看出他对数学的领悟浅薄的呢 
+人家毕竟是搞计算机的呀
+可能数学要求不高吧
+     他选择退出清华，是他个人的选择，别人无可非议，而且就他的性格而言，我觉得他退出清华也是一个正确的选择。
+     我反感他的地方是他退出清华前还要写一篇文章来骂并没有亏待他的导师和学校。你看看他的文章，好像全世界人都亏待了他似的，从川大一直骂到清华(恰好我跟这两个学校都有点渊源，呵呵)。
+     另外，他对一些东西的领悟(比方数学)，也太浅薄了一点。

@@ -1,0 +1,62 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <huang@ccert.edu.cn>; Mon, 22 Aug 2005 19:28:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <huang@ccert.edu.cn>; Mon, 22 Aug 2005 19:41:25 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 11:36:02 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "che" <che@mail.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Cc: "tunet" <tian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEguPbLsMbw1fe149XHNzAw1Kogw7/Iy8O/1MLX7rbgydm9ycuwMzE11Ko=?=
+Date: Mon, 22 Aug 2005 19:37:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+2005-08-24 08:52:40 　 新华社 
+新华社北京８月２３日电（记者张宗堂、沈路涛）十届全国人大常委会第十七次会议２３日开始审议个人所得税法修正案草案，拟将个人所得税起征点从８００元提高到１５００元。如果以每月１５００元作为个税起征点并付诸实施，我们每个月将少缴多少钱？按照税率表计算，每人每月将最多少缴税３１５元。而按照有关专家测算，一年国家财政收入要减少２００多亿元。
+　　
+　　据统计，去年我国个人所得税收入达到了１７３７．１亿元，占我国当前税收总收入的６．８％。２００２年到２００４年，个税的平均增长幅度为１９.８４％。
+　　
+　　按照个人所得税法修正案草案目前的规定，只是拟对个税的起征点进行调整，并没有对税率进行调整。如果人大常委会审议通过个人所得税修正案，按照这个税率，可以测算出个人缴税变化：
+　　
+　　月收入１０００元者，原缴税１０元，将不需缴税，较以前少缴税１０元；
+　　
+　　月收入１５００元者，原缴税４５元，将不需要缴税，较以前少缴税４５元。
+　　
+　　月收入２０００元者，原缴税９５元，将缴税２５元，较以前少缴税７０元。
+　　
+　　月收入３０００元者，原缴税２０５元，将缴税１２５元，较以前少缴税８０元。
+　　
+　　月收入４０００元者，原缴税３５５元，将缴税２５０元，较以前少缴税１０５元。
+　　
+　　月收入５０００元者，原缴税５０５元，将缴税４００元，较以前少缴税１０５元。
+　　
+　　月收入６０００元者，原缴税６６５元，将缴税５５０元，较以前少缴税１１５元。
+　　
+　　月收入７０００元者，原缴税８６５元，将缴税７２５元，较以前少缴税１４０元。
+　　
+　　月收入８０００元者，原缴税１０６５元，将缴税９２５元，较以前少缴税１４０元。
+　　
+　　月收入１００００元者，原缴税１４６５元，将缴税１３２５元，较以前少缴税１４０元。
+　　
+　　月收入２１０００元者，原缴税３６７５元，将缴税３５２５元，较以前少缴税１５０元。
+　　
+　　月收入２５０００元者，原缴税４６７５元，将缴税４５００元，较以前少缴税１７５元。
+　　
+　　月收入５００００元者，原缴税１１３８５元，将缴税１１１７５元，较以前少缴税２１０元。
+　　
+　　月收入８００００元者，原缴税２１３４５元，将缴税２１１００元，较以前少缴税２４５元。
+　　
+　　月收入１０００００元者，原缴税２９３０５元，将缴税２９０２５元，较以前少缴税２８０元。
+　　
+　　月收入１０１５００元以上者，将较以前少缴税３１５元。
+http://news.china.com/zh_cn/finance/11009723/20050824/12595242.html

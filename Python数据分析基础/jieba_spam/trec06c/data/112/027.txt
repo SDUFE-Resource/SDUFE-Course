@@ -1,0 +1,41 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j889N4UA011087
+	for <pu@ccert.edu.cn>; Sat, 10 Sep 2005 18:12:02 +0800 (CST)
+Message-ID: <200509081723.j889N4UA011087@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO b28d91f81b7b43f) (yang-w04@166.111.203.126)
+  by localhost with SMTP; Sat, 10 Sep 2005 09:59:02 -0000
+From: "cen" <cen@mails.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1tjJ6tHQvr/J+tGhv86yv7fW16LS4srCz+4gKNeq1Ngp?=
+Date: Sat, 10 Sep 2005 18:26:46 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+In-Reply-To: <000601c5af76$5ea858e0$c0cb6fa6@BAMBOOIBM>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvd6cjZMf6CDhmRji9RlY4vJqTKQE38gdA
+
+【 以下文字转载自 CampusInfo 讨论区 】
+发信人: seric (伤逝), 信区: CampusInfo
+标  题: 重申研究生选课部分注意事项 
+分类：研究生院  
+ 
+--------------------------------------------------------------------------------
+重申研究生选课部分注意事项 
+各位研究生同学：
+研究生选课已于9月9日开始，下面是选课中同学们经常问到的问题，在此重申请大家注意：
+1、已经获得免修硕士生英语资格的同学一定要选课序号99的硕士生英语课（60640012），否则无法记载免修成绩。
+2、已经获得免修博士生英语资格的同学（包括直博、普博、硕转博）一定要选课序号99的博士生英语课（90640012），否则无法记载免修成绩。
+3、博士生英语课（90640012）秋季学期限普博生选，请直博生和硕转博生在春季学期选修该门课程。
+4、现代科学技术革命与马克思主义课程（90610042）秋季学期限普博生、硕转博生选修，请直博生同学在春季学期选修该门课程。
+5、高等数值分析课程（60420024）仅在本学期开课，春季学期不再开设，请需要上该门课程的同学务必本学期选课。本条与选课手册不一致，以此为准。
+6、数值分析A（60420044）、自然辩证法（60610012）、社会主义与当代世界（60610021）、硕士生英语（60640012）属于抽签课程，未抽中的同学可以在春季学期选课。
+7、深圳研究生院的同学请按照深圳研究生院的通知要求选课。
+8、课程一经选中（以补退选后结果为准）必须上课和参加考试，所选课程（包括体育课）未参加考试得0分以及考试不及格者不能申请答辩，请同学们慎重选课。
+9、研究生体育课属于非学位要求课程，请同学们选课时将该门课程降为非学位课。
+研究生院
+注册中心
+2005-9-9
+ 

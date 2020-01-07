@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C2BpmJ006744
+	for <long@ccert.edu.cn>; Tue, 13 Sep 2005 01:50:17 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28l5c009623
+	for <long@ccert.edu.cn>; Tue, 13 Sep 2005 01:47:35 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28iWw009619
+	for <long@ccert.edu.cn>; Tue, 13 Sep 2005 01:47:10 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EEefy-0005d0-00
+	for toefl@gradinfo.net.edu.cn; Tue, 13 Sep 2005 02:46:36 +0800
+Message-ID: <016301c5b740$c2f51a00$2fcb6fa6@wanglanjia>
+From: "wei" <wei@ns.6test.edu.cn>
+To: long@ccert.edu.cn
+Date: Tue, 13 Sep 2005 01:59:58 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Subject: =?gb2312?B?UmU6INC0uPjO0sfXsK61xMDPxsU=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1871831781=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+          今天是老婆来上海整整两年的纪念日，本来不是什么特殊的日子，只因为03年的八月十五是九月十一号，我在北京和老婆过完八月十五，第二天晚上就乘车离开了北京。那时候老婆还在读研三，我在复旦读硕博连读的第二年。
+          两年了，我们真的可以说是经历了风风雨雨，因为老婆还没有毕业，来上海只是找地方实习，希望毕业时可以顺利找到工作。老婆是学金融的，在上海复旦，上财，交大，华师大...这些学校每年不知毕业多少牛学生呢，可想而知老婆在这边和人家挣饭碗是多么的难！！！！
+          开始在一个小的咨询公司，后来到证券公司，在03年底到04年的股海中，搏掉了家里的四万块钱（当时看行情，确实有希望挣的，估计跳楼的人也是这想法），然后是一家靠暴利的民营企业，最终于04年十月到了现在这样一个外资银行里，算是自己比较满意的工作。

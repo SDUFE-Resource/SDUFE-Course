@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <shen@ccert.edu.cn>; Wed, 24 Aug 2005 23:42:37 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <shen@ccert.edu.cn>; Wed, 24 Aug 2005 23:55:51 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 15:50:24 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "wua" <wua@mail.tsinghua.edu.cn>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILfr0KG41brNvarOxA==?=
+Date: Wed, 24 Aug 2005 23:52:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+姜文儿这比喻一针见血，非常精辟
+批评到骨头里去了
+看姜文的访问，尤其是做到位的访问，不是应付娱记那种
+他比较喜欢打比方，有的话确实让人看出来他对电影的理解非常深入
+有猛醒的感觉
+佩服丫
+找到原话了
+冯小刚自传《我把青春献给你》中提到，导演姜文同志曾经语重心长地对导演冯小刚同志说：“电影应该是酒，哪怕只一口，但它得是酒。你拍的东西是葡萄，很新鲜的葡萄，甚至还挂着霜，但你没有把它酿成酒，开始时是葡萄，未了还是葡 萄……你应该把葡萄酿成酒，不能仅仅满足于做一杯又一杯的鲜榨葡萄汁。”冯小刚自言对他电影的诸多批评中，姜文以上的话是最道破实质的。

@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TNZmZm009556
+	for <jian@ccert.edu.cn>; Fri, 30 Sep 2005 10:57:24 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8TNkmaV017714
+	for <jian@ccert.edu.cn>; Fri, 30 Sep 2005 11:08:24 +0800 (CST)
+Message-Id: <200509292346.j8TNkmaV017714@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 30 Sep 2005 02:41:59 -0000
+From: "gan" <gan@mail.tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+Cc: <zhan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMO709DJz7340MS1xMWuyMvSsr/JxNy74bPJzqrG+Lnc0dc=?=
+Date: Fri, 30 Sep 2005 11:08:17 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5C593.18C0F390"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXFUAn0NYzCGVdZSOy1gVwHMkt8UA==
+
+你听过张爱玲的红玫瑰白玫瑰的那段话么
+     标  题: Re: 没有上进心的女人也可能会成为气管炎
+     
+     我喜欢.
+     因为有上进心的女人只爱工作,不会爱你.
+     
+     : 在生活琐事上管你
+     
+     
+     --
+     上天的惩罚将临了,我得勇敢起来!
+     http://blog.chinaunix.net/index.php?blogId=3063
+     
+     

@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5cufv027982
+	for <wei@ccert.edu.cn>; Sun, 11 Sep 2005 00:01:42 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5aHKJ091531
+	for <wei@ccert.edu.cn>; Sat, 10 Sep 2005 23:59:16 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5aEwf091527
+	for <wei@ccert.edu.cn>; Sat, 10 Sep 2005 23:59:00 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 10 Sep 2005 23:48:09 +0800
+Message-ID: <326329923.15072@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 10 Sep 2005 23:48:09 +0800
+From: li@mails.tsinghua.edu.cn
+To: wei@ccert.edu.cn
+Date: Sat, 10 Sep 2005 23:48:09 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IL+0v7TVwtfT4vnU2sWm1LzKsbGoyc+2vMu1wcvQqcqyw7Q=?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: li@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+        不知道为什么会有人fan她。
+        从来没喜欢过……
+     看看章子怡在纽约时报上都说了些什么    
+     “I prefer the fans in America,” says Zhang. “They are more civilised. In China, if you don’t take a picture with them they say, ‘I will never see your film again!“
+     　　我更喜欢美国的影迷，他们更加文明。在中国，若你拒绝和影迷照相，他们会说“我不会再看你的电影了”

@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <hu@ccert.edu.cn>; Tue, 23 Aug 2005 21:43:55 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <hu@ccert.edu.cn>; Tue, 23 Aug 2005 21:57:09 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 13:51:42 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "guo" <guo@mail.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjjUwjIwyNW5pNf3vMfCvCAo16rU2Ck=?=
+Date: Tue, 23 Aug 2005 21:53:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 LostFound 讨论区 】
+发信人: THUGuard (学生治安服务队&amp;失物招领处), 信区: LostFound
+标  题: 失物招领处8月20日工作记录
+领取
+刘慧远  IC卡
+送交
+李帅    钥匙（2把）
+好心人  数码相机机读卡
+报失
+唐亮    现金300元       13810878017
+张学一  《open GL 编程指南》 51532177
+金恺    nokia手机       51532110        

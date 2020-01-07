@@ -1,0 +1,26 @@
+Received: from mailsvr.icst.pku.edu.cn ([162.105.163.117])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F4nrgY000524
+	for <chen@ccert.edu.cn>; Fri, 16 Sep 2005 18:07:31 +0800 (CST)
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5B9B2.8ECC9B35"
+Subject: =?gb2312?B?ofEgu6rOqtXQxrg=?=
+X-MimeOLE: Produced By Microsoft Exchange V6.5.7226.0
+Date: Fri, 16 Sep 2005 18:19:17 +0800
+Message-ID: <3BF3883AB800694AA3296642EE8781602E83C1@icstmail.icstdom.icst.pku.edu.cn>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: =?gb2312?B?udjT2kNDRVJU1dDGuMfpv/ajrLG+v8bJ+rGj0dDH6b/2tcg=?=
+thread-index: AcW5so5MmpWRfBlsT0KLn2ZYXxwJZA==
+From: =?gb2312?B?emh1Z2VqaWFud2VpKNbuuPC9qM6wKQ==?= <hu@icst.pku.edu.cn>
+To: chen@ccert.edu.cn
+
+职位： 接入技术算法工程师 工作地点： 深圳
+职责描述： 1、从事铜线、光纤等接入方式的线路编解码、调制解调及相关信号处理技术的研究工作，为公司积累IPR； 2、紧密结合当前主流接入技术标准开展研究工作； 3、向标准组织提交我司技术方案； 4、掌握宽带接入技术发展方向，为产品技术规划提供决策依据。
+职位要求： 1、硕士以上学历，信号处理、无线电、通信、应用数学及电子相关专业毕业； 2、具备通信原理、信号处理技术、信号检测技术，具有DMT、CDMA、OFDM等技术研究与开发经验者优先考虑； 3、掌握COSSAP、Matlab、C、OPNET等工具，具有较强的综合分析能力，具有无线或有线通信系统链路仿真或系统仿真经验者优先考虑； 4、具有良好的语言表达和书面表达能力，较强的英语读写听说能力； 5、具有良好的团队意识和合作精神。
+职位： 接入技术研究工程师 工作地点： 深圳
+职责描述： 1、分析掌握宽带接入领域的技术发展、前沿动态及该领域国际标准的进展。2、进行接入技术分析，负责接入技术的研究工作。3、参加相关的学术论坛和标准会议。
+职位要求： 1、硕士以上电子或通信专业毕业，从事过前沿项目研究者优先。2、熟悉宽带接入及宽带网络产品，有业界主流产品的开发经验。3、熟悉宽带接入领域相关技术与标准，熟悉相关协议，对网络架构有较深入的了解，有ITU、IETF等标准组织参会经验者优先；4、自我学习能力和逻辑分析能力强，擅于归纳总结，具备创新思维和自我激励的能力，善于和他人合作，具备团队精神。5、英文听、说、读、写能力佳。
+有意者请将个人简历和应聘的职位发给：
+联系人：王博士 Email：sam@huawei.com

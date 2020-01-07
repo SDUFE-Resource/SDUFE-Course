@@ -1,0 +1,40 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <xie@ccert.edu.cn>; Mon, 22 Aug 2005 06:24:52 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <xie@ccert.edu.cn>; Mon, 22 Aug 2005 06:38:03 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "liu" <liu@126.com>
+To: xie@ccert.edu.cn
+Cc: <guo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbUy9G6/Lmry761xNK70Km9qNLpo6jUrbS0o6k=?=
+Date: Mon, 22 Aug 2005 06:37:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+所以要有一个“优秀”的产品策划。
+了解用户需求，设计特色产品，同时本身要熟悉移动的业务、技术规范，兼对该行业
+内的成功产品有一定了解。文字要有诱导性，明白如何同用户互动。
+同时，还要明白如何以无耻的手段从用户的卡里面扣钱，又不致于引起用户投诉。
+     标  题: Re: 对搜狐公司的一些建议（原创）
+     
+     但是我得指出一点，很多策划做出来的东西，
+     在技术来看是有缺陷的，比如可能形成死循环，比如在技术上无法实现，
+     这时候技术都得指出来。
+     一个技术必须会思考，要不做不出像样的东西
+     
+     : 无线增值的市场究竟有多大，做过的人都清楚，几千个亿的市场只是初步估计，关键
+     : 是自己的产品能否适应需要，分到一块蛋糕；
+     : 策划（比如我）设计的业务和流程图都很清晰，技术人员只要实现就可以了。我讨厌会
+     
+     --
+                            telnet lilybbs.us 23
+     
+     

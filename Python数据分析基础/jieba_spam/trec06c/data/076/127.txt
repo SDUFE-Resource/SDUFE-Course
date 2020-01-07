@@ -1,0 +1,38 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <xia@ccert.edu.cn>; Sat, 3 Sep 2005 02:52:21 +0800 (CST)
+Received: (eyou send program); Sat, 3 Sep 2005 02:55:13 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 3 Sep 2005 02:55:13 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Sat, 3 Sep 2005 02:55:13 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 18:48:36 -0000
+Received: (eyou send program); Sat, 3 Sep 2005 02:40:46 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Sat, 3 Sep 2005 02:40:46 +0800
+From: hou@mails.tsinghua.edu.cn
+To: xia@ccert.edu.cn
+Cc: bi@ccert.edu.cn
+Date: Sat, 3 Sep 2005 02:40:46 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IL+0wcvSu9CpzPvX0yy687y5sbO3osG5sKEs1PXDtNH5v8nS1NSkt8C4vr/GsqGwoQ==?=
+Content-Type: text/plain
+
+要喝乌鸡汤
+买非饲养鳝鱼，将血放在水里，加红枣杞子红豆煲，补血的说
+没有条件喝滋补汤，就用爆姜沫煎鸡蛋汤服用，驱寒
+手不要碰凉水，不要骑自行车，益母草肯定是要吃
+多吃杞子红枣等旺血的东西
+比如说不要下凉水，不要有较大的情绪波动
+有条件的话，每周一次鸡汤，平时尤其是睡觉的时候绝对不能着凉
+要准时把医生开的药都吃了（益母草应该吃，其它的觉得还行吧）
+生活规律，防止上火或者寒气======
+只要一个月内好好保养好了，下次大姨妈来了就正常人了
+     保养很重要
+     不过你说的不同意，好好的保养照样能出大问题。
+     如果你说的是保养好好的，拿就等于没说，因为lz就是在问怎么才能保养的好好的

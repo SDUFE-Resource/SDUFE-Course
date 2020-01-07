@@ -1,0 +1,30 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <jian@ccert.edu.cn>; Sun, 21 Aug 2005 17:24:58 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <jian@ccert.edu.cn>; Sun, 21 Aug 2005 17:38:00 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 18:01:28 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: xia@126.com
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgMjAwNS44LjE4?=
+Date: Sun, 21 Aug 2005 17:32:42 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+去现场考察，路过一处坟场，荒草掩映之中石碑林立；偶尔还见到断裂的石碑，同车之人猜测大概是仇家作的事情。近年来灾害事故频繁发生，大家对鬼神的敬畏程度仍日渐淡薄，也许并不是一件好事情。
+去西部调查污水排放情况。路边尽是简易的小矮房子，顺着半开的门望进去，空间极其狭小阴暗。门前的老太太背驼得很厉害，黝黑的皮肤上满是纹路；大概是因为在矿区，似乎总有洗不干净的灰尘在脸上。紧挨着的地方正在盖小高层。问她是不是回迁户，她颤巍巍地说：“以前这里的地是我们的......”再问她将来楼房盖好了，是不是要搬进去住。她望了望，并不感兴趣的样子，说儿子们已经买了新房子，她们年纪大了，上不去楼。难道她的余生就住在这窄小的简易房中吗？这个问题没有人再去问了。
+老家的农村条件也不甚好，但小孩子的记忆中自有明朗的一面，那满树鲜红的樱桃，那擦得甑亮的胆瓶......越到大了，再看到眼下一些农村脏乱不堪的景象，每次都会受到一些刺激，竟仿若从未见过此类场景的城里人一样了，想来也觉奇怪。
+晚餐中有一道“醉虾”，把活虾丢进酒和其它液体的浑浊液中，闷一会儿就可以吃了。有一次在徐州也是吃这道菜，我小心翼翼地夹了一只放在碗里，没想到这只虾酒量甚好没有醉透，拿在手中居然扭动起来，让我吃了一惊，直至终席也没敢吃上一只。这次又狭路相逢，明知道虾子还有生命，终是狠心把它放进嘴里，用牙齿直直地切下去。也没觉出什么味道来，如释重负地丢在一边。

@@ -1,0 +1,30 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q2HJfs004030
+	for <lu@ccert.edu.cn>; Tue, 27 Sep 2005 23:39:58 +0800 (CST)
+Message-ID: <200509261017.j8Q2HJfs004030@spam-gw.ccert.edu.cn>
+Received: (qmail 7144 invoked by uid 0); Tue, 27 Sep 2005 16:02:43 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Tue, 27 Sep 2005 16:02:43 -0000
+Date: Tue, 27 Sep 2005 23:57:59 +0800
+From: "ma" <ma@csnet1.cs.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgobCzpLfnxsbAy6GxtdrSu8bavbLX+aO6y7nC17G00Lu5q8u+vPK96SAo16rU2Ck=?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+【 以下文字转载自 THUExpress 讨论区 】
+发信人: charlesguo (小哥哥), 信区: THUExpress
+标  题: “长风破浪”第一期讲座：斯伦贝谢公司简介 
+发信人: opalmi (哆啦A梦的抽屉), 信区: SS_SAST
+标  题: “长风破浪”第一期讲座：斯伦贝谢公司简介 
+    斯伦贝谢（Schlumberger）是一家以高科技著称的大型跨国企业集团，世界五百强企业之一，其总部位于美国的纽约和法国的巴黎。斯伦贝谢公司由三大部门组成－油田服务、电子交易与测试和资源管理服务（RMS-Resource Mangagement Services）。
+    斯伦贝谢公司已有近百年的发展历史，。它是一家油田服务高科技公司，在全球拥有100多个办事处和20多个科技、生产中心。其员工人数超过65000人，他们来自100多个不同的国家及民族。
+    此外，斯伦贝谢公司还曾涉及多个业务领域，比如斯伦贝谢曾在2001年52亿美元收购英国技术信息公司SemaPLC公司，在智能卡、手机银行的研究方面作出了巨大的贡献，并且是2002年盐湖冬季奥运会和2004年雅典奥运会的IT信息设备提供商。
+    相关信息请访问斯伦贝谢公司网址：http://www.slb.com
+         大野友义 , 1944年4月台湾台北生。台湾清华大学数学研究所理学硕士（1968)，日本山梨大学电子计算机科学专业工学硕士（1972)，日本东京大学数学教室自动化理论专业研究员（1976)。  
+         大野先生是资深ISO9001 /Ticket体系首席评估师及SEI-CMM 评估师，曾负责过多个大型项目，如日本通产省大型项目-平行处理设计开发、油层分析研究-2D/3D图形图像处理及应用、日本斯伦贝谢(株) ISO9001/Ticket 认证系统的建立、NTT-斯伦贝谢大型项目的协调 (Verisys In
+         另外，大野先生还曾任日本庆应大学(情报科学研究所)兼职教授；现任中国石油大学（华东）兼职教授。

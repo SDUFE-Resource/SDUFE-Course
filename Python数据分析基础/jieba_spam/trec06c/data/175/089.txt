@@ -1,0 +1,22 @@
+Received: from smtp.263.net (mx04.x263.net [211.150.96.24])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LDnGRe032370
+	for <shen@ccert.edu.cn>; Sat, 24 Sep 2005 00:07:43 +0800 (CST)
+Received: by smtp.263.net (Postfix, from userid 500)
+	id 62B4343643; Sat, 24 Sep 2005 00:19:10 +0800 (CST)
+From: =?gb2312?B?bmFtZQ==?= <lu@263.net>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNKw787Sv7S/tM7StcS76cm01dW828euus/KysLwo78=?=
+Date: Sat, 24 Sep 2005 00:19:20 +0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+MIME-Version: 1.0
+X-Mailer: XMail-3.0
+Content-Type: multipart/mixed;
+	boundary="----=NextPart_263Mail-XMAIL-000-000-1127311244Ti4"
+Message-Id: <20050921140045.62B4343643@smtp.263.net>
+
+相册太少，这个价钱起码要争取到3本，
+底片也少了点，另外，要求台拍了没？
+至少要2套台拍
+     电话和青岛薇薇新娘联系的。国庆去拍。大家帮我看看这个价格可以接受吗？优惠是不是要少了。4380原价，32张底片，相册2本，全热裱，全满版。放大36寸和18*18，水晶8寸一个。5-6套服装，提供头饰、外景。优惠的承诺是38张，放大的一个是20寸兰麦（不知道是什么技术）。水
+     另外大家还有什么建议吗？多多指教啊。谢谢。

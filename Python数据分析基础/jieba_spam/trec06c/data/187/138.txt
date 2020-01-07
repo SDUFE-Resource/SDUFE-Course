@@ -1,0 +1,27 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdWEc032356
+	for <ning@ccert.edu.cn>; Mon, 26 Sep 2005 12:05:57 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 12:21:39 +0800
+Message-ID: <327652915.11497@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Mon, 26 Sep 2005 12:21:39 +0800
+Message-ID: <000201c5c1cf$bb5d1d80$0301a8c0@CCERTDAWEI>
+Reply-To: "weng" <weng@ccert.edu.cn>
+From: "weng" <weng@tsinghua.org.cn>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj4x+W7qtK70KnL+c690afV373Mytq1xL6vyr6joQ==?=
+Date: Mon, 26 Sep 2005 09:21:40 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+据我所知,学生提问不是那么好培训的.
+对于本文,前一段不评论,后一段,"摆个架子指指点点",送给楼主和J什么的更合适.
+         我不知王君超何许人也？亦不知他在什么样的心态下作出这番评论。但我以为这种言论都拿得出手的人确实有很大的勇气――比李敖在北大讲堂上慷慨陈词勇气要大得多！
+         只知道在事后摆着个教授的臭架子评评点点，只敢探头张望察无风险时唧唧歪歪。既然这么有水准，为什么不指导一下本校的学生如何提问呢？

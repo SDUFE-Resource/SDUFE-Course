@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <gu@ccert.edu.cn>; Thu, 25 Aug 2005 17:45:07 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 18:03:30 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 18:03:30 +0800
+Date: Thu, 25 Aug 2005 18:03:30 +0800
+From: shi@cernet.com
+Subject: =?gb2312?B?ofEgob7V0Ma4obvE2sfaw9jK6aOovLHQ6KOpo6E=?=
+To: gu@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+&gt; 汽车工程系交通安全与事故再现研究室招聘工作人员一名。&gt;
+招聘条件：具有大专及以上学历，35岁以下，身体健康；具有较强的责任心；熟练掌&gt; 
+握计算机文字处理功、软硬件安装、基本网络应用。&gt;
+工作职责：负责处理研究室内日常事务；&gt; 
+工作时间：每天（周六、周日除外）8：30~12：00，14：00~18：00&gt;
+待遇面谈&gt; 联系方式：鲁老师，袁老师 （62772721）tarl@mail.tsinghua.edu.cn
+截止日期：2005年8月27日

@@ -1,0 +1,23 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 09:49:41 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 09:11:59 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "tian" <tian@cert.org.cn>
+To: zhuang@ccert.edu.cn
+CC: "mei@ccert.edu.cn" <zhang@ccert.edu.cn>,
+   "kong@ccert.edu.cn" <lin@ccert.edu.cn>,
+   "gong@ccert.edu.cn" <yang@ccert.edu.cn>, "che@ccert.edu.cn" <jian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILjDsru4w7jmy9/Az8bF1ebP4A==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 09:57:26 +0800
+
+     我在国内，老婆目前在国外学习，因各种原因不能回国，老婆姐妹五个，她最小。上周岳父病危，我知道后立即告诉她家人瞒着我老婆，我立刻回去。她家人不愿意，认为要让老婆知道好，我也没有办法，只好告诉了老婆。
+     我回去后，岳父病逝，我要求她家人暂时瞒着我老婆，就说还在医院治疗，我认为她没有能力做些事情，一个人在外，怕她受不了打击，这样我还得担心她。本来我订的23号的机票，上周去看她呢。
+     现在处理完一切，她还不知道父亲已经病逝，不过她知道病非常严重，我也试探她能不能承受，她说可以。
+永远不要忘记清官不断家务事  永远记住对LP百说不厌 也不烦 也不恼的 最有效的 只有三个字---I L Y。

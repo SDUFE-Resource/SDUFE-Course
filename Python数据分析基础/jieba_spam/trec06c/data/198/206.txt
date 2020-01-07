@@ -1,0 +1,30 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <tu@ccert.edu.cn>; Wed, 28 Sep 2005 15:25:41 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Wed, 28 Sep 2005 07:48:35 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Wed, 28 Sep 2005 07:48:35 -0000
+Date: Wed, 28 Sep 2005 15:43:10 +0800
+From: "kong" <kong@csnet1.cs.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsrT0MutxNzNxrz20rvPwtOi0++1xLi0z7C3vbeoo78=?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+其实不怕说句丢脸的话，我看的阅读是《大学英语》（我的水平就是这么低）
+后来有个英语蛮不错的同学跟我说看这个没用的，应该看真题
+于是我就没再看它了，但还决定不了看什么阅读好
+因为真题毕竟有限，而且真题还要用来分析，总不能说只靠分析来提高阅读能力吧？
+说到底我底子太差了，现在时间又紧，
+否则我大可以从最适合自己水平的文章看起
+所以我还是厚颜地问句，阅读、作文跟翻译该用什么材料呢？
+像别人推荐的张锦芯200篇、曹其军的作文之类吗？
+（别怪我多口问太多，我现在真的快崩溃了）
+     背单词,做阅读的方法太被动了.
+     多做一下翻译和作文吧,这样能调动自己的主动性,当然也穿插阅读.
+     在阅读中背单词.

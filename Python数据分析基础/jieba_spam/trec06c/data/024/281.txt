@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J3gCnM014711
+	for <tan@ccert.edu.cn>; Mon, 22 Aug 2005 05:58:27 +0800 (CST)
+Received: (eyou send program); Mon, 22 Aug 2005 06:06:24 +0800
+Message-ID: <324423409.11928@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 22 Aug 2005 06:06:24 +0800
+Message-ID: <324423409.11903@mail.tsinghua.edu.cn>
+Received: from 202.112.4.166 by 166.111.8.18 with HTTP; Mon, 22 Aug 2005 06:06:24 +0800
+From: wen@mail.tsinghua.edu.cn
+To: tan@ccert.edu.cn
+Date: Mon, 22 Aug 2005 06:06:24 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgaW50ZWzW0Ln60dC+v9bQ0MTV0Ma4?=
+Content-Type: text/plain
+
+Open     Research Scientist     
+Location: Beijing, China
+Positions Available: 1
+Title: Sr. Researcher
+Grade: 6
+Reporting Manager: Du, John
+CTL Beijing lab (CBL) is a research and technology development lab within Intel China Research Center (ICRC) in Beijing. Its mission is to make CTL Beijing lab the best Communications Technology research and technology development lab in China. Its charter includes conducting world-class research and technology development, partner with Intel biz groups to max cross-architecture value and drive Intel communications technology leadership in China. 
+We are looking for a senior technologist in Communications and Networking domain related to Intel IA platform, with strong technical skill and team work experience, who can work with other team members in Beijing lab to achieve its mission by 1) Working with other research labs of Intel across the world and China academia and to deliver world class technologies which will have the impact on product groups\' roadmap and influence China market and Govt/industry standards.
+Qualifications:  The candidate must have innovative research ideas, be capable of setting research project and work effectively with others as a team.  This individual must  be a domain expert on Performance Networking on Intel IA with in-depth knowledge on latest IA CPU, chipset, memory and network I/O subsystem micro architecture, especially on parallel computing architecture. The candidate needs to have excellent oral and written communication skills to effectively engage in cross-Intel as well as external industry partners, standard groups and universities research collaborations. 2 - 3 years experience required with a track record of successfully complete research projects. A MS/PHD in EE/CS (or equivalent). Fluency in English and Mandarin required.  Candidates with more or fewer qualifications will be considered for higher or lower grade positions. 
+代友发文，有意者请投简历至： kevin.wang@intel.com

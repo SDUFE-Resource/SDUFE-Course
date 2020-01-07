@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j826MNsm028905
+	for <gao@ccert.edu.cn>; Sun, 4 Sep 2005 05:42:24 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j826YvNG017832
+	for <gao@ccert.edu.cn>; Sun, 4 Sep 2005 05:54:54 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sat, 3 Sep 2005 21:43:05 -0000
+Message-ID: <00b101c5af87$e9547800$787d6fa6@hotline>
+From: "su" <su@mail.tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMPAufq1xNbW1+XG58rT1ebT0MTHw7TA97qmw7Q=?=
+Date: Sun, 4 Sep 2005 05:51:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00AE_01C5AFCA.F7623430"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+讲的是人因为不同经历而形成的固有偏见，因为某种“执”而造成的隔阂以至不必要的冲突，而不单只是歧视这么狭隘
+     我觉得crash的高明之处就在于他们并没有那种赤裸裸的歧视，确切的讲其实无论黑人白人
+     都已经把歧视这个词当成了定时炸弹，那种明知道是错但是就是存在的怪异感觉，比如
+     那个检察官知道了黑人抢了他的车时候的表现，他说。。为什么非要是黑人。。因为无论

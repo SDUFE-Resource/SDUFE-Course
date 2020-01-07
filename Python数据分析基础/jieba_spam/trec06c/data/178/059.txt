@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <liu@ccert.edu.cn>; Sat, 24 Sep 2005 12:22:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <liu@ccert.edu.cn>; Sat, 24 Sep 2005 12:33:52 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 04:10:58 -0000
+From: "cai" <cai@mail.tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Cc: <ou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfUR0dQUMC0wcvS1Lrz?=
+Date: Sat, 24 Sep 2005 12:33:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+我要做你的粉丝
+     界各故事告诉我们以下几点
+     一.中国由于地大物博人口众多导致普通话推广具有极大的难度从而导致不同地区人员交流存在一定的难度.针对这个问题建议广大存在交流难度的同学们大力开展普通话扫盲活动.在有难度的情况下建议拿出学鸟语考gre的精神来攻克地方方言这一难关
+     二.勤俭节约是中华民族的传统美德,然而摸黑上厕所也确实很不方便,因此针对这一矛盾建议广大需要综合考虑省电&amp;上厕所之间矛盾的同学们开动脑筋运用辩证唯物主义思想解决问题,例如可以脑袋上按照矿灯or点蜡烛or不在家里上厕所改为在外面解决问题or一劳永逸的买带明卫的洗手间

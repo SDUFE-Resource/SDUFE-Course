@@ -1,0 +1,21 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <xue@ccert.edu.cn>; Sat, 3 Sep 2005 08:07:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <xue@ccert.edu.cn>; Sat, 3 Sep 2005 08:19:55 +0800 (CST)
+Received: (eyou send program); Sat, 3 Sep 2005 08:09:34 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Sat, 3 Sep 2005 08:09:34 +0800
+From: shen@mail.tsinghua.edu.cn
+To: xue@ccert.edu.cn
+Date: Sat, 3 Sep 2005 08:09:34 +0800
+Reply-To: shen@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INPQtePD1MOj?=
+Content-Type: text/plain
+
+     决定辞职了，等这一天很久了。
+     以前一直在盼望这一时刻，幻想着自己辞职的时候到底是什么样子，一直以为会是件很爽的事情。可是到了真的要离开的时候，似乎完全没有轻松的感觉，整个心都在悬着，对未来的不确定，对新环境莫名的担忧，对目前种种习惯的依恋，有时怀疑自己是否选择了一条正确的道路。
+     办理离职手续好麻烦，又要租新的房子，一切都是这么让人无法轻松。
+昨天我也辞职了，现在感觉也是怪怪的。

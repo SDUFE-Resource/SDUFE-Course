@@ -1,0 +1,20 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j863eH8r023838
+	for <zhong@ccert.edu.cn>; Wed, 7 Sep 2005 07:40:59 +0800 (CST)
+Received: (eyou send program); Wed, 7 Sep 2005 07:39:30 +0800
+Message-ID: <325977928.03325@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 7 Sep 2005 07:39:30 +0800
+Message-ID: <325977928.03308@mail.tsinghua.edu.cn>
+Received: from 166.111.8.254 by 166.111.8.18 with HTTP; Wed, 7 Sep 2005 07:39:30 +0800
+From: tu@mail.tsinghua.edu.cn
+To: zhong@ccert.edu.cn
+Date: Wed, 7 Sep 2005 07:39:30 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgtMfWsMHL?=
+Content-Type: text/plain
+
+水母社区内测得时候我进来了，忙活了半天搞了一个制版方针，其实还是抄的原来arrowpower的那个，又招几个核心网友。然后从原来伪站的版三变成了版大。
+这么久过去了，版面水化现象比较严重了，我有责任，而且事情是从原来伪站那个时候就开始了。
+近期原创较多，也希望其他的版主能处理好版面的工作，别让老人们失望啊，因为过去卸任的那些人（包括将来的我在内）都会继续潜水关注的。
+昨晚和人谈话到4点多，感触挺深的，一觉醒来决定辞去这个职务，一方面觉得生活应该变个样子，网络/虚拟世界别占据了我太多的头脑，另一方面我准备转战硬件了..混了一段时间，觉得那样比较合适，不是这种感情交流的版面，而是可以互相学习技术。
+bless 我走了阿，等sysop批准了我就潜水了。

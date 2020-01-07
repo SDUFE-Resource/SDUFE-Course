@@ -1,0 +1,72 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8V0cL023464
+	for <pan@ccert.edu.cn>; Sat, 20 Aug 2005 22:30:24 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 40F4F0045593
+	for <pan@ccert.edu.cn>; Sat, 20 Aug 2005 22:43:42 +0800 (CST)
+Date: Sat, 20 Aug 2005 22:37:48 +0800
+From: "ning" <ning@sohu.com>
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9GnyvW9stf5XTjUwjE4yNXPws7nM7XjsOsgRklUtPPCpTHH+DMxNSAo16rU2Ck=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084420.40F4F0045593@sohumx06.sohu.com>
+
+【 以下文字转载自 DCST 讨论区 】
+发信人: ginger9 (ginger9), 信区: DCST
+标  题: [学术讲座]8月18日下午3点半 FIT大楼1区315
+Title: Collaboration and Fairness in Open Spectrum Systems
+ 
+Heather Zheng 
+Microsoft Research Asia &amp; Department of Computer Science, Univ. of
+California, Santa Barbara (Starting from Sept. 2005) 
+ 
+A variety of wireless devices are becoming increasingly ubiquitous, placing
+additional stress on the fixed radio spectrum available to all access
+technologies. Current fixed spectrum allocation results in very poor
+utilization of spectrum. To reuse “wasted” spectrum, the recent proposal
+on Open Spectrum systems allows unlicensed (secondary) users to sense the
+presence of legacy licensed spectrum holders (primary users) and
+opportunistically utilize unused licensed spectrum on a non-interfering
+basis. This “creates” new capacity and commercial value from existing
+underutilized spectrum.
+While it shows promise, the technology underlying open spectrum systems is
+still in its infancy. Issues in wireless communications and networking, once
+addressed in the context of fixed spectrum assignment, offer new research
+challenges in the realm of open spectrum systems. In this talk, we describe
+some initial studies on spectrum management of open spectrum systems.  We
+begin by describing spectrum heterogeneity, a result of the dual-user nature
+of these systems that drastically complicates spectrum management. We then
+present a set of algorithms that allow fair spectrum access through the
+usage of network enforced rules. Specifically, we introduce both a
+centralized graph coloring approach that optimizes spectrum allocation for a
+static topology and a distributed approach where devices use local
+bargaining to adapt optimize spectrum assignment over topology variations.
+Next, we discuss the problem of device coordination in the absence of a
+predefined, commonly available spectrum slice for control traffic, and
+present our solution, a distributed coordination framework where devices
+dynamically select coordination spectrum slices based on local conditions.
+We conclude by summarizing this work in context, and discussing future
+directions in combining these results with higher layer mechanisms to
+produce an end-to-end programmable and adaptive network.
+ 
+Bio:
+Heather (Haitao) Zheng received her B.S.degree (with highest honor) from
+Xian Jiaotong University in July 1995, her M.S.EE and Ph.D degree in
+Electrical and Computer Engineering from University of Maryland, College
+Park, in May 1998 and July 1999, respectively. She joined wireless research
+lab, Bell-Labs, Lucent Technologies as a member of technical staff in August
+1999. In March 2004, she joined Microsoft Research Asia as a project lead
+and researcher. Dr. Zheng was admitted to the highly gifted class of Xi’an
+Jiaotong Univeristy, P.R. China at age of 15. She received 2002 Bell
+Laboratories President\'s Gold Award for outstanding level of innovation,
+technical excellence, and business impact, and 1998-1999 George Harhalakis
+Outstanding Graduate Student Award for outstanding contributions in
+cross-disciplinary research, from Institute of System Research, University
+of Maryland, College Park. She has served as guest editors of JSAC and
+EURASIP special issues and TPC members of many conferences. Dr. Zheng’s
+research area includes wireless communications and networking and multimedia
+computing. 

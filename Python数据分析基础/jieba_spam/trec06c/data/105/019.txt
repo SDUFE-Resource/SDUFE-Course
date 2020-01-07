@@ -1,0 +1,23 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j876ZGXw000980
+	for <qian@ccert.edu.cn>; Fri, 9 Sep 2005 04:18:13 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 2924001B7062
+	for <qian@ccert.edu.cn>; Fri, 9 Sep 2005 04:30:21 +0800 (CST)
+Date: Fri, 9 Sep 2005 04:30:20 +0800
+From: "zhuang" <zhuang@sohu.com>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgPLbA19S1yLT9Pr3xyNXJz9Oz?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907064725.2924001B7062@sohumx06.sohu.com>
+
+今年最好玩的电影？至少目前如此...
+《独自等待》 Waiting Alone
+编 剧： 伍仕贤 
+导 演： 伍仕贤 
+摄 影： 托比・奥利佛 
+主 演： 夏雨 李冰冰 龚蓓

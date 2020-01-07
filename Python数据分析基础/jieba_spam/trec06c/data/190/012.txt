@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <zhao@ccert.edu.cn>; Tue, 27 Sep 2005 01:52:11 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <zhao@ccert.edu.cn>; Tue, 27 Sep 2005 02:03:29 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 26 Sep 2005 17:38:55 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "he" <he@mail.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Cc: <bai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbBxMe49rj4xNDF89PRtcTQxdPQuNA=?=
+Date: Tue, 27 Sep 2005 02:03:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+     人类现在能把地球踩在脚下,女人生来就为此付出巨大的代价.
+     有时我会想以后应该把妇女妊娠生育的全过程制成记录片作为义务教育中的一环,尤其是临产,那种鲜血淋漓的痛苦的视觉上的冲击是文字无法比拟的.虽然我依旧怀疑会有人把这当作刺激来看...
+     现在可减轻这种痛苦的方法也不是没有,但是不是太贵就是有可能对婴儿存在伤害,并不是每个母亲或未来的母亲都能在物质和心理上接受的起的.
+   最好的办法并不是发明什么仪器，而是男人真正学会心疼女人，对女人好！

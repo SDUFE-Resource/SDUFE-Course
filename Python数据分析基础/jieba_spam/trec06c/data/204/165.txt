@@ -1,0 +1,47 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <xin@ccert.edu.cn>; Thu, 29 Sep 2005 14:38:28 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 06:49:39 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 14:49:38 CST
+Date: Thu, 29 Sep 2005 14:49:38 +0800 (CST)
+From: liang ming <xing@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgsb7Rp8batdrSu7TO0KOzpL3TtP3I1bzN0qo=?=
+To: xin@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+提出问题有:
+1.西门内东西主干道的路灯问题.西门到游泳池一段路,路灯刚好淹没在树叶当中.而出入
+骑车的路人看不清,遇到减速带或者路障的时候存在安全隐患.建议路灯可以修高一点,高
+于树冠,或者低一点在树底下.
+2.六教东道路交通问题.上学期曾经实施过分段交通管制,在上下课时间不允许机动车行
+走.但是本学期初一段时间,由于综体附近有工程,所以开通此路段让运泥车行走,但是同
+时也有小车进来.在9:50上下课的时间,经常在六教路口堵车.希望能坚决阻止机动车在上
+下课时间在六教东的道路行走.如果有需要运泥车行走,希望增加保安,只放运泥车通行.
+3.zj1#沦陷啦,厕所水管爆裂,1楼都淹没在*水中,臭气熏天.而紫荆8号楼后的下水管道
+似乎有问题，污水横流好几天了.同时回忆1年多前紫荆6#1楼也出现过水管爆裂.紫荆4#
+(还是5#)楼下天花掉落.紫荆公寓如此多的问题与巨大的资金投入是否有点矛盾?
+4.现在3X#女生楼都还没有装门卡.虽然这个是比较安全,但是住在门口的宿舍每天晚上
+都受到滋扰.她们希望能够在女生楼装门卡.
+5.游泳馆为何涨价?是原来亏本了还是为了限制人数?
+6.34#到紫荆8#的路段晚上没有路灯
+7.博士生基金问题(因为我具体不清楚,所以当时表述也不明白,然后被老师问住了)
+8.W楼热水问题
+9.东区女浴室2层水龙头很多都坏了或者出水很少,希望能维修.
+10.31#7楼某些没阳台窗户朝西的宿舍夏天炎热状况(晚上温度经常达36摄氏度),既然现
+在女生宿舍有富余的,希望到下一次分宿舍的时候这几个宿舍不要再分给新生了!
+问题回复:
+1.W楼热水问题,还是由于北京市能源紧张,而且短期内不能解决.
+2.紫荆公寓1#出现的情况当晚很快就修好了,而且没有像提问所说的"1层2层都淹了".另
+外紫荆8#的是因为下水管道堵了.这也是因为同学们经常往里面扔东西,捞出来很多本来
+不应该往里头扔的(例如内衣等等).希望同学们也能注意一点,爱护我们的家园
+对校园交通问题研会学生会也有提到,相信他们比我记录要详细,我就懒得写了.
+感谢向我提出意见建议的同学.
+同时由于某些原因,有些意见我未能在校长接待日中反映,在此对这些同学表示抱歉!

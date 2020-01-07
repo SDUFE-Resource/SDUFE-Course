@@ -1,0 +1,31 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <kang@ccert.edu.cn>; Sun, 21 Aug 2005 09:38:18 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <kang@ccert.edu.cn>; Sun, 21 Aug 2005 09:51:20 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 10:14:48 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: yu@126.com
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxa66otfTw8e74dPQ1eLR+bXE1KS40MLwo78=?=
+Date: Sun, 21 Aug 2005 09:46:02 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+你第一眼看到一个男生，不管是现实中，还是网上（能相互看到的方式），你第一感觉，接下来你们很可能有故事发生！
+然后，一段时间的接触之后事实上确定如此，两个人会相互有好感，然后不管能不能发生什么，也许两个人就相互告诉对方自己的欣赏，然后各做各的事，走各的路；也或许接下来是一段love affair，看两人当时的状况了
+但，如果第一次看到一个人，没有这样的感觉，不管他多帅，多有能力，多优秀，以后再不会有感觉，基本也不会发生任何事。
+JM们也这样吗？
+觉得自己的第六感真强，包括在一瞬间感觉自己和对方对自己的兴趣！

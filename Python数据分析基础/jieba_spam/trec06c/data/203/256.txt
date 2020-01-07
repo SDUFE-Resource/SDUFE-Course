@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R9oOdP018957
+	for <pan@ccert.edu.cn>; Thu, 29 Sep 2005 11:46:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8RA1dYd023981
+	for <pan@ccert.edu.cn>; Thu, 29 Sep 2005 11:57:37 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 11:32:34 +0800
+Message-ID: <327813796.02359@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 11:32:34 +0800
+From: liu@mail.tsinghua.edu.cn
+To: pan@ccert.edu.cn
+Date: Thu, 29 Sep 2005 11:32:34 +0800
+Reply-To: liu@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INbQv8bUurzGy+PL+bbBsqm687u5ysfWsb3Ttb26vczsNTAyy/m5pNf3o78=?=
+Content-Type: text/plain
+
+争取去国外做博后吧，国内就是扯。
+     标  题: 中科院计算所读博后还是直接到航天502所工作？
+     
+     本人应届博士，北京重点大学自控专业
+     对中科院计算所很不了解
+     不知道待遇怎样，做博后有没有前途和钱途，呵呵，将来发展如何？
+     请院里，特别是了解计算所的xdjms给指点一下
+     到底是去读后好呢，还是直接在502工作？
+     希望高人指点！！！
+     --
+     

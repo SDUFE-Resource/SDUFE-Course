@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <wang@ccert.edu.cn>; Mon, 26 Sep 2005 21:52:59 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Mon, 26 Sep 2005 21:56:17 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 13:56:15 UT
+To: wang@ccert.edu.cn
+From: yan@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQtuDJ2bCuv8nS1NbYwLSjqDE1o6k=?=
+
+哎   不容易啊
+     回到美国以后，我买了手机，跟exmm打电话就更勤了。可是她开始抱怨，说我打电话太多，耽误她时间。
+     于是，每次我打电话说几句，就让她说“我爱你”，然后就可以挂了。但是她一般不肯说。
+     我很气愤。我妥协了，不再逼她ml，可是她怎么就不体谅我一些呢？每次让她说“我爱你”，她会推说旁边有人什么的，我当然不喜欢这种借口。但是一般我会说，那就算啦……然后聊点别的。

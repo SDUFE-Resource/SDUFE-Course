@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <tang@ccert.edu.cn>; Fri, 2 Sep 2005 07:51:20 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 07:54:12 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 07:54:12 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 07:54:12 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 23:47:35 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 07:39:45 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 07:39:45 +0800
+From: gu@mails.tsinghua.edu.cn
+To: tang@ccert.edu.cn
+Cc: jian@ccert.edu.cn
+Date: Fri, 2 Sep 2005 07:39:45 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILWxvd7Dq9P2tb3R28Dh?=
+Content-Type: text/plain
+
+貌似现在多了许多这种当××遇到××为题目的文章
+       他和她相遇在开水房，她的水满了，可是她还在发呆，水流了好远，他帮她把水龙头关上，很自然的。她对他淡淡地笑了一下，没有一般小女生的惊讶。相对无语。
+     晚上他上课的时候偶然发现她也在，他过去提醒她说这间教室今天晚上有课。她却很淡淡地说她知道 。
+         以后他发现他会不时地在很多场合看到她。一个人，静静的做着很多让人费解的事。

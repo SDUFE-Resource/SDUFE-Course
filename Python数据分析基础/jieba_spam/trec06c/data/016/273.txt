@@ -1,0 +1,32 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <lin@ccert.edu.cn>; Sat, 20 Aug 2005 12:22:52 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Sat, 20 Aug 2005 12:39:18 +0800 
+Date: Sat, 20 Aug 2005 12:35:54 +0800
+From: "pan" <pan@admin.iscas.ac.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvMbL47v616jStbXE0KHLtrHP0rW689a7xNy008rCyO28/r+qt6LC8KO/?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+快毕业了，还不知道自己能做些什么样的工作
+本科是英语专业的，毕业后直接读的计算机专业研究生
+经验比较少，只做过一些简单的java有关的编程，做过一些黑盒测试
+这一年主要在做数据挖掘方面的课题研究
+眼看要找工作了，还很迷茫：
+1、觉得自己不适合搞软件开发，经验少，不好找工作
+2、也觉得搞开发没啥前途
+3、有没有啥工作能让我的两个专业都有用武之地呢？
+4、什么工作对将来创业比较有帮助呢？
+对了，补充一下，我是女生，不知道就业的时候有没有性别歧视
+请猛拍！

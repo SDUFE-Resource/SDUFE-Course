@@ -1,0 +1,44 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <xie@ccert.edu.cn>; Sun, 18 Sep 2005 05:17:09 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <xie@ccert.edu.cn>; Sun, 18 Sep 2005 05:33:44 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <xie@ccert.edu.cn>
+	; Sun, 18 Sep 2005 05:33:44 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <xie@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 04:58:45 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "su" <su@njnu.edu.cn>
+To: xie@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzsLI4Q==?=
+Date: Sun, 18 Sep 2005 05:28:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+兰女 
+你体尝过温柔的滋味吗？你给予过别人温柔吗？ 
+月光是温柔的，它将清凉，柔和的银辉洒向大地，轻缓地抚慰着受伤的记忆。 
+雪花是温柔的，它在半空娟娟的飞舞，消融在大地母亲温暖的胸怀。 
+春风是温柔的，它轻悄的拂过河面，坚冰也出现了裂痕。 
+春雨是温柔的 ，它无声无息地渗入大地，滋润了麦苗渴盼的眼神。 
+飞翔的花朵是温柔的，它用美丽柔和的快乐，飞扬了自己的心事，悄然绽放了青春的亮丽。 
+少女的眼神是温柔的，清澈明洁，带着幽微的神秘，藏一季的心事。 
+孩子玩后带一身尘土回家，你轻轻的帮她洗掉满身的疲累，这个时候，你是否感到内心滋生的正是这样一种叫做温柔的情愫啊，心头涌动的是圣洁的母爱！ 
+当你夜间 沿着思绪的小溪在文海中徜徉时，爱人悄悄的给你递上一杯热茶，这个时候，你有没有体会到爱人含情脉脉的温柔？心头涌动的是无言的感动！ 
+哦，原来，温柔就在你我的身边，它与善良做伴，与宽容相连，与爱想随。 
+只有善良，我们才能感知那些蹑手蹑脚的美感，感知到静和，美好，温情，从而丰盈了我们的思想，温柔了我们的情怀。 
+宽容是一道风景，你若以闲逸散淡的心漫步其中时，宽容也成了一道温柔的风景。惟有宽容，我们才会有大海般宽阔的心胸，才能在惆怅时笑对秋风，才充实了我们的情感，感动了我们的生命，温馨了我们的生活。 
+而爱，是不用任何乐器就在心中奏响的小提琴曲 啊，涤荡去的是张狂和浮躁，留下的是清新流淌的小溪，不经意间成熟了自己，浸润了生命的每一个季节，灿烂了平凡生活的点点滴滴。 
+因为善良，所以宽容；因为宽容，产生博爱。因为爱，这个世界变的温柔而多彩。 
+温柔，何其神气微妙的东西啊，如柳舞风，其情绵绵；如花绽放，其香幽幽。它是善良，宽容，爱的结晶体，它坚强有力，与美丽并存！

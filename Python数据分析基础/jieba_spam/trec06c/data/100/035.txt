@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86NYrNl030488
+	for <xiao@ccert.edu.cn>; Thu, 8 Sep 2005 02:59:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j86Nl5Cw020630
+	for <xiao@ccert.edu.cn>; Thu, 8 Sep 2005 03:11:22 +0800 (CST)
+Message-Id: <200509062347.j86Nl5Cw020630@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 7 Sep 2005 18:57:04 -0000
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: xiao@ccert.edu.cn
+Cc: <guo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILGxtPPR0L6/yfqz9tffMjLM7M60uekgwdnX38qxtPO/3tfFz8LCpQ==?=
+Date: Thu, 8 Sep 2005 03:11:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C5B380.54702A70"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzPUXCPFDEFrr6STeY429PH7DHSw==
+
+“同学们都不敢相信他出走的事实。”
+我还真就不信。
+     北大研究生出走22天未归 临走时大哭着下楼出走前最后一句话：“妈妈，我没有能力！” 
+     　　本报讯“妈妈，我没有能力！我没有能力！”这是北大研究生柳剑锋出走前在电话里向母亲哭着说的最后一句话。从8月15日凌晨至今，这位北大信息科学技术学院的硕士研究生已经出走了22天了，至今未归。
+     　　“我们养育了他20多年，他就这么狠心一个人出走了，活不见人，死不见尸。他趁同学睡着的时候走的，钱包、证件、手机都放在宿舍里，宿舍保安看到他大哭着下的楼。”昨晚，柳剑锋已近花甲之年的父母见到记者时泣不成声。20多天来，他们四处散发寻人启事，今天更准备胸

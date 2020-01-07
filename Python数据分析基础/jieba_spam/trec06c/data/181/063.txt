@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <zheng@ccert.edu.cn>; Sun, 25 Sep 2005 01:37:57 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <zheng@ccert.edu.cn>; Sun, 25 Sep 2005 01:49:18 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 17:26:18 -0000
+From: "li" <li@mail.tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Cc: <lu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sun, 25 Sep 2005 01:49:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+教父，搞笑，那那个谁谁，写linux的Tov*摆那，
+随便在国内抓一个搞嵌入式的，那个不是把linux（或者topsy之类）的内核搞的乱熟的；这种应用层面玩玩linux的，即使在民工的技术层面里，也是最没技术含量的。
+但客观的讲，他用自己的热情和精力推动gnu的发展，这个是值得肯定的，所以，自然不会有大牛牛出来说什么。况且大牛牛工作之余，忙着gun的bug，都没精力了，那个不是懒洋洋的。
+但仅仅凭那已知的两下（是否有其他未公开的不知道），我这种混混都觉得在纯技术上不值一提。类似微软的mvp之类的玩意，名头挺大，内涵不足。
+其实也无所谓，但太拿这个说事就无聊得很。
+     昨天有人说他是中国linux的教父，哈哈

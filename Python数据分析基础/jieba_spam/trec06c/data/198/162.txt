@@ -1,0 +1,42 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <lian@ccert.edu.cn>; Wed, 28 Sep 2005 14:44:22 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Wed, 28 Sep 2005 14:47:37 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 06:47:35 UT
+To: lian@ccert.edu.cn
+From: tang@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3B9N7E7sqyw7SwoaO/?=
+
+我用手写输入
+     标  题: Re: 土艮念什么啊？
+     
+     嗯，用拼音输入中文的人都没有这个疑问
+     
+     : 标  题: Re: 土艮念什么啊？
+     : 
+     : 
+     : 银？
+     : 
+     : : 标  题: Re: 土艮念什么啊？
+     : : 
+     : : yin2
+     : : 
+     : : : 标  题: 土艮念什么啊？
+     : : : 
+     : : : 
+     : : : rt
+     : : : 
+     : : : --
+     : : : 
+     : : 
+     : : 
+     : : --
+     : : 用手画出彩虹  

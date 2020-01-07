@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <xin@ccert.edu.cn>; Sun, 25 Sep 2005 12:48:11 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <xin@ccert.edu.cn>; Sun, 25 Sep 2005 12:59:40 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 04:36:46 -0000
+From: "qiu" <qiu@mail.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Cc: <qian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S0rLLtcG9vuTN9dvz?=
+Date: Sun, 25 Sep 2005 12:59:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+他的确是个学习型的人才，但是研究上就不知道了
+我学linux也是从看它的文章开始的
+他的确能耐下心来读帮助读文档
+但是以他的能力从来没有为开源社区做过什么贡献
+科研上也是
+可能他真的不明白科研是十年阵痛后的一朝分娩
+像庞加莱，最后一位通才
+对于多体问题曾苦思十年之久，如果没有这种境界
+我想到了哪儿都难以达到自己的理想
+     扯吧你,我从头到尾没看出来他老板有什么不好,他老板已经尽力给他环境了.
+     几个月可以不来实验室,还不够宽松?给他联系老师讨论问题还不够宽松
+     指责可以,稍微有点逻辑好吧,他受到了环境多大的迫害?

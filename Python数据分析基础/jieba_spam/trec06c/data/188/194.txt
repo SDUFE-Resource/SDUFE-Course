@@ -1,0 +1,18 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PBM1hB031975
+	for <he@ccert.edu.cn>; Mon, 26 Sep 2005 18:40:44 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 18:28:04 +0800
+Message-ID: <327646561.19141@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 26 Sep 2005 18:28:04 +0800
+Message-ID: <327646561.19123@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Mon, 26 Sep 2005 18:28:04 +0800
+From: xia@mail.tsinghua.edu.cn
+To: he@ccert.edu.cn
+Cc: zhan@ccert.edu.cn
+Date: Mon, 26 Sep 2005 18:28:04 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Content-Type: text/plain
+
+re
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。

@@ -1,0 +1,23 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8431hfN008529
+	for <xie@ccert.edu.cn>; Sun, 4 Sep 2005 22:10:18 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM900833VWCO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Sun, 4 Sep 2005 22:28:00 +0800 (CST)
+Date: Sun, 4 Sep 2005 22:24:04 +0800
+From: =?gb2312?B?wre0utPq?= <jian@cernet.com>
+Subject: =?gb2312?B?UmU6IL30vLG99Lyxx/PW+qOho6GjoaOho6GjoaOho6GjoaOho6GjoaOh?=
+To: xie@ccert.edu.cn
+Cc: "grey.wang" <qian@ccert.edu.cn>, swgui <wu@ccert.edu.cn>,
+ zhaohonglin82 <zeng@ccert.edu.cn>
+Message-id: <0IM900834VWCO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_4iCo3BsWakluEN5O95QvqA)"
+
+     偶买了富士通S2020,我买的时候他们告诉我说这是512的内存，但是我回来发现包装箱上写的是256内存，他们改成了512，我打电话给他们他们说是他们自己加了内存。本来就很不喜欢这个机子，现在更是郁闷到极点，想不管怎么样都得退掉。我朋友告诉我我现在想退机子唯一的办法就是明天（检测站周末休息）去检测站检测，如果有一个内存条不是原装而是兼容内存条的话，我就死咬着不是原装这个理由不放去要求他退机子，甚至说是要找消协要求索赔。这个理由充足吗，可以退吗？？如果坚持要退，还要注意怎么说啊，毕竟他们对付起我来是易如反掌：（
+     有没有好心人愿意明天帮我去说话啊，我电脑盲，什么都不懂5555555555555555
+     真的谢谢
+一定要坚持打赢这场争议的战争！

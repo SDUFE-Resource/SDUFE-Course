@@ -1,0 +1,32 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <liu@ccert.edu.cn>; Sun, 21 Aug 2005 17:45:02 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <liu@ccert.edu.cn>; Sun, 21 Aug 2005 17:58:13 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "ye" <ye@126.com>
+To: liu@ccert.edu.cn
+Cc: <zhao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+W7qs2st73Wqs341qrKtrmks8zR0L6/1LrV0Ma4ICjXqtTYKQ==?=
+Date: Sun, 21 Aug 2005 17:58:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+【 以下文字转载自 Career_MNC 讨论区 】
+发信人: flyeager (笨鸟), 信区: Career_MNC
+标  题: 清华同方知网知识工程研究院招聘
+清华同方知网知识工程研究院招聘
+大家都用过&lt;中国学术期刊网&gt;(www.cnki.net)吧, 图书馆就有. 它是我们公司的主要产品, 也是一项福泽后代的阳光事业. CNKI(中国知识总库平台)的主要功能是对中文学术期刊,报纸,论文等进行加工,存贮,检索,下载,传播,分析操作,为用户提供学术文献检索服务. 产品对象包括大学图书馆,科研院所,大型机构和决策部门等, 绝大部分国内(包括港,澳,台)大学,科院机构都是该产品的用户, CNKI还有大量的海外市场, 包括东南亚, 东亚, 美国等国家数十家大学和机构都使用了该产品. 为了提高产品质量和性能,CNKI研究院近期招聘相关领域的专业人材,从事海量文本数据的检索,分析,理解的研究和开发, 涉及的专业包括:
+自然语言处理(NLP), 信息检索(IR), 计算语言学, 机器学习, 文本内容理解和挖掘, 电子词典建设, 中文, 知识抽取, 知识管理等.
+硕士以上学历,1年以上实验室/公司相关领域的研发经历. 
+请与我们联系:
+xuedejun@cnki.net
+我们将为您提供优厚的待遇和研发环境.
+希望通过我们的共同努力, 提高计算机理解中文文本的能力, 推动中文信息在网上的传播和利用, 让更多的中国人通过网络找到知识!

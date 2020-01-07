@@ -1,0 +1,28 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <ling@ccert.edu.cn>; Thu, 1 Sep 2005 17:15:15 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 17:18:07 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 17:18:07 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 17:18:07 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 09:11:30 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 17:03:40 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 17:03:40 +0800
+From: tian@mails.tsinghua.edu.cn
+To: ling@ccert.edu.cn
+Cc: ding@ccert.edu.cn
+Date: Thu, 1 Sep 2005 17:03:40 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INaj1ti+r7jmo7rK1rv6zajRtsK8vMnTw6GwwM+5q6GxoaKhsMDPxsWhsQ==?=
+Content-Type: text/plain
+
+我跟老婆的银行密码从来不通过短信，msn等不安全的方式明码发送
+     郑重警告：手机通讯录忌用“老公”、“老婆”!!!!!
+     北京7台的节目披露：有一妇女手提包被偷，里面有手机、银行卡、钱包等。20分钟后，当她打电话告诉老公被偷的事，老公惊呼：啊，我刚才收到你的短信问咱家卡的密码,我立马就回了！赶到银行时已被告知里面所有的钱都已被提走。小偷通过用偷来的手机发送短信给“亲爱的老公

@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <gu@ccert.edu.cn>; Wed, 28 Sep 2005 07:40:24 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 23:26:40 -0000
+Date: Wed, 28 Sep 2005 07:52:24 +0800
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: gu@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+也许是一个必须经历的阶段 跨过去就好了
+     我LG是一个典型的大男子主义，一点也不允许我有自己的意见和想法。例如：1开车上班我走辅路，他说为什么不走主路？我说主路更堵，待会出不去，他无语。可是几天后却因为这件事跟我发脾气，说我不听他的话，然后拿这个举例。我真是目瞪口呆啊。2正在给他烫出差穿的衣服，他突然说要找什么东西，我说待会帮你一块找，马上好。可是又发脾气，说反正我骨子里老想做主，就是不听他的话。诸如以上种种，不胜枚举。我现在真是无可奈何了，觉得自己已经成了一个木偶似的，可是他还是不满意，感觉自己的生活没意思也没意义，很苦闷。也知道这样的? 橐鲆丫

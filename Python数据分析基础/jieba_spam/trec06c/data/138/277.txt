@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <liao@ccert.edu.cn>; Fri, 16 Sep 2005 03:57:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <liao@ccert.edu.cn>; Fri, 16 Sep 2005 04:08:53 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 19:50:23 -0000
+From: "he" <he@mail.tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Cc: <jiang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfruN/K1l/V97j2w/s=?=
+Date: Fri, 16 Sep 2005 04:08:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+搞笑论坛
+     标  题: 请高手_征个名
+     
+     想为一个论坛，讲座性质的论坛取个名字，这个论坛的大致情况是这样：
+     
+     就是每个月定期请清华校内或者校外一些知名学者、学术泰斗级人物举行一次学术方面的讲
+     座，讲座可以探究科学研究方法，理论前沿这类。
+     
+     请大家其个名:??论坛,差头两个字,欢迎填充!
+     
+     --
+     

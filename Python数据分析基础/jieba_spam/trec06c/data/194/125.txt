@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <gan@ccert.edu.cn>; Tue, 27 Sep 2005 21:52:08 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Tue, 27 Sep 2005 21:55:23 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 13:55:21 UT
+To: gan@ccert.edu.cn
+From: peng@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SvMe1w6OsxOPKx9PQyKjXqtfitcQ=?=
+
+我说了，做为房客，租出去的，不是房子。
+     一、出租人应交验的有关证件：
+     　　1．房屋所有权证件，即房产证。如果承租人是其他省市的外来流动人员，则还应提交公安部门核准发给的《房屋租赁治安许可证》。
+     　　2．出租人的身份证明。如果是共有房屋，则还需提交其他共有人同意出租的书面证明或委托书。若房屋委托他人代为出租，则代理人还须提交房屋所有人委托出租的书面证明。

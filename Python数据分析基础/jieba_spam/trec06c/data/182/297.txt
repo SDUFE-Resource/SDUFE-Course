@@ -1,0 +1,56 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <wua@ccert.edu.cn>; Sun, 25 Sep 2005 10:29:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <wua@ccert.edu.cn>; Sun, 25 Sep 2005 10:40:28 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 02:17:28 -0000
+From: "zhao" <zhao@mail.tsinghua.edu.cn>
+To: wua@ccert.edu.cn
+Cc: <ni@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INK7uPbKtdHpytLNrNGntcS/tLeo?=
+Date: Sun, 25 Sep 2005 10:40:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+ nod  not Tech. but aplication
+     标  题: Re: 一个实验室同学的看法
+     
+     俺觉得冥想不算technical
+     
+     : 标  题: Re: 一个实验室同学的看法
+     : 
+     : 个人理解问题。我开会碰见一个老外，跟他说我们这边都是搞
+     : technic的。然后他跟我说all sciences are technical.
+     : 
+     : :  computer science &amp; computer engineer
+     : :  应明生还算搞research得把 
+     : 
+     : 
+     : --
+     : 正如ciwp的文章所言，在一些人处在水深火热生死攸关的时候，另一些人看来，不过是游
+     : 戏一场，人生是不是游戏这个问题就像鸡生蛋蛋生鸡一样被无数人讨论了无数个年头，依
+     : 旧各执一词没结果。
+     : 所以其实这人生没个标准答案，你写成什么样的它就是什么样的。所以我们要学会喜欢自
+     : 己亲笔写下的东西，快乐的一页当然好，悲伤的已既成事实，也不能撕掉啊，不如以天真
+     : 和简单的心情去对待吧。                         ――ifitis《如果生活欺骗了你》
+     : 
+     : 
+※ 修改:・S0S0 于 Sep 24 15:09:25 修改本文・[FROM: 210.77.27.*]
+     
+     
+     --
+     “我见到靓女总是情不自禁叫my god，嘴合不拢，你试试看，d自然发不出音来，是不
+     是有点native的味道？所以学英语一定要有语境，懂不懂？麦高又是洋名micheal的音
+     译，也作迈克，港译米高，长的意思，所以麦高也可以理解成老迈年高，我本来也比你
+     大。麦者，麦芽糖，高者，高粱饴，都是甜食哟。甘之如饴听说过没有？舌头觉得甘，
+     自然就是甜。甜从甘旁舌声，恬就发这个音，不过你不要说我恬不知耻哟，我是嘴巴甜
+     甜的麦高。”“你给我住嘴！”“你生气的时候也这么好看。”我言不由衷的揶揄她。
+     
+     

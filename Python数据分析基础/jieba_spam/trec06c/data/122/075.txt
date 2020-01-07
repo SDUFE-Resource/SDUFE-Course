@@ -1,0 +1,33 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C5ZHks008458
+	for <lu@ccert.edu.cn>; Mon, 12 Sep 2005 19:30:05 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8C50nS32226
+	for <lu@ccert.edu.cn>; Mon, 12 Sep 2005 18:55:18 +0800
+Message-Id: <200509120500.j8C50nS32226@mail.cert.org.cn>
+From: "yana" <yana@cert.org.cn>
+To: lu@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: CNCERT/CC=CD=F8=C2=E7=B0=B2=C8=AB=D3=A6=BC=B1=BC=BC=CA=F5=B9=AB=BF=AA=BF=CE=CD=A8=D6=AA?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 12 Sep 2005 19:39:37 +0800
+
+代友发布招聘信息，请直接电话联系，勿回邮箱。
+工作职责：
+    负责公司网站的技术支持与技术服务，开发并维护公
+司网站站点。
+任职资格：
+  1)计算机相关专业，本科以上学历；
+  2)电子商务网站开发两年以上实战经验；
+  3)熟练掌握Linux/Apache/PHP/Mysql解决方案；
+  4)熟练掌握SMARTY模版和PHP面向对象编程；
+  5)精通基于WebService 技术的互联网系统开发；
+ 6)具有团队精神，沟通能力强，踏实肯干，善钻研；
+  7)提供可演示的系统或产品者优先考虑
+待遇要求：面议。一经录用，待遇优厚。
+联系电话：63330722/25/26   13366051695
+联系人：刘先生

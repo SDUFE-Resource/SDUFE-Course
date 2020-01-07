@@ -1,0 +1,15 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBMZaM026296
+	for <ren@ccert.edu.cn>; Fri, 16 Sep 2005 03:57:53 +0800 (CST)
+Received: (eyou send program); Fri, 16 Sep 2005 03:51:35 +0800
+Message-ID: <326696577.15347@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 16 Sep 2005 03:51:35 +0800
+Message-ID: <326696577.15331@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Fri, 16 Sep 2005 03:51:35 +0800
+From: ou@mail.tsinghua.edu.cn
+To: ren@ccert.edu.cn
+Date: Fri, 16 Sep 2005 03:51:35 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgus3L+9Ta0rvG8Na7ysfOqsHLw9ayudLFurbC8D8=?=
+Content-Type: text/plain
+

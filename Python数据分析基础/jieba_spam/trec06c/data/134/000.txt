@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <qiu@ccert.edu.cn>; Thu, 15 Sep 2005 05:16:37 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <qiu@ccert.edu.cn>; Thu, 15 Sep 2005 05:28:36 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 14 Sep 2005 21:10:50 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "su" <su@mail.tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsrO0rjD1/bKssO0o78=?=
+Date: Thu, 15 Sep 2005 05:24:37 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+看了你的文章，想起了我们家的事。我爷爷有三个儿子，老爸是长子，因为爷爷奶奶身体不好，很小就挑起家庭重担。老爸是个厚道孝顺的人，妈妈更是一个朴实贤惠的人，但我爷爷奶奶从小就疼我两个叔叔，爸妈做的再好也总能挑刺出来。老妈属于那种只做不说的人，两个弟媳能说会道，我母亲从来只会默默的做事。有时我们看不过去的时候，会说不在理他们了，但母亲还是说服我们，想想母亲这么多年受了多少委屈啊。还是很羡慕你lp,不管怎么说，还有lg会考虑自己的感受，安慰一下。而我母亲只能默默承受。其实别人对她怎么样无所谓，关键是你要对她好，别人没有给她准备爱吃的东西，你可以饭后再带给她啊，感觉让父母改变不太容易，也会使关系更加僵化。
+     细节1：
+     弟媳很忙（据她自己说，当然我弟也这么说），所以父母在我家时，她
+     常常说加班不过来。不知道从什么时候起，我父亲开始整天说年轻人就

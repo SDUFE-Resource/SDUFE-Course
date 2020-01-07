@@ -1,0 +1,22 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <wang@ccert.edu.cn>; Sun, 28 Aug 2005 23:31:36 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 23:42:09 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sun, 28 Aug 2005 23:42:09 +0800
+From: "bai" <bai@ctbu.edu.cn>
+To: wang@ccert.edu.cn
+Date: Sun, 28 Aug 2005 23:42:09 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "bai" <bai@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgtPO80r71tcO9qMGi0ru49klU1rDStdXfwarDy8jnus4=?=
+Content-Type: text/plain
+
+你看人nba都有那种组织的，定期弄些劳资谈判什么的，缓和劳资矛盾。
+而我们所处的IT行业，唉，我感觉是一个比较尴尬的行业，一方面说待遇好，一方面又是有种吃青春饭的感觉，没有保障（当然我所说的是大多数人）。那么我们是否有必要建立一个类似工会一样的组织来维护我们这个行业的就业人员的共同利益呢。只是我们这个是一个行业工会，全IT行业的员工都可以成为联盟的成员。
+至于联盟的权利，那就很多了，最基础的一个我觉得就是帮助建立一个合理的劳资合同，比如可以确立最低劳资保障，最低合同年限等；另外还可以有就业经验交流之类的活动，具体还要集思广益。
+义务嘛，也不容易确定，大概想想人nba，可能就是大家一块儿抗抗议，罢罢工之类的吧。
+如果我们的联盟能够发展壮大，把整个IT行业的就业者都成为我们的会员，那我们真的可以部分摆脱在就业中的被动地位了。
+这个就是我这两天一点不成熟的想法，我们大家好好讨论讨论，说不定一个伟大的组织就此诞生呢！

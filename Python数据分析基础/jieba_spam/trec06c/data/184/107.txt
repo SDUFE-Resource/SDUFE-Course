@@ -1,0 +1,23 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 17:37:34 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 16:59:52 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "yi" <yi@cert.org.cn>
+To: pu@ccert.edu.cn
+CC: "sun@ccert.edu.cn" <he@ccert.edu.cn>,
+   "shi@ccert.edu.cn" <cen@ccert.edu.cn>,
+   "zhan@ccert.edu.cn" <jian@ccert.edu.cn>, "zhao@ccert.edu.cn" <zhan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INKy0O3Kx87S09DOyszisMmjrNfcysexu8WuuqLPsru2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 17:45:19 +0800
+
+     不要认为是炫耀贴，说的是事实。也不要认为我条件优秀，身高172cm，65kg，农村家庭
+     自己究竟哪里吸引女孩子真的没明白。也没有去追女孩，或者刻意对哪个女孩好
+     有的说我比较会照顾人，但有的没被我照顾过的怎么知道
+我觉得你就是所谓的“大众情人”吧，这种人我也见过，大多对其它女孩子很好，讨得女孩子欢心，性格比较开朗，比较多情，能够同时对很多女孩子好。

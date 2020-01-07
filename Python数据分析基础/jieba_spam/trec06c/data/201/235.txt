@@ -1,0 +1,29 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <zeng@ccert.edu.cn>; Thu, 29 Sep 2005 03:28:42 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 19:39:49 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 03:39:49 CST
+Date: Thu, 29 Sep 2005 03:39:49 +0800 (CST)
+From: liang ming <gu@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INXkz6fT67WtyLs=?=
+To: zeng@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+也许你魅力不够，他轻易把你看透，所以热情冷却。
+     一段感情还在继续着，用一句歌词形容最恰当不过“痛并快乐着”。
+     在一本杂志上看到这样一句话：“爱是男人感情的停留，是女人感情的开始”。
+     当我开始了我的感情时，我却发现他的热情似乎在一点点冷却。
+     不知道是恋爱中的女人太怕失去，还是男人得到了就已经无所谓。
+     时常在想这个问题，有时候甚至怀疑自己是否太过敏感，是否应该总去肯定或怀疑他的爱。
+     一直以来心很累，当累到一定程度的时候，我已经不想再去想了，随它去吧。
+     值得珍惜的，不是已失去和未得到，而是拥有。
+     拥有的时候，珍惜；失去的时候，淡然。
+     我这样告诉我自己
+     这也是我唯能安慰自己的

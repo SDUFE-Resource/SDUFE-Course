@@ -1,0 +1,30 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <peng@ccert.edu.cn>; Mon, 12 Sep 2005 19:40:30 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Mon, 12 Sep 2005 19:52:29 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <peng@ccert.edu.cn>; Mon, 12 Sep 2005 19:52:28 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <cao@dlut.edu.cn>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDQ0OE3E2rTmtcS158TUus3O0sPH0rvG8LbIuf21xMjV19M=?=
+Date: Mon, 12 Sep 2005 19:52:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+赞！:)
+     我的电脑5周岁了，昨天进行了一次比较大的升级，重新开机后，看着“系统信息”里
+     显示出怪异的448M内存容量，不禁想起5年来它伴着我们走过的路，写两句作为纪念吧。
+     这台电脑诞生于2000年8月。当时是即将去报到读研，捏造了很多冠冕堂皇的名目，跟
+     家里要来6000元预算，跟着一位开电脑店的老兄，杀到中关村热闹非凡的攒机市场。
+     当时正是AMD推出DURON处理器不久，VIA的配套芯片组KT133也刚到店热销，现在回想起
+     来，基本上就是从这个时候起，AMD联合VIA等一些小兄弟，凭借新K7体系架构，上演了PC
+     处理器领域的绝地大反击，一时间也曾把Intel打的彷徨措手，哈哈，我的电脑差不多算
+     是市面上第一批DURON

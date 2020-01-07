@@ -1,0 +1,42 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <chen@ccert.edu.cn>; Fri, 30 Sep 2005 08:26:23 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Fri, 30 Sep 2005 00:11:57 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "wei" <wei@mail.tsinghua.edu.cn>
+To: chen@ccert.edu.cn
+Cc: "Duan Haixin" <xin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMz4v6rN9dvztcS49sjL0NDOqqOstNO087jftsjJz7e0y7y/xtHQxsC828zl1sY=?=
+Date: Fri, 30 Sep 2005 08:37:14 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+呵呵  欧觉得你和秀才弄模糊了两个不同方面的问题
+1 paper bbs 至少在通讯手段上是比目前方式先进的
+2 paper bbs 制度上最差可以借用目前审稿制度
+不同的是 paper bbs将会使得学术混混丢掉饭碗 这才是最大的阻力
+     标  题: Re: 跳开王垠的个人行为，从大高度上反思科研评价体制
+     
+     paper太容易发，那么噪声就很大，无法鉴别信息。
+     
+     再说不有学术会议吗，其目的就是让人关税的。
+     : 现有的发paper流程太低效了 
+     : 如果真是处于交流的目的，那么远不如建个paper bbs.
+     
+     
+     --
+     
+     我在网上遇到的最好的朋友是杨过,他正直,纯洁,聪明,敏锐,
+     还拥有魅力四射的眼神,这些都非常的象我.
+     
+     哈哈哈哈
+     
+     
+     

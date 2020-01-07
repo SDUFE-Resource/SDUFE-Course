@@ -1,0 +1,38 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <yi@ccert.edu.cn>; Tue, 13 Sep 2005 02:26:11 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Tue, 13 Sep 2005 02:38:10 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Tue, 13 Sep 2005 02:38:06 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "ren" <ren@dlut.edu.cn>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX3yMu45svfztLV4rj20Ka7sLXE0uLLvKOsQm93?=
+Date: Tue, 13 Sep 2005 02:33:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     标  题: 征人告诉我这个笑话的意思，Bow
+     
+     真的不懂，大家能否解释一下：
+     
+     一皇帝出巡多年返京，忽闻一皇妃生子，
+     心想：我在外这么久，她怎么会怀孕生子，准是身旁太监所为。
+     于是大怒召集所有太监，并令他们排队报数：１，２，３，４（太监的细声），５（粗声）。
+5是假太监
+     “不用报了！”皇上说，“把那个报５的关进死牢明天问斩！！”
+     夜过三更，那皇妃怀抱婴儿偷入死牢，
+     对报５的说：“我已买通牢役，咱俩快逃，到一个谁也找不到的地方过幸福生活。”
+     ５说：“来不及了，已经晚了（细声的）。”
+被皇上整成真的了
+     --
+     Some men get the world...others get ex-hookers and a trip to Arizona.
+     
+     

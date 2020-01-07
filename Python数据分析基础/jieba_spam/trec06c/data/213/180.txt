@@ -1,0 +1,71 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U301rY010973
+	for <gong@ccert.edu.cn>; Sat, 1 Oct 2005 17:02:49 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s67T079931
+	for <gong@ccert.edu.cn>; Sat, 1 Oct 2005 16:57:33 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.200])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s2q2079927
+	for <gong@ccert.edu.cn>; Sat, 1 Oct 2005 16:56:50 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id t9so856482wxc
+	for <gong@ccert.edu.cn>; Sat, 1 Oct 2005 02:13:04 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=W8KmBVYgtJQpTKJHhyqBPQpNMrndwd0y2MpDtldR3I4RhE6Kc4T1HsM706J0vp9CsI6L8ZXwRUVAEpb0VeWHwwgHOmzIJg3N5ezU1rxXNE5OB77ZnjAGIUptwrX52M2CpQAbjQGH9u8CAY2rjKNU/w6Ll7Ao3skKpgKarKaNhNI=
+Received: by 10.70.28.8 with SMTP id b8mr798445wxb;
+	Sat, 1 Oct 2005 02:13:04 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Sat, 1 Oct 2005 02:13:04 -0700 (PDT)
+Message-ID: <a00ed9800509292010qaccea32sfc4e2251cb90c982@mail.gmail.com>
+Date: Sat, 1 Oct 2005 02:13:04 -0700
+From: Shaozhi Ye <xie@gmail.com>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMPGy8A=?=
+In-Reply-To: <200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+	<200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j8U2s2q2079927
+Precedence: list
+Reply-To: Shaozhi Ye <xie@gmail.com>
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+ 看小说吧！
+杨过摔在山坡，滚入树林长草丛中，便即昏晕，也不知过了多少时候，忽觉身上刺痛，
+睁开眼来，只见无数白色蜂子在身周飞舞来去，耳中听到的尽是嗡嗡之声，跟着全身奇痒入
+骨，眼前白茫茫的一片，不知是真是幻，又晕了过去。
+    又过良久，忽觉口中有一股冰凉清香的甜浆，缓缓灌入咽喉，他昏昏沉沉的吞入肚内，
+但觉说不出的受用，微微睁眼，猛见到面前两尺外是一张生满鸡皮疙瘩的丑脸，正瞪眼瞧着
+自己。杨过一惊之下，险些又要晕去。那丑脸人伸出左手捏住他下颚，右手拿着一只杯子，
+正将甜浆灌在他口里。
+    杨过觉得身上奇痒剧痛已减，又发觉自己睡在一张床上，知那丑人救治了自己，微微一
+笑，意示相谢。那丑脸人也是一笑，喂罢甜浆，将杯子放在桌上。杨过见她的笑容更是十分
+丑陋，但奇丑之中却含仁慈温柔之意，登时心中感到一阵温暖，求道：“婆婆，别让师父来
+捉我去。”
+    那丑脸老妇柔声问道：“好孩子，你师父是谁？”杨过已好久没听到这般温和关切的声
+音，胸间一热，不禁放声大哭起来。那老妇左手握住他手，也不出言劝慰，只是脸含微笑，
+侧头望着他，目光中充满爱怜之色，右手轻拍他背心；待他哭了一阵，才道：“你好些了
+吗？”杨过听那老妇语音慈和，忍不住又哭了起来。那老妇拿手帕给他拭泪，安慰道：“乖
+孩子，别哭，别哭，过一会身上就不痛啦。”她越是劝慰，杨过越是哭得伤心。
+    忽听帷幕外一个娇柔的声音说道：“孙婆婆，这孩子哭个不停，干甚么啊？”杨过抬起
+头来，只见一只白玉般的纤手掀开帷幕，走进一个少女来。那少女披着一袭轻纱般的白衣，
+犹似身在烟中雾里，看来约莫十六七岁年纪，除了一头黑发之外，全身雪白，面容秀美绝
+俗，只是肌肤间少了一层血色，显得苍白异常。杨过脸上一红，立时收声止哭，低垂了头甚
+感羞愧，但随即用眼角偷看那少女，见她也正望着自己，忙又低下头来。
+    孙婆婆笑道：“我没法子啦，还是你来劝劝他罢。”那少女走近床边，看他头上被玉蜂
+螯刺的伤势，伸手摸了摸他额角，瞧他是否发烧。杨过的额头与她掌心一碰到，但觉她手掌
+寒冷异常，不由得机伶伶打个冷战。那少女道：“没甚么。你已喝了玉蜂浆，半天就好。你
+闯进林子来干甚么？”
+     唉，漫漫下午，无心工作，全公司的人都在磨蹭耗点儿

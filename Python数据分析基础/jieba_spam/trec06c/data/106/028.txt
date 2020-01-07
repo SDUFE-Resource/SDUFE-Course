@@ -1,0 +1,34 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j888M6Jx010719
+	for <yi@ccert.edu.cn>; Fri, 9 Sep 2005 10:14:49 +0800 (CST)
+Received: from cernet27fd8164 ([211.68.120.195])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMH00NKBPDV0F@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 9 Sep 2005 10:32:13 +0800 (CST)
+Date: Fri, 9 Sep 2005 10:27:05 +0800
+From: noc-serv <gong@cernet.com>
+Subject: =?gb2312?B?ofEg1dDGuLzm1rA=?=
+To: yi@ccert.edu.cn
+Cc: you@ccert.edu.cn
+Message-id: <047d01c5b450$1df5d280$c37844d3@cernet27fd8164>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+
+招聘兼职JAVA工程师6人 （研二学生）
+ 
+工作性质：兼职
+招聘人数：6人 
+月薪范围：面议 
+招聘对象：各大院校研二学生 ，在大运村附近住宿者优先。
+工作地点：北京    
+职位描述及要求：
+1、    时间充足有保证
+2、    学习能力比较强.
+3、    主要的工作是做html页面,对html\\javascript很熟悉,能手写代码，java好的优先考虑.
+4、    住大运村附近的学生优先考虑。
+请将简历发至：yuanlx@ahm.com.cn；
+联系电话：62625832转152

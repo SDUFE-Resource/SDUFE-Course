@@ -1,0 +1,46 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <guan@ccert.edu.cn>; Tue, 13 Sep 2005 20:45:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <guan@ccert.edu.cn>; Tue, 13 Sep 2005 20:57:12 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 12:40:00 -0000
+From: "tian" <tian@mail.tsinghua.edu.cn>
+To: guan@ccert.edu.cn
+Cc: <xue@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvNxtHQXcuuxr1Jv7zK1MO709C/vMvjtuDJ2bfWo78=?=
+Date: Tue, 13 Sep 2005 20:57:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+关于成绩计算
+发出日期：2004-09-21
+1《清华大学英语水平I》考试成绩为外语成绩，按4学分计算，日语、俄语等小语种由学
+生所在院系参照执行；
+2《清华大学英语水平I》未通过不计入报名资格审查的不及格门数，但成绩（从未参加考
+试者按0分计）须计入学分绩计算；
+3 体育课只计算体育1--4的成绩；
+4 同门课程的每次考核成绩（包括历次重修或重考成绩）均计入学分绩计算。
+这是1字班的政策，有资格而且靠多少算多少
+    学分绩计算的第一步是确定计入学分绩的课程。由于各院系，甚至各专业课程设置
+等都不一样，需要各院系根据各自的培养方案确定计算入学分绩的课程，学校没有一个
+等都不一样，需要各院系根据各自的培养方案确定计算入学分绩的课程，学校没有一个
+统一的标准。学校统一确定的是外语课程和体育课。水平I考试成绩将作为外语课成绩计
+入学分绩。在计算学分绩时按4学分计算，但毕业审查时仍计为12学分。如果参加过水平
+I考试但未通过，将不会计入报名资格审查的不合格门数，但成绩计入学分绩计算。对于
+至今没有参加过水平I考试的同学，外语成绩则会按0分计算。小语种的同学由所在院系
+参照这一规定执行。体育方面，只计算前两年的体育课成绩，大三的体育专项课成绩不
+计入推研的学分绩计算。
+这是0字班的政策，也是这样
+再早的政策我找不到了，不过大体思想一致吧
+这两篇都是官方的政策，不是小道消息的，我估计今年变化不会太大的
+算0分怎么也没道理是吧，其他课程挂也是算0分的。水平一的特殊性主要在于他不是某一个
+学期固定要修的，而是时间自由选择。主要是为了防止有人为了防止拉学分积到了大四还不
+考才定的没考算0分。反正我是这样想的。
+     对~~

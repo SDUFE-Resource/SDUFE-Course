@@ -1,0 +1,28 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <lin@ccert.edu.cn>; Sun, 25 Sep 2005 03:03:45 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Sat, 24 Sep 2005 19:11:13 -0000
+From: "tu" <tu@mails.tsinghua.edu.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Date: Sun, 25 Sep 2005 03:20:54 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    对于你说的下面这一段我又有些看法：我有些可惜，你没能继续狂下去。
+    我觉得狂在学术上是一个“必经阶段”，我们不一定总停留在这个阶段，但这个阶段会给我们带来很大的好处，那就是思想上的无权威，这个是必备的学术精神，我很希望国内的做学术的人能够在这个阶段多停留一段时间。
+    我很有信心，即便不是你导师，也必然有一个人或一些事足以提醒你的不足，因为狂人特别是内心狂的人还不少，你狂的时候周围总会有人打击你的。当然，在你感激你的导师这一点上来看，你很有中华民族的“传统美德”，我加引号的意思不是贬义，但我觉得在当代的中国学术上，并不很需要这种“美德”，能一直狂下去最好。
+    在我看来，现在中国cs学术上非常需要那种很狂，然后不断的有人打击，仍能继续狂下去的人，做研究是一定会有思想冲突的，我们需要这样的旗帜。
+    所以，我要说的是，你狂下去的话，一样可以在科研这条路上走的很远，或许那些已经在中国的学术界这样做的会受伤很严重，但这件事情总需要有人去做。
+/////////////////////////////下面是原文的一段
+我本科和研究生都是在清华念的，我觉得我在清华最大的收获就是学会了“夹着尾巴做人”。这是导师亲口和我说的，我觉得对我这一辈子都是受益无穷的。我在读研究生的时候也取得过一些小小的成绩，当然和王同学比起来差的还是比较远的，不过是一些专利和一些SCI罢了。当时我就有点狂，觉得博士毕业也不过我这样的水平。我导师当时就敲我的警种“你的这些成果有多少能够转化为生产力？”“你的研究成果有多少是运气成分在里面？”“你有没有考虑到别人对你的帮助？”“你的基础是不是真的牢固了？”。非常感谢导师对我的提醒，我仔细想了一下觉得自己确实有很多的不足，我现在每天都在认真看书，充实自己。我想要是当时不是导师对我的提醒，我在科研这条路上也不会走的太远。

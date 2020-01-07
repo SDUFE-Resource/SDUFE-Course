@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <qing@ccert.edu.cn>; Mon, 22 Aug 2005 03:55:49 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <qing@ccert.edu.cn>; Mon, 22 Aug 2005 04:09:03 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 03:37:44 +0800
+Date: Mon, 22 Aug 2005 04:08:54 +0800
+From: "liao" <liao@wnt.com.cn>
+To: qing@ccert.edu.cn
+Cc: "lic" <xie@ccert.edu.cn>, "sunt" <yi@ccert.edu.cn>, "caoy" <fu@ccert.edu.cn>,
+        "wangb" <gao@ccert.edu.cn>, "songhm" <liu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMPAufrC28yzwO/GwLzbtcTW0Ln6yMujqNeqo6k=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+这些缺点看起来很眼熟，好像从五四开始就有这种言论吧，现在
+只是陈腔滥调再搬出来弄弄而已。如果多看看国外的新闻，我们
+会发现这些问题应该提高到人性的角度来思考，并结合客观环境，
+很明显该文的作者只是把人类共有的标签贴到了中国人身上，对
+于此等言论，一点也不觉得愤怒，因为作者在否定他人的同时是
+在否定自己！
+     中国人缺乏诚信和社会责任感。 
+     中国人不了解他们作为社会个体应该对国家和社会所承担的责任和义务。 
+     普通中国人通常只关心他们的家庭和亲属，中国的文化是建立在家族血缘关系上而不是建立在一个理性的社会基础之上。中国人只在乎他们直系亲属的福址，对与自己毫不相关的人所遭受的苦难则视而不见。 

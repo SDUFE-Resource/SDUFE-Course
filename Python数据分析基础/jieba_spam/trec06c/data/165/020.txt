@@ -1,0 +1,33 @@
+Received: from smtp.263.net (mx04.x263.net [211.150.96.24])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LDnGRe032370
+	for <zhong@ccert.edu.cn>; Wed, 21 Sep 2005 20:42:00 +0800 (CST)
+Received: by smtp.263.net (Postfix, from userid 500)
+	id 62B4343643; Wed, 21 Sep 2005 20:53:27 +0800 (CST)
+From: =?gb2312?B?bmFtZQ==?= <ling@263.net>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob62zMba1dDGuKG/SUJN0rXO8dfJ0a/KwtK1sr/V0Mq1z7DJ+g==?=
+Date: Wed, 21 Sep 2005 20:53:37 +0800
+X-Priority: 3
+X-MSMail-Priority: Normal
+MIME-Version: 1.0
+X-Mailer: XMail-3.0
+Content-Type: multipart/mixed;
+	boundary="----=NextPart_263Mail-XMAIL-000-000-1127311244Ti4"
+Message-Id: <20050921140045.62B4343643@smtp.263.net>
+
+    IBM业务咨询事业部因业务需要，现急招实习生1－2名，有关信息如下：
+工作地点：广州
+工作时间：10月－12月
+要求：
+1．有志于进入咨询行业；
+2．2006年度毕业的MBA/经管学院的研究生或者2005年已经毕业但是尚未就业的
+MBA/经管学院的研究生，目前能够全职工作3个月；
+3．有电信工作经验优先；
+4．目前的需求是电信行业分析、企业战略及业务运营模式设计分析、组织模式设计；
+5．英语良好者优先；
+待遇：面议
+请把简历在周五同时下午5点半之前发入以下信箱：
+联系人：arthur.du@cn.ibm.com
+        qingshan.zheng@cn.ibm.com
+        zijian.cang@cn.ibm.com
+面试时间：本周六

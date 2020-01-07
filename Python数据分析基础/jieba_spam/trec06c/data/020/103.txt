@@ -1,0 +1,31 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <gong@ccert.edu.cn>; Sun, 21 Aug 2005 05:05:11 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <gong@ccert.edu.cn>; Sun, 21 Aug 2005 05:18:13 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 05:41:41 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: bi@126.com
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Sv7ShtrCiyamhtw==?=
+Date: Sun, 21 Aug 2005 05:12:55 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+我今天不上班,没什么事情就去电影院看的.
+看完觉得没什么意思,还不如看恐怖片七夜呢.
+     每一个想看黑帮片的人也许都会失望了，因为《阿嫂》根本就不是一个黑帮片――虽然这里的社会环境是黑帮。
+     影片从头到尾具备典型的韩式好莱坞风格――温馨，浪漫，特写，加露骨的扮酷，急转的情节和突兀的台词。也许故事最主要的表达在于纯洁――彻底的纯洁在面对暴力和阴谋时候所表现出来的勇气和力量，也或者是弱小和绝望。
+     全片唯一的创新点在于创造了一种新的黑帮火拼方式――机车大战。只有财大气粗的黑帮才会玩得起这种火拼，比枪战更具消耗性。

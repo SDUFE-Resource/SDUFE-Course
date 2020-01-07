@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <che@ccert.edu.cn>; Tue, 13 Sep 2005 13:42:24 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <che@ccert.edu.cn>; Tue, 13 Sep 2005 13:54:25 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 05:36:58 -0000
+From: "chen" <chen@mail.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <cen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgy7ayqcGstsHU2rbBxtq85MTcu7u1vMqmw7Sjvw==?=
+Date: Tue, 13 Sep 2005 13:54:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+各位大哥大姐：
+    本人2003年进入国内一所重点大学（非清华）成为一个硕博连读的研究生，今年已经正是进入博士培养阶段。
+    本学期刚开始，突然导师找我谈话，说他今年加我在内一共带了3个博士，精力不够，建议我另换其他导师。我当时就表示不愿意换导师，他脸色凝重的说：“你还是考虑一下！”。虽然距离找我谈话已经有一段时间了，但是我心里一直不好想，为什么就要我换导师，而不要其他两个博士换呢？况且我2003年就入校，2005年进行博士注册，这是培养计划上早就写好的，你明知道这个，为什么今年还要再加2个博士？
+    真不知道我换导师的事是否可行，即使可行，我的研究方向，所选课程难道都要重修？
+    请各位帮忙出出注意吧！谢谢
+  
+P.S.我不想成为另一个跳楼的博士！

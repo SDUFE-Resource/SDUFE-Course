@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <xu@ccert.edu.cn>; Thu, 29 Sep 2005 04:39:10 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 20:50:20 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 04:50:20 CST
+Date: Thu, 29 Sep 2005 04:50:20 +0800 (CST)
+From: liang ming <lu@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgz+vR+NK71ru5tyy4+Mv8xvDD+2V4LWJmtcTD+9fW?=
+To: xu@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+    今天午饭的路上,看到草地上一只白色的花斑小狗,太可爱了.身上有点土,看上去稍微有点脏.我看着它,它也那么一脸茫然的看着我.看了好长时间,像是比赛谁先输一样.我这个人从来不喜欢宠物,不过看到它,真的特别想抱回去自己养.
+    它看了看我,自己孤孤单单的又在草地上,找了一个只有一个手指粗的小树枝的树荫,躲在里面.还在回头看我.
+    那一刻,我有一种冲动,把这个狗偷回去自己养,而且要给它起ex-bf的名字.或许是受了中午他在msn告诉我"他有女朋友了"的刺激吧.
+总有那么多不如意~~

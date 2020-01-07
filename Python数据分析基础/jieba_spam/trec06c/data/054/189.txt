@@ -1,0 +1,20 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q8frpZ012129
+	for <bai@ccert.edu.cn>; Mon, 29 Aug 2005 08:30:10 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <430ED8CA.0000D0.32715@m115.126.com>
+Date: Mon, 29 Aug 2005 08:42:23 +0800 (CST)
+From: "ling" <ling@126.com>
+To: bai@ccert.edu.cn
+Subject: =?gb2312?B?ofEgo9vV0Ma4o928vMr11ve53Nb6wO0vuN+8tsjtvP65pLPMyqY=?=
+X-Priority: 3
+X-Originating-IP: [222.82.97.251]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_nydxdIXIQAMDkzacqLhDtoxLoZym"
+
+Job Openings
+  Community Engine(CE) 公司是开发在线娱乐软件及其平台的软件公司。
+我们拥有简单的公司架构,注重员工的能力，在这里所有人机会均等。
+我们拥有一支年轻，掌握尖端技术且有创造力的开发队伍，
+欢迎同样能够创造新的娱乐价值的人才加入到我们中来！
+[研发

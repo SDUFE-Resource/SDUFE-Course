@@ -1,0 +1,24 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <che@ccert.edu.cn>; Sat, 20 Aug 2005 11:32:03 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <che@ccert.edu.cn>; Sat, 20 Aug 2005 11:45:07 +0800 (CST)
+Date: Sat, 20 Aug 2005 11:39:24 +0800
+From: "qiu" <qiu@sohu.com>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+qt6K5pLPMyqbIy8n61q7Ct3p6ZnJvbSBmdWRhbg==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+我是这样理解的。
+从精神世界来说，
+所谓“辟邪剑法”，就是说在国内为了做开发工作（研究工作可能不一样），必须放弃自己其他方面才能的发展机会。 
+为了赶上日新月异的技术发展，为了迎合项目的紧迫日期，只能牺牲自己的时间。并且，开发工作需要高度的专注并且承担很高的压力，所以即使有时间也很难有心情搞别的。而对于一些其实有才华的人来说，这种牺牲不值得，因为国内核心开发工作实在太少，主要是从事一些例行性工作。久而久之，对电脑形成依赖，惰性养成，对外面的世界也就没有原先的精彩感觉了，这是很悲哀的。 因为这个世界，生活的根本还是在于人，在于人际。
+至于物质世界，就不用多说了。
+     都没人有什么想法看法吗？难道电子的就不要活了？都要转行了？
+     国外的技术人员生存状态如何？
+     他们的技术优势谁开发出来的呢？他们几岁？

@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j87BlNH3002554
+	for <li@ccert.edu.cn>; Thu, 8 Sep 2005 10:12:20 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j87Bxb76001146
+	for <li@ccert.edu.cn>; Thu, 8 Sep 2005 10:24:34 +0800 (CST)
+Message-Id: <200509071159.j87Bxb76001146@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 8 Sep 2005 02:10:01 -0000
+From: "bi" <bi@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Cc: <ma@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILeiysTU2dKysru4+EdH1/a2q873s9TByyE=?=
+Date: Thu, 8 Sep 2005 10:24:30 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C5B3E6.AA53DD40"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzo5wDUyjmuLAhQNybYzBBmyxuiw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+你好贤淑
+       到现在心里还是有一股难忍的火,不说说今晚睡不着.
+       今天晚上,说好GG上完家教回来,我要给他做绿豆汤,之前的绿豆用完了,他就打电话让送外卖的送两斤绿豆上来.晚上一煮,乖乖,洗了那么多遍的绿豆里冒出许多蛀虫.....他就开始嫌弃,说什么虫子很多,但是宿舍的其他女孩子都吃的好好的啊,....这时他就把那碗汤端起来挑给那女孩

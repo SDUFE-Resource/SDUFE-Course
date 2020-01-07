@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82NbfwP002626
+	for <lv@ccert.edu.cn>; Sun, 4 Sep 2005 03:46:32 +0800 (CST)
+Received: (eyou send program); Sun, 4 Sep 2005 03:46:52 +0800
+Message-ID: <325704282.09716@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 4 Sep 2005 03:46:52 +0800
+Message-ID: <325704282.09698@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sun, 4 Sep 2005 03:46:52 +0800
+From: fu@mail.tsinghua.edu.cn
+To: lv@ccert.edu.cn
+Cc: ding@ccert.edu.cn
+Date: Sun, 4 Sep 2005 03:46:52 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILrN0r3J+kxQ1fnWtA==?=
+Content-Type: text/plain
+
+借鉴一下国外的经验，国外的医疗费用很高。但是如果你有保险的话，那就只用交很少一部分钱。当然，医院还是拿全部的钱。他们从政府的医疗保险金里面拿。但是作为患者，就不必理会这些，交了属于自己的那百分之几的钱之后，其他的就交给医院和政府了。
+医生也不管收钱，他每个月拿自己的工资就行了。
+我们这边主要是社保不完善。医生们从政府那里拿不到钱，自然只好从患者身上弄了。而且医疗还没有放开，垄断行业，利润自然也就高了。其实，凡是垄断，就比较黑，我觉得。
+     偶LP是医生
+     最近和偶看电视，经常看到医院收费太高，不透明之类的节目，
+     医疗改革失败， 就随便聊，  聊到一个亲戚得早期癌症，住医院，一周5万

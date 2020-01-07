@@ -1,0 +1,24 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBHaMG026280
+	for <xue@ccert.edu.cn>; Fri, 16 Sep 2005 02:38:06 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id A7E89718597; Fri, 16 Sep 2005 02:49:57 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 139F3733E57; Fri, 16 Sep 2005 02:49:56 +0800 (CST)
+Message-ID: <053901c5b91f$8fe966d0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <yuan@dlut.edu.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7mruOZdIExvdmUgsOaw5tb3IGRpZGlkYXIgyM7C+tC2yM4gKNeq1Ngp?=
+Date: Fri, 16 Sep 2005 02:49:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0536_01C5B962.9DFC0500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 BoardManager 讨论区 】
+发信人: SYS02 (SYSOP), 信区: BoardManager
+标  题: [公告] Love 版版主 dididar 任满卸任

@@ -1,0 +1,28 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <tu@ccert.edu.cn>; Fri, 9 Sep 2005 10:39:26 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <tu@ccert.edu.cn>; Thu, 8 Sep 2005 19:51:33 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Thu, 8 Sep 2005 19:51:33 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Thu, 8 Sep 2005 19:51:33 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Fri, 9 Sep 2005 10:51:33 +0800
+From: =?GB2312?B?1/O+pw==?= <zhan@gmail.com>
+Reply-To: zhan@gmail.com
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVssW157uw1qq1wM7StcTEzMTMyKXKwMHLo6zQxMDvusPE0bn9o7qjqA==?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+bless, 
+同时让我想起我的爷爷，一个为我们家操了一辈子心，疼爱了我们三弟兄几十年的老人，一个鼓励我们通过上学改变命运，为三个孙子都考上重点大学而骄傲，却又不得不接受孙子远离自己的事实的老人。在他90岁去世的时候，没有一个孙子在身旁的老人，不知道爷爷是否对此心有遗憾，只是听爸妈说他老人家是微笑着走的，应该是去天堂了，我坚信这一点。
+因为爷爷虽一生平凡，但人品很好，一生救过好几条人命。爷爷命算大，多次从鬼门关成功脱逃，一来源于他会功夫打下的身体基础，二来是他行善积德。
+小时候和爷爷一个被筒睡觉达几年之久，睡前的故事，睡时的掖被角，早晨叫醒我起床去上学，都让我一辈子刻骨铭心。愿他老人家在天堂过的舒心，不用再多操心。

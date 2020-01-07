@@ -1,0 +1,34 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <wen@ccert.edu.cn>; Sat, 20 Aug 2005 10:59:13 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 03:09:27 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 03:09:27 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "lu" <lu@jdl.ac.cn>
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgoauhq9fJ0a+49s7KzOKjrMjtvP61xMewsbLLtcu1v7Shq6GrICjXqtTYKQ==?=
+Date: Sat, 20 Aug 2005 11:13:35 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 WorkLife 讨论区 】
+发信人: kabbesy (封印者・MoCuishle), 信区: WorkLife
+标  题: ～～咨询个问题，软件的前辈说说看～～
+在现在公司做J2EE两年
+自认为自己水品还很不错
+整个部门的全部源码全都有
+当然其中也有我自己做的部分
+因为我是平台研发的
+但是，公司战略把部门cut了
+用我手上这点东西
+怎么换取点更大的利益啊？
+说正经的，我第一次换工作啊
+刚看完超女，大家发发水，指点一二
+^_^

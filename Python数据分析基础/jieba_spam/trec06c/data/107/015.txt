@@ -1,0 +1,34 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <tan@ccert.edu.cn>; Fri, 9 Sep 2005 15:35:09 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 9 Sep 2005 15:53:09 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Fri, 9 Sep 2005 15:53:08 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "mo" <mo@mail.csu.edu.cn>
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+u9zLnY09rN2se9vcejrNTaz9+jrNC70LujoQ==?=
+Date: Fri, 9 Sep 2005 15:34:35 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+喜欢一个女孩，表白之后才知道她有男友，她男朋友很优秀，可是他们很少在一起，两个人
+都在学校，可是可以一个月不联系，开始她拒绝过我，可是上个前几天她跟我说她和她男朋
+友算是分手了（这句话有点含糊，她的原话是这样的），我问她对她男友的感觉，有时说她
+喜欢她男友，有时又说不喜欢，想和他分手。
+前几天她主动找我看电影，后来我约她看电影，她也很高兴答应了。她叫我别在提她男朋友
+的事情，其实我提她男朋友都是真心的夸她男朋友，她男朋友好像很忙，没有时间跟她在一
+起。（不过说老实话，即使再忙要是喜欢对方的话，至少每天一个电话或者抽个时间一起吃
+饭，可是她说他们一个多月都没有联系，她都不知道她在干什么，这一点我感觉是她男朋友
+不对）
+现在有点迷茫，我挺喜欢她，当然最不希望成为她男朋友的替代品（），我不知道她心里是
+怎么想的。
+谢谢各位帮忙分析一下。

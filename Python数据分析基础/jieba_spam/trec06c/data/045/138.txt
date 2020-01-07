@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <xie@ccert.edu.cn>; Fri, 26 Aug 2005 20:42:51 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 21:01:11 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 21:01:11 +0800
+Date: Fri, 26 Aug 2005 21:01:11 +0800
+From: guo@cernet.com
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+To: xie@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+第一个问题，属于市场策略和销售战术问题，这方面你明显没有经验，从你的陈述中可以很清楚的知道这一点。网络设备的成本有多少？大公司的销售策略绝非你想象的如此轻易的就可以抛出的价格，这是基本的sense
+第二个问题，在华为没有发展，以你在所谓的外企就有发展？……你见过天花板吗？你了解香港人、台湾人和新加坡人从骨子里对大陆人的鄙视吗？
+第三个问题，别以为所谓的核心技术如何，你在外企的前途就，和联想宁夏分公司的员工的前途一样，你不过是一个边缘化的角色，真的，别太拿自己当回事。
+以前小的时候我不相信商业有国家的限制，现在我深深的不怀疑，和技术一样，商业同样是有国籍的。我极其的不愿意看到无端的，没有理由的对中国自己企业的怀疑和指责，善意的建议和恶意的毁谤我想旁人还是能一眼看出来的。
+我们的前途所在在于中国，中国的前途中的一部分是诸如华为联想这样的企业，他们一定会有这样那样的不足，毫无疑问，可是它们是中国的希望和未来所在。作为黄皮肤的人，事实上，我们别无选择。。
+     我有若干个同学在华为，应该还是有资格说几句的。不过我
+     事先声明，1我的℃信息都是两年前的；2，不保证一定正确，
+     但是可以保证我不会骗你，如果我说错了那一定是别人骗了我。

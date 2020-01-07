@@ -1,0 +1,24 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <wang@ccert.edu.cn>; Thu, 29 Sep 2005 09:06:43 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 01:17:53 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 09:17:53 CST
+Date: Thu, 29 Sep 2005 09:17:53 +0800 (CST)
+From: liang ming <huang@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INOwxsChqqG2tsDX1LXItP2htw==?=
+To: wang@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+这个片子我觉得还不如完全拍成搞笑片。
+总的感觉是配角演的比主角好。
+     《独自等待》我姑且把他定位为是一部现代爱情片吧，据说拍完已经好长时间了，但一直没有公演，九月初终于在全国开始上演。我是在一个同学的强烈推荐之下看得，果然没有让我失望，可见我还是更喜欢看这种文艺片的。
+     导演伍仕贤在剧中也出演一个小角色，他从小随着父母生活在中国、美国、澳大利亚、和加拿大，曾就读于美国华盛顿大学电影艺术系、大三转学到北京电影学院导演系。不得不承认，导演界也真是江山代有才人出，各领风骚数百年，老的一代还没销声匿迹，新的一代便如雨后春笋般
+     夏雨，李冰冰，龚蓓

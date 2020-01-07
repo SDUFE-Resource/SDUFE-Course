@@ -1,0 +1,26 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <ning@ccert.edu.cn>; Wed, 28 Sep 2005 23:44:52 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 15:55:59 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 23:55:59 CST
+Date: Wed, 28 Sep 2005 23:55:59 +0800 (CST)
+From: liang ming <wen@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IFu6z7yvXSC087zSuPi149LivPujrNKqsrvSqsDroaM=?=
+To: ning@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+离婚不离婚应该是当事人的感受，
+别人我觉得都无法真实的了解到内情。
+不过据楼主说的，我觉得mm和这个男人在一起不开心。
+但是不开心是不是就非要离婚呢？
+这个是mm的选择了。
+     ☆─────────────────────────────────────☆
+        lotusy (忘忧树) (Tue Sep 27 21:02:16 2005):
+     MM和GG都不是北京人.领本前谈了一年半,异地恋.GG今年才回京。MM一直在等他。

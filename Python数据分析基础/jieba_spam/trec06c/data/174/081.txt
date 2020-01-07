@@ -1,0 +1,23 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Fri, 23 Sep 2005 19:22:53 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Fri, 23 Sep 2005 18:45:11 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "hu" <hu@cert.org.cn>
+To: zeng@ccert.edu.cn
+CC: "lian@ccert.edu.cn" <tu@ccert.edu.cn>,
+   "wua@ccert.edu.cn" <rao@ccert.edu.cn>,
+   "pan@ccert.edu.cn" <han@ccert.edu.cn>, "wen@ccert.edu.cn" <chi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IGNjdHY21f2yybfDy9W3xsLty/ewoQ==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Fri, 23 Sep 2005 19:30:38 +0800
+
+哪里有下载的阿
+     昨晚对于苏菲的采访，我印象很深刻的地方：
+     1）苏菲一直在用一种非常艺术化的方式说话，面部表情极为丰富，说话非常形象；主持人问她月饼滋味如何，她仰脸深吸一口气，用幽默表情回答；这使我认为，她是一个外倾感情型的人，这类人往往活得极真实又夸张，也就是对于苏菲，生活就是艺术
+     2）其幽默感一流，当主持人撺掇黄磊和她演一个对手戏小片段时，苏菲夸张得说：我们两个人要表演吵架，不会影响中法关系吧？当其经纪人被问及对于苏菲得看法时表示，由于苏菲在场，这个问题不好回答；苏菲马上把耳朵捂起来；

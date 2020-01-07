@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBVolI019299
+	for <mei@ccert.edu.cn>; Thu, 15 Sep 2005 00:22:09 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8DBSOBg018678
+	for <mei@ccert.edu.cn>; Thu, 15 Sep 2005 00:19:14 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn ([166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8DBSHbY018673
+	for <mei@ccert.edu.cn>; Thu, 15 Sep 2005 00:18:41 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 14359 invoked by uid 512); Wed, 14 Sep 2005 16:27:03 -0000
+Message-ID: <20050913113644.14358.qmail@stu.ee.tsinghua.edu.cn>
+From: pan@stu.ee.tsinghua.edu.cn
+To: mei@ccert.edu.cn
+Date: Thu, 15 Sep 2005 00:27:03 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?UmU6IL+0Ymxlc3NMR7XEzbS/4KOsubPG8M7S0MTA783qw8C1xLzSzaU=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+hahaha，记得以前某个mm跟我说其实每个有理想有追求mm心中也都有
+你所说平衡系统的念头，岂止两朵玫瑰，简直是个花园生态系统……
+不过在社会环境和观念的影响下，mm的生态系统后来都为了gg的生态系统放弃了，
+kaka，不然就会被拍到死。
+     张爱玲在《红玫瑰 白玫瑰》里说：
+     “每个男人心中都有两朵玫瑰,白玫瑰和红玫瑰。娶了红玫瑰,久而久之,红的变了墙上的一抹蚊子血,白的还是“床前明月光”;娶了白玫瑰,白的便是衣服上的一粒饭粘子,红的却是心口上的一颗朱砂痣。”
+     我琢磨着...两个还不够，起码要三个，三足鼎立，才是一个平衡的系统，最好是四个，做到N+1的系统冗余....

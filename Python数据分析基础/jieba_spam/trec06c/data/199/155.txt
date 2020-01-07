@@ -1,0 +1,24 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <bi@ccert.edu.cn>; Wed, 28 Sep 2005 18:26:27 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 10:37:37 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 18:37:37 CST
+Date: Wed, 28 Sep 2005 18:37:37 +0800 (CST)
+From: liang ming <ye@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMvEtKbVxc37o6y6w8/xo6y+zcqjztLSu7j2u7nL49X9s6M=?=
+To: bi@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+原创？zan
+呵呵，反正我是不读博士的，我也不愿意gg读博士。
+         四处张望，好像，就剩我一个还算正常
+         因为我毕不了业
+         能读这么久的书的人，肯定与常人不同――除了个别人，这些个别本来就与众不同，是那些天生他才必有用的人，这些人不要去理会，钦佩的看着他们愉快的为人类从猴子变成人，从人变成超人，从超人变成神做贡献就行了。除去了这些个别人，剩下的就是我们常常讨论的那个博士群体了。

@@ -1,0 +1,25 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M9u4Oh007208
+	for <kong@ccert.edu.cn>; Fri, 23 Sep 2005 21:04:30 +0800 (CST)
+Received: from USER-8A61F7734D (tu203210.ip.tsinghua.edu.cn [166.111.203.210])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8MA7Wo22604;
+	Fri, 23 Sep 2005 21:15:58 +0800 (CST)
+Message-Id: <200509221007.j8MA7Wo22604@netarchlab.tsinghua.edu.cn>
+Date: Fri, 23 Sep 2005 21:13:16 +0800
+From: "zhao" <zhao@netarchlab.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+我是很佩服王垠的。
+在学习linux过程中，有很多内容是从他的个人网页学习的，比如关于Latex，emacs的内容，写得很详细，对初学者帮助很大。
+另外，他写的很多技术文章我都读了多便，每次都有新的体会。
+他这次退学让我想起一次和很牛的师兄聊天。师兄说到在学校做研究，老师没法做出很好的指导。
+     【 以下文字转载自 SJC.THU 讨论区 】
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)

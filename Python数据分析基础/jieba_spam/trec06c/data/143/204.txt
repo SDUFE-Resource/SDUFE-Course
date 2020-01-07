@@ -1,0 +1,28 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2svQX010170
+	for <ling@ccert.edu.cn>; Sat, 17 Sep 2005 00:54:50 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G3Pt3h004638
+	for <ling@ccert.edu.cn>; Sat, 17 Sep 2005 01:25:51 +0800
+Message-Id: <200509160325.j8G3Pt3h004638@stmp.nisac.gov.cn>
+Date: Sat, 17 Sep 2005 01:05:58 +0800
+From: "tao" <tao@mail.nisac.gov.cn>
+To: ling@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX30ru49sTcuObL387StNPKprTz1PXDtNf4sOCztcilu/qzobXEyMs=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+北太平庄桥 东南角 有机场大巴 好像15块
+                    §    §
+～～～～～～～～～～§～～§～～
+       北三环       北太平庄桥  Here 大巴
+～～～～～～～～～～§    §～～
+                    §    §    Bus Stop
+      师大          §    §
+            
+         明天早八点随老师出差，机场集合。可俺对北京还不熟，也没有money打的去，谁能告诉我从北师大走怎么坐机场班车，帮帮我吧，好发愁，先谢啦。
+         

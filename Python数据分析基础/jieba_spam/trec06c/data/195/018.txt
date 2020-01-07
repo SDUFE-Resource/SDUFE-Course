@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <kang@ccert.edu.cn>; Wed, 28 Sep 2005 00:19:35 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 16:30:45 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 00:30:45 CST
+Date: Wed, 28 Sep 2005 00:30:45 +0800 (CST)
+From: liang ming <rao@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILCzsNaws8LotcQgyNXX0w==?=
+To: kang@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+真是跌宕起伏啊
+       90年，爸爸得重病，房子差点卖掉，工作停了，妈妈把我寄在亲戚家，一边照顾他看病一边挣钱，吃饭都是爸剩下的；
+         93年，爸得遇贵人当上副总，宠得我和妈妈像公主一样，换新房子，但是他应酬完，会把吃到好东西做给我和我妈吃，而且不在外面过12点；
+         01年，公司出事，爸爸下岗，妈妈努力通过关系给爸找工作，同时在外面做投资，爸挣钱很少，但我门过得还是很开心。妈在外面强悍，在家还是崇拜爸得很；

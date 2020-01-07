@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KNVQWO026957
+	for <long@ccert.edu.cn>; Fri, 23 Sep 2005 10:28:59 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8KNgrSA012901
+	for <long@ccert.edu.cn>; Fri, 23 Sep 2005 10:40:30 +0800 (CST)
+Message-Id: <200509202342.j8KNgrSA012901@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 02:18:46 -0000
+From: "ning" <ning@mail.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Cc: <xu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztKw0dPHs+7B9Lj41/LM7CjXqtfUQkxPRyk=?=
+Date: Fri, 23 Sep 2005 10:40:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0056_01C5BE80.0E54D8A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW+PP+dE9Zps0Q1RamkdUKgZkzF9Q==
+
+【以下文章转自 ztuer 的BLOG：・吻翎・】
+BLOG地址：http://www.newsmth.net/pc/index.php?id=ztuer
+日志地址：http://www.newsmth.net/pc/pccon.php?id=3400&amp;nid=165328&amp;s=all
+    我把忧愁留给昨天
+    地铁站口帅气的男孩唱着流着泪的你的脸，而我把忧愁留在昨天。也许因为今天是个特殊的日子，让我有了更加豁达的心情。
+    该面对的还是要面对。同一个地方也会因为季节、同行的人、行程的目的以及我的身份的不同而有不同的感觉，没有必要为此惆怅以为自己故地重游会触景生情。
+    但是，在此之前，我想静一静，好好地睡一觉。
+    

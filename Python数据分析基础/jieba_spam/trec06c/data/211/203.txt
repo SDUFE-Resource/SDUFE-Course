@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3DEnC011057
+	for <liao@ccert.edu.cn>; Sat, 1 Oct 2005 02:35:40 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U37j6F080151
+	for <liao@ccert.edu.cn>; Sat, 1 Oct 2005 02:30:27 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U37hcH080147
+	for <liao@ccert.edu.cn>; Sat, 1 Oct 2005 02:30:09 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509300307.j8U37hcH080147@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodo-f4b2088bd3) (ksj00@202.112.4.221)
+	by localhost with SMTP; Fri, 30 Sep 2005 18:42:34 -0000
+Date: Sat, 1 Oct 2005 02:42:08 +0800
+From: "shi" <shi@mails.tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1rvPo837wqXW99LUuvO2rrXD16XXobv6u+E=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8U37hcH080147
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     根本不存在谁压制谁的问题
+     学校不该压制学生，学生也不能因为自己学习好就压制学校
+     学校应该给学生基于排名的充分的自由的选择权利，来规划自己的人生
+     同时建立起公开合理透明的推研流程，最起码你招个人总该发正式offer的函件，同时允许别人考虑是否接受吧
+     学生也应该遵循规章，在规定的时间内完成自己的选择，保证推研工作的顺利进行
+                        ~~~~~~~~~~问题是这个是学校定的呢,不是学生定的呢

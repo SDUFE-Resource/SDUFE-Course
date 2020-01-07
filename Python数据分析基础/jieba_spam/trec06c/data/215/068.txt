@@ -1,0 +1,49 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U301rY010973
+	for <gan@ccert.edu.cn>; Sun, 2 Oct 2005 14:15:40 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s67T079931
+	for <gan@ccert.edu.cn>; Sun, 2 Oct 2005 14:10:24 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.200])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s2q2079927
+	for <gan@ccert.edu.cn>; Sun, 2 Oct 2005 14:09:41 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id t9so856482wxc
+	for <gan@ccert.edu.cn>; Sat, 1 Oct 2005 23:25:55 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=W8KmBVYgtJQpTKJHhyqBPQpNMrndwd0y2MpDtldR3I4RhE6Kc4T1HsM706J0vp9CsI6L8ZXwRUVAEpb0VeWHwwgHOmzIJg3N5ezU1rxXNE5OB77ZnjAGIUptwrX52M2CpQAbjQGH9u8CAY2rjKNU/w6Ll7Ao3skKpgKarKaNhNI=
+Received: by 10.70.28.8 with SMTP id b8mr798445wxb;
+	Sat, 1 Oct 2005 23:25:55 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Sat, 1 Oct 2005 23:25:55 -0700 (PDT)
+Message-ID: <a00ed9800509292010qaccea32sfc4e2251cb90c982@mail.gmail.com>
+Date: Sat, 1 Oct 2005 23:25:55 -0700
+From: Shaozhi Ye <feng@gmail.com>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SysfV5rXEyOe0y9DS1MvC8KO/o7+jv6Oho6E=?=
+In-Reply-To: <200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+	<200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j8U2s2q2079927
+Precedence: list
+Reply-To: Shaozhi Ye <feng@gmail.com>
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+a
+笑道最好的人笑得最好
+       有点不感相信。。。和GG已经两年了，本来我就不漂亮，他能看上我我已经觉得很奇怪了！毕竟他也算个身材，相貌，学历都不错的年轻小伙子。接下来的事情，我就越来越不能相信了，两年内，我迅速长胖了20斤，我老管不住自己的嘴巴，又不爱锻炼，不长胖真的很奇怪啊。可是
+        想不通了，一个身材矮小，肥胖，读书很烂，不做家务，挑剔，霸道，自我。。。。的女生怎么可能会碰到一个这样的男生，这个世界太奇妙了吧。。。。不能相信的说。。。难道我在做梦？？
+        走过了两年，两年的风雨见证了我们的情感，（原来我我对他还一肚子不满意啊，我看我是烧糊涂了），到现在他对我的温柔我甚至觉得在刚刚恋爱。。。。我生日的时候给了他，他是我的第一个男人，我也是他的第一个。我这回是真的心甘情愿的，（要知道，这对我这种女人真

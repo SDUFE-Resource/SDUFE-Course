@@ -1,0 +1,36 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <xiao@ccert.edu.cn>; Tue, 27 Sep 2005 20:04:46 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Tue, 27 Sep 2005 12:15:40 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Tue, 27 Sep 2005 12:15:40 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <xiao@ccert.edu.cn>; Tue, 27 Sep 2005 05:26:47 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <xiao@ccert.edu.cn>; Tue, 27 Sep 2005 07:23:13 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 20:15:28 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <jiang@motorola.com>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsO/Cpdb3srnJzyAo16rU2Ck=?=
+Date: Tue, 27 Sep 2005 20:15:03 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+【 以下文字转载自 Picture 讨论区 】
+发信人: pigment (红颜弹指老，刹那芳华), 信区: Picture
+标  题: 帮楼主补上
+楼主为啥不贴上说明呢？ 本来是个很好的公益广告 
+2005年的10月，为在中国推动“粉红丝带乳腺癌防治运动”，时尚生活杂志《时尚健康》又有重大举措，杂志费尽周折邀请到两岸三地钟丽缇、邬君梅、李冰冰3位国际女性全裸出镜，震撼代言2005年度粉红丝带运动，号召公众“爱乳房，爱自己”。
+　　这次极具视觉冲击和公益性的封面大片，这是迄今为止中国时尚界一次史无前例的拍摄。3位当红女星所表现出来的身体之美，女性之美，以及作品所呈现的艺术之美，令人震撼。而震撼之后是感动，因为整个空间充满着粉红丝带的温暖与体贴，她们以此传达的关注女性健康与美的诚挚爱意。“每一个女人都是美的。而美的前提是健康，完整，所以请珍爱自己，珍爱健康，珍爱乳房。”而被问及为什么可以接受如此尺度的拍摄，她们的回答是“因为粉红丝带！只为粉红丝带！”
+　　《时尚健康》作为中国粉红丝带运动的发起者，2003年作为媒体首次成功将粉红丝带介绍进中国，唤起了广大中国女性对乳房健康的关注。2004年的10月更重拳出击，隆重推出了“100个乳房真实照相”专辑，特邀影星袁泉、作者棉棉、舞蹈家金星等50位女性拍摄并讲述自己的乳房故事，并出版《50位女性讲述乳房的故事》一书，成为去年期刊界最为轰动的事件。

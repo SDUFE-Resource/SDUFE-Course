@@ -1,0 +1,23 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <qing@ccert.edu.cn>; Thu, 29 Sep 2005 00:31:33 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Thu, 29 Sep 2005 00:34:31 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 16:34:31 UT
+To: qing@ccert.edu.cn
+From: rao@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILn6zeKyqcq/uvMgdnMuILn6xNrN4sbz0dC3ojI1zfI=?=
+
+多大岁数了。如果才二十几，感觉不如再作几年薄厚，混到us的终生教职的确不错；
+如果三十多，感觉近几年在国外拿到教职希望不大的话回来也不错，至少生活质量提高
+很多，而且家庭容易安排。
+     本人国外博士毕业，现有两个offer,一个是国外博后，一个是上海研发,类似GE这类单位。因
+     几年不在国内，对这个薪资(20 万 plus 7万福利)不知道是什么价位。另外，这种研发
+     职位前途如何？是不是很难有promotion.

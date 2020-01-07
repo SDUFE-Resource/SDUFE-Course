@@ -1,0 +1,21 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <xu@ccert.edu.cn>; Fri, 2 Sep 2005 10:17:34 +0800 (CST)
+Received: (qmail 18809 invoked from network); Fri, 2 Sep 2005 02:29:17 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 2 Sep 2005 02:29:17 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "chen" <chen@jdl.ac.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM60u+m38rXEveO947OsvLbE3Luox66jrMfrzsrO0rjD1PXDtLDso78=?=
+Date: Fri, 2 Sep 2005 10:31:35 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+也就偶

@@ -1,0 +1,23 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EBDbnN008658
+	for <ye@ccert.edu.cn>; Wed, 17 Aug 2005 02:51:33 +0800 (CST)
+Received: (eyou send program); Wed, 17 Aug 2005 02:59:59 +0800
+Message-ID: <324018523.18139@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 17 Aug 2005 02:59:59 +0800
+Message-ID: <324018523.18120@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 17 Aug 2005 02:59:59 +0800
+From: zhu@mail.tsinghua.edu.cn
+To: ye@ccert.edu.cn
+Cc: che@ccert.edu.cn
+Date: Wed, 17 Aug 2005 02:59:59 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgwvLT68L0?=
+Content-Type: text/plain
+
+本人想考计算机软件理论研究生,想求购以下书籍:
+《数据结构（面向对象方法与C＋＋描述）》 清华大学出版社 殷人昆等 
+《数据结构习题解析》 清华大学出版社 殷人昆等 
+《计算机组成与结构》 清华大学出版社 王爱英 
+《计算机系统结构（第二版）》 清华大学出版社 郑纬民，汤志忠 
+《操作系统-内核与设计原理》（第四版） 电子工业出版社（2001年6月） William Stallings 
+《操作系统概念》（第6版） 高等教育出版社 Abraham Silberschat 郑扣根译 

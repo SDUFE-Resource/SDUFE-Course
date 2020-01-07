@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <tang@ccert.edu.cn>; Sat, 27 Aug 2005 17:36:11 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 17:54:31 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 17:54:31 +0800
+Date: Sat, 27 Aug 2005 17:54:31 +0800
+From: wei@cernet.com
+Subject: =?gb2312?B?UmU6IExHyta7+tHQt6LU9cO00fmjvw==?=
+To: tang@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+在LG电子待过2年以上的人性格一定特别好,对生活没有更高要求,随遇而安,准备养老的人.
+工作内容对人的要求很低,基本上会开机上网打电话就能把工作做了.所以那里什么样的人都有.
+另外,那里常常丢失个人物品如手机,办公用品如笔,我认为这是跟整体员工素质有关系的.
+领导们都不懂技术,也不管理项目,最多给你定个deadline,如果你没有按时完成也没关系,因为从来没有什么项目能按时完成,deadline is joking!领导的主要工作是和韩国研发中心保持联系,还有让手下人汇报工作,起个监工的作用.如果真让你写程序,通常是给韩国人擦屁股,他们都没有写完程序后测试的习惯,所以你要给他们测试改BUG.记住他们是没有文档的,而且没有人知道如何联系上原来写代码的人,所以,写程序的时候只有原代码可看.告诉你一个修改他们bug的窍门,通常注释掉一些他们写的垃圾代码就好了.
+     rt

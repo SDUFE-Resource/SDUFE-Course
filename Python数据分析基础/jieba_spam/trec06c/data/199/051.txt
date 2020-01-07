@@ -1,0 +1,32 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <yang@ccert.edu.cn>; Wed, 28 Sep 2005 17:10:29 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Wed, 28 Sep 2005 17:13:44 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 09:13:42 UT
+To: yang@ccert.edu.cn
+From: xiao@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgsuLK1A==?=
+
+1)写下一个异性的名字
+请看答案
+　　2)你最喜欢的颜色是红色，黑色，蓝色，绿色，还是黄色？
+请看答案
+　　3)你英文名字的第一个字母？
+请看答案
+　　4)你的生日是几月？
+请看答案
+　　5)黑色和白色，你更喜欢哪个？
+请看答案
+　　6)写下一个同性的名字
+请看答案
+　　7) 你最喜欢的数位？
+请看答案
+　　8)你喜欢美国的加利福尼亚州(California) 还是福罗

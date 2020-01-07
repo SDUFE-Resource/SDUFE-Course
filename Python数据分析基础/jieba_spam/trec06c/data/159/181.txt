@@ -1,0 +1,39 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8JBii0m015387
+	for <xue@ccert.edu.cn>; Tue, 20 Sep 2005 14:56:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8JBuNSM005175
+	for <xue@ccert.edu.cn>; Tue, 20 Sep 2005 15:08:27 +0800 (CST)
+Message-Id: <200509191156.j8JBuNSM005175@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 20 Sep 2005 06:47:34 -0000
+From: "che" <che@mail.tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+Cc: <qing@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1ffIy7DvztK/tL+01eLKx9bQtr7By8Lwo78=?=
+Date: Tue, 20 Sep 2005 15:08:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD54.315C4400"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW9ESMViAP3rUc6TpGavIn8JvsLVg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+刚才特快里问大家，几乎没人理，有个朋友说是可能中了木马，有谁帮我分析一下，如
+果是的话，怎么查杀？
+遇到的情况描述：
+1、我几乎每天登陆qq，今天早上9点多登陆的时候发现qq在别处登陆，
+然后就收到同学朋友的问候，说是我给他们发的消息（消息附下），8点多就在线了，i
+p显示还不是在北京。。
+2、最近我登陆信箱总是没有未读信件，还有点失望，结果今天进去一看，却都是读过了
+……之前有段时间就是信箱里总是没有未读信件，后来好了，我也没有改密码。信箱是
+sohu的。
+关于我个人的密码和登陆设置说明：
+1、密码一开始比较简单，自己的生日，后来位数增加了，名字拼音和生日组合位数达1
+1位，看来这样设密码还是不科学。另，邮箱密码和qq密码不一样的。
+2、从来不设置本机记录，就算是自己的机子，也不记录密码的。
+今天的qq消息是这样子的：
+2小时QQ就可以升级 还能拿10个QQ币 《QQ挂机吧》 我在ww.48848.com 离线挂机中，暂
+时不能回复，有事请留言，谢谢。[[超级女声音乐吧]] www.chaonvba.com
+最后得出什么结论呢？
+不管怎么大家上网还是要小心了，注意杀毒和保护密码！

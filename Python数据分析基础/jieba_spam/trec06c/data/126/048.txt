@@ -1,0 +1,27 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <xing@ccert.edu.cn>; Tue, 13 Sep 2005 15:38:35 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Tue, 13 Sep 2005 15:50:34 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Tue, 13 Sep 2005 15:50:30 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "lei" <lei@dlut.edu.cn>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMbkyrXO0r71tcO67LGmyunQtLXEuty+q7LKwu+how==?=
+Date: Tue, 13 Sep 2005 15:46:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+师兄说得的确有理。
+我看红宝，只觉得博大精深，微言大义，前后逻辑联系很精密。我一般刚开始仔细研读，拿尺笔写写划划，觉得有很收获。但是太累，一般看了45分钟左右就觉得累了。发现自己感觉不如开始的时候敏锐，觉得字字都挺枯燥，想想说得没错，但是掩卷回顾，似乎没什么收获。
+看来似乎事倍功半，得改改了。
+     呵呵~~看了两遍才看明白说的是cs~~~~
+     怎么说呢，
+     政治不像数学，

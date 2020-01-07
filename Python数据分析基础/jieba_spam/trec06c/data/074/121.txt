@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <ou@ccert.edu.cn>; Fri, 2 Sep 2005 20:58:36 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 21:01:28 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 21:01:28 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 21:01:28 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 12:54:51 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 20:47:01 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 20:47:01 +0800
+From: wei@mails.tsinghua.edu.cn
+To: ou@ccert.edu.cn
+Cc: zhong@ccert.edu.cn
+Date: Fri, 2 Sep 2005 20:47:01 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILTzvNLBxMHEINOhz/OxyL3Pye61xCCx67jny9zU7LXE07DK09DOz/OwyQ==?=
+Content-Type: text/plain
+
+有一部讲关于二三十年代上海滩的电视剧，忘了名字了。傅彪演反面主角，正面主角是一个私家侦探。傅彪从一个拉黄包车的，凭他的阴险毒辣，成了警察局长。
+奸诈，狠毒，不露声色，先博取信任再算计，被他演的活零活现。
+有一段杀人灭口的戏印象很深。他为了干掉自己一个手下，把他带到一片芦苇荡，说安排了船，然后语重心长的说出去了要小心，这边有我你放心吧之类的话。手下感动坏了，然后傅彪不经意的关心说，把扣子扣上，手下当然乖乖的低头去扣扣子，等他抬起头来，傅彪的枪口已经指着他了。
+       第一次看到彪哥的表演是在《 甲方乙方》，世界上没有无缘无故的爱，也没有无缘无故
+       的恨。
+      第二次 是《没完没了》 除了版友说的那段ok，我还觉得那段 扇“树叶”的戏特出彩儿。

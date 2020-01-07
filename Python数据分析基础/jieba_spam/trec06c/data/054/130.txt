@@ -1,0 +1,16 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <chi@ccert.edu.cn>; Mon, 29 Aug 2005 06:46:44 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 06:57:17 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Mon, 29 Aug 2005 06:57:17 +0800
+From: "shi" <shi@ctbu.edu.cn>
+To: chi@ccert.edu.cn
+Date: Mon, 29 Aug 2005 06:57:17 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "shi" <shi@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IL3ozsq/tcu5zLm2odT1w7TR+aO/?=
+Content-Type: text/plain
+

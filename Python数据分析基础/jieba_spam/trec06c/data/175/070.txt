@@ -1,0 +1,24 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M9u4Oh007208
+	for <hua@ccert.edu.cn>; Fri, 23 Sep 2005 23:43:09 +0800 (CST)
+Received: from USER-8A61F7734D (tu203210.ip.tsinghua.edu.cn [166.111.203.210])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8MA7Wo22604;
+	Fri, 23 Sep 2005 23:54:37 +0800 (CST)
+Message-Id: <200509221007.j8MA7Wo22604@netarchlab.tsinghua.edu.cn>
+Date: Fri, 23 Sep 2005 23:51:55 +0800
+From: "bi" <bi@netarchlab.tsinghua.edu.cn>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+开始还仔细阅读，后来有些懒得看了。作者的确有很多独立思考，这在国内的高校环境
+中并不多见，但是让人感到厌烦的是作者总在抱怨环境和他不合拍，好像环境不合他就
+不能继续工作，继续发展似的。最终他的离开让人感觉十分负气和幼稚，似乎他追求更多的并不是科学上的建树，而是一个认可他的环境。其实独立思考、具有较强研究能力、想切实做一些事情的人在学校内还是有很多的，不止作者一个人。不管是在国内还是在国外，很多中国研究者都在从事真正有价值的、因好奇心而非发paper的压力激发的研究，不过，如果大家都像作者这样要求环境，恐怕没有人能做什么事情。因为环境永远不能让你100%满意，无论是在国内还是国外。重要的不是要周围的人、周围的规则都符合你自己的标准，而是像作者所说的，追求一个自己的梦。
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)
+     发信站: 水木社区 (Fri Sep 23 12:00:32 2005)

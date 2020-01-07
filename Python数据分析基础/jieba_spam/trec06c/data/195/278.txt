@@ -1,0 +1,33 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <yi@ccert.edu.cn>; Wed, 28 Sep 2005 04:16:13 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 20:27:23 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 04:27:23 CST
+Date: Wed, 28 Sep 2005 04:27:23 +0800 (CST)
+From: liang ming <liu@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INXm0MTH673Mo7rI57rOzdrBvNDUx729xw==?=
+To: yi@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+不要去碰这种女人，她们沉醉于所谓的“第一个”情结之中
+不要以为你是救世主，不要去挖这种墙角，你会磕得头破血流的
+     标  题: 真心请教：如何挖良性墙角
+     
+     简要介绍一下背景：我的一女性朋友M的女性朋友N有个男友C，C很懒没有上进心，没有工作甚至都不愿意找工作，天天在家玩游戏，也不干活，女的不做饭自己就不吃，女的干活累的要命也不管，衣来伸手饭来张口还不带疼着女的，M找N说过很多次让她甩了这男的，可是没什么效果，因为C是N的第一任男友，两人在一起时间也很长了。
+     因此M要我假装追求N,至少是把一个男人好的方面要表现齐全让N对比一下她那没人性的男友，把他们搅黄了，好让这女生跳出苦海。
+     难点：本人虽有女友，但是全靠上天照应，不是把妹功夫了得。因此对于如何主动进攻不太清楚，而且这次的任务更高一级：挖墙角-_-!! 
+     本人情况：个头不高，长相还算满意，没啥钱，比较勤快细心，照顾女友应该是比较合格。
+     N的情况：收入不多，也很穷，到北京不久，没去什么地方玩过，会抽烟，为人极好，跟C住在一起。
+     请求版上高手，不管是TOMCAT、PLAYBOY，还是富有同情心的女生们，给拿个计划或者主意出来，教教我怎么挖这个墙角！
+     
+     --
+     世事如棋局 不着得才是高手 人生似瓦盆 打破了方见真空
+     

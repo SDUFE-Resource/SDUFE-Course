@@ -1,0 +1,24 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <he@ccert.edu.cn>; Sun, 14 Aug 2005 17:47:25 +0800 (CST)
+Received: (qmail 5448 invoked from network); Sun, 14 Aug 2005 09:58:12 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 14 Aug 2005 09:58:12 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "hua" <hua@jdl.ac.cn>
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6quf3LxLy2sOy82dakuc3HucrWILGxvqnI/dGnyfq78dDM?=
+Date: Sun, 14 Aug 2005 18:02:11 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+北京晚报说的是考试被查出的是2个学生，第3个是接洽负责办假证的。
+     为过四级办假证雇枪手 北京三学生获刑 
+       2005年08月12日08:05 【字号 大 中 小】【留言】【论坛】【打印】【关闭】 
+     　　本报讯  （记者孙思娅  通讯员 郭京霞）英语四级不但是大学毕业生拿到学位证书的条件，同时也是众多工作单位招聘的前提。为了通过四级考试，三名同学弄虚作假。昨天，记者从一中院获悉，三名同学被认定伪造居民身份证罪，分获半年至7个月不等的有期徒刑。

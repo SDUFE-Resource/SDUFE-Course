@@ -1,0 +1,31 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <bi@ccert.edu.cn>; Sun, 21 Aug 2005 16:37:16 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sun, 21 Aug 2005 08:47:30 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 21 Aug 2005 08:47:30 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "tang" <tang@jdl.ac.cn>
+To: bi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7K0ru49qO609DIy771tcPX1Ly6sqnKv8Tcu+yxz9K1wvA=?=
+Date: Sun, 21 Aug 2005 16:51:38 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+分专业吧，也分导师吧
+     标  题: Re: 问一个：有人觉得自己博士能混毕业吗
+     
+     当然很好混毕业了
+     
+     : 博士读到快中期了，始终感觉什么都不会，文章也没发几篇好的，论文的架构也没有，
+     : 一切跟刚上的时候没有区别。但是事实上我也很辛苦的找资料，做实验，还进公司实习过，
+     : 现在感觉好失败，内心已经放弃了，打算混毕业，不知道过来人有什么高招，请指点一二。
+     
+     --
+     

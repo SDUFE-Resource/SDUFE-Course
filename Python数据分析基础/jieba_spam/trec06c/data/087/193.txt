@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82NbfwP002626
+	for <luo@ccert.edu.cn>; Mon, 5 Sep 2005 03:43:02 +0800 (CST)
+Received: (eyou send program); Mon, 5 Sep 2005 03:43:22 +0800
+Message-ID: <325704282.09716@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 5 Sep 2005 03:43:22 +0800
+Message-ID: <325704282.09698@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Mon, 5 Sep 2005 03:43:22 +0800
+From: xie@mail.tsinghua.edu.cn
+To: luo@ccert.edu.cn
+Cc: tan@ccert.edu.cn
+Date: Mon, 5 Sep 2005 03:43:22 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW7mruOZdILfivfsgdGhpbmZvILXHwrzIqM/esMvW3CjXqrzEKSAo16rU2Ck=?=
+Content-Type: text/plain
+
+来  源: 166.111.86.81 
+【 以下文字转载自 gag 的信箱 】
+发信人: SYSOP (System Operator), 信区: Announce
+标  题: [公告] 封禁 thinfo 登录权限八周
+        原因: 在发送信息时威胁他人，并进行人身攻击
+        附  帐号管理办法相关内容：
+    九、为保障本站其他合格使用者的权利，本站用户无论发表文章、写留言板、
+        在聊天室聊天、呼叫使用者聊天、发消息、发信以及在自己的昵称、说明
+        档、签名档中，均不能对他人进行人身攻击、包含侮辱性言辞、影射党和
+        国家领导人或含有其他不恰当的内容。如果违犯上述情形，一经发现，即
+        给予警告；情况严重者，将封禁部分权限或者删除其 ID 帐号。
+        因此依站规禁止其登录权限八周，八周后可在 sysop 版发表文章或者发信
+        给 SYSOP 申请恢复。
+                                             BBS水木清华站站务临时管理组
+                                                     2005年9月2日

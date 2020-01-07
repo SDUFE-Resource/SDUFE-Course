@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <zhou@ccert.edu.cn>; Sat, 24 Sep 2005 20:30:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <zhou@ccert.edu.cn>; Sat, 24 Sep 2005 20:42:02 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 12:19:02 -0000
+From: "luo" <luo@mail.tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Cc: <wei@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgoe+h76HvuN/J+b3QwvTIqM3+o6zIq8Pmo6zP6r6htcTH5buqvMbL47v6z7W/vNHQ18rBz6Oh
+ICjXqtQ=?=
+Date: Sat, 24 Sep 2005 20:41:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+【 以下文字转载自 AG_Market 讨论区 】
+发信人: haoboy (lala), 信区: AG_Market
+标  题: ★★★高声叫卖权威，全面，详尽的清华计算机系考研资料！
+声明] 由于本人也要于06年考清华CS,特托清华的同学帮忙弄到了一份非常全面,详尽的清华CS备考资料(清单见后).
+   这套资料最大的特点是权威,全面,详尽.   .
+   资料的真实性:如果您在西安,当面验货,否则,我可以发给你部分资料的图片..
+   如果你在西安,可以当面交货;如果你在别的城市,可以以包裹的方式快递(邮费另计)..
+  也许其中的部分资料你可以在网上找到..但是要花费大量的时间！而复习考研，尤其是考清华，最重要的是什么：时间！！！个中轻重，大家自己把握！
+   [资料清单]:
+         1:研究清华CS命题方向的最权威，第一手的资料：历届真题！（94――05）
+         2：相当于上了一次清华全真课堂的清华CS各科ppt课件，讲义，笔记！（操作系统，组成结构，数据结构，  系统结构）
+         3：数据结构出题人殷人昆的亲笔手写讲义！还有什么可以比这个更权威？
+         4：清华历届招生概况，让你可以清楚自己的位置，把握该如何努力！
+联系方式：qq 33068274 email：lzpxjtu83@163.com

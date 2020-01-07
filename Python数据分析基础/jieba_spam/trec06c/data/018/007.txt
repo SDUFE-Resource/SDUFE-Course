@@ -1,0 +1,27 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <wei@ccert.edu.cn>; Sat, 20 Aug 2005 17:43:23 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <wei@ccert.edu.cn>; Sat, 20 Aug 2005 17:56:41 +0800 (CST)
+Date: Sat, 20 Aug 2005 17:50:46 +0800
+From: "lin" <lin@sohu.com>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgKioq0evK06G2wM22ryC+zdK1obfAuMS/s8/V98rTxrW88sD61r7UuNXf?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+近期央视《劳动 就业》栏目打算为找工作的朋友提供一个在节目中自我展现的平台，把自己的经历和才能做成视频简历在节目中播出，希望能给大家带来更多的求职机会。
+要求：
+面向所有求职者
+自我表现能力强
+栏目组负责拍摄和制作并在节目中播出
+有意者请把个人文字简历发至：cgtjzq@tom.com
+标题请注明：视频简历志愿者-***
+如果简历条件合适我们会主动和您取得联系，协商拍摄相关事宜。
+有疑问者请回站内信箱，站内不接受简历
+谢谢

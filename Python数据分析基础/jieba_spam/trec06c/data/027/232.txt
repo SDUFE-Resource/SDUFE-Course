@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <gao@ccert.edu.cn>; Mon, 22 Aug 2005 22:27:18 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <gao@ccert.edu.cn>; Mon, 22 Aug 2005 22:40:32 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 22:09:13 +0800
+Date: Mon, 22 Aug 2005 22:40:23 +0800
+From: "zeng" <zeng@wnt.com.cn>
+To: gao@ccert.edu.cn
+Cc: "lic" <wu@ccert.edu.cn>, "sunt" <tu@ccert.edu.cn>, "caoy" <wu@ccert.edu.cn>,
+        "wangb" <yuan@ccert.edu.cn>, "songhm" <sun@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMPAvK7H5buqtPPRp8H00afJ+tGw1dLTotPvvObWsA==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+咋还没找着啊
+     个人信息:男,18岁,从小在美国长大,完成高中学业后回国。各科成绩优秀,高中毕业时获美国总统教育奖(President’s Education Awards Program)。今年9月开始在清华大学本科学习,能够说流利的汉语,汉语水平考试已通过7级。 
+     兼职意向:任何与英语有关的都可以,但最好是小班授课或者一对一英语听、说、阅读和写作。 
+     时间:周末和寒暑假为主，其它时间灵活掌握。 

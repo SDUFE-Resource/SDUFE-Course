@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FBhgV9003152
+	for <xue@ccert.edu.cn>; Thu, 15 Sep 2005 21:20:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FBtVIH029758
+	for <xue@ccert.edu.cn>; Thu, 15 Sep 2005 21:32:33 +0800 (CST)
+Message-Id: <200509151155.j8FBtVIH029758@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 13:13:46 -0000
+From: "bi" <bi@mail.tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+Cc: <gong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgy/vP57XEw/fUwg==?=
+Date: Thu, 15 Sep 2005 21:32:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BA2F.69B84380"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW57Ftgyg2sMjsQQOq8TagbU/Od5Q==
+
+    中秋就要到了,我却不能和家人共赏明月。
+    时常想起小时侯的事,没有哀愁,整天的和家人在一起,而每当中秋时就更加的热闹。然而,现在当自己已然成人的时候,却早已失掉了这种与家人团聚的幸福。如今的社会是比以前更加发展文明了，可我们每个人却又不得不奔波于这个社会之中，以至于忘记了与家人的团圆，我不知道这是不是一种悲哀？
+　　然而，无论如何我们却也要这样的奔波。不论你是干什么工作的，都难得空闲，于是，我们就又不得不在他乡度过中秋之夜，那我们也就只能想着千里共婵娟了。
+　　似乎我们活着就要学会适应这个社会，而这个社会又要求我们能适应遥居他乡的困苦。

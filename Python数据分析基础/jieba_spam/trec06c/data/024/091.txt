@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <jin@ccert.edu.cn>; Mon, 22 Aug 2005 02:29:29 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <jin@ccert.edu.cn>; Mon, 22 Aug 2005 02:42:43 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 02:11:24 +0800
+Date: Mon, 22 Aug 2005 02:42:34 +0800
+From: "han" <han@wnt.com.cn>
+To: jin@ccert.edu.cn
+Cc: "lic" <ma@ccert.edu.cn>, "sunt" <he@ccert.edu.cn>, "caoy" <kong@ccert.edu.cn>,
+        "wangb" <yang@ccert.edu.cn>, "songhm" <jin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IEhZwcujrMC0uPaxqLjmo6HPo837uPi08svj0qqxprGmtcRKTVPT0Mv5sO/W+qOho6iyu7nY
+0MQ=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+好麻烦
+哪有这么麻烦啊
+     写到“报告”两个字，忽然想起一个笑话，先给大家娱乐一下哦，
+     上个月学交规的时候，一天快要到下课的时候，一个背包的大小伙子在门口站了5妙，因为都在上课也没有太多人注意他，忽然很清脆的一声：报告！
+     讲台上的老师忽然楞住了，大概她多年讲课从来没有遇上交规课上喊“报告”的人，足有三十秒，老师说“请进！”

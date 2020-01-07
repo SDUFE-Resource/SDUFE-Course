@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83CBlYV005279
+	for <tu@ccert.edu.cn>; Mon, 5 Sep 2005 11:25:47 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83COHdV019350
+	for <tu@ccert.edu.cn>; Mon, 5 Sep 2005 11:38:17 +0800 (CST)
+Message-Id: <200509031224.j83COHdV019350@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 03:25:48 -0000
+From: "yi" <yi@mail.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Cc: <jiang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1/LN7dTayP26xcKlw8W/2r+0tb3By7Pzwqq1xNK7xLss1ebOqsflu6q1xNGnyfq40LW9tqrI
+yw==?=
+Date: Mon, 5 Sep 2005 11:38:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5B0C5.716D46C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWwgmMrCakV2o5FTJGgH6GL8DeD6Q==
+
+三个学生(两男一女)去三号楼复印室复印一本书,开始讲好6分钱一页，印完后又进行装
+订，学生问能不能开发票，复印的说这个价钱开不了，开票要8分钱一张，双方争执不下，
+最后发生了戏剧性的一幕，三个学生竟然拿起原件书拔腿就跑，被复印室的抓了回
+来。派出所的来后，三个学生还牛哄哄地说自己不是要跑，而是要去向后勤反映情
+况，说这个复印室如何如何黑，外面只收5分钱云云。
+其中一个高个简直是义愤填膺，指着复印室的人的鼻子骂，竟然还敢自称自己是党员。
+感觉这三个人真是把清华学生的脸面丢尽了。如果清华人都是这样的素质，
+将来走向社会如何得了？
+也许复印室收费确实有点高（但我感觉和图书馆复印室相比，简直是天壤之别），
+说话的态度也可能确实不好。但不管怎样，事先说好的事情，你也得先交钱，
+把复印的东西取走再理论。复印室对他们真是算比较客气了，要是碰上难缠的主，
+就告到他系里（这种行为跟赖账不还也差不多了），看他今后怎么在清华混。

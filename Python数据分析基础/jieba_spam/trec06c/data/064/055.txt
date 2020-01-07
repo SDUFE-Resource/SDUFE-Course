@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <xu@ccert.edu.cn>; Wed, 31 Aug 2005 20:58:36 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 21:01:28 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 21:01:28 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 21:01:28 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 12:54:51 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 20:47:01 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 20:47:01 +0800
+From: yun@mails.tsinghua.edu.cn
+To: xu@ccert.edu.cn
+Cc: tao@ccert.edu.cn
+Date: Wed, 31 Aug 2005 20:47:01 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM27yLu+9bXDus3L+7XEvNvWtbnbsu6x8LrctPMsutzT9MPGLLjD1PXDtLDs?=
+Content-Type: text/plain
+
+呵呵，我见过恋爱9年，因为gg据了好外企而分手的。
+真是没谁能离不开谁
+唉
+     和BF在一起一年多了,也会说起结婚什么的事情,我也觉得自己对这段感情很看重,虽然在一起这么长时间,闹过很多矛盾,可是每次我都很快就放下了,都在心里为他开脱,因为觉得自己对他的感情很深.
+     可是最近我却总是心神不宁的,因为他想要的生活和我想要的生活并不同.他是一个很理想化的人,一心只想做学问,找工作的时候别人都着急的时候,他却早早的找了一个待遇前途都不是很好的地方,因为很清闲,他说可以多看看书.他选择工作的时候我没有多说什么,我觉得应该尊重他的

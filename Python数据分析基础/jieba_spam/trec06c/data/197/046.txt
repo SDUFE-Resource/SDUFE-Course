@@ -1,0 +1,46 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <kong@ccert.edu.cn>; Wed, 28 Sep 2005 09:26:07 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 01:37:18 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 09:37:17 CST
+Date: Wed, 28 Sep 2005 09:37:17 +0800 (CST)
+From: liang ming <qing@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgSW50ZXJuuNDP66Gqoaq90r+qsaa94MrQs6HR0L6/sr/J8cPYw+bJtNau0rsoenopICjXqtTY
+KQ==?=
+To: kong@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+【 以下文字转载自 Career_MNC 讨论区 】
+发信人: tulipblue (no matter), 信区: Career_MNC
+标  题: Intern感想――揭开宝洁市场研究部神秘面纱之一(zz)
+发信人: tulipblue (no matter), 信区: Career_Plaza
+标  题: Intern感想――揭开宝洁市场研究部神秘面纱之一(zz)
+                     走进宝洁CMK――我在CMK的实习感想
+             Hinson Liang            02 Information Management
+    因为一次偶然，我认识了宝洁，并且争取到在宝洁CMK 实习的机会。通过暑期实习生
+计划，我走进了宝洁，体验了CMK的生活。希望通过跟大家分享我在宝洁CMK实习的感受，
+能够让大家更深入了解宝洁，更深入了解CMK。
+初识CMK
+Challenging CMK
+Interesting CMK
+Rewarding CMK
+CMK人
+初识CMK
+    CMK即市场研究部，全称是Consumer &amp; Market Knowledge。CMK通过对消费者、渠道、
+媒体等做大量定性和定量的研究，提出有价值的建议，并最终影响商业决策。在宝洁里面
+，CMK发挥着内部咨询的作用。相对于MKT或者CBD等部门，CMK可能显得有点神秘，这可能
+因为在很多决策时候，CMK都处于一个幕后军师的角色，而不是活跃在大家的眼前。正是因
+为CMK掌握很多先进的研究技术（网上会有很多评论说：中国市场研究行业很大程度上是由
+宝洁带起来，而其中正是CMK发挥着非常重要的作用），和一种神秘的感觉，CMK被称为宝
+洁的秘密武器。
+Challenging CMK
+    宝洁的实习跟其他公司的实习很不一样，宝洁并不会特意设计一个针对实习生的工作
+计划，让实习生练练手脚。宝洁提倡“early responsibility”

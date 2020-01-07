@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <guo@ccert.edu.cn>; Tue, 13 Sep 2005 05:02:26 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <guo@ccert.edu.cn>; Tue, 13 Sep 2005 05:14:24 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 12 Sep 2005 20:57:12 -0000
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: guo@ccert.edu.cn
+Cc: <wang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMa+yrLDtMfGsrvG8MWptOVHRyEos8fA78jL0rKyu9K7tqi2vLrcxaMp?=
+Date: Tue, 13 Sep 2005 05:14:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+我想起阳朔了
+桂林山水甲天下，阳朔风光甲桂林
+     标  题: Re: 凭什么瞧不起农村GG!(城里人也不一定都很牛)
+     
+     米突.这种地方,生活环境还不错,离城市呢也不太远.
+     居住起来挺舒服的
+     
+     : 俺这种小镇子最好了
+     : 可以恬着脸说自己是“城镇”
+     : 也可以说自己是农村
+     
+     --
+     

@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <ren@ccert.edu.cn>; Sun, 25 Sep 2005 02:25:47 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <ren@ccert.edu.cn>; Sun, 25 Sep 2005 02:37:12 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 18:14:09 -0000
+From: "xu" <xu@mail.tsinghua.edu.cn>
+To: ren@ccert.edu.cn
+Cc: <shen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILzZyejV4tH50rvW1sfpv/ajrM312/PNy9GntcTKwg==?=
+Date: Sun, 25 Sep 2005 02:36:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+擦亮你的眼睛看哦，是国际奥赛第一名，还不仅仅是一等奖。你们学校每年有十几个？
+你还以为是国际奥林匹克竞赛中国赛区第一名？
+而且我说的是我一个班，不是一个学校。偶学校有很多班呢。
+至于说国内奥赛金牌，以及省级第一名，单我那个班，就有好几个了。
+     老大，一块招牌砸下来，在清华能砸死7，8个奥赛第一名。我们中学每年就有十几个
+     奥赛第一名。至于说道上海的生源，就算了吧，和江苏，湖北不是一个等级的。

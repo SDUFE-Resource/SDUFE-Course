@@ -1,0 +1,29 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <xue@ccert.edu.cn>; Fri, 23 Sep 2005 03:48:20 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Thu, 22 Sep 2005 19:56:03 -0000
+From: "long" <long@mails.tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?ofEgu7nDu7DswO3J7bfd1qS1xM2s0ae+ob/syKUzNqOjsOzJ7bfd1qQ=?=
+Date: Fri, 23 Sep 2005 03:59:59 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+今年的通知很有问题，希望看到通知的同学互相转告。
+可以办理的有今年校内直推的研一同学，以及其他年级的同学
+外校推过来的同学，那里没有数据库，具体办理方法我不清楚
+办理地点是36＃北门，很简单，只需要填表，采像，就OK了，交20元，带原身份证（好像记
+得身份证号码就可以了，最好还是带上吧）
+办理时间是14:00-20:00（平时）  17:00-20:00（周末）
+周日截止，以后校内不会再继续办理，得去中关村办理
+我知道的就这么多，还没办理的同学尽快过去！

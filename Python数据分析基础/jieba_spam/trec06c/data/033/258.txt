@@ -1,0 +1,57 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <bai@ccert.edu.cn>; Wed, 24 Aug 2005 14:13:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <bai@ccert.edu.cn>; Wed, 24 Aug 2005 14:27:02 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 06:21:35 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "wu" <wu@mail.tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+Subject: =?gb2312?B?ofEgudjT2rCutc/J+rXExMe+5MP70dSjrbW9tdfKx8qyw7Qoenop?=
+Date: Wed, 24 Aug 2005 14:23:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+http://blog.donews.com/llf/archive/2005/07/19/471832.aspx
+在sohu教育频道看见这么一个文章《中国教材为什么要篡改爱迪生的名言》，举了两个小小的著名的例子，都是我们打小就学习并牢记的。一个是大发明家爱迪生先生的那句“天才那就是1%的灵感加上99%的汗水”，一句是大物理学家爱因斯坦先生的那句“上帝不掷色子。”文中说我们伟大的教育工作者为了达到自己期望达到的教育目的，不惜断章取义，或者曲解这些大名人的原意。比如爱迪生的那句，该文中说实际上爱迪生后面还有一句：“但那1%的灵感是最重要的，甚至比那99%的汗水都要重要”。而这么做的原因是：
+我想可能与中国的教育制度精神有关。中国的教育一向是“学海无涯苦做舟”“题海战术”“一切行动听指挥”，这种教育本身的目的就是制造“整齐划一”的“听话的人才”，它不需要天才，也不承认灵感。政治课本甚至从根本上否定人的天赋的重要性，片面强调后天努力……
+后面说爱因斯坦的也一样。
+不过，上网久了，凡事就喜欢Google一下。既然出了这么大的事情，我上了这么大的当，中国教育部门这样的愚弄了我们（？？），我希望找到更直接更确凿一些的证据。马上去Google。
+从小没有怀疑过的事情，突然起了疑心，再去考究的时候，收获不少，而且，事情也不是简简单单的谁做了假谁说了谎的问题了：
+首先，中文网站就不找了，大家可能以讹传讹，但是找英文网站，基本上也都只是说“Genius is one per cent inspiration and ninety-nine per cent perspiration.”
+http://www.lucidcafe.com/library/96feb/edison.html  ；  http://en.wikiquote.org/wiki/Thomas_Edison
+没有所谓的“后面一句”。
+当然，我们清楚网上的资料转来转去，想要找到一些不一样的东西就好像大海捞针。既然今天决定要弄个水落石出，就继续追查下去……
+终究是有一些线索的：
+链接1： http://www.commonsensemedia.org/reviews/review.php?id=636&amp;type=Video/DVD
+He is being interviewed by two high school students, telling them that success is ninety-nine percent perspiration and one percent inspiration, and that the most valuable thing in the world is time, because all the money in the world won\'t buy one minute of it.
+这里交待爱迪生是在接受高中学生采访时讲出的这句明言，内容确实不止短短一句，但是也并非原文作者所说的强调灵感的重要性，而是转谈时间的宝贵。
+考虑到被阉割的可能，只作辅证。
+继续Google,嘿嘿,好嘛，来了……
+链接2： http://www.ortolon.com/articles_sterling_inspiration.htm
+一开头便是这么写的：
+"Inspiration and Perspiration
+By Cindi Myers
+Thomas Edison said, "Genius is one percent inspiration and ninety-nine percent perspiration." 
+Without the one percent of inspiration, all the perspiration in the world is only a bucket of sweat...."
+这后一段话翻译过来，跟原文所讲的那段加长版的名言非常贴切，想必应是原文理论之根据了。然而谁都不可能忽略的是：“没有1%的灵感，所有的汗水……”这句话并不在爱迪生名言的引号之内！
+ 
+注意上面的标题
+Inspiration and Perspiration
+By Cindi Myers
+已明确指出此文是Cindi Myers所写的一篇议论文。所以引号外的话不过是Cindi Myers的一句评价罢了。可惜口牙。
+我想至此，考究结束，出处应该就是这里了。原文作者一开始便站在了错误的论据上。
+不过，在我看来，论点却是好的……
+---------------------后续分割---------------------------
+记得有听说：著名的华裔建筑师贝聿铭参加电视台采访时候说：“北京的城市构造还是不错的，”
+然后新闻到这里结束，
+……
+其实后面还有半句：“比较好拆。” 
+不知真假，似乎无从考，而且，听起来比较象老百姓的调侃了。

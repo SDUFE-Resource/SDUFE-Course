@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5NG8m027911
+	for <liu@ccert.edu.cn>; Sat, 10 Sep 2005 15:34:54 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5KeKS091336
+	for <liu@ccert.edu.cn>; Sat, 10 Sep 2005 15:32:27 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5Kblh091332
+	for <liu@ccert.edu.cn>; Sat, 10 Sep 2005 15:32:15 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 10 Sep 2005 15:21:24 +0800
+Message-ID: <326328986.06301@mails.tsinghua.edu.cn>
+Received: from 59.66.112.135 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 10 Sep 2005 15:21:24 +0800
+From: zhao@mails.tsinghua.edu.cn
+To: liu@ccert.edu.cn
+Date: Sat, 10 Sep 2005 15:21:24 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMbAvNvO0r+0uf21xLb+1b3TsMaso6jUrbS0o6k=?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: zhao@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+加一部&lt;士兵之歌&gt;吧,绝对很不错的一部反映战争的电影.
+     所有战争片中，我最喜欢看的就是二战题材的影片，以下介绍一下我所看过的二战电影。像《幸德勒的名单》、《虎口脱险》、《美丽人生》、《卡萨布兰卡》以二战为背景的影片，不属于战争题材就略过了，还有我国自己和前苏联拍的一大堆电影《地道战》、《地雷战》、《铁道游击队》、《莫斯科保卫战》、《解放》等等等太多了，大家也比较熟悉所以也就略过了。
+     1.《拯救大兵瑞恩》(Saving Private Ryan)
+     经典中的经典，获五项奥斯卡奖，开场半个小时的诺曼底登陆作战，不用我多说了。其中的狙击作战，攻占机枪阵地，守卫小镇简直就可以作为战例研究。从导演到演员堪称超一流。我最喜欢的一部二战电影。我的评分：10

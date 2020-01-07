@@ -1,0 +1,50 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A7NDlm028500
+	for <che@ccert.edu.cn>; Mon, 12 Sep 2005 14:47:40 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A7KBdR092194
+	for <che@ccert.edu.cn>; Mon, 12 Sep 2005 14:45:13 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A7K7ld092190
+	for <che@ccert.edu.cn>; Mon, 12 Sep 2005 14:44:35 +0800 (CST)
+	(envelope-from sxh@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 14:33:41 +0800
+Message-ID: <326336154.01040@mails.tsinghua.edu.cn>
+Received: from 59.66.122.238 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 14:33:41 +0800
+From: "ke" <ke@mails.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Date: Mon, 12 Sep 2005 14:33:41 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgvLzK9b7NysfBpsG/o6zOxLuv0v3B7Le9z/KhqqGq0unAz8uuxL66zdDCKsuuKsS+tcS6zdCz
+vajJ6A==?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: sxh <ke@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+    水木用户群是一笔资源，这笔资源应当掌握在什么人手中，如何发挥其作用，是大家应该认真思考的问题。
+    水木清华最初由于技术领先和高素质的水木用户群，率先成为全国最大的BBS。其定位生活、技术交流平台，实际上主要起到了一般媒体的作用，单纯的技术管理无法控制和引导不良信息，导致其成为社会发展的不安定因素，从而遭受重创。应该说，bbs具有一定的建设性作用，信息公开、网络发展也是社会发展的大方向，作为保护性软着陆措施：校内交流平台和新×水×木概念是非常成功的措施。
+    如今，随着局面的变化，校内交流平台可以对外开放，出现了两个平台争夺用户群的局面。
+    两个bbs是会长期共存呢还是重新合并？水母用户群资源谁能掌握？
+    从社会发展的角度来看，水木群体形成良好的文化内涵，才能超越理工科思维的局限性，起到长江后浪推前浪的作用，也才能真正发展壮大。我们应该认真学习蒋南翔校长的“又红又专”的精准定位，提出明确的发展方向，对学校、对社会作出应有的贡献，才不辜负这笔难得的资源。
+    简单看待水木遭受的挫折，不从自身找原因，都是对水母用户不负责任的态度。
+    最后，借用张仃先生的篆书，表达一个多年坚持宣扬传统文化艺术，在新×水×木遭到封杀的小人物的心愿：
+    寸寸河山寸寸金，
+    侉离分裂力谁任？
+    杜鹃再拜忧天泪，
+    精卫无穷填海心。
+                                 ――乙酉中秋藤影阁
+                      

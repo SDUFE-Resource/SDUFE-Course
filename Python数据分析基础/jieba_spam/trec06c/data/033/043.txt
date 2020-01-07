@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <su@ccert.edu.cn>; Wed, 24 Aug 2005 10:34:43 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <su@ccert.edu.cn>; Wed, 24 Aug 2005 10:47:57 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 02:42:30 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: su@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvLHGuA==?=
+Date: Wed, 24 Aug 2005 10:44:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    北京峰杰立人投资咨询有限责任公司是一家专业经济研究机构，在宏观经济、产业经济研究、企业发展战略（含上市公司）研究的基础上形成了一批专业的研究中坚力量；同时本公司与专家、政府机构和行业协会形成了稳定而良好的合作关系。以最新的竞争理论、经济学理论、计量经济模型为研究工具，以国家权威的统计数据为基础，对行业的发展现状和前景进行深入分析和预测。 
+    本公司正处于快速发展阶段，为补充公司实力，现高薪聘请行业分析师5名、助理分析师5名。
+    任用基本条件为：
+    1、行业分析师要求硕士学历，助理分析师要求本科学历，经济或相关专业，研究能力强；工作细致、严谨、负责，能够独立从事研究工作； 
+    2、有良好的文字功底和逻辑思维能力，思维开阔； 
+    3、对信息产业、电气设备行业、能源行业、冶金行业、医药行业中某一行业有较深的了解；
+    4、从事过研究报告撰写工作(毕业论文不算)；
+    (备注:没有撰写报告工作经验者免谈,不能即刻上班者勿扰)
+    符合以上条件者请将个人简历发至webfjlr@163.com，一经面试合格者，即日便可上岗，待遇从优。

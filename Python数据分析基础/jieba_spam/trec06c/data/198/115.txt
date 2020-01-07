@@ -1,0 +1,31 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <mo@ccert.edu.cn>; Wed, 28 Sep 2005 14:17:56 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 06:29:03 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 14:29:03 CST
+Date: Wed, 28 Sep 2005 14:29:03 +0800 (CST)
+From: liang ming <ou@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IHdhbmcgeWluINPQbW3DtKO/?=
+To: mo@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+老实说看他照片, 怎么看怎么不象喜欢mm的主. 
+     标  题: wang yin 有mm么？
+     
+     我觉得他可能是性苦闷的结果。
+     
+     --
+     "科学精神"有多么脆弱,不妨看看希腊.恩培多克勒,德谟克利特也许还有阿那克萨特拉给出了科学精神的几乎所有
+     基本内容：无神论，实验方法还有推理法。阿基米德给出了科学研究需要的一切：机器，数学还有资金。然而柏拉
+     图和亚里士多德只用简单的焚书法就毁灭了德谟克利特的自然哲学；罗马人的一刀把阿基米德数学送进了地狱；至
+     于阿尔塔恰克斯，他连希腊政治都没有对付过去。然后人类必须用一千多年的时间等待第谷和伽利略重新带来观察
+     和实验；用更长的时间等待牛顿发展出微积分。科学精神在希腊罗马的人类正统精神面前如此的不堪一击，正是科
+     学不足恃的证明。
+     

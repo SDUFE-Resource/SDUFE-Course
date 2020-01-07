@@ -1,0 +1,18 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <liu@ccert.edu.cn>; Fri, 2 Sep 2005 07:52:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <liu@ccert.edu.cn>; Fri, 2 Sep 2005 08:04:59 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 07:54:38 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 07:54:38 +0800
+From: tao@mail.tsinghua.edu.cn
+To: liu@ccert.edu.cn
+Date: Fri, 2 Sep 2005 07:54:38 +0800
+Reply-To: tao@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEg0ru8+9bTx+nT68TPv8LSu8POo6zMuMy419S8urXE0rvN7b6twPo=?=
+Content-Type: text/plain
+
+在夜深人静的时候,你的面容总是在我的眼前.我不由自主的关上电灯，在电视微弱的光线下孤独的回忆。是一种思念?一种无奈?时间的倒影又回到了午夜一点， 我们沿着昏暗的楼梯拾级而下...飞驰的出租车无情地把你从我身边带走，还顺便抄走了我的心。满心的憧憬如同南柯一梦，那天的记忆太深刻,我始终逃脱不了它的束缚。天哪，难道是这点幸福让你嫉妒了么？我强忍自己不告诉你这些，只是希望不影响你的考试。但思念如同发芽的种子，终究有一天，你会看到的。

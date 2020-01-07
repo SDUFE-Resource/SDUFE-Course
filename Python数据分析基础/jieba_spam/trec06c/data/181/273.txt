@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <feng@ccert.edu.cn>; Sun, 25 Sep 2005 05:07:18 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <feng@ccert.edu.cn>; Sun, 25 Sep 2005 05:18:47 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 20:55:53 -0000
+From: "ma" <ma@mail.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Cc: <jin@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtq7E4w==?=
+Date: Sun, 25 Sep 2005 05:18:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+    这个暑假在家待了40多天，每天都在家蹲着，也不出去。一天被老妈强行拉出去陪她买菜。我只低着头跟在她后面听她和别人打招呼，说话。突然，她大声对我说，你看，那不是你同学吗？我抬头一看，一个骑自行车的女孩在我们前面不远处，车后座上是一个背着书包的小孩。老妈责怪我说，你怎么不和同学打招呼啊？我低着头说，不想打。她接着说，你看你，人家的小孩都三岁了，都上幼儿园了，你还天天像个孩子似的……我说，她比我大三岁呢，而且早就不上学了。老妈不服，说，那人家像你这么大的时候也已经结婚了……我小声的说，我倒是想呢，没人要啊……妈妈突然握着我的手，温柔的说，都不要，我要。我嘟囔着说，也就你把我当宝贝，别人谁理我啊。她不说话，只是看着我笑……
+    离开家已经20多天了，走的时候看着她叮嘱我，却一下子难受的说不出话，只是一个劲的点头，然后用尽力气，说，你回去吧。她走了，但是走了两步又回过头看我，车开了，我抱着书包哭得一塌糊涂……从高一到现在，离家到外求学已经六年了，却没有这么痛快的哭过……轻轻的在心里说，妈妈，再见。
+花静静的绽放
+在我忽然想你的夜里
+多想靠近你
+告诉你其实我一直都懂你

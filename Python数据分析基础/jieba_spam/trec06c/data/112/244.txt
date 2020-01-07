@@ -1,0 +1,23 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j889N4UA011087
+	for <tang@ccert.edu.cn>; Sat, 10 Sep 2005 21:08:59 +0800 (CST)
+Message-ID: <200509081723.j889N4UA011087@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO b28d91f81b7b43f) (yang-w04@166.111.203.126)
+  by localhost with SMTP; Sat, 10 Sep 2005 12:55:59 -0000
+From: "zhuang" <zhuang@mails.tsinghua.edu.cn>
+To: tang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx/O159fTuaSzzM+1v7zR0NfKwc8=?=
+Date: Sat, 10 Sep 2005 21:23:43 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+In-Reply-To: <000601c5af76$5ea858e0$c0cb6fa6@BAMBOOIBM>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvd6cjZMf6CDhmRji9RlY4vJqTKQE38gdA
+
+大连理工的同学立志要考清华电子的研究生，托我在本校内找一些考研的资料。
+同学希望以后的研究方向是“物理电子学与光电子学”，并希望能够得到已经成功考上清华研究生的ggjj宝贵的资料和经验。
+同时想问一下，这个专业方向（“物理电子学与光电子学”）需要复习哪些课程？ggjj能不能提供这样的资料呢包括书籍、笔记、讲义，以及往年的题目，或者在复习时做过的习题集什么的。同学说，花钱买也可以。
+站内联系吧，或者发邮件至francois03@163.com.谢谢啦^_^

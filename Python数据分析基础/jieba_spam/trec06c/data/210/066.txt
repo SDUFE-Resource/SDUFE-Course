@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TNZmZm009556
+	for <che@ccert.edu.cn>; Fri, 30 Sep 2005 17:54:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8TNkmaV017714
+	for <che@ccert.edu.cn>; Fri, 30 Sep 2005 18:05:07 +0800 (CST)
+Message-Id: <200509292346.j8TNkmaV017714@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 30 Sep 2005 09:38:42 -0000
+From: "kong" <kong@mail.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <qian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtPO80jEwLjG2vNPQyba08svj?=
+Date: Fri, 30 Sep 2005 18:05:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5C593.18C0F390"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXFUAn0NYzCGVdZSOy1gVwHMkt8UA==
+
+幼儿园今天下午开始放假，之后7。5天都要一刻不离陪着关关
+石头这个猪头居然说国庆正好干活加班！气愤之余真想找个亲子旅游团带儿子一起消失
+Q1:大家知道哪的儿童图书（尤其低幼）比较全？想买米菲兔的绘本，几个童书网站都缺货――动画片出来前还没人买呢，唉――西单图书大厦尽一堆启蒙教育、少儿英语+日本漫画，哪个柜台都放着洪恩英语的碟“i like potato I LIKE POTATO……”
+Q2：有什么人少、有趣、不太远的地方可以带小朋友去玩？抛砖引玉一个西三旗花卉鱼虫市场，但只够打发半天，要绞尽脑汁想这一周的节目……
+Q3：住在北边这一带又不打算出远门的家长们不打算搞点集体活动么？版聚或者互相串门？

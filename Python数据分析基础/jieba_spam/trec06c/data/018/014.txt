@@ -1,0 +1,27 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2Qvx5029940
+	for <ling@ccert.edu.cn>; Sat, 20 Aug 2005 17:47:13 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A377.00010B.12784@m52.126.com>
+Date: Sat, 20 Aug 2005 17:59:56 +0800 (CST)
+From: "zhuang" <zhuang@126.com>
+To: ling@ccert.edu.cn
+Bcc: "xjhxf@263.net" <xjhxf@263.net>,"jmwhxf@sina.com" <jmwhxf@sina.com>
+Subject: =?gb2312?B?UmU6ILH0wdm58sfzLi4uSkFWQbmks8zKpg==?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_bOPJtnjNRxiIvorDRthwNKQyQThj"
+
+1.java，必须，而且要好
+java这个字眼很难定义阿~~~
+什么叫做java好？java是一揽子技术，估计不是说java语言学的好。
+java 俺作了两年了，加上在学校学习，2.5年。
+2.c/c++，最好有，没有也行
+俺有^_^
+3.solaris，必须，最好能熟
+这个没有，UNIX用的少。:(
+4.HTTP，必须，因为这个职位会做web相关的开放
+有^_^
+5.英文，最好能过老外面试那种，但是可以open来看，如果技术强，英文不好也没关系，可以将来让英文好的同事给当翻译――这个职位本身是有和美国同事技术沟通的内容的。
+有^_^

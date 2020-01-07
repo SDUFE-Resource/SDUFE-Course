@@ -1,0 +1,31 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 16:36:06 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 15:58:24 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "ling" <ling@cert.org.cn>
+To: jin@ccert.edu.cn
+CC: "zhu@ccert.edu.cn" <che@ccert.edu.cn>,
+   "he@ccert.edu.cn" <he@ccert.edu.cn>,
+   "tan@ccert.edu.cn" <jian@ccert.edu.cn>, "tian@ccert.edu.cn" <peng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL+0zerByyA8x/PH88Tjse3R787SPg==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 16:43:51 +0800
+
+我当时不理解 干了 啥意思,现在也不清楚,呵呵
+     标  题: Re: 看完了 &lt;求求你表扬我&gt;
+     
+     烂片还是留了点悬念的
+     比如彪哥说把陈好干了，这个是否属实，是悬念
+     还有故宫这一段
+     : 你太有想象力了
+     : 癌症说治就治啊
+     : 还跑北京故宫遛弯儿去了
+     
+     --
+     

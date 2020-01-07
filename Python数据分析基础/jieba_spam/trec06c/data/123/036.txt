@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <long@ccert.edu.cn>; Mon, 12 Sep 2005 23:41:01 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <long@ccert.edu.cn>; Mon, 12 Sep 2005 23:52:59 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 12 Sep 2005 15:35:47 -0000
+From: "yi" <yi@mail.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Cc: <gu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILnY09q52NPau+nS9rXEobCyysDxobGhqqGqztKjrLrcxNq+zg==?=
+Date: Mon, 12 Sep 2005 23:52:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+vv (薇薇~~天下无双~:) 共上站 1739 次，发表过 20000 篇文章
+上次在  [Wed Aug 24 11:56:41 2005] 从 [211.151.90.*] 到本站一游。
+离线时间[Wed Aug 24 12:00:43 2005] 信箱：[信] 生命力： 身份: [用户]

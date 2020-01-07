@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j89BWCU9022808
+	for <gan@ccert.edu.cn>; Sat, 10 Sep 2005 17:03:03 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j89BiKkB022586
+	for <gan@ccert.edu.cn>; Sat, 10 Sep 2005 17:15:11 +0800 (CST)
+Message-Id: <200509091144.j89BiKkB022586@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 10 Sep 2005 08:59:35 -0000
+From: "lin" <lin@mail.tsinghua.edu.cn>
+To: gan@ccert.edu.cn
+Cc: <liao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob5TVFbWsbKlob/W3MH5ze23ycD7xtaxrbbgw9fFtbTzyPwgKNeq1Ngp?=
+Date: Sat, 10 Sep 2005 17:15:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B576.DC006930"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW1M82V4fCsJlcmRKqhxo69KqiULA==
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: stvnet (清华大学学生网络电视), 信区: THUInfo
+标  题: 【STV直播】周六晚飞利浦杯多米诺大赛
+发信人: stvnet (清华大学学生网络电视), 信区: STVNET
+标  题: 【STV直播】周六晚飞利浦杯多米诺大赛
+9月10日周日晚上6:00，学生网络电视将对飞利浦科技多米诺大赛进行现场直播，本周为晋
+级公开赛，参赛的三支队伍是清华大学，西安交通大学和重庆大学欢迎收看。　
+  　敬请点击学生清华视听媒体右部顶端的“直播转播 点击进入”图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+　　1.选择“打开”(或者OPEN/RUN)等本地打开按钮直到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网用户)”频道收看我们的直播。
+　　2.选择“保存”(或者SAVE)等按钮保存到您的计算机上，运行保存下来的“Gridmedia学生网络电视版”程序，即可看到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gidmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看 的频道进入“
+　　另外由于将从远处服务器以及一些动态的转发节点获得数据，所以在选择频道弹出windows media player播放器后，您会看到播放器下端将出现“正在连接到媒体...”字样以及后来的“缓冲 XX％”字样，此时请您耐心等待数据的接收。
+　　为保证您的收看效果，建议安装windows media player 8.0或以上版本。
+    您还可以下载并安装VVsky客户端软件（http://202.205.10.26/Media/VVSky_Setup.exe）免费注册用户并登陆该客户端之后在主界面右侧选择频道STVNET即可收看我们的直播。
+感兴趣却因故不能到现场的xdjms可以通过网上直播观看：）
+Enjoy！

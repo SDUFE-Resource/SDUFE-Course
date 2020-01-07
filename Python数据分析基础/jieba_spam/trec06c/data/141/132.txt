@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <yi@ccert.edu.cn>; Fri, 16 Sep 2005 15:33:42 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <yi@ccert.edu.cn>; Fri, 16 Sep 2005 15:45:29 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 07:26:59 -0000
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: yi@ccert.edu.cn
+Cc: <wang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKO80szC6LXE4eHP1rT6yfq77qO+seC+5y0twO7pyQ==?=
+Date: Fri, 16 Sep 2005 15:45:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+ 这个这么好玩，还有没别的相关介绍呀？也贴上来看看
+     ＜姨妈的後现代生活＞编剧―电影处女作＜孔雀＞夺柏林银熊奖 最热门女人戏男编剧李樯
+     李樯圈中朋友不多，做演员的更少，而他与赵薇相交极好，近日赵薇接下许鞍华的戏，「她本来就是一个演技十足的女星，只是因为小小年纪就出了名，有人嫉妒，才歪曲了她，其实她真诚、善良，是圈中少见的性情中人，我是个不喜与明星打交道的人，但是只跟她谈得拢。」
+　　此次赵薇所饰演的角色，李樯相信她能真正发挥演技，「让别人好好看看，赵薇不是花瓶。」
+　　李樯早就推崇许鞍华的＜女人四十＞，许导找合作，两人陆陆续续谈了半年，李樯拿出一部＜姨妈的後现代生活＞给她，「她说这故事难过了，我们可不可以快乐一点？我坚持说这是一部奇幻之作一部浪漫和悲情的都市童话，里面所有的人物都是我梦中出现的。最後她被说动了。」
+　　周润发在美国看了戏本，立刻拍板接下，唯一的要求不许再改戏本了，只许加戏，而斯高娃、卢燕和赵薇更是对角色喜爱之极。「写的时候我心里就想，哎呀，这个要是周润发演就太好了，那个要是赵薇演就更好，我跟许鞍华谈的时候，告诉她这戏中人物我都想用谁，她说，这也太豪华了吧，简直没有可能。结果最後所有我预想的人物都接了这部戏。」

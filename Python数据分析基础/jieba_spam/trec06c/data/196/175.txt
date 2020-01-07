@@ -1,0 +1,23 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <han@ccert.edu.cn>; Wed, 28 Sep 2005 07:00:36 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 23:11:47 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 07:11:46 CST
+Date: Wed, 28 Sep 2005 07:11:46 +0800 (CST)
+From: liang ming <kang@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgx+vOykh1S291tPO459PQudi49sjLzfnIy7LF16q7p7/atbWwuM7KzOI=?=
+To: han@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+谢谢您的回复，有几个问题想请教一下。
+我是应届毕业生，但一直没有找到解决户口的单位。如果我现在把户口和档案从我的培养单位（北京的）自己拿到人才，您的意思这种情况，海淀人才接收我的户口档案的可能性就很小，是吗？
+另外，我要去的那个中科院的研究所，其正式员工的档案户口好像也是放在海淀人才的，我想请问一下，由单位出面委托人才帮我接受档案户口，和我自己去的区别在哪里？单位出面是否意味着户口就是由单位解决，而个人去人才就表示户口一直没有解决呢
+谢谢您的回复，企盼您再次的解答，谢谢

@@ -1,0 +1,27 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <zhan@ccert.edu.cn>; Wed, 28 Sep 2005 13:48:09 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 05:59:19 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 13:59:19 CST
+Date: Wed, 28 Sep 2005 13:59:19 +0800 (CST)
+From: liang ming <xin@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILvGwNrJ+sjVv+y1vcHLo6zIyMHS16O62CAo16rU2Ck=?=
+To: zhan@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+一个非常细腻，善解人意的男孩
+同时又是一个仗义的男孩，
+属于上得厅堂，下得厨房的
+绝顶好男人
+（就是“会当凌绝顶”的“绝顶”，真不知将来那位mm有“会当凌绝顶”的福气，先预祝一切甜蜜）
+ bless。。。。。。。
+     发信人: boycpu (我在最深的绝望里，看到了最绝美的月光), 信区: DIE.THU
+     标  题: 黄磊生日快到了，热烈祝贺

@@ -1,0 +1,36 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <xie@ccert.edu.cn>; Sun, 2 Oct 2005 05:56:11 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sat, 1 Oct 2005 22:07:07 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sat, 1 Oct 2005 22:07:07 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <xie@ccert.edu.cn>; Sat, 1 Oct 2005 15:28:46 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <xie@ccert.edu.cn>; Sat, 1 Oct 2005 17:13:39 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sun, 2 Oct 2005 06:07:02 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <shen@motorola.com>
+To: xie@ccert.edu.cn
+Subject: =?gb2312?B?ofEgye7SucnPzfi1xMWuyMs=?=
+Date: Sun, 2 Oct 2005 06:07:00 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+上网的女人除了因为工作必须，除了纯粹因为好玩，都或多或少有着自己的心事。尤其是经常深夜上网的女人，一定有着深深浅浅的不能轻易与人道的寂寞。 
+　　这样的女人，不一定非常漂亮，也许只有几分可以让自己自信的姿色，但是一定有着丰富的情感，温柔而细腻。在现实生活中，她们或许都会有着或大或小的成就，是同龄人中的佼佼者，是别人眼中的能人。在朋友面前，她们善解人意、尽力替朋友排忧解难。她们是生活中看起来的强者。在太阳底下，她们是赏心悦目的女人。 
+　　只有在夜深人静的时候，她们才会疲惫地除去坚强的伪装 ，审视镜子中那个憔悴的容颜，对着网络对着键盘对着一个个陌生的名字倾吐自己的心事，释放自己的脆弱。 
+　　她们也有着如水的柔情，只是无人轻易能解。她们也有着许许多多脆弱的泪水，只是别人很少看见。她们的爱执着而热烈，只是无人值得。 
+　　但是她们一旦向你打开心扉，你就会惊奇地发现在那么坚强的外表下藏着的竟然是那么一颗伤痕累累的心，你会情不自禁地想要付出你的关爱给她温暖，你会不由自主地想呵护她疼她宠她。 
+　　于是你小心翼翼地保持着让她们觉得安全的距离。给她快乐，听她哭泣，让她的灵魂不在孤独地漂浮在寂寞的深夜。 
+　　深夜上网的女人是寂寞的女人，是有很多故事的女人。但是她们不会选择去酒吧买醉，不肯让自己在灯红酒绿的世界里迷失。她们不需要虚伪的怜悯需要真诚的友情。于是，她们选择了逃避，把满腔心事都深埋进文字，然后微笑着继续坚强的人生。

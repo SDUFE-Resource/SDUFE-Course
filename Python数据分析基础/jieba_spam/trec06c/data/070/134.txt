@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <chen@ccert.edu.cn>; Fri, 2 Sep 2005 08:12:25 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <chen@ccert.edu.cn>; Fri, 2 Sep 2005 08:25:01 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 00:13:36 -0000
+From: "gong" <gong@mail.tsinghua.edu.cn>
+To: chen@ccert.edu.cn
+Cc: <zhan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILj3zrtYREpNo6yw787St9bO9tK7z8LO0sWuxfPT0c/W1Nq1xNDEwO2wyaOh?=
+Date: Fri, 2 Sep 2005 08:24:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+太没经验拉，当时吵架的时候就应该死皮赖脸的把事情说清楚！

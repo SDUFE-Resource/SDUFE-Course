@@ -1,0 +1,36 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <zeng@ccert.edu.cn>; Sat, 10 Sep 2005 01:00:26 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <zeng@ccert.edu.cn>; Fri, 9 Sep 2005 10:12:33 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 10:12:33 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 10:12:33 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sat, 10 Sep 2005 01:12:33 +0800
+From: =?GB2312?B?1/O+pw==?= <xue@gmail.com>
+Reply-To: xue@gmail.com
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0ru148/W1NrQxMfptcS40LSl?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+什么是爱?
+雁过,留痕,风起,云散,雾隐去,苍白散落一地,然后微笑,转身,无奈所以再见.
+眸子中流淌出来的,
+疲惫,厌倦,暧昧,狂热,一支烟燃起,黑暗中焚尽,熄灭,灰飞,烟灭,视而不见.
+无法预知亦无从逃避,向左,向右,命运,轮回,雪地上的咒语,劫数,终不可避及,纠缠一世.
+手心,手背,发丝,冥冥之中的错综复杂,终抵不过无尽的迷乱.
+紧握手上传来的温度,
+真切,清醒,感动,无法摆脱,而面容温柔,模糊,幻相四现,只可见,一瞬间,背影,坚硬,冷酷,初
+始间
+恍惚一世的时光,若有似无,云淡,风轻,挥手去,落泪同,叹惋惜,唱孤寂,一片冰心,无人见.
+淡月眉弯,轻萤流语耳畔,终消散,远行,不再念及,谈笑,从容,雪茄烟,夹克衫,无语,漠然,凄
+然梦醒,终只见,毅然放手一瞬间.

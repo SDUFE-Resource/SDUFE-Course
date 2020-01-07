@@ -1,0 +1,25 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <ni@ccert.edu.cn>; Mon, 26 Sep 2005 17:52:24 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Mon, 26 Sep 2005 17:55:39 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 09:55:37 UT
+To: ni@ccert.edu.cn
+From: hua@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtE1JVLrNy67EvrbUtP3N9dvztcTMrLbIsrvNrKO/?=
+
+我并非不理解王垠的想法，只是认为他这样的想法目前还是因为对很多问题不够了解。
+他进清华前对川大的失望，他在清华对清华的失望没有任何本质区别。
+如果有人告诉他，国外也是这样，他还会这样指责清华么？
+对了，说到这，我觉得可以这么说，国外和清华的区别类似于清华和川大的区别。他到
+了清华后，还是觉得遇到了好老师的，到了国外的好的学校，他也会感慨能遇到很好的
+老师，但是终究还是会失望。
+另外，他的导师实在没什么过错，他这样的指责，你认为值得理解么？
+     有没有本质不同，要看每个人身处的环境，终究是个人问题。我倾向于理解王垠。

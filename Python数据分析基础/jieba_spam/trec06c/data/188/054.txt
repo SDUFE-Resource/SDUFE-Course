@@ -1,0 +1,29 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bkPe006750
+	for <xing@ccert.edu.cn>; Mon, 26 Sep 2005 16:06:58 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4j00838;
+	Mon, 26 Sep 2005 16:10:16 +0800
+Message-Id: <200509260741.j8Q7f4j00838@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 08:10:14 UT
+To: xing@ccert.edu.cn
+From: lei@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEg1Nq089Oitdu5+sn6uqLX0w==?=
+
+俺一个哥们的老婆前两天生了，在英国。
+产前，两个人上了n多产前培训班，把生产流程介绍的倍清楚。赶上这个哥们是搞计算机的，写了一个伪代码给我看。里面全是：
+if(疼痛&gt; 3 )
+ 吸笑气
+ delay (5分钟)
+end if
+if(疼痛&gt;3)
+。。。。。。。
+这样的内容。赶上我也是学计算机的，于是就懂了。
+流程里面一项是产妇生产的前5个小时，医生只按摩帮助，不采取其他措施。结果哥们老婆生的时候，有难产迹象，陪产的哥们急的不行，那些伪代码早就忘得一干二净，期间跟医生喉了n次，医生根本不鸟他，坐在一边休息，任由产妇惨叫哀嚎良久。
+话说哥们正焦急间，主刀的断喝一声：5小时到！ 结果10余训练有素的医护人员一拥而上，配合默契眼花缭乱的20分钟搞定，母子平安。
+大家谈到这一段，都不知如何评价大英帝国的产科医生。是死板还是严谨？

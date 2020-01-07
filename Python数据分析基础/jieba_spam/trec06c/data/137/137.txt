@@ -1,0 +1,24 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <hua@ccert.edu.cn>; Thu, 15 Sep 2005 21:18:12 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <hua@ccert.edu.cn>; Thu, 15 Sep 2005 21:49:20 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Thu, 15 Sep 2005 21:29:27 +0800
+From: "zhu" <zhu@mail.nisac.gov.cn>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1eLR+cOstty1xM/rt6jE0bXAysfH6dD3u6+jvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+单身生活是自由的，洒脱的，开心的时候一个人开心，或者和朋友们一起开心。
+落寞的时候，也会想有个人能照顾该多好。开心呢，两人一起分享，会更幸福。不开心呢，两个人一起承担，一起成长...
+可是，已经不再想要没有结果的爱情了，所以也害怕由于现在自己的状况还不算稳定，所以不敢奢望感情。
+可是又会想，工作和学习状况是可以改变的，有个人指导我工作学习，不是更好嘛？还有年龄，如再过几年的话，恐怕生活圈子更小，那时候想法是不是会更矛盾呢？
+是否有人曾和我一样的矛盾呢？？
+还是我心理有问题？？

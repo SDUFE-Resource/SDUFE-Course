@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <ning@ccert.edu.cn>; Sat, 17 Sep 2005 11:33:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <ning@ccert.edu.cn>; Sat, 17 Sep 2005 11:45:39 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 03:26:21 -0000
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Cc: <zhou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/W1Nq40L71uty6ww==?=
+Date: Sat, 17 Sep 2005 11:45:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+真够naive的。
+        昨天在打牌的时候，gg老爸打电话来找我，就问我：“牙还疼不疼？”（因为我这段时间长智齿）我开始还以为是找gg的，结果他老爸就问了句：“++和你在一起吧？”我说：“是啊！”他说：“那就不用跟他说话了。”娃哈哈！发现只是关心我，根本就不找gg。看来完全虐待gg

@@ -1,0 +1,23 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <ding@ccert.edu.cn>; Thu, 29 Sep 2005 20:07:56 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 12:19:07 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 20:19:06 CST
+Date: Thu, 29 Sep 2005 20:19:06 +0800 (CST)
+From: liang ming <lian@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILCu1Nqyu7bUtcTKsbzkIHp6?=
+To: ding@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+其实结婚对象就是恰好在某一时刻出现的一个人，未必是今生的最爱
+     原文地址：http://www.blogcn.com/user56/ysuglf/blog/23836253.html    
+         也许不是不曾心动，不是没有可能，只是，有缘无分，情深缘浅。有一个女人突然决绝的跟相爱五年的男友分了手，闪电般嫁了他人。她说她要结婚她实在等不起了，而他虽然爱她，却根本没有一点这方面的意思。过了几年，男人也结婚了。那个新娘其实未必比她出色多少，或者
+         其实我们寻寻觅觅了那么久，遍尝爱情的甜蜜与艰辛，而最后选择的爱人，不过就是在我们心意动时经过身边的那一个。什么青梅竹马，什么心有灵犀，都不过是些锦上添花的借口，时间才是冥冥中一切的主宰。

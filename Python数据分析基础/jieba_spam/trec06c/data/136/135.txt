@@ -1,0 +1,39 @@
+Received: from sendmail.iclp.com.hk (sendmail.iclp.com.hk [203.193.56.98])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8D9HfCC018617
+	for <wen@ccert.edu.cn>; Thu, 15 Sep 2005 16:59:37 +0800 (CST)
+Received: from ebpc1 ([192.168.17.111])
+	by sendmail.iclp.com.hk (8.11.6/8.11.6) with SMTP id j8DNBbb24415
+	for <wen@ccert.edu.cn>; Thu, 15 Sep 2005 17:53:28 -0500
+thread-index: AcW4RY0OBhyKhSqsSemwSUmiAKaPGg==
+Thread-Topic: =?gb2312?B?SnVuaXBlcs34wue5q8u+0dC+v7rNvczT/bv6ubnNqNG2MjAwNcTqOdTC?=
+Reply-To: <gao@apac-juniper.net>
+From: "gao" <gao@apac-juniper.net>
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7NqNaqob/N0NK1v7zK1NCj1LDW+tGnvMa7rjEw1MK33b+8ytSxqMP70OvWqiAo16rU2Ck=?=
+Date: Thu, 15 Sep 2005 17:10:38 +0800
+Message-ID: <8c3801c5b845$8d1d0270$6f11a8c0@ebpc1>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_8C39_01C5B888.9B404270"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Exchange 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 Career 讨论区 】
+发信人: alphayoung (alpha), 信区: Career
+标  题: 【通知】托业考试校园助学计划10月份考试报名须知 (转载)
+发信人: alphayoung (alpha), 信区: EnglishTest
+标  题: 【通知】托业考试校园助学计划10月份考试报名须知
+发信人: alphayoung (alpha), 信区: THAFL
+标  题: 【通知】托业考试校园助学计划10月份考试报名须知
+校园托业助学计划2005
+各位同学，新学期已至，清华大学托业报名点报名具体时间如下：
+10月30日考试的报名时间为：现在----9月30日
+希望大家抓紧时间报名！
+校内报名方法：
+文南楼103室 杨宗玉老师
+联系电话：62785552
+费用：374元（在校大学生凭学生证）

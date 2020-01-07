@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KNVQWO026957
+	for <jian@ccert.edu.cn>; Thu, 22 Sep 2005 05:26:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8KNgrSA012901
+	for <jian@ccert.edu.cn>; Thu, 22 Sep 2005 05:38:29 +0800 (CST)
+Message-Id: <200509202342.j8KNgrSA012901@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 21 Sep 2005 21:16:45 -0000
+From: "tan" <tan@mail.tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+Cc: <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILLDw9zC68z11ebKx8zlwaa77g==?=
+Date: Thu, 22 Sep 2005 05:38:17 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0056_01C5BE80.0E54D8A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW+PP+dE9Zps0Q1RamkdUKgZkzF9Q==
+
+     标  题: Re: 裁密码条真是体力活
+     
+     发的人当然能看到所有人的
+     关键是这样才能让别的人保证互相看不到啊
+                               其实真没必要.....
+     : 那你发不也都可以看到别人的?
+     : 大家互相信任一点....
+     : 要不就告诉人家,不要让人家看...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~这样
+     
+     --
+     I\'ll sing for you I\'ll sing for mother
+     We\'re praying for the world
+     And for the people everywhere
+     Gonna show them all we care
+     
+     

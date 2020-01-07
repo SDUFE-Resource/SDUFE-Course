@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <lei@ccert.edu.cn>; Tue, 23 Aug 2005 22:40:42 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <lei@ccert.edu.cn>; Tue, 23 Aug 2005 22:53:56 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 14:48:29 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "tao" <tao@mail.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO80rDvztKz9rP21vfS4rDJ?=
+Date: Tue, 23 Aug 2005 22:50:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    我父母现在和我一样都为这件事情特别头疼，大家帮我想想办法吧。
+有什么觉得好的办法就回复到我信箱吧，要不版主又要删了，对这里的版主失望到顶点……
+事情是这样的
+    有一个邻居是负责我家现在住的楼物业的总经理，前段时间由于房子几年都没办下房产证我们家和她有了矛盾
+（她也是负责该房的开发商，而我母亲是业主委员会的主席，代表所有业主打了房产证的官司，后来胜诉）
+今年4月以来，她就以各种理由到法院起述我家，要求赔偿经济损失：
+第一次：开电视声音大，请求赔偿4万元
+      
+     法院把我家请去了，正好我家那一个月都在出差，家里没有人，她理亏就撤诉了
+第二次：我家关门声大，又晚回家，每次都打扰她休息。还是请求赔偿4万元
+     在法院把我父母请去几次后，她又自动撤诉
+这次又来了，说什么我家漏水到她家，赔偿6万元……
+     由于我现在不在家，情况不是太了解，但是两个并排的房子怎么可能漏水让她有那么大的损失？这不就是存心找茬吗？父母都被法院请去n多次了，这不存心恶心人吗？
+     有啥办法制她？

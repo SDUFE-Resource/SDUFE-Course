@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LBXfxi031486
+	for <zhang@ccert.edu.cn>; Thu, 22 Sep 2005 15:04:24 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8LBjEv0011031
+	for <zhang@ccert.edu.cn>; Thu, 22 Sep 2005 15:15:57 +0800 (CST)
+Message-Id: <200509211145.j8LBjEv0011031@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 06:54:01 -0000
+From: "chen" <chen@mail.tsinghua.edu.cn>
+To: zhang@ccert.edu.cn
+Cc: <zhong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsbG+qcP31sLO3s/e0MXPory8yvXT0M/euavLvrPPxrhKMk1FL1N5bWJpYW7I7bz+uaSzzMqm?=
+Date: Thu, 22 Sep 2005 15:15:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C5BEE4.F6DD0CF0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW+oeiffFwOk8vdS7KYdF5R4B6nTQ==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+资深J2ME软件工程师
+职位描述：
+1.    熟练掌握J2ME开发，具备至少一年以上的使用J2ME进行手机应用开发的经验；
+2.    熟悉J2ME MIDP及各主要手机厂家编程API；
+3.    精通JAVA编程语言，熟悉JSP、XML技术和J2SE技术；
+4.    有两年以上软件项目开发经验，熟悉项目开发流程； 
+5.    工作认真负责，学习能力强，能够在短时间内承担公司项目开发工作； 
+6.    有强烈的事业心，具有良好的团队合作精神。
+资深
+职位描述：
+1、    熟悉symbian手机开发，最好有一年以上symbian开发经验；
+2、     有一年以上手机开发或嵌入式应用程序开发经验者优先；
+3、    大学以上学历，两年以上软件开发工作经验；
+4、    扎实的计算机基本功，熟练掌握C++和面向对象的思想；
+5、    思路清晰，思维敏捷，快速的学习能力，良好的英文资料阅读能力；
+6、    有强烈的事业心，具有良好的团队合作精神。
+联系人:李小姐
+联系电话:82600011-609
+E-MAIL:HR@DIGINPOWER.COM

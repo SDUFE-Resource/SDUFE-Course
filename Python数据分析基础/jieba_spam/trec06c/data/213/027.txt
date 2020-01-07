@@ -1,0 +1,56 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U301rY010973
+	for <jiang@ccert.edu.cn>; Sat, 1 Oct 2005 13:12:04 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s67T079931
+	for <jiang@ccert.edu.cn>; Sat, 1 Oct 2005 13:06:48 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.200])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s2q2079927
+	for <jiang@ccert.edu.cn>; Sat, 1 Oct 2005 13:06:05 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id t9so856482wxc
+	for <jiang@ccert.edu.cn>; Fri, 30 Sep 2005 22:22:19 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=W8KmBVYgtJQpTKJHhyqBPQpNMrndwd0y2MpDtldR3I4RhE6Kc4T1HsM706J0vp9CsI6L8ZXwRUVAEpb0VeWHwwgHOmzIJg3N5ezU1rxXNE5OB77ZnjAGIUptwrX52M2CpQAbjQGH9u8CAY2rjKNU/w6Ll7Ao3skKpgKarKaNhNI=
+Received: by 10.70.28.8 with SMTP id b8mr798445wxb;
+	Fri, 30 Sep 2005 22:22:19 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Fri, 30 Sep 2005 22:22:19 -0700 (PDT)
+Message-ID: <a00ed9800509292010qaccea32sfc4e2251cb90c982@mail.gmail.com>
+Date: Fri, 30 Sep 2005 22:22:19 -0700
+From: Shaozhi Ye <cheng@gmail.com>
+To: jiang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1rvPo837wqXW99LUuvO2rrXD16XXobv6u+E=?=
+In-Reply-To: <200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+	<200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j8U2s2q2079927
+Precedence: list
+Reply-To: Shaozhi Ye <cheng@gmail.com>
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+我没有转移话题，我只是在阐述一个简单道理，就是一个人的资本问题
+你的成绩是你在做学生时候最大的资本，你的paper质量和数量是你在做一个教授的
+最大资本，你的销售额是你在做一个经理的最大资本。
+你要靠这些资本去和别人竞争
+其它还有很多因素也很重要，但是相对而言重要性要低，有些也难以量化，有些要靠运气也许用得上
+你能把握的就必须是把最重要的这些资本做大作强，这样才能在竞争中立于不败之地
+所以对需要推研的人来说，搞好成绩是最重要的
+至于其它因素都是次要的，比如我动手能力不强可以找搞计算的老师，不去找搞实验的老师，不会对我的推研产生本质影响
+而如果要使自己的最重要资本不够强了，那肯定活得不会爽，所以道理很简单
+     你似乎在转换话题
+     首先，成绩好，推研地把握就大，这个基本上是废话
+     每个人都知道

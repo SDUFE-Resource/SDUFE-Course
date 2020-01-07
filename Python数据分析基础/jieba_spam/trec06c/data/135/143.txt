@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <yun@ccert.edu.cn>; Thu, 15 Sep 2005 12:12:53 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <yun@ccert.edu.cn>; Thu, 15 Sep 2005 12:24:48 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 04:07:05 -0000
+From: "pu" <pu@mail.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Cc: <xue@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Kzsq5/cC0yMujusurt724uMS4vPvD5rXEsbryxNC3vbzS0qrU9cO0se3KvqM/?=
+Date: Thu, 15 Sep 2005 12:24:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+要面子的话都要面子的，如果只要他们家给的，你们家变成卖女儿了，脸上也不好办，所以都准备红包或者什么贵重东西吧
+     基本情况：我见过他爸妈，他见过我爸妈，双方父母没见过，我是单亲，跟妈妈；
+               他爸妈给了首付让我们买房，10w，户主是他，我家还没给过钱，初步打算明年装修时候给（但是我的确不忍心要，我老妈一个人也不易，这个另说吧）；
+               我跟他爸妈处的很好，两家父母都在外地；

@@ -1,0 +1,24 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <jiang@ccert.edu.cn>; Sat, 20 Aug 2005 06:55:58 +0800 (CST)
+Received: (qmail 23946 invoked from network); Fri, 19 Aug 2005 23:06:12 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 19 Aug 2005 23:06:12 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "cai" <cai@jdl.ac.cn>
+To: jiang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXQxrjP67TTysLI7bz+v6q3orXEx+W7qrHP0rXJ+qOozt6+rdHp0rK/yaOp?=
+Date: Sat, 20 Aug 2005 07:10:20 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我。。
+     本公司为软件开发为主的技术型公司，成员均为清华毕业。目前有比较多的软件开发项目。主要是用于j2ee和c++。现在想招聘部分人，由有经验的技术人员进行培养，并且在项目中实习和工作同时也作为公司的人才储备。
+     要求如下：
+     1、有计算机编程的基础。要对c或vb或dephi或java等任何一种语言有编程基础，并且做过一些大作业或项目。热爱软件开发，热爱编程。

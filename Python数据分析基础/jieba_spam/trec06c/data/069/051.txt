@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <xu@ccert.edu.cn>; Fri, 2 Sep 2005 04:07:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <xu@ccert.edu.cn>; Fri, 2 Sep 2005 04:20:28 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 20:09:03 -0000
+From: "cheng" <cheng@mail.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Cc: <lai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMnL0MTT+774o6y4w7fWytbByw==?=
+Date: Fri, 2 Sep 2005 04:20:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+   没有什么永远，长痛不如短痛
+     今天gg说他要请假回家（他爸爸病了）。我下班的时候，想念他了，就给他打电话，结果手机是关机的。
+     回到家，发现他没有穿任何一件平时的衣服，而是从箱子里翻出他以前的衣服穿走了。他这个人很懒，如果没有其他事，绝对不会到箱子里去拿衣服。
+     我想，他一定要见什么人。唉，其实这时我已经猜到7，8分是去见他ex gf了，否则他不会刻意不穿我给他买的衣服。我很犹豫到底要不要给他家打电话。

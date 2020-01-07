@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <cen@ccert.edu.cn>; Sat, 24 Sep 2005 13:31:03 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <cen@ccert.edu.cn>; Sat, 24 Sep 2005 13:42:24 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 05:19:24 -0000
+From: "jiang" <jiang@mail.tsinghua.edu.cn>
+To: cen@ccert.edu.cn
+Cc: <zhuang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sat, 24 Sep 2005 13:42:14 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+这个，必须要说
+爱因斯坦是正规的大学物理系毕业，毕业找不到工作才去的专利局吧
+     这篇文章怎么到处都是？这就是牛啊？
+     这个人是个比较聪明的人，但是能不能成气候还很难说。
+     爱因斯坦可是在专利局做的研究，相对论发表后好几年才某到一个类似讲师的职位，还是薪水比较低的。居里也是因为学历不高，在学校地位、收入都不高，好不容易搞到一个破仓库做研究。

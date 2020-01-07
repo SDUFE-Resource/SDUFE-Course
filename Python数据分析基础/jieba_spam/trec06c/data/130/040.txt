@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <li@ccert.edu.cn>; Wed, 14 Sep 2005 09:58:15 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <li@ccert.edu.cn>; Wed, 14 Sep 2005 10:10:10 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 01:52:27 -0000
+From: "wu" <wu@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Cc: <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfyzOzN7cnPuPrAz8bFs7O83A==?=
+Date: Wed, 14 Sep 2005 10:10:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+我看了前三行
+我认为你一定会被拍
+     郁闷坏了，因为垃圾问题。
+     老婆每次都不好好的把垃圾袋子好好罩住垃圾桶，袋子满了也不换袋子。我就说她，如果我不弄的话，她估计要把垃圾堆到天花板上去。就为了这个事情吵起来了。我很郁闷，因为这个事情我已经提醒了她无数遍了，我觉得她稍微注意一点就没问题了，很郁闷她不上心。
+     我老婆也很郁闷，认为我一个男的不应该这么细致，抓住细微的问题不放。可是我是读书的，搞科学研究的，仔细惯了，每次看到这种事情就气不打一处来。特别是一而再再而三的提醒的情况下，还犯错误，我就很生气。如果我的学生这样子的话，估计我就不让她毕业了。

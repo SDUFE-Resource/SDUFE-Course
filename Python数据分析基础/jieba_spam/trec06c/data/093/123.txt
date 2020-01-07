@@ -1,0 +1,36 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <zhong@ccert.edu.cn>; Tue, 6 Sep 2005 16:37:07 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <zhong@ccert.edu.cn>; Tue, 6 Sep 2005 16:49:24 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "you" <you@126.com>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvK/dGnXbnY09q4xcLKtcTBvbXA0KHM4n7Po83709DIy8TcsO/O0r3ivva19H4=?=
+Date: Tue, 6 Sep 2005 16:49:16 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+1.
+      先把飞机到达的所有概率列出来：
+        a.长机独自到达P1=0.8*0.2*0.2
+        b.长机与一架僚机到达P2=0.8*0.8*0.2
+        c.全部到达P3=0.8*0.8*0.8
+      然后，到达飞机的数量与炸毁的概率：
+        a.一架p1=0.3
+        b.二架p2=0.5*0.3+0.25*0.3*0.3
+        c.三架p3=(3/8)*0.3+(3/8)*0.3*0.3+(1/8)*0.3*0.3*0.3
+      炸毁概率 P=P1*p1+P2*p2=P3*p3
+        还没有看到概率部分，具体记不清后面算的飞机到达数目的炸毁概率算的对不对了，你可以自己看一下，整个过程倒是很麻烦：）
+2.同上列完就可以了. 两人都进1，2，3，0球的概率，然后全概，没有找到简便点的算法
+       我的数学不是很好,自己现在在复习关于概率的基础部分 现有两道小题不太会做~因为自己的答案和标准答案不一样~
+       1:设有一架长机两架僚机飞往某目的地进行轰炸,由于只有长机装有导航设备,因此僚机不能单独到达目的地,并在飞行途中要经过敌方高射炮防御地带,每机被击落的概率是0.2.到达目的地之后,各机独立轰炸,每机炸中目标的概率是0.3.求目标被炸中的概率~
+       2:设甲,乙两篮球运动员投篮命中率分别为0.7和0.6.每人投篮3次,求两人进球数相等时的概率~

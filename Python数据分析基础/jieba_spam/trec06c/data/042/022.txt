@@ -1,0 +1,33 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <yana@ccert.edu.cn>; Fri, 26 Aug 2005 05:06:44 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 05:25:04 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 05:25:04 +0800
+Date: Fri, 26 Aug 2005 05:25:04 +0800
+From: zhong@cernet.com
+Subject: =?gb2312?B?ofEgx+W7qrTz0ae52NPau7vB7LXatv60+sntt93WpLmk1/fNqNaqKHp6KQ==?=
+To: yana@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+标题: 关于换领第二代身份证工作通知 
+作者:保卫处
+发布日期：（2005.8.29）
+ 
+--------------------------------------------------------------------------------
+我校绝大部分在校生（不含新生）已实现第二代身份证采像。六月二日后（第二批）采像的在校生超过万人，为稳妥、便捷地发放本批次二代证，现将工作要点及要求通知如下：
+　　1、6月2日－7月1日采像的在校生，可以凭所持‘一代证’及采像凭证到所在院系，换领到第二代身份证。
+　　2、在6月1日之前采像的在校生，仍到户口办公室换领第二代身份证。
+　　3、我校集体户口的教职工、博士后到户口办公室办理换领第二代身份证手续。
+　　4、尚未完成第二代身份证采像的在校生（不含新生）、集体户口教职工和博士后，在工作日内，凭户口办公室的专用介绍信，到中关村派出所办理个人第二代身份证手续。
+　　5、2005级新生的换领第二代身份证事宜，待与中关村派出所商定后，另行通知。
+　　 学校保卫处户口办公室联系电话 62795815。
+　　　　　　　　　 保卫处集体户口办公室

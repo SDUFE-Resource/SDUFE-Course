@@ -1,0 +1,16 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j863eH8r023838
+	for <huang@ccert.edu.cn>; Wed, 7 Sep 2005 05:10:50 +0800 (CST)
+Received: (eyou send program); Wed, 7 Sep 2005 05:09:21 +0800
+Message-ID: <325977928.03325@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 7 Sep 2005 05:09:21 +0800
+Message-ID: <325977928.03308@mail.tsinghua.edu.cn>
+Received: from 166.111.8.254 by 166.111.8.18 with HTTP; Wed, 7 Sep 2005 05:09:21 +0800
+From: ling@mail.tsinghua.edu.cn
+To: huang@ccert.edu.cn
+Date: Wed, 7 Sep 2005 05:09:21 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg09DDu9PQyrm5/cWvxMzG97XEo6zT0M7KzOLH673M?=
+Content-Type: text/plain
+
+我们买了这么个东东，为得是用奶瓶喂奶的时候能省点事儿，免得热奶的时候温度掌握不对。按照我的理解，这东西应该是到了合适温度之后有个指示。可是我们买的那个不到温度灯就熄了，几分钟之后又亮起来，如是者数次，最后终于达到指定温度之后灯不再亮了。这让我很郁闷，因为这样的话，除非加热足够长的时间，不然我怎么知道到底到了合适温度没有呢？我以为是这个暖奶器有问题，但是厂家说就是这样的。别的牌子的也这样吗？还有，都要加热这么长时间吗？

@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <fan@ccert.edu.cn>; Fri, 2 Sep 2005 11:27:11 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 11:30:03 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 11:30:03 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 11:30:03 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 03:23:26 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 11:15:36 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 11:15:36 +0800
+From: ma@mails.tsinghua.edu.cn
+To: fan@ccert.edu.cn
+Cc: huang@ccert.edu.cn
+Date: Fri, 2 Sep 2005 11:15:36 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILG7vtzSu7j21MK687LFt6LP1tfUvLq63MO7t+e2yKOh?=
+Content-Type: text/plain
+
+不知者不罪
+不过你失去了一个成功把握很大的机会，病重的mm是最容易接受你的
+这个坑好。
+     和MM是同一公司的，不过平时极少机会碰面。一个月前被拒了，之后就删除了MM的短信和电话号码，虽极少机会见面我还是有点躲的想法。今天无意中看到MM的辞职申请书并被接受，原来MM拒了我不到三天就持续发高烧，请了一个星期病假后工作不到一周又病倒，医生鉴定体质虚弱建
+     不知为何心里总有一点内疚，虽说被拒了，但是在MM最需要人关心的时候一声问候都没有，感觉很没有风度。

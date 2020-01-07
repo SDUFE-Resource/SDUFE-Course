@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <zhang@ccert.edu.cn>; Wed, 28 Sep 2005 10:21:39 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Wed, 28 Sep 2005 10:24:37 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 02:24:37 UT
+To: zhang@ccert.edu.cn
+From: peng@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEguf22yLnY16LBy6OsttTN9bK7usOhow==?=
+
+两点：
+一，万一王经过这些天的反思，想改变主意，目前这种状况，会逼他骑虎难下，难以回头。
+毕竟，王最初的意思只是在自己的blog上写下了自己的想法，并不是用来公开的。而人在激愤之时的话未必事后不会后悔。万一他后悔了，现在的状况对他会有压力的。
+二，王做这个决定，我觉得未必是多么理想化的性格的体现，他本人也未必对制度有多么深刻的体察。他的决定可能仅仅是不习惯清华，也可能仅仅是一个冒失的决定。（尽管我不确定这个制度有无缺陷）。但现在的舆论却赋予了他太多的含义，提升到了太高的高度。这种理想化如果给了一个没有完全思想准备的人，可能也会是一种压力。

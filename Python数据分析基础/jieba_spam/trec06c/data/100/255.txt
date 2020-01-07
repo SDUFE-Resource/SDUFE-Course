@@ -1,0 +1,108 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86DlBho027727
+	for <lu@ccert.edu.cn>; Thu, 8 Sep 2005 07:02:21 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j86DixEj066825
+	for <lu@ccert.edu.cn>; Thu, 8 Sep 2005 07:00:26 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from smtp.blacksburg.ntc-com.net (dapp1.blacksburg.ntc-com.net
+	[204.111.169.34])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j86DitfF066821
+	for <lu@ccert.edu.cn>; Thu, 8 Sep 2005 07:00:06 +0800 (CST)
+	(envelope-from hswu02@vt.edu)
+Received: from hswu (n140s066.ntc.blacksburg.shentel.net [204.111.140.66])
+	by smtp.blacksburg.ntc-com.net (Postfix) with ESMTP id 1518E130877;
+	Wed, 7 Sep 2005 19:14:10 -0400 (EDT)
+From: "xing" <xing@vt.edu>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMDuzPrR482s0ae9/L/20tS8sMS8vujTw7/u1crEv8fltaVaWg==?=
+Date: Wed, 7 Sep 2005 19:14:08 -0400
+Message-ID: <000001c5b2eb$21c5ff90$6800a8c0@hswu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+Importance: Normal
+In-Reply-To: <200509061253.j86Crvrj066117@gradinfo.net.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+	j86DitfF066821
+Cc: 
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+个人项目经费查询系统                            
+2005 年 全年 项目经费明细表项目代码：021400001收支明细                          
+凭单号  报销日期        摘要    支出    收入
+7141    2005-8-31       05-05-31 7179#金额错调帐        0       -100
+7141    2005-8-31       章文功为李铁雁捐款      0       200
+6296    2005-8-30       李铁雁医疗费    188,147.67      0
+7631    2005-7-29       为李铁雁捐款    0       400
+5445    2005-7-15       为李铁雁捐款    0       300
+7207    2005-6-24       李铁雁住院费    72,000.00       0
+5354    2005-6-20       李铁雁捐款      0       1,050.00
+3410    2005-6-13       马兆丰等人捐款  0       1,865.90
+2027    2005-6-8        邢哲捐款        0       300
+7179    2005-5-31       刘则辉为李铁雁捐款      0       100
+7179    2005-5-31       章文功为李铁雁捐款      0       100
+5782    2005-5-27       李铁雁捐款      0       200
+5583    2005-5-26       李铁雁捐款      0       22,758.00
+5589    2005-5-26       李铁雁捐款      0       50,400.00
+3960    2005-5-23       为李铁雁捐款    0       100
+3492    2005-5-20       收（郑国勤)李铁雁捐款   0       300
+3664    2005-5-20       为李铁雁捐款    0       1,000.00
+3058    2005-5-18       肖康等12人李铁雁捐款    0       1,550.00
+1435    2005-5-13       收李铁雁捐款    0       550
+1180    2005-5-12       为李铁雁捐款    0       138,019.18
+622     2005-5-10       收李铁雁捐款    0       5,920.00
+13      2005-5-9        李铁雁捐款      0       30,688.84
+81      2005-5-9        李铁雁捐款      0       15,718.50
+82      2005-5-9        李铁雁捐款      0       2,000.00
+7978    2005-4-29       李铁雁捐款      0       24,080.00
+7980    2005-4-29       为李铁雁捐款    0       31,596.47
+8209    2005-4-29       收为李铁雁捐款  0       60,059.12
+8240    2005-4-29       杨超等六人捐款  0       900
+8031    2005-4-29       李铁雁捐款      0       2,338.51
+8730    2005-4-29       王向阳等21人向李铁雁捐款        0       3,370.00
+8731    2005-4-29       为李铁雁捐款    0       5,000.00
+7245    2005-4-27       收李铁雁捐款    0       38,860.90
+7285    2005-4-27       收李铁雁捐款（美金30元）        0       246.43
+7611    2005-4-27       捐款    0       36,865.96
+6636    2005-4-25       孙家广等24人捐款        0       6,200.00
+合计                    260,147.67      482,937.81
+借/还款明细                             
+凭单号  报销日期        摘要    借款    还款
+708     2005-9-5        预付铁雁住院费  50,000.00       0
+6296    2005-8-30       李铁雁医疗费    0       200,000.00
+6296    2005-8-30       李铁雁医疗费    0       70,000.00
+6296    2005-8-30       李铁雁医疗费    0       20,000.00
+5590    2005-8-29       李铁雁住院费    50,000.00       0
+5541    2005-7-15       李铁雁手术押金  200,000.00      0
+2859    2005-7-11       李铁雁住院费    70,000.00       0
+813     2005-7-4        李铁雁住院借款  30,000.00       0
+7207    2005-6-24       李铁雁住院费    0       22,000.00
+7207    2005-6-24       李铁雁住院费    0       50,000.00
+5939    2005-5-27       预付李铁雁住院费        50,000.00       0
+2055    2005-5-16       李铁雁医疗费    22,000.00       0
+合计                    472,000.00      362,000.00
+                                
+2005 年 全年 项目经费结算表                             
+                                
+全年初余额      全年累计收入    全年累计支出    全年累计借款    全年累计还款
+0       482,937.81      260,147.67      472,000.00      362,000.00
+数据维护：清华大学财务处 电话：62782415。                               
+        往这里转贴时，被系统告知这个版面不能转有附件的帖子，因此将把帐目转贴到版面，如果效果不好，请大家到SS_SAST(软件学院）版面看附件。
+     …………………………………………………………………………………………………………
+     发信人: pengling (Paediatrician), 信区: SS_SAST

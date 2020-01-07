@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <he@ccert.edu.cn>; Fri, 2 Sep 2005 07:57:25 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Fri, 2 Sep 2005 08:28:54 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Fri, 2 Sep 2005 08:09:59 +0800
+From: "yang" <yang@mail.nisac.gov.cn>
+Reply-To: yang@mail.nisac.gov.cn
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILu2063RodDe0dC+v8n6v86zzKG2vK+zycz6tefRp6G3o6i/zrrFo7o4MTAyMDA5MqOp?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+不欢迎机械系 的
+那么算了
+     欢迎选修研究生课程《集成铁电学》（课号：81020092）
+     课程简介：
+         铁电材料是一类具有多种优异性能的新型电子材料，将其与微电子技术相结合，可实现多种具有重要应用价值的新型微电子器件，相关研究如铁电存储器、铁电MEMS器件等已成为当今国际学术研究热点。《集成铁电学》课程的主要内容就是铁电材料与微电子技术相集成中的关键基

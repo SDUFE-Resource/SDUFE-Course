@@ -1,0 +1,49 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <zhang@ccert.edu.cn>; Tue, 27 Sep 2005 23:24:28 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Tue, 27 Sep 2005 15:35:22 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Tue, 27 Sep 2005 15:35:22 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <zhang@ccert.edu.cn>; Tue, 27 Sep 2005 08:46:29 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <zhang@ccert.edu.cn>; Tue, 27 Sep 2005 10:42:55 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 23:35:10 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <che@motorola.com>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Date: Tue, 27 Sep 2005 23:34:45 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+回最后一个问题,区别还是蛮大的  一个人vs一群人.
+     标  题: Re: 写给王同学和众位网友的一封信
+     
+         你是想说王垠是井底之蛙对吧？所以不应该狂对吧？
+     
+         我想谁站的比谁高这个问题最好还是让后来人来评价。也许当代的人都认为某个人是井底之蛙，他狂，就不应该了？他做他认为正确的事，只要没伤害到其他人，难道就不对了？
+     
+         这点可能王垠在退学申请的言语上有些过火了，可能伤害了导师等人的名誉，我不清楚事实是什么样的，但我记得有人说他老板等人“平时”都是笑咪咪的，然而王垠又说老板们和他吼，我想，危难见真情之类的道理大家肯定都明白，在特殊情况下，才能发现某些人的本质，平时笑咪咪，关键时刻插你一刀的人多了。
+     
+         我再次申明，我不是诋毁他们老板，我只是试图提醒大家考虑可能欠缺的一方面。我当然听说在王垠要求退学后，他老板还帮他联系转硕的事情，这个行为我是超赞的，能这样做的老板真的不错的。
+     
+         难道就是因为我们看不惯某人的一种“个人”行为，即便他没什么危害，我们也要竭力去磨灭它？一定让这个人变成我们认为是“合适”的样子，是这样的吗？这样做和王垠所做的有什么区别吗？
+     
+     
+     : 有人狂是因为他站的比别人高，有人是因为是井底之蛙。
+     
+     
+     
+     --
+     

@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j826MNsm028905
+	for <jiang@ccert.edu.cn>; Sun, 4 Sep 2005 08:14:27 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j826YvNG017832
+	for <jiang@ccert.edu.cn>; Sun, 4 Sep 2005 08:26:57 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 4 Sep 2005 00:15:08 -0000
+Message-ID: <00b101c5af87$e9547800$787d6fa6@hotline>
+From: "su" <su@mail.tsinghua.edu.cn>
+To: jiang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQyrLDtLrDtcS9qNLpsKGjv6Oh?=
+Date: Sun, 4 Sep 2005 08:23:11 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00AE_01C5AFCA.F7623430"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+全身就胖小肚子才奇怪嘛，不然以现在的体形再胖20斤都没问题。
+他工作太忙了，没时间运动，本来是我做饭他洗完打扫卫生洗衣服的，现在看他累成那样，家务活都我来看他的时候干了。我平时上课周一到周五只能来一次，就做好他基本能吃上2天的东西，让他自己一个人的时候放微波炉里面热着就可以吃。
+现在都还在外面编程序呢。
+唉。。。
+     脑工
+     看着怪怪的
+     是就长小肚子呢还是全身都肥了一圈？

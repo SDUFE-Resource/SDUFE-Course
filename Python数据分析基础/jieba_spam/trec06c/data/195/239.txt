@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <bi@ccert.edu.cn>; Wed, 28 Sep 2005 03:41:29 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 19:27:45 -0000
+Date: Wed, 28 Sep 2005 03:53:29 +0800
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: bi@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+老大好jingye啊。累了吧，喝口水先
+     "任何一个中文水平正常的人都能读出他对导师和副导师的攻击。"
+     王垠作为一个博士生，所感受到的一切无非来至于他的导师和副导师，而他的导师的作为也无非受到制度的影响，所以王垠将怨气煞向他的导师也是可以理解的，难不成，他还必须去找教育部长啊？呵呵
+     "王攻击了什么制度呢？通篇看下来，无非就是毕业需要发文章的制度吧？这样的制度不是完美的，但是起码是现在最好的。"

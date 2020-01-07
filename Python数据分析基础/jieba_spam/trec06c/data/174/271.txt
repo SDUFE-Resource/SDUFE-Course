@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <lv@ccert.edu.cn>; Fri, 23 Sep 2005 22:29:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <lv@ccert.edu.cn>; Fri, 23 Sep 2005 22:40:54 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 14:17:54 -0000
+From: "lei" <lei@mail.tsinghua.edu.cn>
+To: lv@ccert.edu.cn
+Cc: <mei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL/gxNWwoaGtoa0g1PXDtLLFxNy4+m1ttcS4uMS4vbvB9w==?=
+Date: Fri, 23 Sep 2005 22:40:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+mm跟我说
+他们觉得我没什么魄力 不像能干大事的人
+于是就想以事业的成功去说服他们
+说句实话 我确实也觉得自己这方面有缺陷
+很多时候不是没想法而是不知道怎么去做
+也许是没有经验 为人处事的能力真的挺欠缺的……
+     你确信mm的父母是因为你没有事业才不同意的？
+     我bf也没能过我爸妈那关，但没遭到反对，因为老爸老妈相信我的选择:)
+     学生，不过是暂时的身份，作为父母，看重的肯定不是这个

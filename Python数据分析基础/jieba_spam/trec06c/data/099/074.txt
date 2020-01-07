@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j876CnL9000865
+	for <ke@ccert.edu.cn>; Wed, 7 Sep 2005 22:43:22 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j876A5E8070573
+	for <ke@ccert.edu.cn>; Wed, 7 Sep 2005 22:41:21 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j876A3Mm070556
+	for <ke@ccert.edu.cn>; Wed, 7 Sep 2005 22:40:36 +0800 (CST)
+	(envelope-from dais00@mails.tsinghua.edu.cn)
+Message-Id: <200509070610.j876A3Mm070556@gradinfo.net.edu.cn>
+Received: from unknown (HELO new) (dais00@221.221.31.105)
+	by localhost with SMTP; Wed, 7 Sep 2005 14:29:41 -0000
+From: "guo" <guo@mails.tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3i0+/Ptc6qyrLDtMTHw7SwybLEwc+6zb+8ytS30dPDvNy1xMTHw7S43w==?=
+Date: Wed, 7 Sep 2005 22:54:45 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWv0E/9DqOJiKH/TE65FHy62kAsmwDoy0PQ
+In-Reply-To: <325673768.25177@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+	j876A3Mm070556
+Cc: 
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+re
+        刚才看到外语系又要卖水平一的材料了，就想到又有不少贫困生要勒紧裤腰带了。而且他们估计也不能说什么，怕别人笑话他在乎这点钱。还好我不是，就不会不好意思，SO随便说说
+        上学期我看见INFO上的校长信箱挺好奇，就写了封信说了一下外语系水平一考试费用的问题。不过几天后还真又人回电话了，是学校的一个工作人员，无非是说了些他们是为了让同学更加认真的对待考试等等，我觉得说下去没有多大意义，就恩啊的挂了。
+        其实想想，对于那些想提高水平一成绩的贫困生来说，200大概是一个月的伙食费吧，而且这对于那些不好好学习的家庭比较富裕的同学来说也起不到什么作用。而且连卖的水平一的资料都那么贵，真的是为了让同学好好学习吗？？不知道他们怎么想的

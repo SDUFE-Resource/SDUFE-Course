@@ -1,0 +1,34 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <yi@ccert.edu.cn>; Tue, 16 Aug 2005 10:45:17 +0800 (CST)
+Received: (qmail 5448 invoked from network); Tue, 16 Aug 2005 02:56:04 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Tue, 16 Aug 2005 02:56:04 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "lei" <lei@jdl.ac.cn>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1ffI3dLXsbvGrbXEwLS/tKOsv7TBy9LUuvO74cnZsbvGrQ==?=
+Date: Tue, 16 Aug 2005 11:00:03 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+看见前面那个QQ被骗的
+感觉有必要把我知道的一些说说
+也好让大家以后少受骗
+首先第一条：也是最重要的一条：
+无论如何，别告诉任何人你的密码
+包括：QQ，MSN，邮箱，信用卡，电话卡，手机服务，……一切密码都不要告诉给别人
+如果是公司的正常需要，也只是需要你的卡号而已
+不会要你的密码的
+如果你是班级校友录的管理员，最好去把校友的留言设置为  仅班级成员可见
+别人骗你这些干吗用？
+我简单说一些，还有更多的骗法
+QQ，MSN，邮箱，校友录……这些可以知道你朋友的联系资料，甚至是你朋友的个人信息
+他们获得这些信息以后，就可以利用这些去骗你朋友
+信用卡的密码骗去干吗就不用说了

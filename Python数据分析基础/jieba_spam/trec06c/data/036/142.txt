@@ -1,0 +1,36 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <fu@ccert.edu.cn>; Thu, 25 Aug 2005 03:45:31 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 04:03:54 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 04:03:54 +0800
+Date: Thu, 25 Aug 2005 04:03:54 +0800
+From: guo@cernet.com
+Subject: =?gb2312?B?UmU6IFvK/dGnXSDOyrj2zOLEvw==?=
+To: fu@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+好久不做了
+大概是这样考虑把，你再去整理
+设在x0处f(x)取最大值
+先考虑x0在（a，b）开区间内（在端点处类似）。
+任取任意小正数w
+由于f(x）连续，所以能找到一个e，使f(x)在[x0-e,x0+e]上的最小值m&gt;=M-w
+于是有
+S(a,b)[f(x)]^ndx&gt;=S(x0-e,x0+e)[f(x)]^ndx
+于是S(x0-e,x0+e)[f(x)]^ndx&gt;=m^n*2e
+从而{S(a，b)[f(x)]^ndx}^1/n&gt;=m*2e^1/n
+从而lim&gt;=m&gt;=M-w
+     设f(x)在[a,b]上连续，且f(x)&gt;=0,M=maxf(x),证明
+     lim{ S(a,b)[f(x)]^n dx}^(1/n)} =M  (n-&gt;无穷)
+     其中 S(a,b)[f(x)]^n dx表示对[f(x)]^n从a到b积分. 

@@ -1,0 +1,22 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <li@ccert.edu.cn>; Thu, 15 Sep 2005 17:02:45 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <li@ccert.edu.cn>; Thu, 15 Sep 2005 17:33:53 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Thu, 15 Sep 2005 17:14:00 +0800
+From: "shi" <shi@mail.nisac.gov.cn>
+To: li@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INeqzPmjusWuuqKjrLK70qrH4dDFtcTI/dH5tqvO9w==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+那女人活着干吗?
+     对女孩来说， 
+     世界上有三样东西不能轻易相信：男人的承诺、男人的感情、男人的理由。 
+     如果他给过你天长地久的承诺，是因为他自己对你们之间的那份感情都没把握；如果他说你是他一生最深的（唯一的）爱，这表示他一定对别的女人说过同样的话；如果他失约，给了你若干的理由，千万不要信以为真，男人是编造理由方面的高手，他的种种理由归根结底只有两个字：

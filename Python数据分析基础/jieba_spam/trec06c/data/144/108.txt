@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FBhgV9003152
+	for <zhan@ccert.edu.cn>; Sat, 17 Sep 2005 03:46:36 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FBtVIH029758
+	for <zhan@ccert.edu.cn>; Sat, 17 Sep 2005 03:58:25 +0800 (CST)
+Message-Id: <200509151155.j8FBtVIH029758@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 19:39:38 -0000
+From: "hou" <hou@mail.tsinghua.edu.cn>
+To: zhan@ccert.edu.cn
+Cc: <wua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILGxvqm439CjytXI68jnus6jvw==?=
+Date: Sat, 17 Sep 2005 03:58:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BA2F.69B84380"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW57Ftgyg2sMjsQQOq8TagbU/Od5Q==
+
+   我是理科博后，在据说一个很nb的学院路高校，每个月总共3k，
+寒暑假每个月1.5k，因为假期没有岗位津贴。没有周转房。
+注意：理科要上大量的基础课，很少有时间座科研。但是没有课时费。
+时间一长，科研能力就废了。
+而工科有大量的科研经费，职称评比要看经费的。所以理科很吃亏。
+北京地区，理科，要么去清华北大中科院某所，要么去高中把，其他学校的理科
+及其糟糕，就是上基础课的。我很后悔，但是5年合同，4万的违约金，
+可能5年后我就沦落为个教书匠。
+     理科专业毕业，没有什么很好的研究经历，没有什么好文章
+     如果去高校任教，好大学基本上没什么竞争力，二类大学也许还好，但也没把握，但听说高校收入不高。
+     想过去高中当老师，但是读了这么多年最后去到中学心有不甘，而且与自己专业相关不大。
+     不知道博士毕业都能去什么单位呢？郁闷。
+     毕业的博士生都去了什么单位呢？介绍一下经验吧。

@@ -1,0 +1,36 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <shi@ccert.edu.cn>; Tue, 20 Sep 2005 15:10:18 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 07:21:19 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 07:21:19 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <shi@ccert.edu.cn>; Tue, 20 Sep 2005 00:32:16 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <shi@ccert.edu.cn>; Tue, 20 Sep 2005 02:29:42 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Tue, 20 Sep 2005 15:21:06 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <bai@motorola.com>
+To: shi@ccert.edu.cn
+Cc: mo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXS0ru33bCuyN3S16OsytjSu7fdsK6/v9TLxvg=?=
+Date: Tue, 20 Sep 2005 15:20:40 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+其实守一份爱不光是要看运气，还要看技巧的
+没有两个人生来就是合适的，需要磨合
+这个磨合就是技巧，只不过很难掌握而已
+     找一份爱容易，只要你的标准不太高就行。 有些人自己很猥琐，但是标准巨高，那就不易了
+     守一份爱靠运气，如果你真的很适合对方，你就算普普通通的对方也又可能一直爱你；或者因为对方的性格里就有专一、平和的成分，不会受外界的干扰。  反之，有可能  。即使你再懂得爱护，再努力，再懂得讲道理，  也是白搭
+     刚听说love版某小牛失恋有感

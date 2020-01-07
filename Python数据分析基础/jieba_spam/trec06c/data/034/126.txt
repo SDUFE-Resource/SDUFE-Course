@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <long@ccert.edu.cn>; Wed, 24 Aug 2005 16:48:48 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Wed, 24 Aug 2005 17:07:11 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 17:07:11 +0800
+Date: Wed, 24 Aug 2005 17:07:11 +0800
+From: xin@cernet.com
+Subject: =?gb2312?B?UmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0=?=
+To: long@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+看过作者的文章觉得写得很片面，好像是在给华为作宣传。我在深圳待过两年，其中
+一年贡献给了华为，没进过中兴。
+这两家公司的口碑其实差不多，也许华为的待遇要高些，但从我了解到得，中兴绝对要人性化得多。
+相信大家都不愿意拿上班当军训，在华为基本就是这样。我出差时，平均每天要工作15个小时，因为是出差所以不算加班。不过同事之间关系并不冷漠，后来，我离开华为，换了一家外企，我一直很疑惑，为什么工作量少多了，反而待遇更高了呢？好像占了公司便宜似得，后来有人告诉我，其实从华为出来得人都有这个错觉，因为在华为里面被压榨得太厉害了。
+     华为、中兴对比
+     华为、中兴对比
+     分别在这两家公司干过几年，以自己的亲身亲历对比一下这两家企业：

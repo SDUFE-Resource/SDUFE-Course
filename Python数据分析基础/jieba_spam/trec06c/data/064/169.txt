@@ -1,0 +1,33 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <zhou@ccert.edu.cn>; Thu, 1 Sep 2005 11:39:01 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 11:41:53 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 11:41:53 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 11:41:53 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 03:35:16 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 11:27:26 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 11:27:26 +0800
+From: xin@mails.tsinghua.edu.cn
+To: zhou@ccert.edu.cn
+Cc: zhu@ccert.edu.cn
+Date: Thu, 1 Sep 2005 11:27:26 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INK7sOPK1s2309C24MnZx67By7LFveG76bCh?=
+Content-Type: text/plain
+
+偶是本科毕业，不过偶读书早，去年毕业的时候是20岁半。
+然后工作了一年，月薪一开始是4k，试用期过了就是6k。一年之后，存了将近2w。
+我家sg还觉得偶挥霍，租很贵的房子，买很贵的衣服。
+不过偶没给过家里钱，只给爸妈买过补品啥的。
+我觉得要结婚的时候，应该买了房子才对啊。
+     patpat
+     研究生毕业算25岁，税前8k税后才6k，刚毕业不一定有这么多吧，俩人都这么多更不容易
+     房租生活费俩人5k，再多少给家里点钱。。。

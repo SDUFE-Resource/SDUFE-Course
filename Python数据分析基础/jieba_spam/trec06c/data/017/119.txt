@@ -1,0 +1,22 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <rao@ccert.edu.cn>; Sat, 20 Aug 2005 14:37:04 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 06:47:18 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 06:47:18 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "cao" <cao@jdl.ac.cn>
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG2zKvQ0Mm9yc+ht82musOjoS0tudjT2s3L19O1r8a0tMy1tg==?=
+Date: Sat, 20 Aug 2005 14:51:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+好文啊
+      二战里面，日军在白刃战前先把子弹退掉然后拼刺刀，是一个怪异而引人注目的战术。这确实是其步兵操典的规定，这一规定因为看起来迂腐而令人困惑，然而它决不是“死要面子活受罪”，也不全是捍卫武士道的尊严，而是日本军队根据实战检验做出的结论，这和日军的兵器，作

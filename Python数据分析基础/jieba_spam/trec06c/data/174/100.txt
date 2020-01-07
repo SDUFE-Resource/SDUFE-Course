@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <shen@ccert.edu.cn>; Fri, 23 Sep 2005 19:40:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <shen@ccert.edu.cn>; Fri, 23 Sep 2005 19:52:19 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 11:29:19 -0000
+From: "liao" <liao@mail.tsinghua.edu.cn>
+To: shen@ccert.edu.cn
+Cc: <yuan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgobbH77y+0MTE1NGqudy8srKhtcTPyNXXoaLUpLfAus3Nu7ei19S+yKG3w+K30b2y1/ko0KPE
+2qOp?=
+Date: Fri, 23 Sep 2005 19:52:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+通     知
+为提高教师的健康状况，加强自我保养和疾病预防，中国栋梁工程陆续推出各方面健康专题讲座。《人生健康规划和保护》系列讲座之《秋季心脑血管疾病的先兆、预防和突发自救》免费讲座，将在本月28日举行。欢迎各位退休和骨干教师参加。
+内容：
+一、    秋季心脑血管疾病高发不易察觉的先兆；
+二、    心脑血管疾病高发不为人知的原因；
+三、    气候对心脑血管疾病的影响；
+四、    中青年心脑血管疾病高发原因；
+五、    心血管疾病突发自救；
+六、    秋季感冒的注意事项。
+主讲人简介：
+赵天卫---原北京市海淀妇幼保健院院长、主任医师；中国保健协会专家讲师团成员；中国人体健康促进委员会会员；中国亚健康学会会员。
+时间：2005年 9月28日（周三上午）9：00―11：00
+地点：清华大学东门液晶大楼110室
+咨询预约电话：62790636    胡老师    
+本次讲座设有专题解答活动。凡有疑难问题，请提前通过咨询电话登记记录，主讲人将在答疑时间统一解答。

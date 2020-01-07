@@ -1,0 +1,24 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9PC3p028193
+	for <ren@ccert.edu.cn>; Thu, 29 Sep 2005 13:24:26 +0800 (CST)
+Received: from nearxlz (th077173.ip.tsinghua.edu.cn [59.66.77.173])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8S9aPo04715;
+	Thu, 29 Sep 2005 13:35:39 +0800 (CST)
+Message-Id: <200509280936.j8S9aPo04715@netarchlab.tsinghua.edu.cn>
+Date: Thu, 29 Sep 2005 13:36:50 +0800
+From: "wu"<wu@netarchlab.tsinghua.edu.cn>
+Reply-To: wu@netarchlab.tsinghua.edu.cn
+To: ren@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IGJsb2fL48rHy73Iy7/VvOSwyQ==?=
+X-mailer: Foxmail 5.0 beta1 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+事实上，博客没有这么高深的意义
+最初被发现是俩实业在家的夫妻，妻子写写追忆似水年华的文章，就有人来访问，和后来发展成博客这个产品
+从诞生之日开始，它就不是什么私人地盘，当然是私人言论没错，因为那是他个人发表看法的地方，但是绝对不是说ｂｌｏｇ就是私人的，他最初就是公开的
+     我以为，blog文化在西方的兴起是代表着反精英主义的，起的作用主要是解构话语
+     权力，实现自我表达。blog是这个时代用来抵抗主流精英话语的草根基石。从这个
+     意义上说，blog纯粹属于私人言论，大家把它当成公开信讨论，犯了一个实质性的

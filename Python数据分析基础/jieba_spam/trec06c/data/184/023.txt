@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <che@ccert.edu.cn>; Sun, 25 Sep 2005 16:01:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <che@ccert.edu.cn>; Sun, 25 Sep 2005 16:12:54 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 07:49:51 -0000
+From: "yun" <yun@mail.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <yang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgu7bTrbLOvNPIy87E0afUuqGw1qO6zc/CzvfR88qxxtq1xMrAvefMrMrGobG9stf5ICjXqtTY
+KQ==?=
+Date: Sun, 25 Sep 2005 16:12:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+【 以下文字转载自 NewExpress 讨论区 】
+发信人: yeefei (飞吧), 信区: NewExpress
+标  题: 欢迎参加人文学院“郑和下西洋时期的世界态势”讲座
+人文学院纪念清华国学研究院八十周年
+王国维学术讲座
+               主题： 郑和下西洋时期的世界态势         
+报告人：  香港城市大学校长      张信刚教授
+    时间：2005年9月28日下午3：20―5：00
+    地点：五教101
+欢迎参加

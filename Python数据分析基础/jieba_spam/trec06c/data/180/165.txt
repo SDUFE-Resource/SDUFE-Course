@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <ling@ccert.edu.cn>; Sat, 24 Sep 2005 22:30:42 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <ling@ccert.edu.cn>; Sat, 24 Sep 2005 22:42:03 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 14:19:03 -0000
+From: "lv" <lv@mail.tsinghua.edu.cn>
+To: ling@ccert.edu.cn
+Cc: <kang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sat, 24 Sep 2005 22:41:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+感觉他以前的激情和我好像阿，也是小时候喜欢研究蚂蚁和物理（我上学前从垃圾堆里拣别人扔掉的自然书看），大一大二的时候也是喜欢编程，选了好几门课，每门课的大作业我都编些小游戏，还进行版本升级发到老师邮箱里，也是只从纯粹兴趣出发学二外日语。只不过……激情渐渐转到游戏和漫画上了-_-b，离他这样的牛人越来越远了呵呵.
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)
+     发信站: 水木社区 (Fri Sep 23 12:00:32 2005)

@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C2BpmJ006744
+	for <weng@ccert.edu.cn>; Mon, 12 Sep 2005 20:43:29 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28l5c009623
+	for <weng@ccert.edu.cn>; Mon, 12 Sep 2005 20:40:47 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C28iWw009619
+	for <weng@ccert.edu.cn>; Mon, 12 Sep 2005 20:40:22 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EEefy-0005d0-00
+	for toefl@gradinfo.net.edu.cn; Mon, 12 Sep 2005 21:39:48 +0800
+Message-ID: <016301c5b740$c2f51a00$2fcb6fa6@wanglanjia>
+From: "hu" <hu@ns.6test.edu.cn>
+To: weng@ccert.edu.cn
+Date: Mon, 12 Sep 2005 20:53:10 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Subject: =?gb2312?B?UmU6IKGwus3FqbTlR0fMuMG1sK61xLGvsKehsS0tu9i4tLXEu9i4tA==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1871831781=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+还是跟人的成长经历有关，她说她的悲哀，你说你的幸福。大部分人不是受不了穷，而是受不了几年甚至几十年都得那么穷，让人看不到希望，其实只要两个人都有着一颗上进的心就不会这样的，不能理解那就算了，清华的GG都是潜力股，两三年是没钱，五年十年肯定能出人头地（除非他自杀），怎么说也是全国万里挑一的。受不了的话就下马吧，我觉得也挺悲哀的，你那个农村GG脑子也有问题，以为娶个老婆跟买个牲口一样吧，既然没办法一个人挣钱让老婆享受，那就两个人都工作，家务两个人一起分担。

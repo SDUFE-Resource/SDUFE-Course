@@ -1,0 +1,46 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <tu@ccert.edu.cn>; Mon, 19 Sep 2005 11:16:17 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Mon, 19 Sep 2005 03:27:18 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Mon, 19 Sep 2005 03:27:18 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <tu@ccert.edu.cn>; Sun, 18 Sep 2005 20:38:15 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <tu@ccert.edu.cn>; Sun, 18 Sep 2005 22:35:41 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 11:27:05 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <guo@motorola.com>
+To: tu@ccert.edu.cn
+Cc: lei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgwvTW3L3c0MXPosLbu/m0odauvcyyxCAo16rU2Ck=?=
+Date: Mon, 19 Sep 2005 11:26:39 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+【 以下文字转载自 DA 讨论区 】
+发信人: sthwrong1 (东东), 信区: DA
+标  题: 卖周杰信息论基础之教材
+发信人: sthwrong1 (东东), 信区: SecondBook
+标  题: 卖周杰信息论基础之教材
+上课的指定教材和参考书
+应用信息论基础    朱雪龙 编著    清华大学出版社
+原价26
+信息理论基础    常同 著    清华大学出版社
+原价20
+现两本20块
+刚从梅林买的
+可是课又没选上
+所以卖掉
+13466695711
+陈

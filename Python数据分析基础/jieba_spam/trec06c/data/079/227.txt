@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <mei@ccert.edu.cn>; Sat, 3 Sep 2005 13:14:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <mei@ccert.edu.cn>; Sat, 3 Sep 2005 13:26:44 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 05:15:19 -0000
+From: "long" <long@mail.tsinghua.edu.cn>
+To: mei@ccert.edu.cn
+Cc: <lian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMG1sK7W0LXEt9HTw7fWzK/OyszioaqhqtX3x/O087zS0uK8+w==?=
+Date: Sat, 3 Sep 2005 13:26:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+hehe,想起原来看的一本书上说：男人愿不愿意花钱是态度问题，花多花少是经济问题。花钱不能看数量，要看百分比。如果他愿意为你花钱，他不一定是爱你；如果不愿意为你花钱，那一定是不爱你。
+     两人都是刚开始工作，现在两地分离，相聚一趟的花销大抵450左右
+     由于女生现在在高校做助教，假期比较多，可以一个月过去一次
+     男生在外企很忙，基本除了法定假期没有多余的假期

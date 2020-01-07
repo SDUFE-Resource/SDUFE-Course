@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9qIIm028353
+	for <xu@ccert.edu.cn>; Fri, 30 Sep 2005 21:07:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SA3UnO014607
+	for <xu@ccert.edu.cn>; Fri, 30 Sep 2005 21:18:20 +0800 (CST)
+Received: (eyou send program); Fri, 30 Sep 2005 20:52:45 +0800
+Message-ID: <327900275.22130@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Fri, 30 Sep 2005 20:52:45 +0800
+From: li@mail.tsinghua.edu.cn
+To: xu@ccert.edu.cn
+Date: Fri, 30 Sep 2005 20:52:45 +0800
+Reply-To: li@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILnY09rW0NK9?=
+Content-Type: text/plain
+
+我觉得跟植根的哲学体系有关，阴阳五行八卦什么的
+本来就挺模糊，中医早年的做法，比如家传和收徒的做法，也不太利于它形成客观的、标准化的体系，所以中医发展来发展去，总还是按照个人的智慧和领悟力来控制
+不如西医那么直接、坦率，显得模糊和神秘
+     我不能说都是骗子，但是的确觉得不太可信。
+     主要是骗子太多了，而且就是因为它本身不成体系，也没有研究数据，患者真的没法去判断。
+     造成这个结果还是中医自己有点清高吧，其实很不利于这么学科的发展的。

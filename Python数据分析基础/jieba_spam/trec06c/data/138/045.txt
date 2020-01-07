@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBMZaM026296
+	for <feng@ccert.edu.cn>; Fri, 16 Sep 2005 00:26:42 +0800 (CST)
+Received: (eyou send program); Fri, 16 Sep 2005 00:20:24 +0800
+Message-ID: <326696577.15347@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 16 Sep 2005 00:20:24 +0800
+Message-ID: <326696577.15331@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Fri, 16 Sep 2005 00:20:24 +0800
+From: lu@mail.tsinghua.edu.cn
+To: feng@ccert.edu.cn
+Date: Fri, 16 Sep 2005 00:20:24 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgudjT2tTdzaPK1cih1tjQ3rfRtcTNqNaq?=
+Content-Type: text/plain
+
+根据国家相关部门精神，经清华大学校内收费及标准核定小组2005年度第一次会议决定，自2005-2006学年度秋季学期开始，暂停收取重修费。
+相关说明如下：
+1．自2005年9月10日起暂停收取重修费。停收重修费后，学生应根据教务管理中有关重修、选课的规定，对不及格课程进行重修。重修课程成绩的记载方式，仍按照《学生手册》和《研究生手册》中的相关规定执行。
+2．自2005-2006学年度秋季学期开始，同时暂停向开课院系发放重修课程的教学经费。
+特此通知
+清华大学注册中心
+2005.9.14

@@ -1,0 +1,55 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <zhan@ccert.edu.cn>; Sun, 18 Sep 2005 03:45:49 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <zhan@ccert.edu.cn>; Sun, 18 Sep 2005 04:02:24 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <zhan@ccert.edu.cn>
+	; Sun, 18 Sep 2005 04:02:24 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <zhan@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 03:27:25 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "cao" <cao@njnu.edu.cn>
+To: zhan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgWzkuMTnN7V0i0vjQ0Neoz+6y+sa3venJ3Lywt+fP1bfWzvYivbLX+Q==?=
+Date: Sun, 18 Sep 2005 03:57:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+【 以下文字转载自 THASFA 讨论区 】
+发信人: smartlau (S.M.A.R.T), 信区: THASFA
+标  题: [9.19晚]"银行专项产品介绍及风险分析"讲座
+发信站: BBS 水木清华站 (Sun Sep 18 01:00:36 2005), 转信
+             理财协会      精彩继续
+    电子银行方便快捷安全可靠
+                      贷记卡培养信用科学理财
+    也许你会说
+        什么是电子银行？什么是贷记卡？我都不了解啊
+    或者你会说
+        这些产品我都知道，而且还用着呢！
+如果你不了解，那么来听讲座吧，这里有基本的普及知识
+如果你了解了，那么来听讲座吧，这里有进阶的风险分析
+      "银行产品月"系列活动之
+                            银行专项产品讲座
+          2005年9月19日（周一）晚上19:00
+              伟伦楼北408   不见不散    
+   到场即可获得小礼品一份，讲座最后更有大奖抽取！
+   主讲人简介：
+   贷记卡部分
+   曾鹏，建行北京分行培训师，5年建行银行卡工作经验
+   电话银行和网上银行部分
+   杨东，建行北京分行电子银行部部门经理
+   手机银行部分
+   邓云，北京联龙博通电子商务技术有限公司CEO，毕
+   业于香港浸会大学，在大中华区域的IT领域有多于16
+   年的销售与市场经验

@@ -1,0 +1,25 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U2R6AL010810
+	for <yana@ccert.edu.cn>; Sat, 1 Oct 2005 22:03:15 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8U2U2g26094;
+	Sat, 1 Oct 2005 22:06:11 +0800
+Message-Id: <200509300230.j8U2U2g26094@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Sat, 1 Oct 2005 14:06:11 UT
+To: yana@ccert.edu.cn
+From: guan@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3G0dDLxLSmxfax2qOstPO80rj4ztKz9rP21vfS5bDJo6y40Lyksru+oQ==?=
+
+那我刚好和你是一届，反正我工作后从来填简历、学历啥的都是硕士
+谁吃饱了撑的前面还加一个工学，工程，也许到大学里当老师要讲究这个
+我拿intel的offer都不看学位证书，规定报道以后才会看
+单位需要的是真才实学，清华的硕士够响的了，工程工学基本没人关心
+从毕业后到现在都没有用过学位证书
+     这样只是没有略势罢了，双方平等地位
+     看学位证就是工学占优势
+     所谓外推到计算机系的工程硕士找工作出路好没道理的

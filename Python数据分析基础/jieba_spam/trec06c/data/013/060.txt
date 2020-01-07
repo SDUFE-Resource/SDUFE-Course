@@ -1,0 +1,24 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7F9bGCg015277
+	for <xu@ccert.edu.cn>; Fri, 19 Aug 2005 18:57:57 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4300656E.0001B1.29360@m52.126.com>
+Date: Fri, 19 Aug 2005 19:11:12 +0800 (CST)
+From: "liao" <liao@126.com>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgw8C5+sypwuu5q8u+1dDGuExpbnV4z7XNs7ncwO3UsQ==?=
+X-Priority: 3
+X-Originating-IP: [222.82.105.124]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_nnIboWyaixFdyuHzzkdtjRXqOcoO"
+
+Teragram Corporation is the leading business software provider of fast and scalable language technologies: Categorization, Taxonomy Management, Entity Extraction, Spelling Correction, Indexing, and Crawling. For more details, please visit our website at http://www.teragram.com.
+职位要求： 
+计算机及相关专业大学本科毕业
+有较优秀英语的读、写能力
+2年以上Linux系统管理经验
+熟悉TCP/IP协议，对网络结构设计有一定认识；
+熟悉路由器、交换机，防火墙等网络设备的工作原理
+熟悉linux/unix环境下的系统脚本语言
+团结合作，富有责任心
+请应聘者将简历以非附件的方式发到meiguotaima-zhaopin@yahoo.com.cn

@@ -1,0 +1,31 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <wua@ccert.edu.cn>; Tue, 6 Sep 2005 18:56:24 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <wua@ccert.edu.cn>; Tue, 6 Sep 2005 19:08:41 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "hong" <hong@126.com>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7KtPO80tK7uPbOyszi?=
+Date: Tue, 6 Sep 2005 19:08:33 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+首先，是否已经拿到人事局或是人事部的审批文件了？
+如果已经拿到了，那可以和单位协商，虽然人离开单位了
+但是继续让单位帮你把落户的事情做完也不是不可能
+谈谈吧，也许会有不一样的结果
+其次，如果户口档案真的要回原籍的话
+在北京上保险没有问题，至于公积金，
+以前听说上公积金需要办理工作居住证，现在是不是还需要
+我不太清楚，可以给公积金管理中心打个电话问问
+注意是公积金管理中心，不是劳动和社保局
+     我户口档案没落下来就辞职了，按学校的规定，这样子户口档案只能回家，如果我再找到单位的话，会不会有四险一金方面的问题？四险一金是跟着档案走么？

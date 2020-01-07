@@ -1,0 +1,69 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LBXfxi031486
+	for <rao@ccert.edu.cn>; Wed, 21 Sep 2005 21:02:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8LBjEv0011031
+	for <rao@ccert.edu.cn>; Wed, 21 Sep 2005 21:14:11 +0800 (CST)
+Message-Id: <200509211145.j8LBjEv0011031@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 21 Sep 2005 12:52:15 -0000
+From: "ye" <ye@mail.tsinghua.edu.cn>
+To: rao@ccert.edu.cn
+Cc: <ma@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuElCTbf+zvHG98/6ytu5pLPMyqa6zbLGzvHI7bz+v6q3osjLssQ=?=
+Date: Wed, 21 Sep 2005 21:14:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C5BEE4.F6DD0CF0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW+oeiffFwOk8vdS7KYdF5R4B6nTQ==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+职位名称：IBM硬件系统维护工程师 （薪酬面议）
+1、 计算机或相关专业大学本科以上学历。较强的英文阅读能力。 
+2、 具有IBM中大型计算机的系统软件或硬件工作经验 
+3、 具有IBM AIX、CICS、WebSphere,HACMP，HP UX、MC/serviceGuard或其他UNIX系统和中间件经验者，最佳。 
+4、 具有ORACLE 、DB2、SYBASE、INFORMIX等数据库维护经验者最佳。
+职位名称：集团财务产品经理（年薪60万元）
+主要职责： 
+1、     负责产品线的业务建模（流程、数据、业务规则） 
+2、      参与大项目售前、实施支持
+3、     具体负责业务模型的关键内容 
+4、     完成需求分析工作 
+5、     与软件开发部协调软件设计 
+6、     协助部门经理进行产品调研和市场分析工作 
+任职资格： 
+1、     硕士或以上学历
+2、     熟悉ERP系统 
+3、    熟悉软件研发管理流程 
+4      具有较强的沟通协调能力、学习能力 
+5      对ERP和企业信息化有较好的理解，能够理论结合实际
+职位名称：财务专家（年薪20-25万元）
+主要职责：
+1参与财务产品线的业务建模
+2参与大项目售前、实施支持
+3完成需求分析工作 
+4与软件开发部协调软件设计
+任职资格：
+1．     有企业财务管理工作的背景；
+2．     要对企业集团管控、集团预算、资金管理、集团财务核算、集团业绩管理等的某一方面有深入研究
+3．  具备和客户高层对话能力并给客户提供咨询和建议的能力
+4、  对集团财务具有深厚的理论功底和实践经验。
+职位名称：国际化产品经理（年薪70万元）
+主要职责： 
+1、     负责产品线的业务建模（流程、数据、业务规则） 
+2、     参与大项目售前、实施支持
+3、     具体负责业务模型的关键内容 
+4、     完成需求分析工作 
+5、     与软件开发部协调软件设计 
+6、       协助部门经理进行产品调研和市场分析工作
+7、      了解东南亚软件市场的需求
+-了解东南亚企业经营实务，诸如：企业融资方式，供应链管理模式，企业内部客户关系管理流程等。
+任职资格： 
+1、     熟悉ERP系统 
+2、     熟悉软件研发管理流程 
+3、     具有较强的沟通协调能力、学习能力
+4、     硕士或以上学历
+以上工作地点均在北京，符合上述要求并且有意投身到该行业中的同学请与
+宋扬 13910833075 联系。
+代友发文，勿回站内信箱！

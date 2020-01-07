@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <wu@ccert.edu.cn>; Thu, 1 Sep 2005 08:29:35 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <wu@ccert.edu.cn>; Thu, 1 Sep 2005 08:42:17 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 08:31:56 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 08:31:56 +0800
+From: pu@mail.tsinghua.edu.cn
+To: wu@ccert.edu.cn
+Date: Thu, 1 Sep 2005 08:31:56 +0800
+Reply-To: pu@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMTRtcDO0sX2tb2438jLwcujvyhiZXlvbmRzdGFyc9KyysfO0ik=?=
+Content-Type: text/plain
+
+你把她简单删除的话，那等于你在她的QQ号码中的队列位置没变---原来你在其好友队列中，现在仍在好友队列中；原来在其陌生人队列中，现在仍在陌生人队列中。这两种情况，她仍可给你发信息。
+简单地删除，你上线的话，她仍可发你信息。
+建议你现在把她从你的陌生人队列中拖到黑名单中，这样，你们间的网络聊天途径算卡卡了。
+照此实施吧！
+         前一段时间追一个mm，因为是高中同学，相互都比较了解，后来被拒（当时她说的是“我觉得咱们像现在这样作朋友挺好的，你明白我的意思吗?”）。我为了能静下心来学习，就删除了她的QQ号(没办法，看见她在线我就没法专心)，打算过一段时间完全平静后再联系。本来到这里就算了。可是前天她在宿舍能上网了以后，连续三天主动找我聊，其实也没啥说的，就是些琐事。我又不好意思说：“咱暂时别联系了”，结果这三天过得也没啥效率，全都想了她了。
+         现在我想请教板上各位，她到底是什么意思，只是不愿意失去我这个朋友(我以前帮过她一些忙)，还是我碰到情场高人了？倘若是后者我就躲远点。

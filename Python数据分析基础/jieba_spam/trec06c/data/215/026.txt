@@ -1,0 +1,32 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <liao@ccert.edu.cn>; Sun, 2 Oct 2005 10:48:38 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sun, 2 Oct 2005 02:59:34 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sun, 2 Oct 2005 02:59:34 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <liao@ccert.edu.cn>; Sat, 1 Oct 2005 20:21:13 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <liao@ccert.edu.cn>; Sat, 1 Oct 2005 22:06:06 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sun, 2 Oct 2005 10:59:29 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <kang@motorola.com>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgus1HR8TWsfDFpCDO0rjD1PXDtLDsP7TzvNK4+LXj0uK8+7DJOig=?=
+Date: Sun, 2 Oct 2005 10:59:27 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+  晚上我给GG发信息说我晚上要出去外遇去 因为一个同学找我和他出去一下(他是我师弟 一点关系都没有的) 后来师弟不去了 我就去上网了 我给GG发信息说让他把他的魔兽的账号借给我玩玩 结果他回信息说 让我不要闹了 他头疼  我就打电话过去了 他就很大声的说:" 不是和你说了 我头疼 不要和我闹 我在组队呢......."   然后我就很生气的把电话给挂了  
+  我该怎么办?要跟他先认错吗? 大家帮帮我吧 :(
+好难过

@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <zeng@ccert.edu.cn>; Tue, 23 Aug 2005 13:33:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <zeng@ccert.edu.cn>; Tue, 23 Aug 2005 13:47:16 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 05:41:53 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "zhan" <zhan@mail.tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Cc: "tunet" <cheng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INe8sbizycGiSUO5q8u+o6zV2dPQ1r7Wrsq/?=
+Date: Tue, 23 Aug 2005 13:43:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+你想做高水平的芯片，估计不会用.25的工艺吧，至少也应该是.18的，那么从整个产业来讲，首先需要软件：前端综合、验证、STA、后端floorplan、P&amp;R等等各种工具就需要一大笔银子吧，不要告诉我用盗版的啊。另外投片的费用，好像在100k美元量级吧，另外还要
+测试的费用等等。不知道你又能够拉到多少的投资？
+另外，可否讲讲你有那一类的IP？想做那方面的芯片呢？你的优势在什么地方？
+     你好，我是一名有着5年工作经验的IC工程师，曾在一家大公司做，因此对于IC得整个设计流程熟悉，而且积累了相当多的IP库，也做了大量高性能芯片的研发设计。根据我的了解目前我国现在IC设计仍然处于低水平状态，很难有做到高性能芯片的公司，大家知道，集成电路设计水平高低将是未来国家社会的主要工业基础，而我有充分的设计经验以及与大公司合作的机会，还有一定数量IP库，不象国内的小企业大部分是采用国外企业的IP,为此招募有志之士加盟，来建立一个中国很强的企业，做一番为国为己的事业。
+     不过由于刚刚成立，困难可能会重重，不过相信以我们的智慧和不屈不挠的毅力一定会成功；
+     现在急需下列有经验的人士参加：

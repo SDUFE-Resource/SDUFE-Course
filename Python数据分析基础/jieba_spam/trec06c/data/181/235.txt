@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <zheng@ccert.edu.cn>; Sun, 25 Sep 2005 04:26:00 +0800 (CST)
+Received: (eyou send program); Sun, 25 Sep 2005 04:15:00 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 25 Sep 2005 04:14:59 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 25 Sep 2005 04:14:59 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 20:14:59 -0000
+From: "long" <long@mail.tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtLK7usi+xs3tyc++zbjQtb28xcSvo78=?=
+Date: Sun, 25 Sep 2005 04:37:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+     好几天了，每天晚上一罐啤酒
+     今天没喝，为什么就感到寂寞
+     生活中好不容易出现一个MM，本来进展不错
+    借酒浇愁愁更愁。能让我们辗转反侧的必然是销魂的爱情，个中滋味一时怎能分说清楚？唯有那淡淡的坚定的忧伤一直盘桓在心上。
+     不喝酒的夜晚寂寞，喝酒后的夜晚就充实吗？
+     宿醉过后，除了头痛，还有心痛吧。
+     等到寂寞的无以复加，你又依靠喝什么来解脱自己呢？

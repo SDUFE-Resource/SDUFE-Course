@@ -1,0 +1,30 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <lian@ccert.edu.cn>; Sun, 21 Aug 2005 15:05:30 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <lian@ccert.edu.cn>; Sun, 21 Aug 2005 15:18:32 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 15:42:00 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: cheng@126.com
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILrcsru6w9Liy7y1xM7KzsqjrNK71rHP69ChseOjrLj3zru4+L+0v7TU9cO0wcujrLbg0Lu2
+4D8=?=
+Date: Sun, 21 Aug 2005 15:13:14 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+常见病啊，去大医院化验了基本上没有可能误诊的啊。耽搁了越来越严重，万一急性转成慢性的怎么办？去医院，没有别的选择！
+btw：我从来不信校医院。
+     我猜是前天比较冷，着凉了膀胱有点发炎，是不是淋了雨或者趟了水？其实也不严重，注意保暖，多喝点热水（那样就是真的上厕所了），观察两天不好再去医院，否则雾良医生折腾一番，也不见得有什么结论。不过如何是学生dd去校医院还行，不去白不去。

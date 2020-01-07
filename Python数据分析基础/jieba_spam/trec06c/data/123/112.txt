@@ -1,0 +1,28 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <lv@ccert.edu.cn>; Tue, 13 Sep 2005 01:03:48 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Tue, 13 Sep 2005 01:15:47 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <lv@ccert.edu.cn>; Tue, 13 Sep 2005 01:15:46 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <hu@dlut.edu.cn>
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7Sus1tbdXi0fnMuMG1sK7L48rH09DH6bX3u7nKx73Pzt7BxKO/?=
+Date: Tue, 13 Sep 2005 01:15:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+   挺没劲的吧，主要是和一个人太久了激情就消退了，而且任何东西若要长期维持都是需要成本的。总做一件事情时间长了就会觉得累了，浪漫的时间长了也会累的。不是说婚姻就象一辆破自行车么，自己用着顺手是最重要的。但是总是有一些人会犯贱，常常觉得自己的车不是最好的，直到失去了才知道它的价值。
+   最刺激的事情可能就是吵架拉，分手拉，第三者拉之类的。如果都没有就会有些平淡吧。
+   从年轻的时候就怀疑自己的感情生活是否丰富浪漫并一直持续到老年是比较悲哀的一件事情，要么就等玩够了再天长地久，要么就不要守着安定幸福还犯贱。
+   工作的有钱，读研的有闲，反正年轻输的起，不可心就赶紧分手，时间越长越麻烦。
+     我在工作，mm在读研，我们每周只能相聚两次，
+     每次我去清华找她的时候，要么在她的宿舍和她一块上网，或者一块
+     合作打雷电，坦克游戏，要么用锅煮粥或者堡汤喝，

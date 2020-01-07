@@ -1,0 +1,120 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C1ElfM005929
+	for <sun@ccert.edu.cn>; Tue, 13 Sep 2005 06:26:47 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.144.133)
+  by localhost with SMTP; Mon, 12 Sep 2005 22:13:12 -0000
+From: "gong" <gong@mails.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?ofEgMjAwNiBHRSBDaGluYSBDYW1wdXMgUmVjcnVpdG1lbnQ=?=
+Date: Tue, 13 Sep 2005 06:44:26 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLKEKCCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+Importance: Normal
+In-Reply-To: <326450489.02480@mails.tsinghua.edu.cn>
+
+2006 GE China Campus Recruitment
+About GE
+ 
+GE (NYSE: GE) is Imagination at Work -- a diversified technology, media and financial services company focused on solving some of the world\'s toughest problems. With products and services ranging from aircraft engines, power generation, water processing and security technology to medical imaging, business and consumer financing, media content and advanced materials, GE serves customers in more than 100 countries and employs more than 300,000 people worldwide.  Jeffrey R. Immelt is Chairman of the Board and Chief Executive Officer of GE. 
+ 
+GE\'s revenue reached $152.4billion in 2004.
+ 
+The company traces its beginnings to Thomas A. Edison, who established Edison Electric Light Company in 1878. In 1892, a merger of Edison General Electric Company and Thomson-Houston Electric Company created General Electric Company. GE is the only company listed in the Dow Jones Industrial Index today that was also included in the original index in 1896.
+ 
+GE business divisions
+Commercial Finance, Consumer Financial Services, Infrastructure, Industrial, Healthcare, NBC-Universal
+ 
+GE in China
+GE started doing business in China as early as 1906 and was considered one of the most active foreign companies in the country at the time.  In 1908, the first GE light plant was built in Shenyang.  GE acquired Anderson, Meyer &amp; Co. in 1934 and started to provide installation and repair services of imported 
+electric equipment in China.  GE resumed trade with People\'s Republic of China in 1979.  It opened GE Hangwei Medical Systems Co., Ltd in Beijing, its first joint venture in China in 1991.  
+All of GE\'s industrial businesses have set up operations in China with about  11,000 employees. GE has established over 40 legal entities in China with total investment over US$1.5 billion.  Its financial services sector is seeking business opportunities as WTO opens China market.  
+The sales revenue of GE in China is $3.9 billion in 2004.   
+Besides business commitment, GE continues to act as a good corporate citizen in China, supporting Chinese educational institutions with scholarship programs and contributing to the communities where it operates.  Elfun, the GE volunteer organization with chapters in Hong Kong, Beijing, Shanghai Guangzhou, Dalian and Hong Kong, creates and participates in such activities as community services and environmental protection.
+How to Apply:
+Please visit our hr website http://hr.ge-china.com for more detailed information on our campus recruitment activity. On the website, you can search for the openings through the job code listed below and submit your resume online according to the instructions. Only the short-listed candidates will be informed the interview on GE Job Fair.
+Note:
+- Some openings might spend 1-2 days to be alive on website. 
+- The resumes submitted by fax or mail are not acceptable.
+Position &amp; Job Code:
+Business Group  Business        Job Title       Job Code
+Healthcare      Healthcare      CS/Device Sales Rep     436400
+　      　      GTO Engineering 432914
+　      　      Direct Sales Trainee(North)     436417
+　      　      Direct Sales Trainee(South)     436604
+　      　      Cyclotron Engineer      436625
+　      　      Field Service Engineer  436605
+　      　      Ultrasound Sales Representative 436622
+　      　      Territory Sales 436624
+　      　      Radiopharmacy Engineer  436626
+　      　      Modality Specialist Trainee     436623
+　      　      Microbiology Analyst    436630
+　      　      Chemistry Technician / Analyst  436631
+　      　      Validation Engineer     436632
+　      　      Filling Lead Operator   436629
+　      　      Process/Maintenance Engineer    436628
+　      　      Software Engineer(CIS)  436666
+　      　      Software Engineer(DCAR) 436665
+　      　      Electromagnetic Engineer        436662
+　      　      Hardware Engineer(DCAR) 3       436661
+　      　      Hardware Engineer(DCAR) 2       436658
+　      　      Hardware Engineer(DCAR) 436654
+　      　      Mechanical Engineer(Magnet)     436650
+　      　      售后服务销售培训生      436642
+　      　      客户服务工程师  436641
+CTC     CTC     Control Design Engineer 380210
+　      　      Embedded System Engineer        369769
+　      　      Chemical/Physics and Process Control Engineer   426244
+　      　      Power Electronics       410934
+　      　      Polymer Chemist 419822
+　      　      Chemical Engineer       307185
+　      　      Material Scientist      307185
+　      　      Electrochemist  307185
+　      　      Solid State Physics     408505
+　      　      Material Science and Engineering        436416
+　      　      Analytical Chemistry/Material Science   388759
+　      　      Clean Coal      391534
+　      　      CAD Software Engineer   436173
+　      　      Optical Imaging Engineer        436175
+　      　      Mechanical Electrical Engineer  436418
+　      　      Electromagnetic 366879
+　      　      Polymer Scientist       379773
+　      　      TCLP    413356
+　      　      Hardware Eng.   436391
+　      　      Sofeware Eng.   436390
+　      　      Mechanical Eng. 435369
+　      　      Power Electronics       413899
+　      　      Sr. Membrane Scientist  414445
+　      　      Sr. Membrane Device Scientist   414443
+　      　      Sr. Membrane Applications Engineer      414417
+　      　      Electro Chemist 406182
+　      　      Sensor Engineer 406184
+　      　      Microbiologist  374578
+　      　      Biochemist      376482
+　      　      Sensor Scientist        395583
+　      　      Water/Wastewater        405957
+　      　      Cooling Technologist    428815
+　      　      Polymer Science 405959
+　      　      Sourcing Specialist     436413
+　      　      Software Engineer       365436
+　      　      Hardware Engineer       418333
+　      　      Testing Engineer        436397
+Industrial      Plastics        Industrial Management Trainee   436664
+　      　      Commercial Leadership Program   436765
+　      Silicon Operation Management Trainee    436742
+　      　      Commercial Leadership Program   436768
+　      Fanuc   Project Engineer        420942
+　      C&amp;I     Commercial Leadership Program   436774
+　      　      Operations Management Leadership Program        436657
+Infrastructure  Water Technology        Sales/Service Engineer  436197
+　      Energy  Commercial Leadership Program   436401
+　      　      Operations Management Leadership Program        436399
+GE China        FMP     Financial Management Program    436193
+　      IMLP    Information Management Leadership Program       436396
+GE China works hand-in-hand with Campus Ambassadors &amp; Career Office at the universities where we recruit. Please work with them directly to obtain the information about the dates and times when GE will be at your campus.

@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <qing@ccert.edu.cn>; Wed, 24 Aug 2005 00:23:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <qing@ccert.edu.cn>; Wed, 24 Aug 2005 00:36:23 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 16:30:56 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "xu" <xu@mail.tsinghua.edu.cn>
+To: qing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0=?=
+Date: Wed, 24 Aug 2005 00:32:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     电信设备业已经进入微利时代，国外大公司已经转向卖咨询、集成服务了。
+     华为要是还守着这种大而全的低价模式，一旦3G败落，迟早要向长虹那样倒掉。
+     不知道华为资金链上有没有科龙类似的问题？
+...国外大公司已经转向卖咨询、集成服务了。
+关于这种大决策方面的问题，我一个小兵，哪里能懂呢
+你说的国外大公司应该是电信设备行业的吧，这种转型我了解的太少。：（
+转型的我只知道马可尼，据媒体报道华为在收购马可尼，不过我在公司从未听说过
+第一次听说这个消息，还是我在香港国际机场一份英文报纸上看到的
+啧啧，都不敢相信。
+马可尼，那以前可是世界顶尖电信设备商

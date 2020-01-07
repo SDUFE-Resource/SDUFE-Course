@@ -1,0 +1,32 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8OB6nor025292
+	for <yuan@ccert.edu.cn>; Mon, 26 Sep 2005 14:31:18 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 14:19:13 +0800
+Message-ID: <327559284.25099@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 26 Sep 2005 14:19:13 +0800
+Message-ID: <327559284.25083@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Mon, 26 Sep 2005 14:19:13 +0800
+From: chen@mail.tsinghua.edu.cn
+To: yuan@ccert.edu.cn
+Cc: feng@ccert.edu.cn
+Date: Mon, 26 Sep 2005 14:19:13 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgz9bU2sWjyMux6te8vbW1xLrctc3By7ChP1JlOiDOqsqyw7S087zSw6TEv7PnsN3N9dvzo7+j
+v6O/?=
+Content-Type: text/plain
+
+没看出王垠同学牛在哪儿,
+博士读到四年, 有两个conference的paper, 一个是二三流会议的BPW,自己老板是chair
+而且还是国内开的国际会议.
+会玩玩Linux, 也没听说对内核做什么重要修改, 推动LINUX大发展啊.
+使用上的熟手清华很多吧,别说计算机电子自动化就是别的差的很远的专业
+也不乏高手啊, TEX这个玩意儿就是个写作工具吧,没见过人拿TEX用的熟悉来吹嘘的,
+放在CV里面,这两点也就是精通LINUX, 熟悉TEX.
+鄙视清华没有学术研究, 还是要从自身找找原因吧, 别的不说,我以前LAB就是硕士
+生毕业也颇有一些在顶级会议国际杂志,甚至IEEE Trans.上发paper的.
+至于把现代的Research当成喝喝咖啡吹吹牛侃侃大山,只能说你太幼稚,还没有真正
+做过research. 或许你早生几百年, 加上家世显赫, 像卡文笛许那样玩research,可能比
+较能让你满意.
+     我和他曾经一个教研室过。
+     说实在话，我们都佩服王垠，能对计算机“专业”这么有热情，我们都希望他能够有很好的发展。
+     但是我们看到今天的王垠已经不是单纯的玩着linux向我们演示他的bbs机器人的程序能人了。他成了一个符号，一个象征，在一些人眼中成了有理想，有追求的偶像了！

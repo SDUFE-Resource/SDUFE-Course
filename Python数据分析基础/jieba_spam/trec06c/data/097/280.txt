@@ -1,0 +1,23 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j863xqXT023995
+	for <zhuang@ccert.edu.cn>; Wed, 7 Sep 2005 16:31:52 +0800 (CST)
+Message-ID: <200509061159.j863xqXT023995@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO b28d91f81b7b43f) (yang-w04@166.111.203.126)
+  by localhost with SMTP; Wed, 7 Sep 2005 08:19:12 -0000
+From: "lei" <lei@mails.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMe/wdK9qNLpveLJosflu6rEv8ewtcS9u82ov8Y=?=
+Date: Wed, 7 Sep 2005 16:46:39 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+In-Reply-To: <000301c5b22b$0cc174f0$26cb6fa6@liuwu>
+thread-index: AcWyNHPBVk9qOu9GTWWI96Li00ZyJAAZL8dg
+
+清华里面的车现在太多了，经常看到出交通事故。
+     理由如下：
+     1.花上百万建起的交通系统成了对在校教工和外来车辆收钱的工具（每天2元或每次2元），假设按现清华有1000辆机动车算（包括近百辆黑车），每年净收72万，收上的钱谁知道干什了；交通科做起生意来了，以后是不是要对所有自行车收费呢；
+     2.花上百万建起的交通系统不但没有控制车辆而且造成处处堵塞，特别是东西主干道，在上班期间更是人车挣道，险象环生，一个小小的西门之处设立三道拦车闸门，也只有清华有此大手笔；

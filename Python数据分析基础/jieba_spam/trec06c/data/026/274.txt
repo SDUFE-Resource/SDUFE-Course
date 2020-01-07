@@ -1,0 +1,22 @@
+Received: from aryasec.com ([218.1.92.40])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J5nswI015469
+	for <zhan@ccert.edu.cn>; Mon, 22 Aug 2005 17:32:03 +0800 (CST)
+Message-ID: <200508191349.j7J5nswI015469@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?sLLR1NfJ0a8=?= <hua@aryasec.com>
+Subject: =?gb2312?B?ofEgx+vOyqO6Tm9ydG9u1ti8pLvuo6zN8rfWuNDQu6OhICjXqtTYKQ==?=
+To: zhan@ccert.edu.cn
+Content-Type: multipart/mixed;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";charset="GB2312"
+MIME-Version: 1.0
+Reply-To: hua@aryasec.com
+Date: Mon, 22 Aug 2005 17:48:43 +0800
+X-Priority: 2
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+【 以下文字转载自 Crack 讨论区 】
+发信人: yanshencun (我还是我), 信区: Crack
+标  题: 请问：Norton重激活，万分感谢！
+我安装了Norton2005简体中文光盘零售版，按照网上说的方法，用注册机生成的注册码电
+话注册，然后更新Catalog.livesubscribe，可以把激活期延长100年，但问题是，每次重
+新启动电脑时，都会出现Norton过期需要重新按照上面的步骤再激活，我在网上看到其他
+同学也有同样的问题，希望高手指教，非常感谢！！！

@@ -1,0 +1,46 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <gan@ccert.edu.cn>; Mon, 12 Sep 2005 11:40:25 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <gan@ccert.edu.cn>; Mon, 12 Sep 2005 11:37:40 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <gan@ccert.edu.cn>; Mon, 12 Sep 2005 11:36:42 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Mon, 12 Sep 2005 11:48:14 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Mon, 12 Sep 2005 11:50:50 +0800
+From: "bi" <bi@runway.cn.net>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgOS4xMyjW3Lb+Kc3tyc+4382ouavLvtfcssPH5buq0d29siAo16rU2Ck=?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: bi@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+公共管理学院学术报告会：
+世界通信产业的未来
+主讲人：保罗・雅各布博士（美国高通公司首席执行官）
+保罗o雅各布先生（Dr. Paul E. Jacob）现任高通公司首席执行官和公司董事会成员，1989年获得加州大学伯克利分校电子工程学博士学位。高通公司是CDMA数字无线技术的领先厂商，连续三年进入全球财富500强，被华尔街日报列为第55大上市公司。
+在高通公司，雅各布博士一直致力于支持无线数据的发展，被公认为是多个技术团队的具有创新意识的领导人，而且他在无线技术方面所获得的发明专利已经超过25项。无线数据服务业务使得蜂窝式移动电话不仅成为语音通讯的工具，而且成了娱乐、计算以及获取信息的个人设备。在世界市场的锤炼中，雅各布博士获得了丰富的运营经验，推出了众多的CDMA系统，并与全球顶级运营商和制造商的高层管理人员建立了友好关系。此次演讲保罗o雅各布博士将全面地评价和展望世界通信产业。 
+时间：2005年9月13日（星期二）19：00
+地点：清华大学公共管理学院一楼报告厅
+清华大学国情研究中心

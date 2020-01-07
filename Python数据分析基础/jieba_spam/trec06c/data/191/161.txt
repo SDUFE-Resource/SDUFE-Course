@@ -1,0 +1,21 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <lin@ccert.edu.cn>; Tue, 27 Sep 2005 09:08:34 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <lin@ccert.edu.cn>; Tue, 27 Sep 2005 08:28:53 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "cai" <cai@cert.org.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtE1JVLrNy67EvrbUtP3N9dvztcTMrLbIsrvNrKO/?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Tue, 27 Sep 2005 09:14:32 +0800
+
+... 个人觉得mit上的fq不比水木少..水木一向不缺老实孩子....成了社区后少了一点..
+     一个有趣的现象是，在水木上有不少人捧王垠，而在MIT BBS上几乎都是一边倒地批王。
+     仔细看看那些捧王垠的，多半都是比较FQ，空喊口号地批驳中国教育制度的。
+     而MIT上发帖子的，基本上都是在国外继续深造过的，明白王垠所批判的东西，其实并不是中国所仅有的，他即使到了美国，他会发现那里跟清华并没有本质的区别：老板照样要你多发文章，因为没有文章就没有资金，没有资金就没钱吃饭；老板也会限制你的选课，因为你选课太多就

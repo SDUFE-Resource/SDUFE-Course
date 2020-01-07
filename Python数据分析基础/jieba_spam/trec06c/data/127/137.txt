@@ -1,0 +1,46 @@
+Received: from sendmail.iclp.com.hk (sendmail.iclp.com.hk [203.193.56.98])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8D9HfCC018617
+	for <liu@ccert.edu.cn>; Tue, 13 Sep 2005 21:29:30 +0800 (CST)
+Received: from ebpc1 ([192.168.17.111])
+	by sendmail.iclp.com.hk (8.11.6/8.11.6) with SMTP id j8DNBbb24415
+	for <liu@ccert.edu.cn>; Tue, 13 Sep 2005 22:23:21 -0500
+thread-index: AcW4RY0OBhyKhSqsSemwSUmiAKaPGg==
+Thread-Topic: =?gb2312?B?SnVuaXBlcs34wue5q8u+0dC+v7rNvczT/bv6ubnNqNG2MjAwNcTqOdTC?=
+Reply-To: <wang@apac-juniper.net>
+From: "wang" <wang@apac-juniper.net>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMflu6q089Gn0afJ+taw0rW3otW50K274dXQ0MLByyAo16rU2Ck=?=
+Date: Tue, 13 Sep 2005 21:40:31 +0800
+Message-ID: <8c3801c5b845$8d1d0270$6f11a8c0@ebpc1>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_8C39_01C5B888.9B404270"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Exchange 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+re
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: fengzhizi (响应建设节约型社会的号召), 信区: THUInfo
+标  题: 清华大学学生职业发展协会招新了
+发信人: fengzhizi (响应建设节约型社会的号召), 信区: THA
+标  题: 清华大学学生职业发展协会招新了
+  企业需要什么样的人才？
+    如何进行自我职业规划？
+    怎样培养自己的职业能力？
+    如何在激烈的求职竞争中脱颖而出？
+     ……
+    面对这一系列的疑惑，怎么办？
+    加入清华大学学生职业发展协会吧――贡献出你的热情和智慧，我们将为你提供，协会一个锻炼能力并实现自我价值的舞台！
+    我们的宗旨是：为广大毕业生就业服务，为广大同学职业发展服务。
+    我们的目标是： 
+    以专业化的辅导，促进清华学生职业发展能力的提升；
+    以综合性的服务，辅助清华毕业生的就业安置工作。
+    我们的价值观是：
+    领导艺术Leadership，广阔视野Vision，积极热情Passion 
+    还在犹豫什么呢，赶紧加入我们吧！Join us for future！
+   想要报名参加协会，请下载报名资料，报名截止时间为9月15日晚上12:00。
+   报名表下载的ftp地址为：ftp://zhaoxin:zhaoxin@166.111.14.254

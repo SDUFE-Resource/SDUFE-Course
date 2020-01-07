@@ -1,0 +1,35 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <bi@ccert.edu.cn>; Wed, 28 Sep 2005 08:27:24 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 00:38:35 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 08:38:34 CST
+Date: Wed, 28 Sep 2005 08:38:34 +0800 (CST)
+From: liang ming <jiang@yahoo.com.cn>
+Subject: =?gb2312?B?ofEg0MTA77rDxNHK3KOs0dvA4dKy1rmyu9eh?=
+To: bi@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+感觉跟gg的感情出现了问题
+gg刚出差一个周回来，刚刚11点多才回到学校，我去西门接的他
+好难过啊，根本不像分开的恋人见面的样子
+从西门回宿舍的整路上，没牵手，没拥抱，我很失落，真的没有以前恋爱的感觉了吗？以前总是会一见面就会心的微笑，自然的牵手……
+可现在呢，不但不亲密，还因为一些琐事吵架、闹情绪
+gg走之前的那个晚上，也没有分别的情绪，还是没牵手、没拥抱、没kiss
+我很情绪化，心里一直不爽，表情就变成了所谓的“苦瓜脸”，气氛就很僵
+在宿舍楼下，不想让gg就那么走，可他直愣愣的站着……没感觉……
+回到宿舍，心里很难受，眼泪就流出来了，这还是第一次因为感情而流泪
+本想等gg回到宿舍打来电话跟他说清楚，结果，当我强掩着哽咽声拿起电话时，gg的第一句话就是“睡了”，因为他宿舍的人都睡了
+以前哪怕是一个小小的矛盾，gg都坚持当时就说清楚，决不会让矛盾过夜；现在呢，经常是吵完小架，就略过不管，好像没发生，gg说我任性，该不管我了；而我，不是那种主动会把心里想的说出来的那种人，就这样，好几次，难受就在心里积累
+心里真的很难受啊
+其实可能是我自己有问题，gg对我很好，别人夸他属于“清华前十”的那种；而我，脾气确实不好，gg后来老说他把我惯坏了，难道我已经依赖于这种感觉了么？有时候自己也会想，我是不是把感情建立在gg对我好的基础上？gg能一直这样吗？这个基础会慢慢垮掉，那我们的感情呢，会消失吗
+我们两年半了，时间久了就是这样的么？以后怎么办？都会不痛不痒的过一辈子么？
+朋友打电话来了，
+写的好乱～

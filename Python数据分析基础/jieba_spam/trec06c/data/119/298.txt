@@ -1,0 +1,26 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <pan@ccert.edu.cn>; Mon, 12 Sep 2005 09:44:16 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Mon, 12 Sep 2005 09:56:15 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Mon, 12 Sep 2005 09:56:11 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "tang" <tang@dlut.edu.cn>
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IGhlbHAsy63E3L3oztKxsb6pye233dakuLTTobz+1/fQxdPDv6jBqs+1yMuhoyAo16rU2Ck=?=
+Date: Mon, 12 Sep 2005 09:51:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我同学把身份证复印件给人，结果被移动联通小灵通的都办了卡，没个都被打爆，每个都让他去交钱，还威胁发什么律师函，虽然最后不用交，也够恶心的
+所以，身份证及其复印件，从来都不给别人拿去用
+     【 以下文字转载自 AdvancedEdu 讨论区 】
+     发信人: hugang (hugang), 信区: AdvancedEdu
+     标  题: help,谁能借我北京身份证复印件作信用卡联系人。

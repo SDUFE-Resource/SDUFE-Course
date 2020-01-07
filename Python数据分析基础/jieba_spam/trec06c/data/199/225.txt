@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8SBi0E8029027
+	for <weng@ccert.edu.cn>; Wed, 28 Sep 2005 19:21:05 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SBtAlB017695
+	for <weng@ccert.edu.cn>; Wed, 28 Sep 2005 19:32:15 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 28 Sep 2005 11:06:31 -0000
+Message-ID: <000c01c5c423$728140e0$0c42423b@tunoc1a645037e>
+From: "han" <han@mail.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgSW50ZXJuuNDP66Gqoaq90r+qsaa94MrQs6HR0L6/sr/J8cPYw+bJtNautv4oenop?=
+Date: Wed, 28 Sep 2005 19:32:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C466.808A4220"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+冷静与热情之间－－宝洁CMK之体验
+Cheryl Lin   P&amp;G CMK Summer Intern
+    光阴似箭，转眼间在宝洁公司暑假实习的七个星期一下子就过去了。回顾这一段时间
+的实习生活，让我真切体验到了象牙塔之外的另一种忙碌而又充实的生活，感受到了跨国
+企业的氛围和文化。 
+    宝洁公司是一家从事快速消费品行业的公司，它长年坚持以消费者为本，注重跟消费
+者的沟通，每推出一个产品，每做一个决策，都必须根据消费者的反馈，必须是消费者真
+正需要的，这也是它被人津津乐道的成功之道，而我实习所在的部门是市场研究部

@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <ning@ccert.edu.cn>; Tue, 23 Aug 2005 00:47:59 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <ning@ccert.edu.cn>; Tue, 23 Aug 2005 01:01:13 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Tue, 23 Aug 2005 00:29:54 +0800
+Date: Tue, 23 Aug 2005 01:01:04 +0800
+From: "guan" <guan@wnt.com.cn>
+To: ning@ccert.edu.cn
+Cc: "lic" <ma@ccert.edu.cn>, "sunt" <lai@ccert.edu.cn>, "caoy" <ling@ccert.edu.cn>,
+        "wangb" <shen@ccert.edu.cn>, "songhm" <qian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgyPXI9bXEzsrSu7j2o7pFRbXEMzDIy9bQxNzCvMih0MW6xbXE09C8uLj2?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+023电子工程系 30 　 含深圳研究生院6人 
+  080900电子科学与技术 　 　 　 
+    01物理电子学与光电子学 　 ①101政治②201英语③301 数学一④436电动力学 复试时专业综合考试内容：激光原理或微波技术或电子电路（含数字电路和模拟电路）（三选一） 
+    02电路与系统 　 ①101政治②201英语③301 数学一④437信号与系统 复试时专业综合考试内容：现代通信原理或电子电路（含数字电路和模拟电路）（二选一） 
+    03电磁场与微波技术 　 ①101政治②201英语③301 数学一④438电磁场理论 复试时专业综合考试内容：微波技术或电子电路（含数字电路和模拟电路）(二选一） 
+  081000信息与通信工程 　 　 　 
+    01通信与信息系统 
+    02信号与信息处理 
+    03信息网络与复杂系统
+ 　 ①101政治②201英语③301 数学一④437信号与系统 复试时专业综合考试内容：现代通信原理或电子电路（含数字电路和模拟电路）（二选一） 
+这30人应该包括上述所有的吧……
+汗一个，那那……
+考信号的才能被录取几个呀……
+还有
+为什么这个电路与系统和后边的信息与通信工程的专业课考得完全都一样呢……

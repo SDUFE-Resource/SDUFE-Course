@@ -1,0 +1,23 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <huang@ccert.edu.cn>; Sun, 28 Aug 2005 12:24:27 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 12:28:50 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 28 Aug 2005 12:28:50 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Sun, 28 Aug 2005 12:28:50 +0800
+From: "gan" <gan@mail.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Date: Sun, 28 Aug 2005 12:28:50 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgvrTH67nY16IiONTCMjnI1c3twbzKptLm09Em0afK9dDC0OPT69HQvr/J+tDCyfrPtcHQ1/nM
+uLvhKLU=?=
+Content-Type: text/plain
+
+报告题目：      良师益友&amp;学术新秀与研究生新生系列座谈会(第二场) 
+报告人：        陈剑教授 郭迅华 
+具体时间：      2005-08-29 19:0  
+报告地点：      环境系报告厅（十食堂南侧） 
+主办单位：      清华大学研究生院、校党委研究生工作部 
+提交人院系/协会：       admin 
+备注：  详见http://166.111.4.128/news/2005/8/24/1124865470360.shtml。本次系列讲座主要面向研究生新生同学。活动将邀请近年获得"良师益友"称号的部分优秀教师与"学术新秀"代表，以对话的形式与现场同学进行面对面的交流，为师为友，相磋相磨，帮助刚刚进入清华园的同学们从名师和出色的学友身上学习如何做事，如何做人，正确把握个人的发展方向，早日成为一名合格的"清华人"！ 

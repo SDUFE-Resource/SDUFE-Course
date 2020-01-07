@@ -1,0 +1,21 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C5ZHks008458
+	for <jiang@ccert.edu.cn>; Wed, 14 Sep 2005 14:56:00 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8C50nS32226
+	for <jiang@ccert.edu.cn>; Wed, 14 Sep 2005 14:21:13 +0800
+Message-Id: <200509120500.j8C50nS32226@mail.cert.org.cn>
+From: "tu" <tu@cert.org.cn>
+To: jiang@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: CNCERT/CC=CD=F8=C2=E7=B0=B2=C8=AB=D3=A6=BC=B1=BC=BC=CA=F5=B9=AB=BF=AA=BF=CE=CD=A8=D6=AA?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 14 Sep 2005 15:05:32 +0800
+
+英雄啊
+     我的电脑5周岁了，昨天进行了一次比较大的升级，重新开机后，看着“系统信息”里显示出怪异的448M内存容量，不禁回想起5年来它伴着我们走过的路，写两句作为纪念吧。
+     这台电脑诞生于2000年8月。当时是即将去报到读研，捏造了很多冠冕堂皇的名目，跟家里要来6000元预算，跟着一位开电脑店的老兄，杀到中关村热闹非凡的攒机市场。

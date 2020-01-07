@@ -1,0 +1,25 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 15:30:06 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 14:52:24 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "you" <you@cert.org.cn>
+To: lu@ccert.edu.cn
+CC: "guan@ccert.edu.cn" <tang@ccert.edu.cn>,
+   "hu@ccert.edu.cn" <jin@ccert.edu.cn>,
+   "xu@ccert.edu.cn" <sun@ccert.edu.cn>, "mei@ccert.edu.cn" <li@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 15:37:51 +0800
+
+“据我所知，清华的导师绝大多数都是对学生负责的。”
+“绝大多数”是多少？没准王同学碰到的是少数。另外话说回来，清华导师也没有那么高尚，不就是先让学生把他们的活干好，顺便写写论文，不然老师也不好交差。我就没发现那帮倒是有一个好的（特指建筑系）。教师就是一个教职，没有什么高尚的说法。
+理想是什么？依我说是最大化的占用资源，目的是满足自己的想法。每个人都在拼命的挣钱，占用资源，这有什么错的，是个大好事。
+     照你这么说每天勤勤恳恳、任劳任怨的人就没有理想了？
+     学生一定要按照自己的想法去做才是对的，
+     而不管导师是否是在科研上比较有经验，是否更有方向感。

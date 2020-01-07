@@ -1,0 +1,57 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8JBii0m015387
+	for <shen@ccert.edu.cn>; Wed, 21 Sep 2005 17:13:47 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8JBuNSM005175
+	for <shen@ccert.edu.cn>; Wed, 21 Sep 2005 17:25:26 +0800 (CST)
+Message-Id: <200509191156.j8JBuNSM005175@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 21 Sep 2005 09:04:33 -0000
+From: "weng" <weng@mail.tsinghua.edu.cn>
+To: shen@ccert.edu.cn
+Cc: <yu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW7PPxrhdtee7+i+158GmtefX0y+7+tC1yei8xrmks8zKpqOoyrXPsNLUvLDV/cq91rDOu6Op
+ICjXqtQ=?=
+Date: Wed, 21 Sep 2005 17:25:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD54.315C4400"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW9ESMViAP3rUc6TpGavIn8JvsLVg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+【 以下文字转载自 Career_POST 讨论区 】
+发信人: IMzyp (睡觉中――趴在墙角的猪), 信区: Career_POST
+标  题: [诚聘]电机/电力电子/机械设计工程师（实习以及正式职位）
+发信人: IMzyp (睡觉中――趴在墙角的猪), 信区: Career_Plaza
+标  题: [诚聘]电机/电力电子/机械设计工程师（实习以及正式职位）
+锦浪新能源科技有限公司是英国CUK股份责任有限公司新近在中国设立的全资子公司。
+锦浪科技作为CUK在中国的研发和生产基地，致力于可持续能源（风能，太阳能）系统的研发和为母公司进行永磁铁发电机和并网型逆变器的配套生产。公司测试中心设在宁波象山高科技园，在上海办公楼年底完工之前，初期的研发工作也会暂时放在宁波测试中心。现公司诚聘电机工程师，电力电子工程师，测试工程师，机械（叶片）设计工程师等一系列实习以及正式职位，实习职位在试用之后，如果合适将在毕业后转成公司正式员工，并有机会派送到国外进行短期交流。
+1.电机工程师
+熟悉小型永磁铁发电机结构，有能力按照输出电流电压进行定子，矽钢片，磁铁等结构设计。
+能独立完成测试工作。会使用RMxprt软件，优先考虑
+寒假实习生职位：
+招聘人数：2   （&gt;1000/月，相关专业方向研究生待遇另议）
+学期中实习生职位
+招聘人数：2  
+（&gt;1000/月，相关专业方向研究生待遇另议，具体待遇根据实习天数来定）
+对象：相关专业高年级本科生，相关专业在读硕士生，博士生
+2.电力电子工程师
+有基本的电力电子方面的基础。熟悉逆变器或者逆变电源基本原理，对并网型逆变器有初步了解。
+熟悉汇编语言者优先考虑
+短期测试工程师职位：
+招聘人数：2     （有相关电力电子方面背景知识，由英方人员进行短期培训）
+时间：2005年12月中旬（1周）,2006年4月上旬（2－3周），
+公司提供往返机票至测试城市，住5星级宾馆，包所有开销。由英国派往中国的资深电器工程师进行短期培训，然后进行为期1－3个礼拜的并网型逆变器测试工作。津贴150每天，如果条件和表现佳，有额外津贴。
+寒暑假实习生职位
+招聘人数：2    （&gt;1000/月,相关专业方向研究生待遇另议）
+对象：相关专业高年级本科生，相关专业在读硕士生，博士生
+3.机械(叶片)工程师
+熟悉小型风力发电系统叶片设计，熟悉空气动力学，能使用相关专业软件者优先。
+寒暑实习生职位
+招聘人数：1
+设计工程师 
+（正式职位，年底或者明年初加入公司和澳大利亚某大学联合研发项目，有机会赴澳大利亚进行1-3个月的联合开发）
+招聘人数：1 （待遇面谈）
+对象：相关专业硕士或者博士（包括在读），有特殊专长本科生亦可
+有兴趣的同学请直接把简历或者求职信发送到 HR@CUK-LTD.com或者info@Ginlong.com

@@ -1,0 +1,32 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <xue@ccert.edu.cn>; Thu, 1 Sep 2005 22:20:58 +0800 (CST)
+Received: (qmail 18809 invoked from network); Thu, 1 Sep 2005 14:32:41 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 14:32:41 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "ni" <ni@jdl.ac.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzvfDxdfTtKu2r7K/w8XV0MrQs6Gy37uuzca548jL1LE=?=
+Date: Thu, 1 Sep 2005 22:34:59 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+西门子传动部门， 招行业推广和策划人员，工作内容：
+变频器和电机分行业的推广。市场推广计划的制定，反馈，推动销售业绩。
+要求： 
+1. 扎实的电机和变频传动的技术基础，重点高校硕士优先。刚毕业，有工作经验不限。
+2. 有良好的沟通能力，能主动与客户、同事、上级进行沟通，合作愉快。
+   工作扎实肯干，能自主解决问题。遇到繁琐和复杂问题能够耐心积极解决问题。
+3. 英语六级以上，流利的口语和听说读写能力
+4. 熟悉工业控制，熟悉AutoCAD、Visio等作图
+5. 头脑灵活，思路清晰，计划性强。
+6. 学习能力强， 能尽快适应工作环境，学习新技术。
+7. 以结果为导向。
+有意者请发简历至： jiansheng.lv@siemens.com   包含中英文两分，有照片，文件别超过2M，格式为pdf或者doc。 请注意目前招正式职员，申请实习的请不要发这个信箱。另外写清楚什么时候能上班。

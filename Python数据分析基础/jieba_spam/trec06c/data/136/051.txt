@@ -1,0 +1,55 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBVolI019299
+	for <kang@ccert.edu.cn>; Thu, 15 Sep 2005 15:37:44 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8DBSOBg018678
+	for <kang@ccert.edu.cn>; Thu, 15 Sep 2005 15:34:49 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn ([166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8DBSHbY018673
+	for <kang@ccert.edu.cn>; Thu, 15 Sep 2005 15:34:16 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 14359 invoked by uid 512); Thu, 15 Sep 2005 07:42:38 -0000
+Message-ID: <20050913113644.14358.qmail@stu.ee.tsinghua.edu.cn>
+From: mei@stu.ee.tsinghua.edu.cn
+To: kang@ccert.edu.cn
+Date: Thu, 15 Sep 2005 15:42:38 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?ofEgx+u087zSsO/O0r+0v7TO0rjDyOe6zrDsISEhIdC70Ls=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+我是北京某所今年7月毕业的博士,当时已和北京某高校签署了三方协议
+而且拿着派遣证已经到该单位报道,但是在档案工资录入时,以我没有博士答辩材料
+为由(答辩材料上缴学位委员会,学位评定在明年3月),不给我做工资,后来在该校开学后,
+我把毕业证书拿去,可还是不行,最后以我没有学位为由,将我档案退到我的原培养单位,
+现在我面临改派,同时已经很少这个时期还有单位有进京指标了,
+有两个问题请教大家
+1 我已经跟该高校签署了三方协议,甚至用工合同(但是合同签署后,他们没有给我),这种
+随意退档案( 他们说已经告知我没有学位是不能来报道的,但是我并不知道有这个说法,
+而且他们在退我档案时只是口头说并无任何书面材料,同时我的报道手续办理的差不多了),
+是否是属于违法的行为?他们说退就退,没有给我任何经济赔偿,是否能算他们违约?
+这种事情我该去找什么部门处理?因为如果他们不让我来报道的话,我报道时候去给我开了
+到各个部门签字的转单,而且已经有99%的部门在该转单上签了字.他们影响我正常就业
+时间,是否应该赔偿?
+2 如果作为改派,能否还算是应届毕业生?我应该去何种单位找工作,才有可能解决户口?
+我现在的档案户口暂时放在原来的所里,目前去了几所高校都已经完成了05年的招人计划,而
+06年的计划尚未出台,我现在已经3个月没有任何经济来源.
+从05年7月1日到该高校报道,到05年9月7日被该校退档,耽误我了2个多月时间,我是否就应该
+默默承担这种欺负人的做法?
+注,该校当时已经将北京市人事局接受函给我
+请各位帮帮我!!!!!!
+谢谢

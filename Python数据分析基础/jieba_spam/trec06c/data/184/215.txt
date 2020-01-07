@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <zhao@ccert.edu.cn>; Sun, 25 Sep 2005 19:54:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <zhao@ccert.edu.cn>; Sun, 25 Sep 2005 20:05:25 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 11:42:22 -0000
+From: "yuan" <yuan@mail.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Cc: <zhu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILG70ru49rK7z7K7trXEyMvPsru2yc+4w9T1w7Sw7A==?=
+Date: Sun, 25 Sep 2005 20:05:11 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+冷处理吧，如果他不能自拔，你们就总不能很平常的相处
+总有一天他能走出来，在这之前你可以尽量远离他，帮助他走出这段痛苦的即使不是他自己也不应该是你
+     我和他是同班同学，原来是比较好的朋友，但暑假他却向我表白，说已经喜欢我两年了。我那时拒绝了他，说我们只能作为朋友。可现在看来他好像越陷越深，而且很痛苦的样子，甚至会影响到他的生活和学习。请问我该怎么作，能不能化解他对我的喜欢，使他的生活恢复平静？
+     谢谢！

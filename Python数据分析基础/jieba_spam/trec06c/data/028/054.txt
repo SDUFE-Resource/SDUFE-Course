@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <jian@ccert.edu.cn>; Tue, 23 Aug 2005 01:12:53 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <jian@ccert.edu.cn>; Tue, 23 Aug 2005 01:26:11 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 17:20:48 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "yi" <yi@mail.tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+Cc: "tunet" <chen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILj2yMvK1cjrIFJlOiC7qs6q0+vW0NDLtcS21LHIW9eqzPld?=
+Date: Tue, 23 Aug 2005 01:22:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+极限编程？  哈哈
+     标  题: Re: 个人收入 Re: 华为与中兴的对比[转贴]
+     
+     我们老板那天给我们看了ms的大饮料柜的照片，每层楼都有
+     任喝。
+     以为华为也会有而已:P
+     华为可以夫妻2人在一起工作？
+     : 华为挺适合mm们的，有些学校氛围的味道
+     : 如果是单身mm，说不定还能找到自己的缘分。
+     : 里面做研发的也希望，能有几个mm，工作起来更有干劲：）
+     
+     --
+     
+       　道可道，非常道。名可名，非常名。
+     　　无名天地之始；有名万物之母。
+     　　故常无，欲以观其妙；常有，欲以观其徼。
+     　　此两者，同出而异名，同谓之玄。玄之又玄，众妙之门。                 
+     
+     

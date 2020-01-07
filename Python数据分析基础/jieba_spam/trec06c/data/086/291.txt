@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <huang@ccert.edu.cn>; Sun, 4 Sep 2005 23:28:25 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <huang@ccert.edu.cn>; Sun, 4 Sep 2005 23:40:11 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 15:27:42 -0000
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Cc: <yun@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILrayavQx8bawfk=?=
+Date: Sun, 4 Sep 2005 23:39:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+医者不自医
+     从周二开始家里人就陆续病了,截止到周四,除了我,大家都烧到39度以上了,然后周五我也毫不犹豫地加入了这个行列,FT. 
+     周五休息了一天,是因为周六要值班,周五周一都可以倒休,稍好点了,又呼哧呼哧跑去医院值班了. 
+     周六一开始看起来还是比较顺利,就是上午10点多鼻子突然出血了,取了棉球啥又躺了半小时就好了,然后一个上午收了两个病人...开检查、开药物、写单子，折腾到下午4点，病历还一个字木动呢。。。55 

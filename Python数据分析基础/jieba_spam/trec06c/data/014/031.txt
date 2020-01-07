@@ -1,0 +1,29 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <yun@ccert.edu.cn>; Fri, 19 Aug 2005 23:01:00 +0800 (CST)
+Received: (qmail 23946 invoked from network); Fri, 19 Aug 2005 15:11:14 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 19 Aug 2005 15:11:14 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "tan" <tan@jdl.ac.cn>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INbQufq7t76z0afRp7vhvLzK9dfJ0a/T683GueOyv9XQxrg=?=
+Date: Fri, 19 Aug 2005 23:15:22 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+中国环境学学会技术咨询与推广部，上级主管单位为国家环保总局、中国科学技术协会。
+因工作需要，中国环境学学会技术咨询与推广部现面向社会招聘市场营销人员，相关事宜如下：
+1．    应聘者应有市场营销或广告基础经验，中专以上学历；
+2．    招聘人数为2-3人；
+3．    薪金待遇：底薪+提成+奖金，详细情况面议。
+对此职位感兴趣人员，请于近期之内与我们联系，我们将尽快安排面试。
+联系电话：010－58836329
+Email： chianyhw2008@126.com
+学会相关信息请浏览www.chinacses.org。

@@ -1,0 +1,30 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <che@ccert.edu.cn>; Sun, 21 Aug 2005 17:27:00 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <che@ccert.edu.cn>; Sun, 21 Aug 2005 17:40:02 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 18:03:30 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: mo@126.com
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?ofEgv7TN6sbfvaPX7rTztcS40Mrc?=
+Date: Sun, 21 Aug 2005 17:34:44 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+“武”的内在精神的匮乏，只剩下一个花哨的无力的空架子。
+ 黄飞鸿之所以经典，在于它把中华武术的精、气、神淋漓尽致地发挥了出来，看完令人荡气回肠，热血沸腾。
+  而七剑，什么感觉呢？用weird这个词形容最恰当了，好像是视觉“享受”了，翻翻内心留下的感觉――血腥、恐怖、阴暗、恶心……一股脑儿全上来了。
+  不知道是巧合还是怎么的，碰巧自己生活中也认识几个练武的人，感觉和七剑很像，武功招式一流，接触下去却发现，为人和“阳刚”、“正气”一点关系都没有，更不用提“修为”了，呵呵，是自己太理想化了？

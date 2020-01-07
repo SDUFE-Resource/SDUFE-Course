@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFG0025934
+	for <lv@ccert.edu.cn>; Thu, 29 Sep 2005 20:42:40 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Thu, 29 Sep 2005 12:28:14 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "hu" <hu@mail.tsinghua.edu.cn>
+To: lv@ccert.edu.cn
+Cc: "Duan Haixin" <cao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+uw5snPtcR4ZGptuPi1472o0uk=?=
+Date: Thu, 29 Sep 2005 20:53:31 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+我目前在中科院读书，硕博连读，还有两年多才能毕业。女朋友在江苏上班。最近因为女朋友工作不顺心，加上两人长期分开，也不是办法，想过来北京工作。女朋友大学本科毕业，毕业院校是一个二流本科学校，计算机相关专业，英语六级。在江苏工作两年，工作性质是供电公司数据库维护和公司网络和硬件维护等等。想请教一下，如果过来找工作，从事哪方面的工作比较合适？在哪里有面向社会招聘的招聘会？请大家帮忙提供一些信息，谢谢！

@@ -1,0 +1,30 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7V1socv011928
+	for <cheng@ccert.edu.cn>; Sat, 3 Sep 2005 01:56:23 +0800 (CST)
+Message-ID: <200508310954.j7V1socv011928@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO malibotreasure) (malb03@166.111.203.148)
+  by localhost with SMTP; Fri, 2 Sep 2005 17:44:37 -0000
+From: =?gb2312?B?wu3A8rKo?= <ke@mails.tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILbBsqnSu8C0tdrSu7TO1ebV/dDEt7M=?=
+Date: Sat, 3 Sep 2005 02:08:50 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+Thread-Index: AcWI/xWUiTh2uxm6QWyTJ93ncFaG0Ak0M1Ug
+In-Reply-To: <321405761.05160@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+
+      编程序的确是一件痛苦的事情，编程序本来应该是高中生完成的事情，可是现在却要博
+     士研究生自己动手，模式就存在问题。大环境改变不了
+     说小问题吧。喝如果你就变成不敏感，还是提早放弃。这个我是见过很多先例的，拖到最
+     后很痛苦的。  不过我也见过一个硕士男，在软件公司干了半年才对变成突然开窍了。使
+     用期三个月的时候，几乎就迟退了，你自己会不会突然就对变成得心应手的了，你有你自
+     己才会知道。
+     最后的建议：博士既然读了，还是要坚持拿到学位。否则，会在你以后的发展的过程中造
+     成一遇到困难就放弃的这样的困境，而且每次都可能给自己找到一个理由。学位一定要拿
+     ，放在家里垫床腿就好了。
+     如果你特牛如gate，可以退学。
+这个，少了s，就是大门了，哈哈

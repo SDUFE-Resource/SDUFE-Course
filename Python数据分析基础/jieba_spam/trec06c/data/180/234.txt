@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <xin@ccert.edu.cn>; Sat, 24 Sep 2005 23:36:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <xin@ccert.edu.cn>; Sat, 24 Sep 2005 23:48:13 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 15:25:19 -0000
+From: "hu" <hu@mail.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Cc: <lin@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtPq3orzm1rDQxc+i0rvU8g==?=
+Date: Sat, 24 Sep 2005 23:47:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+招聘兼职人员
+主要工作：协助办公室各主管完成文件、图纸、合同的复印、分发、整理工作；临时行政事务。
+要求：1、大专以上学历，熟练使用word、excel办公软件；
+      2、每周至少工作3天（8小时/天），最短工作到12月底；
+      3、工作细致、态度认真，能较快地熟悉相关部门人员及工作流程。
+薪酬： 按天计算，40元/天，每月支付一次。
+办公地点：清华大学东门外，同方大厦
+联系人：姬梅（Email:jimei@nuctech.com,回复请注明"应聘兼职"） 
+（招聘截至2005.9.28）
+请不要联系本id

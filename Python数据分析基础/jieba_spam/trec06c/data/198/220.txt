@@ -1,0 +1,25 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <pan@ccert.edu.cn>; Wed, 28 Sep 2005 15:37:45 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Wed, 28 Sep 2005 08:00:39 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Wed, 28 Sep 2005 08:00:39 -0000
+Date: Wed, 28 Sep 2005 15:55:14 +0800
+From: "feng" <feng@csnet1.cs.tsinghua.edu.cn>
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx/O9zLj3zrujutT1w7SyxcTcsrvEx8O0uKHU6qO/?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+    毕业论文写了一些，实在是写不下去了，把那些相对容易写的东西写了，但是目前初稿还没写完，更是懒得去改，根本静不下心来。只想快点找个工作，赶快进入社会，这么多年一直呆在学校里实在是憋的慌啊。
+    自己的兴趣完全不在学术上，想去企业工作，可是不拿专业当敲门砖的话，不知道能找到什么样的其它工作，去外企基本也得从研发口进去吧？
+    几年下来锐气全无，这个研究生念的，唉。
+    对了，我是材料专业的，直搏的。 
+    各位XDJM对我目前的状况能不能提点建设性意见？
+    谢了！    
+一切以顺利毕业为中心！

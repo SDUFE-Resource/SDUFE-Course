@@ -1,0 +1,27 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <ma@ccert.edu.cn>; Fri, 26 Aug 2005 11:19:44 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 11:38:07 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 11:38:07 +0800
+Date: Fri, 26 Aug 2005 11:38:07 +0800
+From: qing@cernet.com
+Subject: =?gb2312?B?UmU6IMnZxa7KsbT6tcSwtcG1o6y40LavtcPIw8jL0MTNtA==?=
+To: ma@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+只要你能一直觉得这样就是幸福，你就是幸福的－－我的观点有些唯心
+但是谁敢保证呢。
+        “你，从来也没有认识过我的你。”
+          今天我又重新看了一遍《陌生女的来信》，听着琵琶的背景音乐，我也仿佛置身于对一段爱情的渴望与执迷中。
+          电影里有一句话让我很难忘怀，“这个世界上没有什么东西可以比得上一个孩子，暗中怀有的，不为人察觉的爱情，因为这种爱情不抱任何希望，低声下气，曲意逢迎热情奔放”

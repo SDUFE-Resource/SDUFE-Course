@@ -1,0 +1,42 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <cheng@ccert.edu.cn>; Fri, 16 Sep 2005 14:48:15 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <cheng@ccert.edu.cn>; Fri, 16 Sep 2005 15:04:50 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <cheng@ccert.edu.cn>
+	; Fri, 16 Sep 2005 15:04:50 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <cheng@ccert.edu.cn>; Fri, 
+	Fri, 16 Sep 2005 14:29:51 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "cheng" <cheng@njnu.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9eqzPldsci2+7jHtMS4+MfgxOq1xDExtePW0rjm?=
+Date: Fri, 16 Sep 2005 15:00:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+ 
+我在中华英才网上看到了比尔&amp;#8226;盖茨写给即将走出学校、踏入社会的青年一代的１１点忠告，给我这个在网上找工作的人挺有帮助，拿过来跟大家分享一下。 
+１．生活是不公平的，你要去适应它。 
+２．这个世界并不会在意你的自尊，而是要求你在自我感觉良好之前先有所成就。 
+３．刚从学校走出来时你不可能一个月挣６万美元，更不会成为哪家公司的副总裁，还拥有一部汽车，直到你将这些都挣到手的那一天。 
+４．如果你认为学校里的老师过于严厉，那么等你有了老板再回头想一想。 
+５．卖汉堡包并不会有损于你的尊严。你的祖父母对卖汉堡包有着不同的理解，他们称之为“机遇”。 
+６．如果你陷入困境，那不是你父母的过错，不要将你理应承担的责任转嫁给他人，而要学着从中吸取教训。 
+７．在你出生之前，你的父母并不像现在这样乏味。他们变成今天这个样子是因为这些年来一直在为你付账单、给你洗衣服。所以，在对父母喋喋不休之前，还是先去打扫一下你自己的屋子吧。 
+８．你所在的学校也许已经不再分优等生和劣等生，但生活却并不如此。在某些学校已经没有了“不及格”的概念，学校会不断地给你机会让你进步，然而现实生活完全不是这样。 
+９．走出学校后的生活不像在学校一样有学期之分，也没有暑假之说。没有几位老板乐于帮你发现自我，你必须依靠自己去完成。 
+１０．电视中的许多场景决不是真实的生活。在现实生活中，人们必须埋头做自己的工作，而非像电视里演的那样天天泡在咖啡馆里。 
+１１．善待你所厌恶的人，因为说不定哪一天你就会为这样的一个人工作。 
+ 

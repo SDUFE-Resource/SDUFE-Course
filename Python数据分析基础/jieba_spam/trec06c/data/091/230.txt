@@ -1,0 +1,22 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <liao@ccert.edu.cn>; Tue, 6 Sep 2005 07:41:18 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <liao@ccert.edu.cn>; Tue, 6 Sep 2005 07:53:35 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "xing" <xing@126.com>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfz1vrT0L6t0em1xG1tLM6qyrLDtLvh1eLR+T8=?=
+Date: Tue, 6 Sep 2005 07:53:27 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+女人的心就是难以捉摸。来世做男人

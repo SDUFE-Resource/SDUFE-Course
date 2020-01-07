@@ -1,0 +1,23 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2Qvx5029940
+	for <hong@ccert.edu.cn>; Sat, 20 Aug 2005 19:01:24 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A377.00010B.12784@m52.126.com>
+Date: Sat, 20 Aug 2005 19:14:07 +0800 (CST)
+From: "luo" <luo@126.com>
+To: hong@ccert.edu.cn
+Bcc: "xjhxf@263.net" <xjhxf@263.net>,"jmwhxf@sina.com" <jmwhxf@sina.com>
+Subject: =?gb2312?B?ofEgyb619LXEzsS8/ru5xNzP67Dst6i71ri0wvCjvyAo16rU2Ck=?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_bOPJtnjNRxiIvorDRthwNKQyQThj"
+
+【 以下文字转载自 Graduate 讨论区 】
+发信人: phicko (最熟悉的陌生人), 信区: Graduate
+标  题: 删掉的文件还能想办法恢复吗？
+哭死啊。。。
+非常非常重要的放了很多文件的文件夹，别我一不小心  shift ＋ delete 了
+这个。。。有高手知道还能想什么办法恢复吗？
+真是急死人了。。。
+以前在版上好像看到有人说过类似的问题，谢谢哪位大侠解救一把啊！！！

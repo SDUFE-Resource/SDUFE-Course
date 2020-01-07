@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <li@ccert.edu.cn>; Wed, 24 Aug 2005 03:00:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <li@ccert.edu.cn>; Wed, 24 Aug 2005 03:13:55 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 19:08:28 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "tu" <tu@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQw7vT0MjLvvW1w9fUvLqw1rDWutyyu7rDtcQ=?=
+Date: Wed, 24 Aug 2005 03:10:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我爸以前就是超级火爆脾气，工作能力那是没得说，就是太要强了
+后来就因为工作上的事情，精神出了一点问题
+不过万幸的是在我妈的精心照顾和他自己的转变下，现在已经康复了，脾气也好多了
+我在家的时候，我爸教训我我从来都是不还嘴，第一没用，第二怕气着他
+大学毕业了，才发现父亲当年啊也是很慈爱的，小时候常常带我散步，郊游，钓鱼，自己的很多兴趣也是我爸带出来的
+     就是说其实自己爸爸是个好人
+     但是在家里就脾气很差
+     我就真的有时候很讨厌他

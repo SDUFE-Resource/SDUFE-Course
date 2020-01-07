@@ -1,0 +1,46 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8542Gjk014940
+	for <yu@ccert.edu.cn>; Tue, 6 Sep 2005 21:20:36 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j853xQ7i048852
+	for <yu@ccert.edu.cn>; Tue, 6 Sep 2005 21:18:50 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j853xNkR048838
+	for <yu@ccert.edu.cn>; Tue, 6 Sep 2005 21:17:43 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050359.j853xNkR048838@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Tue, 6 Sep 2005 13:06:49 -0000
+Date: Tue, 6 Sep 2005 21:27:40 +0800
+From: "peng" <peng@mails.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j853xNkR048838
+Subject: =?gb2312?B?ofEg1KS3wNXr?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+可真稀奇。我们楼地下室住的一位妈妈告诉我去六郎庄卫生站，我今天就
+颠颠地骑车去办卡。好家伙，还真是一村庄，脏得可怕，我到家都还觉得
+难受。而且，还收费，我明明看见网上说基础免疫是免费的。我可不敢带
+孩子去那里。
+刚刚打中关村医院的电话，说基础免疫不要钱，但是要给我们量身高体重
+做抚触测神经发育，让我带200多过去。倒，赶紧说我们在日本做过一个月
+和三个月健诊。嗯，下周五早上过去打针。
+不知道传说中的小南庄是不是规矩又不一样了...中关村医院离我们新家最
+近，就那里得了。

@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <han@ccert.edu.cn>; Fri, 26 Aug 2005 17:53:41 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 18:12:04 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 18:12:04 +0800
+Date: Fri, 26 Aug 2005 18:12:04 +0800
+From: xie@cernet.com
+Subject: =?gb2312?B?UmU6IM7S1NrO5bXAv9rT9rW9tcTW0Ln6xq3X07rNzeK5+qGwwNe35qGx?=
+To: han@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+轴能拗断，那就不是轴了
+     今天在五道口被骗了。
+     是这样的，我从屈臣氏出来，正骑着车（16寸的折叠车），就被后面一个男人喊住，他说我的前轮在晃，然后声称自己是捷安特专卖店的，上来帮我检查。我心想，不错，遇到雷锋了，那就检查吧！2分钟内，他就把我的前轮解了，然后让我看前轴，居然已经断掉了！“多危险呀！如

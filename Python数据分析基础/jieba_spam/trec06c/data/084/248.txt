@@ -1,0 +1,30 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8431hfN008529
+	for <chen@ccert.edu.cn>; Sun, 4 Sep 2005 11:42:56 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM900833VWCO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Sun, 4 Sep 2005 12:00:38 +0800 (CST)
+Date: Sun, 4 Sep 2005 11:56:42 +0800
+From: =?gb2312?B?wre0utPq?= <chen@cernet.com>
+Subject: =?gb2312?B?UmU6IM/rx+u9zLDmyc+1xGpqo6zR276mvfzK07XEye62yMrHt/HT68bKuLnT0LnYz7U/?=
+To: chen@ccert.edu.cn
+Cc: "grey.wang" <zhuang@ccert.edu.cn>, swgui <zhao@ccert.edu.cn>,
+ zhaohonglin82 <li@ccert.edu.cn>
+Message-id: <0IM900834VWCO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_4iCo3BsWakluEN5O95QvqA)"
+
+zz
+摇篮宝贝主页
+专家问答
+ 
+ 深度近视是否应剖腹产     catherine-x 7/11/2001 1:22:00 PM
+        我已怀孕31周，最近听说患有深度近视的孕妇如果自然分娩易导致视网膜脱落，不知是否有这种危险？我近视800度，是否应采取剖腹产？
+ 摇篮专家 回答
+        分娩时第二产程需要用力屏气，如果方法得当的话，不会导致视网膜脱落。你在进入分娩室的时候要向医生讲清楚你的视力情况，向医生学习用力的方法。
+             听说眼睛近视度数太深不能使用爆发力
+             就得剖腹
+             是这样的吗？

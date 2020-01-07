@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <huang@ccert.edu.cn>; Wed, 24 Aug 2005 07:40:51 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <huang@ccert.edu.cn>; Wed, 24 Aug 2005 07:54:05 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 23:48:38 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "zhu" <zhu@mail.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztK1xL7F1MK33bCyxcU=?=
+Date: Wed, 24 Aug 2005 07:50:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+安排的满满的，呵呵，准备9月9号结婚，下个礼拜lg的父母就过来了，还带着lg弟弟2岁的儿子，很可爱的一个小孩就是有点吵，lg工作忙，陪他们游玩的任务就交给我了，期间我还要准备结婚的种种事情，包括买婚戒、订礼服、订酒席等等，好在我们打算简单办，9月18号我的爸爸妈妈过来，本来安排是他们10月份来，后来想想还是双方父母见一次面吧，毕竟是亲家了，大家共度中秋节，节后lg的父母回家，我和lg去度蜜月，其实是蜜周，因为时间太有限了，打算去香港迪斯尼乐园玩，因为亦舒，我对香港一直有一种很特殊的感觉，时间安排为9月21号到25号，或者24号，实在对不起爸妈，要他们自己在北京自得其乐，没办法
+回来后立马参加国庆文艺演出的最后彩排，或许还有一次球赛，当然9月份我每周至少两次的舞蹈排练，我都觉得自己好像把事情安排的太紧凑了，希望我都能顺利搞定，bless自己一个。

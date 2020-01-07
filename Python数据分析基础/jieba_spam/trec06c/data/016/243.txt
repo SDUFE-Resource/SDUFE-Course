@@ -1,0 +1,35 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <xin@ccert.edu.cn>; Sat, 20 Aug 2005 11:54:43 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <xin@ccert.edu.cn>; Sat, 20 Aug 2005 12:07:47 +0800 (CST)
+Date: Sat, 20 Aug 2005 12:02:04 +0800
+From: "peng" <peng@sohu.com>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuLzGy+PB98zlwabRp7ywz+C52Neo0rXLtsq/u/Kyqcq/?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+各位同学大家好，北京ATE（中国）公司是从事CFD软件销售和CFD相关行业工程咨询的外资企业。美国ATE公司于1996年成立在中国成立ATE北京办事处，将世界顶尖水平的工程CFD软件CFX引入中国。2004年成立ATE中国公司，同时开始推广多物理场强耦合求解软件CFD－ACE+。
+ATE中国公司现有软件包括：
+外流：mgaero、CFD－Fastran
+内流：CFD－ACE+、CFdesign、CFX
+优化软件：iSIGHT
+流程管理软件：Vdot
+因公司营业规模扩大，招聘技术支持工程师2名：
+职责：
+CFD软件的售前演示、安装、培训；
+半导体、MEMS、射频元件、电子散热等行业的多物理场分析工程咨询;
+航天、航空、动力机械行业的流体相关工程咨询；
+要求：
+计算流体力学及相关专业硕士或博士，理论基础扎实；
+有商用CFD软件应用基础，学习能力强；
+有工程背景经验（如航空、电子、动力机械行业）者优先。
+联系方式：
+sunjining@atechina.com
+010-65544907
+www.atechina.com

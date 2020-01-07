@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8SBi0E8029027
+	for <lu@ccert.edu.cn>; Fri, 30 Sep 2005 08:46:27 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SBtAlB017695
+	for <lu@ccert.edu.cn>; Fri, 30 Sep 2005 08:57:37 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 30 Sep 2005 00:31:53 -0000
+Message-ID: <000c01c5c423$728140e0$0c42423b@tunoc1a645037e>
+From: "lai" <lai@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztLDx7W9tde6z8rKwvCjvw==?=
+Date: Fri, 30 Sep 2005 08:57:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C466.808A4220"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+    彼此似乎深爱，但是时不时会为小事生气拌嘴。有点厌倦这样的生活，讨厌经常性的这样折腾。我们在待人接物上时常会存在分歧。他总觉得我幼稚，他确实比我经历得多，想事情比我周到。我也许也比较任性，很烦他用教训的口气和我说话。有时为了平息风波，像他道歉。他仍不依不饶要我检讨自己哪错了。他是好人，但是我很怕他以这样的态度对我，这样的次数多了，我都怀疑这是不是所谓的个性不合 
+    很快要见父母了，对这段感情突然丧失了些许安全感， 心里更加没底了

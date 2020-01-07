@@ -1,0 +1,50 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <pan@ccert.edu.cn>; Tue, 20 Sep 2005 00:50:51 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Mon, 19 Sep 2005 17:01:52 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Mon, 19 Sep 2005 17:01:52 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <pan@ccert.edu.cn>; Mon, 19 Sep 2005 10:12:49 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <pan@ccert.edu.cn>; Mon, 19 Sep 2005 12:10:15 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Tue, 20 Sep 2005 01:01:39 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <shi@motorola.com>
+To: pan@ccert.edu.cn
+Cc: cao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILL6vOzL+bz7o6GjoQ==?=
+Date: Tue, 20 Sep 2005 01:01:13 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+一般不会这么严重的，我见过的剖的都很轻松，也没什么后遗症
+我自己也是24小时就下床了，三天多就出院了，现在也没觉得哪儿不适
+     标  题: Re: 产检所见！！
+     
+     今天我家鬼的表妹来看孩子，
+     说起她的嫂子，也就是我们的表嫂，孩子比瑶瑶大一个月，
+     因为提前破水，羊水流光了不得不剖的，
+     在医院里住了十天，躺着不能动，一动就疼得要命，
+     还得喂孩子，换一个姿势要半个多小时才缓得过来...
+     现在脊椎上打麻药的地方总象漏风了一样凉嗖嗖的隐隐的疼
+     : 海妇也是想剖就剖的啊……不过还是建议顺产，我lp剖的痛苦死了，一直都想自己生，可惜条件不允许啊
+     
+     
+     --
+     朝露昙花，咫尺天涯，人道是、黄河十曲，毕竟东流去。
+     八千年玉老，一夜枯荣，问苍天、此生何必？
+     昨夜风吹处，落英听谁细数。九万里苍穹，御风弄影，谁人与共？
+     千秋北斗，瑶宫寒苦，不若神仙眷侣，百年江湖。
+     
+     

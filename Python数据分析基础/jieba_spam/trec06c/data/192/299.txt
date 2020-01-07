@@ -1,0 +1,52 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9wpWk007996
+	for <gu@ccert.edu.cn>; Tue, 27 Sep 2005 15:36:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QAAAcl020363
+	for <gu@ccert.edu.cn>; Tue, 27 Sep 2005 15:48:00 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 15:23:28 +0800
+Message-ID: <327727938.08832@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Tue, 27 Sep 2005 15:23:28 +0800
+From: mei@mail.tsinghua.edu.cn
+To: gu@ccert.edu.cn
+Date: Tue, 27 Sep 2005 15:23:28 +0800
+Reply-To: mei@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgob5TVFbGtbXAob+12sj91ty92sS/taWjqMrU0NCjqSAo16rU2Ck=?=
+Content-Type: text/plain
+
+【 以下文字转载自 STVNET 讨论区 】
+发信人: stvnet (清华大学学生网络电视), 信区: STVNET
+标  题: 【STV频道】第三周节目单（试行）
+学生网络电视现在通过vvsky和gridmedia提供了cctv-1 cctv-5 btv-6这些固定的电台，为了方便校内同学看到更多频道的电视节目，STV频道本周起将正式开始试运行。
+具体收看办法：
+点击学生清华视听媒体右部顶端的“电视转播”下的“Gridmedia”蓝色背景图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+　　1.选择“打开”(或者OPEN/RUN)等本地打开按钮直到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“教育电视频道2台”频道收看这场直播。
+　　2.选择“保存”(或者SAVE)等按钮保存到您的计算机上，运行保存下来的“Gridmedia学生网络电视版”程序，即可看到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gidmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“教育电视频道2台”频道收看这场直播。
+　　另外由于将从远处服务器以及一些动态的转发节点获得数据，所以在选择频道弹出windows media player播放器后，您会看到播放器下端将出现“正在连接到媒体...”字样以及后来的“缓冲 XX％”字样，此时请您耐心等待数据的接收。
+　　为保证您的收看效果，建议安装windows media player 8.0或以上版本。
+　　鉴于频道部刚刚开始工作，每天换台的次数还比较少，以后将逐渐丰富。如果您有想看的频道或者节目，请在水木stvnet版留言，或者发邮件至：stvnet@126.com。谢谢您的支持，并祝您收看愉快！
+                                                        学生网络电视
+9月27日（周二）
+12:00--19:00 凤凰电影台
+12:00 福建少林拳  
+13:30 凤凰午间影院: 群龙夺宝  
+15:15 害时出世  
+16:45 凤凰阖家欢: 潇洒先生  
+19:30--22:00 CCTV-9
+19:30    DIALOGUE 
+20:00    NEWSUPDATES+ASIATODAY 
+20:30    CULTUREEXPRESS 
+21:00    CCTVNEWS 
+22:00--  湖南卫视
+22:00创维新健康电视年度巨献――大长今 36、37
+9月28日（周三）
+12：00――17：30 凤凰中文台
+12:00 创维特约之锵锵三人行 
+12:55 张家口钻石实业特约之午间财经  
+13:30 潍柴动力凤凰大视野：非常电影 
+14:10 维维特约之2005中华小姐环球大赛--美丽前奏  
+14:15 金曲点播  
+14:20 合家欢剧场 妻子造反（19）  
+15:15 康明斯动力凤凰冲击播：芙蓉王特约：冷暖人生 
+15:55 完全时尚手册：皇朝

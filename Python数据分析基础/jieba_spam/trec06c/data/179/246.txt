@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <gao@ccert.edu.cn>; Sat, 24 Sep 2005 19:23:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <gao@ccert.edu.cn>; Sat, 24 Sep 2005 19:34:34 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 11:11:34 -0000
+From: "xin" <xin@mail.tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+Cc: <zhang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SvvW1w2xpbnV4s8m+zcHLsrvJ2cjLo6zSsrqmwcuyu8nZyMs=?=
+Date: Sat, 24 Sep 2005 19:34:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+王的linux没多牛啊。我认识一个退学的碰巧也是他们系的才是大牛呢，linux的应用编程和
+kernel hacking都很棒，以前在sun intern的时候写evolution，平时做什么事情都用emacs.
+不过他office也很熟，作的ppt是我见过最漂亮的。他退学是为了追随女朋友。老板很nice，
+跟他的关系现在也还很好。
+当然这样不是我们敬仰他的原因。我们敬仰他，主要是因为非典的时候有一次他值班跟人调换了
+没跟小组长某系团委书记，那个书记很掉说我没看见你就得再值一次，即使另一个同学过来确认
+换班了都不行。正当大家都义愤填膺的时候，他把手里杯子里的水往那个大爷脸上泼了过去。。。
+     linux给很多人提供了表现自己聪明才智的地方，让他们以自己能够驾驭
+     独特的工具而在周围圈子里赢得了诸多羡慕的目光，进而产生一种幻觉，
+     以为自己已经掌握了科学研究的能力和方法并对未来充满了自信，并把

@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3XRsq011198
+	for <weng@ccert.edu.cn>; Sun, 2 Oct 2005 00:11:23 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U3S2Fd080380
+	for <weng@ccert.edu.cn>; Sun, 2 Oct 2005 00:06:09 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U3RxnO080376
+	for <weng@ccert.edu.cn>; Sun, 2 Oct 2005 00:05:54 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 2 Oct 2005 00:18:19 +0800
+Message-ID: <328051624.14203@mails.tsinghua.edu.cn>
+Received: from 202.112.4.39 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 2 Oct 2005 00:18:19 +0800
+From: ye@mails.tsinghua.edu.cn
+To: weng@ccert.edu.cn
+Date: Sun, 2 Oct 2005 00:18:19 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM3G0dDLxLSmxfax2qOstPO80rj4ztKz9rP21vfS5bDJo6y40Lyksru+oQ==?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: ye@mails.tsinghua.edu.cn
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+切，我们那时计算机系的工程硕士名额也有好几个
+没人愿意去罢了
+工程硕士毕竟不如工学硕士，毕业找工作除非留在原单位
+不然没任何优势
+     你认为给他些时间打电话给家人商量一下就会把推研名额从80变到79了？
+     哈哈，小兄弟，你太年轻，被学校的老师一吓 ，就以为推研跟打仗是你死我活了
+     其实我们那年推研有些人本系没推上，后来都准备读博士了，结果计算机系放了几个

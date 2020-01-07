@@ -1,0 +1,27 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <che@ccert.edu.cn>; Tue, 16 Aug 2005 13:38:01 +0800 (CST)
+Received: (qmail 5448 invoked from network); Tue, 16 Aug 2005 05:48:48 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Tue, 16 Aug 2005 05:48:48 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "cen" <cen@jdl.ac.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrtPO80rDvztK/tNK7z8LV4tTy1dDGuNDFz6I=?=
+Date: Tue, 16 Aug 2005 13:52:47 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+主语严重有问题：“国家产业基地联合创新软件工程中心”
+后面留的联系方式是传新软件的，而本文的重点似乎是“国家产业基地”。
+google了一下，这个名词是一个通用名词，跟商品粮基地一个意思。
+慎重。
+     一个同学的弟弟今天晚上就要来北京参加这个培训了，可我总觉得是骗人的，征求一下大家的意见，谢谢！
+     国家产业基地联合创新软件工程中心接受德信集团委托进行软件开发工程师岗前培训。该集团是专业从事无线通讯终端产品开发的独立研发企业，是中国最大的手机研发基地，集团在北京建立了GSM和WCDMA手机的研发基地、在上海建立了CDMA的手机研发基地、在深圳建立了结构中心及
+     　　集团是中国第一家从事CDMA 1X手机开发的独立研发企业，并同时发展CDMA EVDO技术。在基于拥有我国自主知识产权的TD-SCDMA终端研发上也有一定的进展。

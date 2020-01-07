@@ -1,0 +1,32 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bkPe006750
+	for <zhuang@ccert.edu.cn>; Tue, 27 Sep 2005 22:33:35 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4j00838;
+	Tue, 27 Sep 2005 22:36:53 +0800
+Message-Id: <200509260741.j8Q7f4j00838@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 14:36:51 UT
+To: zhuang@ccert.edu.cn
+From: su@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvQobX3suldx+u498670dDT0bbgtuCw78OmIKO6LaOp?=
+
+1）您现在处于读研的哪个阶段？
+A：课程学习（一般可以认为是一年级的同学）
+B：科研阶段
+[B]
+2）您非节假日一般几点起床？
+A：7点左右，一般都是作息很规律的同学
+B：7:30左右，一般是为了上第一大节课
+C：8:00-8:50am，一般是为了9点钟去实验室工作 或者去上第二小节课
+D：9点半左右，一般是为了上第二大节课
+E：超过10点，一般是熬夜过度......
+[a]
+就这两个问题，谢谢大家啦 ：-）
+     1）您现在处于读研的哪个阶段？
+     A：课程学习（一般可以认为是一年级的同学）
+     B：科研阶段

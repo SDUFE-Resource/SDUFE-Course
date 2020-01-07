@@ -1,0 +1,40 @@
+Received: from hotmail.com (bay9-f13.bay9.hotmail.com [64.4.46.117])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E3dVC4024093
+	for <ma@ccert.edu.cn>; Wed, 14 Sep 2005 21:00:53 +0800 (CST)
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	Wed, 14 Sep 2005 06:12:42 -0700
+Message-ID: <BAY9-F13DCF915AAD1C8AC2ACE8AB09F0@phx.gbl>
+Received: from 63.215.198.21 by by9fd.bay9.hotmail.msn.com with HTTP;
+	Wed, 14 Sep 2005 13:12:42 GMT
+X-Originating-IP: [219.238.94.8]
+X-Originating-Email: [longchuanok@hotmail.com]
+X-Sender: longchuanok@hotmail.com
+From: =?gb2312?B?wfogtKg=?= <yan@hotmail.com>
+To: ma@ccert.edu.cn
+Bcc: 
+Subject: =?gb2312?B?ofEgSUJNuavLvry8yvXVvcLUvNItIEJvYiBQYXR0ZW7H5buqvLzK9b2y1/kgKNeq1Ngp?=
+Date: Wed, 14 Sep 2005 21:12:42 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312; format=flowed
+
+【 以下文字转载自 DCST.THU 讨论区 】
+发信人: sasimi (刺身), 信区: DCST.THU
+标  题: IBM公司技术战略家- Bob Patten清华技术讲座 
+日程安排： 
+时间: 2005年9月16日 下午 2:00 - 3:30 
+题目: 如何采用基于组件的开发模型 
+地点：清华大学信息科技技术大楼 1区 312
+主办单位:清华大学信息学院、清华大学计算机系研究生会、IBM中国软件开发实验室、
+IBM大学合作部 
+内容概要 
+组件化开发是模块化软件开发环境中架构设计、开发、测试与公共组件部署等各个环节
+的技术延伸，这些组件可以通过组装从而实现在IBM产品间以及与合作厂商产品之间的
+有效重用。该开发模型满足了随需应变业务中对模块化和适应性的需求。本次讲座主要
+讨论组件开发技术以及如何促使一个团队向基于组件的开发模式进行转变。 
+演讲者简介 
+Bob Patten 是IBM软件部负责组件化的首席架构师，致力于倡导组件建模的方法。他主
+要负责IBM软件部组件模型及其相关工具的开发。Bob是具有相关认证的IT专家，而且是
+IT专家委员会成员。加入IBM之前，Bob是一位独立咨询专家，主要擅长于电子商务应用
+的开发，创立了多个基于Java的framework。他在C/C++编译器实现、动态代码分析工
+具、测试工具和测试自动化、财经政权管理等方面具有20多年的从业经验；曾经从事过
+MVS、VM和各种Unix的系统及应用开发工作。 

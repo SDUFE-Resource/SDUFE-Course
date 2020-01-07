@@ -1,0 +1,28 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <xu@ccert.edu.cn>; Fri, 2 Sep 2005 09:46:11 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 09:49:03 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 09:49:03 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 09:49:03 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 01:42:26 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 09:34:36 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 09:34:36 +0800
+From: bai@mails.tsinghua.edu.cn
+To: xu@ccert.edu.cn
+Cc: hou@ccert.edu.cn
+Date: Fri, 2 Sep 2005 09:34:36 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7K0ruyv8DPtefTsLXEw/vX1g==?=
+Content-Type: text/plain
+
+天呐，你勾起了我童年的记忆，我清楚地记得上幼儿园的时候阿姨领着小朋友一起看的这部片子，可惜名字不知道，当时好像就不知道。
+     应该师印度的
+     一小孩小时侯坐车出车祸 家里人都死了 他被一只大象救了 他长大了有钱了拿那只大象当最好的朋友养着 后来他结婚生了小孩  他老婆老害怕大象把他儿子睬死 老让他杀了那只象他一直不肯 后来因为一场误会 大象要救他儿子 他以为大象要踩他儿子 结果拿枪要杀大象 再后来我忘了 反正是大象最后死了 他也知道误会大象了 做个个大象的雕像纪念它

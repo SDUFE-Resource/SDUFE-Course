@@ -1,0 +1,18 @@
+Received: from 126.com (m31-133.126.com [220.181.31.133])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J75q0T013568
+	for <wua@ccert.edu.cn>; Mon, 19 Sep 2005 22:57:49 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <432E6604.000001.17409@m53.126.com>
+Date: Mon, 19 Sep 2005 23:09:15 +0800 (CST)
+From: "zheng" <zheng@126.com>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMLowujD98zszuXKrrTzytmjrMvNyrLDtLrDxNijvw==?=
+X-Priority: 3
+X-Originating-IP: [222.82.99.210]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_dWFwKhpsewyHFiGQuvVCIinSzqmA"
+
+     我在北京上学，只能托在家那边的同学帮忙买了送过去，
+     但是送什么好呢？妈妈肯定不喜欢我乱花钱买太贵重的东西，
+     最好是使用且有意义的，而且要方便当地购买，
+  我

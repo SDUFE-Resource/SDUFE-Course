@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <hua@ccert.edu.cn>; Sun, 21 Aug 2005 15:08:48 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <hua@ccert.edu.cn>; Sun, 21 Aug 2005 15:22:02 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 14:50:43 +0800
+Date: Sun, 21 Aug 2005 15:21:53 +0800
+From: "liu" <liu@wnt.com.cn>
+To: hua@ccert.edu.cn
+Cc: "lic" <chi@ccert.edu.cn>, "sunt" <wu@ccert.edu.cn>, "caoy" <lei@ccert.edu.cn>,
+        "wangb" <han@ccert.edu.cn>, "songhm" <liu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfyzOzT1tf2wcvSu7z+ybXKwrb5?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+GOD!命不好，遇到这样的人。

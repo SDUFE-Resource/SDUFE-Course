@@ -1,0 +1,45 @@
+Received: from aryasec.com ([218.1.92.40])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J5nswI015469
+	for <pan@ccert.edu.cn>; Mon, 22 Aug 2005 02:58:15 +0800 (CST)
+Message-ID: <200508191349.j7J5nswI015469@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?sLLR1NfJ0a8=?= <kang@aryasec.com>
+Subject: =?gb2312?B?ofEg0dC+v8n6v86zzL3pydyjraOt0d27r7zGy+O8sMbk06bTww==?=
+To: pan@ccert.edu.cn
+Content-Type: multipart/mixed;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";charset="GB2312"
+MIME-Version: 1.0
+Reply-To: kang@aryasec.com
+Date: Mon, 22 Aug 2005 03:14:55 +0800
+X-Priority: 2
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+欢迎选修《演化计算及其应用》（80220152）
+课程简介：研究生选修课，2学分，32学时，秋季学期开设，周二第三大节（1:30)6A105。
+教师：于歆杰，yuxj@tsinghua.edu.cn，西主楼1区308，71944。
+教学内容：
+课程介绍，Genetic Algorithms简介 (L1)
+GA搜索能力的改进1 (L2)
+GA搜索能力的改进2 (L3)， 
+GA中如何处理约束 (L4) 
+GA求解多峰优化问题(L5) 
+GA求解多目标优化问题(L6) 
+Genetic Programming和演化硬件(L7)
+组合优化1(L8)
+遗传算法与其他软计算方法(L9)
+基于邻域的全局优化算法(L10)
+人工免疫系统(L11)
+群体智能系统(L12)
+其余4次课为学生综述和讨论
+成绩评定：
+方案1：1次综述（20分）＋2次数值作业（30分）＋课程论文（40分）＋对其他同学课程论文的同行评议（10分）
+方案2：综述（30分）＋5次数值作业（50分）＋对其他同学课程论文的同行评议（20分）
+鼓励采用方案1。
+为什么要选修这门课：
+3个理由。
+（1）演化计算是当前比较流行的现代人工智能方法。除此之外，本课程还涉及蚂蚁系统、机器学习、人工神经网络、人工生命、免疫系统等相关领域的热门话题。凡是论文涉及优化和学习的同学均值得选修。
+（2）课程的课堂教学不仅传授知识，更侧重传授知识发现的过程。毕竟同学们未来应该更着眼于发现知识而不仅是应用知识。
+（3）课程的教学体系覆盖了初涉一个研究领域所需的几个基本环节（数值实验、综述、研究并撰写论文、撰写同行评议），你可以从中体会进行研究的过程、快乐与痛苦。
+为什么不选修这门课：
+2个理由。
+（1）比起传统的讲授型的课程，本课程更强调交互性。你需要在课堂上积极思考，课下看好多书和文章。上起来比较辛苦。
+（2）课程需要完成若干数值作业或论文，会占用一定的时间。当然完成后收获会很大。

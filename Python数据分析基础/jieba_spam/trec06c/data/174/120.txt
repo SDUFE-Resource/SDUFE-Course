@@ -1,0 +1,22 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LB1j4t031254
+	for <gong@ccert.edu.cn>; Fri, 23 Sep 2005 19:58:19 +0800 (CST)
+Message-ID: <200509211901.j8LB1j4t031254@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO dfder-09mhatbya) (xy-liu04@166.111.53.221)
+  by localhost with SMTP; Fri, 23 Sep 2005 12:06:12 -0000
+From: "you" <you@mails.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C5=A3=BD=CC=CA=DA=B5=C4=B1=A8=B8=E6=BB=C3=B5=C6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon583675477154_====="
+Date: Fri, 23 Sep 2005 20:11:11 +0800
+
+建馆      《项目管理》      53（1-8周）  教师：张涵
+核研      《博弈论》        12           教师：孙永广
+人文学院  《教育管理专题》  26           教师：王战军
+人文学院  《国际战略分析》  34           教师：刘江永
+人文学院  《文化人类学理论》32           教师：张小军
+人文学院  《环境理论学》    14                 韩立新
+人文学院  《城市社会学》    23                 刑幼田

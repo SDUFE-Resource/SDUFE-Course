@@ -1,0 +1,34 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <hu@ccert.edu.cn>; Tue, 30 Aug 2005 22:45:17 +0800 (CST)
+Received: (qmail 18809 invoked from network); Tue, 30 Aug 2005 14:57:00 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Tue, 30 Aug 2005 14:57:00 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "wen" <wen@jdl.ac.cn>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjjUwjMxyNW5pNf3vMfCvA==?=
+Date: Tue, 30 Aug 2005 22:59:18 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+报失：
+张洋    62775824      书包：黑色单肩，内有棕色钱包(研究生证，身份证，银行卡)；
+                      丢失时间：8-30晚上；丢失地点：10#东棚
+邓澍军  13811847669   雨伞：绿色，丝状边；丢失地点：五教
+宋玉栋  13521451797   钥匙：四把房门钥匙，一把车锁钥匙，两把小钥匙，一个指甲刀;
+                      丢失时间：8-31上午8:30左右；丢失地点：十食堂附近  
+王鹏    62780007-801  钱包：黑色，内有餐卡两张；
+                      丢失时间：8-30晚
+孙娅楠  13810718258   钱包：红色条纹布质钱包，内有学生证（生物系），身份证等；
+                      丢失时间：8-31，14:30；丢失地点：主楼二楼
+送交：
+好心人     计算器   
+领取：
+韩松       计算器

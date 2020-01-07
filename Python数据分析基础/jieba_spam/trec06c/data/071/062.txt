@@ -1,0 +1,27 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <xin@ccert.edu.cn>; Fri, 2 Sep 2005 10:47:43 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Fri, 2 Sep 2005 11:19:12 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Fri, 2 Sep 2005 11:00:17 +0800
+From: "zhou" <zhou@mail.nisac.gov.cn>
+Reply-To: zhou@mail.nisac.gov.cn
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?ofEgy7XSu8/C1+69/L+0tcS8uLK/xqywyQ==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+《罪恶之城》：暴力美学发挥的很好，黑白片混彩色的画面很有视觉冲击力，人物造型漫画、独特（我喜欢里面那个大块头，一举一动都很搞笑的感觉），性感美女多多，镜头语言也像电影，结构巧妙（像《低俗小说》）
+《地狱男孩》：不怎么样，那个hellboy看不出来他有什么过人的本事，爬个墙都超费劲，就是有一双石头做的手而已，还不如人鱼呢，就是造型还比较搞笑类似《大话西游》里的孙猴子还
+《黑洞频率》：虽然看明白它说什么了但是觉得情节上还是有漏洞。有一个情节差点让人感动但好像还是欠一点点火候。
+《杜玛》：小豹子，超极可爱，小男孩也很帅，《走出非洲》的风格
+《兵临城下》：感觉后面的什么《大兵瑞恩》都是学这部片的。莎士比亚也在这部片当个第二男主角，感叹要是和平男代女主角绝对会选这样高学历的工作稳定的会照顾女生的男生的。不过要是选他也就不是电影了。唯一的一段床戏还好，要是现在可以改在厨房、公车什么的，不过他是在很多人的营房里。
+《十一、二罗汉》：烂到掉渣啊，看过没感觉，我想想。。。有啥记忆深刻的情节没。。。好像没有啊
+《逃出克隆岛》飞车动作很棒。看过也引人深思，真的是让人想到了生命的终极意义。还有不晓得那些人逃出来以后会如何生活。

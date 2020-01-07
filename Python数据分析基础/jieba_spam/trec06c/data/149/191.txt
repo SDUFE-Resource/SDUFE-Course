@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <tang@ccert.edu.cn>; Sun, 18 Sep 2005 03:49:25 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <tang@ccert.edu.cn>; Sun, 18 Sep 2005 04:01:14 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 19:41:56 -0000
+From: "guo" <guo@mail.tsinghua.edu.cn>
+To: tang@ccert.edu.cn
+Cc: <lv@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx6fN8rK70qrP4NDF1LW31g==?=
+Date: Sun, 18 Sep 2005 04:01:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+     一个很偶然的机会，我进入了北语，碰到了一个女孩，一个让我觉得特别的女孩。她在学自行车。
+     第二天晚上，我再次进入北语，这次不是偶然，我故意去的。不算偶然地，我又一次见到了她。那个晚上很美好，我骑着车，陪着她在北语的校道上歪歪斜斜地徘徊着.......
+     送她回到楼下，我问：明晚你还来吗？她说：不知道呀。然后她问我：你每天晚上都来吗？我说：也许吧。
+     我相信缘分，所以我在那个晚上一直都没有要她地手机号码，就连姓名也没有问。因为我相信，缘分能让我们见面的。不急。
+     可惜呀，不要相信缘分。这几天来，我都快把北语走烂了，西校门南校门的门卫一见到我就要查我证件不让我进了，可是，她，好像在人间蒸发了一样。现在我是急疯了。
+     

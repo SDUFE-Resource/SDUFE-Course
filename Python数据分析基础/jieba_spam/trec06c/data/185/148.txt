@@ -1,0 +1,42 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdWEc032356
+	for <wang@ccert.edu.cn>; Sun, 25 Sep 2005 23:56:37 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 00:12:19 +0800
+Message-ID: <327652915.11497@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Mon, 26 Sep 2005 00:12:19 +0800
+Message-ID: <000201c5c1cf$bb5d1d80$0301a8c0@CCERTDAWEI>
+Reply-To: "qiu" <qiu@ccert.edu.cn>
+From: "qiu" <qiu@tsinghua.org.cn>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvqvToiBJbnRlbMurx7+08tTsy6u6y8urz9QgyKu5+tGy1bmh8sflu6rVviAo16rU2Ck=?=
+Date: Sun, 25 Sep 2005 21:12:20 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+【 以下文字转载自 THUExpress 讨论区 】
+发信人: Aimartin (AppleSapient), 信区: THUExpress
+标  题: 精英 Intel双强打造双核双显 全国巡展◎清华站
+发信人: Aimartin (AppleSapient), 信区: THUInfo
+标  题: 精英 Intel双强打造双核双显 全国巡展◎清华站
+好事成双！精英 Intel双强打造双核双显
+全国14所高校巡展    清华站
+活动时间：      2005年9月27日
+户外活动：      上午10：00―17：00              （十食堂小树林）
+晚间体验：      晚上19：00―21：30              （蒙民伟楼）
+感受双核计算机平台的极致魅力，见证双显系统的视觉冲击――
+精英、Intel，为您带来国际一线的IT之音
+现场CSpk大赛,mm参加更有特权~:)精彩个人展现
+丰富多样的精美奖品,参加有奖 ！
+现场将有丰富精美礼品奉送――
+  时尚MP3、学习机、时尚背包和腰包、运动水壶
+  ECS 和小熊在线精美T恤、可爱大头娃娃玩偶
+ 更有机会获得--
+      精英945P-A主板、讯景（XFX）显卡

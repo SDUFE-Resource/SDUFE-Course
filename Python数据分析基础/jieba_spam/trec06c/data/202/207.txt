@@ -1,0 +1,38 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <long@ccert.edu.cn>; Thu, 29 Sep 2005 07:19:20 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 23:30:31 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 07:30:30 CST
+Date: Thu, 29 Sep 2005 07:30:30 +0800 (CST)
+From: liang ming <wei@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgxa7J+rW9tdfX9sqyw7SyxcTctbHV5sTYo78=?=
+To: long@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+嗬嗬，最近碰到了个案例
+大家来分析一下
+一个gg，一个mm
+事例一：
+晚上我们三个在一起，后来那个gg开车送我回家，走的时候，那个mm关切地问那个gg，你送他回去了还来么？
+事例二：
+很多人在一起吃饭，那个gg躺在mm的床上看书，那个mm不介意
+事例三:
+我们一起去游泳，那个mm和那个gg一直在一起，期间那个mm的泳装似乎出了点问题，要那个gg帮忙系，系了很久，搞得我们另外的人，都不敢靠近
+我们都以为这两个人很到位了
+后来才知道，这个gg在追这个mm
+mm现在开始逃避
+躲着不见
+我们周围的人就不解了
+说你都这样做了，给了很多信息啊
+她说这不算
+我就纳闷了，问她，什么才算数呢？
+她说，她也不知道
+这个mm不属于很开放的那种

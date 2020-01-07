@@ -1,0 +1,27 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <yan@ccert.edu.cn>; Fri, 26 Aug 2005 11:46:09 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 12:04:32 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 12:04:32 +0800
+Date: Fri, 26 Aug 2005 12:04:32 +0800
+From: ma@cernet.com
+Subject: =?gb2312?B?UmU6INK7tePQocrCx+mjrNX3x/PSu8/Cv7S3qA==?=
+To: yan@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+我爸去世了，但我想如果有一天有个叔叔愿意和我妈妈做伴，我会很高兴，
+并且，我觉得如果他主动提出去我爸爸的墓地，我和我妈妈都会很感动的。
+你知道，
+你说的那个阿姨能提出去你妈妈的墓地说明愿意去理解你爸爸对亡妻的思念，
+对一个女人来说，很不容易，我想，你拒绝她不合适。

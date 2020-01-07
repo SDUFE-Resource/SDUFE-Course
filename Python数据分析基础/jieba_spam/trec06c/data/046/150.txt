@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <bi@ccert.edu.cn>; Sat, 27 Aug 2005 03:03:27 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 03:21:47 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 03:21:47 +0800
+Date: Sat, 27 Aug 2005 03:21:47 +0800
+From: gan@cernet.com
+Subject: =?gb2312?B?UmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0=?=
+To: bi@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+“华为很多刚去的，要猛学东西，所以自己加班多。”
+要加班的并非因为刚去要猛学东西，华为大大小小那么多项目，每到产品发布等关键
+时期，加班是天经地义的，即时平时的缓和阶段，加班也是要有的，否则绩效考核起来：
+“这个项目怎么加班率这么低？是不是人手安排的太充足了？”就要给你减人了。
+不知这是不是企业文化的一部分。
+     每天法定加班到9点（没有加班费），周六是法定加班日。说白了就是一周六
+             天工作，每天12小时。
+     上面这句完全是谣言。

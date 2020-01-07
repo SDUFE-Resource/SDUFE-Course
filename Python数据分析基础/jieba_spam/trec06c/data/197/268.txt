@@ -1,0 +1,24 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <tan@ccert.edu.cn>; Wed, 28 Sep 2005 12:19:41 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <tan@ccert.edu.cn>; Wed, 28 Sep 2005 11:40:00 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "fu" <fu@cert.org.cn>
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzhvvbFxMvAzfXb89Xi0fnN/Lb3uLrS5bXEsNfR28DH?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Wed, 28 Sep 2005 12:25:39 +0800
+
+他说的情况存在他说的就是对？这是什么逻辑？
+那我指着一只猪说这是一头牛也对啦，因为世界上就是有牛嘛。
+而且，恰恰好我知道一些他的那篇论文，关于斯坦纳树的构造。他说事实上电路里的线网都没那么大所以他的研究没有意义根本就是胡扯。一个电路里的普通线网是不大，但是电源线地线跟时钟线是几乎所有单元，或者时序单元都有的，大得很，一个线网有几万几十万个引脚慢得算法要几十几百个小时，快的几分钟几十分钟而已。设计时钟线网的时候还要有很多个叠代循环，你说有用没用。
+不过这不代表他的那篇文章牛，嘿嘿，我还是不说啥了。
+     他说的凑paper数量,论文与实际应用脱节,为了发paper而发paper这些情况都是存在的,
+     是应该引起注意并有所改变的,怎么能说没有任何可取之处呢.
+     不知你是不是认为这样的现象是正常的,理所当然的.

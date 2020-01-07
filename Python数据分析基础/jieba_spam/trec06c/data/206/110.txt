@@ -1,0 +1,25 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <fu@ccert.edu.cn>; Thu, 29 Sep 2005 22:29:43 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 14:40:53 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 22:40:53 CST
+Date: Thu, 29 Sep 2005 22:40:53 +0800 (CST)
+From: liang ming <li@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+To: fu@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+：2,ieee,sci的期刊中国人占得还很少,如果真是全是中国人得了, 显然是成为科技强国的重要指标, 至少因为说明研究得到很多支持.
+嘿嘿，这是你们的理想阿，灌水。可是人家不让你们灌阿。所以我说就算给你们灌水证，让ieee发一个“中国年专版”，也无法从实质上提高科研的能力阿。像“它”那样做点副业，拉拉linux的人气，好像更实际点吧。
+阁下好像对IEEE很不以为然，但是请问阁下，中国一年能在IEEE TRANS.上发几篇文章呢？IEEE上发文章的多少，客观上可以说明研究的水平。至于LINUX的人气，那是更实际的问题，跟学术研究无关。
+     终于可以探讨帖子的“学术”问题了。
+     ：1,讨论的论点不是用word和ppt更有学术气质或者用linux和latex更像搞研究,而是说
+     ：  用什么工具与研究无关. (btw:我用Latex和ppt)

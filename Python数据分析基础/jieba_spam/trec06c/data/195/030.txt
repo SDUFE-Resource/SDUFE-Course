@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <tan@ccert.edu.cn>; Wed, 28 Sep 2005 00:32:09 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 16:43:19 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 00:43:19 CST
+Date: Wed, 28 Sep 2005 00:43:19 +0800 (CST)
+From: liang ming <luo@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILn6zeKyqcq/uvMgdnMuILn6xNrN4sbz0dC3ojI1zfI=?=
+To: tan@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+大势就是生活越来越不容易，我都怀疑中国再过几年会不会乱
+     你老婆如果是比较好的商学院，在美国找到faculty很容易，起薪10万美元/年不成问题，finance很热门的。
+     但似乎你的专业在美国不是很好找faculty工作的，即使5年以后做到faculty，收入也有限，就是个7万、8万美元/年吧，这样的话，两个人的差距会越拉越大。。。。。
+     你显然去工业界更好，两个人同在学校不好，特别当男方专业比较冷的时候。。。

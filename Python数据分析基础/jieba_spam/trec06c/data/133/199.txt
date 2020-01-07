@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <lai@ccert.edu.cn>; Thu, 15 Sep 2005 03:38:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <lai@ccert.edu.cn>; Thu, 15 Sep 2005 03:50:30 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 19:33:03 -0000
+From: "jian" <jian@mail.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Cc: <sun@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMjV0++z9by2sOCjrcPit9G9sdGnvfCw4LGow/vNqNaqICjXqtTYKQ==?=
+Date: Thu, 15 Sep 2005 03:50:25 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+这个课哪个大侠给介绍一下怎么回事？
+什么叫“免费奖学金”班？最后课程要考核吗？怎么算通过不通过的？有没什么证书之类的？
+这个课程和正规选课时候选的二外日语有什么区别？学校为啥那么好心只收报名费？
+多谢多谢啦！
+     【 以下文字转载自 CampusInfo 讨论区 】
+     发信人: fascforever (闲看落花), 信区: CampusInfo
+     标  题: 日语初级班－免费奖学金班报名通知

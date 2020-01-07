@@ -1,0 +1,84 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EEiS1q009384
+	for <kong@ccert.edu.cn>; Wed, 17 Aug 2005 21:07:22 +0800 (CST)
+Message-ID: <200508142244.j7EEiS1q009384@spam-gw.ccert.edu.cn>
+Received: from pisclubjhb (unknown [219.238.168.2])
+	by smtp4 (Coremail) with SMTP id RkBfofVb_0IPEu83.1
+	for <kong@ccert.edu.cn>; Wed, 17 Aug 2005 21:20:51 +0800 (CST)
+X-Originating-IP: [219.238.168.2]
+From: "ke" <ke@126.com>
+To: kong@ccert.edu.cn
+Cc: <xie@ccert.edu.cn>,
+	<jiang@ccert.edu.cn>,
+	<ding@ccert.edu.cn>,
+	<xiao@ccert.edu.cn>,
+	<hong@ccert.edu.cn>,
+	<shi@ccert.edu.cn>,
+	<chi@ccert.edu.cn>,
+	<cao@ccert.edu.cn>,
+	<sun@ccert.edu.cn>,
+	<lv@ccert.edu.cn>,
+	<zhou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgU09IVSBSJkQgQ2VudGVyIEhJUklORw==?=
+Date: Wed, 17 Aug 2005 21:21:14 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5A123.AB2C1F50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWg2iclErE9vEwpQUuF46XqYTUSdgABkatA
+In-Reply-To: <42FF5137.0076B3.03512>
+
+Sohu公司
+搜狐公司（NASDAQ:SOHU）是中国最领先的新媒体、电子商务、通信及移动增值服务公司
+，是中文世界最强劲的互联网品牌。
+从2003年底开始至今，搜狐已成为以中国最领先的门户网站www.sohu.com、华人最大的青
+年社区www.chinaren.com、中 国最大的网络游戏信息和社区网站www.17173.com、北京最
+具影响力的房地产网站www.focus.cn、国内领先的手机WAP门户www.goodfeel.com.cn、第
+三代搜索引擎搜狗网www.sogou.com、国内领先的地图服务网站图行天www.go2map.com等
+七大门户网站为主体架构的中文世界最大的网络资产。
+Sohu R&amp;D Center
+Sohu R&amp;D Center 创立于2003年，目的在于研究和开发前沿的互联网技术产品，同时致力
+于成功研发产品的市场化运作。我们提供有竞争力的薪酬待遇，宽松的工作环境，无限的
+机遇挑战、和广阔的成长发展空间。张朝阳博士对于技术的一向重视和公司技术驱动的战
+略保证了Sohu R&amp;D Center的卓然地位和长期发展。
+---------------------------------------------------------------
+招聘职位：项目产品助理
+Project/Product Assistant Manager
+全兼职：全/兼
+职责描述
+支持软件项目的开发进度和开发管理。
+能力要求
+1.      熟练掌握Office 软件，能编写简单网页。
+2.      有基本的软件开发和版本管理知识。
+3.      一定的英文读写能力。
+4.      勤奋好学，有较强的沟通能力和敬业精神。
+5.      有项目支持或管理经验者优先。
+6.      兼职能保证每周25小时以上的工作时间。
+薪资范围
+3k-6k
+---------------------------------------------------------------
+招聘职位：软件开发工程师，资深软件开发工程师 
+Software Engineer、Senior Software Engineer
+职责描述
+网络相关的Client/Server软件开发，在Leader的指导下完成代码实现和文档编撰的工作
+。独立的设计和实现类和小的模块，并根据相应开发流程给出详备的文档。
+全兼职：全/兼
+ 
+能力要求
+    1.    熟练掌握C++编程(unix/vc均可)，最好熟悉atl/mfc/ace/stl等框架类库中至
+少一种。
+    2.    有Socket编程经验，对tcp/ip协议有充分理解。
+    3.    熟练的资料检索技能，熟悉MSDN/SF.NET/...的使用。
+    4.    具有软件工程意识，对开发文档的编写有一定经验。
+    5.    良好的沟通能力、团队协作精神、敬业精神。
+6.      有一年以上大型项目经验。
+7.      兼职能保证每周30小时以上的工作时间。
+薪资范围：4k-12k。
+---------------------------------------------------------------
+招聘职位：软件开发架构师/研究员
+Software Architect/Researcher
+职责、能力及薪资范围均面议。
+---------------------------------------------------------------
+联系方式，hr@sohu-rd.com
+请附上简历，同时欢迎用任何其他简洁的方式自我证明。

@@ -1,0 +1,37 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <mei@ccert.edu.cn>; Thu, 29 Sep 2005 17:20:57 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 09:32:08 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 17:32:07 CST
+Date: Thu, 29 Sep 2005 17:32:07 +0800 (CST)
+From: liang ming <kang@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INLysqG3tca2o6zT0NK9wcbM5c+1tcTOyszio6zSstPQu7zV37G+ye2yobXE0vLL2KO6?=
+To: mei@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+     标  题: Re: 因病返贫，有医疗体系的问题，也有患者本身病的因素：
+     
+     不太懂原理，大概是社会学范畴，要看zf的定义。
+     zf的存在就是要在个人力量难以发挥作用的领域做一些事情，如果都把压力放在个人和家庭身上，花那么多税钱养它干吗呢？
+   关键是做什么个人力量难以发挥作用的事情。zf应该做的是符合绝大多数人利益的事情
+当然这个看病的事情，是否大多数人都不同意用自己的税去治还有待讨论
+     至于中医，我持保留态度。为什么一直不被人承认？因为它自己始终不建立体系，也没有可靠的数据来证明其有效性和毒性（中药没毒吗，不可能）。自己搞得很神秘的样子，当然有人不敢去相信。
+     
+中医俺不懂，不过似乎中医的药方都是实践的来的，非要过去几千年的经验还要有数据
+报告，有点机械了吧。神秘不神秘俺不知道，不过不懂的东西就说是神秘。。。
+另外，能治病一定要搞清楚为什么能治吗？搞清这个只是为了更好的治疗或者发展其他
+病的治疗。针灸能治病，一定要用分子学说解释才能使用吗？
+     : 辩论要说明理由啊
+     
+     
+     
+     --
+     

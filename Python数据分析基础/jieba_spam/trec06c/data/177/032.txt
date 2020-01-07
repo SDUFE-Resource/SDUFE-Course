@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <qiu@ccert.edu.cn>; Sat, 24 Sep 2005 07:52:59 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <qiu@ccert.edu.cn>; Sat, 24 Sep 2005 08:04:28 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 23:41:34 -0000
+From: "lian" <lian@mail.tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+Cc: <ning@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW83G0dDQxc+iXcflu6q089GnvqvSx8+1xKaywdGnufq80tbYtePKtdHpytK8pLni0+ux7cPm
+uaSzzL8=?=
+Date: Sat, 24 Sep 2005 08:04:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+研究方向为：表面涂层/薄膜制备及性能, 激光在表面技术中的应用。组内拥有良好的实验条件，现有3套镀膜设备和3台激光器。
+招生老师：邵天敏  
+办公地点：精仪系馆(9003大楼)4502室
+电话: 62783160
+Email：shaotm@mail.tsinghua.edu.cn
+招收本校交叉学科硕士生一名。
+    因为课题需要，希望招收材料系、物理系或化学系的同学，入学后专业方向主要为激光与材料的相互作用(适合材料系和物理系同学)、聚合物薄膜(适合化学系同学)。自然，也可以结合同学的兴趣爱好灵活选择。
+    由于交叉学科名额很少, 希望成绩相对靠前,以便有竞争力.
+欢迎有兴趣的同学和邵老师联系！

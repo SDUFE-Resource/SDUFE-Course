@@ -1,0 +1,24 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 12:07:09 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 11:29:27 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "xiao" <xiao@cert.org.cn>
+To: ding@ccert.edu.cn
+CC: "sun@ccert.edu.cn" <he@ccert.edu.cn>,
+   "mo@ccert.edu.cn" <zhan@ccert.edu.cn>,
+   "hong@ccert.edu.cn" <rao@ccert.edu.cn>, "cen@ccert.edu.cn" <zheng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 12:14:54 +0800
+
+re,这其实也是我之所以喜欢清华报考清华的原因，在人类历史长河面前，每个个人都是微不足道的，无论你有多大的才智将来获得多大的成功，也不足以让你有资格去藐视他人藐视社会
+     一个阳光男孩的内心世界是谁也不能了解的，认识又怎么样？这个人是个牛人，可不是
+     典型的清华人。他将来也许会成功，但绝不是以清华的方式――自谦躬行，厚德载物，
+     获得成功。也许这正是他难以在清华获得出路的本质原因。

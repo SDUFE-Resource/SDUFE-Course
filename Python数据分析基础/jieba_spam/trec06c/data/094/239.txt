@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85Brq7S017804
+	for <shi@ccert.edu.cn>; Tue, 6 Sep 2005 23:33:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j85C6Fu5015902
+	for <shi@ccert.edu.cn>; Tue, 6 Sep 2005 23:46:07 +0800 (CST)
+Message-Id: <200509051206.j85C6Fu5015902@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 6 Sep 2005 15:32:33 -0000
+From: "xin" <xin@mail.tsinghua.edu.cn>
+To: shi@ccert.edu.cn
+Cc: <gan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S0qrKx8Tjxa7F89PRvvi21Lj6xOO31srWUmU6INfyze3DqNPWxNbBy9K70rk=?=
+Date: Tue, 6 Sep 2005 23:45:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5B255.40DC4970"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWyEjKLgqxyovE3TYCvYclclUUw1Q==
+
+有病
+      什么叫“我连畜牲都比不上”？我最恶心有这种观点的人，
+     认为动物只是人的玩物甚至奴隶，认为人是世界的主宰，人最至高无上，人怎么糟蹋动物都行。尤其在中国，这种扭曲心理的人还不少。
+         大家多少都是学过生物的，请问人没了动物能活？按照环境最大容纳量的xx观点，人的个体数量在这个世界上早就远远超标了，而且是唯一超标的物种，人类再不善待动物，以感恩的心态看待动物，就等于自取灭亡。

@@ -1,0 +1,20 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <sun@ccert.edu.cn>; Sat, 27 Aug 2005 06:43:30 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 06:51:00 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 27 Aug 2005 06:51:00 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sat, 27 Aug 2005 06:51:00 +0800
+From: long@mail.tsinghua.edu.cn
+To: sun@ccert.edu.cn
+Cc: cheng@ccert.edu.cn
+Date: Sat, 27 Aug 2005 06:51:00 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IEpBVkG1xLTzxaO2vNTaxMTA7y4uLi4uLg==?=
+Content-Type: text/plain
+
+另外，我们客户公司的信息我们会在具体和您交流的时候跟您介绍，大部分时候不可以贴在这里，这点是公司需要的，因为我们的客户大部分是MS，SUN，HP之类大家耳熟能详的公司，我们也碰到过有人跟我们这里了解了一通，然后说我又不认识你，我不放心你，我跟他们公司的人可熟了，我让我认识的人替我投，为了避免这些无谓的牺牲，所以我们不会在这些帖子里介绍公司，但是如果您有意向，我是肯定会跟详细介绍所有的信息。
+     我觉得你首先要搞清楚你客户的需求，光说JAVA是没用的。
+     JAVA是一揽子东西，恐怕没有人什么都懂。做过3年的人经验
+     也各不相同，因为领域不同嘛。他们招人去干什么？做企业应用？

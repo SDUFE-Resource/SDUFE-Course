@@ -1,0 +1,33 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7F9bGCg015277
+	for <zhan@ccert.edu.cn>; Fri, 19 Aug 2005 19:57:45 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4300656E.0001B1.29360@m52.126.com>
+Date: Fri, 19 Aug 2005 20:11:00 +0800 (CST)
+From: "chen" <chen@126.com>
+To: zhan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9PD09HI7bz+1dDGuF1VSSBEZXNpZ25lcg==?=
+X-Priority: 3
+X-Originating-IP: [222.82.105.124]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_nnIboWyaixFdyuHzzkdtjRXqOcoO"
+
+User Interface Designer
+Title: User Interface Designer
+Position: Full-Time Regular
+Location: Beijing, China
+Education: Bachelor\'s degree in fine arts, industrial design, graphical design or equivalent
+Description: 
+Profile
+This position is ideal for those who enjoy problem solving. Fresh thinking is a must, as well as excellent communication skills.
+Description
+User Interface designing including visual design, icon design and interaction design for the software and websites.
+Key Responsibilities
+oUser interface design for products
+oCreation of guidelines for user interface design
+oSupervision of the guidelines Implementation
+Experience: 
+o Minimum 1 year experience and background in visual design and interaction design
+Skills:
+o Familiar with software tools such as Photoshop, Illustrator, Flash, 3d Max-Ability to deliver creative visual and interaction design to meet and reflect users\' requirements
+Motivated candidates please send you resume to this email address: whr@ufsoft.com.cn and cc to whr@ufsoft.com.cn

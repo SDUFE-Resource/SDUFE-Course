@@ -1,0 +1,47 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <zhan@ccert.edu.cn>; Tue, 13 Sep 2005 21:47:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <zhan@ccert.edu.cn>; Tue, 13 Sep 2005 21:59:08 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 13:41:25 -0000
+From: "xing" <xing@mail.tsinghua.edu.cn>
+To: zhan@ccert.edu.cn
+Cc: <rao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgwdbH5bCyUHJvL0W5pNf3ytLV0Ma4UHJvL0XIy7LF?=
+Date: Tue, 13 Sep 2005 21:59:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+招聘单位：
+林清安Pro/E工作室
+林清安   3D CAD/CAM及Pro/ENGINEER方面知名的专家，早年毕业于台湾大学机械系，曾分别在美国哥伦比亚大学（Columbia University）和普度大学（Purdue University）获得硕士及博士学位，曾任职美国密苏里大学（University of Missouri at Rolla）机械系助理教授及台湾科技大学机械系副教授。现为台湾科技大学机械系教授。 
+林教授从事3D CAD/CAM及Pro/ENGINEER之教学/研究工作近17年，发表40余篇学术论文，出版专著40余部，主持20余项与Pro/ENGINEER相关之工业界实务研发计划。此外，在台湾近7年来每年培育约500位Pro/ENGINEER专业工程师，在台湾CAD/CAM/CAE界有重要影响。
+根据工作需要，林清安教授将在北京开设林清安Pro/E工作室，进行Pro/E系列教材的编写工作，为此需要招聘能够协助他本人编写教材的Pro/E方面人才
+招聘职位：
+Pro/E教材编辑
+职位描述：
+协助林清安教授从事Pro/E教材的编写和整理工作，能够把旧版本Pro/E的培训教材转换成最新版本的教材。从事一些Pro/E技术开发。
+任职条件：
+从重点大学机类专业毕业的本科生或硕士生
+女性
+对Pro/E比较熟悉。熟悉Visual C++，最好能够编程。具有较强的文字表达能力。
+招聘人数：
+2人
+工作地点：
+北京清华大学校内
+本薪：
+2500至3000元
+奖金：
+视工作情况而定，每月奖金最高可至3000元
+年龄：
+26岁以下
+应聘者请将简历发至以下邮箱：
+hongliang@mail.tsinghua.edu.cn
+简历包含：姓名、出生年月、户口所在地、毕业院校、专业、毕业时间、最终学位。从高中以来的简历。何时学习的Pro/E，三维造型能做到什么程度，提供作品更佳。请注明：本人的联系方式。

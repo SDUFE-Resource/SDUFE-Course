@@ -1,0 +1,35 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82NbfwP002626
+	for <tan@ccert.edu.cn>; Sun, 4 Sep 2005 00:24:52 +0800 (CST)
+Received: (eyou send program); Sun, 4 Sep 2005 00:25:12 +0800
+Message-ID: <325704282.09716@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 4 Sep 2005 00:25:12 +0800
+Message-ID: <325704282.09698@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sun, 4 Sep 2005 00:25:12 +0800
+From: xu@mail.tsinghua.edu.cn
+To: tan@ccert.edu.cn
+Cc: tian@ccert.edu.cn
+Date: Sun, 4 Sep 2005 00:25:12 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IDzG372jPsDvuc+458LltcTEx7j2t6LQzcyrv+HByw==?=
+Content-Type: text/plain
+
+男的貌似都有头盔啥的
+     标  题: Re: &lt;七剑&gt;里瓜哥洛的那个发型太酷了
+     
+     
+     电影是男的吧？
+     
+     
+     : 那个人到底是男的还是女的啊？
+     
+     
+     --
+           1.如何查看版本号
+           A:在待机状态下输入#02#第一行的最后几个数字即版本号.(001D0427就是4.27的).或者按向下,在第七行会显示"SW 
+           Ver:0.4.27"(这是4.27版本的)
+     
+           
+           2.各版本的区别
+     
+     

@@ -1,0 +1,26 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q8frpZ012129
+	for <ni@ccert.edu.cn>; Tue, 30 Aug 2005 04:44:03 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <430ED8CA.0000D0.32715@m115.126.com>
+Date: Tue, 30 Aug 2005 04:56:16 +0800 (CST)
+From: "peng" <peng@126.com>
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SysfQwsjLo6yxqLj2tb3PyA==?=
+X-Priority: 3
+X-Originating-IP: [222.82.97.251]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_nydxdIXIQAMDkzacqLhDtoxLoZym"
+
+如何计算预产期？ 
+ 
+　2001年8月13日 16:28　强生(中国)有限公司提供
+ 
+　　计算方法：从末次月经第一天算起，月份减3，如不够时则加9，日数加7。如你的末次月经是2000年9月18日，根据公式，月份减3日数加7，预产期应是2001年6月25日。
+　　如记不清末次月经日期，可根据胎动日期作大概计算。一般胎动日期大约在怀孕后的18-20周，再加上20周就能推算出大约的预产期。
+　　如有条件作超声波测胎儿身体的一些径线进行测算，即可测出胎龄，并以此推算出预产期。
+　　以上预产期的算法与实际的分娩日期常相差1-2周，若平时月经周期长短变化较大者，预产期可以相差更多，所推算的日期是一个大概数，凡是在预产期内前后2周以内分娩的都是正常的。 
+ 
+ 
+你肯定要去医院的。这个没问题。
+     我在日本，语言不通，总找人帮忙也不好意思，根据你的经验呢

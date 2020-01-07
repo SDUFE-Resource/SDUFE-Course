@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KNVQWO026957
+	for <xin@ccert.edu.cn>; Fri, 23 Sep 2005 08:03:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8KNgrSA012901
+	for <xin@ccert.edu.cn>; Fri, 23 Sep 2005 08:15:29 +0800 (CST)
+Message-Id: <200509202342.j8KNgrSA012901@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 23:53:45 -0000
+From: "feng" <feng@mail.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Cc: <qiu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0KPE2sPit9HRp8PAyvU=?=
+Date: Fri, 23 Sep 2005 08:15:17 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0056_01C5BE80.0E54D8A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW+PP+dE9Zps0Q1RamkdUKgZkzF9Q==
+
+1、地址：
+        西院21号院（近春园西楼南侧）
+2、免费对象：清华大学、北京大学在校学生（本、硕、博）
+             有无绘画基础均可，对美术感兴趣即可
+3、时间：每天8：30――22：30任何时间段
+4、活动期：即日起――2006年2月
+ps: 免费活动以前举办过，比较成功
+    但希望参加者能坚持
+    当然不必每天都去
+直接去就可以,无需报名
+带上工具: 素描纸\\ 铅笔\\橡皮等(建筑馆一楼有卖)
+画室电话:81216769

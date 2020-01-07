@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <gan@ccert.edu.cn>; Sat, 3 Sep 2005 06:45:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <gan@ccert.edu.cn>; Sat, 3 Sep 2005 06:58:25 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 22:47:36 -0000
+From: "yang" <yang@mail.tsinghua.edu.cn>
+To: gan@ccert.edu.cn
+Cc: <ding@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbBsqnSu8C0tdrSu7TO1ebV/dDEt7M=?=
+Date: Sat, 3 Sep 2005 06:58:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+不知道你是对我的观点不满，还是赞同。
+博士当然没什么值得高高在上，我说过了，一些细节工作要自己做。
+我不是研究代码专业的博士。
+我也说过编程是工具。
+不知道你看懂了吗？
+博士，应该做些有创造性的工作。我是这样理解的：博士应该在自己的专业领域多做些研
+究，写程序只不过是用来验证你的想法、观点是否正确。（如果你是研究代码专业的博士
+另说）。
+博士没什么值得高高在上的，只要做好自己的工作就好。
+     同意你的观点。
+     编程就是一种工具。
+     博士具体的工作都不做，要做什么呢？

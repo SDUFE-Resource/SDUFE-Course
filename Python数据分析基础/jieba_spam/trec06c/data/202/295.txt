@@ -1,0 +1,22 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <xin@ccert.edu.cn>; Thu, 29 Sep 2005 08:27:16 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Thu, 29 Sep 2005 08:30:14 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Thu, 29 Sep 2005 00:30:14 UT
+To: xin@ccert.edu.cn
+From: bi@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTjv7S5/bXEtefTsNbQo6zE49fuz7K7trXEzKi0ysrHyrLDtKO/?=
+
+“你会成功的，但你与谁分享呢？” 
+　 此语出自一部中法合拍影片《花轿泪》（国内公映时改名为《闺阁情怨》），讲述一个旅法女钢琴家的生平。老年钢琴家由秦怡饰演，非常够老。演青年钢琴家的演员叫屠洁青，非常够好，在影坛惊鸿一现，然后再也没有踪影。年轻时的她自命不凡，天生反叛，与她认为庸俗软弱的父亲决裂。父亲（姜文饰演）就对她说了这么一句话，可惜她没听进去，一走了之，相隔参商，几十年后才又捡起父女亲情。之所以想起这句话，是因为俺刚与两个老哥们分享了许多心情，当年形影不离的哥仨，如今有人风尘困顿，有人无限风光，却都发现，哪怕不要成功没有荣耀，只要有人与你相互拍着对方的毛腿，絮叨着什么，就是好的。年轻的时候，往前奔得太急，忽略了许多东西，“青春是一本太仓促的书”。如今好了，老了。 
+     　 “我爱你。” 
+     　　“我知道。” 
+     　 《星球大战：帝国反击战》中，哈里森．福特饰演的“万年鹰号”宇宙飞船船长韩素罗被敌人抓住，要被做成碳化固体来把他囚禁。他与莉亚公主从第一集开始就一直脉脉含情间，却都盈盈不得语。如今生离死别，莉亚公主忍不住说出“我爱你”，老韩却极酷地扯了一下嘴唇，说

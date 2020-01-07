@@ -1,0 +1,44 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <wei@ccert.edu.cn>; Fri, 2 Sep 2005 01:01:30 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 01:04:22 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 01:04:22 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 01:04:22 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 16:57:45 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 00:49:55 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 00:49:55 +0800
+From: zhao@mails.tsinghua.edu.cn
+To: wei@ccert.edu.cn
+Cc: lin@ccert.edu.cn
+Date: Fri, 2 Sep 2005 00:49:55 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgv7ShtsHUwrnIy6G3tcTSu7XjuNDP6w==?=
+Content-Type: text/plain
+
+平铺直叙的猎鹿人和我想象中的不太一样。导演处理得出人意料的平静。半个多小时的婚
+礼描述真的觉得很闷，本来以为只要交代一下，而把重点放在越战战场上，所以一开始我
+就想错了。战争描写三言两语带过，也很平静，不去渲染什么气氛。期望很高的轮盘赌对
+决的确精彩，只是最后的结局又出了我的意料。原以为最后那场兄弟间的轮盘赌会扣人心
+弦，比如赌上几个来回，最后mike说服他朋友回美国之时，那人开了最后一枪死了，显得
+感人一点。而影片中就一个来回，那人情绪稍有波动就死了。原本的煽情好戏就这样被处
+理了，而且也没有像无间道里来几个慢镜头回放，放点动人小音乐什么的。所以就这种题
+材而言，算得上很平静了。
+所以说呢，这部片子绝对是一部反思的东西，而不是煽情的东西。但一不小心还是被它煽
+到一两下，这得归功于那个反复出现的吉他背景音乐，那可是大师操刀的就是不一样。
+经历过那种轮盘赌，死里逃生，后来发现有人拿这种残酷的折磨赚钱，价值观一下崩溃，
+我想这就是那个steve（好像这名字）留在越南的原因吧。而罗伯特德尼罗演的硬汉Mike
+回家后与朋友的准未婚妻间的情愫也把战后的那种无助空虚表现出来。
+猎鹿猎鹿，原本美好的消遣在一场杀戮之后就变味了。猎鹿好手Mike回国后打猎却放鹿一
+条生路，因为在他将扣扳机的刹那，感觉到了对生命应有的尊重。
+Mike的两个朋友一死一残，在葬礼之后，朋友们聚在饭桌前唱起God bless America之类
+的歌曲，依旧没有太多的煽情，但隐约间又重点了生活的希望。
+此片之所以特别而且经典，我窃以为就是那种平静使然啊。有朋友看过此片的，可以交流
+一下。

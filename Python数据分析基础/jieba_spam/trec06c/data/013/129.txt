@@ -1,0 +1,37 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <ren@ccert.edu.cn>; Fri, 19 Aug 2005 19:57:35 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <ren@ccert.edu.cn>; Fri, 19 Aug 2005 20:10:37 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Fri, 19 Aug 2005 20:34:05 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: peng@126.com
+To: ren@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPrT0beizsSjutGwxNyzpMbaus/X97XEs8zQ8tSx?=
+Date: Fri, 19 Aug 2005 20:05:19 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+代友发文：请勿回站内信箱，谢谢！
+寻能长期合作的兼职程序员
+  本公司位于上地。主要从事C/S B/S体系结构的软件工程项目开发。由于项目开发周期的阶段性比较强。中间经常会有比较长的断档时间。为了减轻各方面的压力，欲建立一支比较松散型的虚拟团队。
+  具体的操作办法是，大家可灵活安排工作时间。需要集中时，大家可以抽出一天两天时间到公司来。
+  报酬根据具体项目详谈。关键是要求有长期合作的诚意。
+  技术要求（满足下列条件之一）：
+  1、熟悉J2EE体系结构，熟练掌握Java编程，掌握JSP技术。
+  2、ASP.NET
+  3、熟悉下列数据库之一或多项：SQL-Server,Oracle,DB2,MySQL
+  4、掌握VISUAL STADIO.NET
+  有意请发mail:ejb3507@sina.com 联系电话：13611141115

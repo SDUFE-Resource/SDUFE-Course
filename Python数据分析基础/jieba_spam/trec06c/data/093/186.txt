@@ -1,0 +1,38 @@
+Received: from mail3.1stchina.net ([210.51.25.177])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86A9MLj026561
+	for <xiao@ccert.edu.cn>; Tue, 6 Sep 2005 17:32:26 +0800 (CST)
+Received: from image (unknown [218.1.94.5])
+	by mail3.1stchina.net (Ksemail Mail Server Ver 5.1 Build 050318 (OS-Linux Database-MySQL) ESMTP Ready. http://www.ksemail.com/) with ESMTP id AE29852C231
+	for <xiao@ccert.edu.cn>; Tue, 6 Sep 2005 17:53:58 +0800 (CST)
+Date: Tue, 6 Sep 2005 17:44:19 +0800
+From: "han" <han@aryasec.com>
+To: xiao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7XqsjDob/H5buqvMbL47v6z7W/vNHQ18rBzw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050906103056.AE29852C231@mail3.1stchina.net>
+
+资料类别
+清华计算机系考研资料
+资料名称、原价（或笔记复印件页数）及转让价
+大部分都很新,4折,卖不出去就屯着了,呵呵.
+&lt;计算机操作系统教程 e2&gt;张 史 19.6
+        和配套的习题参考书 11
+&lt;操作系统-内核与设计原理 e4&gt; william stallings 电子工业出版社 55
+&lt;计算机组成与结构 e3&gt; 王爱英 清华出版社 32.5
+&lt;计算机组成与结构 课程辅导&gt; 王爱英 清华出版社 16
+&lt;计算机组成原理与系统结构 解题辅导&gt; 胡月明 清华出版社 26
+&lt;数据结构c++描述&gt;殷人昆 清华出版社 26
+        配套的习题解析 26
+&lt;计算机系统结构 e2&gt; 郑 汤 清华大学出版社 42
+----------------------------
+96-03年初试的真题 挺全的,5元一份
+联系方式
+我7号和8号上午在清华,id在线(锁定屏幕出外)就可以mail索取联系方式
+其他说明
+一堆打印的ppt讲义,系统结构的,
+还有一些英语政治数学的杂书
+送了

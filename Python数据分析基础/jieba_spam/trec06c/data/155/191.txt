@@ -1,0 +1,106 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J65V6j013138
+	for <qing@ccert.edu.cn>; Mon, 19 Sep 2005 15:45:33 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J61MoI086766
+	for <qing@ccert.edu.cn>; Mon, 19 Sep 2005 15:41:50 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J61Hls086762
+	for <qing@ccert.edu.cn>; Mon, 19 Sep 2005 15:41:21 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15003 invoked by uid 512); Mon, 19 Sep 2005 07:49:44 -0000
+Message-ID: <20050919060943.15002.qmail@stu.ee.tsinghua.edu.cn>
+From: jian@stu.ee.tsinghua.edu.cn
+To: qing@ccert.edu.cn
+Date: Mon, 19 Sep 2005 15:49:44 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEgsbG+qdbQx+DOxM28yunT0M/euavLvtXQxrg=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+http://career.tsinghua.edu.cn/jyw/zpxx/index_2_detail.jsp?zpnf=2005&amp;dwdm=2005002257
+一、招聘职位：
+1、编辑部
+(1)实习图书编辑
+(2)实习美术编辑
+2、网络部
+(1)后台开发工程师
+(2)数据库设计及管理
+(3)网页设计师
+ 
+二、招聘基本要求：
+1、2006届毕业生
+2、具有良好的沟通能力、文字表达能力。
+3、热情诚恳，善于发现问题，主动推动工作开展，思维敏捷。
+4、具有一定的分析判断能力，有较强的责任心和人际关系能力。
+5、优秀的组织协调和语言沟通能力，较强的团队合作精神和责任心，善于接受新鲜事物。
+ 
+三、职位说明：
+(一)编辑部
+1、实习图书编辑(10人)
+专业要求：1、2006届硕士、博士毕业生；
+2、专业背景不限；
+3、有图书编辑经验者优先考虑。
+ 
+2、实习美术编辑
+专业要求：平面设计专业
+           
+(二)网络部
+1、后台开发工程师(男，2人)
+职位描述：
+(1)负责电子商务网站及其管理软件的开发和维护。
+(2)保障工作的质量和进度。
+(3)及时发现工作中各种问题并予以解决。
+专业要求：
+(1)有网站开发经验者优先考虑
+(2)精通PHP4语言、MYSQL数据库；
+(3)熟悉Dreamweaver等软件；
+(4)对数据库程序开发、管理有深入的理解；
+ 
+2、数据库设计及管理(男，1人)
+职位描述：
+(1)分析数据库结构、存储过程以及MySQL查询语句；
+(2)确认设计是否合理，独立给出产品完善和优化的方案；
+(3)对数据库整体架构提出建议。
+专业要求：
+(1)有网站开发经验者优先考虑；
+(2)精通MYSQL数据库系统的开发和管理；
+(3)精通PHP4语言；
+(4)熟悉Dreamweaver等软件；
+(5)具备数据库系统性能与优化经验。
+ 
+3、网页设计师（男，1人）
+职位描述：
+(1)负责网站各频道日常的产品营销网页设计和制作；
+(2)负责对外的网络广告、对外宣传的媒体广告的设计和制作；
+(3)负责内部临时性的各种设计工作。
+专业要求：
+(1)有良好的网页设计能力和审美能力，相关工作经验优秀；
+(2)熟练运用Pohoshop/Flash/Dreamweaver等软件；
+(3)了解HTML/CSS，可以安要求修改代码或编写简代码。
+ 
+ 
+所有职位均要求熟悉计算机的基本操作和通用软件。实习期间，工作表现突出者可在年底与本单位签约，本单位负责解决北京户口。请有意者立即将简历、应聘职位和待遇要求邮寄或者E-MAIL发到：
+地址：北京东四十条王家园10号 北京中青文图书有限公司收（100027） 
+E-mail：zhaopin122479@yahoo.com.cn（网络部）
+        Career_zqw@yahoo.com.cn（编辑部）
+        
+注意事项：
+投递简历请在主题中注明：
+xx（姓名）―应聘部门―应聘职位
+如：XX―网络部―网页设计师
+在简历中一定注明：本科所在院校
+■ 请勿以附件形式发送简历

@@ -1,0 +1,36 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <jin@ccert.edu.cn>; Mon, 22 Aug 2005 12:49:59 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <jin@ccert.edu.cn>; Mon, 22 Aug 2005 13:03:10 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "ding" <ding@126.com>
+To: jin@ccert.edu.cn
+Cc: <wang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgudjT2r+80dC6zc3G0dCjrLrcw9TDow==?=
+Date: Mon, 22 Aug 2005 13:02:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+我是清华机械系的，马上就要面临推研了
+自己的成绩在系里就是十五六名的样子，
+应该说推研是可以的，
+但是感觉本系研究生毕业了大多还是在工业行业里工作，
+而我不想在这行干下去了，也不是很想做技术工作。
+尽管我也不知道自己究竟喜欢哪一行。
+所以有考经管的念头
+但是准备很少，现在留给我的时间也不多了
+考研好像一个很没有把握的选择
+现在就很郁闷，
+不知道如果考不上经管，有白白失去了推研的机会
+这样子是否值得？
+这几天一直在想这个问题
+感觉很苦闷
+想听一听大家的意见和建议-_-

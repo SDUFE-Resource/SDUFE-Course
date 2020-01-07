@@ -1,0 +1,26 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2Dh1P009817
+	for <jin@ccert.edu.cn>; Fri, 16 Sep 2005 13:50:44 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G2ifhm004555
+	for <jin@ccert.edu.cn>; Fri, 16 Sep 2005 14:21:42 +0800
+Message-Id: <200509160244.j8G2ifhm004555@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 14:01:50 +0800
+From: "hong" <hong@mail.nisac.gov.cn>
+To: jin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfzvcy8xsvjxvey2df3zsrM4g==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+小数位数定为0了。操作步骤如下：
+1.   (2ndF)
+2.   (F&lt;-&gt;S)  (这个键上边应该有“FIX”或者“TAB”字样)
+3.   (.)      (也就是小数点)
+如此即可恢复。
+第3步按0～9，即是设定小数位数为相应的数字。例如：按5，则9/5=1.80000。
+实在觉得麻烦，就拆掉电池重新装上。（不是办法的办法）
+     我用的TRULY计算器，不知哪不小心按错键，现在9除以5总是为2，自动取整了，说明书早不知丢哪去了，谁知道或者有说明书的告诉我好吗，不然我的计算器都作废了，谢谢！

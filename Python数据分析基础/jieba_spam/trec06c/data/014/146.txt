@@ -1,0 +1,31 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <tu@ccert.edu.cn>; Sat, 20 Aug 2005 01:00:01 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <tu@ccert.edu.cn>; Sat, 20 Aug 2005 01:13:03 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 01:36:31 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: peng@126.com
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyOe5+9PQ0rvM7A==?=
+Date: Sat, 20 Aug 2005 01:07:45 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+窗外，我的眼，看见优雅的阳光，轻轻抚摸着大地，与空气缠绵悱恻，我的心，看到气派的大海，就像盛夏时节杨树对绿意的渴求，就像是盛夏时节天空对湛蓝思索，就像是盛夏时节，我所爱的女子，轻盈，高雅，随意却又有些凌乱的背影。
+生如夏花，然而，绚烂之后哭泣的凋零，一瓣，又一瓣，被空气托起，却又缓缓放下。生如夏花，正在怒放，阳光虽灿烂却也比不过花儿的绚丽。站在我爱的花儿面前，我唯一能做的，是驻足，释放我心爱的爱情，然后静静离去。转身的一刹那，花已不再为我开，想留她在身边，却明白，她从枝条上落到我肩膀上的一瞬间，就已离我而去，三生不见。
+黄昏，硕大一个太阳，散发出的热量却连自己也感不到温暖，壮士暮年，壮心不已。英雄最痛苦的不是战场上的厮杀，鲜红的血，遮天蔽日，身上的伤痛，转眼变成往事，心不疼，身就不疼。痛苦的，是伤也伤了，疼也疼了，到头来却发现，自己远比在战场上孤寂。战场上还有敌人，而生活中却只有自己。仰望天空，漫天晶莹剔透的星星，寒冷的星光却刺伤自己眼。
+清风摇曳着远处传来的一阵阵似烟如缕缥缈的清脆的歌声，歌中唱的是泪水酿成的酒，品一口，满嘴无味，不经意间却发现，自己早已潸然泪下。
+――――――我爱她。我真的忘不了，放不下，却又得不到。

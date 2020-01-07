@@ -1,0 +1,9 @@
+digraph g{
+	node [
+            shape = "record"
+            color = "blue"
+        ]
+
+	"range() function generate a integer list from 1 to 26 as key list" -> "According the list, decrypt function generate each result"
+	 "According the list, decrypt function generate each result"->"Select the right one from 26 results"
+}

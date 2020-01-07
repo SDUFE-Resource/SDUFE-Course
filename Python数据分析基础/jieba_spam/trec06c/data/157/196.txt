@@ -1,0 +1,22 @@
+Received: from 126.com (m31-133.126.com [220.181.31.133])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J75q0T013568
+	for <yang@ccert.edu.cn>; Tue, 20 Sep 2005 03:08:31 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <432E6604.000001.17409@m53.126.com>
+Date: Tue, 20 Sep 2005 03:19:57 +0800 (CST)
+From: "tao" <tao@126.com>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgwdTNt9awzrujuryx0bC+q82oQysrLEMm1tDOxMrkyOu3qL+qt6ImTWFjaW50b3NoL1VuaXgv
+V2luZG8=?=
+X-Priority: 3
+X-Originating-IP: [222.82.99.210]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_dWFwKhpsewyHFiGQuvVCIinSzqmA"
+
+Hello,大家好！好消息,一家著名美国IT公司急招Software Engineer主要用C,C++或Java做为工具，做中文输入开发处理的。工作地点：北京。有相关经验是最好的啦^_^ 不过这家外企是愿意培养人的，让你从零做起。所以如果你在编程方面很出色，又是名校高材生可要多关注一下啦！英语要好！
+大家踊跃报名吧！好机会，当然要大家分享，身边有合适的朋友也要照顾一下喽！
+联系我可以：
+jerry.yao@multimage.com.cn 可以直接发简历，中英文
+010-60668184/64602978 －18 Jerry
+好啦，说了半天，贴出详细JD，大家对号入座吧！
+R&amp;D 

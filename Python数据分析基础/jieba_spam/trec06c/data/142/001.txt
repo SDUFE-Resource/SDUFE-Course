@@ -1,0 +1,15 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2qIUC010144
+	for <long@ccert.edu.cn>; Fri, 16 Sep 2005 18:11:27 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <432A361D.0000C0.29343@m115.126.com>
+Date: Fri, 16 Sep 2005 18:23:03 +0800 (CST)
+From: "yang" <yang@126.com>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILrDxfPT0brNYma31srWwcsgx+u9zLTzvNI=?=
+X-Priority: 3
+X-Originating-IP: [222.82.99.17]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_qcLtUtrIOHetfVDqRvFQeohZwyJq"
+
+那如果自己的GG要去追求自己的事业  作为MM难道不应该支持和理解吗

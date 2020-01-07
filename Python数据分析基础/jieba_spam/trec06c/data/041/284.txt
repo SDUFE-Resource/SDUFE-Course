@@ -1,0 +1,20 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <zhou@ccert.edu.cn>; Fri, 26 Aug 2005 04:46:11 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 20:35:46 -0000
+From: "zheng" <zheng@mails.tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 04:59:28 +0800
+
+想法很好啊，不过道路漫长啊
+     你看人nba都有那种组织的，定期弄些劳资谈判什么的，缓和劳资矛盾。
+     而我们所处的IT行业，唉，我感觉是一个比较尴尬的行业，一方面说待遇好，一方面又是有种吃青春饭的感觉，没有保障（当然我所说的是大多数人）。那么我们是否有必要建立一个类似工会一样的组织来维护我们这个行业的就业人员的共同利益呢。只是我们这个是一个行业工会，全
+     至于联盟的权利，那就很多了，最基础的一个我觉得就是帮助建立一个合理的劳资合同，比如可以确立最低劳资保障，最低合同年限等；另外还可以有就业经验交流之类的活动，具体还要集思广益。

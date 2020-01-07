@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <cao@ccert.edu.cn>; Tue, 30 Aug 2005 18:51:55 +0800 (CST)
+Received: (eyou send program); Tue, 30 Aug 2005 18:54:47 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 30 Aug 2005 18:54:47 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Tue, 30 Aug 2005 18:54:47 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Tue, 30 Aug 2005 10:48:10 -0000
+Received: (eyou send program); Tue, 30 Aug 2005 18:40:20 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Tue, 30 Aug 2005 18:40:20 +0800
+From: tang@mails.tsinghua.edu.cn
+To: cao@ccert.edu.cn
+Cc: lv@ccert.edu.cn
+Date: Tue, 30 Aug 2005 18:40:20 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILvYvNLBy6Ost6LP1sbFxsXS0b6tsNG3ubLLtrzXvLG4usPByw==?=
+Content-Type: text/plain
+
+一家人
+     ggpp来北京一周了，今天我头一次这么早回家，5点半拎着一兜菜走进家门，一看厨房里婆婆已经把菜都切好了，米也在锅里了，就等我们回家，呵呵，看来二老对我还比较满意啊
+     。我觉得媳妇和公婆相处，lg这个中间人很重要，第一天ggpp来，我做的晚饭，费了九牛二虎之力做了三个菜，最后不够吃，汗哪。期间lg和ggpp用方言聊天，我听不太懂，不过有几句我听懂了，那就是lg和他们说，我很能干，家里买房装修什么的都是我一手操办的，当
+     时我在厨房，听到这话心里偷偷乐开了花

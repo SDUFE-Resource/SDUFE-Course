@@ -1,0 +1,45 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <hua@ccert.edu.cn>; Fri, 26 Aug 2005 10:32:31 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 10:50:54 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 10:50:54 +0800
+Date: Fri, 26 Aug 2005 10:50:54 +0800
+From: weng@cernet.com
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+To: hua@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+我不是“反华为”派。毕竟华为是民族企业的一面旗帜。能
+做出点事情的民族企业，确实不多。
+但是如同所有的其它公司一样，在资本的原始积累阶段，有
+太多的阴暗面。例如拖欠贷款，例如压榨员工还用一个虚无
+飘渺的“发展”来让员工心甘情愿的接受压榨。
+我看不惯的，是很多人容不得别人在肯定华为成绩的同时，指
+出华为的弱点。好像华为就没有弱点一样。更有很多既得利益
+者，拿自己的收获来现身说法，希望吸引新人去给自己做贡献。
+如同前面文章说的一样。
+     我已经声明了，我不会主动骗人。我说的都是转述我认为是事实的东西，并没有
+     做什么结论，请问断章取义是从何而来？
+     这些给媒体看的东西你也信？反正我是不信。当然我说的那些你也可以不信，我
+     不强迫你，所以希望你也不要强迫我相信国家统计局的数据。
+     是的。不过，在咱们国家……
+     利润真的高吗？希望你有其它的论据。
+     嗯，我也希望。
+     “套在哪个公司上都可以”，不错，你把李一男的事迹套在哪个公司，哪个人身
+     上，不也一样可以？哪个公司没有从自己的员工里面提拔过人？那为什么各个
+     地方还有发展机会大小之分？难道在华为一直工作下去，就叫有发展？我理解的
+     发展就是收入总有一天会增加到一个对得起你的付出的地步，不知道你对发展的
+     定义是什么？按照我的定义，我认为做华为工作并不能为我的发展做准备，除非
+     跳槽去cisco或者北电，或者转行做sales。
+     如果你就喜欢干得累死，没几个钱，那么我不说什么了。你确实有选择的权力。

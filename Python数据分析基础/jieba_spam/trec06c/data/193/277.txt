@@ -1,0 +1,36 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R65apq017246
+	for <ning@ccert.edu.cn>; Tue, 27 Sep 2005 19:32:44 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 19:40:23 +0800
+Message-ID: <327801595.21795@mails.tsinghua.edu.cn>
+Received: from 166.111.8.254 by mails.tsinghua.edu.cn with HTTP; Tue, 27 Sep 2005 19:40:23 +0800
+From: ni@mails.tsinghua.edu.cn
+To: ning@ccert.edu.cn
+Date: Tue, 27 Sep 2005 19:40:23 +0800
+Reply-To: ni@mails.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+Content-Type: text/plain
+
+     标  题: Re: 请问各位大牛做了什么比王垠更了不起的事了
+     
+     终于可以探讨帖子的“学术”问题了。
+     
+     ：1,讨论的论点不是用word和ppt更有学术气质或者用linux和latex更像搞研究,而是说
+     ：  用什么工具与研究无关. (btw:我用Latex和ppt)
+     没太懂你的中国话，我的观点是王垠用“它”的学识和热情征服了无数fans。而你们确以“它”不务正业来挖苦他。可是你们自己的写文章的样子还比较猥琐，这个气势上输了一筹。当然以偏概全也是我的错误，也有大牛用更专业的工具来些学术论文的。
+我这句中国话很难懂么? 就是用什么工具写学术论文都和是否有学术气质无关的意思.
+其中的思想深度内容更重要.
+ 
+     ：2,ieee,sci的期刊中国人占得还很少,如果真是全是中国人得了, 显然是成为科技强国的重要指标, 至少因为说明研究得到很多支持.
+     嘿嘿，这是你们的理想阿，灌水。可是人家不让你们灌阿。所以我说就算给你们灌水证，让ieee发一个“中国年专版”，也无法从实质上提高科研的能力阿。像“它”那样做点副业，拉拉linux的人气，好像更实际点吧。
+如果真是有那么多达到trans.的水平文章发表,当然就是强国了, 现在做不到,所以需要努力
+ 
+     ：3, 电池,交卷,液晶, 也许属于材料化工吧, 不是IEEE的范畴.
+     您的意思是，我应该举路由器，无线AP，flash ram这些东西？
+     
+     范畴？原来“牛人”都不搭理IEEE以外的东西阿。
+     
+因为别的领域我不懂,所以不敢说啊, 不同领域的研究特点差很多很多的.
+既然王同学是这个领域,所以我们说IEEE呀.
+你又玩小把戏,我又没说自己是牛人,你就把我归到引号牛人里,然后推出些结论,这样不好吧.当然我比你还是牛一些的,呵

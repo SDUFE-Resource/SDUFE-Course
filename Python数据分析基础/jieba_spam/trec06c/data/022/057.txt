@@ -1,0 +1,28 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <jian@ccert.edu.cn>; Sun, 21 Aug 2005 15:17:55 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <jian@ccert.edu.cn>; Sun, 21 Aug 2005 15:31:06 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "wei" <wei@126.com>
+To: jian@ccert.edu.cn
+Cc: <xia@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbUy9G6/Lmry761xNK70Km9qNLpo6jUrbS0o6k=?=
+Date: Sun, 21 Aug 2005 15:30:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+据说华为要求员工多提些小意见，少提全局性的意见
+我觉得这就很好
+作为中层干部，你缺乏全局意识和战略眼光
+因此不要从大方向上提啥意见
+     张朝阳先生领导的搜狐公司，经过多次收购，现在可以说是一锅粥，大杂烩。
+     尤其是对吉菲尔技术有限公司（GoodFeel）的收购，对搜狐公司来说是一个严峻的考验。
+     为什么这么说呢？ 因为GoodFeel是一个韩国人领导企业，与中国企业存在一个企业文化的融合问题。

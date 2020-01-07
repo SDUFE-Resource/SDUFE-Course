@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <xu@ccert.edu.cn>; Mon, 22 Aug 2005 18:44:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <xu@ccert.edu.cn>; Mon, 22 Aug 2005 18:57:34 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 10:52:11 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "qing" <qing@mail.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Cc: "tunet" <li@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXQxrjQxc+iLaOo16KjutOi0+/SqsfzuN+jqQ==?=
+Date: Mon, 22 Aug 2005 18:53:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+英语要求这么高，2500估计好难找到人吧。hehe
+     标  题: 招聘信息-（注：英语要求高）
+     
+     北京杰讯睿智科技发展有限公司，因业务发展需要，能源和环保事业部拟招聘一名商务经理，有效期二周，有意者请发简历到公司邮箱，并请注明姓名。
+     工作职责：1.负责与国外厂家的商务往来。
+               2.负责对国内营销团队的销售支持。
+     岗位要求：1.女性。
+               2.本科以上学历，专业不限。
+               3.有相关工作或实习经验。
+               4.英语达到和外商直接口头和书面沟通程度。
+               5.诚实正直，善于思考，做事干练，良好气质。
+     工资待遇：兼职－1500元/月；全职－2500元/月。（均不含交通、通讯和餐补）
+     地址：北京市东城区东方广场E3-1806
+     邮箱：liudexin@mindflyer.com.cn
+     网址：www.mindflyer.com.cn
+     电话：85188553-682
+     
+     --
+     

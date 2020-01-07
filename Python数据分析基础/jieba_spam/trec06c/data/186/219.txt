@@ -1,0 +1,28 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdWEc032356
+	for <bi@ccert.edu.cn>; Mon, 26 Sep 2005 07:43:12 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 07:58:54 +0800
+Message-ID: <327652915.11497@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Mon, 26 Sep 2005 07:58:54 +0800
+Message-ID: <000201c5c1cf$bb5d1d80$0301a8c0@CCERTDAWEI>
+Reply-To: "lei" <lei@ccert.edu.cn>
+From: "lei" <lei@tsinghua.org.cn>
+To: bi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj4x+W7qtK70KnL+c690afV373Mytq1xL6vyr6joQ==?=
+Date: Mon, 26 Sep 2005 04:58:55 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+     李敖来大陆，轰轰烈烈，热热闹闹，国内有些人也坐不住了，总有人要跳出来显摆显摆，不过，没显好倒是现了眼。大家看看下面的材料，真为清华汗颜啊！
+     资料一【清华大学学者评李敖演讲：李敖老矣 尚能骂否？】
+     http://news.anhuinews.com/system/2005/09/23/001359039.shtml
+     一贯原则对话不对人。但我们难得听到有人这么一次大快人心的演讲（北大的）时，那些所谓有良知的学术大师应该承担什么责任？窃以为，不是对演讲吹毛求疵，而是趁热打铁将其正面影响扩大。
+     然而这时候却有人不冷不热地做貌似高深的学术分析――即使你对，你的话又有多大意义？真不知道这时间去伤脑筋证明李敖的缺陷是何居心。

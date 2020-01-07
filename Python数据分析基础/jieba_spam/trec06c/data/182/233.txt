@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <sun@ccert.edu.cn>; Sun, 25 Sep 2005 09:36:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <sun@ccert.edu.cn>; Sun, 25 Sep 2005 09:48:06 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 01:25:03 -0000
+From: "yun" <yun@mail.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Cc: <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK716XW2LXjo6zEw9amvdrLtcrCo6FSZTogzqrKssO0tPO80sOkxL+z57DdzfXb86O/o7+j
+vw==?=
+Date: Sun, 25 Sep 2005 09:47:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+那么多文字，你怎么总结中心思想的？
+前面的退学一大堆事情后面揣测别人的想法的
+那里和环境相干？
+     他的文章的意思主要是说，对现在清华（或则可以扩大到国内）的研究环境不满，然后就退学了。
+     你却拿人情说事。人无完人，在人情上做的事情，对错，因人而已，你觉得对就对，你觉得错就错。
+     很多时候，人们就把注意力投向枝节问题，然后忘记了别人主要要说什么，最后发展为否定别人。

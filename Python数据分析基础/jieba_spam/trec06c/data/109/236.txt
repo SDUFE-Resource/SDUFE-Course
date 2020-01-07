@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j89BWCU9022808
+	for <weng@ccert.edu.cn>; Sat, 10 Sep 2005 06:07:05 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j89BiKkB022586
+	for <weng@ccert.edu.cn>; Sat, 10 Sep 2005 06:19:13 +0800 (CST)
+Message-Id: <200509091144.j89BiKkB022586@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 9 Sep 2005 22:03:37 -0000
+From: "huang" <huang@mail.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+Cc: <hong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9eqXbT609G3os7Eo7rDwLn6u6jG7NL40NCxsb6pt9bQ0NXQxri98Mjat9bO9tSxyrXPsMn6?=
+Date: Sat, 10 Sep 2005 06:19:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B576.DC006930"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW1M82V4fCsJlcmRKqhxo69KqiULA==
+
+实习职位：金融分析员
+要求：大四本科或研究生二年级学生，有投行实习经验者优先（请在信件中详细描述以前的实习经历）；
+     每周至少三个工作日，持续两个月以上；
+     良好的英文听说读写能力，熟练运用至少一种统计软件；
+     金融、经济、财会相关专业优先。
+招聘人数：4
+工作地点：北京
+接受简历截止日期：2005年9月20日
+主要职责：公司将安排金融风险规避、金融产品创新、新指数产品测试、权证及债券定价等方向的项目，完成优秀者毕业后可留企业工作。
+其他面议。有意者请将个人简历、求职信发送至baotouabcxyz@163.com

@@ -1,0 +1,31 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8431hfN008529
+	for <mo@ccert.edu.cn>; Tue, 6 Sep 2005 11:27:37 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM900833VWCO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Tue, 6 Sep 2005 11:45:19 +0800 (CST)
+Date: Tue, 6 Sep 2005 11:41:23 +0800
+From: =?gb2312?B?wre0utPq?= <gu@cernet.com>
+Subject: =?gb2312?B?ofEgw89YvrnIu8n91rDByw==?=
+To: mo@ccert.edu.cn
+Cc: "grey.wang" <fu@ccert.edu.cn>, swgui <lian@ccert.edu.cn>,
+ zhaohonglin82 <pan@ccert.edu.cn>
+Message-id: <0IM900834VWCO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_4iCo3BsWakluEN5O95QvqA)"
+
+　　　　　　关于干部任免的通知
+各单位：
+　　经校务会议讨论，通过以下干部任免事项：
+　　1．任命王志华为副秘书长。
+　　2．法学院行政换届。任命王晨光为法学院院长，车丕照、王振民、周光权为法学院副院长；王兵不再担任法学院副院长职务。
+　　3．任命尤政为精密仪器与机械学系主任，季林红为精密仪器与机械学系副主任；免去丁天怀精密仪器与机械学系主任职务。
+　　4．任命王忠静为土木水利学院副院长；免去金峰土木水利学院副院长职务。
+　　5．任命熊卓为学生工作处副处长。
+　　6．任命孟芊为信息服务室副主任。
+           ～～～～～  
+　　7．任命类延旭为清华园街道办事处副主任。
+　　8．因医院筹建办公室机构撤销，陈克金不再担任医院筹建办公室主任职务。

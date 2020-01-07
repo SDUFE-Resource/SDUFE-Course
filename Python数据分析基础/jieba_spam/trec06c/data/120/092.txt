@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AF39fI030243
+	for <hong@ccert.edu.cn>; Mon, 12 Sep 2005 11:13:42 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AF0L4C093997
+	for <hong@ccert.edu.cn>; Mon, 12 Sep 2005 11:11:12 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8AF0IZY093993
+	for <hong@ccert.edu.cn>; Mon, 12 Sep 2005 11:10:50 +0800 (CST)
+	(envelope-from mayuanchen@tsinghua.org.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 11:30:15 +0800
+Message-ID: <326365583.28602@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: mayuanchen@tsinghua.org.cn
+Received: from unknown (HELO mayc-d400) (220.207.80.1)
+	by 210.77.143.232 with SMTP; Mon, 12 Sep 2005 11:30:15 +0800
+From: "liu" <liu@tsinghua.org.cn>
+To: hong@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [TOEFL] =BD=CC=CA=A6=BD=DA=BF=EC=C0=D6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Date: Mon, 12 Sep 2005 11:23:04 +0800
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0061451654=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+怎么说呢，老师和学生之间，关系单纯一些我觉得比较好，如果他做不到单纯，那你做到单纯也是很好的。
+我觉得很多人在一起，就会有不同，有高下，这是没法避免的。而我们自己呢，应该更多的是更加独立起来。这个世界上没有谁是离了谁活不下去的，所以，你也并不要把一个人的对你的看法，态度放到自己的看法，态度之上。机会，成果你可以争取，用你习惯，擅长的方式，更重要的是，你应该让自己是开心的，所以不要过多的去患得患失。
+我觉得我们――尤其包括我自己，就是比较缺这种独立的意识和行动，守着导师的1亩3分地，其实是没什么前途的。
+不管如何，安慰一下。
+还有一点，如果你导师是已经混得开了的，那他肯定很人精，人情世故，肯定比你我要深多了，谁真，谁假，谁做了多少工作，他肯定心知肚明的，不用太不平衡。千万别在抱怨，等待中耗费了你宝贵的时间。
+祝好。
+     今年，相同的饭店，相同的包间，同门聚会
+     不同的是，我们成了师兄、师姐
+     而去年，我们刚进门，有些紧张和手足无措

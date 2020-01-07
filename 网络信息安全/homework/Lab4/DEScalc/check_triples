@@ -1,0 +1,15 @@
+#!/bin/sh
+#
+# loop through triples file validating each one
+
+TRIPS=${1-nist-triples}
+lev=1
+
+# loop reading each triple (skip comments) and running DEScalc on it
+while read key plain cipher junk ; do
+    [ "$key" = "#" ] && continue
+    echo
+    echo "Checking: $key $plain $cipher"
+    java DES $key $plain $cipher $lev
+done < $TRIPS
+

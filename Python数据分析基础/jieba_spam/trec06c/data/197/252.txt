@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R9oOdP018957
+	for <yu@ccert.edu.cn>; Wed, 28 Sep 2005 12:05:37 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8RA1dYd023981
+	for <yu@ccert.edu.cn>; Wed, 28 Sep 2005 12:16:52 +0800 (CST)
+Received: (eyou send program); Wed, 28 Sep 2005 11:51:49 +0800
+Message-ID: <327813796.02359@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Wed, 28 Sep 2005 11:51:49 +0800
+From: you@mail.tsinghua.edu.cn
+To: yu@ccert.edu.cn
+Date: Wed, 28 Sep 2005 11:51:49 +0800
+Reply-To: you@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgt6K8uLj2zcbR0MPmytS1xNCmu7A=?=
+Content-Type: text/plain
+
+１　面试本系直推学生的时候，因为平时很熟悉，一般不会问什么专业问题，而是一些
+很诡异的问题
+问：你对中国女足有什么看法？
+问：A同学，你的成绩为什么比B同学好啊？（B同学也是推研的，和A是同寝室）
+２　还有考研的本系同学，终于考上之后，面试时候的回答也会让老师很汗
+问：请问声压是怎么一回事？
+答：我不知道
+问：怎么，你当时还选了我这门课呢？这可是最基本的概念！！
+答：我当时准备考研呢，没听
+问：那么，请问你和你的寝室同学相处得如何？
+答：我当时准备考研呢，没怎么相处
+问：@!$^%$%&amp;%$&amp;^$*&amp;^%$#@

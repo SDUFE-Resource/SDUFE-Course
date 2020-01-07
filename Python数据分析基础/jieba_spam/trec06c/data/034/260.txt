@@ -1,0 +1,32 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <yi@ccert.edu.cn>; Wed, 24 Aug 2005 19:17:22 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 24 Aug 2005 19:35:45 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 19:35:45 +0800
+Date: Wed, 24 Aug 2005 19:35:45 +0800
+From: shen@cernet.com
+Subject: =?gb2312?B?ofEg4MUstrzKx7fiaXC1xLTtLMO7yMvX9kZBUcHL?=
+To: yi@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+我来随便写写,大家别拍的太过分
+本科过了水平二就不用参加英语分级考试,选课时候选择免修英语
+综合信息服务中心网址:http://info.tsinghua.edu.cn
+宿舍报修网址以及邮条查询网址http://myhome.tsinghua.edu.cn
+校园网用户系统http://usereg.tsinghua.edu.cn/index.php3
+交网费办公时间到主楼209
+宿舍网口过少买个switch,欢迎找mlf订购送货
+嫌宿舍太烂又要交钱太多出去租房子住,新水木HouseRent与HouseSeek两版
+觉得宿舍卫生环境差就多点打扫室内卫生,可以尝试用1:99消毒水洗刷地面
+如有问题欢迎上研版提问

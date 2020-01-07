@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5cufv027982
+	for <pu@ccert.edu.cn>; Mon, 12 Sep 2005 02:58:00 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5aHKJ091531
+	for <pu@ccert.edu.cn>; Mon, 12 Sep 2005 02:55:34 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5aEwf091527
+	for <pu@ccert.edu.cn>; Mon, 12 Sep 2005 02:55:18 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 02:44:27 +0800
+Message-ID: <326329923.15072@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 02:44:27 +0800
+From: su@mails.tsinghua.edu.cn
+To: pu@ccert.edu.cn
+Date: Mon, 12 Sep 2005 02:44:27 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfrtPO80rDvw6aj4A==?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: su@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+110
+     　　我很好的朋友，和他的男朋友是通过网络认识的，刚开始的时候特别甜蜜，特别好，后来慢慢发现了隔阂和差距，就开始吵架甚至打架（真汗！）打的甚至很严重，后来就开始不断的谈分手，不断的和好，关系也一直处于模棱两可的状态．
+     　　直到有一天，我的朋友终于遇到了自己中意的男生，那个男孩子也很喜欢我的朋友，在两个人答应开始交往的那天晚上，他送我朋友回家，然后，竟然碰到了那个男生，然后，他就把两个人打了一顿，结结实实的一顿．
+     　　现在她都没法出门了．．．

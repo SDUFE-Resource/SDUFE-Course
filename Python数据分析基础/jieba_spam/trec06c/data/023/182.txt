@@ -1,0 +1,22 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <gu@ccert.edu.cn>; Sun, 21 Aug 2005 22:43:51 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <gu@ccert.edu.cn>; Sun, 21 Aug 2005 22:57:02 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "yang" <yang@126.com>
+To: gu@ccert.edu.cn
+Cc: <ling@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0/a1vdXi0fm1xMTQyfrU9cO0sOyjvw==?=
+Date: Sun, 21 Aug 2005 22:56:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+   我的一个同乡，高中同班同学，后来班上就我们两个人考上了北京的大学，自然觉得关系要好些。但我们只是普通朋友，不过他从来不主动联系我，每次联系我都是要我帮他做事情，我是女孩子啊！而且都是要我去找人帮助他，我有难处他还认为我是推辞，说一些不咸不淡的话，而且帮忙之后也没有感激，好像是我应该的。其实我是很真心想帮助他，毕竟是同乡啊。最近一次要我帮他找人攒电脑，我晕，他在北京混了四年难道连一个帮着攒电脑的人都找不到吗？他还是男生啊。我倒是可以帮他找人，但我不情愿为了这样一个不领情的人去求别人，我犯不着为他去欠别人这个人情。就拒绝他又要说一些难听的话，我脸皮太薄，受不了，我该怎么办？

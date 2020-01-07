@@ -1,0 +1,24 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <you@ccert.edu.cn>; Sat, 20 Aug 2005 20:49:56 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <you@ccert.edu.cn>; Sat, 20 Aug 2005 21:23:16 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Sat, 20 Aug 2005 21:04:15 +0800
+From: "weng" <weng@mail.nisac.gov.cn>
+Reply-To: weng@mail.nisac.gov.cn
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1rvKx827yLu+9bXDuLjEuMrH1NrO0te3x/PL+c69wO3P67XEyrG68sDPtcQ=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+很多人似乎都和你一样啊
+     当我第一年高考时候放弃上大专，当我第一次考研究生失败，不找工作在北京考研，当我念完了研究生在北京挣着微薄的工资，他们一直是我的坚强后盾－―精神的，和物质的，支持我，而这个不知不觉中，他们已经老了，我却兑现不了当面的诺言。
+     我还记得当年妈妈跟我开玩笑说，你姓许，我姓望
+     然而他们很知足，我只是突然很伤感。

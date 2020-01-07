@@ -1,0 +1,26 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <ni@ccert.edu.cn>; Thu, 18 Aug 2005 19:54:22 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <ni@ccert.edu.cn>; Thu, 18 Aug 2005 20:07:40 +0800 (CST)
+Date: Thu, 18 Aug 2005 20:01:45 +0800
+From: "zhong" <zhong@sohu.com>
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+vOys/r1dK98MjawOC1xM7E1cLTprjDtb3KssO0tdi3vT8gKNeq1Ngp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+【 以下文字转载自 PhD 讨论区 】
+发信人: Mrk (Mrk;闭关修炼), 信区: PhD
+标  题: 请问想找金融类的文章应该到什么地方?
+发信人: Mrk (Mrk;闭关修炼), 信区: SEM
+标  题: 请问想找金融类的文章应该到什么地方?
+我想找一篇:
+Knight, Malcolm, 1998, "Developing Countries and Globalization of Financial Markets," IMF Working Paper 98/105(Washington: International Monetary Fund)
+在jstor数据库没搜到, 请问在哪里能下载?
+请大侠指教,谢谢!!!

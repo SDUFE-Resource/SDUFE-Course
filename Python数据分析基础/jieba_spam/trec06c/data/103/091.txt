@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (huajiao.com.cn [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j888M6Jx010719
+	for <zhou@ccert.edu.cn>; Thu, 8 Sep 2005 19:07:44 +0800 (CST)
+Received: from cernet27fd8164 ([211.68.120.195])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMH00NKBPDV0F@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 8 Sep 2005 19:25:08 +0800 (CST)
+Date: Thu, 8 Sep 2005 19:20:00 +0800
+From: noc-serv <chi@cernet.com>
+Subject: =?gb2312?B?ofEgob5DaGluYUhSz/vPoqG/t8nA+8bW1rDStda4tby9stf5xtq0/cTjtcSyztPro6E=?=
+To: zhou@ccert.edu.cn
+Cc: zheng@ccert.edu.cn
+Message-id: <047d01c5b450$1df5d280$c37844d3@cernet27fd8164>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.2900.2527
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+
+【ChinaHR消息】飞利浦职业指导讲座期待你的参与！
+飞利浦职业发展指导讲座
+时间：2005年9月12日 19:00-21:00
+地点：清华大学清华就业中心小报告厅
+主讲嘉宾：飞利浦电子中国集团高级政府事务总监   王国建
+人生轨迹千丝万缕，职场通路纵横交错 
+越来越大的社会就业压力，越来越激烈的市场人才争夺。怎样才能让自己在茫茫人群中崭露头角？如何提前规划未来的职业道路？皇家飞利浦电子集团作为世界上最大的电子公司之一，目前在全国已有20，000多名员工，作为全球知名企业，飞利浦采取的是何种用人之道呢？在飞利浦职业发展指导讲座，飞利浦电子中国集团高级政府事务总监王国建将为你一一剖析。
+ 

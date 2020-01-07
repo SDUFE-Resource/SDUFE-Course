@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83Navcu007784
+	for <yun@ccert.edu.cn>; Tue, 6 Sep 2005 08:43:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83NnJli001115
+	for <yun@ccert.edu.cn>; Tue, 6 Sep 2005 08:55:29 +0800 (CST)
+Message-Id: <200509032349.j83NnJli001115@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 6 Sep 2005 00:42:46 -0000
+From: "tu" <tu@mail.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Cc: <hong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvH89b6XdK7uPbK/dGnzOIoudjT2ryr1rW1xLXatv6z5LfWzPW8/ik=?=
+Date: Tue, 6 Sep 2005 08:55:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B125.2476A9F0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWw4hYhpZKPpUbwSle4S7/Xq9uNDg==
+
+我的专业对高数要求不高
+所以解释的很粗浅：
+答案的解释是说，极限过程中f\'\'不小于零，f\'\'(0)＝0是一定的，否则极限
+不会得1，而是无穷。并且在0的某个邻域内，f\'\'不恒等于1，而应等于0，
+不太清楚你说的什么充分条件，我只记忆最低层的内容。
+     标  题: [求助]一个数学题(关于极值的第二充分条件)
+     
+     设函数f(x)有二阶连续导数，且f\'(0)=0,lim f\'\'(x)/|x|=1,则
+                                         x-&gt;0
+     
+     A.f(0)是f(x)的极大值
+     B.f(0)是f(x)的极小值
+     C.(0,f(0))是曲线y=f(x)的拐点
+     D.f(0)不是f(x)的极值,(0,f(0))也不是曲线y=f(x)的拐点
+     
+     
+     答案是:B，因为x=0是f(x)的驻点，且f\'\'(x) ~ |x|(x-&gt;0),即f\'\'(x)&gt;=0(x-&gt;0),由极值的第二充分条件可得,x=0为极小值点。
+     
+     我的疑问是：既然f\'\'(x)&gt;=0(x-&gt;0)，怎么知道f\'\'(0)!=0呢？？？若f\'\'(0)=0的话，那就不是极小值了啊。。。。。搞晕了，到底极值的第二充分条件是不是一定要x=x0时，f\'\'(x0)等于或不等于0来判断，还是只要在x-&gt;x0的过程中，f\'\'(x)等于或不等于0来判断啊？？
+     --
+     

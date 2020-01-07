@@ -1,0 +1,24 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C5ZHks008458
+	for <gao@ccert.edu.cn>; Mon, 12 Sep 2005 22:54:18 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8C50nS32226
+	for <gao@ccert.edu.cn>; Mon, 12 Sep 2005 22:19:31 +0800
+Message-Id: <200509120500.j8C50nS32226@mail.cert.org.cn>
+From: "zhuang" <zhuang@cert.org.cn>
+To: gao@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: CNCERT/CC=CD=F8=C2=E7=B0=B2=C8=AB=D3=A6=BC=B1=BC=BC=CA=F5=B9=AB=BF=AA=BF=CE=CD=A8=D6=AA?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Mon, 12 Sep 2005 23:03:50 +0800
+
+刚才跟一个高中同学聊天，他是一所著名医院的普通医生，今夜值班。
+他刚刚送走了一个病人，上消化道大出血死的。我多问了两句，他告诉我本来不是什么大病，可是病人没有钱输血，于是躺在医院的病床上，躺在距离血库咫尺之遥的病床上失血过多而死。
+我问了问要多少钱，他说400ml血800元，可能还要加上一点其他费用。
+“见死不救”的事情，我在报纸、网络、电视上见到很多，已经麻木了，可是发生在一个我很熟悉的人身上，我仍然感到身上发冷。
+我谴责他的时候，他辩解到，他们医院每年遭遇的患者死了，或者好了以后 逃费，而损失过亿。医院后来有规定，哪个医生负责的病人跑了，，损失由这个医生负责。他刚刚救助这个患者，用了一些止血药，处置手段等，据说也要收费近1000，而且，很不幸，患者家属跑了，跑的时候还险些打了他。
+我真不知道改怎么说了，一直到现在，我的心情都很不好。

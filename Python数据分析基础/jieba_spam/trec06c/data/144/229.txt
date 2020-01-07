@@ -1,0 +1,27 @@
+Received: from mailgate1.neusoft.com ([210.83.210.153])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F2h5xA032120
+	for <hua@ccert.edu.cn>; Sat, 17 Sep 2005 05:32:12 +0800 (CST)
+Received: from smtp3.neusoft.com (mail.neusoft.com [210.83.210.139])
+	by mailgate1.neusoft.com (8.12.11/8.12.11) with ESMTP id j8F2pa4i001038
+	for <hua@ccert.edu.cn>; Sat, 17 Sep 2005 05:40:39 +0800
+Received: from win2003 ([192.168.74.50])
+ by smtp3.neusoft.com (iPlanet Messaging Server 5.2 Patch 1 (built Aug 19
+ 2002)) with ESMTPA id <0IMU0027B80HRF@smtp3.neusoft.com> for
+ weike@ccert.edu.cn; Sat, 17 Sep 2005 05:42:08 +0800 (CST)
+Date: Sat, 17 Sep 2005 05:43:16 +0800
+From: SQL <xin@neusoft.com>
+Subject: =?gb2312?B?UmU6IFt6el1s0rnEu8/CtcTI/cLWs7W4vg==?=
+To: hua@ccert.edu.cn
+Message-id: <001e01c5b9a0$c21b92a0$324aa8c0@win2003>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+X-MailScanner: Not scanned: please contact your Internet E-Mail Service Provider for details
+
+恩，有点办法也不会让自己这么辛苦。
+      作者：西风飘絮_  提交日期：2005-9-14 21:51:10  
+     　　华灯初上，难得亚运村的天能看得到星光，这是一件让人兴奋的事。
+     　　　　和女友商量好要到附近的一家西北餐厅解决晚餐问题。出得小区大门，看到一些人力三轮横七竖八地地停在马路边揽客，如果路稍远的话，每遇到这种场景，我们总是会照顾一下这些人的生意，我向来尊敬自食其力的人。

@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82FLbGe032642
+	for <xin@ccert.edu.cn>; Sat, 3 Sep 2005 05:48:23 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FJdh8031910
+	for <xin@ccert.edu.cn>; Sat, 3 Sep 2005 05:46:59 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j82FJK7s031906
+	for <xin@ccert.edu.cn>; Sat, 3 Sep 2005 05:46:21 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 3 Sep 2005 05:35:18 +0800
+Message-ID: <325673713.12029@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 3 Sep 2005 05:35:17 +0800
+From: lin@mails.tsinghua.edu.cn
+To: xin@ccert.edu.cn
+Date: Sat, 3 Sep 2005 05:35:17 +0800
+X-Priority: 3
+Content-Type: text/plain
+Subject: =?gb2312?B?ofEgsru3orrpy66yu9aqtcDJtsrH18qxvtb30uU=?=
+Precedence: list
+Reply-To: lin@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+嗯
+     前两天跟一个哥们聊天，人家这么感慨了一句。看到今天讨论医疗，想了起来。
+     不过，好像美帝不算，美帝是一个贫富差距极大的国家，跟中国有一拼。
+     我在日本，听说欧州和加拿大也算是社会主义。举个例子吧，俺们在这边生小孩，好像，医院生孩子要3k~4k美刀（折算）。但是如果是穷人的话，可以到政府那边开个证明（虽然俺有奖学金，但是奖学金在这里不算收入，所以收入为0）。然后政府给我一个单子，我去指定账户缴纳大

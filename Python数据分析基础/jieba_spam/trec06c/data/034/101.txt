@@ -1,0 +1,64 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <guan@ccert.edu.cn>; Wed, 24 Aug 2005 16:28:51 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Wed, 24 Aug 2005 16:47:14 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 16:47:14 +0800
+Date: Wed, 24 Aug 2005 16:47:14 +0800
+From: liu@cernet.com
+Subject: =?gb2312?B?ofEgyfO6y82ouf1IZWFydLDm1s6w5re91es=?=
+To: guan@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+        水木社区Heart/ 你今天快乐吗 版治版方针  （2005年八月修订）
+第一部分    本版的风格确定
+     Heart版的中文名称是"今天你快乐吗",很简单,在这里你可以讲述自己的心情,或者曾
+经让你心动的故事，哪怕只是一点感动,一丝忧伤。
+     Heart是因为心情而存在，也许就像一个茶馆，累了可以进来喝杯茶，听听故事，说说
+感想，嘈杂中有一份温馨和宁静。在这里，希望看到的是发自内心的声音，因为只有发自内
+心的声音才会得到发自内心的帮助和回复。在这里，希望大家能有一份宁静的心，追寻本属
+宁静的故事。
+                                                                                第二部分   本版不欢迎的文章类型
+    1.内容空洞贫乏(暂时这么称呼吧)的回文,主要形式有以下几种:"nod","对啊",
+    慕你最后一句话"等等.类型不全,随时进行补充.
+    2.批阅式回文.特点是一路看文章,一路re文章.
+    3.大批量转载,以及未标明转载的非本人原创文章.
+    4.广告,寻人,征友启示等.
+    5.争论文章,政论性文章,人身攻击文章等.
+    6.容易,或者有可能引起大规模灌水的(标题性)文章.
+    7.其他与本版风格不符以及违反站规的文章.
+                                                                                                                        
+第三部分    删文及封禁标准
+1.封禁：
+关于心情的，非披阅/披阅性的，6篇以下，看情况，3天以下封禁长度
+6～10：5天； 大于10篇：7天； 大于15篇：14天，
+心情的灌水：
+广告、标题、黄色：14天，不管几篇
+非上述情况者：5篇以下：1～3天；5篇以上：篇数定
+2.删文
+sp、re、nod类立删；第二部分中不欢迎的文章立删；其余未标记的文章标记删除。
+第四部分    标记原则
+  m--内容充实，文笔很好，有保存价值，并要收入精华区的文章
+  g--时效性比较强的文章，比如一些公告，
+       或者是一些比较精练，但是不足以收精华的短文
+  b--版务相关的重要事宜，版聚事宜的（heart里很少用到）
+  ;--祝福类的，已经合集的话题，和与作者隐私有关，经作者同意后建
+       议与作者信箱讨论的话题
+第五部分    精华区整理
+  精华区收录文章是已版面被mark的文章为基础完成,但不是所有被mark的文章都会被收录。
+  一般的文章按照所属类别分别收录，mark文章数达到35篇以上且文笔不错者，可以考虑开
+个人文集。
+第六部分    附件管理原则
+(1)附件功能服务在现行站规及版规管理范围之内，违反者严格按站规及版规处理；
+(2)上传带病毒或后门的文件或软件，版面删除，违反者封禁14天；
+(3)上传血腥、暴力、淫秽、色情及政治性过强的内容，版面删除，违反者封禁14天

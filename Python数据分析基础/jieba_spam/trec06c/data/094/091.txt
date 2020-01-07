@@ -1,0 +1,44 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85Brq7S017804
+	for <hong@ccert.edu.cn>; Tue, 6 Sep 2005 21:03:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j85C6Fu5015902
+	for <hong@ccert.edu.cn>; Tue, 6 Sep 2005 21:15:23 +0800 (CST)
+Message-Id: <200509051206.j85C6Fu5015902@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 6 Sep 2005 13:01:49 -0000
+From: "ye" <ye@mail.tsinghua.edu.cn>
+To: hong@ccert.edu.cn
+Cc: <qian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILi9vfzKssO0vsawybHIvc+6w6O/?=
+Date: Tue, 6 Sep 2005 21:15:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5B255.40DC4970"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWyEjKLgqxyovE3TYCvYclclUUw1Q==
+
+     标  题: Re: 附近什么酒吧比较好？
+     
+     你的ip不显示哦
+     
+     这个简单啊，
+     西门附近：西门酒吧（水磨哪里）比较适合聊天，地方很小
+     苍饶：平时没有什么人，但是老板比较逗，在101中学
+     漂流岛：蓝旗营车站，属于高消费地区
+     时光漫步：标准的咖啡屋改建酒吧，酒水便宜
+~~~~~~~~~~这是不是都是网游了，前一段好像金山做宣传来的？
+呵呵，你怎么对酒吧那么熟悉呀？
+     这酒是附近了
+     别的当然还有很多啊，嘿嘿
+     : 清华附近啊，呵呵，
+     : 换了新水木，难道就不是缺省了？
+     
+     
+     --
+             那么亮,却那么冰凉
+             每个人,都有一段悲伤
+             想隐藏,却在生长
+     
+     
+※ 修改:・gosen 于 Sep  6 17:19:34 修改本文・[FROM: 211.151.90.*]

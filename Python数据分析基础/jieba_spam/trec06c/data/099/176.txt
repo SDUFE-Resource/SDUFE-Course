@@ -1,0 +1,24 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j876ZGXw000980
+	for <wen@ccert.edu.cn>; Thu, 8 Sep 2005 00:33:24 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 2924001B7062
+	for <wen@ccert.edu.cn>; Thu, 8 Sep 2005 00:45:32 +0800 (CST)
+Date: Thu, 8 Sep 2005 00:45:31 +0800
+From: "zhao" <zhao@sohu.com>
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILyxzsrSu7j2udjT2sPiytTNxrz2yfrN+MnPsajD+7XEzsrM4qOho6E=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907064725.2924001B7062@sohumx06.sohu.com>
+
+有两说，
+电话问研招办说必须和网上的保持一致，如果想改只能重新申ID重新盖章
+但发邮件问那边回复说，应该可以，网上的个人陈述受字数限制，另一份可以长一些。
+因为我主要想改个人陈述，所以集中问的这个。
+        刚刚按要求填好报名表，结果发现有错误。想改，才记得前面填写时已经叮嘱确定了就
+     不能再修改了。很失望。后来才发现自己同业身份证号竟然可以再次申请ID,虽然ID一样，
+     但是只要密码不一样就可以再填一次。

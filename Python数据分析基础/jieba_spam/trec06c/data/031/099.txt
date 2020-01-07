@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <bai@ccert.edu.cn>; Tue, 23 Aug 2005 21:17:51 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <bai@ccert.edu.cn>; Tue, 23 Aug 2005 21:31:05 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 13:25:38 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "yana" <yana@mail.tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjjUwjI1yNW5pNf3vMfCvA==?=
+Date: Tue, 23 Aug 2005 21:27:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+报失：
+徐曼   13581648241   IC卡（人文）
+张杰   13810610114   黑色钱包，内有身份证、学生证等
+李老师 13701309335   8月19日在西湖游泳池丢失一个书包，其中有泳衣泳镜泳帽，并有一
+                     串汽车钥匙，请拾到者尽快与李老师联系，李老师将给予300元人民
+                     币作为酬金。
+送交：
+于树生    NOKIA手机
+好心人    IC卡（2004212654）
+          钥匙（共六把）
+领取：
+潘科      手机

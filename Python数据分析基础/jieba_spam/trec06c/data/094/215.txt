@@ -1,0 +1,48 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86DlBho027727
+	for <gan@ccert.edu.cn>; Tue, 6 Sep 2005 23:15:29 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j86DixEj066825
+	for <gan@ccert.edu.cn>; Tue, 6 Sep 2005 23:13:34 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from smtp.blacksburg.ntc-com.net (dapp1.blacksburg.ntc-com.net
+	[204.111.169.34])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j86DitfF066821
+	for <gan@ccert.edu.cn>; Tue, 6 Sep 2005 23:13:14 +0800 (CST)
+	(envelope-from hswu02@vt.edu)
+Received: from hswu (n140s066.ntc.blacksburg.shentel.net [204.111.140.66])
+	by smtp.blacksburg.ntc-com.net (Postfix) with ESMTP id 1518E130877;
+	Tue, 6 Sep 2005 11:27:18 -0400 (EDT)
+From: "qiu" <qiu@vt.edu>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVssVscLTytee7sLn9wLSjrNDEx+nO3rHIvtrJpQ==?=
+Date: Tue, 6 Sep 2005 11:27:16 -0400
+Message-ID: <000001c5b2eb$21c5ff90$6800a8c0@hswu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+Importance: Normal
+In-Reply-To: <200509061253.j86Crvrj066117@gradinfo.net.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+	j86DitfF066821
+Cc: 
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+幽默.
+无厘头的大师也不过如此.
+     但现在的情况发生了根本性的转变。按照央行的解释，人民币汇率参照一揽子货币之后，由于货币篮子中的外币升值或贬值，本身就存在相互的对冲或抵消的效应，将使得人民币汇率对单个外币币值的波动反应迟钝，不仅加大了稳定性，而且在波动不大的前提下，使人民币汇率弹力强度增加了，即所谓更具弹性。同时，也为人民币利率变动放开了手脚，增加了中国货币政策的独立性。

@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <xin@ccert.edu.cn>; Thu, 15 Sep 2005 22:48:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <xin@ccert.edu.cn>; Thu, 15 Sep 2005 23:00:40 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 14:42:54 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "he" <he@mail.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPi41bK9yOu089GntcTFrrqiw8e1xDUwvuS7sA==?=
+Date: Thu, 15 Sep 2005 22:56:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     1、你面对的是海阔天空的世界，不论你曾经怎样，过得如何，从你踏进大学校园那一刻开始，一切重来。
+     2、选定一个目标，短期长期都可以，包括爱情学业生活，然后一点点去做，漫无目的的生活是在浪费生命。
+     3、与人相处小事忍让，但坚持原则。背后议论他人那是上了年纪的大妈们才做的事，听到关于身边人的议论用两个字回答――“嗯”或“哦”，然后忘掉。
+同意  说的很好 顶一下

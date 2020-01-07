@@ -1,0 +1,32 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <gong@ccert.edu.cn>; Thu, 29 Sep 2005 12:23:37 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 04:34:44 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 12:34:44 CST
+Date: Thu, 29 Sep 2005 12:34:44 +0800 (CST)
+From: liang ming <wang@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IL3xzOyzvbO9s9TD19PNwcs=?=
+To: gong@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+这个说起来真汗，
+我家三个月就加蛋黄了，
+前天满5个月，但早就开始每天一个蛋黄的吃了
+小家伙吃得真香
+不过我家别的加得少，
+现在吃过的有
+西瓜汁、哈密瓜汁，已经早因为拉肚子停了
+胡萝卜泥（就是因为拉肚子加的，现在也不吃了）
+苹果、桃、梨（都是生吃）
+米粉，没吃多少日子，不过感觉还行
+小米粥、蛋黄（这些每天都吃）
+     很快的:) 一般母乳四个月开始加。如果宝宝吃饱了奶还意犹未尽的
+     样子，看着大人吃东西很馋，就表示他做好了加辅食的准备。我其实
+     应该早点给辰辰加。

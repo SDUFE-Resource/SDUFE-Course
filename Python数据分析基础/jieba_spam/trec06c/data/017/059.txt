@@ -1,0 +1,25 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <mo@ccert.edu.cn>; Sat, 20 Aug 2005 13:40:26 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Sat, 20 Aug 2005 13:56:52 +0800 
+Date: Sat, 20 Aug 2005 13:53:28 +0800
+From: "tao" <tao@admin.iscas.ac.cn>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILCiuMqxvsC01rvKx9K7sr/B99DQtefTsA==?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+这个说法最能让人接受了，呵呵。
+     美国人自己的主流评论大约是阿甘,作为一部主旋律影片的确不错(我曾经喜欢死了),但是它毕竟只是一部流行电影!也也是为什么它“当年”可以获奖的原因了。
+     美国的"主旋律"影片也是要有相关政府部门参与策划,再交由一些大电影公司进行投资拍摄的. 而主旋律说白了就是潜移默化或者赤裸裸的宣扬美国式的观念。
+     IMDb就不说了，其实很多电影100里面都见不到阿甘的。《纽约时报》的1000部最佳电影中同样没有它的踪影。它最大的贡献是在那么一个时代帮助美国人复习或者学习了那那么一个时代。只是在中国它被传得太神了。

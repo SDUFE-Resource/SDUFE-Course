@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <wen@ccert.edu.cn>; Sun, 21 Aug 2005 15:39:25 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <wen@ccert.edu.cn>; Sun, 21 Aug 2005 15:52:39 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 15:21:20 +0800
+Date: Sun, 21 Aug 2005 15:52:30 +0800
+From: "lv" <lv@wnt.com.cn>
+To: wen@ccert.edu.cn
+Cc: "lic" <lian@ccert.edu.cn>, "sunt" <yu@ccert.edu.cn>, "caoy" <zhuang@ccert.edu.cn>,
+        "wangb" <xia@ccert.edu.cn>, "songhm" <wua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL+qt6K5pLPMyqbIy8n61q7Ct3p6ZnJvbSBmdWRhbg==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+唉，至少一般你去医院看病都喜欢找老医生啊。
+不过出去做项目都喜欢找年纪大的。
+比如说十年前有MFC吗？5年后还有MFC吗？
+不是一直在抄IT人才转形吗？
+年纪大的人学习新事物的能力真的不强。
+我们系很多老教授电脑都是太会用。
+       这个搞不动是什么概念？一点不学习新东西当然只有被淘汰。
+     就用楼主文章里作对比的医生来说，现在用的药，大多数20年
+     前根本就不存在，你抱着20年前的知识积累一下经验就能成名医？

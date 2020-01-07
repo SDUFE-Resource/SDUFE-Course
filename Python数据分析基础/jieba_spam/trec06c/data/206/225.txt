@@ -1,0 +1,32 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <tian@ccert.edu.cn>; Fri, 30 Sep 2005 00:17:07 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 16:28:17 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Fri, 30 Sep 2005 00:28:17 CST
+Date: Fri, 30 Sep 2005 00:28:17 +0800 (CST)
+From: liang ming <gao@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM/rzazFrtPRzay+06OswsW0zrG7vtyjrM7StO3By/fho78=?=
+To: tian@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+JETAPPLE－你说我是小人，甚至是令人厌恶的小人，呵呵，有点意思！
+不过我觉得有点冤枉！
+本人自懂事起还没做过小人，还不知道做小人是什么滋味，倒是看过不少象仁兄一样做
+小人的！
+不过今天被仁兄骂做小人，倒是着实体会了被冤枉成小人是什么滋味！做小人也许是快
+乐的，就象仁兄一样，出口成章，谩骂成据，把人扁到极点自己小人得志！我想这种感
+觉一定很爽！怪不得自古小人长命，好人命断！
+小弟并非只为私欲而不顾及所有人的感受作出一些口无遮拦的事情，把别人说的一无是
+处并不能说明你就是正确的！
+不过我还是要向你学习－－男人当自强吧！
+     第一，我只是在陈述一件事实，并非骂人；
+     第二，你的风度确实不错，但是再有风度的小人也只是小人，甚至于更加令人厌恶；
+     第三，你还可以说:“与道德站在对立面，难道就说明我缺德了么？”。

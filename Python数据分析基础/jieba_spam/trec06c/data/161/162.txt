@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8JBii0m015387
+	for <huang@ccert.edu.cn>; Wed, 21 Sep 2005 02:04:42 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8JBuNSM005175
+	for <huang@ccert.edu.cn>; Wed, 21 Sep 2005 02:16:21 +0800 (CST)
+Message-Id: <200509191156.j8JBuNSM005175@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 20 Sep 2005 17:55:28 -0000
+From: "gong" <gong@mail.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Cc: <gong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgv7TBy8Tjw8e1xMzWwtvO0sP3sNfBy8v7zqrKssO0ysfV4tH5tcQ=?=
+Date: Wed, 21 Sep 2005 02:16:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD54.315C4400"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW9ESMViAP3rUc6TpGavIn8JvsLVg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+  对于一个活生生的生命如此摧残自己的行为，你们就这么冷静地对待，谢谢你们给我上的这一课，我知道了为什么那个研究生会如此对待我得朋友还振振有词，人没有高低贵贱之分吗？笑话！在这里我就看到了高低贵贱，看到了很多人是如何地耻笑一个善良的女孩子的，也许你们学历很高，也许你们不是出自贫困的农村，但是还有比你们更高贵的血统的人呢！日本人辱骂中国人是支那人，你们什么感觉？我想一个根本不尊重自己同胞，一个连基本的道德准则都没有的所谓的技术精英，怎么会让外国人看得起！请记住，看不起别人的人，自以为是的人以及完全以自我为中心的人，根本不值得别人尊敬，也无怪乎外国人耻笑中国人的不团结。请问，谁比谁强多少呢，你能保证你下半辈子一定很有前途，一定一帆风顺吗？不要自以为自己所做的事情就是道德的，不要以为自己的冷血就是客观，不要把你们的同情放在国外的受灾群众身上，看一看你们周边的人，说实话，我不敢相信这是祖国大陆最高的学府的学生的道德准则，试问，一个以自己的行为是否触犯了法律而确定自己行为走向的人是什么？这就是大陆的未来的精英吗？？？？？！！！！

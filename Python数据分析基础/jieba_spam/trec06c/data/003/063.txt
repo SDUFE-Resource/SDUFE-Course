@@ -1,0 +1,38 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <xing@ccert.edu.cn>; Mon, 15 Aug 2005 16:15:04 +0800 (CST)
+Received: (qmail 5448 invoked from network); Mon, 15 Aug 2005 08:25:51 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Mon, 15 Aug 2005 08:25:51 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "tang" <tang@jdl.ac.cn>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXiw7TIyMTWLLDvztK/tNK7tcDC37ytzOKwyQ==?=
+Date: Mon, 15 Aug 2005 16:29:50 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+重复生日有4 5 8 1
+不重复的是7　２
+小明第一句，保证了组里面不含7, 2,删掉第２，４组
+小强第二句，保证了不含共有日期，所以是9.1
+     小明和小强都是张老师的学生，张老师的生日是M月N日，  
+     2人都知道张老师的生日是下列10组中的一天，  
+     张老师把M值告诉了小明，把N值告诉了小强，  
+     张老师问他们知道他的生日是那一天吗？  
+     3月4日3月5日3月8日  
+     6月4日6月7日  
+     9月1日9月5日  
+     12月1日12月2日12月8日  
+     小明说：如果我不知道的话，小强肯定也不知道  
+     小强说：本来我也不知道，但是现在我知道了  
+     小明说：哦，那我也知道了  
+     请根据以上对话推断出张老师的生日是哪一天 
+     有人说9.1,有人说6.4
+     大家帮忙评评

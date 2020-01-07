@@ -1,0 +1,40 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q8frpZ012129
+	for <pan@ccert.edu.cn>; Mon, 29 Aug 2005 11:54:44 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <430ED8CA.0000D0.32715@m115.126.com>
+Date: Mon, 29 Aug 2005 12:06:57 +0800 (CST)
+From: "zhan" <zhan@126.com>
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7mruOZdIENhcmVlciAoSm9iKSDV0Ma40MXPorDmw+bIusno1sO199X7ICjXqtTYKQ==?=
+X-Priority: 3
+X-Originating-IP: [222.82.97.251]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_nydxdIXIQAMDkzacqLhDtoxLoZym"
+
+【 以下文字转载自 Announce 讨论区 】
+发信人: SYSOP (System Operator), 信区: Announce
+标  题: [公告] Career (Job) 招聘信息版面群设置调整
+        经正版主 cjmm 申请，现对 Career (Job) 招聘信息版面群的设置作出
+        下列调整
+1       新成立 Career_POST 招聘信息 版面，作为求职、招聘信息发布的
+        核心版面
+2       原 Career 版更名为 Career_Plaza 求职广场，作为求职等内容、
+        经验的交流讨论版面
+3       原 Job 分区更名为 Career 分区，用户输入 Career 便可看到所有版面
+        群
+4       恢复开设 Career_MS 求职微软 版面
+5       新成立 Career_Board Career 版务 版，供用户参与版面事务讨论
+上述调整后，普通用户输入 Career 便可看见的版面群如下
+                                                                功能说明
+     0  ◆  Career_Board      [版务]      Career版务            版务
+  4276  ◇  Career_MNC        [求职]      名企求职沙龙          参见版名
+  17234 ◆  Career_Offer      [求职]      求职着落              Offer交流
+  12456 ◆  Career_PHD        [求职]      博士求职              参见版名
+  11304 ◆  Career_Servant    [求职]      公务员                参见版名
+  38689 ◇  Career_Plaza      [讨论]      求职广场              求职讨论
+     3  ◆  Career_POST       [主版]      招聘信息主版          信息主力版面
+  5858  ◇  Career_MS         [求职]      求职微软              参见版名
+预计其他专属版面还会继续开设，Career 版务组、BBS 水木社区站，会努力为大家
+提供更好的求职信息与讨论服务
+特此公告

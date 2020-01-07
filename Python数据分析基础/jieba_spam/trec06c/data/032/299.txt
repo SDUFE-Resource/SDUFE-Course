@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <hou@ccert.edu.cn>; Wed, 24 Aug 2005 09:43:54 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <hou@ccert.edu.cn>; Wed, 24 Aug 2005 09:57:08 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 01:51:41 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "tan" <tan@mail.tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7V0Ma4ob+/1dbQzfi8vMr1sr/V0Ma4SkFWQcjtvP65pLPMyqY=?=
+Date: Wed, 24 Aug 2005 09:53:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【招聘】空中网技术部招聘JAVA软件工程师
+   空中网是一家致力于新一代移动数据业务发展的纳斯达克上市企业，总部位于北京海淀区白石桥
+腾达大厦。在高速发展的2.5G新一代无线数据业务领域，空中网凭借着强大的实力长期独占
+鳌头，具有广阔的发展前景。为了业务需要，空中网向社会招聘软件开发工程师。
+主要职责：
+1、java系统开发；
+2、系统的设计、文档编写和测试；
+3、系统及服务的技术维护工作；
+任职要求：
+1、计算机或相关专业.本科学历；
+2、熟练使用Java语言，至少有1年的使用经验；
+3、有Servlet或JSP程序的开发经验；
+4、有数据库应用的设计和开发经验；
+5、能够在一定压力下工作，积极主动、认真踏实、有良好的沟通能力和团队合作精神
+6、仅限全职。有无线从业工作经验者优先。
+薪酬面议，有意者请发送简历到 liuwentao@kongzhong.com，
+另外可以登陆www.kongzhong.com了解公司的其他情况。

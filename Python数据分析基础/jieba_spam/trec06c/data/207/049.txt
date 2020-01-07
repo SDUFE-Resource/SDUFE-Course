@@ -1,0 +1,41 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8SBi0E8029027
+	for <lin@ccert.edu.cn>; Fri, 30 Sep 2005 02:43:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SBtAlB017695
+	for <lin@ccert.edu.cn>; Fri, 30 Sep 2005 02:54:49 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 29 Sep 2005 18:29:05 -0000
+Message-ID: <000c01c5c423$728140e0$0c42423b@tunoc1a645037e>
+From: "hong" <hong@mail.tsinghua.edu.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7T6t6Jds8/GuEMrK7mks8zKprywLrL6xrfJ6LzGuaSzzMqmo6ixsb6po6k8ye7b2sP6zfI+?=
+Date: Fri, 30 Sep 2005 02:54:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C466.808A4220"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+代公司发文，请勿回复本ID信箱，谢谢！
+――――――――――――――――――――――
+深圳铭万信息技术有限公司，诚聘C++工程师及.产品设计工程师（北京）
+公司简介：铭万公司是一家为中国新兴企业提供信息化建设应用服务的知名高科技公司，成
+立初期就树立了"创造IT服务一流品牌"的远大目标。依托在产品技术、管理经验、干部团队
+等方面的核心优势，在全国成立了25间分公司，员工队伍近代2000人，形成了极具竞争力的
+产品线和服务品牌。
+公司主页：http://www.mainone.cn  www.mainone.com
+招聘职位：；C++工程师及.产品设计工程师
+工作地点：北京，具体地点在上地信息中路；
+应聘条件：本科生及以上学历，有工作经验者优先考虑；
+C++工程师:     熟悉并掌握C++编程, 到公司可上手工作
+产品设计工程师: 需掌握Dreamweaver，Photoshop ,Visio;
+                 掌握ATML编程
+应聘流程：简历筛选，笔试，面试。
+其他：对于应聘者，公司承诺上社会保险等，
+      并有条件解决北京市居住工作身份证。
+联系人：郑小姐  (861)62982226
+        wangyilin@mainone.com.cn
+请将简历发送至上面这个E_mail。

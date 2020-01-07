@@ -1,0 +1,34 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M0qvdE003501
+	for <cen@ccert.edu.cn>; Thu, 22 Sep 2005 18:46:20 +0800 (CST)
+Message-ID: <200509220852.j8M0qvdE003501@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO dfder-09mhatbya) (xy-liu04@166.111.53.221)
+  by localhost with SMTP; Thu, 22 Sep 2005 10:54:07 -0000
+From: "ke" <ke@mails.tsinghua.edu.cn>
+To: cen@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [SPAM] Re: Re: Re: =C5=A3=BD=CC=CA=DA=B5=C4=B1=A8=B8=E6=BB=C3=B5=C6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon727744336047_====="
+Date: Thu, 22 Sep 2005 18:59:10 +0800
+
+【 以下文字转载自 NewExpress 讨论区 】
+发信人: Guti (水木年华相忘久), 信区: NewExpress
+标  题: EXCEL使用求教～～～～～～～～
+EXCEL可以实现这种功能么？如何实现？
+有表格举例如下：
+A            B        C        D 。。。。
+学校         性别     人数
+清华大学     男       15000
+清华大学     女       5000
+北京大学     男       10000
+北京大学     女       10000
+人民大学     男       XXXX
+人民大学     女       YYYY
+。。。      。。      。。。。。
+有什么办法可以迅速的把所有男生的人数加和？
+不至于要一行行的删除 女 把？
+有把性别属性为男的行单独提取出来成为一个新的表格么？
+或者有什么办法可以一下子把所有 女 的行删除？
+请达人指教！

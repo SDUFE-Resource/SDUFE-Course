@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <ni@ccert.edu.cn>; Tue, 23 Aug 2005 05:29:03 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <ni@ccert.edu.cn>; Tue, 23 Aug 2005 05:42:21 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 21:36:58 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "fu" <fu@mail.tsinghua.edu.cn>
+To: ni@ccert.edu.cn
+Cc: "tunet" <ou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMH00KO7ucrHyKXN4sbzo7/H67TzvNK437LO0rvPwqOh?=
+Date: Tue, 23 Aug 2005 05:38:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+唉，这样的老板是不是有很多啊。
+        我现在是上海一高校的薄后，马上要出站了，但去向问题一直还没决定下来。因为老板希望我留下来，但他只是想让我留下来做事，待遇、前途他从来是不为别人考虑的；他一心只想自己挣钱，科研也在走下坡路；非常难合作，手下留不住人，因此缺兵少将（这也是想我留的原因

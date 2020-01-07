@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <jin@ccert.edu.cn>; Tue, 16 Aug 2005 20:13:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <jin@ccert.edu.cn>; Tue, 16 Aug 2005 20:27:09 +0800 (CST)
+Received: (eyou send program); Tue, 16 Aug 2005 20:22:04 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Tue, 16 Aug 2005 20:22:04 +0800
+From: zheng@mail.tsinghua.edu.cn
+To: jin@ccert.edu.cn
+Date: Tue, 16 Aug 2005 20:22:04 +0800
+Reply-To: zheng@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IKG2uvu1+9Cn06aht9Ohz/M=?=
+Content-Type: text/plain
+
+the one没看过
+memento跟这个还是有很大区别的。chaos是时间分支链，memento只有一条线，
+只不过用了交错的时序叙述，同时利用了主角的病症和习惯。
+chaos印象比较深的是，每次重新选择后，画面场景人物和服装的设定都会跟着变化。
+尤其是第二场，那么明艳青春的感觉。
+比较同意楼上导演宿命观点的说法，有时候我们没办法让所有人都幸福快乐，无论怎么做
+都是错。
+     建议看李连杰的 the.one  呵呵 或者memento

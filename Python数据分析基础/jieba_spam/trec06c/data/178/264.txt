@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <tian@ccert.edu.cn>; Sat, 24 Sep 2005 15:07:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <tian@ccert.edu.cn>; Sat, 24 Sep 2005 15:19:13 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 06:56:13 -0000
+From: "wu" <wu@mail.tsinghua.edu.cn>
+To: tian@ccert.edu.cn
+Cc: <lu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILj4x+W7qtK70KnL+c690afV373Mytq1xL6vyr6joQ==?=
+Date: Sat, 24 Sep 2005 15:19:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+大家都有发言权吗,况且清华的教授也不是各方面都行,总有其专的一面.
+总不能保证一生中处处说得话都对吧
+     李敖来大陆，轰轰烈烈，热热闹闹，国内有些人也坐不住了，总有人要跳出来显摆显摆，不过，没显好倒是现了眼。大家看看下面的材料，真为清华汗颜啊！
+     资料一【清华大学学者评李敖演讲：李敖老矣 尚能骂否？】
+     http://news.anhuinews.com/system/2005/09/23/001359039.shtml

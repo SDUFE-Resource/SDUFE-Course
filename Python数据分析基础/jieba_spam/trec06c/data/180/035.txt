@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <li@ccert.edu.cn>; Sat, 24 Sep 2005 20:37:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <li@ccert.edu.cn>; Sat, 24 Sep 2005 20:48:30 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 12:25:30 -0000
+From: "li" <li@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Cc: <mo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILXGuOe1xM/ftPrV5sDDIKOs?=
+Date: Sat, 24 Sep 2005 20:48:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+     刚搞完灯哥著名“指南”的线代部分。  与其牛逼的高数部分比较，线代一团糟。
+       正考虑是不是该买本李永乐的那本线代单行本。   
+       线代和高数体系完全不同了，灯哥还是坚持他在高数时候的套路。在加上几处印刷错误。看的人实在闹心。 线代比较“碎”，还是得乐哥的那一套“评论启发式”。灯哥整的俺这数学初学者怒怒的。。。。。。。。。。。郁闷中。。。
+李永乐的我也看完了，效果没有想得那么好，还是个人习惯问题吧！
+陈文等得也还可以，不耽误得高分呵呵

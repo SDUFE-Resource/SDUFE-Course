@@ -1,0 +1,41 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <gu@ccert.edu.cn>; Tue, 27 Sep 2005 17:06:58 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 09:18:05 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 17:18:05 CST
+Date: Tue, 27 Sep 2005 17:18:05 +0800 (CST)
+From: liang ming <lu@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgsry078Ctuaw=?=
+To: gu@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+原以为这种红色电影会充满说教和赞歌的氛围，但是影片却给我们带来惊喜。
+故事从一个年纪80岁、在布达拉宫服务了几十年的喇嘛口述开始，影片第一环节是通过壁画来介绍布达拉宫与汉族皇朝的历史渊源，
+当然主题是西藏自古以来就是中国神圣领土不可分割的一部分了。
+第二环节叫“生死”，主要是关于轮回观念，带领观众回顾了那个老喇嘛从年轻到年老的心路轨迹，也让观众跟着老喇嘛的步伐和
+目光穿梭于布达拉宫的各个宫殿，每一个富丽堂皇的宫殿都有着高贵的人物和神圣的物品，真是让人赞叹不已！布达拉宫很多人迹
+罕至的角落、珍藏的宝物、历史悠久的各种舞蹈和工艺，都展示出来了。最让我惊叹的是喇嘛们制作“城塔”的过程，在一块方方正正
+的画板上，喇嘛们用各种长度的沾了白粉的线弹出图案的轮廓，然后再让手中捏着的各种颜色的粉末沿着那个轮廓的线条缓缓落下，
+实际上那些粉末就轻轻地浮在画板上。经过20个日日夜夜的工作，终于“画”成了一幅“城塔”，图案之复杂，色彩之绚丽，构思之
+精巧，真是不可思议！然后，喇嘛们小心翼翼地把画板平抬至一个诵经的地方，用玻璃罩子把画板罩上（这样就不怕风或者其他东西把
+粉末吹走以致破坏了这个画面）。诵经完毕后，喇嘛们就毫不犹豫地把这幅画毁掉了，就是把画板上的粉末都扫成一堆。看着这幅伟大
+的杰作顷刻之间变成一堆乱糟糟的粉末，真是心疼啊！他们为什么要这么做呢？原来是把粉末装进一个罐子，在宫殿封顶的时候，把
+“塔城”粉末倒入火堆，这样是祈祷房子坚固吉祥。“城塔”名字可能由此而来，作为镇屋之宝。
+第三环节叫“俗世”，主要是布达拉宫和西藏的新气象了，更多的是古老与现代的对话与理解，交融和冲撞，很多小孩子不愿意当寂寞
+的喇嘛了，布达拉宫附近有游乐场了，大街上跑着汽车了，但是仍有人三步一膜拜地步行到布达拉宫朝圣，仍有年轻人进入布达拉宫过
+着与世隔绝的生活……
+影片的最后来了点睛之笔：我们现在解放了过上自由的生活！呵呵。
+我觉得影片真的拍得很好，让我们全面欣赏了布达拉宫，了解它所蕴含的宗教意义，藏民与汉族的历史的关系，喇嘛们的生活。
+估计很多物品和宫殿都是不对游客开放的，在影片中就可以看到。还有，影片很坦白地还原了喇嘛的心路历程，从年轻时的叛逆、
+不甘寂寞、青春萌动、出逃，到后来的稳重、虔诚、修身养性，甚至为了修复布达拉宫而多次受重伤，落下残疾。我们看到的是一个
+有血有肉的人。
+最后，还有一点我比较好奇，为什么先前的达赖喇嘛都这么短命呢？记得影片中集中回放了好几个达赖喇嘛（从六世到十一世）的寿
+命，最短的好像13岁，最长的好像不过20来岁。
+谁知道原因吗？

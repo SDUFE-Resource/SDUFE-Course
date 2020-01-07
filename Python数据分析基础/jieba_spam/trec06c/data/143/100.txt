@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FBhgV9003152
+	for <shen@ccert.edu.cn>; Fri, 16 Sep 2005 23:28:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FBtVIH029758
+	for <shen@ccert.edu.cn>; Fri, 16 Sep 2005 23:40:17 +0800 (CST)
+Message-Id: <200509151155.j8FBtVIH029758@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 15:21:30 -0000
+From: "zhao" <zhao@mail.tsinghua.edu.cn>
+To: shen@ccert.edu.cn
+Cc: <jian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg16Ky4dbQ0MTAz8qmzsq49867zazRp7rDo6EgKNeq1Ngp?=
+Date: Fri, 16 Sep 2005 23:40:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BA2F.69B84380"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW57Ftgyg2sMjsQQOq8TagbU/Od5Q==
+
+【 以下文字转载自 Graduate 讨论区 】
+发信人: drive (天堂), 信区: Graduate
+标  题: 注册中心老师问各位同学好！
+发信人: THUZCZX (注册中心), 信区: THUCourse
+标  题: 注册中心老师问各位同学好！
+各位同学：
+大家下午好，我们是注册中心的老师。
+适逢新学期开始，中秋来临，谨祝各位同学中秋节快乐！
+作为学校的一个行政部门，我们选择在BBS轻松的环境下和同学们坦诚交流，真诚听取同
+学们的意见。我们知道我们的工作还存在很多不足，还有很多地方待于改进，希望通过我
+们的交流，对我们的工作有所促进，进一步为广大同学提供更加优质的服务，促使我们教
+务管理人员强化服务意识，提高服务质量。 
+欢迎同学们结合自己在学习过程中遇到的困难或问题畅所欲言，提出您关心的与我们中心
+工作相关的问题。
+今天讨论的内容仅限于本BBS网站，请大家不要把今天交流的内容转贴到其它网站上去。

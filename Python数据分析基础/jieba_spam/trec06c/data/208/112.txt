@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T2QvLi001892
+	for <cai@ccert.edu.cn>; Fri, 30 Sep 2005 08:53:39 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8T2U2h24691;
+	Fri, 30 Sep 2005 08:56:44 +0800
+Message-Id: <200509290230.j8T2U2h24691@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 00:56:44 UT
+To: cai@ccert.edu.cn
+From: ning@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILDvsbHKprTz0MTA7c+1tcRNTdX3vK+hsLPJs6TQodfpobGzydSxo6zD4rfRtcTFtg==?=
+
+发错版了吧？
+     在《成长的烦恼》里，我们第一次知道了心理医生这个词。可能大家也听过《精神分析引论》、《梦的解析》这两本影响世界的书以及作者弗洛伊德的名字。可是心理咨询这个词好像对我们来说还有一些距离、一些神秘。
+     如果大家在生活上遇到烦恼，需要朋友倾诉，或者对心理学感兴趣，现在在大家面前有一个绝好的机会。我一个北师大的朋友赢得了去上海的一个心理学论坛上的发言机会，她需要做一个实验性的研究。因为是实验性的，所以这次课程全部免费。她人也非常好，也非常热爱自己的专业
+     具体内容我就不介绍了，下面把她的“海报”和“日程”贴出来。

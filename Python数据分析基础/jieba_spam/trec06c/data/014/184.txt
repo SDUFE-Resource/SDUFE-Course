@@ -1,0 +1,32 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <zhang@ccert.edu.cn>; Sat, 20 Aug 2005 01:44:17 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <zhang@ccert.edu.cn>; Sat, 20 Aug 2005 02:17:37 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Sat, 20 Aug 2005 01:58:36 +0800
+From: "feng" <feng@mail.nisac.gov.cn>
+Reply-To: feng@mail.nisac.gov.cn
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILGxvqnA7b/GtdrSu8P7t8XG+sflu6rRodTxz+O427bBtPPRp6O/ICjXqtTYKQ==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+靠色？
+     标  题: Re: 北京理科第一名放弃清华选择香港读大学？ (转载)
+     
+     我的工作一不靠技术二不靠英语……
+     : 看情况了
+     : 目前对我来说英语很有用阿
+     : 上班必须的
+     
+     --
+     嘿~！你还别说，这一看书，头不昏了，眼不花了，连ps2都落灰了。
+     
+     

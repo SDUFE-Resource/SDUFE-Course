@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <xiao@ccert.edu.cn>; Sun, 21 Aug 2005 09:39:57 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <xiao@ccert.edu.cn>; Sun, 21 Aug 2005 09:53:11 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 09:21:52 +0800
+Date: Sun, 21 Aug 2005 09:53:02 +0800
+From: "qing" <qing@wnt.com.cn>
+To: xiao@ccert.edu.cn
+Cc: "lic" <lian@ccert.edu.cn>, "sunt" <yana@ccert.edu.cn>, "caoy" <ni@ccert.edu.cn>,
+        "wangb" <xie@ccert.edu.cn>, "songhm" <xu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILjjsrvD97DXo6zLtcrKus/X9kxQoaOho6Gj?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+大概是说和你过日子比较放心，舒心，但是不够开心。
+男人想开心呢，一要女人漂亮（可以通过服饰和化妆来弥补），二要活泼会生活（估计你比较乏味），三要有风情会吊着他（你总是依赖对方所以做不到这点）。这三点，你都可以做些努力，让自己更有魅力些。
+     24年，喜欢过的人3个。。。
+     1.高中同学，暗恋6年，第7年表白被拒，说我适合做LP，返回头又和EXGF好了
+     2.EXBF，互相喜欢，后来觉得他还是爱自己更多，也说我适合做LP

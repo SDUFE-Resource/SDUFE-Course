@@ -1,0 +1,21 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <sun@ccert.edu.cn>; Tue, 27 Sep 2005 18:43:22 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <sun@ccert.edu.cn>; Tue, 27 Sep 2005 18:03:41 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "luo" <luo@cert.org.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3i0KPNwbHuv7zIocflu6qyqcq/09C24MTRo78=?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Tue, 27 Sep 2005 18:49:20 +0800
+
+请你不要乱窜改别人的话，我说的是“本质区别”，而且是限制在发文章的压力和替老板干活这些方面。
+他的热情并没有错，从清华退学无可非议，但是他对学校对导师的态度着实不厚道。难道要每个人都象他那样目空一切以德报怨，中国学术界才有希望？
+     是啊，某些人自己从清华出国，用脚投票，可是却误导师弟师妹，说国内国外名校没有区别。所以就忍不住说了tigereatmeat几句。
+     我觉得王垠虽然偏激，也有一些错误认识，但是他的热情和判断是对的，我希望他能找到好的导师和学校。如果像王垠这样的年轻人，都一个个变成了一味忍受，老成“厚道”的人，拿中国的学术界还有多大的希望？ 

@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <hou@ccert.edu.cn>; Fri, 23 Sep 2005 23:40:51 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 23:29:51 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 23:29:50 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 23:29:50 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 15:29:50 -0000
+From: "guo" <guo@mail.tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM27yLvWqrXAx7DE0NPRveG76cHLsqK1scHL17yw1rDWLNDEu7nKx9PQtePNtA==?=
+Date: Fri, 23 Sep 2005 23:52:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+     因为种种原因,EX-BF和一个他自己不喜欢的人结婚了,还有了孩子.无言.只是很为他为心疼,曾经说过要坚持的,最后还是没有.因为他的不自信,因为我的自尊,还因为很多很多客观的原因.我们最终没能在一起.现在通过他二哥知道他结婚了,还当了准爸爸.很心疼.明知道他不喜欢他老婆的,因为孩子才在一起的.我知道就算没有这个女人我和他也不能在一起,但是,真的很心疼,觉得他对自己不负责.唉.世界上真的没有真正的爱情了么?
+你不是他自己
+你根本就不知道他现在幸福不幸福
+你以为他和你在一起了就会比现在幸福吗

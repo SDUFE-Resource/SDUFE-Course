@@ -1,0 +1,35 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <zhan@ccert.edu.cn>; Mon, 22 Aug 2005 08:37:04 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <zhan@ccert.edu.cn>; Mon, 22 Aug 2005 08:50:15 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "you" <you@126.com>
+To: zhan@ccert.edu.cn
+Cc: <fan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1fc6INPQy63Jz7n9sbG088fgxPG1xMXg0bW/zsO0o78gKNeq1Ngp?=
+Date: Mon, 22 Aug 2005 08:50:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+【 以下文字转载自 SuperGirl 讨论区 】
+发信人: newaphrodite (每天爱你多一些), 信区: SuperGirl
+标  题: 有谁上过北大青鸟的培训课么？ (转载)
+发信人: newaphrodite (每天爱你多一些), 信区: NewExpress
+标  题: 有谁上过北大青鸟的培训课么？
+发信人: newaphrodite (每天爱你多一些), 信区: ITExpress
+标  题: 有谁上过北大青鸟的培训课么？
+代人询问一下
+方便请将您的联系方式发到我站内邮箱
+谢谢了~
+借人气问问
+斑竹请保留一段时间啊
+谢谢了
+似乎是网络工程师培训的课

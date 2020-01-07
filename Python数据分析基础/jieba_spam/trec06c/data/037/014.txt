@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <wu@ccert.edu.cn>; Thu, 25 Aug 2005 06:42:35 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 07:00:58 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 07:00:58 +0800
+Date: Thu, 25 Aug 2005 07:00:58 +0800
+From: li@cernet.com
+Subject: =?gb2312?B?UmU6IL3xzOzU2tK7uPZtbcrWu/rJz7+0tb2/8de3uMNtbcG9xOq1xGdnt6K1xLbM0MUgKNeq1Ngp?=
+To: wu@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+直接用你我代替得了：
+我只在乎你，我不在乎别人在乎你　也不在乎别人和我一样在乎你，我只想你一样在乎我
+     在乎你的我，只在乎，（我）在乎的你；在乎你的我，不在乎，我在乎的你，是否在乎，别人；也不在乎，是否，别人像，在乎你的我一样，在乎，我在乎的你。在乎你的我，只在乎，我在乎的你（此处原文二字前后颠倒），是否像，在乎你的我，在乎你一样，在乎，在乎你的我。
+     ※ 修改:・LiuJG 于 Aug 25 01:29:19 修改本文・[FROM: 221.216.112.*]

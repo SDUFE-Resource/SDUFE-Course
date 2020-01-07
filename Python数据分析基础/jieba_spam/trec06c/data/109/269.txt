@@ -1,0 +1,20 @@
+Received: from mail.datangmobile.cn ([219.142.67.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8892WtN010943
+	for <tian@ccert.edu.cn>; Sat, 10 Sep 2005 06:45:39 +0800 (CST)
+X-MimeOLE: Produced By Microsoft Exchange V6.0.6249.0
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----_=_NextPart_001_01C5B455.B334AA92"
+Subject: =?gb2312?B?UmU6INfcvvW1w8DPuauyu7nY0MTO0g==?=
+Date: Sat, 10 Sep 2005 06:57:23 +0800
+Message-ID: <D728AD1FA2543948B89DE29C5BF4CD0704702305@bjmail1.bj.datangmobile.com>
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+Thread-Topic: =?gb2312?B?Rlc6usPP+8+i?=
+Thread-Index: AcWzVeLIdAsKA274TtK/X9/Q8e7fPQAAQx2QAAD0grAAPoMbQA==
+From: <jin@datangmobile.cn>
+To: tian@ccert.edu.cn
+
+       

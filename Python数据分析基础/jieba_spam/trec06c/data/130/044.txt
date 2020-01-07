@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <xie@ccert.edu.cn>; Wed, 14 Sep 2005 10:03:32 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <xie@ccert.edu.cn>; Wed, 14 Sep 2005 10:00:47 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <xie@ccert.edu.cn>; Wed, 14 Sep 2005 09:59:49 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Wed, 14 Sep 2005 10:11:21 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Wed, 14 Sep 2005 10:13:57 +0800
+From: "liao" <liao@runway.cn.net>
+To: xie@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILi91tDQocPFtcSxo7CyzKu28dDEwcujoaOho6E=?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: liao@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     今天想经过附中出去玩。附中小门的保安（编号000701)说清华的学生
+     不让进附中，态度十分恶劣！让他出示学校的规定，他说在保卫室有，
+     去了保卫室，哪个家伙现是指了一个柜子挡住了，看不见的纸。然后，
+你怎么这么不讲理啊!?先不说人家的态度,做为清华的学生,就可以随便穿行学校的任何地方么?
+学校那么多院系机关部处,你都想随便进出不成??
+人家保安是在完成自己的工作,态度好坏也只是听你一面之词.但是至少人家做的是本职工作,而你确不是.
+真正恶心的人是你.

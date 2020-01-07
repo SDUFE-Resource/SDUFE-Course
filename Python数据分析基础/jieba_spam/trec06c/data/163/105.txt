@@ -1,0 +1,45 @@
+Received: from 163.com (bj44-212.i.netease.com [202.108.44.212])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J18GIe011523
+	for <mei@ccert.edu.cn>; Wed, 21 Sep 2005 12:06:20 +0800 (CST)
+Message-ID: <200509190908.j8J18GIe011523@spam-gw.ccert.edu.cn>
+Received: from tsinghua-i1p2se (unknown [219.223.254.137])
+	by smtp4 (Coremail) with SMTP id 1kOJjikSLkOuktkC.1
+	for <mei@ccert.edu.cn>; Wed, 21 Sep 2005 12:17:52 +0800 (CST)
+X-Originating-IP: [219.223.254.137]
+From: "huang" <huang@163.com>
+Reply-To: huang@163.com
+To: mei@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: =B2=E2=CA=D4=B3=CC=D0=F2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 21 Sep 2005 12:17:47 +0800
+
+【 以下文字转载自 STVNET 讨论区 】
+发信人: stvnet (清华大学学生网络电视), 信区: STVNET
+标  题: 【温馨提示】清华校内网络电视直播/转播的收看方法
+新学期伊始，又有一批研究生GGJJ和本科生DDMM进入了清华的大家庭。
+为了丰富大家的生活，给大家提供方便，清华大学学生网络电视（STVNET）将继续我们的网络电视服务：）
+只要通过清华任何一台可以上网的电脑（公共机房参见附件），您都可以收看到网络电视的直播或转播节目。
+具体操作如下：
+进入学生清华网站http://www.student.tsinghua.edu.cn，找到并进入“视听媒体”专区，然后根据个人收看习惯，可以选择可行的收看方式：
+Gridmedia：
+　　点击学生清华视听媒体右部顶端的“电视转播”下的“Gridmedia”蓝色背景图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+　　1.选择“打开”(或者OPEN/RUN)等本地打开按钮直到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“教育电视频道2台”频道收看这场直播。
+　　2.选择“保存”(或者SAVE)等按钮保存到您的计算机上，运行保存下来的“Gridmedia学生网络电视版”程序，即可看到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gidmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“教育电视频道2台”频道收看这场直播。
+　　另外由于将从远处服务器以及一些动态的转发节点获得数据，所以在选择频道弹出windows media player播放器后，您会看到播放器下端将出现“正在连接到媒体...”字样以及后来的“缓冲 XX％”字样，此时请您耐心等待数据的接收。
+　　为保证您的收看效果，建议安装windows media player 8.0或以上版本。
+VVSky：
+第一步 下载并安装VVSky客户端，您可以通过以下两种途径：
+1．进入学生清华视听媒体页面：
+   http://www.student.tsinghua.edu.cn/media/default.aspx 
+   点击学生清华视听媒体右部顶端的"VVSky网络电视"图标，下载客户端并进行安装。
+2．进入VVSky主页http://edu.vvsky.com.cn 进行客户端下载和安装。
+第二步 运行VVSky客户端
+　　运行VVSky客户端，您将可以看到弹出一个"登陆对话框"，并且右下角的任务栏上有电视小图标出现。对于登陆对话框，目前注册后通过登陆可以收看我们的直播节目享受服务，同时选择"游客"进入也同样可以收看我们的直播节目和享受服务。不过鉴于用户的连续性和今后新增服务的可适用性，推荐大家第一次使用注册和登陆模式进入我们的客户端。
+第三步 收看节目并切换频道
+　　登陆后会出现播放器画面，左侧是一个播放器，右侧有我们的最新节目列表和下端的频道列表。选择点击"CCTV-5"、"BTV-6"、"STVNET"三个频道之一即可收看响应的频道节目。同时切换频道也是进行如此操作。右下方的"窗口置顶"可以让您的播放器始终出于屏幕前段，双击播放器画面可以使得全屏观看节目。
+附：校内对公共开放的上网地点。（除了地图上标注的之外，经管学院、软件学院、法学院等院系的系馆有对内开放的机房。）
+温馨提示：上网有度，注意用眼哦~o~

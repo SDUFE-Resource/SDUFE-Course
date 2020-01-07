@@ -1,0 +1,34 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <xie@ccert.edu.cn>; Wed, 28 Sep 2005 00:49:02 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 17:00:13 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 01:00:12 CST
+Date: Wed, 28 Sep 2005 01:00:12 +0800 (CST)
+From: liang ming <bi@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILyx0bCjur2o1v7Ptb2oNTOw4LXEwt63vM2s0aejodPQyMu88bW9y/21xNGnyfrWpKOh?=
+To: xie@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+罗芳同学最好和同学朋友一起去联系取回饭卡事宜
+既要感谢好心人，又要注意自身安全
+     标  题: 急寻：建筑系建53班的罗芳同学！有人捡到她的学生证！
+     
+       急寻：建筑系建53班的罗芳同学！有人捡到她的学生证！
+     
+       本人在实验室接到一位校外陌生人段先生的电话，热心的段先生说，
+     
+       他捡到建筑系建53班的罗芳同学的学生证和饭卡，他估计是小偷偷到后仍掉的。
+     
+        段先生把自己的电话留下来，并让我转告罗同学，请罗同学和他联系去取学生证和饭卡。在此不便公布段先生的电话，请认识罗芳同学的人代为转告，请罗同学给我发信要段先生的电话，或者把罗芳同学的联系方式发到我信箱，我转告她也好。
+     
+        向好心的段先生致敬！
+     --
+     

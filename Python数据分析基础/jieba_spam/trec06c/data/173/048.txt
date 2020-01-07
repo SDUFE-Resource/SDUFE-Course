@@ -1,0 +1,24 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <luo@ccert.edu.cn>; Fri, 23 Sep 2005 14:19:29 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Fri, 23 Sep 2005 06:27:12 -0000
+From: "hua" <hua@mails.tsinghua.edu.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S0rLAtLy4vuQ=?=
+Date: Fri, 23 Sep 2005 14:31:08 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+最牛的软件当然事ppt
+     1.技术偏执这没什么的.很多人都有这种倾向,我们宿舍有2个同学,成天大赞java,把C/C++贬得一文不值,充满情绪.这不是关键,关键是你可以痴迷linux,tex,emacs,可是你没资格认为别人用windows,office就是低你一等,就是不是搞学术,是伪科学.这没任何道理.教研组就是没这个风气,
+     2.退学很好,重新选择自己的路,大家尊重,甚至敬佩.我不知道这和高中时候老师没给解答问题有什么关系,跟军训时候受教官同学委屈有什么关系,跟川大宿舍不好有什么关系,跟保研时候某院士看不起川大有什么关系,跟师兄师姐用word有什么关系,跟副导师不让他去希腊开会有什么关

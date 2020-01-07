@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3DEnC011057
+	for <luo@ccert.edu.cn>; Sun, 2 Oct 2005 03:09:37 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U37j6F080151
+	for <luo@ccert.edu.cn>; Sun, 2 Oct 2005 03:04:24 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U37hcH080147
+	for <luo@ccert.edu.cn>; Sun, 2 Oct 2005 03:04:06 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509300307.j8U37hcH080147@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodo-f4b2088bd3) (ksj00@202.112.4.221)
+	by localhost with SMTP; Sat, 1 Oct 2005 19:16:31 -0000
+Date: Sun, 2 Oct 2005 03:16:05 +0800
+From: "hong" <hong@mails.tsinghua.edu.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1rvPo837wqXW99LUuvO2rrXD16XXobv6u+E=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8U37hcH080147
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+似乎不是，呵呵，只要你没有挂科就有推研资格
+例如我们某一个实验室老师就直接要了学分积很低的人，只是因为这个学生在他实验室做过
+而且在正式结果出来前很久就明确说明了
+这个市老师选择，但是你能让老师选择的前提不就是成绩吗？
+你能力再强，排名不够高，一样读不了研究生
+这个就和没钱就买不起房子和车子一样，很现实的问题
+     老师选择不仅仅是看成绩，还要看是否能干活，是否在本教研组做过或者是否对研究领域有兴趣或者有基础
+     就如同美国大学录取也要看你的ps、推荐信而不仅仅是成绩
+     既然你也没有好办法，那对以后想推研本科的ddmm们最现实的事情不就是搞好学习成绩吗？

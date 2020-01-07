@@ -1,0 +1,31 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <liu@ccert.edu.cn>; Fri, 19 Aug 2005 11:52:33 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Fri, 19 Aug 2005 12:08:59 +0800 
+Date: Fri, 19 Aug 2005 12:05:35 +0800
+From: "liu" <liu@admin.iscas.ac.cn>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgQWRhZ2VudF9CZWF1dHmw5sPm1dDGuEJN0rvD+yAo16rU2Ck=?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+【 以下文字转载自 ADAgent_Beauty 讨论区 】
+发信人: lovelex (快乐ing), 信区: ADAgent_Beauty
+标  题: Adagent_Beauty版面招聘BM一名
+要求：
+     1. 能保证每天有足够的时间在线
+     2. 能及时的完成相关的任务和操作
+     3. 希望没有商业背景，并对本版信息有兴趣
+     4. 主要任务可能是精华区的相关收录和版面的标记管理
+     5. 希望是个熟练工 :-)
+ 有兴趣的朋友可以直接给我或者panpanjj发站内信件联系

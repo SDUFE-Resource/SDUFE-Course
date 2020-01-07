@@ -1,0 +1,25 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <zhan@ccert.edu.cn>; Wed, 28 Sep 2005 00:13:24 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 16:24:35 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 00:24:34 CST
+Date: Wed, 28 Sep 2005 00:24:34 +0800 (CST)
+From: liang ming <hong@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INLyzqrDqCy6zdXJt/K8uLr1tPLG8MC0?=
+To: zhan@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+     丈夫是一个很斯文的人.很绅士.从我认识他到结婚到现在除非是玩闹时偶尔手重点.平日连重话都没对我说过.
+     因为丈夫的年龄比我大一些,我们决定今年要个BB.可是我很喜欢猫...养了4只.在UK的家里还有7只....我知道丈夫不喜欢猫,但因为爱我所以他忍受....可是今天早上他上班前再次很郑重的说-必须把猫送走..我拒绝..我见这次真的无法说服他,忍不住在他脸上抓了几下....结果....他把我抱起来狠狠摔在了沙发上....
+     我爱我的丈夫,我也喜欢我的猫.说实话我并不打算这么小就要当母亲.可丈夫说BB生下来有保姆我其实不用操什么心的,我知道他这真是在宽我的心....可我不想后退,而且下周回UK办事情他还要发动我的母亲说服我...烦啊
+   真是个没教养的女人，竟然用手抓老公的脸！还好意思在这里说！！鄙视！！！   
+ 
+   呸！！！

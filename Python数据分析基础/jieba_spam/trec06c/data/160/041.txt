@@ -1,0 +1,30 @@
+Received: from 163.com (bj44-212.i.netease.com [202.108.44.212])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J18GIe011523
+	for <zhong@ccert.edu.cn>; Tue, 20 Sep 2005 17:55:25 +0800 (CST)
+Message-ID: <200509190908.j8J18GIe011523@spam-gw.ccert.edu.cn>
+Received: from tsinghua-i1p2se (unknown [219.223.254.137])
+	by smtp4 (Coremail) with SMTP id 1kOJjikSLkOuktkC.1
+	for <zhong@ccert.edu.cn>; Tue, 20 Sep 2005 18:06:57 +0800 (CST)
+X-Originating-IP: [219.223.254.137]
+From: "hong" <hong@163.com>
+Reply-To: hong@163.com
+To: zhong@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: =B2=E2=CA=D4=B3=CC=D0=F2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 20 Sep 2005 18:06:52 +0800
+
+报告题目：给规矩以画方圆--也谈如何作学位论文
+内容简介：邹老师将详谈从论文的选题、文献的阅读到论文的写作等环节的方法
+          与注意事项，同时会提出有关论文写作的若干点十分有用的建议。
+报告人  ：邹红星
+简介    ：1996年9月至2002年7月 在清华大学自动化系模式识别与智能系统学习，
+          获博士学位
+          2002年7月至今 在清华大学担任副教授
+日期    ：2005年9月22日
+时间    ：19:20-21:45
+地点    ：中央主楼508
+主办单位：自动化系研会学术部

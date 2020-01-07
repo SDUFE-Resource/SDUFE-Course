@@ -1,0 +1,25 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBHaMG026280
+	for <zhong@ccert.edu.cn>; Thu, 15 Sep 2005 12:22:55 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id A7E89718597; Thu, 15 Sep 2005 12:34:46 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 139F3733E57; Thu, 15 Sep 2005 12:34:45 +0800 (CST)
+Message-ID: <053901c5b91f$8fe966d0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <pan@dlut.edu.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG2zKvQ0Mm9yc+ht8flu6q3xdOzu+H039b3tLTIy9SxvPvD5rvh09rW3M7lvtnQ0A==?=
+Date: Thu, 15 Sep 2005 12:34:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0536_01C5B962.9DFC0500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我还是更喜欢大决战
+         9月16日（周五）下午两点新闻与传播学院与八一电影制片厂将于大礼堂联合举办影片《太行山上》清华放映会暨主创人员见面会，届时导演韦廉和八一电影制片厂领导将与大家见面。影片放映结束后，韦廉将现场与同学们交流观感。放映会免票入场。
+     影片介绍：
+         在抗日战争胜利６０周年之际，老牌劲旅八一电影制片厂汇集两岸三地实力演员，倾力打造出抗日题材巨作――&lt;&lt;太行山上&gt;&gt;。

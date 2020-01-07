@@ -1,0 +1,28 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <zhang@ccert.edu.cn>; Thu, 29 Sep 2005 19:40:16 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 11:51:26 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 19:51:26 CST
+Date: Thu, 29 Sep 2005 19:51:26 +0800 (CST)
+From: liang ming <wu@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INLRvq231srWwcssu7nT0L/JxNzU2bz7w+bC8D8=?=
+To: zhang@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+恋人决裂，即使不成为仇人，最好也要成为路人
+不要以为分手了还能做什么普通朋友，你和她的故事属于历史
+历史就让它躺着好了
+     标  题: 已经分手了,还有可能再见面吗?
+     
+     第一次恋爱,永远也难以忘记.虽然分手一年多了,但是脑子里怎么也摸不去她的身影.最近竟然有了想跟她吃顿饭的想法,只是想看看她.但不知道怎么开口,开口又能换回什么呢?
+     --
+     我明白了，男人优秀的魅力是无限的！
+     

@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <zheng@ccert.edu.cn>; Mon, 22 Aug 2005 02:37:06 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <zheng@ccert.edu.cn>; Mon, 22 Aug 2005 02:50:20 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 02:19:01 +0800
+Date: Mon, 22 Aug 2005 02:50:11 +0800
+From: "yuan" <yuan@wnt.com.cn>
+To: zheng@ccert.edu.cn
+Cc: "lic" <yan@ccert.edu.cn>, "sunt" <su@ccert.edu.cn>, "caoy" <jian@ccert.edu.cn>,
+        "wangb" <kong@ccert.edu.cn>, "songhm" <li@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKG2uvu1+9Cn06aht8O7v7S2rg==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+都是真的
+这是一部难得的好片
+主人公同他的父亲一样，具有回到过去的超能力
+他可以通过阅读自己过去的日记（还有相片等），回到当时的场景，从而有机会改变当年的事情
+但是回到过去的时间是短暂的，每次即使是很小的历史改变，到20年后也足以引起巨大的变化，于是每次从过去回到现在，他的生活都会完全改变
+主人公就是不断地改变过去，想获得一个比较令人满意的现在，中间发生了很多意想不到的事
+不知这样说你明白不？
+     到底怎么回事儿
+     想表达什么
+     哪些是幻想，哪些是真实

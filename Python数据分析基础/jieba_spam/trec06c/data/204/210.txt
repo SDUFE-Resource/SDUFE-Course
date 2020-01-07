@@ -1,0 +1,32 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <lu@ccert.edu.cn>; Thu, 29 Sep 2005 15:10:46 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 07:21:56 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 15:21:56 CST
+Date: Thu, 29 Sep 2005 15:21:56 +0800 (CST)
+From: liang ming <xue@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INT10fm+3L74srvAzbb4u/G1xM2s0afE2A==?=
+To: lu@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+就是。
+这种事竟然还大言不惭的拿出来说。
+     标  题: Re: 怎样拒绝不劳而获的同学呢
+     
+     又不是科研成果..同组的话就是一个group，一起向前啊
+     你的师兄师姐也曾经这样帮助过你吧:)
+     
+     :     如果有一些资料是你辛苦查阅所得，不巧被同课题组其他人看到，
+     : 于是向你索要，怎样拒绝而又不至于得罪他呢？还是这种情况大家都
+     : 大方奉送了呢？
+     
+     --
+                                       ┃

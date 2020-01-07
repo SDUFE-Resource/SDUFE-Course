@@ -1,0 +1,31 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <tu@ccert.edu.cn>; Sun, 25 Sep 2005 13:28:39 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Sun, 25 Sep 2005 05:36:07 -0000
+From: "ke" <ke@mails.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IHdlYtPDu6fM1sLbzsrM4rXEu/mxvszYteOjqLTyteOy7aOpo7+jv6O/?=
+Date: Sun, 25 Sep 2005 13:45:48 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+web用户讨论问题的基本特点：
+1。几乎所有问题，导向描写中国的贫穷、落后，尽管都是道听途说的；
+2。几乎所有问题的根源，都是制度上的。归结为制度上的落后。顺便夸夸某些国家的某写方面的优秀制度云云；当然也是道听途说的。
+3。几乎都是一灌好几屏，但不知所云，还自我感觉良好，却不知如同中央台的新闻联播。
+问题的根源：
+1.web用户基本缺乏对所讨论问题细节的把握，也不习惯由re文中把握重要细节，从而得到自己的取向和判断；因此空话，套话连篇。
+2.web用户和telnet用户在感受上不同。web用户感受的是静态的网页，telnet用户感受的是连线另一端活生生的人，因此，在发言时采用的姿态不同。
+具体实例，请看re的这一篇。
+     看了您的帖子，忍不住想说两句。中国的大学有真正的research么？如果大部分人都是在做真正的research的话，为什么中国的经济年年发展，科技竞争力却年年下降，，，中国有13亿人口，天才层出不穷，为什么到现在连一个诺贝尔奖都没有？？？连只有一亿多人口的邻邦的日本都
+     制度上的弊病，但是或许因为您是一个既得利益者，您可以从此制度中获得收益，获得您所需要的东西，所以您也乐于安于现状。王同学同样作为一个可以从此制度中获益的既得利益者，却敢于向此制度挑战，是很大的需要勇气和决心的，也许他的未来还很不光明，因为他不能获得世

@@ -1,0 +1,30 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <tan@ccert.edu.cn>; Sun, 21 Aug 2005 08:44:11 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <tan@ccert.edu.cn>; Sun, 21 Aug 2005 08:57:13 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 09:20:41 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: guan@126.com
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INP0w8ajrMO709DT79HUwcujrNXmtcQ=?=
+Date: Sun, 21 Aug 2005 08:51:55 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+想起jacky的《她来听我的演唱会》了。如果他对你老这么撒谎，不如趁早做个了断。
+     没想到会遇到这样的人，真的没有语言了。他对我不是第一次撒谎了，从前刻的小师妹的照片的盘，他信誓旦旦说撇掉了，没过多久我装机居然发现三张之多！！
+     六月份说是单位组织唱歌，所谓单位，也就两个老头子两个妙龄美少女，自然是比我有诱惑力，还真没指望他不去，后来回来他居然说没去！当然是很意外，但是他表现的确实诚恳，所以我自然也就信了。没过多久冒出“去年元旦唱歌有人叫我常当我孤单我会想起谁”，我在想，难道那首歌那么早就有了？疑惑！
+     今天去他们单位，无意中看到同事电脑居然有6月唱歌的照片，自然有他深情演唱的身影，边看这这些照片我边问他：“六月那次唱歌你真没去？”－自然是无辜的眼神和恳切的语言：“我发誓我没去！！”－仿佛我这么说是对他极大的不信任和极大的侮辱！

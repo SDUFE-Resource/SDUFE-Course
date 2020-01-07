@@ -1,0 +1,21 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M9u4Oh007208
+	for <shi@ccert.edu.cn>; Fri, 23 Sep 2005 23:42:58 +0800 (CST)
+Received: from USER-8A61F7734D (tu203210.ip.tsinghua.edu.cn [166.111.203.210])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8MA7Wo22604;
+	Fri, 23 Sep 2005 23:54:26 +0800 (CST)
+Message-Id: <200509221007.j8MA7Wo22604@netarchlab.tsinghua.edu.cn>
+Date: Fri, 23 Sep 2005 23:51:44 +0800
+From: "huang" <huang@netarchlab.tsinghua.edu.cn>
+To: shi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOy5xMbw08LG+M/ybW2x7bDXo6y1w7W91eLR+dK7uPa72Li0oaM=?=
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+          若非流光度，何苦为难归，不是久远心，又怎落浮云，了不了，何必草？弦断也听音.
+         大家帮忙分析分析啊，不甚明了，看看我还有希望没有？
+似乎是说，若不是时光飞逝，又何苦为难归来。没有久远的恒心，浮云又怎么能停下脚步。想要了断又下不了决心，心中为何像乱草一样。相知，就算琴弦断了，你也可以听到我的琴音。
+似乎这个女子的意思是有些犹豫，希望你有恒心坚持下去。不知道理解的对不对，乱弹。

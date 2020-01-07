@@ -1,0 +1,31 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <liu@ccert.edu.cn>; Tue, 27 Sep 2005 20:47:08 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 12:58:18 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 20:58:18 CST
+Date: Tue, 27 Sep 2005 20:58:18 +0800 (CST)
+From: liang ming <li@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INK7uPbKtdHpytK1xMqm0Na13KOsvtPIu8u1s/bV4tH5tcS358G5u7BSZTogzfXb86OsxOO1
+vT8=?=
+To: liu@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+我不是那里的高士，我低得很，
+不过我却知道，倘若没有网络上这么多纷纷嚷嚷的，一群白痴一样的人在这里拥护，所有有关指责教育的言论都被奉若神灵，估计王同学也不会被这么多人憎恶。
+所谓一些人yy别人是犬儒，不敢与中国的科研制度做抗争的话，实在是自己的无聊臆测。或者积极歪歪说人家反对王同学的都是一群无能无德甘做奴隶之人，实在是可笑之至。
+我当然知道有不少人支持王同学，也有不少人真的是反对中国科研以paper为唯一标准的制度，但对这种制度没有任何分析就一概骂之，只能觉得好笑。
+当然，也有这些清华的比如连paper都发不了不能毕业的人大力支持。
+理解王同学的理想主义，也觉得理想主义在某种程度上就如同那个与风车做斗争的堂吉诃德一样，应该觉得值得尊敬。只可惜，当被无数人奉为追求的目标时候，就觉得可笑之极了。
+就算他持有追寻理想国的理想主义，也应该理解师兄弟们发paper，做补充修补研究的可贵；即便是他觉得真正的科研是完全开脱一片新天地，也应该知道导师给他几篇论文先看看，寻找方向和创新点的做法是正确的……
+可他呢？就这么一味地误会诋毁他们的老师师兄－－或许，只是诋毁看不起他们的研究方法。
+说实话，王同学写这个东西并没有多大过错，他所讲述的并不是清华或者川大或者中国教育怎么样让他一个渴望成为十全十美、多面发展的天才的桎梏，而是现实社会与纯粹绝对的理想主义无法兼容的问题。可笑的是，无数yy之徒就是在这里看到了清华二字，看到了中国教育四个字，看到了反对吃人四个字，于是便大声吆喝起来，一并进入骂人的队伍。
+最后导致的结果是什么呢？便是媒体的煽风点火，抓住最吸引人眼球的焦点重重炒作。
+     难道呼吁人与人之间多些交流，多谢理解你都受不了？ 你是何方高士？

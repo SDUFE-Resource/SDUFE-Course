@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83Navcu007784
+	for <yi@ccert.edu.cn>; Tue, 6 Sep 2005 08:56:42 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83NnJli001115
+	for <yi@ccert.edu.cn>; Tue, 6 Sep 2005 09:09:04 +0800 (CST)
+Message-Id: <200509032349.j83NnJli001115@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 6 Sep 2005 00:56:21 -0000
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: yi@ccert.edu.cn
+Cc: <li@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg09a8+7uvuOejoaOh?=
+Date: Tue, 6 Sep 2005 09:08:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B125.2476A9F0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWw4hYhpZKPpUbwSle4S7/Xq9uNDg==
+
+不知道还有多少人记得郑智化，但相信喜欢化歌的人，这个名字会永远刻在心中，昨天在电视中又看到了化哥，那是北京2戴军主持的风华秋实，嘉宾竟然请的的郑智化，又跟着节目重温了化哥的经典，又看到了那个曾经反叛、倔强、现实又充满忧伤的化哥，节目上，当易扬又唱起那首化哥最喜欢的一生只唱过两次的歌“别哭，我最爱的人”化哥再一次潸然泪下，当戴军问起这首歌的创作时，化哥没有再提起，只是说‘人在活着的时候永远不要想到死，因为死的日子远远长于人活着的日子’。结尾化哥再一次给我们唱了那首‘你的生日’，并告诫大家在生日的时候要想想那些生日过的不快乐的人，并祝大家‘有生的日子天天快乐’！
+我是听他的音乐长大的，他的很多歌都给我很深的感受，又见化哥，真的很感动！

@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86NYrNl030488
+	for <zhong@ccert.edu.cn>; Thu, 8 Sep 2005 17:57:45 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j86Nl5Cw020630
+	for <zhong@ccert.edu.cn>; Thu, 8 Sep 2005 18:09:57 +0800 (CST)
+Message-Id: <200509062347.j86Nl5Cw020630@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 8 Sep 2005 09:55:39 -0000
+From: "bi" <bi@mail.tsinghua.edu.cn>
+To: zhong@ccert.edu.cn
+Cc: <wang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFdTTjIwMDLToc/z?=
+Date: Thu, 8 Sep 2005 18:09:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C5B380.54702A70"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzPUXCPFDEFrr6STeY429PH7DHSw==
+
+"他总有一种宠辱不惊的风范和一种捉摸不透的感觉，似乎总在用外在的一些表现来掩饰自己的内心，在看似玩世不恭的外表下面，我感觉，其实他有很多想法"
+    有形的文字形容的很贴切,跟WSN2002接触,真正算不上几次,只是刚刚的开始,也有上面的感觉.现在他要离任,心里似乎有种怅惘的感觉,但是一直都会记得他这个朋友,也祈祷他今后好!
+     girl版不是我在水木上玩的第一个版，但却是我呆着时间最长的版。即使现在，虽然有自己的版面需要管理，但当进入定制区时，鼠标还是会时不时的移到这里。不是因为这个版面的名字，而是因为，这里的朋友。应该说，在我最困难的时候，是你们这些朋友，带给了我难得的快乐。
+     第一次见到WSN2002还是在三月的版聚，那时候我在家放大假，也由此，喜欢用FTERM灌水了。WSN2002给我的第一感觉是很结实很幽默的大男孩，虽然在版上发言不多，可是在现实生活中，我相信他会是一个总能给大家带来惊喜的人。和WSN2002的接触中，他总有一种宠辱不惊的风范和一种捉摸不透的感觉，似乎总在用外在的一些表现来掩饰自己的内心，在看似玩世不恭的外表下面，我感觉，其实他有很多想法，我至今还记得那次版聚时他引用的经典诗句：嫦娥说，我要做一名纺织女工，呵呵。
+     某种程度上，WSN2002在版面上的内敛风格，更促进了版面的有序管理，其实你也不要老自责，认为版面上水化现象严重，自己有很大责任什么的。其实这里的空气一直很好，就象上次有人说GIRL很水时，我写过的那个帖子，一个版的版面质量如何，应该看每天有多少有价值的文章，而不是在短时间内有多少RE文，当然，以后我在这里会注意的，尤其是几位BM不在的时候，留下水文了都不能及时清除。

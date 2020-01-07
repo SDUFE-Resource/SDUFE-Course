@@ -1,0 +1,48 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <xu@ccert.edu.cn>; Tue, 13 Sep 2005 20:31:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <xu@ccert.edu.cn>; Tue, 13 Sep 2005 20:43:11 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 12:25:59 -0000
+From: "yang" <yang@mail.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Cc: <che@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgobbHoyDK1qG3?=
+Date: Tue, 13 Sep 2005 20:43:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+《牵 手》 
+　　文韵清心s 
+　　幽幽的心曲 
+　　弹奏着你的名字 
+　　如何才能 
+　　拥抱着你的灵秀 
+　　入梦 
+　　亲爱的 
+　　就在今夜 
+　　别理会月牙的羞愧 
+　　别再乎星星的偷窥 
+　　我在等你 
+　　牵手 
+　　千年的露珠 
+　　化成今日的娇媚 
+　　沉淀的芬芳为你陶醉 
+　　亲爱的 
+　　伸出你的手 
+　　这里有 我的 
+　　温柔 
+　　氤氲的烛光 
+　　把我包围 
+　　指落琴弦 
+　　放飞思绪 
+　　亲爱的 
+　　好想牵你的手 就在 
+　　今晚

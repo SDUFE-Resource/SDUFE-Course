@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8SBi0E8029027
+	for <ding@ccert.edu.cn>; Thu, 29 Sep 2005 16:51:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SBtAlB017695
+	for <ding@ccert.edu.cn>; Thu, 29 Sep 2005 17:02:41 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 29 Sep 2005 08:36:57 -0000
+Message-ID: <000c01c5c423$728140e0$0c42423b@tunoc1a645037e>
+From: "wei" <wei@mail.tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuNDQ1f7W+sDtoaLV0MnM16jUsaGix7DMqLywuvPG2tbG1/c=?=
+Date: Thu, 29 Sep 2005 17:02:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C466.808A4220"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+北大鼎立教育管理顾问有限公司，现面向社会招聘
+一、行政助理1名。
+要求：年龄在22-28岁之间，有工作经验者，能吃苦耐劳，有耐性，懂财务，气质佳者优先。
+二、招商专员3名。
+要求：年龄在22-28岁之间，限女性，形象好，气质佳，聪明伶俐悟性高，反应敏捷，口齿伶俐,有团队协作精神。
+三、前台1名
+要求： 形象好，气质佳，聪明伶俐悟性高，反应敏捷，口齿伶俐。
+四、后期制作人员1名。
+要求：有两年以上实际工作经验，能独立完成项目，熟练使用premiere\\AE\\3D等相关软件。
+有意者请将简历以附件形式回复此BBS信箱或回复：numarryxiaomei@hotmail.com

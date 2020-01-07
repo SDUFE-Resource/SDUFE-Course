@@ -1,0 +1,19 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q2HJfs004030
+	for <cen@ccert.edu.cn>; Tue, 27 Sep 2005 17:21:52 +0800 (CST)
+Message-ID: <200509261017.j8Q2HJfs004030@spam-gw.ccert.edu.cn>
+Received: (qmail 7144 invoked by uid 0); Tue, 27 Sep 2005 09:44:37 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Tue, 27 Sep 2005 09:44:37 -0000
+Date: Tue, 27 Sep 2005 17:39:53 +0800
+From: "mei" <mei@csnet1.cs.tsinghua.edu.cn>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvrTH67nY16KhsLOkt+fGxsDLobHPtcHQvbLX+bXa0rvG2g==?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+讲座时间：2005年9月28日星期三下午2:30

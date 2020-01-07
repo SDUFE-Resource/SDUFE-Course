@@ -1,0 +1,41 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <xing@ccert.edu.cn>; Thu, 25 Aug 2005 01:30:04 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 01:48:27 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 01:48:27 +0800
+Date: Thu, 25 Aug 2005 01:48:27 +0800
+From: lai@cernet.com
+Subject: =?gb2312?B?UmU6IMzlvOy56cC0?=
+To: xing@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+RLSZ (如来神掌) 共上站 20 次，发表过 96 篇文章
+上次在  [Wed Aug 17 01:07:45 2005] 从 [61.177.197.*] 到本站一游。
+离线时间[Wed Aug 17 01:08:15 2005] 信箱：[  ] 生命力： 身份: [用户]。
+个人说明档如下： 
+直连穿梭(含web)休整一周 
+新水木如来神掌穿梭（不需要注册用户哦）详细版： 
+首先，下载一个fterm或者sterm（抛弃cterm吧，fterm代表最先进的生产力方向） 
+左上角有一个地球状的图标，点击它，出来一个地址簿的对话框 
+新建主机，地址里面填proxy.RLSZ.net，下面SSH框框里打勾，然后把端口改成23456， 
+把站名填“新水木”或者“如来神掌穿梭”等 
+然后点确定，就回到了地址簿的对话框，最后在左边的列表里面双击新水木，就可以了 
+问: 我是清华校内IP，上新水太慢了，有没有快的代理或穿梭啊？                
+答: 有啊，如来神掌系列穿梭，简称RLSZ，上新水木比光速还快！ 
+问: 怎么用啊？要注册吗？我看有的人在说连不上啊？                          
+答: telnet下proxy.RLSZ.net，23456端口，SSH方式。加入fterm地址簿，无需注册； 
+    5678 普通端口，数据不加密，仅供选择性使用:) 
+问: 不好了，今天proxy.RLSZ.net好象down掉了，怎么办？                      
+答: 用RLSZ.net站内穿梭吧，得注册，不过一劳永逸嘛， 
+     知道rlsz么

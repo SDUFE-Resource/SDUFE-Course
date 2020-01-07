@@ -1,0 +1,45 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <tu@ccert.edu.cn>; Tue, 23 Aug 2005 09:05:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <tu@ccert.edu.cn>; Tue, 23 Aug 2005 09:18:49 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 01:13:26 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "peng" <peng@mail.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Cc: "tunet" <lu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0=?=
+Date: Tue, 23 Aug 2005 09:15:12 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+        华为本部不知道，说说华为3com的情况吧。
+        偶一同事lp今年硕士毕业进了华为3com做研发，工资税前5k，忘了转正后有
+        没有浮动，另有每月800的补助。不过，好像公司只给交最基本的保险，住房
+        公积金需要自己交。听说整个华为都是这样的。
+        去年年底的时候参加华为的社招，碰了一下测试部。因为相关经验太少，被
+        告知实际待遇只会比应届生近来强一些。大概也是5k吧。而应届生进去在测
+        试这个职位上可能是4k左右。这些都是税前。
+        01年大学毕业时候班上有同学去了深圳华为，做软件。当时收入是7k，没有
+        股票。现在不知道，因为很久没联系了。不过那家伙还在华为，应当已经过
+        10k了。
+        中兴么，听到的说法似乎不太一致。以前一个在里面做产品经理的朋友说在
+        中兴做支持挺爽，有过两三年经验的话一般工资是7k到8k，奖金根据所支持
+        的产品线而有所不同，差距还是比较大的。2~3w或者7~8w都有可能。比如当
+        时做小灵通产品线的支持奖金就很多。而现在单位俩同事是从中兴出来的，
+        对中兴的评价就比较一般了，而对华为的评价就有点差，主要是说华为太累，
+        每天法定加班到9点（没有加班费），周六是法定加班日。说白了就是一周六
+        天工作，每天12小时。
+        对于华为和中兴的微电子部门不知道有没有人了解？待遇环境还有前景都如
+        何？这两个偶是比较关心的。
+     华为、中兴对比
+     华为、中兴对比
+     分别在这两家公司干过几年，以自己的亲身亲历对比一下这两家企业：

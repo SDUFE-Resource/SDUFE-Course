@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <hu@ccert.edu.cn>; Sun, 21 Aug 2005 13:49:41 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <hu@ccert.edu.cn>; Sun, 21 Aug 2005 14:02:55 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 13:31:36 +0800
+Date: Sun, 21 Aug 2005 14:02:46 +0800
+From: "long" <long@wnt.com.cn>
+To: hu@ccert.edu.cn
+Cc: "lic" <hua@ccert.edu.cn>, "sunt" <wen@ccert.edu.cn>, "caoy" <pu@ccert.edu.cn>,
+        "wangb" <che@ccert.edu.cn>, "songhm" <ye@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtM7St6LP1s7Sye2x37XEyMu2vMrHsrvQ0rXEu+nS9sTY?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+   “夫妇之间只有彻底谅解，全心包容，经常忍让，并且感情真挚不渝，对生活有一致的看法，有共同的崇高理想与信念，方能在人生的旅途上平安度过大大小小的风波，成为琴瑟和谐的终身伴侣。”对傅雷先生这话甚为赞同！
+     我发现我触目可及的婚姻全是不幸的
+     爸爸和妈妈 感觉我妈妈让了我爸爸一辈子
+     我同学的婚恋  有一个女同学很不满意她的老公  可不知道为何又嫁给他了

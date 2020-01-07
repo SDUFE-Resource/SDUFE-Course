@@ -1,0 +1,57 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J65V6j013138
+	for <gan@ccert.edu.cn>; Wed, 21 Sep 2005 01:34:59 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J61MoI086766
+	for <gan@ccert.edu.cn>; Wed, 21 Sep 2005 01:31:16 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J61Hls086762
+	for <gan@ccert.edu.cn>; Wed, 21 Sep 2005 01:30:47 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15003 invoked by uid 512); Tue, 20 Sep 2005 17:39:10 -0000
+Message-ID: <20050919060943.15002.qmail@stu.ee.tsinghua.edu.cn>
+From: wua@stu.ee.tsinghua.edu.cn
+To: gan@ccert.edu.cn
+Date: Wed, 21 Sep 2005 01:39:10 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEg1dDGuLKpyr+686OotPrQu9fp0aejqSAo16rU2Ck=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 Paper 讨论区 】
+发信人: yyaanngg (铜豌豆), 信区: Paper
+标  题: 招聘博士后（代谢组学）
+     招聘博士后
+主要研究方向为核磁共振为基础的代谢组学。
+代谢是生命本质的体现，因此分析代谢物质及代谢过程对于认识生物系统的分子机理至关重要。近年来更是突破传统，诞生了用于研究生物系统内源性代谢物质的总体及其所受内因和外因影响的新兴学科--代谢组学。此组学以全息认识的思路和方法学，已经在生理，病理，药物发现/药理和毒理，中医药现代化，功能基因组学以及环境科学等领域均得到重要应用。代谢组学是系统生物学的一个重要组成部分。由于工作需要，中国科学院武汉物理与数学研究所唐惠儒研究组现招聘副研究员或博士后。唐惠儒研究员系中科院引进的“海外杰出人才”，他留英17年而且是英国皇家化学会的Fellow (FRSC)，先后在英国生物技术及生命科学研究基金委员会所属食品研究所，伦敦大学帝国理工学院等单位任资深研究员十数年，有五年多的代谢组学研究经历（代谢组学迄今只有六岁），有丰富的科学研究和研究生指导经验。武汉武数所的代谢组学研究组以我国唯一的核磁共振波谱国家重点实验室为依托，有优秀的核磁共振研究传统，国际水平的仪器设备和良好的科研环境。
+受聘者将协助指导研究生,发展自己的研究兴趣。
+应聘人员应具备以下基本条件：
+(1) 喜爱并有志从事科学研究；
+(2) 良好的核磁共振波谱学或生物化学/生物医学或相关专业背景；
+(3) 良好的英语阅读写作及听说交流能力；
+(4) 富有独立工作能力、责任心和协作精神；
+(5) 乐于学习和接受新鲜事物。
+请应聘者将应聘材料，包括中英文个人简历，个人陈述以及两个推荐人（含博士导师的）的联系方式（电话，传真，电子邮件），通过电子邮件发送至Huiru.tang@wipm.ac.cn
+Opening for a Research Associate Professor and Postdoctoral Research Associate
+Research Associate Professor and Postdoctoral positions are currently available in Dr. Tang Huiru’s laboratory at the Wuhan Institute of Physics and Mathematics, Chinese Academy of Sciences.  Dr Tang’s group is newly established to pursue researches in the areas of biological spectroscopy with a particular emphasis on NMR-based metabonomics. 
+The candidates will help to supervise graduate students (MSc, PhD) and pursue his/her own research interests. Competitive salary and housing benefits will be provided according to the experiences.
+The qualified candidate is expected
+(1) to be self-motivated to dedicate him/herself to scientific research,
+(2) to have a strong NMR background  or one in biological, biophysical chemistry or related fields,
+(3) to have good English ability in reading, writing and communicating,
+(4) to have strong sense of independence, responsibility, and team work, 
+(5) to be open-minded and competent to learn new ideas and techniques.
+The applicants who are interested in this position should send his/her application materials, including Curriculum Vitae, personal statement and two referees contacting details (including one from his/her Ph.D. supervisor for postdoctoral position) to huiru.tang@wipm.ac.cn (email).

@@ -1,0 +1,38 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3XRsq011198
+	for <qian@ccert.edu.cn>; Sun, 2 Oct 2005 01:22:18 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U3S2Fd080380
+	for <qian@ccert.edu.cn>; Sun, 2 Oct 2005 01:17:04 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U3RxnO080376
+	for <qian@ccert.edu.cn>; Sun, 2 Oct 2005 01:16:49 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 2 Oct 2005 01:29:14 +0800
+Message-ID: <328051624.14203@mails.tsinghua.edu.cn>
+Received: from 202.112.4.39 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 2 Oct 2005 01:29:14 +0800
+From: hu@mails.tsinghua.edu.cn
+To: qian@ccert.edu.cn
+Date: Sun, 2 Oct 2005 01:29:14 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMilwcvMy8flu6p+?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: hu@mails.tsinghua.edu.cn
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+re 日记不错
+     昨儿去了趟清华了解考研的情况，来谈谈见闻：
+         昨天一直在下毛毛雨，润物细无声阿，把我半截裤子都毛毛湿了，这还是小事，刚买的跑鞋也报废了。
+     清华校园子太大了，偶从西门进想租辆自行车，生生力气，结果那大爷非要我200块钱压金，还一小时2块钱，我说我只有100块，要不我把证件压你这，他愣是不干。那只好坐11路车了。TMD谁要你的破车，下次问个校内学生的手机号，我发短信过去，才1毛钱，比你这2块钱一小时便宜

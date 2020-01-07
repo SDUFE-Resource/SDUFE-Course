@@ -1,0 +1,20 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <lai@ccert.edu.cn>; Fri, 19 Aug 2005 19:38:28 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <lai@ccert.edu.cn>; Fri, 19 Aug 2005 19:51:32 +0800 (CST)
+Date: Fri, 19 Aug 2005 19:45:49 +0800
+From: "ren" <ren@sohu.com>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INfy0rmjrM7Sv961w7K7yfmyu8/s?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+太投入的感情，受伤也会很深
+以后学会在感情上，从容、淡然就好了
+         那一夜，我哭的不声不响。
+         好困，头一天晚上，辗转往复，睡不着，一直折腾到两点多钟才慢慢有了一点睡意，于是模模糊糊睡去。

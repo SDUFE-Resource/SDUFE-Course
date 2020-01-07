@@ -1,0 +1,36 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Fri, 23 Sep 2005 21:58:38 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Fri, 23 Sep 2005 21:20:56 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "bai" <bai@cert.org.cn>
+To: tian@ccert.edu.cn
+CC: "ma@ccert.edu.cn" <kong@ccert.edu.cn>,
+   "xing@ccert.edu.cn" <liu@ccert.edu.cn>,
+   "gu@ccert.edu.cn" <sun@ccert.edu.cn>, "lai@ccert.edu.cn" <peng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzP3Ltbn9v8a089C70eWyqLXEucrKwsO0Pw==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Fri, 23 Sep 2005 22:06:23 +0800
+
+谢彦波1978年进入科大少年班, 是第一届科大少年班最年轻的学生。十一岁上科大。
+1982年，谢彦波提前一年大学毕业，15岁在中科院理论物理研究所跟随于渌院士读硕士，
+18岁又跟随中科院副院长周光召院士读博士，被看好在20岁前获得博士学位. 
+谢彦波自理能力差，自视甚高，为人傲慢
+和导师关系处不好, 拿不下博士
+转去普林斯顿，跟诺贝尔奖金获得者安德森作固体物理理论。
+据说有次,安在课堂上推导一个公式,被卡主了,说这个比较难,课下回去重新推过,下次课再讲.
+谢走上讲台说这个很简单,三下五除二就弄出来了. 安德森非常满意这个弟子,很是欣赏.
+后来就是和这个王小同学类似的故事拉, 谁都看不上, 安德森越来越不满意他.
+以至发展下去谢无法呆下去, 想去转校,几近成功,
+被安德森发觉, 放出话来, 凭安德森的声名, 后来谁都不敢要.
+据说后来谢跑去和安德森大闹,有的版本说谢携带凶器去威胁安德森.
+那时候正是卢刚事件发生后不久,
+谢彦波被怀疑为潜在的危险, 科大一个副校长做主让谢回国了.
+后来以硕士的身份接受了近代物理系教师的工作。很快他结了婚，然后当年号称
+“未来的诺贝尔奖得主”天才神童就此结束了梦想。
+这位王同学自恃甚高,但是我想必不如谢的当年. 实际上在国外, 更加讲究人际关系, 和老板的关系和圈子里面同事的关系. 他这样怨天尤人自视清高, 在哪儿都都很难有好的发展.

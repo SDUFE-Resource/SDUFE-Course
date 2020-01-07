@@ -1,0 +1,33 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <pu@ccert.edu.cn>; Fri, 26 Aug 2005 03:17:47 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 03:36:07 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 03:36:07 +0800
+Date: Fri, 26 Aug 2005 03:36:07 +0800
+From: yuan@cernet.com
+Subject: =?gb2312?B?ofEg1dDGuLzm1rDN+NKz1sbX96Giw8C5pLj3MsP7?=
+To: pu@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+招聘兼职网页制作、美工各2名
+北京大学生安居互助中心是北大、清华两校学生专门为同学们找房的互助服务中心，成立
+于2001年9月1日。经过4年的踏实工作和艰苦努力，具有很高的信誉。现在我们正在打造中
+国唯一面向大学毕业生、校友的专业门户网站：北京大学生租房网。因网站改版需要，现招聘专兼职网站建设人员2名，美工2名，工作地点：清华东门。
+要求：
+1．熟悉门户网站制作风格，有门户网站制作经验，能够独立完成网站建设工作；
+2.熟练使用php动态建站语言，能进行程序开发，了解web网站建设的行业标准；
+3．具有较高的审美与创意能力，独立设计门户网站风格及版式；
+4.工作时间比较充裕。
+5. 招美工2名
+IT硕士，博士生在读优先，希望能长期兼职，热烈期待你的加盟！
+请浏览我们的网站，请发送简历至：al@china315.com，
+电话联系：86181143，安先生

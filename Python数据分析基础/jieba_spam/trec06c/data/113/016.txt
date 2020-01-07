@@ -1,0 +1,41 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <che@ccert.edu.cn>; Sat, 10 Sep 2005 22:21:58 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <che@ccert.edu.cn>; Sat, 10 Sep 2005 07:34:05 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Sat, 10 Sep 2005 07:34:05 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Sat, 10 Sep 2005 07:34:05 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sat, 10 Sep 2005 22:34:05 +0800
+From: =?GB2312?B?1/O+pw==?= <tao@gmail.com>
+Reply-To: tao@gmail.com
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM+yu7a5/c7SvLjE6rXExNC6osC0sbG+qcHLo6zO0silvPvL+8O0o78=?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+也可能见了就不一定不喜欢他了
+也给个机会嘛
+     标  题: Re: 喜欢过我几年的男孩来北京了，我去见他么？
+     
+     见他
+     见了他就不一定喜欢了
+     要不然老想着
+     
+     : 他是我高中的同班同学，一直都很喜欢我，不过我对他没什么感觉，只是有些怜悯之心吧。作为朋友人还是挺不错的。今天他来北京出差了，发短信说这两天没事想让我当当导游。可是我去的话又怕GG有想法，GG和我也是高中同学，只是不一个班，但他一直都知道这个男孩喜欢我。偶
+     : 如果是你，你会去见这个男生么？还是我、GG还有这个男生我们三个一起去玩？可是这样好尴尬的。而且很明显这个男生对我忍然有些好感，虽然他有女朋友了。如果不见的话也觉得不大好，毕竟人家远道而来又没其他熟人。
+     : 为难中……
+     
+     --
+           我瞪着狐疑的眼睛看着你，你应该知道：我们两个完了，要byebye了~
+     哈哈~
+     
+     

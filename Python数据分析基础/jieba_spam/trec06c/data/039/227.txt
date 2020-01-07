@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <chen@ccert.edu.cn>; Thu, 25 Aug 2005 19:51:59 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 20:10:22 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 20:10:22 +0800
+Date: Thu, 25 Aug 2005 20:10:22 +0800
+From: sun@cernet.com
+Subject: =?gb2312?B?UmU6IFvUrbS0Xbnb07DK1rzHo7qhtsC2t+fz3aG3LS3Dzr6zsOO1xLvY0uQ=?=
+To: chen@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+其实孔雀我也喜欢。因为孔雀实在给我提供了太多记忆的象征物。看着非常亲切和怀旧。
+像回到阔别多年的老家，样样摆设都充满儿时回忆一样。
+蓝风筝则没有这么多时代符号，几个象征物泥马、风筝、红布，都没有什么时代特点。它恐怕更愿意观众把精力放在理解人物的悲欢离合上去。
+     超喜欢这部电影，确实好看，看着觉得真实，不象孔雀，总有人说这个bug那个bug，比如开始阳台上洗一堆一堆的全是白色的床单，矫情。很多东西反映的是生活残酷的一面，所有人的遭遇，但是又比孔雀不压抑，给人美的感觉，一开始的结婚，还有那个小孩子学看信，做风筝，过年

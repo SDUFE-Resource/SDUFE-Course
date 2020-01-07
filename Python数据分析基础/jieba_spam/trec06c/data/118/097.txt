@@ -1,0 +1,42 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <gao@ccert.edu.cn>; Mon, 12 Sep 2005 01:23:38 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Mon, 12 Sep 2005 01:35:37 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Mon, 12 Sep 2005 01:35:33 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "xiao" <xiao@dlut.edu.cn>
+To: gao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNLSu8bwwLSywrLCv7Q=?=
+Date: Mon, 12 Sep 2005 01:31:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我猜的答案（打问号的不肯定，没打的肯定）：
+1，死亡诗社
+2，杀无赦免
+6，黑客帝国
+8，辛德勒的名单
+10，肖申克的救赎？
+13，天使爱米丽
+15，本能
+20，卧虎藏龙
+23，垂直极限
+28，生死时速
+33，阿甘正传
+36，宾虚
+40，刺杀肯尼迪？
+43，洛奇
+46，教父
+55，出租车司机
+61，拯救大兵瑞恩
+     一些著名电影的场景，不过人物被抹去了，考验大家对电影的熟悉程度咯
+     答得时候英文名不对也是不会记入成绩的
+     集体的智慧是无穷地

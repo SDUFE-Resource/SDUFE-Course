@@ -1,0 +1,57 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82FXXc8032690
+	for <lu@ccert.edu.cn>; Mon, 5 Sep 2005 00:45:28 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FVva4032094
+	for <lu@ccert.edu.cn>; Mon, 5 Sep 2005 00:44:05 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FVsOj032090
+	for <lu@ccert.edu.cn>; Mon, 5 Sep 2005 00:43:48 +0800 (CST)
+	(envelope-from cmk@ns.6test.edu.cn)
+Received: from [221.218.34.129] (helo=[192.168.0.225])
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1EBEP4-000214-00; Mon, 5 Sep 2005 01:40:28 +0800
+Message-ID: <43187389.7080805@ns.6test.edu.cn>
+Date: Mon, 5 Sep 2005 00:57:07 +0800
+From: Maoke CHEN <guo@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0.2 (Macintosh/20050317)
+MIME-Version: 1.0
+To: lu@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?aGVscH5+fsutwcu94mJ0tchwMnDTptPDtcTTptPDsuM=?=
+	=?GB2312?B?uPHKvaO/?=
+In-Reply-To: <200509011321.j81DLpFM024763@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: rao@ccert.edu.cn
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+传闻中很多人觉得这部电影
+是反映底层电影制作人艰辛的生活状态的
+所以就怀着这种态度看了
+不过越看越觉得不是这么回事
+我的感觉是
+电影讲述的是当前香港年轻人的状态
+或者是所有年轻人的菜鸟阶段的状态
+AV女星天宫真奈美的话应该是导演想要表达的
+大概意思是
+当我们觉得自己对别人很重要时
+这个世界才准备好接纳我们
+大概是说
+我们要看得起自己
+觉得自己是块料的时候
+社会才准备好让我们参加游戏
+否则连参加的资格都没有
+只能是别人的玩物
+自己的想法大概如此吧

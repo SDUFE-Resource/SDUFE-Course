@@ -1,0 +1,24 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <peng@ccert.edu.cn>; Fri, 26 Aug 2005 04:14:58 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 20:04:33 -0000
+From: "guo" <guo@mails.tsinghua.edu.cn>
+To: peng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 04:28:15 +0800
+
+偶03年跳出来的，以前是规定每月两个周六加班，累计到下年做假期，比如春节请假等，如果用不完，补加班费。后来改成每月一个周六加班。
+平时加班，我在的部门不多，我是新员工，算加得多的了，其他大多数人下班就走。或者等晚8点的免费夜宵和免费班车。周末基本上没人加班。但是偶在....因为刚到公司想多学点东西。周末除了规定的周六外，我加班都拿到了加班工资。至于外企，我现在在一家公司，不想评论。
+华为做事很严谨，加班工资是按小时算的，我一次填加班表从早9点到晚6点，还被扣了中午吃饭休息的一个小时。华为很严格，比较自由一点人可能不能适应，为公司付出劳动，钱一分不少，比如每层楼都请员工做消防员，会给那个员工发补贴。但是任何与工作无关的事情都不能做，比如上网，qq，msn，需要工作上网的必须申请帐号。
+当然我只是讲我所在部门。其他部门我不知道。只知道有一个部门在争英国电信的一个项目（就是把马可尼赶到绝路这次）时封闭式开发，没有周六周日，但是工资超高，不是一般的高。效果吗，现在都看到了。
+去华为，你肯干就有得赚，现在去混日子比较难。
+             华为本部不知道，说说华为3com的情况吧。
+             偶一同事lp今年硕士毕业进了华为3com做研发，工资税前5k，忘了转正后有
+             没有浮动，另有每月800的补助。不过，好像公司只给交最基本的保险，住房

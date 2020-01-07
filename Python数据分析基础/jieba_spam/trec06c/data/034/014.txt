@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <long@ccert.edu.cn>; Wed, 24 Aug 2005 15:09:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <long@ccert.edu.cn>; Wed, 24 Aug 2005 15:22:43 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 07:17:16 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "yi" <yi@mail.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?ofEgNTRfY2x1YrHP0rXJ+sPmytTLxLTzvMk=?=
+Date: Wed, 24 Aug 2005 15:19:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+此帖由54club转载
+一忌不够诚实和“不懂装懂”
+几乎所有企业都希望招聘到具有诚实精神、美好品德的大学生，因此，在接受面试时千万不要试图对“明察秋毫”的HR经理说谎。据介绍，不少毕业生在接受面试时，由于迫切希望得到眼前的这份工作，通常很容易犯下“不懂装懂”、“故意隐瞒自己的缺点”或“夸大自身优点”的 错误。如一些毕业生可能会在求职简历、描述自己的能力过程中夸夸其谈，或违背事实地强调自己在某项社会实践活动中处于“主导地位”。
+  
+二忌简历有错别字
+“面试时，我最不能容忍的事情，就是看到求职简历中居然有错别字。”广东某公司人力资源部经理表示，每次遇到这种毕业生，他都会把求职简历“扔在一边”，然后颇有礼貌地告诉对方“请回家等通知”。“如果我招聘了一名连简历都有错字的会计专业毕业生，今后他处理帐目时很可能会由于‘不小心’而弄错一个至关重要的小数点。”
+  
+三忌着装举止不得体
+大学生在接受面试时，谈吐、穿戴的得体和落落大方，将非常有助于给HR经理留下美好的印象，大大地提高自己的求职成功率。
+  
+四忌开口就问薪水多少
+“还没跨进企业的门槛，就不切实际地开口谈待遇。”对于这种心态比较浮躁的大学生，最终得到“录取通知单”的可能性几乎为零。尤其是民营企业，对于这种大学生更为反感。

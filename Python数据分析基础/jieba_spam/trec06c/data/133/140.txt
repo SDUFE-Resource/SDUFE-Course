@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBVolI019299
+	for <cao@ccert.edu.cn>; Thu, 15 Sep 2005 02:34:39 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8DBSOBg018678
+	for <cao@ccert.edu.cn>; Thu, 15 Sep 2005 02:31:44 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn ([166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8DBSHbY018673
+	for <cao@ccert.edu.cn>; Thu, 15 Sep 2005 02:31:11 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 14359 invoked by uid 512); Wed, 14 Sep 2005 18:39:33 -0000
+Message-ID: <20050913113644.14358.qmail@stu.ee.tsinghua.edu.cn>
+From: guan@stu.ee.tsinghua.edu.cn
+To: cao@ccert.edu.cn
+Date: Thu, 15 Sep 2005 02:39:33 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjE0yNW5pNf3vMfCvA==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+挂失：
+余佳斌  13466602433     钱包 NO.955   绿色，内有IC卡，餐卡，铁通卡以及现金若干
+田叶    13141302729     钱包 NO.956   棕色，LV钱包，内有IC卡，若干卡以及现金若干
+刘文俊  13661108766     钱包 NO.957   红棕色，有米奇头像，IC卡，北京银行卡，身份证，餐卡，现金若干
+梁婷婷  51531353        衣物 NO.565   米黄色女装外套
+李刚    51533603        文具 NO.215   蓝色内有黑色橡皮擦，两只自动铅笔，钢笔
+曹志勇  13811821760     书包 NO.496   灰色双肩背包，内有学生证，（卢秀珍，韩籍）
+送交:
+崔柳     钱包NO.394   SPORT黑色加灰色，内有清华附中餐卡以及现金若干
+友情提示：
+繁忙的新学期开始了，大家要多多注意身体哦！^.^

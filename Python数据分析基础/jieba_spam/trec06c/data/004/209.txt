@@ -1,0 +1,30 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <che@ccert.edu.cn>; Tue, 16 Aug 2005 11:59:17 +0800 (CST)
+Received: (qmail 5448 invoked from network); Tue, 16 Aug 2005 04:10:04 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Tue, 16 Aug 2005 04:10:04 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "ma" <ma@jdl.ac.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMPAufpkb3VibGVjbGlja7mry77U2snPuqPV0MjL?=
+Date: Tue, 16 Aug 2005 12:14:03 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+假如就做这些，街上“工程师”大把大把的，何必要如此年薪？
+     标  题: 美国doubleclick公司在上海招人
+     
+     美国的doubleclick公司要在上海招个人，做email marketing的support,年薪12w,要求英语好（工作语言为英语，老板是外国人），技术方面主要html, javascript，dns, sql, web related technologies such as cookie，
+     http://www.doubleclick.com/us/products/email_solutions/
+     
+     如果有感兴趣的同学可站内信件联系，越快越好，要去悉尼参加培训．
+     
+     --
+     

@@ -1,0 +1,30 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <che@ccert.edu.cn>; Wed, 28 Sep 2005 21:09:53 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 13:21:04 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 21:21:03 CST
+Date: Wed, 28 Sep 2005 21:21:03 +0800 (CST)
+From: liang ming <chi@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+To: che@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+只不过不少人还是要借着清华的帽子继续荣耀自己罢了
+李熬在复旦演讲也提到的。
+当一个人引以为荣的光环被别人打破的时候
+不少人是会跟你急的，有如复旦大学那位社会学教授
+清华是国内的老大，但是跟国内高校只是量的差别，还没有到质的差别
+更何况，国家对清华的定位要求清华有一个全国的责任感
+清华带动其它学校了吗？动不动对其它学校斥为“三流都不如”
+那么请问阁下，如果清华也是同样的财政扶持，某些清华人还敢这么叫嚣么？
+我是尊敬清华的，我是尊敬清华人的，但是我们更要尊敬真理
+     外校的就别说了，其实没在清华念过本科的就不用说了，有些事情你是明白不了的，就像绝大多数外国人永远无法理解中国人一样。
+     所以你不该关心“中国人”的事情，因为跟你没关系。

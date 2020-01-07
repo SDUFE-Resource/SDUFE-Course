@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <jian@ccert.edu.cn>; Wed, 14 Sep 2005 22:19:21 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <jian@ccert.edu.cn>; Wed, 14 Sep 2005 22:31:16 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 14:13:33 -0000
+From: "tian" <tian@mail.tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+Cc: <zhuang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQ0Ke5tc2ovLzHyaGqoaqhsM2ssOm9zNP9obHK17Ohu+62r7+qyryxqMP7wcujoQ==?=
+Date: Wed, 14 Sep 2005 22:31:11 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+re，期待
+                     清华大学2005年秋季学期“同伴教育”首场活动
+       参加了众多的报告会，你是否觉得收获颇多却憾于无法实战演练？听主讲人慷慨激昂，你是否也想抒发自己的感受与心得？“同伴教育”给你提供一个亲自演练的舞台！！Acing your job，为你的求职旅程再添一把力；Go together，你我同行一起交流共同分享经验与感悟！
+               敬请关注清华大学2005年秋季学期“同伴教育”首场活动――

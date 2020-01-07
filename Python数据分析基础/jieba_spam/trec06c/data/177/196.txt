@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <fan@ccert.edu.cn>; Sat, 24 Sep 2005 10:00:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <fan@ccert.edu.cn>; Sat, 24 Sep 2005 10:11:38 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 01:48:44 -0000
+From: "lu" <lu@mail.tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+Cc: <kang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sat, 24 Sep 2005 10:11:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+那个用latex很牛，用word很土的说法，欧觉得恶搞，ieee的那次会议只给latex模板不给word了，这种东西纯属个人习惯，为什么也要上纲上线。
+     大便和花的关系 赞一把 比喻恰当 
+     退学很正常，清华的博士退学的多了去了。退学我也很赞成，因为觉得没劲，那就不玩了。自己觉得什么适合自己，就去做什么好了。
+     但是唧唧歪歪的我不喜欢。一件事没有做成功，理由百分之百都是体制、是环境、是导师。却不考虑一下自己有没有不足的地方。

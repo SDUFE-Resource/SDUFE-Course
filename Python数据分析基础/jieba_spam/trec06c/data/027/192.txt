@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <jian@ccert.edu.cn>; Mon, 22 Aug 2005 21:45:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <jian@ccert.edu.cn>; Mon, 22 Aug 2005 21:59:10 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 13:53:47 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "ling" <ling@mail.tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+Cc: "tunet" <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7StcTAp7vzo7q40Mfp0Oiyu9Do0qrSqr+80emjvw==?=
+Date: Mon, 22 Aug 2005 21:55:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+那会吓坏别人的，已经不是初始条件，不能作为正确取样了
+总之才两个样本，不足以得出结论
+     标  题: Re: 我的困惑：感情需不需要要考验？
+     
+     不一定，楼主可以做个实验，态度一百八十度大转弯，看看怎么样？
+     : 这两件事情未必相关
+     : 也许前面那个人即使表现出对他不大喜欢也不会拼命追她
+     : 而后面那个即使表现出喜欢他也会拼命追
+     
+     --
+     

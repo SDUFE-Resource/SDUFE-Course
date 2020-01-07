@@ -1,0 +1,29 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <ren@ccert.edu.cn>; Thu, 25 Aug 2005 02:25:34 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 02:38:41 +0800 (CST)
+Date: Thu, 25 Aug 2005 02:32:27 +0800
+From: "ma" <ma@sohu.com>
+To: ren@ccert.edu.cn
+Cc: "yxl" <gan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXQyfq88tXCyc+1xLzGu67V0Mn6yMvK/dK7zsqjug==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+我哪里扯淡了？
+我原贴说的是“可能”，
+我也是听说，
+我也是从一个参加考试者的角度来想这个问题的
+我也不希望在招生录取过程当中出现我们不希望看到的暗箱操作，
+但是如果这种暗箱操作对于某些学校来讲可能是无法避免的（注意是可能），
+那么我就希望我的正在考研的朋友们能够找到尽量避免这种情况的方法。
+你就扯淡吧
+     据说各个学校招生简章上面公布的招生数字可能是含水分的；
+     比方说，说是招10个但可能有9个已经内定了，
+     只剩下一个让外面的人去考。

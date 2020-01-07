@@ -1,0 +1,39 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <ye@ccert.edu.cn>; Fri, 19 Aug 2005 16:27:59 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <ye@ccert.edu.cn>; Fri, 19 Aug 2005 16:41:01 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Fri, 19 Aug 2005 17:04:29 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: cai@126.com
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8/GuLTz0M3VucDA1bnKvrvutq+5pNf3yMvUsQ==?=
+Date: Fri, 19 Aug 2005 16:35:43 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+ 
+我公司为在开学之际推广新产品,将在北京多所学校举行展览展示活动. 
+诚聘各高校兼职人员. 
+职责: 1\\校园内的宣传推广 
+         2\\订单的收集,发货和管理应收款项. 
+         3\\组织和协调展览展示当天的现场活动.维持秩序. 
+要求:有一定的组织能力,最好在学校社团里担任过职务. 
+工作时间:  除活动日外,都比较灵活. 
+待遇: 总的收入在2000元左右. 
+有意向的同学,请将个人简历(附联系电话)发送到本人站内信箱.或发送到: 
+ scapegoat129@sohu.com.  
+ 
+我们将尽快回信通知面试时间. 

@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3DEnC011057
+	for <li@ccert.edu.cn>; Sun, 2 Oct 2005 05:19:43 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U37j6F080151
+	for <li@ccert.edu.cn>; Sun, 2 Oct 2005 05:14:30 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U37hcH080147
+	for <li@ccert.edu.cn>; Sun, 2 Oct 2005 05:14:12 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509300307.j8U37hcH080147@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodo-f4b2088bd3) (ksj00@202.112.4.221)
+	by localhost with SMTP; Sat, 1 Oct 2005 21:26:37 -0000
+Date: Sun, 2 Oct 2005 05:26:11 +0800
+From: "cen" <cen@mails.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3G0dDLxLSmxfax2qOstPO80rj4ztKz9rP21vfS5bDJo6y40Lyksru+oQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8U37hcH080147
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+你认为给他些时间打电话给家人商量一下就会把推研名额从80变到79了？
+哈哈，小兄弟，你太年轻，被学校的老师一吓 ，就以为推研跟打仗是你死我活了
+其实我们那年推研有些人本系没推上，后来都准备读博士了，结果计算机系放了几个
+工程硕士名额给他们了，结果他们的出路比我们还好
+系里老师就是故意先压着这些名额不告诉学生，等系里老师都能找到干活的苦工在开闸
+学生可永远玩不过老师的
+     不管你怎么追求选择，总要遵守规则
+     本来本系读研有80个人，被她这么一折腾只有79个人了
+     那个原本可以读研的人你怎么不考虑？

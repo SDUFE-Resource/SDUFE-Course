@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <wua@ccert.edu.cn>; Tue, 6 Sep 2005 18:44:27 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <wua@ccert.edu.cn>; Tue, 6 Sep 2005 18:42:43 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <wua@ccert.edu.cn>; Tue, 6 Sep 2005 18:42:23 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Tue, 6 Sep 2005 10:31:35 -0000
+Date: Tue, 6 Sep 2005 18:52:27 +0800
+From: "chi" <chi@mails.tsinghua.edu.cn>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0LG358+40+qyu9Druek=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <jin@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+    这几天格式化了硬盘，重装了操作系统。忙了一天晚上出去倒茶的工夫，回屋看到妈妈正站在我的电脑前发呆。我说怎么了，她叹口气说这画真漂亮。那副漂亮的画就是我新换的桌面。
+    已经忘了具体从哪里得来的了，整理图片时看到，心里一动，把它拿出来做了桌面。整幅画面似乎都朦胧着一层水汽，近处有小桥流水，茵茵绿草，远处是暮色朦胧的群山，如赤红染颊的天空。每每打开电脑看到它心里也总是一柔柔的，这清雅的画分明是杨柳春风，杏花烟雨的江南。
+    而这画似乎更有一种流水深处有农家的感觉，它触动了我们每一个人心里桃花源般归隐的梦。所以连妈妈这样年纪的人看到它都会呆立赞叹。抛开这尘世嘈杂繁琐的一切，归隐到山水如画的江南，去做个逍遥自在的农家人不也挺好的么？可着我布衣长裙，管它世外流行玫紫桃红。扛起我长长钓竿，溪边垂钓坐看云卷云舒，管它红尘滚滚浮名利禄。
+ 
+    本科毕业的时候，朋友力邀我和他一起做去网站。可是想想还是离不开这里。说起来将来的梦想和目标，我的，竟也不过是靠海开家书店，闲云野鹤的过自己的小日子罢了。和朋友比起什么做IT名人，考MBA.....那些正气凛然豪气冲天的目标，我的小小梦想是多么的微不足道啊！
+   我不得不承认，几年的时间过去了，朋友去了外地为他的梦想奋斗努力，而我依然保着这些小小的梦想，只是越来越羞于启齿。身边的朋友越来越少，少时的伙伴们上了大学纷赴上海各大城市。死党从国外回来，多年不见忽觉已无话可说，她殷殷叮嘱我要努力要学习要考证，将来才可与她在异乡汇合。我笑，心里却升起荒诞感。然后也开始学习，开始努力，开始象周围人一样为了将来的美好生活而奋斗。开始想换工作，开始做一些自己不愿意做的事，写一些自己不愿意写的东西。
+    在年轻的时候去拼搏去努力没有什么不对的，可是，将来我可不可以在这斜风细雨不须归的世外桃源安一个家呢，当我在外拼搏累的时候，进来休憩一下。哪怕只放在我的电脑桌面上，鼠标滑动处，赤红染颊的天空暮色朦胧的群山下，绿草茵茵小桥流水边有一个我不变的梦想逍遥的农家。 

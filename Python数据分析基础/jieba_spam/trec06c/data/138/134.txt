@@ -1,0 +1,33 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <peng@ccert.edu.cn>; Fri, 16 Sep 2005 01:44:36 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <peng@ccert.edu.cn>; Fri, 16 Sep 2005 02:15:44 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 01:55:51 +0800
+From: "xue" <xue@mail.nisac.gov.cn>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgVGhvbXNvbrGxvqnR0L6/1LrN+MLn1+nV0Ma4yrXPsMn6?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+要求具有Linux下面的流媒体开发经验， 具体要求如下：
+Requirements:
+Software development for video over IP streaming application.
+Skills :
+- Experience in Linux programming and network programming under Linux,
+- Very strong C/C++ language knowledge
+- Experience in UDP, RTP, HTTP programming
+- Knowledge in video compression is preferable
+- Very good reading and writing in English
+Schedule :
+- Duration : at least 6 months
+- Full time internship
+- Starting as soon as possible.
+If you are interested in the position, please sent your resume (in English and C
+hinese) to bjhr@thomson.net, and the subject is "Intern CR-networking".

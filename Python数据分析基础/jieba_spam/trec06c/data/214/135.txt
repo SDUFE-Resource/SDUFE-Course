@@ -1,0 +1,38 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <ning@ccert.edu.cn>; Sun, 2 Oct 2005 01:23:05 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sat, 1 Oct 2005 17:34:01 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sat, 1 Oct 2005 17:34:01 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <ning@ccert.edu.cn>; Sat, 1 Oct 2005 10:55:40 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <ning@ccert.edu.cn>; Sat, 1 Oct 2005 12:40:33 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sun, 2 Oct 2005 01:33:56 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <jin@motorola.com>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1MLQvc3y1KrV0Ma416jWsNPOz7ey5bz+v6q3osjL1LE=?=
+Date: Sun, 2 Oct 2005 01:33:54 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+月薪万元招聘专职游戏插件开发人员
+     Windows平台下应用程序开发，
+要求：
+硕士以上学历！（含硕士）
+     C/C++熟悉，有应用程序开发经验。对&lt;Windows核心编程＞一书所讲的主要内容能熟练掌握(进程，线程概念及同步操作，虚拟内存，Dll和截获API，SEH等）
+     并且有比较扎实的汇编基础和调试能力，能熟练应用SoftIce等。
+     待遇从优，月薪1万加利润分红。
+     联系方式：zilongzz@yahoo.com.cn
+            或站内信箱联系！

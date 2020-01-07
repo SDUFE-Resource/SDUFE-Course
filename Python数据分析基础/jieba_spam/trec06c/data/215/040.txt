@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3XRsq011198
+	for <chen@ccert.edu.cn>; Sun, 2 Oct 2005 11:52:48 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U3S2Fd080380
+	for <chen@ccert.edu.cn>; Sun, 2 Oct 2005 11:47:34 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U3RxnO080376
+	for <chen@ccert.edu.cn>; Sun, 2 Oct 2005 11:47:19 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 2 Oct 2005 11:59:44 +0800
+Message-ID: <328051624.14203@mails.tsinghua.edu.cn>
+Received: from 202.112.4.39 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 2 Oct 2005 11:59:44 +0800
+From: ou@mails.tsinghua.edu.cn
+To: chen@ccert.edu.cn
+Date: Sun, 2 Oct 2005 11:59:44 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgwfm9zLXEzazRp7Dv1eK49s2s0afSu7j2w6Ys16XXodXiuPbQoc21ICjXqtTYKQ==?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: ou@mails.tsinghua.edu.cn
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 Graduate 讨论区 】
+发信人: Athird (我行我素，轻松自如), 信区: Graduate
+标  题: 六教的同学帮这个同学一个忙,抓住这个小偷
+刚才看见一个同学,在六教上自习室,丢了t42 IBM笔记本
+时间大概2：00 -3：20
+其中一女同学和他搭腔，同伙的人偷走的
+看那个同学很着急，在六教学习的同学如果发现可疑人员，可报告校派出所

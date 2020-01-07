@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <lei@ccert.edu.cn>; Wed, 14 Sep 2005 01:49:12 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <lei@ccert.edu.cn>; Wed, 14 Sep 2005 02:01:10 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 17:43:58 -0000
+From: "qiu" <qiu@mail.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Cc: <huang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgobbMq9DQyb3Jz6G3vtnQ0MrX07PKvSDBurzSu9Sxu9TezNix8M/xsMvCtw==?=
+Date: Wed, 14 Sep 2005 02:01:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+作为几年抗战胜利60周年的影片，《太行山上》突破了很多主旋律影片的禁锢。不仅有上百个精彩特技镜头和大战争场面，还邀请了梁家辉、刘德凯等港台明星参。邀请港台明星扮演抗战英雄，导演韦廉坦陈考虑到了明星的效应，“观影的主体除了经历过当年抗战日子的老八路们之外，主要还是要吸引年青一代的人们。”他对梁家辉的表演非常肯定：“梁家辉虽然是明星，但是他不是只会扮演自己的那种明星，而是有艺术家气质的明星！”他还透露说，梁家辉化装的时候完全不计较形象，让化妆师大胆往脸上吹土，满脸灰土地参与表演。朱德的扮演者王伍福曾经演过50多次朱德，他对梁家辉的表演也十分赞赏：“港台演员演戏很执着，梁家辉其实只有一场戏，但是他还是很认真。我觉得他演的八路非常像！不仅形似，而且神似。”他还透露，梁家辉接演《太行山上》分文未收，只为一圆“八路梦”。
+“作为一个香港演员，我没有经历过战争，而且也没有拍过这样的革命电影，这是个很难得的机会，如果错过了，明年就更不行了，年纪那么大还能独臂舞大刀吗？”梁家辉半开玩笑地说。说起第一次出演革命影片，梁家辉似乎有说不完的话，而他感触最深刻的就是激动和震撼。“以前只是在历史课本上了解历史，现在出演这个角色，我感觉到了军人的伟大。出演这个角色很累、很辛苦，但是我很满足。” --
+※ 修改:・greenwolf 于 Sep 13 12:43:33 修改本文・[FROM: 218.249.36.*]

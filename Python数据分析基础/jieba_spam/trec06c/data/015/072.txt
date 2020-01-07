@@ -1,0 +1,54 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8V0cL023464
+	for <gu@ccert.edu.cn>; Sat, 20 Aug 2005 04:47:58 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 40F4F0045593
+	for <gu@ccert.edu.cn>; Sat, 20 Aug 2005 05:01:16 +0800 (CST)
+Date: Sat, 20 Aug 2005 04:55:22 +0800
+From: "gao" <gao@sohu.com>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7V0Ma4ob9NaWNyb3NvZnQgR1RFQyAoyc+6o8rQKQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084420.40F4F0045593@sohumx06.sohu.com>
+
+这是猎头找我的（我不能去上海），发给版友看看，勿回本人信箱
+因该是针对有工作经验的，工资看个人能力（听说能给我14K-18K,我现在才13K,眼馋呀）
+大家试试
+Support Engineer-Developer (上海市)
+部门： Developer Support Group 
+组织：GTEC
+职位地点：Shanghai
+职位要求：
+&amp;#8226;    Bachelor Degree in Computer Science or Electronic Engineering or equivalent experience; Master Degree preferred
+&amp;#8226;    Experiences and skills of building Microsoft DNA2000 and .NET based solutions, including IIS/ASP, COM+, and SQL Server
+&amp;#8226;    Strong development skills with 2 or more of the following: VB/VB.NET, VC, VJ, C#, ASP/ASP.NET, ADO/ADO.NET;
+&amp;#8226;    Coding experiences using C/C++; knowledge in SDK would be an advantage
+&amp;#8226;    Knowledge in relational database;
+&amp;#8226;    Good command of English in oral and written;
+&amp;#8226;    Enterprise working or supporting experience, and troubleshooting skills preferred;
+&amp;#8226;    Positive-thinking, team-working, quick-learning, self-challenging; 
+职位任务：
+&amp;#8226;    Provide technical support to Asia Pacific region premier and professional customers by answering inquires, assisting customer incidents and going onsite to enterprise customer for problem resolution on a timely basis
+&amp;#8226;    Provide pre-emptive support through KBIS, technical articles and sample programs.
+&amp;#8226;    Uphold consistent processes and case handling standards according to standard
+&amp;#8226;    Participate in projects that benefit the Product Support Services (PSS) Department. 
+Support Engineer-Exchange ServerNEW(4名) (上海市)
+Job Description:
+&amp;#8226;    Provide 24x7 accurate and timely technical supports on critical problems and advisory service for enterprise customers. 
+&amp;#8226;    Collaborate with product team to create quicker issue resolution to achieve high customer satisfaction. 
+&amp;#8226;    Answer escalation questions and provide consulting service for internal colleagues from other branches. 
+&amp;#8226;    Learn advanced technologies and deliver high-level training. 
+Requirements:
+&amp;#8226;    Bachelor or master degree in Computer Science, Electronic Engineering or equivalent majors.
+&amp;#8226;    At least 3-year working experience of technical support, system integration or coding on C/C++. 
+&amp;#8226;    Solid knowledge on Microsoft Windows Server, directory service and networking protocols. 
+&amp;#8226;    Experience on Microsoft Exchange server and Outlook is preferred. 
+&amp;#8226;    Familiar with Lotus Notes or other e-mail systems is a plus. 
+&amp;#8226;    Good written and verbal communication skills in Chinese and English. 
+&amp;#8226;    Quick learning, troubleshooting and debugging skills are needed. 
+&amp;#8226;    Abilities to work under pressure and handle critical situations are required. 
+kelven.wang@vastsea.com

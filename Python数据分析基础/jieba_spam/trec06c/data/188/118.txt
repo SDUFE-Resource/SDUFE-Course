@@ -1,0 +1,27 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <zhou@ccert.edu.cn>; Mon, 26 Sep 2005 17:16:38 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Mon, 26 Sep 2005 17:19:53 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 09:19:51 UT
+To: zhou@ccert.edu.cn
+From: bi@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtE1JVLrNy67EvrbUtP3N9dvztcTMrLbIsrvNrKO/?=
+
+俺支持言论自由
+虽然俺也bs中文夹英文
+w
+     标  题: Re: 为什么MIT和水木对待王垠的态度不同？
+     
+     我同意你的说法，但请不要在中文句中夹入英文单词。
+     
+     : 一个有趣的现象是，在水木上有不少人捧王垠，而在MIT BBS上几乎都是一边倒地批王。
+     : 仔细看看那些捧王垠的，多半都是比较FQ，空喊口号地批驳中国教育制度的。
+     : 而MIT上发帖子的，基本上都是在国外继续深造过的，明白王垠所批判的东西，其实并不是中国所仅有的，他即使到了美国，他会发现那里跟清华并没有本质的区别：老板照样要你多发PAPER，因为没有PAPER就没有FUNDING，没有FUNDING就没钱吃饭；老板也会限制你的选课，因为你选

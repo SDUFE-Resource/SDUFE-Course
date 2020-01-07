@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <che@ccert.edu.cn>; Thu, 1 Sep 2005 12:22:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <che@ccert.edu.cn>; Thu, 1 Sep 2005 12:34:45 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 04:23:56 -0000
+From: "gan" <gan@mail.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <su@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0MTB6ci+yc/By7O+sKM=?=
+Date: Thu, 1 Sep 2005 12:34:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+今天，阳光很好，却已经不能再穿透我的心灵。
+曾几何时，我迎着风狂跑，大汗淋漓的在一片草地上躺下，仰望着蓝天白云，闭上眼仿佛就能感觉到阳光穿透我的皮肤毛发，穿过我黑暗中的眼眸直透心灵。
+那时的我是简单的快乐的，心里没有任何害怕阳光的阴暗，为自己迎着阳光闪烁的棱角自豪。
+而今，我变了，变得没有棱角，变得懦弱，在阳光下感到害怕，小心的守护着心中的一片片阴影。我恨这些阴影，他们让我感到悲伤烦恼，可越恨他们，就越怕碰触他们，反而就更加小心的守护着他们。于是他们就日渐增长，直到让我不清楚自己到底是谁，淡忘了梦想，放弃了执著。
+我知道的心灵已满是尘埃。那个爱我的女孩儿，我对不起你，我不想让善良的你也染上尘埃，所以只好请你离开。我不断的告诉自己要像个纯真的孩子，可那声音一瞬就消失在黑暗中。我知道只有自己能将自己从深渊中拉起，可...
+难道就这样没心没肺的活着，难道就这样没心没肺的快乐？
+怎样才能扫落这满天的尘埃......

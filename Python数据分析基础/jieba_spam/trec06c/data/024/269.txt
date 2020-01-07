@@ -1,0 +1,36 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <jiang@ccert.edu.cn>; Mon, 22 Aug 2005 05:44:15 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <jiang@ccert.edu.cn>; Mon, 22 Aug 2005 05:57:26 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "sun" <sun@126.com>
+To: jiang@ccert.edu.cn
+Cc: <han@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7V0Ma4ob9KQVZBs8zQ8tSx?=
+Date: Mon, 22 Aug 2005 05:57:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+工作性质：全职
+招聘人数：2人 月薪范围：4000~6000
+工作经验：2年以上 学历：本科以上
+工作地点：北京
+职位描述及要求
+1.大学本科以上学历，计算机软件或者相关专业
+2.精通html/javascript/JSP/java/J2EE等技术；
+3.熟悉 http,https,ftp,telnet 等网络协议
+4.有大型ICP网站开发与维护经验，本科生工作经验至少2年，硕士生至少1年；
+5.精通网站开发中常见的安全漏洞及避免方法优先考虑
+7.根据个人的能力进行待遇判定分级，一经录用，待遇从优
+工作地点：中信国安数码港，地理位置在稻香园桥桥东，中国航天大厦西边
+联系方式：简历mail to: wuwei-99@tsinghua.org.cn (公司的新网站和mail服务器都在
+建设中)
+联系电话：82652066 (工作日 9:00 - 18: 00 )

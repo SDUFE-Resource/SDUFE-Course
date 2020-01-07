@@ -1,0 +1,21 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <zhu@ccert.edu.cn>; Thu, 18 Aug 2005 20:20:54 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <zhu@ccert.edu.cn>; Thu, 18 Aug 2005 20:33:58 +0800 (CST)
+Date: Thu, 18 Aug 2005 20:28:15 +0800
+From: "wua" <wua@sohu.com>
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgoe+h76HvyMjB0tejutjO0tCjuvq/rc2s0afTwrbhtPPUy7vhsNnD173wxcah76Hvoe8=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+http://sports.sohu.com/20050817/n226694435.shtml
+　搜狐体育讯 北京时间8月17日凌晨，在土耳其伊兹米尔举行的第23届世界大学生运动会田径场上，我国选手胡凯给我们带来了意外的惊喜，在男子100米决赛上胡凯以10秒30的成绩为我国代表团勇夺百米冠军。
+　　来自清华大学的胡凯在今天上午以10秒62的成绩列半决赛小组第一而进入了百米决赛，不过因为实力有所保留加上同组对手没有给他更大的压力，所以胡凯的10秒62只让他在最后的决赛中排在第二道，道次并不是非常理想。 
+　　决赛开始后胡凯以0.159秒的反应时间排在8名选手的第三位，不过在30米过后胡凯就跑在了所有选手的最前面。后50米胡凯用出色的途中跑和冲刺能力越跑越快，与其他选手之间的距离也越拉越大。最后胡凯以10.30秒的成绩第一个冲过了男子百米的终点线，领先了第二个冲线的俄罗斯选手安德烈达到了0.13秒。巴西选手桑德罗10.50秒第三个到达终点。
+　　凯最终因此成为了大运会上的“百米飞人”和跑的最快的人。 

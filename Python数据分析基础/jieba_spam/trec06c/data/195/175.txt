@@ -1,0 +1,38 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <bai@ccert.edu.cn>; Wed, 28 Sep 2005 02:43:51 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 18:55:01 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 02:55:01 CST
+Date: Wed, 28 Sep 2005 02:55:01 +0800 (CST)
+From: liang ming <wua@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMn6u+7W0MO709DPsru2tcTE0Mn61PXDtLDsPw==?=
+To: bai@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+。。。
+下回我拍，换个带摄像头的手机。。
+     标  题: Re: 生活中没有喜欢的男生怎么办?
+     
+     哼唧
+     不给
+     
+     : 上线，先传我张照片。嘿嘿
+     
+     
+     --
+     
+     xiaorui:小白猪是那个经常经常经常去打球的gg吗,差不多每天下午那个
+     anthony625:呵呵，老乡好.他是我兄弟，大帅哥，hoho.二队的绝对主力,很强的^_^
+     xiaorui:强是知道的阿，有一次在那儿排队，看到他在和别人练球，真是行云流水阿，
+     看得再旁边叫了起来，我搭档说，同学，别那么没出息行不行，不要叫来叫去的，呵呵，非常崇拜阿
+     tequila2000:唉，帅帅的小猪dd也要毕业了，清华从此又少了一个帅哥，真可惜：～（
+     
+     

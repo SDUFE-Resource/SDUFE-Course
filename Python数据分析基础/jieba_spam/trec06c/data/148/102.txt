@@ -1,0 +1,32 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <tao@ccert.edu.cn>; Sat, 17 Sep 2005 21:22:12 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <tao@ccert.edu.cn>; Sat, 17 Sep 2005 21:38:47 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <tao@ccert.edu.cn>
+	; Sat, 17 Sep 2005 21:38:47 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <tao@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 21:03:48 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "jiang" <jiang@njnu.edu.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOxHR9TaudbK3rbH19PA78/FtcPD5smrstKw1w==?=
+Date: Sat, 17 Sep 2005 21:33:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+羡慕啊，我要有这么可爱的mm就好了！：）
+       当我抱着GG给我赢来的维尼小熊坐在地铁里时，想起GG那吓呆了的表情，至今乐得不行。
+       晚上和GG一起去嘉年华，说好在摩天轮上看中秋之月，GG进去之前就一心一意想着给我赢娃娃，所有刺激性的恐怖性的危险性的游戏一概不玩，不过嘉年华这种烧钱的地方，没玩几个游戏，手中的币就剩得差不多了，一个娃娃都没到手，而当我们坐在摩天轮上欣赏嘉年华的全景时，我开始开导GG，这是多么无聊的游戏啊，我们应该玩那些很少见识得到的游戏。
+      

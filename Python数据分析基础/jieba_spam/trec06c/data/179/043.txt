@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <xiao@ccert.edu.cn>; Sat, 24 Sep 2005 16:27:02 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <xiao@ccert.edu.cn>; Sat, 24 Sep 2005 16:38:27 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 08:15:24 -0000
+From: "yan" <yan@mail.tsinghua.edu.cn>
+To: xiao@ccert.edu.cn
+Cc: <tu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INHUvPLS4urgtcShtsquw+bC8bf8obe+58fpuMXAqCAo16rU2Ck=?=
+Date: Sat, 24 Sep 2005 16:38:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+我在这混了好几年了。
+     标  题: Re: 言简意赅的《十面埋伏》剧情概括 (转载)
+     
+     兄弟你也混这里啊
+     
+     
+     : 这个不算精简，还是网上一位老兄说得好，
+     : 就是一个警察、一个卧底、一个小姐的故事。
+     
+     
+     --
+     killfast,纯洁少男，未婚
+     曾任水木JOKE版版主
+     幽默风趣，聪明勇敢
+     实为mm居家旅行，初恋试婚之绝佳对象
+     
+     

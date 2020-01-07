@@ -1,0 +1,32 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <ma@ccert.edu.cn>; Fri, 16 Sep 2005 20:29:00 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <ma@ccert.edu.cn>; Fri, 16 Sep 2005 20:45:35 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <ma@ccert.edu.cn>
+	; Fri, 16 Sep 2005 20:45:35 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <ma@ccert.edu.cn>; Fri, 
+	Fri, 16 Sep 2005 20:10:36 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "xue" <xue@njnu.edu.cn>
+To: ma@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNLGwMbAwO2jrNPQw7vT0NXi0fm1xGxnPw==?=
+Date: Fri, 16 Sep 2005 20:40:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+你的错
+     第一次来家版发文，是因为被不讲理的lg气的实在太厉害了。说出来让大家看看，到底是谁的不是。
+     lg的表妹下周来北京签证，说周末要过来找我们玩。lg有事，就让我陪她去颐和园玩，还说可能要照相。我上周把相机借给同学了，而这周末又是中秋，同学有事。lg就说让我下周的某个工作日下班后去跟同学要。我说让lg先打个电话问他表妹，她自己有没有带相机（因为她来北京又
+     现在吵的很厉害，大家说说看，到底是谁的错？

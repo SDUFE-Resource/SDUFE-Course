@@ -1,0 +1,56 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AF39fI030243
+	for <feng@ccert.edu.cn>; Sun, 11 Sep 2005 05:15:36 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AF0L4C093997
+	for <feng@ccert.edu.cn>; Sun, 11 Sep 2005 05:13:06 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8AF0IZY093993
+	for <feng@ccert.edu.cn>; Sun, 11 Sep 2005 05:12:44 +0800 (CST)
+	(envelope-from mayuanchen@tsinghua.org.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 05:32:09 +0800
+Message-ID: <326365583.28602@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: mayuanchen@tsinghua.org.cn
+Received: from unknown (HELO mayc-d400) (220.207.80.1)
+	by 210.77.143.232 with SMTP; Sun, 11 Sep 2005 05:32:09 +0800
+From: "ou" <ou@tsinghua.org.cn>
+To: feng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [TOEFL] =BD=CC=CA=A6=BD=DA=BF=EC=C0=D6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Date: Sun, 11 Sep 2005 05:24:58 +0800
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0061451654=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+1 - 1 《非常人贩2》Transporter 2 $20,104,608 $20,104,608 
+ 
+2 1 3 《四十岁老处男》The 40-Year-Old Virgin $16,535,700 $71,886,455 
+ 
+3 - 1 《不朽的园丁》The Constant Gardener $10,961,311 $12,683,307 
+ 
+4 3 3 《红眼》Red Eye $9,438,230 $45,517,427 
+ 
+5 2 1 《格林兄弟》The Brothers Grimm $9,025,597 $28,725,497 
+ 
+6 4 4 《四兄弟》Four Brothers $6,366,088 $64,352,755 
+ 
+7 6 8 《婚礼傲客》Wedding Crashers
+ $5,825,100 $195,801,693 
+ 
+8 7 11 《帝企鹅日记》March of the Penguins $5,561,872 $63,566,739 
+ 
+9 8 4 《万能钥匙》The Skeleton Key $4,043,120 $43,779,225 
+ 
+10 7 4 《魔窟》The Cave $3,764,249 $11,778,458 

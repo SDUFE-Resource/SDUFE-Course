@@ -1,0 +1,30 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7FBL9jQ015986
+	for <yu@ccert.edu.cn>; Fri, 19 Aug 2005 06:13:44 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7FBr5I2010935;
+	Fri, 19 Aug 2005 06:45:40 +0800
+Message-Id: <200508151153.j7FBr5I2010935@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 06:26:40 +0800
+From: "wu" <wu@mail.nisac.gov.cn>
+Reply-To: wu@mail.nisac.gov.cn
+To: yu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgOTljbGljay5jb20g1dK8vMr1yMvUsbzTyOu0tNK1zcW20w==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+商助科技是一家互联网高科技公司，由美国留学人员回国创建，现位于清华大学高科技创业园内。创建以来发展迅速，有多家知名企业在使用我们的服务，包括百度、当当等；多个风险投资商都表示了浓厚的投资意向。我们寻求志同道合的人士加盟我们的事业。
+  
+Java程序员：
+  * 本科以上学历，计算机或其他理工专业
+  * 对技术工作有浓厚的兴趣，并具备软件从业人员的优秀品质，如敬业、钻研、互助等精神
+  * 良好的团队工作意识和沟通能力
+  * 精通JAVABEAN、JSP、SERVLET、JAVASCRIPT、HTML
+  * 熟悉 ORACLE 或 MYSQL 数据库
+  * 一年以上相关经验
+联系方式：resume@shangzhu.com

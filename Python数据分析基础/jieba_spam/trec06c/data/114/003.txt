@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5NG8m027911
+	for <shi@ccert.edu.cn>; Sun, 11 Sep 2005 02:43:05 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5KeKS091336
+	for <shi@ccert.edu.cn>; Sun, 11 Sep 2005 02:40:38 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5Kblh091332
+	for <shi@ccert.edu.cn>; Sun, 11 Sep 2005 02:40:26 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 02:29:35 +0800
+Message-ID: <326328986.06301@mails.tsinghua.edu.cn>
+Received: from 59.66.112.135 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 11 Sep 2005 02:29:35 +0800
+From: you@mails.tsinghua.edu.cn
+To: shi@ccert.edu.cn
+Date: Sun, 11 Sep 2005 02:29:35 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7K0rvPwrHtsNfQ6NKqyrLDtMqxu/qjvw==?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: you@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+ 看看电影《青春梦工厂》，里边有段话挺不错是“当。。。。。”
+     一起看电影或者漫步或者浪漫餐厅？当面、书面还是短信或者电话？或者需要什么特殊的日子、节日或者要什么礼物或者在一起玩的时候随意？
+     在一起一段时间的算是默契的了，但一直没有说一句表明身份的话，是不是一定得表白了才算男女朋友的身份？
+     第一次要说句表白的话实在不知道什么场合是合适的，有没有表白但被对方认为自己显得诚意不够的？

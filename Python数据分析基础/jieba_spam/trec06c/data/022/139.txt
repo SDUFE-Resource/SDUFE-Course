@@ -1,0 +1,41 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <weng@ccert.edu.cn>; Sun, 21 Aug 2005 16:31:04 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <weng@ccert.edu.cn>; Sun, 21 Aug 2005 16:44:18 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 16:12:59 +0800
+Date: Sun, 21 Aug 2005 16:44:09 +0800
+From: "ning" <ning@wnt.com.cn>
+To: weng@ccert.edu.cn
+Cc: "lic" <he@ccert.edu.cn>, "sunt" <xue@ccert.edu.cn>, "caoy" <qian@ccert.edu.cn>,
+        "wangb" <wua@ccert.edu.cn>, "songhm" <qing@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0ru088WjSVS5q8u+1dDGuKO6U2V2ZXIgRGV2ZWxvcG1lbnQgRW5naW5lZXJpbmcgVGVzdChT
+REVUKQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+Job Overview:  full ownership on your area of the product and or projects including test case design, test specifications, development of tools and test automation, suppose to participate in design and code reviews, analyze existing tools and procedures to improve efficiency, anticipate and identify problem areas, and contribute to the test strategies which mainly executed through vendor model. Organizational and resource management skills are highly desired. The key responsibilities include:
+# Communicate with HQ teams for testing project outsource planning and collaboration. 
+# Refine and optimize the entire process to improve efficiency. 
+# Manage project and vendor resource to accomplish product testing tasks on time with high quality. 
+# Be technical expert to the products and projects, help to resolve technical problem
+# Manage multiple projects concurrently.
+Job Requirements:
+# BS/MS degree in Computer Science or Electronic Engineering or equivalent. 
+# 6+ years working experiences in software development, testing related area with strong project management skill.
+# Proficiency level of written and verbal English skill. 
+# Solid understanding of OS concepts (such as memory and process management, kernel mode/user mode, network technology, client/server communication. etc) 
+# Strong programming skills (such as C++, C#, .NET Framework, XML, etc) are required. 
+# Good working Knowledge of computer networking and Internet related technologies like TCP/IP, HTTP/FTP protocols, Web Services, COM+, XML, ASP.NET, SOAP are required.
+# Rich knowledge and experience in database, messaging and EBiz/EAI products and technologies. Candidate who has knowledge and experience in Windows Server System products (SQL Server, Exchange Server, BizTalk Server) will be preferred. 
+# Quick-learning, problem solving and self-challenging
+# Positive-thinking, cross group collaboration and team-working.
+# Good project management skill, multi-task management skill.
+# Good communication skill, presentation skill and interpersonal skill.
+# Knowledge of test automation techniques and technologies essential a big plus

@@ -1,0 +1,26 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <che@ccert.edu.cn>; Tue, 27 Sep 2005 00:29:15 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <che@ccert.edu.cn>; Mon, 26 Sep 2005 23:49:34 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "xia" <xia@cert.org.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzhvvbFxMvAzfXb89Xi0fnN/Lb3uLrS5bXEsNfR28DH?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Tue, 27 Sep 2005 00:35:13 +0800
+
+我看你才是拉大旗当虎皮，你这么多疑问句，不要把具体的问题抽象化。
+回答：
+1. 自己学术不牛就没有资格出来指责同学/老师水平差。
+2. 玩linux/tex就是不务正业。业余时间玩玩可以，占用工作时间，
+理论上说就是不对。
+3. 那个group我有具体了解，不是上纲上线。
+     姑且不论他学术牛不牛，假设他学术不牛，就没有资格指出这些事实
+     了么？
+     玩liunx与tex就是不务正业了么？ 那么兢兢业业地完成导师的任

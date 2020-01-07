@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <you@ccert.edu.cn>; Tue, 23 Aug 2005 15:23:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <you@ccert.edu.cn>; Tue, 23 Aug 2005 15:36:31 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 07:31:04 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "chen" <chen@mail.tsinghua.edu.cn>
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILbUy9G6/Lmry761xNK70Km9qNLpo6jUrbS0o6k=?=
+Date: Tue, 23 Aug 2005 15:32:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+首先我对这位同学的观点表示不支持：
+1、收购的文化融合不容置疑，但是对于高层管理者的换血并不能说是对文化的摧残。相反，高层往往代表着一种文化，收购一个公司如果不从高层管理者进行下手，很难会有改变文化的效果。况且，对不良公司的收购本身就表明原来管理者经营的失败。我觉得搜狐不应该在撤换管理者上犹豫。
+2、对于作者推荐大家看的书，我不表示赞同。经营公司更多的是靠制度，而不是靠所谓的人性。特别是在刚整顿一个收购进来的公司的时候，强力的制度校正和文化传递本身就是并购成功的前提。收购不是追求多元化。不知道你懂不懂无形资产盘活有形资产的道理。可能你没有听说过。
+3、觉得你看了些书，但是并没有懂得管理的道理，管理不是请客吃饭，不是追女孩，感情用事，不是可以解决问题。希望你能够更多读一点。卡内基的书不是管理学，是励志类的书，没有到那种高度。他也不懂管理学。西方的管理学更多的是强调的理性和制度的管理，不是中国的人性管理。你没有明白。
+     张朝阳先生领导的搜狐公司，经过多次收购，现在可以说是一锅粥，大杂烩。
+     尤其是对吉菲尔技术有限公司（GoodFeel）的收购，对搜狐公司来说是一个严峻的考验。
+     为什么这么说呢？ 因为GoodFeel是一个韩国人领导企业，与中国企业存在一个企业文化的融合问题。

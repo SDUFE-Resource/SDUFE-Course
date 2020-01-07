@@ -1,0 +1,44 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3XRsq011198
+	for <xing@ccert.edu.cn>; Sun, 2 Oct 2005 01:51:49 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U3S2Fd080380
+	for <xing@ccert.edu.cn>; Sun, 2 Oct 2005 01:46:35 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U3RxnO080376
+	for <xing@ccert.edu.cn>; Sun, 2 Oct 2005 01:46:20 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 2 Oct 2005 01:58:45 +0800
+Message-ID: <328051624.14203@mails.tsinghua.edu.cn>
+Received: from 202.112.4.39 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 2 Oct 2005 01:58:45 +0800
+From: cheng@mails.tsinghua.edu.cn
+To: xing@ccert.edu.cn
+Date: Sun, 2 Oct 2005 01:58:45 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM312/PNrNGnzfXS5rXEv7S3qA==?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: cheng@mails.tsinghua.edu.cn
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+顶！
+类似的“天才疯子”至少还有川大的胡正。他们过去的一些成绩在被得到了不凡的肯定后，都会因为对自己的要求更加严格和较真而做出出人意料的举动，而且他们动手能力和摸索学习能力超强。
+他们的朋友都觉得其实他们本身不坏，但是容易因为一些外部的刺激而作出冲动的事。其实我觉得他们都是因为“自我”中心，但是这个“自我”不是私心，而是因为没有得到高人指点，只能在“自我”的世界寻求答案。
+如果说他们说的都是“无稽之谈”，那你们大错特错了，王垠的导师从其他人的看法可以知道是一个合格的教学工作者，但恐怕不是高人。knuth给王垠的意见很对，希望他能找一些大师去请教。但是“大师”又何尝是那么容易碰得到的，而且人家可能没时间跟你玩。
+那么“天才疯子”们是不是就应该因为捅出一些事情而受到b4，不，我觉得这很不公平，对他们周围的普通人可能受到的牵连也不公平。
+事实从两方的解释中已经很清楚了，博士培养体制有弊端，王垠也没做好科研。
+我当然希望这些“天才”能有高人栽培，不过既然没有碰上，那就只能依靠自己了。(也许他因该到国外学习同时深造一下“数学”-国内的数学教育是狗屎，这样能让自己接触更多更复杂抽象但也实用的难题，不再轻易冲动。让自己不断的取得进展)
+祝王垠走好！
+     发信人: cxwangyi (  ), 信区: PhD
+     标  题: 一个王垠的同学的想法

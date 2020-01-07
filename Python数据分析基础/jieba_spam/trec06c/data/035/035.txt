@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <guan@ccert.edu.cn>; Wed, 24 Aug 2005 20:35:37 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 24 Aug 2005 20:54:00 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 20:54:00 +0800
+Date: Wed, 24 Aug 2005 20:54:00 +0800
+From: tu@cernet.com
+Subject: =?gb2312?B?ofEgtdvG87bstcTI1bzH?=
+To: guan@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+帝企鹅是一群可爱又可敬的动物，它们用爱和坚持将冰天雪地的地球一端融化成温馨的人间天堂。成群的帝企鹅列队前进，成双的帝企鹅载歌载舞，还有企鹅夫妇温情款款的眼神和姿态，企鹅爸爸用洁白柔软的腹部把小企鹅团团裹住的样子，看了让人好不感动。帝企鹅很爱自己的孩子，如果哪只小可怜没能经受住寒冷的考验而离开人世，企鹅爸爸妈妈会守着孩子的尸体仰天嚎叫，有时它们甚至会精神时常，抢夺别人的孩子！
+帝企鹅的世界竟是如此充满爱意！
+它们生存的环境却很险恶，在水里有怪兽的追捕，在岸上有狂风的肆虐。然而，无论遇到任何天灾人祸，帝企鹅们都高昂着黑色的小脑代，一扭一扭地继续前进。明媚的春天到来时，它们依然在水中快乐飞翔，漫长的冬季肆虐时，它们永远不离不弃，共同对抗黑暗和冰冷，一起等待爱人的归期，守护心爱的孩子。
+帝企鹅，我好喜欢你们。

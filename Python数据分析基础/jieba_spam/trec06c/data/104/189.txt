@@ -1,0 +1,20 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j874iPdV032722
+	for <fu@ccert.edu.cn>; Fri, 9 Sep 2005 02:04:43 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by smtp119.sohu.com (Postfix) with ESMTP id 84D5F0526C87
+	for <fu@ccert.edu.cn>; Fri, 9 Sep 2005 02:16:45 +0800 (CST)
+Date: Fri, 9 Sep 2005 02:16:54 +0800
+From: "ye" <ye@sohu.com>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IHp6W8fz1vpdo7rO0rrNztLFrsXz09HF9rW9tcTOyszio6jA4MvGNzDE6rT6us04MMTqtPq1
+xD8=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907045627.84D5F0526C87@smtp119.sohu.com>
+
+re，说得好。sp
+           你好,你的问题,我有一点浅见,权作参考.

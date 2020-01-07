@@ -1,0 +1,31 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2qIUC010144
+	for <you@ccert.edu.cn>; Fri, 16 Sep 2005 09:48:11 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <432A361D.0000C0.29343@m115.126.com>
+Date: Fri, 16 Sep 2005 09:59:47 +0800 (CST)
+From: "bai" <bai@126.com>
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob5QaW5DTs/7z6Khv7CuwaLQxdbQufrR0L6/1LrV0Ma4yrXPsMn6?=
+X-Priority: 3
+X-Originating-IP: [222.82.99.17]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_qcLtUtrIOHetfVDqRvFQeohZwyJq"
+
+爱立信中国研究院招聘实习生，详细职位信息如下：
+Title: Integration&amp;Verification Engineer (Function Engineer) (Intern)
+Responsibilities:
+* Define verification environment and methodologies to be implemented within the R&amp;D Center 
+* Implement the defined environment and methodologies 
+* Development of test cases for the specific products and projects 
+* Integration and verification of products developed within the R&amp;D Center
+Requirement: 
+* MS. degree or above in Computer Software, Telecom or Electronics Engineering 
+* Experience in software development and good command of one of the following language i.e. C/C++/Perl 
+* Excellent knowledge of Wireless Communication systems, and experience on UNIX operating system 
+* Good knowledge on Radio Access Network for WCDMA or GSM 
+* Knowledge in system integration and testing i.e. SS7, ATM and IP 
+* Good communication skills and social abilities; 
+* Fluent in oral &amp; written English.
+感兴趣的同学请发送你的简历至： recruitment.etc@ericsson.com 
+注意：邮件标题请写上：应聘XXXXXXXXX职位！

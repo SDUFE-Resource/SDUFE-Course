@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U9J0it000952
+	for <li@ccert.edu.cn>; Sun, 2 Oct 2005 17:30:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8U9U5DC010664
+	for <li@ccert.edu.cn>; Sun, 2 Oct 2005 17:41:55 +0800 (CST)
+Received: (eyou send program); Sun, 2 Oct 2005 17:15:18 +0800
+Message-ID: <328071008.01363@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Sun, 2 Oct 2005 17:15:18 +0800
+From: zhuang@mail.tsinghua.edu.cn
+To: li@ccert.edu.cn
+Date: Sun, 2 Oct 2005 17:15:18 +0800
+Reply-To: zhuang@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7S1rvPo837wqXW99LUuvO2rrXD16XXobv6u+E=?=
+Content-Type: text/plain
+
+你似乎在转换话题
+首先，成绩好，推研地把握就大，这个基本上是废话
+每个人都知道
+但是推研靠的是相对排名而不是绝对成绩，自然会分出名次
+现在我们讨论的重点是
+现有的推研制度是否有缺陷
+你的观点如下
+“你仍然没有理解我所说的话，学校的制度有问题而导致了混乱
+你应该考虑这个问题：为什么会有学生在那里争夺名额？
+合理的体制的结果是，你三年的学习成绩和其他表现已经决定了你是否会被推研
+你无需，无意义也不允许去考争夺来获得名额
+你的争夺应该放在前三年的学习成绩上”
+“要做到公平就必须用量化的办法来解决问题，为人处事很重要
+但是这个不该成为决定因素而只是辅助因素，比如同等条件下优先考虑
+否则就会出现学习成绩差靠和老师搞关系而推研的事情
+二者取一，还是学分积能更加客观”
+我的观点很简单，推研这件事情上面要量化非常困难，前面已经说得很明白，从导师的角度出发，选择研究生有很多考虑，不仅仅是看学分积，还要看其他很多因素，例如某些老师就想找一些动手能力强的，某些老师不喜欢学分积高的但是一心要出国的
+就如同招聘一样，要看很多条件，能力强的不一定会适合
+     你能把事情寄托在小概率事件上面吗？
+     成绩好的，肯定可以推研
+     成绩不好的，靠运气也许可以推研

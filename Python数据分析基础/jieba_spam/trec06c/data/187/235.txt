@@ -1,0 +1,20 @@
+Received: from wnt.com.cn ([211.100.22.34])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q6u6Eg006450
+	for <chi@ccert.edu.cn>; Mon, 26 Sep 2005 14:07:29 +0800 (CST)
+Received: from 127.0.0.1 (HELO quarkmail.com) (envelope-from wangb@wnt.com.cn)
+	by localhost (quarkmail-1.2.1) with SMTP id S1874202AbVIZGep
+	for weike@ccert.edu.cn; Mon, 26 Sep 2005 13:46:05 +0800
+Message-ID: <BJfqj7M8usFU$hY9lBHOp$QovdTJ56@wangb>
+From: "lin" <lin@wnt.com.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsrT0MutxNzNxrz20rvPwtOi0++1xLi0z7C3vbeoo78=?=
+Date: Mon, 26 Sep 2005 13:46:05 +0800
+X-Priority: 3 
+X-Save: wangb@wnt.com.cn:sent
+Content-type: text/plain
+Content-Transfer-Encoding: base64
+
+现在做题太早了，英语就是一个积累的过程嘛，觉得没什么用，其实会发现最后做题时速度正确率还是和以前有很大进步的
+     我到现在还只是每天背背词汇、看看阅读，渐渐觉得这样不但效率低，而且针对性也低，再这样下去真的很危险，但又不知道该怎样复习。
+     听说现在政治流行所谓的“三轮复习”方案，数学也有人指出四轮复习该看的书之类的，那么英语是不是也有什么经典的复习方法呢？
+     渴望哪位能指点迷津，在这里先谢谢了！

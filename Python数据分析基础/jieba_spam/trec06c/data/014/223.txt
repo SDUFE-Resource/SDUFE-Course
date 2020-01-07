@@ -1,0 +1,32 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <hu@ccert.edu.cn>; Sat, 20 Aug 2005 02:18:42 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <hu@ccert.edu.cn>; Sat, 20 Aug 2005 02:31:44 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 02:55:12 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: zhong@126.com
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX3uPa9473j?=
+Date: Sat, 20 Aug 2005 02:26:26 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+在美国每天有120个人在等待做变性手术，而其中通过的不足十分之一
+于是很多人在无照地下医院做这种手术，毫无医疗卫生保障可言
+在地下医院做手术的人有1/9死于动脉出血，大多数不同程度存在感染发炎
+有1/2要在三个月内接受20多次的复位纠正手术，要至少一年以上时间适应新生殖器官带来的生理和心理痛苦，每天要吃将近10种的激素类药物
+这样的过程折腾下来成功变性的案例非常少，你现在觉得累吗？
+     你怎么知道当人妖很累的

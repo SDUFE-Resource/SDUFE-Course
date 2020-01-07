@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <mo@ccert.edu.cn>; Wed, 14 Sep 2005 16:23:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <mo@ccert.edu.cn>; Wed, 14 Sep 2005 16:35:29 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 08:18:17 -0000
+From: "gong" <gong@mail.tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Cc: <cai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INPQyMvPsru2zfXV39aut+fC76O/?=
+Date: Wed, 14 Sep 2005 16:35:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+《云海玉弓缘》那个片子应该是最先出现“武术指导”职位的，加上稍后的《大醉侠》也是，的确有这个典故，而《大醉侠》还是第一部用弹簧床的，这应该没有疑问吧，有明文记载。
+关于吊钢丝，我想二三十年代的剑仙奇侠片用的钢丝肯定不是后来那种，毫无疑问
+毕竟工艺水平不同，但他们肯定是吊的
+我不止一次看到老上海明星的回忆录里面讲他们被吊起来，放不下来的类似经历
+那一堆火烧片里的红姑空中飞行，据说就是吊“钢丝”吧
+     这个似乎不确。
+     威儿秀一般是说唐佳跟刘家良在拍摄云海玉弓缘的时候创立的
+     至于以前，似乎连吊绳子都没有。

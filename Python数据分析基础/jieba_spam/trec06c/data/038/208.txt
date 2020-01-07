@@ -1,0 +1,23 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <feng@ccert.edu.cn>; Thu, 25 Aug 2005 14:47:52 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 15:06:15 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 15:06:15 +0800
+Date: Thu, 25 Aug 2005 15:06:15 +0800
+From: ning@cernet.com
+Subject: =?gb2312?B?ofEgtsGzwrWkx+DPyMn6tMfWsNDF09C40A==?=
+To: feng@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+去年国庆期间我坐火车出去游玩,同座有一老伯,民工模样,交谈中知道我是清华大学学生,当即拿出手机,接通河南老家,告诉家里的儿子,说自己对面坐了一个清华大学学生,要他和我交朋友。同行中国传媒大学（原北京广播学院）朋友颇有感触地对我说道：“中国老百姓可能什么大学都不知道，但一定知道清华北大。”老伯的举动给我个人很大震撼，清华北大享中国最高学府盛名已久，在很多老百姓心目中真的是神圣和完美的学府，好多落后地区的人民敲锣打鼓欢送本地考上清华北大的孩子。不说其他，我相信各位中的很多人在考进来之前对这里是满怀憧憬的，进而以自己最大的努力在高考的独木桥中冲杀进来，在下即是这样。然而进来之后，便看见不少不足之处甚至名不副实之处，不少人难免有诸多失望。有人比较消极，通过各种手段宣泄不满；可是更多的人却更愿意去改善学校，他们中有老师，有同学，也有校友。陈丹青先生便是后者，其言切中时弊，洋溢着令人感动的书生意气。亦可谓用心良苦。清华大学已经成为中国老百姓心中的丰碑，每年都有许许多多中国最好的中学生，希望用他们的青春和欢乐来换取一张写着“清华，你一生的骄傲”的录取通知书。如果清华大学名不副实，如果清华大学有太多的表面文章，如果清华大学不是我们所热爱的那个“行胜于言”的母校，那个提倡“独立之人格，自由之思想”的母校，那么，怎么对得起我们自己对她的热爱，怎么对得起那些为了成为她的孩子而在酷热的教室里挥洒汗水的中学生，又怎么对得起亿万万对她顶礼膜拜的全中国的老百姓？！甚至可以这样讲，全国的大学都可以乱七八糟，但清华北大绝对不行！！所以，作为一个普通的清华学生，我由衷的希望校领导和全校师生能够做得更好，更出色。世界一流大学的目标也许比较遥远，但最终我们能够做到，而且必须做到！

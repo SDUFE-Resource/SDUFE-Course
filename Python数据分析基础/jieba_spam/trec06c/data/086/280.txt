@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82FLbGe032642
+	for <zhou@ccert.edu.cn>; Sun, 4 Sep 2005 23:13:38 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FJdh8031910
+	for <zhou@ccert.edu.cn>; Sun, 4 Sep 2005 23:12:14 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j82FJK7s031906
+	for <zhou@ccert.edu.cn>; Sun, 4 Sep 2005 23:11:36 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 4 Sep 2005 23:00:33 +0800
+Message-ID: <325673713.12029@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 4 Sep 2005 23:00:32 +0800
+From: zheng@mails.tsinghua.edu.cn
+To: zhou@ccert.edu.cn
+Date: Sun, 4 Sep 2005 23:00:32 +0800
+X-Priority: 3
+Content-Type: text/plain
+Subject: =?gb2312?B?ofEg1fe/w8fvzOy1xMr3?=
+Precedence: list
+Reply-To: zheng@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+    北京最美的季节来了，征棵象秋天的树一样的人
+    希望这棵树是：
+      1、开朗阳光、随和宽容，不小气，不计较，不BT，不WS
+      2、喜欢足球、篮球、PP球
+      3、偶尔可以一起互相督促学习、吃吃饭、聊聊天
+      4、如果是男树，22至26岁，高高个子，对自己外在满意自信的（爱美之心人皆有之嘛）；如果是女树，不要太羸弱、不小心眼的就好，可以说说知心话
+      btw:有其他不良企图、歪歪想法的就不要来信啦，谢谢
+      站内信箱

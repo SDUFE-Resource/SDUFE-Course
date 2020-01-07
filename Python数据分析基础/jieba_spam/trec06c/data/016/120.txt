@@ -1,0 +1,22 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <kang@ccert.edu.cn>; Sat, 20 Aug 2005 09:58:32 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <kang@ccert.edu.cn>; Sat, 20 Aug 2005 10:11:36 +0800 (CST)
+Date: Sat, 20 Aug 2005 10:05:53 +0800
+From: "kang" <kang@sohu.com>
+To: kang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtKvNs87Eu6++q8nxeno=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+摘录部分：
+中国传统文化的核心精神是“和”。
+    一，“和”的概念
+    和的概念是与金木水火土五行说一起产生的，古人认为“以土与金木水火，杂以生万物。” （《国语・郑语》）和是万物得以生成之道。
+    郑桓公曾问史伯，周朝衰落的原因是什么。史伯认为是周王“去和而取同”，周王只听取相同 的意见，排斥相异的意见，所以一定会导致衰落和灭亡。史伯还提出“以他平他”的方法，把 相异的东西有机结合就能产生新事物，若是相同的东西相加，那就太单一而没有发展了，就会 犯“以同裨同”的错误。《国语・郑语》：“夫和实生物，同则不继。以他平他谓之和，故能 丰长而物归之；若以同裨同，尽乃弃矣。 ” 意思是说，“和”是将性质不同甚至相反的事物 安排在一起，即所谓“以他平他”， 事物才能生长、发展；“同”是将无差别的事物凑合在 一起，即所谓“以同裨同”。
+    曾子则把和比作烧汤，“和，如羹焉，水火醯醢盐梅，烹鱼肉，

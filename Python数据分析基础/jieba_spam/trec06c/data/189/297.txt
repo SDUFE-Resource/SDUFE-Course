@@ -1,0 +1,35 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <zhao@ccert.edu.cn>; Tue, 27 Sep 2005 01:32:36 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 17:43:30 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 17:43:30 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <zhao@ccert.edu.cn>; Mon, 26 Sep 2005 10:54:37 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <zhao@ccert.edu.cn>; Mon, 26 Sep 2005 12:51:03 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 01:43:18 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <you@motorola.com>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsrT0MutxNzNxrz20rvPwtOi0++1xLi0z7C3vbeoo78=?=
+Date: Tue, 27 Sep 2005 01:42:53 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+背单词,做阅读的方法太被动了.
+多做一下翻译和作文吧,这样能调动自己的主动性,当然也穿插阅读.
+在阅读中背单词.
+     我到现在还只是每天背背词汇、看看阅读，渐渐觉得这样不但效率低，而且针对性也低，再这样下去真的很危险，但又不知道该怎样复习。
+     听说现在政治流行所谓的“三轮复习”方案，数学也有人指出四轮复习该看的书之类的，那么英语是不是也有什么经典的复习方法呢？
+     渴望哪位能指点迷津，在这里先谢谢了！

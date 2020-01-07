@@ -1,0 +1,57 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <pu@ccert.edu.cn>; Sat, 24 Sep 2005 09:40:43 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <pu@ccert.edu.cn>; Sat, 24 Sep 2005 09:52:07 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 01:29:39 -0000
+From: "huang" <huang@mail.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Cc: <you@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+W7qrTz0afI7bz+0afUuqGws6S358bGwMuhsc+1wdC9stf5tdrSu8bavs3Sqr+qyrzBy6Oh?=
+Date: Sat, 24 Sep 2005 09:51:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+期待已久的"长风破浪"系列讲座第一期就要开始啦！^_^
+    你是否刚刚走进软件学院，踌躇满志，准备塑造一个羽翼丰满的自我？
+      你是否已经学习了很多课程，却开始揣测是否真正掌握了社会需要的知识？
+         你是否正摩拳擦掌，为寻找理想的工作而奔波，为实现梦想而打拼？
+    由软件学院研究生会策划的"长风破浪"系列讲座第一期――IT经理人谈职业规划将给你
+一个答案！
+    本期讲座，我们请到了斯伦贝谢技术(北京)有限公司的策略顾问大野友义先生与大家
+共同探讨IT人的职业规划！
+    你在自己的职业规划方面有什么疑问？
+       你是否在考虑怎样顺利进入世界500强的跨国企业？
+           你想得到什么样的就业咨询和就业指导？
+    我们欢迎对就业感兴趣的同学们，特别是即将毕业的同学回复本贴，留下你们感兴趣的
+问题和关心的焦点，我们会予以汇总后反馈给演讲人，争取让大家都得到一个满意的答案，
+充满自信地面对即将到来的招聘高峰！
+演讲人简介：
+大野友义 , 1944年4月台湾台北生。台湾清华大学数学研究所理学硕士（1968)，日本
+山梨大学电子计算机科学专业工学硕士（1972)，日本东京大学数学教室自动化理论专业研
+究员（1976)。
+    大野先生是资深ISO9001 /Ticket体系首席评估师及SEI-CMM 评估师，曾负责过多个大
+型项目，如日本通产省大型项目-平行处理设计开发、油层分析研究-2D/3D图形图像处理及
+应用、日本斯伦贝谢(株) ISO9001/Ticket 认证系统的建立、NTT-斯伦贝谢大型项目的协调
+ (Verisys Inc.设立)、J-PHONE软件过程的确立等等。
+    另外，大野先生还曾任日本庆应大学(情报科学研究所)兼职教授；现任中国石油大学（
+华东）兼职教授。
+    大野先生曾在日本科学技术联盟研修所、东芝总合研究所等任项目经理。之后，在斯伦
+贝谢公司度过了20余载的职业生涯，先后任项目经理、部门经理及斯伦贝谢技术(北京)有限
+公司副董事长，曾负责斯伦贝谢公司的多个项目、企业文化的革新及人员培训、斯伦贝谢技
+术(北京)有限公司的设立等。2004年9月起任斯伦贝谢技术(北京)有限公司策略顾问至今。
+斯伦贝谢公司简介：
+斯伦贝谢（Schlumberger）是一家以高科技著称的大型跨国企业集团，世界五百强企业之一，其总部位于美国的纽约和法国的巴黎。斯伦贝谢公司由三大部门组成－油田服务、电子交易与测试和资源管理服务（RMS-Resource Mangagement Services）。
+    斯伦贝谢公司已有近百年的发展历史，。它是一家油田服务高科技公司，在全球拥有10
+0多个办事处和20多个科技、生产中心。其员工人数超过65000人，他们来自100多个不同的
+国家及民族。
+    此外，斯伦贝谢公司还曾涉及多个业务领域，比如斯伦贝谢曾在2001年52亿美元收购英
+国技术信息公司SemaPLC公司，在智能卡、手机银行的研究方面作出了巨大的贡献，并且是2002年盐湖冬季奥运会和2004年雅典奥运会的IT信息设备提供商。
+    相关信息请访问斯伦贝谢公司网址：http://www.slb.com

@@ -1,0 +1,58 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <long@ccert.edu.cn>; Mon, 5 Sep 2005 11:52:31 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <long@ccert.edu.cn>; Mon, 5 Sep 2005 11:50:47 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <long@ccert.edu.cn>; Mon, 5 Sep 2005 11:50:27 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Mon, 5 Sep 2005 03:39:39 -0000
+Date: Mon, 5 Sep 2005 12:00:31 +0800
+From: "zhu" <zhu@mails.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsqxsbTztcTRp7fWvKjKx9T1w7S7u8vjtcSwoaO/?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <xia@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+平均绩点包括所有课程(必修,限选,任选).如果有不及格的且尚未补考或补考仍不及格, 则计算平均绩点时该课程以零分计算,学分也以零分计算;如果补考及格,则以及格的成绩计算平均绩点,该学分记录总学分中.具体的绩点算法如下: 
+若以分数计算成绩:
+if (成绩&gt;=90) then 绩点=4
+elseif (85&lt;=成绩&lt;90) then 绩点=3.7 
+elseif (82&lt;=成绩&lt;85) then 绩点=3.3 
+elseif (78&lt;=成绩&lt;82) then 绩点=3 
+elseif (75&lt;=成绩&lt;78) then 绩点=2.7 
+elseif (72&lt;=成绩&lt;75) then 绩点=2.3 
+elseif (68&lt;=成绩&lt;72) then 绩点=2 
+elseif (64&lt;=成绩&lt;68) then 绩点=1.5 
+elseif (60&lt;=成绩&lt;64) then 绩点=1 
+else 绩点=0 
+endif 
+若以字段计算成绩(优秀,良好,及格和不及格属于同一评定标准; 合格与不合格属于同一评定标准):
+if(成绩="优秀") then 绩点=4
+elseif (成绩="良好") then 绩点=3
+elseif (成绩=“及格”) then 绩点=1 
+elseif (成绩="不及格") then 绩点=0 
+if (成绩="合格") then 绩点=4 
+elseif (成绩="不合格") then 绩点=0 

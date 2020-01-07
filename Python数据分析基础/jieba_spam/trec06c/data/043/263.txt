@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <guan@ccert.edu.cn>; Fri, 26 Aug 2005 13:09:30 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 13:27:50 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 13:27:50 +0800
+Date: Fri, 26 Aug 2005 13:27:50 +0800
+From: han@cernet.com
+Subject: =?gb2312?B?UmU6IM/ruPhMUMLyuPa6w7Xjtvm1xLukt6LL2KOsxMS49rrDsKGjvyAo16rU2Ck=?=
+To: guan@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+     发信人: Gernett (森林狼), 信区: Shopping
+     标  题: 想给LP买个好点儿的护发素，哪个好啊？
+做过离子躺再做护理拉过的头发还是那样,吸收营养的通道已经没有了
+所以没用
+如果要用的还是用蜂花的吧,老牌子还便宜,每次多弄点在头上,我就是
+感觉不错.或者用露华浓那种大瓶经济装的,白瓶蓝字的那种,效果也还不错

@@ -1,0 +1,36 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <long@ccert.edu.cn>; Sat, 3 Sep 2005 00:21:24 +0800 (CST)
+Received: (eyou send program); Sat, 3 Sep 2005 00:24:16 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 3 Sep 2005 00:24:16 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Sat, 3 Sep 2005 00:24:16 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 16:17:39 -0000
+Received: (eyou send program); Sat, 3 Sep 2005 00:09:49 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Sat, 3 Sep 2005 00:09:49 +0800
+From: he@mails.tsinghua.edu.cn
+To: long@ccert.edu.cn
+Cc: he@ccert.edu.cn
+Date: Sat, 3 Sep 2005 00:09:49 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INb4w/vR3dSxuLWx69LyuM6wqbTHysAgz+3E6jQwy+o=?=
+Content-Type: text/plain
+
+re
+     标  题: Re: 著名演员傅彪因肝癌辞世 享年40岁
+     
+     sigh
+     
+     : YULE.SOHU.COM 2005-08-30 10:51　 来源： 搜狐娱乐
+     : 著名演员傅彪因肝癌于今日上午9点45分在北京武警总医院安静的辞世，享年40岁。医院
+     : 外面聚集的众多的记者眼含热泪与傅彪的众多好友一起为好人傅彪送行。
+     
+     --
+     

@@ -1,0 +1,50 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <tian@ccert.edu.cn>; Sat, 20 Aug 2005 18:19:09 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <tian@ccert.edu.cn>; Sat, 20 Aug 2005 18:32:27 +0800 (CST)
+Date: Sat, 20 Aug 2005 18:26:32 +0800
+From: "ding" <ding@sohu.com>
+To: tian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhdINfKye5KQVZB0dC3ormks8zKpiChokphdmEgvefD5rmks8zKpiChok9yYWNsZcr9
+vt2/4kQ=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+资深JAVA研发工程师 (工作地点：北京)
+职位要求： 
+1、精通JAVA语言，精通Jsp编程，至少4年以上JAVA研发经验
+2、熟悉Java Bean\\J2EE等技术
+3、熟悉oracle原理及基本的SQL操作语句,有相关web程序开发经验
+4、熟悉Linux、Java Applet、多线程、线程间通信等
+5、本科以上学历，敬业、易沟通，2周内能够参加工作 
+6、此职位为JAVA组组长。
+Java 界面工程师 1人 
+职位要求：
+1、至少具有1年Java界面编程经验；
+2、熟悉SWT/JFace、Applet编程；
+3、学习能力强，有较高的英语水平，能阅读英文文档资料。
+Oracle数据库DBA  （工作地点：北京）
+职位要求：
+1、三年以上Unix或Linux平台下Oracle数据库DBA工作经验。
+2、有TB级数据库设计和实现经验。
+3、熟悉Oracle9i及以上版本的配置和管理。
+4、熟悉RAC（应用集群）并有相关经验。
+5、本科以上学历，敬业、易沟通
+项目助理 1人 
+职位要求：
+1、女性，具有业务理论基础，能够独立负责产品的销售与市场拓展。
+2、工作积极努力，有团队精神和良好的沟通、协调能力。
+3、具备良好的商务谈判能力，谈吐流利，有亲和力。
+4、善于学习，抗压能力强，思路清晰，头脑灵活，气质好。
+5、本科以上学历，至少1年以上工作经验。
+6、责任心强，工作认真负责，条理清楚；
+7、有较强的服务意识和保密意识。
+8、熟悉办公室的操作流程，精通OFFICE办公软件。
+有意者请注明应聘职位，将简历回复至站内信箱，并注明可到职时间。
+条件合适即可安排面试，一经录用，将提供极富竞争力的发展环境和薪酬待遇。

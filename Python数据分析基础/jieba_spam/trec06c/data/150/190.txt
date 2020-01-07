@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <liao@ccert.edu.cn>; Sun, 18 Sep 2005 09:00:11 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <liao@ccert.edu.cn>; Sun, 18 Sep 2005 09:16:46 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <liao@ccert.edu.cn>
+	; Sun, 18 Sep 2005 09:16:46 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <liao@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 08:41:47 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "weng" <weng@njnu.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0/a1vdK7tePKwsfpo6zAtMu1y7U=?=
+Date: Sun, 18 Sep 2005 09:11:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+我的经历：
+一个男孩如果不太喜欢一个女孩，但是也能对她很好，但是持续的时间不会很长。一个多月之前遇到一个师兄，对我很好，每天早晨短信，到我单位楼下等我，也经常约我出去玩，还能在我穿雨衣的时候把手伸到袖子里把我的手拉出来。看到这些表面现象，感觉师兄是喜欢我的。但是就在今天以前的一个星期突然不见。今天终于告诉我这段时间的感情问题，他最爱的女孩要跟他最好的朋友结婚了。幸亏之前我经常拒绝他，要不然真到一起了，那也不是真爱。今天回信跟他说叫他努力争取，万一不行的话就保持朋友关系，那样看见她幸福他也会安心。也想起ex，开始的时候也对我很好，三个多月之后在一起了。但是他也能几天不理我，没有经验只是觉得他就是这样的人。现在想起来，也许沉淀在他心里的是另外一个人。所以才能一时对我好，而不能长时间对我好。
+总结出来：
+1．    女孩让男孩追，有时候并不是故意的。除去有没有感情这条最重要的因素在里面，还有就是这个原因。其实男孩也未必喜欢她，但是他也会去追。有时候男孩这么做也许并不是故意想要伤害她，只是得到之后才发现自己无法从内心真正的爱她，后来分手。所以这种情况必须考虑，也不要抱怨女孩太难追。
+2．    如果女孩很容易追上或者女孩追上男孩，男孩不会珍惜。也许并不是男孩的劣根性。就像我这种情况，如果我们在一起了，以后分开的概率极大。所以也不要太苛责男孩子。

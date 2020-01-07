@@ -1,0 +1,22 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 09:07:09 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 08:29:27 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "fu" <fu@cert.org.cn>
+To: xiao@ccert.edu.cn
+CC: "yu@ccert.edu.cn" <yun@ccert.edu.cn>,
+   "pu@ccert.edu.cn" <gong@ccert.edu.cn>,
+   "tang@ccert.edu.cn" <bi@ccert.edu.cn>, "chen@ccert.edu.cn" <wua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMnxu7A=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 09:14:54 +0800
+
+你的语言风格还真让我想起了超女粉丝们的帖子...
+      今天下班后去看了《神话》的首场。在UA金钟。 感慨很多。
+      1  一般的影星，或者歌星，尤其是香港的，大多都是越老越差。 很多人可能最后一两部片子风格会和过去有所不同，美其名曰是改变风格，尝试新形式，但其实最后都很失败。 周星驰的少林足球就已经比较失败了，而功夫更是失败的要命，将星爷一世英名扫尽。 而成龙将近60岁

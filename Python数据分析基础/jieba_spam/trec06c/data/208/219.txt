@@ -1,0 +1,39 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9PC3p028193
+	for <yana@ccert.edu.cn>; Fri, 30 Sep 2005 10:28:55 +0800 (CST)
+Received: from nearxlz (th077173.ip.tsinghua.edu.cn [59.66.77.173])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8S9aPo04715;
+	Fri, 30 Sep 2005 10:40:08 +0800 (CST)
+Message-Id: <200509280936.j8S9aPo04715@netarchlab.tsinghua.edu.cn>
+Date: Fri, 30 Sep 2005 10:41:19 +0800
+From: "liu"<liu@netarchlab.tsinghua.edu.cn>
+Reply-To: liu@netarchlab.tsinghua.edu.cn
+To: yana@ccert.edu.cn
+Subject: =?gb2312?B?ofEgSW50ZXJuuNDP66Gqoaq90r+qsaa94MrQs6HR0L6/sr/J8cPYw+bJtNau0rsoenop?=
+X-mailer: Foxmail 5.0 beta1 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+                          走进宝洁CMK――我在CMK的实习感想
+                  Hinson Liang            02 Information Management
+    因为一次偶然，我认识了宝洁，并且争取到在宝洁CMK 实习的机会。通过暑期实习生
+计划，我走进了宝洁，体验了CMK的生活。希望通过跟大家分享我在宝洁CMK实习的感受，
+能够让大家更深入了解宝洁，更深入了解CMK。
+初识CMK
+Challenging CMK
+Interesting CMK
+Rewarding CMK
+CMK人
+初识CMK
+    CMK即市场研究部，全称是Consumer &amp; Market Knowledge。CMK通过对消费者、渠道、
+媒体等做大量定性和定量的研究，提出有价值的建议，并最终影响商业决策。在宝洁里面
+，CMK发挥着内部咨询的作用。相对于MKT或者CBD等部门，CMK可能显得有点神秘，这可能
+因为在很多决策时候，CMK都处于一个幕后军师的角色，而不是活跃在大家的眼前。正是因
+为CMK掌握很多先进的研究技术（网上会有很多评论说：中国市场研究行业很大程度上是由
+宝洁带起来，而其中正是CMK发挥着非常重要的作用），和一种神秘的感觉，CMK被称为宝
+洁的秘密武器。
+Challenging CMK
+    宝洁的实习跟其他公司的实习很不一样，宝洁并不会特意设计一个针对实习生的工作
+计划，让实习生练练手脚。宝洁提倡“early responsibility”

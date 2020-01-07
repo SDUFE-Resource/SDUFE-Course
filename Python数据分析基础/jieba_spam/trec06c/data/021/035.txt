@@ -1,0 +1,38 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <he@ccert.edu.cn>; Sun, 21 Aug 2005 09:32:07 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <he@ccert.edu.cn>; Sun, 21 Aug 2005 09:45:09 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 10:08:37 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: gu@126.com
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG0yq7D5sLxt/yhtdau09qhtMbfvaOhtbXEzuTPwC4uLg==?=
+Date: Sun, 21 Aug 2005 09:39:51 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+之乎者也只是文言的标志，对白里面嵌几句很容易，
+可是靠几个标志是营造不出古意来的。
+七剑里我只看到两种人，
+要么装疯卖傻充古人，好像古人就是弱智，
+要么连装都不装，就是穿古装的现代人，
+就算他们满口之乎者也，又哪里有半分古意？
+七剑是个商业片没错，所以也不能奢求太多。
+可是明明粗糙偏偏说成古朴就让我不能忍了...
+我是就事论事，你别见怪。
+     所谓笨拙在于剑术。
+     难道满口的之乎者也就好了？
+     要是真实满口的之乎者也，怕你也听不懂吧

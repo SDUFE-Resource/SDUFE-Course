@@ -1,0 +1,31 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <zhao@ccert.edu.cn>; Wed, 21 Sep 2005 01:57:03 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 18:08:04 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 18:08:04 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <zhao@ccert.edu.cn>; Tue, 20 Sep 2005 11:19:01 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <zhao@ccert.edu.cn>; Tue, 20 Sep 2005 13:16:27 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Wed, 21 Sep 2005 02:07:51 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <luo@motorola.com>
+To: zhao@ccert.edu.cn
+Cc: long@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1NnJy9DE0rKyu9Kqt8XG+tfUvLo=?=
+Date: Wed, 21 Sep 2005 02:07:25 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+同情被坏男人伤心了的女人，觉得她太不爱惜自己了。我想说一个真实的故事：十几年以前，当我还是小学生的时候，我们那边有一个大学毕业的建筑专业的高材生爱上了一个很漂亮的女生，那个女的嫌弃他穷，说不会和他结婚的，提出了分手，那个高材生伤心之余喝敌敌畏自杀了，当时只有23岁。家里人非常伤心，可是那个女的还是照样嫁人找了一个煤矿工人，后来又离婚了。十多年过去了，现在建筑师非常吃香，当初和他一起毕业的人不少人已经是百万富翁了，而他还是静静地躺在那里，每次扫墓经过他那里的时候我们都会为他惋惜，为了一个不值得的人做了一件最蠢的事情，如果当时走出来了，那么现在就算是报复也会是很强有力的报复了，所以，不管是女人还是男人，遇到这种欺骗的事情不要和自己过不去，有一句话叫做“莫斯科不相信眼泪”，无论男人还是女人，被人抛弃以后千万不要自暴自弃，相信老天的安排，坏人一定会有报应，你所做的，只是坚强起来，让自己的过得更好。

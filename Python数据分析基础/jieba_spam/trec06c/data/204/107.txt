@@ -1,0 +1,85 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <xiao@ccert.edu.cn>; Thu, 29 Sep 2005 13:55:56 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 06:07:07 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 14:07:06 CST
+Date: Thu, 29 Sep 2005 14:07:06 +0800 (CST)
+From: liang ming <che@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgsaa94MrQs6HR0L6/sr+wuMD9t9bO9rHIyPy40Mrc0rsoenopICjXqtTYKQ==?=
+To: xiao@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+【 以下文字转载自 Career 讨论区 】
+发信人: tulipblue (no matter), 信区: Career
+标  题: 宝洁市场研究部案例分析比赛感受一(zz)
+                   宝洁市场研究部案例分析比赛感受
+    宝洁是一个国际性的大公司，今天晚上我有幸参加了由宝洁市场研究部（CMK）
+组织的
+商业案例分析比赛。整个比赛是在紧张的心情下进行的。因为每一个环节时间都特
+别紧凑
+，而每一个组都必须在所给的20分钟内交出一个自认为比较满意的答案。整个case
+也是模
+拟宝洁市场研究部遇到的真实案例和工作情况的。整个比赛是由4个section组成的
+，历时
+3个小时（前面有宝洁市场研究部的director A－tul对市场研究部的introduction
+）。对
+你的忍耐力是个考验，不过比赛一开始便感觉时间比较快了，因为毕竟比较interes
+ting，
+而且对你在有限时间内决策也是一种考验。
+    这是一个关于菲律宾laundry detergent市场的分析，由于宝洁的产品Tide在联
+合利华
+的Surf进入菲律宾市场后失去了5%的market share。我们做为CMK的一员，必须找到
+原因，
+并且采取措施把它解决。It is exiting。
+    由于参加者都比较有实力，所以一进入会场就有一种兴奋的感觉，哈哈！在一
+个英国
+的leader讲完游戏规则后，比赛正式开始，首先是给你一点US dollars，然后你可
+以用它
+去选择一些你所需要的市场分析调研（当然都是要钱的）：）。在一翻争论之后，
+我们组
+选了几个items，虽然其中价格调查一项我不赞成选择，但由于时间紧迫，而teamwo
+rk最重
+要的便是包容，所以我跟随了大家的意志，也选了价格调查，并且大家一条心说要
+共患难
+！
+    在turn1的form交上去以后，计算机系统立刻根据我们的选择给了我们几个备选
+的str
+ategies，又是一个20分钟内要做的选择，在这次选择种大家已经觉得价格下降好象
+已经有
+点不妥了，所以选择时把fragrance做为一个新的卖点放入了我们的strategy，在这
+轮我们
+选了两个choices。
+    紧接着的第三轮就是说你对你的决策想达到的目标做一次选择，这次选择的结
+果将会
+有宝洁的feedback告诉你是否met？然后根据你的选择告诉你market share的变化，
+很幸运
+我们组的一个strategy上升为4%，这是一个不错的数字，因为案例中上一年Surf(Un
+lieve
+r)就是抢占了Tide（P&amp;G）5%的market share。看到这个数字后大家极其兴奋。整理
+一下思
+路就进入了final round。在final round中，我们可以选择是重做一次选择还是就
+我们的
+choice开始maximization our plan。由于考虑到重新做会消耗时间，所以我们觉得
+就我们
+的选择进行promote。在几个选择中，我们放弃了媒体而采用卖场大规模摆场促销策
+略，虽
+然大家意见各不同，但还是那句话teamwork需要的是合作，所以大家最后通过了这
+个策略
+。（时候证明这个选择不是很好）
+    整个流程结束之后，便是奖励环节，从3等奖开始念（我们组理解成从一等奖开
+始念）
+。当听到group1的时候我们兴奋欢呼，后来才反应过来我们是第3，但anyway，整个
+过程我
+们enjoy了game并且学到了很多skills，了解到了市场研究部是怎么去根据市场信息
+，根据
+消费者需求去make decision，把市场决策风险降低，最主要是交到了朋友，所以，
+谢谢宝
+洁CMK给我们提供这个机会！

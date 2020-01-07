@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U53DPo005755
+	for <pu@ccert.edu.cn>; Fri, 2 Sep 2005 11:54:34 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM000EEHS793G@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 2 Sep 2005 12:12:30 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 2 Sep 2005 12:12:30 +0800
+Date: Fri, 2 Sep 2005 12:12:30 +0800
+From: shen@cernet.com
+Subject: =?gb2312?B?u9i4tA==?=:Re: =?gb2312?B?zOG42aOs17zI67/Y1sa8vMr1?=
+To: pu@ccert.edu.cn
+Message-id: <b4fd5b8fe1.b8fe1b4fd5@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+本来，说实话，进企业根本就用不着博士
+博士其实是专士，在自己的领域钻得很深
+对于某些研究型尖端技术型的工作需要花时间去钻去读博士
+可是对于企业的运作和管理之类的工作，多花那么多的时间读博简直就是犯罪
+     博士培养的初衷是做研究的，根本不是让你挣高薪的。当然
+     做研究也有高薪不过太少了。对于企业来说，绝大部分要的是
+     务实的，但是绝大多数博士都是为了务虚而培养的，所以

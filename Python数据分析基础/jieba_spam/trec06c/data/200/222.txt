@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFG0025934
+	for <jian@ccert.edu.cn>; Wed, 28 Sep 2005 22:56:14 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Wed, 28 Sep 2005 14:41:48 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "wua" <wua@mail.tsinghua.edu.cn>
+To: jian@ccert.edu.cn
+Cc: "Duan Haixin" <ling@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM312/OjrMTjtb21183L0afBy8O709CwoaO/?=
+Date: Wed, 28 Sep 2005 23:07:05 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+也许抨击他的，都是跟他的导师有深厚感情的，
+不是真对他退学，想出国，而是看他这么说自己的导师，心里不忿吧
+外人是没有这种感觉的，所以无所谓。
+     王垠的师兄弟们的简历
+     作者简介：flyingdream 曾就读于清华大学计算机系设计自动化实验室并获博士学位，现在美某大学继续深造
+     作者简介：waterside, 1997-2000年就读于清华大学计算机系设计自动化教研组，获硕士学位，现在加州某大学攻读同专业博士学位

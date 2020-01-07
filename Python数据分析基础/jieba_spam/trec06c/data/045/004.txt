@@ -1,0 +1,33 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <tao@ccert.edu.cn>; Fri, 26 Aug 2005 17:56:53 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 18:15:13 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 18:15:13 +0800
+Date: Fri, 26 Aug 2005 18:15:13 +0800
+From: hu@cernet.com
+Subject: =?gb2312?B?ofEgztLQo87M1ffT7rXIu/EyMDA1xOq2yLn6vNK93LP2x+DE6g==?=
+To: tao@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+根据8月22日国家自然科学基金委公布的2005年度国家杰出青年科学基金及
+国家杰出青年科学基金（外籍）候选人名单，我校翁征宇教授被选为今年的
+杰出青年基金（外籍）候选人。
+名单
+2005年度国家杰出青年科学基金（外籍）候选人名单
+序号 姓名 性别 学位 专业技术职务 研究领域 单位名称
+1 张卫平     男 博士     教授     量子光学和原子光学；原子分子物理 华东师范大学
+2 岳澄波     男 博士     教授     动力系统、几何与拓扑、Kleinian群、神经科学     
+中国科学院数学与系统科学研究院
+3 卢建新     男 博士     教授     超弦/M-理论及其在粒子物理和宇宙学中应用     
+中国科学技术大学
+4 翁征宇     男 博士     教授     超导电性     清华大学
+。。。。。。

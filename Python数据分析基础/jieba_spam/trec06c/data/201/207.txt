@@ -1,0 +1,35 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <xie@ccert.edu.cn>; Thu, 29 Sep 2005 03:04:02 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 19:15:12 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 03:15:12 CST
+Date: Thu, 29 Sep 2005 03:15:12 +0800 (CST)
+From: liang ming <gong@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMqyw7TKx8WuyMu1xNDSuKOjv8qyw7TT1sTcuPjFrsjLtPjAtNDSuKOjvw==?=
+To: xie@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+A1和A2都很好。当然A2更辛苦一些。但轻松也未必快乐，因为女人喜欢没事找事，所以还是忙点好。
+B6没啥用。换成学识或者气质比较有说服力。B4很正确，但不是可选择的。
+     昨天我们六个高中女同学小聚了一下！我们是93－96年的高中生，目前大家已经都27，8了，当中自然有结婚的，更是有宝宝的。大家外表变化不大，但是生活状态确完全不同。聊了一个晚上，回来我就思考了个问题，
+     A什么是女孩的幸福？
+     1）过衣食无忧的生活，有一个完整的家
+     2）自力更生，同老公一起用青春换金钱，供房子，供孩子
+     B什么又能给女孩带来幸福？
+     1）漂亮的外表
+     2）良好的家教
+     3）善解人意，内钢外柔的性格
+     4）有钱的父母
+     5）聪明
+     6) 学历
+     如果是单选，都首选什么？
+     虽然我本人会选A2，B6,但潜意识还是倾向A1,B4的，
+     欢迎拍砖，但不要排的太狠，多谢

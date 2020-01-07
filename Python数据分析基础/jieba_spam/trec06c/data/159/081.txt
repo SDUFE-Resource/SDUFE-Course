@@ -1,0 +1,37 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <wua@ccert.edu.cn>; Tue, 20 Sep 2005 13:03:51 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 05:14:52 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 05:14:52 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <wua@ccert.edu.cn>; Mon, 19 Sep 2005 22:25:49 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <wua@ccert.edu.cn>; Tue, 20 Sep 2005 00:23:15 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Tue, 20 Sep 2005 13:14:39 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <yun@motorola.com>
+To: wua@ccert.edu.cn
+Cc: bai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IG1twM/Kx9TazfjJz9XSyMvN5qGjoaOhow==?=
+Date: Tue, 20 Sep 2005 13:14:13 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+作为不是束缚，我要做的是太阳。太阳同样在作为。
+作为就是通过自己的努力使自己成为那个适合自己妹妹的碗，
+而不是理所当然得就认为自己已经是那个碗了，
+你要知道，球是一直在变得。
+     是啊，即使稳态平衡当力或者速度足够大也有被打破的时候，但是这个概率小很多
+     而且，真正适合你的也不止她一个
+     太阳和风的寓言大家都听过，往往越束缚她就是越破坏你们的感情，也就相当于越把她往外

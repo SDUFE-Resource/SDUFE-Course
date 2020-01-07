@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85FFJ7F018850
+	for <cen@ccert.edu.cn>; Thu, 8 Sep 2005 03:20:44 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j85FCtFd055076
+	for <cen@ccert.edu.cn>; Thu, 8 Sep 2005 03:18:56 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j85FCqUH055072
+	for <cen@ccert.edu.cn>; Thu, 8 Sep 2005 03:18:17 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509051512.j85FCqUH055072@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Wed, 7 Sep 2005 19:07:26 -0000
+Date: Thu, 8 Sep 2005 03:28:19 +0800
+From: "kong" <kong@mails.tsinghua.edu.cn>
+To: cen@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j85FCqUH055072
+Subject: =?gb2312?B?ofEgYma1xLHtw8PAtLGxvqnJz9Gnwcs=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+    圆圆考上人大了，今天的火车到北京。猪头这个当哥的是大大兴奋了一把，一个月之前就开始筹划这个筹划那个，颇有大包大揽之势，小到床单被罩，大到学费手机，早早宣称全包，让她什么也不要带人来就行了。我们都是学生，平时花钱也都比较节省的。所以忍不住要感慨一下，我咋没摊上这么个哥呢。啥事都要自己动手，丰衣足食。猪头就会嬉皮笑脸的说：摊上这么个lg就够了嘛。lg？已经变成人家的哥了！
+    昨天猪头又开始叨叨怎么把那么沉的被褥用自行车弄到人大去，抱怨干吗不一使劲考到清华来。我心中酸水大发终于没忍住说：“可别，那我还有没有安生日子过，不得干吗都带着她。”猪头想了想说：“不会，叫人家还不一定来呢。”瞧瞧，可没说不叫啊。就在人大这么老远还说要天天去呢。这还不是亲小姑子呢。我很郁闷。
+    昨晚又是一通的翻箱倒柜，把他自己的蚊帐、垫被、被褥、台灯……捆巴捆巴明天统统扛走。本想抱怨两句，又一转念，干吗那么小心眼，bs一下自己，又不是我的，他愿意把他自己捣腾空了也不管我的事情啊。不过，以后是有的麻烦了。据说他家连找男朋友都一并托付给猪头了，声明了人大的不要，就要清华的了。寒……

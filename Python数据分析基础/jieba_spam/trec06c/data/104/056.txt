@@ -1,0 +1,34 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j874iPdV032722
+	for <ling@ccert.edu.cn>; Thu, 8 Sep 2005 23:38:09 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by smtp119.sohu.com (Postfix) with ESMTP id 84D5F0526C87
+	for <ling@ccert.edu.cn>; Thu, 8 Sep 2005 23:50:11 +0800 (CST)
+Date: Thu, 8 Sep 2005 23:50:20 +0800
+From: "tu" <tu@sohu.com>
+To: ling@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNLN7cnPusMhISEhISEhISEhISEhISEh?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907045627.84D5F0526C87@smtp119.sohu.com>
+
+太阳一出来,我就睡不着了
+     标  题: Re: 大家晚上好!!!!!!!!!!!!!!!!
+     
+     你这么早干吗啊?
+     
+     : 可是我每天早上6点钟就起床
+     
+     
+     --
+     兔子吃饭回来说:11食堂的盘子很新,可以照镜子,真高兴
+     正确mm看了说:照出来一只兔子,分不清楚到底是盘子里的兔子还是吃盘子里的兔子的兔子了
+     兔子:正确mm学问高,你这句话我看了2次还是没看明白
+     jackghost建议我做个qmd,于是有了这个qmd
+     然后microcheng说:你这个qmd可读性不强，建议取消
+     兔子:对于理解力比我还差的人,我不予考虑其建议的
+     
+     

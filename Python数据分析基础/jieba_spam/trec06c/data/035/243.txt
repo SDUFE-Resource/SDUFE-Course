@@ -1,0 +1,20 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <lu@ccert.edu.cn>; Thu, 25 Aug 2005 00:20:54 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 00:34:01 +0800 (CST)
+Date: Thu, 25 Aug 2005 00:27:47 +0800
+From: "zhuang" <zhuang@sohu.com>
+To: lu@ccert.edu.cn
+Cc: "yxl" <qian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW7rPvK9dIFpawu3Uxrj40cW7otSxuaTR3b2yo7qwrrXPyfrG28atwcvKwL3no6E=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+☆─────────────────────────────────────☆
+   elescorpion (晨风的翅膀) (Thu Aug 25 12:11:08 2005):

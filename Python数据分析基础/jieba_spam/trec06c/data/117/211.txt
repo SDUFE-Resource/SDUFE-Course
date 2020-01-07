@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AF39fI030243
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 22:17:20 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AF0L4C093997
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 22:14:50 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8AF0IZY093993
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 22:14:28 +0800 (CST)
+	(envelope-from mayuanchen@tsinghua.org.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 22:33:53 +0800
+Message-ID: <326365583.28602@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: mayuanchen@tsinghua.org.cn
+Received: from unknown (HELO mayc-d400) (220.207.80.1)
+	by 210.77.143.232 with SMTP; Sun, 11 Sep 2005 22:33:53 +0800
+From: "shi" <shi@tsinghua.org.cn>
+To: long@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [TOEFL] =BD=CC=CA=A6=BD=DA=BF=EC=C0=D6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Date: Sun, 11 Sep 2005 22:26:42 +0800
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0061451654=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+今天是男朋友的好朋友生日，先去唱歌，后去吃饭。我觉得生日嘛，我不好意思空手去，就买了礼物。但是我男朋友就不高兴了，怪我买了礼物，因为同去的人好像都没有买礼物的，但是我想的是，寿星是我男朋友的好朋友，我觉得我这么做是为了给男朋友面子，因为我觉得，爱一个人，就应该连他的朋友和家人一起爱，爱他，就要接受他的一切。可是男朋友却觉得我不合群，说什么别人都没有买，我买什么，搞特殊哦，之类的话，让我很难受。而且，今天我本来就和男朋友吵架了，我都还能去参加他朋友的聚餐，我可以放下我们吵架的事，还能去参加，我觉得我已经做的很好了，可是他却说，你来了还不如不来。。。写到这里，我真的无语了，我做的这些，为了什么，还不是为了他吗，现在变成我好心遭恶报，热脸贴冷屁股了，我真的是。。。
+我真的想问下大家，我错了吗？？我这样做难道错了？？？
+对于他，我很失望。。。。

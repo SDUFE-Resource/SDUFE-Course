@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4thuT027743
+	for <liao@ccert.edu.cn>; Sun, 11 Sep 2005 15:42:45 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4r30e090926
+	for <liao@ccert.edu.cn>; Sun, 11 Sep 2005 15:40:19 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A4qgGS090788
+	for <liao@ccert.edu.cn>; Sun, 11 Sep 2005 15:39:44 +0800 (CST)
+	(envelope-from tianying00@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 15:28:53 +0800
+Message-ID: <326327311.25345@mails.tsinghua.edu.cn>
+Received: from 166.111.66.12 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 11 Sep 2005 15:28:53 +0800
+From: "xing" <xing@mails.tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Date: Sun, 11 Sep 2005 15:28:53 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7Ssq6yrrXEu+nS9rzSzaU=?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: tianying00 <xing@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+    怎么和我一同学的爸爸特别相似呢？当年哈工大毕业，娶了一个初中毕业的老婆，没有任何共同语言，可能当年就看上她漂亮了，没人品没见识，弄到他爸什么好工作都没有，在一个破厂干了一生，一个月就800。到现在退休了60多了还要为她老伴教育出来的两个不肖子女在外打工，累得够呛。女儿学习非常差，简直一个吃喝玩乐的大傻瓜，嫁了个老公对她不好（认识了3个月就结婚了），现在整天想着离婚绑大款，都34了啊，儿子是个吃喝嫖赌的花花公子，28了还伸手朝爸妈要钱。还招惹了一个厉害的女的，现在欠下人家十万的帐，家里还不知道，估计是要把老爹老妈的房子卖了还帐了。
+     这种思想也是对的，只不过这位学长有点太极端了。。
+     你买不起笔记本可以买个台式机吗。。
+     买不起台式机可以买个PDA啊。。

@@ -1,0 +1,20 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <fu@ccert.edu.cn>; Sun, 28 Aug 2005 13:11:40 +0800 (CST)
+Received: (eyou send program); Sun, 28 Aug 2005 13:22:13 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Sun, 28 Aug 2005 13:22:13 +0800
+From: "tu" <tu@ctbu.edu.cn>
+To: fu@ccert.edu.cn
+Date: Sun, 28 Aug 2005 13:22:13 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "tu" <tu@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7Sufq957aouN/K1cjr1rDStSC9qNb+uaTNt6GiuN/Qo73Myqa1yMnPsPGjqHp6o6k=?=
+Content-Type: text/plain
+
+传说中收入很高的电力行业没有在内。
+     　　中新网8月29日电 据中国官方报章报道，为加强对高收入者的纳税监管，中国税务系统正在建立个人所得税信息化管理系统，并对作为重点纳税人的高收入行业和高收入个人作了界定。
+     　　高收入行业包括：电信、银行、保险、证券、石油、石化、烟草、航空、铁路、房地产、足球俱乐部、外企、高新技术产业等；高收入个人包括私营企业主、个人独资企业和合伙企业投资者、建筑工程承包人、演艺界人士、律师、会计师、审计师、税务师、评估师、高校教师等。
+     　　国家税务总局有关人士表示，重点纳税人档案将根据实际情况进行调整和补充，对新出现的高收入行业和高收入个人，将及时纳入重点征管对象。

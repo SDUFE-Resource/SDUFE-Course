@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82NbfwP002626
+	for <weng@ccert.edu.cn>; Mon, 5 Sep 2005 06:46:40 +0800 (CST)
+Received: (eyou send program); Mon, 5 Sep 2005 06:47:00 +0800
+Message-ID: <325704282.09716@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 5 Sep 2005 06:47:00 +0800
+Message-ID: <325704282.09698@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Mon, 5 Sep 2005 06:47:00 +0800
+From: shi@mail.tsinghua.edu.cn
+To: weng@ccert.edu.cn
+Cc: ding@ccert.edu.cn
+Date: Mon, 5 Sep 2005 06:47:00 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjPI1bmk1/e8x8K8?=
+Content-Type: text/plain
+
+报失：
+朱仁骏  13581798038   钱包：蓝色，内有学生证、饭卡、银行卡身份证等；
+        51534603      丢失时间：9-2下午5点~6点；丢失地点：桃李园与紫荆1#楼之间
+张帆    51532356      眼镜：无边，白色镜框;
+                      丢失时间：9-2；丢失地点：万人
+曾加    62778860      钥匙：一串4把，中间穿有一枚铜钱，一把钥匙是原子锁钥匙；
+                      丢失时间：6-20日下午；丢失地点：14#楼到小树林
+送交：
+0
+领取：
+0    

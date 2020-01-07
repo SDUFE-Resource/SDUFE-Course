@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FBhgV9003152
+	for <feng@ccert.edu.cn>; Thu, 15 Sep 2005 20:41:15 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FBtVIH029758
+	for <feng@ccert.edu.cn>; Thu, 15 Sep 2005 20:53:04 +0800 (CST)
+Message-Id: <200509151155.j8FBtVIH029758@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 12:34:17 -0000
+From: "ling" <ling@mail.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Cc: <hu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs6zUvVBLVci6o6y7ttOttPO80rzTyOujrNC70LujoQ==?=
+Date: Thu, 15 Sep 2005 20:52:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BA2F.69B84380"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW57Ftgyg2sMjsQQOq8TagbU/Od5Q==
+
+先声明是因为水木的人气旺，才来这里发的，请THU的XDJMS海涵啊，也欢迎大家加入，谢谢，没有其他恶意，谢谢：）
+当你成为PKU一分子时候，你是否感到头上的光环太过耀眼，别人用奇异的眼光来看你，
+你应该站出来现身说法，让大家不要过于夸耀你，而是做回普通人，如果你有什么想说的
+，欢迎来到PKU的“实话实说”论坛，谢谢：）！
+冰水为之，而寒于水；青出于蓝，而胜于蓝；吾等出于北大而更要优于北大，百年大计，
+教育为本，教育为先！
+让优秀的你和优秀的我真心面对，让生命回味这一刻，让岁月铭记这一回！
+群号：7566934，加入时请注明来自学校院系，也同样欢迎非北大的朋友参加，谢谢

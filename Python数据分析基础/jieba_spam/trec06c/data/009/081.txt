@@ -1,0 +1,32 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <tao@ccert.edu.cn>; Thu, 18 Aug 2005 22:44:48 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <tao@ccert.edu.cn>; Thu, 18 Aug 2005 22:57:52 +0800 (CST)
+Date: Thu, 18 Aug 2005 22:52:09 +0800
+From: "cai" <cai@sohu.com>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8/GuLv60LW6zbXn19PXqNK1yeixuM6su6S5pLPMyqY=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+MAINTENANCE TECHNICIAN
+JOB DESCRIPTION
+         The maintenance technician will take care of the maintenance of all equipments within the production plant. He will have to follow the working plan established by the maintenance responsible and attend the corrective maintenance required in each moment. The maintenance technician will report to the maintenance responsible.
+         
+BACKGROUND REQUIRED
+&amp;#8226;    Native Chinese with a very strong technical background in electrical &amp; mechanical fields. 
+&amp;#8226;    Basic spoken English will be a plus.
+&amp;#8226;    Familiar with computer environment and PLC systems.
+&amp;#8226;    Minimum experience of 5 years as maintenance technician of a production plant.
+&amp;#8226;    Good communication skills and capable to work in a multicultural / multinational environment.
+&amp;#8226;    It is a must to be a motivated, active person and be able to provide intelligent and rational solutions to many different problems.
+SALARY CONDITIONS
+       It will be negotiated with each candidate according to his background and skills.
+DATE NEEDED: ASAP
+Website: www.maxit.cn
+Email: hr@maxit.cn

@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <hu@ccert.edu.cn>; Sun, 18 Sep 2005 14:19:47 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <hu@ccert.edu.cn>; Sun, 18 Sep 2005 14:36:22 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <hu@ccert.edu.cn>
+	; Sun, 18 Sep 2005 14:36:22 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <hu@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 14:01:23 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "hu" <hu@njnu.edu.cn>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IGdnLMTjtb2118rH1PXDtM/rtcSwoT8=?=
+Date: Sun, 18 Sep 2005 14:31:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+跟gg的性格有关系吧，也许他就是那种觉得散步聊天就是最浪漫的事那种人啊：）
+不过mm的要求其实一点也不过分。你可以给他一些暗示，或者自己主动提出想干什么。比如散步时路过卖花的地方就表现出好喜欢的样子，吃饭时告诉他最近出了一部新片，你很想看什么的。gg会明白的啦
+     从来不给我买礼物,不和我去电影院,不带我去公园
+     在一起就是散步 聊天 吃饭
+     虽然内心并不认为这样就是不爱我,

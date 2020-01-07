@@ -1,0 +1,26 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <ling@ccert.edu.cn>; Thu, 29 Sep 2005 13:51:11 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 06:02:22 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 14:02:21 CST
+Date: Thu, 29 Sep 2005 14:02:21 +0800 (CST)
+From: liang ming <ren@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILn6x+y72Milv7TFrsXz09GjrL/Jy/3Su7/avty++MHLo6zO0ru50qq72MilwvCjv6O/?=
+To: ling@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+有过这样的经历,就要判断一下她是不是因为最近的吵架在故意气你了.
+你们的吵架内容是什么?如果是些细碎小事的话可以稍后再说,如果她开始抱怨你不在乎她或者少联系她你可要注意了。
+如果条件允许的话,建议你先斩后奏.到了那里,如果她还爱你,会给她个惊喜,哪怕表面不乐意,哄哄就好.
+如果被你看见另一个男生,你也知道该怎么办了吧
+     这样吗？？
+     我记得去年这个时候她也这样的告诉我说有男生追她，我国庆过去后结果两人就分了，寒假后又在一起了。
+     可是这次又是这样吗？？

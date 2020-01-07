@@ -1,0 +1,30 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <kong@ccert.edu.cn>; Fri, 26 Aug 2005 08:05:56 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 08:24:19 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 08:24:19 +0800
+Date: Fri, 26 Aug 2005 08:24:19 +0800
+From: ke@cernet.com
+Subject: =?gb2312?B?ofEgudjT2reisryhtsflu6q089Gn0afJ+s6lvM20prfWudzA7bnmtqiht7XEzajWqiAo16rU2Ck=?=
+To: kong@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+【 以下文字转载自 CampusInfo 讨论区 】
+发信人: lotusson (玄|努力吧), 信区: CampusInfo
+标  题: 关于发布《清华大学学生违纪处分管理规定》的通知
+标题: 关于发布《清华大学学生违纪处分管理规定》的通知 
+作者:党办校办
+发布日期：（2005.8.26）
+ 
+--------------------------------------------------------------------------------

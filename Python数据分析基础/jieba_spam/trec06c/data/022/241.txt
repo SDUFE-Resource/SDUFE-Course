@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <xie@ccert.edu.cn>; Sun, 21 Aug 2005 18:11:05 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <xie@ccert.edu.cn>; Sun, 21 Aug 2005 18:24:23 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 10:19:00 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "he" <he@mail.tsinghua.edu.cn>
+To: xie@ccert.edu.cn
+Cc: "tunet" <lei@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvejIy8b4x/PW+qO6uMPRodXbxMTM9cK3o6zQu9C7?=
+Date: Sun, 21 Aug 2005 18:20:46 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+男生，，今年高考一塌糊涂，
+来至农村不读书也没别的路了，做姐姐的希望弟弟继续受教育
+现在有三条路，不知如何是好，希望各位热心指点，谢谢...
+1.复读，但没信心明年能考上，风险较大，可能明年还要遇到同样问题，家里也不支持
+   但其姐可以提供费用，对弟弟因今年没的差有些自暴自弃，无所谓的态度很担心
+2.读个大专，两三年再专升本，获得正规本科毕业。但专升本又是一笔费用不说，也有相当风险
+3.参加十月份的成人高考（高升本），较容易，但怕社会不承认这种学历，对以后不利
+马上就要九月份了，这段时间已经是急死了，
+父母不但提供不了资金更不懂该怎么办，感觉重担压身
+真心求助，希望指点迷津。就希望弟弟毕业后能有工作，关键要有上升的空间
+再次感谢

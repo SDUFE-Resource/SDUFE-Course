@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <tang@ccert.edu.cn>; Sun, 25 Sep 2005 04:30:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <tang@ccert.edu.cn>; Sun, 25 Sep 2005 04:41:28 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 20:18:28 -0000
+From: "qian" <qian@mail.tsinghua.edu.cn>
+To: tang@ccert.edu.cn
+Cc: <zhong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sun, 25 Sep 2005 04:41:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+是人都想做自己喜欢做的事情，程度有所不同，所以有些人妥协有些人坚持。王同学的问题是妥协了四年忽然觉得亏了。亏了你就别干走就是了，他还要哭诉怪老师怪学校怪吃人的制度，摆出一副loser样子博同情。
+我觉得很多时候学生们都习惯了把自己当作弱势力，觉得天生就该听老师的，然后老师也该对你的一切负责。其实教授们的责任就是把把方向，弄钱来维持科研。他们也不是万能的什么都知道，要不然还要“科研”做什么？厚
+从研究生开始，老师从一贯的全能的无所不知的角色变成了一起在未知世界里探索的同路人，小同学们要学会适应才是。
+     他的理想是想做自己喜欢做的事情

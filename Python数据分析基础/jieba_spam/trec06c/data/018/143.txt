@@ -1,0 +1,30 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <huang@ccert.edu.cn>; Sat, 20 Aug 2005 19:47:19 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <huang@ccert.edu.cn>; Sat, 20 Aug 2005 20:00:21 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 20:23:49 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: zheng@126.com
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INeqzPmjure/19PT673hu+mjraOtxNDIy8WuyMu1sdfUx78=?=
+Date: Sat, 20 Aug 2005 19:55:03 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+     房子与结婚－－男人女人当自强
+     我也是农村出来的，毕业的时候，我身上就170元，也没有伸手向父母要毕业置装费。辛苦一毕业就找到了工作，公司还提供午餐，除了上下班的车费，我一天，用的钱不到2元，早餐吃5毛钱，2个馒头，晚上自己用酒精锅下面条（呵呵，一斤面条可以吃10来顿啊）。
+     房租是90元，一个刚放下一个床的小单间。我就这么开始了独立的谋生之路。读书的时候，家里一家举债很多了，我也找家里要不出钱了，这个我明白的很。一个农村的女生，家里送出来读书，说实话，父母已经够大方，家人够大度了。
+.....

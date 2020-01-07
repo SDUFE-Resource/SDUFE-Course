@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <cao@ccert.edu.cn>; Sat, 27 Aug 2005 12:07:30 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 12:25:50 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 12:25:50 +0800
+Date: Sat, 27 Aug 2005 12:25:50 +0800
+From: gao@cernet.com
+Subject: =?gb2312?B?UmU6IM6qyrLDtLvh09C63LbgyMu7s7LFsrvT9sTYo78=?=
+To: cao@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+认为自己怀才不遇的，基本上分两种
+第一种，眼高手低型，这种占多数，多发生于学生中间
+第二种，真的有才，或者是机会没到，或者是有其他方面缺陷，能力不能完全释放
+对于第一种，社会会教育他的
+对于第二种，不能不说是中国的一个悲哀。中国人太多，人力资源丰富是我们一大优势，但是如果没有一个成熟合理的消化人才的环境，浪费也是很可惜的
+     付出和收获不一定成正比例，
+     最勤快的也许是最贫困的。
+     您怎么看呢？

@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <xin@ccert.edu.cn>; Sat, 17 Sep 2005 20:14:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <xin@ccert.edu.cn>; Sat, 17 Sep 2005 20:25:59 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 12:06:41 -0000
+From: "luo" <luo@mail.tsinghua.edu.cn>
+To: xin@ccert.edu.cn
+Cc: <hua@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgs8/GuMir1rC78rzm1rA=?=
+Date: Sat, 17 Sep 2005 20:25:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+某出版社工作室现诚聘以下全职或兼职人员：
+一、编辑人员：
+1.教育、心理类              2.经管类
+3.计算机类                  4.英语类
+5.工程管理类：工程管理、工业工程、项目管理
+6.工程经济类：投资经济、技术经济
+7.工程技术类：土木工程、建筑学
+8.房地产类；房地产经营、房地产管理、房地产经济、土地管理、城市规划
+基本要求：1.学习成绩较好！！！
+2.编辑人员为大三以上学生！！！
+二、网站建设与维护人员
+1.网站建设人员          2.网站维护人员
+基本要求：1.熟悉ASP语言,能独立进行网站建设和维护
+2.对图书网和资料下载类网站非常熟悉
+3.熟悉网络推广
+4.有一定的美工水平
+注：全职或兼职人员可免费提供住宿，工资面议！！！
+有意者请发简历至E-mail：
+168exam@163.com

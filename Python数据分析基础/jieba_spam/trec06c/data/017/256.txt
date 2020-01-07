@@ -1,0 +1,27 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <lin@ccert.edu.cn>; Sat, 20 Aug 2005 16:55:36 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 09:05:50 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 09:05:50 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "ren" <ren@jdl.ac.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK7uPbQobmry761xGN0b7rNvt7Qzbmry761xLmks8zKpg==?=
+Date: Sat, 20 Aug 2005 17:09:58 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+faint，第一句话说的太到位了
+我前两天还对要干的活有点幻想呢，以为是个比较复杂的case
+然后发现其实就几句代码就完了，别的基础工作都给你作好了，你自己稍微加点东西就OK了
+不过小公司也faint，我在以前公司当pm那会儿自己也什么都不懂，闭着眼睛胡来
+     在那种所谓的名企里面，整天就是来一个feature，然后coding，然后测试 ―― 一个真正的工人，做的事情都是具体的不能再具体了
+     想进入一个稍微不太具体的工作，都好难
+     去这种小公司的犹豫是：

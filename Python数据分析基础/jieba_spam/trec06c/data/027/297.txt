@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <chi@ccert.edu.cn>; Tue, 23 Aug 2005 00:03:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <chi@ccert.edu.cn>; Tue, 23 Aug 2005 00:17:16 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 16:11:53 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "chen" <chen@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: "tunet" <lv@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg09DQqdP0w8awoQ==?=
+Date: Tue, 23 Aug 2005 00:13:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+mm是北方的一个大城市的女孩，我是一个普通的农家子弟。一般的农民家庭大家都可想而知，父母供自己上大学已经是差不多倾尽所有了。我和mm感情很好。今天mm和我说她家里希望她能回去工作，可以凭借关系找到一个不错的工作，而她想留在北京，虽然家里不会强迫她回家工作。她父母希望她能找一个条件好点的男朋友，她觉得家里可能会不赞成我们的交往。这年头，想在北京买房确实很困难，尤其对象我这样的。mm也不想父母太过担心，所以也一直没有和家里说明过我和她的关系。mm希望我们能都留在这里，然后和家里那边耗着，等自己年龄大了，家里也着急了的时候就把我亮出来。总觉得mm有心事，其实父母的心情我都能理解，谁不想自己的孩子能嫁的好，少吃点苦。唉，郁闷哪

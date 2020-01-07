@@ -1,0 +1,23 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <liao@ccert.edu.cn>; Thu, 18 Aug 2005 22:10:21 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <liao@ccert.edu.cn>; Thu, 18 Aug 2005 22:43:41 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Thu, 18 Aug 2005 22:24:40 +0800
+From: "xiao" <xiao@mail.nisac.gov.cn>
+Reply-To: xiao@mail.nisac.gov.cn
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMDuzPrR482s0aeyocfp0tS8sMS8vui30dPDx+m/9rvjsag=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+有点想哭泣，暑假回家的时候还说要等她出来请她到我家和黄山去玩，还说要她做我四姐，一直以姐姐称呼她，暑假的时候她说她情况不好，只能喝粥，一直鼓励她说情况会好起来，在去桂林的路上她发来短信说情况很不好，天天高烧40多度，于是不停的鼓励她，她说她心情不好，又虚弱不能回我短信。她说最喜欢的桂花糕的味道，却没有见过桂花，于是在桂林见到了干桂花立刻买了一些，每天最希望的就是她的烧能退了，能早日心情好起来，早日恢复，她说出来后要让我带她全国到处玩，虽然还没见过她，心里已经把她当我四姐了，一直以为她会好起来的，现在突然心里混乱起来，不知道如何是好，不知道该怎样去安慰她了。
+     发信人: pengling (Paediatrician), 信区: SS_SAST
+     标  题: 李铁雁同学病情以及募捐费用情况汇报

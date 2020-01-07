@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <hua@ccert.edu.cn>; Thu, 29 Sep 2005 05:35:02 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 21:46:09 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 05:46:09 CST
+Date: Thu, 29 Sep 2005 05:46:09 +0800 (CST)
+From: liang ming <li@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IKG2zt68q6G3xMO1vbnZt73NqNaqIL2rtPqx7dbQufq9x9bwsMLLub+o?=
+To: hua@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+讲的啥？
+是武打片吗？
+     本报讯(记者刘玮 杨林) 《无极》终于“申奥”成功了！陈凯歌的最新作品《无极》昨天已经正式拿到了参赛奥斯卡的“许可证”，将代表中国角逐明年的奥斯卡最佳外语片大奖。
+     　　《无极》拿到官方通知
+     　　据《无极》的宣传总监黄斌向记者介绍，他们是昨天刚刚拿到电影局的正式通知的，目前《无极》剧组都在为即将在全国开始的点映工作做准备，“因为根据奥斯卡的参赛规则，我们必须先要在国内有一周的点映，现在大家都在准备这个事，之后在12月19日《无极》会在全美同步

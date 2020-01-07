@@ -1,0 +1,33 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <chi@ccert.edu.cn>; Sat, 20 Aug 2005 06:31:28 +0800 (CST)
+Received: (qmail 23946 invoked from network); Fri, 19 Aug 2005 22:41:42 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 19 Aug 2005 22:41:42 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "xiao" <xiao@jdl.ac.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgs8/V98+yusPN+NKz1sbX97XEo6zT0NK7tqjDwLmku/m0obXExfPT0Q==?=
+Date: Sat, 20 Aug 2005 06:45:50 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+本人申请了一个300M的ASP空间。68互联的。本人略通一些ASP。因此计划以
+ASP为基础编一个网站，说是个人网站，其实是想通过这个网站来达到可以
+将自己喜欢的一些东西和网络上的朋友共享的目的，同时希望可以通过网站
+的一些小功能能够给网络人提供一些方便。目前申请到了一个一级域名
+www.goldwallet.net以及一个二级域名xiaoyao.68l.com.二者共用一个空间。
+后者主要是一个论坛，现成的ASP论坛，前者，我目前放了我编写的一些
+小的功能性的东西以及我以前搜集的一些制作网页的材料（比如网页特效等）
+本人想把此网站给完善发展起来，奈何本人美工水平有限，所以虽然有一些功能
+连接，但是美工可以说几乎没有。所以想诚征一个也喜欢网页设计的，有一定
+美工基础的人与我一起搭建这个网站：）可以在此网站中放进自己喜欢和网友
+交流的各种东西：）我可以负责编程：）当然本人水平有限，可能不会功能非常
+强大或复杂。希望由你来主攻美工。
+恩，希望有意合作的朋友发信到我本站信箱吧：）

@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <zhuang@ccert.edu.cn>; Sun, 25 Sep 2005 09:45:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <zhuang@ccert.edu.cn>; Sun, 25 Sep 2005 09:57:00 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 01:34:00 -0000
+From: "lin" <lin@mail.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Cc: <zhong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+u9zHhkam1z0ru49s7KzOKjoaOho6E=?=
+Date: Sun, 25 Sep 2005 09:56:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+如果两个人不在一起，那么两个人是不是应该随时保持联系啊，至少每天几条短信和一个电话啊？
+苦恼中！
+平时工作联系少也罢了，但到了周末不但电话没有，连个短信也没有，我下午打电话去看看他是不是在睡觉，听到的是清醒的声音，我没说话就把电话挂了，他就发个短信问我找他有什么事。我没理他。后来晚上说起这事，他说，没话说，打什么电话，事情很多，本来就没想给我打电话。（而他的事情是：打游戏，睡觉，本来要给家里上网查点事情，后来也没查）
+我有点不明白，是我太苛求了，还是他太不在乎了，我觉得两个人不在一起，本来沟通就少，当然应该经常打电话啊，我们原来也不过是一天一个电话而已，这就嫌多，那至少你得来个短信问候一下吧。哎，有点绝望……
+很委屈！

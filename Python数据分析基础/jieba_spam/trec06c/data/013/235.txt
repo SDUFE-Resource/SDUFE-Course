@@ -1,0 +1,26 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <cheng@ccert.edu.cn>; Fri, 19 Aug 2005 21:27:39 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <cheng@ccert.edu.cn>; Fri, 19 Aug 2005 22:00:59 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 21:41:58 +0800
+From: "zhuang" <zhuang@mail.nisac.gov.cn>
+Reply-To: zhuang@mail.nisac.gov.cn
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3x1OfIpdeisuE=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+清华有最好的学生，但是没有最好的老师，这是事实
+就像以前贺美英书记曾说过的：
+“我们把最好的学生招到清华来，却不能给他们最好的教育...”
+     本来心情不错的去了。同时，替同学问问：现在有事，很久不能回来，该怎么办？
+     给我注册的小jj还不错。问这件事时，小jj不知道，让俺去问最前面的管事的老师。
+     去问时，那老师用我看来势利的眼光看了我一眼，回答的时候，压根就不愿理我的样子，又好像很烦，不愿回答 的样子，总之，我感到心里很堵。最后我说了声：谢谢。那老师连一点点反应都没有。心里更堵了。

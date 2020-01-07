@@ -1,0 +1,24 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <tu@ccert.edu.cn>; Wed, 14 Sep 2005 22:09:27 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <tu@ccert.edu.cn>; Wed, 14 Sep 2005 22:40:35 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Wed, 14 Sep 2005 22:20:42 +0800
+From: "zhan" <zhan@mail.nisac.gov.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO80tK7tqjAtLDvsO/DpqOsv7TO0tXi1tbH6b/21PXDtLDso78=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+    我本科是在外地学校读的，然后拿着学校的保研名额来北京上研，但是我们学校保研有一个条件，就是要以学校委陪的形式，也就是说我已经和学校签了委陪合同，户口和档案都在原学校。
+    现在我研三要毕业了，并不想回原学校工作了，想在北京找工作，想找到肯接收我的单位就回原学校毁约。但我知道我的户口、档案的问题挺麻烦的，可能会对我找工作有一定影响，毕业也没有三方协议。
+    象我这种情况找正规的外企等单位的话，他们是不是不大愿意接收？即使接收落户的问题也比较难办？应该怎么办？
+    还有就是假如我想报考公务员是不是都不可以，因为我看见公务员招考文件上写着委陪定向都不可以报？
+    我这种情况的人该怎么办？是不是没什么办法了？！！：（
+    求了解情况的人指教！！！

@@ -1,0 +1,48 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <yang@ccert.edu.cn>; Mon, 19 Sep 2005 01:31:13 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Sun, 18 Sep 2005 17:42:14 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Sun, 18 Sep 2005 17:42:14 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <yang@ccert.edu.cn>; Sun, 18 Sep 2005 10:53:11 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <yang@ccert.edu.cn>; Sun, 18 Sep 2005 12:50:37 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 01:42:01 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <cheng@motorola.com>
+To: yang@ccert.edu.cn
+Cc: su@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILGouOa2+dHQy/nC8rjGvMc=?=
+Date: Mon, 19 Sep 2005 01:41:35 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+0-1岁婴儿身高体重对照表　　
+年龄 　　男孩　　　　　 女孩 
+月 身高/CM 体重/Kg 身高/CM 体重/Kg 
+0 　50.50 　3.30　 　49.90　 3.20 
+1 　54.60 　4.30　　 53.50　 4.00 
+2 　58.10 　5.20　　 56.80　 4.70 
+3 　61.10 　6.00 　　59.50　 5.40 
+4　 63.70　 6.70 　　62.00　 6.00 
+5 　65.90　 7.30　　 64.10　 6.70 
+6 　67.80 　7.80　　 65.90　 7.20 
+7 　69.50 　8.30　　 67.60　 7.70 
+8 　71.00 　8.80　　 69.10　 8.20 
+9 　72.30 　9.20 　　70.40　 8.60 
+10　 73.60 　9.50 　　71.80 　8.90 
+11　 74.90　 9.90 　　73.10　 9.20 
+12　 76.10 　10.20　 74.30　 9.50 
+     o....拿出小本本认真的记下...
+     瑶瑶4个月时正是冬天，没太阳晒...

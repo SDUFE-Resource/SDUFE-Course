@@ -1,0 +1,30 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <peng@ccert.edu.cn>; Fri, 16 Sep 2005 04:48:07 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <peng@ccert.edu.cn>; Fri, 16 Sep 2005 05:19:15 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 04:59:22 +0800
+From: "he" <he@mail.nisac.gov.cn>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjE1yNW5pNf3vMfCvA==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+报失
+黄屿    62776512     京卡，
+                     丢失时间：9月7日，           丢失地点：十食堂取款机
+林卉    13811575867  雪亮牌眼镜，深蓝色全框；
+                     丢失时间：9月11日，          丢失地点：不详
+                     钥匙：心形金属挂饰，小梳子挂饰，三把钥匙；
+                     丢失时间：9月11日，          丢失地点：桃李
+李柱    51531433     钱包，桔红色，内有各种卡；
+        13811564369  丢失时间：9月15日7:30，  丢失地点：桃李一层
+景繁凡  13466547058  钱包，枣红色，内有银行卡，IC卡，餐卡，电话卡等
+        51531724     丢失时间：9月14日晚          丢失地点：文北楼
+洪

@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <mo@ccert.edu.cn>; Sat, 24 Sep 2005 17:44:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <mo@ccert.edu.cn>; Sat, 24 Sep 2005 17:55:39 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 09:32:36 -0000
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Cc: <yi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILCmo6zX1Ly6xavQ1NbY0rK+zbDVwcs=?=
+Date: Sat, 24 Sep 2005 17:55:25 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+都人生攻击到这地方了,即使他有些话说得有些重
+     标  题: Re: 唉，自己奴性重也就罢了
+     
+     观点不同不用骂人罢
+     我的理解，责怪他的人主要还是因为他关于实验室和导师的一些言论对别人不公平，如此而已
+     
+     : 碰到敢喊一嗓子的人，却不能接受了，反而要责怪他不似自己一样温顺
+     
+     
+     --
+     童话的春天，秋千随落花悠悠荡荡
+     童话的夏天，知了把日子叫得好长
+     童话的秋天，归雁拉动相思的弦章
+     童话的冬天，鸟儿穿上了花布衣裳
+     
+     

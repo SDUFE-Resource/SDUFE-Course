@@ -1,0 +1,22 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <guan@ccert.edu.cn>; Tue, 27 Sep 2005 11:37:25 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <guan@ccert.edu.cn>; Tue, 27 Sep 2005 10:57:44 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "guan" <guan@cert.org.cn>
+To: guan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOyyxb72tqi1xNKqv7zR0A==?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Tue, 27 Sep 2005 11:43:23 +0800
+
+我听自动化的师兄是这么说的。
+再说了，电路原理本来就  相对  要简单一些嘛。反正我们当时学的时候，课后题和老师推荐的书的习题以及平时上习题课的题目，基本没有不会做的。大一的课，不像信号，还有那么多数学的东西。期末考试一堆人90多分。
+我师兄叫我把那本小本的，比较薄的什么习题精编做两遍，那玩意我大一的时候一个晚上就可以做半本。
+哦，忘了说一句，考电路原理的兄弟们，买一个好的计算器非常重要。我推荐casio fx－570ms。这是电子系和自动化系学这门课的必备。大家千万要舍得花这个钱啊。
+电路原理简单？你自己做做看看

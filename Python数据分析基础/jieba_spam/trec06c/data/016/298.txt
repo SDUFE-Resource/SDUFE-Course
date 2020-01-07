@@ -1,0 +1,25 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <zhou@ccert.edu.cn>; Sat, 20 Aug 2005 12:45:04 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Sat, 20 Aug 2005 13:01:30 +0800 
+Date: Sat, 20 Aug 2005 12:58:06 +0800
+From: "shen" <shen@admin.iscas.ac.cn>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0+o=?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+    一场大雨把京城几天来的热气全都驱散了，连同我心里的烦躁和隐隐不安。
+    站在窗前看着外面来往的行人，觉得时间一下子慢了下来，五颜六色的伞在被雨水冲洗得干净的路面上穿行，让我想到水木十年的一个logo,也是这样，在一个个十字路口，穿行的雨伞，无数的邂逅。
+    在晴天的时候，我们总是血管喷张，急匆匆地从一个路口赶到另一个路口。其实雨天也是，不过雨大路滑，我们不得不放慢脚步，因此有人能因为这意外欣赏起生命慢下来的景致，当然，这还是有些慧根的人。那些在雨天还在不停抱怨的人，是“执迷不悟”的了。想起一个笑话，说一个人在雨天里还不慌不忙，倒笑话别人，“走那么快，前面还不是雨”！的确是个傻子，不管有时候大愚者也大智啊。
+    这场雨也许就把北京的夏天带走了。夏，是一个旺盛，躁动的季节。夏天，总会有许多故事发生，人们喜欢借着旺盛的暑气做点热情的事情，诸如出去远行，或是谈一场轰轰烈烈的恋爱。然后，等到秋天来的时候，盘点自己的心情，一种成熟感油然而生。气候和人的心情绝对有某种隐秘的联系，这点我确信。

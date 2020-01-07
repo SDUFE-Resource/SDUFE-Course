@@ -1,0 +1,39 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <lu@ccert.edu.cn>; Tue, 23 Aug 2005 13:55:08 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <lu@ccert.edu.cn>; Tue, 23 Aug 2005 14:08:19 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "ning" <ning@126.com>
+To: lu@ccert.edu.cn
+Cc: <wei@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvMbKwNfK0bajraOtSVTXydGvuavLvtXQxrihvqG+ob698Mja16jStbKpyr+hok1CQaOho6Gh
+v6G/ob8=?=
+Date: Tue, 23 Aug 2005 14:08:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+关于我们 
+计世资讯（CCW Research），全称为北京时代计世资讯有限公司，是中国IT产业前瞻性预测与用户应用研究的权威市场调研和咨询机构。 
+计世资讯（CCW Research）依托于计算机世界传媒集团，接受国务院信息化工作办公室、信息产业部和国有资产管理委员会的指导，为政府、产业、企业各层面提供专业化、高可信度的研究、分析、咨询与预测，帮助制定准确、完善的战略与战术决策。研究领域覆盖IT产品、IT服务、IT渠道、IT技术趋势及政府、制造、金融、电信等十几个行业，并曾先后承担国家信息化办公室、信息产业部和国有资产管理委员会等相关政府部门委托的重要研究项目。
+现招聘清华MBA、金融学博士，有意请发简历至  ran-arang@163.com  或者致电
+58731440  
+软件与服务研究事业部: 研究的领域包括软件、服务等方向  
+主要成功案例  
+&amp;#8226; 中国应用服务器市场调研  &amp;#8226; 中国行业用户打包软件应用与需求调研  
+&amp;#8226; 中国IT培训市场需求调研  &amp;#8226; 100家特大型行业用户IT解决方案应用与需求调研  
+&amp;#8226; 中国主流IT服务商价格体系调研及评估  &amp;#8226; 中国行业用户IT外包应用与需求调研  
+&amp;#8226; 中国重点本土IT服务商运作体系评估  &amp;#8226; 中国本土主流系统集成商经营现状与发展趋势研究  
+&amp;#8226; 中国SMBIT解决方案应用与需求调研  &amp;#8226; 2003中国软件平台产业发展战略研究   
+&amp;#8226; 2004中国管理软件服务产业发展战略研究 &amp;#8226; 2004中国集团财务管理软件应用研究 
+&amp;#8226; 2004中国商业智能软件市场研究 &amp;#8226; 2004中国国产中间件发展战略研究  
+&amp;#8226; 2004中国CAD产业与技术发展状况研究  &amp;#8226; 2004中国ERP产业与技术发展状况研究 
+&amp;#8226; 2004中国协同软件产业发展战略研究 &amp;#8226; 中国行业用户信息安全认知状况研究 
+&amp;#8226; 中国Linux应用状况研究 &amp;#8226; 某公司软件产品发展规划研究 

@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <weng@ccert.edu.cn>; Fri, 16 Sep 2005 19:59:35 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <weng@ccert.edu.cn>; Fri, 16 Sep 2005 20:11:24 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 11:52:06 -0000
+From: "guan" <guan@mail.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+Cc: <yana@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILn6zeK009CjxNpmdHDPwtTYLLC0wffBv8rVt9Gyuz8=?=
+Date: Fri, 16 Sep 2005 20:11:17 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+呵呵 那按照你说，就算百分之一吧
+一个片子就是1G 算算看
+     标  题: Re: 国外从校内ftp下载,按流量收费不?
+     
+     不是吧...出国流量收费是按流入量收的吧...
+     所以给国外传的话耗不了多少钱的
+     一般ftp的话流入量也就流出量的百分之几...
+     
+     : 校内流出国内不收，到国外就收了 除非弄那个包月账号
+     
+     
+     --
+     无知则无畏，无畏为勇
+     无知则无欲，无欲为智
+     
+     

@@ -1,0 +1,22 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <bai@ccert.edu.cn>; Mon, 26 Sep 2005 18:59:06 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Mon, 26 Sep 2005 11:22:00 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Mon, 26 Sep 2005 11:22:00 -0000
+Date: Mon, 26 Sep 2005 19:16:35 +0800
+From: "hua" <hua@csnet1.cs.tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj4x+W7qtK70KnL+c690afV373Mytq1xL6vyr6joQ==?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+李敖当然有他的缺点，但瑕不掩瑜。这个时候，不去听他真正传达了什么思想，能否为我们国家所用，而去翻老底，找八卦消息，搞人身攻击，极尽侮蔑之能事，到底是什么目的呢？要论高尚和勇气，这几个御用文人恐怕是远远不及李敖的，只能说是文革的遗老遗少罢了。
+     文化之旅，李敖的自毁之旅 
+     --------------------------------------------------------------------------------
+     http://www.sina.com.cn 2005年09月26日02:23 信息时报 

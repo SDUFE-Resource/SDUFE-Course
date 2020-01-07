@@ -1,0 +1,89 @@
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q25iG8003971
+	for <xing@ccert.edu.cn>; Wed, 28 Sep 2005 02:12:37 +0800 (CST)
+Message-ID: <200509261005.j8Q25iG8003971@spam-gw.ccert.edu.cn>
+Received: from LJF (unknown [221.2.147.100])
+	by smtp2 (Coremail) with SMTP id FsDnWBRaN0OCCNUE.1
+	for <xing@ccert.edu.cn>; Wed, 28 Sep 2005 02:23:39 +0800 (CST)
+X-Originating-IP: [221.2.147.100]
+Date: Wed, 28 Sep 2005 02:23:40 +0800
+From: "pu" <pu@163.com>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhdwKXMqbyvs8m158K3KMnPuqMp09DP3rmry74tz9azodOm08O5pLPMyqY=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/related;
+	boundary="=====002_Dragon056103722146_=====";
+	type="multipart/alternative"
+
+“校园招聘大全”(http://www.jobmm.com)独家提供 
+-------------------------------------------------------------------------------- 
+=== 招聘信息 ===
+ 
+ 公司名称:昆泰集成电路(上海)有限公司 
+ 招聘职位:现场应用工程师  
+ 截至日期:2005-11-1  
+ 最低学历:本科  
+ 招聘人数:人 
+ 工作地点: 上海 
+ 简历投递处: http://www.jobmm.com/company_add/Kuntai_job.asp 
+ 
+岗位描述: 
+ 
+1、设计、软件和测试工程部门协作，对现有及新产品进行评估和调整
+2、开发和修改评估软件及硬件，包括设计、布局、PCB合同制造及评估系统的开发
+3、与客户保持协作联系，为其解决产品和系统的所有相关应用问题
+4、在必要时提供上门服务以解决用户遇到的应用和生产问题
+5、与分销商、代理商和合作伙伴的相关工作人员一起解决客户问题，并为机构的FAE
+   提供产品的文件资料和培训
+Job Description
+1.Product Evaluations and Characterization
+Work with design, software and  test engineering dept. to evaluate and debug
+of new and existing products. Develop and modify evaluation software and 
+hardware for product evaluation. This includes design, layout and contract 
+manufacturing of printed circuit boards(PCB), and design of evaluation system.
+2.Customer Technical Support
+Interface with customers to solve all problems related to application
+of our products in customer’s product and system. If necessary, 
+candidate has to travel to customer’s premise and work with their 
+engineers to solve product design, application and production issues.
+3.FAE Training
+Work with Field application engineer (FAE) of our distributors,
+representatives and reference design partners to solve customer’s 
+problems. Provide all product documentation and training to these 
+FAE organizations.
+ 
+ 
+--------------------------------------------------------------------------------
+=== 公司详细资料 ===
+ 
+ 公司名称:昆泰集成电路(上海)有限公司 
+ 企业性质:三资企业  
+ 成立日期:2003-8-22 
+ 注册资金:693万人民币 
+ 公司网站:http://www.chrontel.com 
+ 
+公司简介: 
+ 
+    昆泰集成电路(上海)有限公司是美国Chrontel,Inc.在上海的全资子公司。
+Chrontel成立于1986年，是一家从事混合信号集成电路研发与生产的公司，总
+部位于美国硅谷圣何西，并于世界各地拥有多家子公司和办事机构。我们的产
+品包括电视解码器，视编码器，DVI、LVDS编码器等。我们的产品被DELL，HP，
+SONY，TOSHIBA，FUJITSU等许多著名OEM厂商采用。
+    昆泰集成电路(上海)有限公司成立于2003年，位处浦东张江高科技开发区
+内。我们的业务包括集成电路的研究、开发、设计、测试、生产及相关软件的
+研究、设计、开发、制作；系统集成的设计、调试和维护；提供相关的技术咨
+询及技术维护等。我们拥有一支高素质、高学历的员工队伍，并享有总公司全
+面的技术支持。希望能有更多的有识之士加入到我们中来，共同打造一个成功
+的集成电路企业。 
+ 
+--------------------------------------------------------------------------------
+“校园招聘大全”(http://www.jobmm.com)独家提供 
+我们长期与用人单位及各高校合作，建立企业与人才间的双向服务
+是对学生完全“免费”，且“简单”“实用”的非营利站点
+应聘者由 http://www.jobmm.com 浏览每日提供之数百条企业招聘信息
+注册登录 http://www.jobmm.com/addnew.asp 投递简历，
+还可以下载中英文简历模版，中英文求职信模版
+以及应用简历制作导航自动生成word,txt,及电子版简历
+九月第四周最新招聘会信息整理：http://www.jobmm.com/jobmeeting.asp
+--------------------------------------------------------------------------------

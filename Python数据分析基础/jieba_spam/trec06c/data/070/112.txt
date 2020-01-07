@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <yan@ccert.edu.cn>; Fri, 2 Sep 2005 08:00:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <yan@ccert.edu.cn>; Fri, 2 Sep 2005 08:12:40 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 00:01:15 -0000
+From: "yan" <yan@mail.tsinghua.edu.cn>
+To: yan@ccert.edu.cn
+Cc: <li@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INq6sbHKpk1N?=
+Date: Fri, 2 Sep 2005 08:12:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+ 被甩了，还是多从主观方面想想自己的问题在哪里吧，
+ 不要老是想着自己付出了些什么，
+ 
+     代码写的有些倦，没有头绪...dotnetduke有点像泡的没有味道的方便面，源代码竟然是VB.NET的，美国人的需求也写的不明不白。爬到piefriends散心，难免的又想起以前的一些事，心血来潮我也诤友。
+     为什么只诤北师的MM呢？因为我住师大附近。为什么住师大附近呢？唉，还是待我从头说起吧...
+     我和前GF是高中同学，她是北师的。一个月前分手，或者说我被分手吧。为什么说是被分呢？因为我实在不知道我那点对不住她。我们是同城市的，知根知底，她家都去过好多次。我本身，在外边可以给她赚钱，上学的时候在外面实习，一个月三千块钱，一半以上花在她身上，现在外

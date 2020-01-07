@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <weng@ccert.edu.cn>; Sat, 24 Sep 2005 23:57:59 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <weng@ccert.edu.cn>; Sun, 25 Sep 2005 00:09:24 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 15:46:21 -0000
+From: "kong" <kong@mail.tsinghua.edu.cn>
+To: weng@ccert.edu.cn
+Cc: <lian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgt7S4tL+0wcvN9dvztcTNy9GnyerH6w==?=
+Date: Sun, 25 Sep 2005 00:09:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+王垠的退学，用他自己的话来说，是经过深思熟虑的。
+在我看来他的退学申请并不是针对某位老师的，而是针对中国的现有教育制度。
+想想我自己，高中也是被题海战术搞的精疲力尽，进了大学，还是像填鸭那样
+被老师猛灌一些并不太有用的知识。好不容易毕业了，找好了工作，但迫于压力，
+又来读研究生，窝囊啊。导师申请点自然基金项目什么的，我还是廉价劳动力，
+发几篇不痛不痒的论文，有没有用，我自己清楚，终究于家国无益，惭愧啊。
+说实在话，我很佩服王垠的魄力
+按我的经验，如果王垠去做软件开发，月收入不会低于万元吧？！

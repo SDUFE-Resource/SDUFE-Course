@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <qian@ccert.edu.cn>; Thu, 29 Sep 2005 09:06:03 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Thu, 29 Sep 2005 00:51:37 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "hu" <hu@mail.tsinghua.edu.cn>
+To: qian@ccert.edu.cn
+Cc: "Duan Haixin" <guan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S1eazz7XEtcDHuKOh?=
+Date: Thu, 29 Sep 2005 09:16:54 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+你是王垠的导师么？我能感觉到你的真诚。
+我今晚花了4个小时来了解王垠的事，也看了许多清华人对王垠、对你们老师、
+对学校的看法和评论（当然也有一些来自校外的言论，但那些不是我关心的）。
+我想说的只有两点：1、清华的老师没有像王垠说的那样不堪的。理由有两个，
+首先王是一个非常自我的人，从他的文章中就看得出他的老师是被他说坏的；
+另外，我认识的老师都是好人，尽管他们有的很严厉，有的很

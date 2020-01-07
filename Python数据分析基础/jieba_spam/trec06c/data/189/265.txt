@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9wpWk007996
+	for <sun@ccert.edu.cn>; Tue, 27 Sep 2005 01:12:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QAAAcl020363
+	for <sun@ccert.edu.cn>; Tue, 27 Sep 2005 01:23:57 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 00:59:25 +0800
+Message-ID: <327727938.08832@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Tue, 27 Sep 2005 00:59:25 +0800
+From: luo@mail.tsinghua.edu.cn
+To: sun@ccert.edu.cn
+Date: Tue, 27 Sep 2005 00:59:25 +0800
+Reply-To: luo@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILj4x+W7qtK70KnL+c690afV373Mytq1xL6vyr6joQ==?=
+Content-Type: text/plain
+
+看问题为何总是带着固有的偏见呢？就算是对待敌人，也该分析对方的言论是否有一点点的道理，是否有某些方面能为我所用。
+就像这位王老师，犯了这么明显的口误，因为他是个敬业的温和的好老师，仍能让爱戴他的同学们奋力替他辩驳，支持他。
+此次李敖之行固然带有某些商业性，但为何不能透过所谓的商业性和政治性，看到背后的文化性呢。扣帽子，定调子，一棒子打死，全盘否认难道才是冷静客观的正确态度吗？
+     “强调文化的重要性”绝对不能促成他的大陆行，
+     我还是倾向于政治和商业的相互利用，
+     不要忘了，李敖跟凤凰之间的关系。

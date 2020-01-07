@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <gong@ccert.edu.cn>; Mon, 22 Aug 2005 13:46:27 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <gong@ccert.edu.cn>; Mon, 22 Aug 2005 13:59:45 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 05:54:22 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "yana" <yana@mail.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Cc: "tunet" <zeng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0LS4+Mrp0MXX7rrztcTE6rT6?=
+Date: Mon, 22 Aug 2005 13:56:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    真的不知道如今我身边的世界里还有什么人在用笔和纸传递感情。就是我自己，也不知道是不是已经和书信永别了。
+    青春时光中最爱写信的几年恰恰正是书信退出历史舞台的那最后几年。现在正值花季的朋友们恐怕早已习惯了只用e-mail。
+    那段时间我正好处在大学的头两年，其实写信在刚进大学的时候就是一个非常流行的风尚，不晓得现在怎样，那个时候，大一的学生无论是在自习室还是在寝室，大约有一半的时间在写信。给家人写，给过去的同学写。那个时候电话在校园里还是一种难于使用的工具。偌大的校园只有几部IC或者投币电话。宿舍楼里常常能看见急匆匆赶下楼去传达室接电话的同学。
+    是的，更加现代化的交流方式给我们带来太多的方便。可是它们真的取代不了书信这千年来的传统所带给我们的享受。记得那个时候，常常会激动，一定要在一晚上写完一封回信，所以蜡渍会满桌都是。常常会感动，总是会在夜深的时候从枕下抽出信件，就着身边应急灯微弱的灯光静静地读。常常会不知道如何开头，侧首凝望教室窗外想要想出合适的字句。粘邮票的方式，信封、信纸的选择，甚至折叠信的方法都是小心细致的。
+    其实多数的信，从技术的角度来讲，是很机械的。无非是我们这里天气如何，课程如何，所在的城市有那些好玩的景点等等，是可以由机器代劳的。这些类的信绝大多数我现在找不到也记不住了。现在永载于我记忆中的全部都是那些最密切的朋友们写来的。那个时候觉得给这些朋友写信有时候很难，因为写信的时候总是脑子里是哲学，笔下是诗歌。说诗歌或许是自夸了，可是诗歌不也就是记录了来自内心的声音吗

@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <gao@ccert.edu.cn>; Thu, 15 Sep 2005 09:37:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <gao@ccert.edu.cn>; Thu, 15 Sep 2005 09:49:28 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 01:31:45 -0000
+From: "wang" <wang@mail.tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+Cc: <gu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEguvq99czOtbHD5tH7x+sgsrzKsr2r09oxMdTCt8POytbQufo=?=
+Date: Thu, 15 Sep 2005 09:49:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+2005年09月14日 15:33
+ 
+　　凤凰卫视9月14日消息 据法新社报道，美国白宫国家安全会议亚洲事务高级
+主管官员葛林说，布什总统已接受中国国家主席胡锦涛邀请，今年十一月前往韩
+国参加亚太经合会议（ＡＰＥＣ）后，将转往中国进行访问。
+ 
+　　葛林说：“胡主席邀请布什总统十一月参加韩国举办的亚太经合会后，前往
+中国访问。”布什与胡锦涛今天举行双边会谈，会后葛林向记者进行演示文稿。
+ 
+　　葛林说：“总统将于十一月第三周访问中国。”
+ 
+　　亚太经合会将于十一月十八日至十九日在韩国釜山召开。
+ 
+　　葛林拒绝进一步说明布什访华的细节，但表示双方正在重新排定胡锦涛访问
+美国的行程；胡原定九月初访美，但由于“卡特里娜”飓风侵袭让布什焦头烂额，
+中方决定延期。

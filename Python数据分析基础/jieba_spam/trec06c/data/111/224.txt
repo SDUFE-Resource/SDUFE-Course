@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A7NDlm028500
+	for <mei@ccert.edu.cn>; Sat, 10 Sep 2005 16:43:33 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A7KBdR092194
+	for <mei@ccert.edu.cn>; Sat, 10 Sep 2005 16:41:06 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A7K7ld092190
+	for <mei@ccert.edu.cn>; Sat, 10 Sep 2005 16:40:28 +0800 (CST)
+	(envelope-from sxh@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 10 Sep 2005 16:29:34 +0800
+Message-ID: <326336154.01040@mails.tsinghua.edu.cn>
+Received: from 59.66.122.238 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 10 Sep 2005 16:29:34 +0800
+From: "guan" <guan@mails.tsinghua.edu.cn>
+To: mei@ccert.edu.cn
+Date: Sat, 10 Sep 2005 16:29:34 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW7rPvK9dIM2s0uIgR2lybCCw5rDm1vcgd3NuMjAwMiC1xLTH1rDJ6sfrICjXqtTYKQ==?=
+Content-Type: text/plain
+Cc: 
+Precedence: list
+Reply-To: sxh <guan@mails.tsinghua.edu.cn>
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+☆─────────────────────────────────────☆
+   SYSOP (System Operator) (Fri Sep  9 23:29:42 2005):
+发信人: SYSOP (System Operator), 信区: BMManager
+标  题: 同意 Girl 版版主 wsn2002 的辞职申请
+         

@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <zhang@ccert.edu.cn>; Fri, 26 Aug 2005 05:04:58 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 05:12:28 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 05:12:28 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 05:12:28 +0800
+From: ren@mail.tsinghua.edu.cn
+To: zhang@ccert.edu.cn
+Cc: gao@ccert.edu.cn
+Date: Fri, 26 Aug 2005 05:12:28 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgzbO8xqOh?=
+Content-Type: text/plain
+
+在线人数超过10个id的普通用户可见版面：
+3：00 8月27日 2005年
+1◇  Picture           [休闲]      贴图                   36 wangyanfcw
+2◇  Joke              [休闲]      笑话连篇               19 sggsgg
+3◇  THUNet            [本校]      清华校园网             16 bjoicq
+4◆  AdvancedEdu       [信息]      飞跃重洋               12 诚征版主中
+5◆  Love              [感性]      谈情说爱               11 yanxiaoxing
+6◇  Astrology         [文化]      星座                   10 lanina

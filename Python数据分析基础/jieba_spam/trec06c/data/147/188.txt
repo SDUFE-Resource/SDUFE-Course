@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <peng@ccert.edu.cn>; Sat, 17 Sep 2005 18:12:19 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <peng@ccert.edu.cn>; Sat, 17 Sep 2005 18:28:54 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <peng@ccert.edu.cn>
+	; Sat, 17 Sep 2005 18:28:54 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <peng@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 17:53:55 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "yana" <yana@njnu.edu.cn>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INDEwO/V4rj2tsKwoQ==?=
+Date: Sat, 17 Sep 2005 18:24:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+你bf挺勤快的嘛，生气干吗
+等回头你们结婚了，没准你想让他洗衣服还指使不动了呢，趁现在好好享受吧
+       本来计划中午出去和bf逛街，11点多把屋子收拾干净了，高高兴兴准备换衣服出门，
+     结果找不着上衣了，找了半天，发现bf把衣服放到洗衣机里给搅了，心里就有点不高兴。
+       因为bf的住处离我上班的地方远，只有周末才过来他这边住，所以他这里没有我外出的衣服，只有几件睡衣在。他把我的外衣一洗，就意味着今天没法出门了，想着计划好的娱乐被这该死的一搅全给搞没了，再加上那件衣服我不喜欢用洗衣机洗，这么一来由不得不火大啊。

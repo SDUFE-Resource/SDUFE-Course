@@ -1,0 +1,24 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q2HJfs004030
+	for <zhan@ccert.edu.cn>; Mon, 26 Sep 2005 14:06:10 +0800 (CST)
+Message-ID: <200509261017.j8Q2HJfs004030@spam-gw.ccert.edu.cn>
+Received: (qmail 7144 invoked by uid 0); Mon, 26 Sep 2005 06:28:55 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Mon, 26 Sep 2005 06:28:55 -0000
+Date: Mon, 26 Sep 2005 14:24:11 +0800
+From: "jian" <jian@csnet1.cs.tsinghua.edu.cn>
+To: zhan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEZyZWVkb20gaXMgTk9UIGZyZWUgo7q4+M31zazRp7rNtNPKwr/G0dC5pNf3tcTNrMjK?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+当你认为你无法实现某个目标的时候，你就不会去行动，自然等着那个目标自己实现就很难了。
+好比说，有个美女，你很喜欢，但“认定”了自己追不上，你自然不会去追，那么这个美女就永远不会成为你女朋友，当然，rp好的话，美女来追你也不是不可能，那你干等着我也没意见。
+抱歉，如果让你不爽的话，声明：上面的你并非针对你，呵呵；）
+      在中国你的自由是建立在别人的不自由之上的！！！
+      孔子那么nb 70才从心所欲，不逾矩
+      李敖今年70了 王 拿个硕士文凭去公司挺好

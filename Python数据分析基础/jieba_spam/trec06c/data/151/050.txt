@@ -1,0 +1,40 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <huang@ccert.edu.cn>; Sun, 18 Sep 2005 11:40:29 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <huang@ccert.edu.cn>; Sun, 18 Sep 2005 11:57:04 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <huang@ccert.edu.cn>
+	; Sun, 18 Sep 2005 11:57:04 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <huang@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 11:22:05 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "li" <li@njnu.edu.cn>
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IGhhaGG4+MTjw8e/tM7SwOu80rP219+686Os1+7LvMTutcTIy7DJo6E=?=
+Date: Sun, 18 Sep 2005 11:52:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+哈！你还别说
+他还真的最喜欢我！
+因为我是唯一一个会专程带他跑到省城去吃麦当劳的啊！
+我也是唯一一个带着他踩他自己的影子
+跟他一起玩到全身臭汗
+然后还会给洗澡抱他睡觉
+呵呵
+以前我真的不知道我这么不爱干净的
+有了小侄儿以后，我才发现原来我也可以给他把屎把尿
+也可以给他洗衣服，给他煮鱼汤！
+我妹妹说连我妈都没享受过我煮的鱼汤呢！呵呵
+     要是他长成了玉树临风独当一面而且对你情有独钟的帅哥。。。

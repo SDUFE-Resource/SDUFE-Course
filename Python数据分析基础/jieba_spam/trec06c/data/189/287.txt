@@ -1,0 +1,36 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <jian@ccert.edu.cn>; Tue, 27 Sep 2005 01:23:58 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 17:34:52 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 17:34:52 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <jian@ccert.edu.cn>; Mon, 26 Sep 2005 10:45:59 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <jian@ccert.edu.cn>; Mon, 26 Sep 2005 12:42:25 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 01:34:40 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <lian@motorola.com>
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzZyejV4tH50rvW1sfpv/ajrM312/PNy9GntcTKwg==?=
+Date: Tue, 27 Sep 2005 01:34:15 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+看来不少人是很自恋。
+以系别而言，清华理科在全国排名到老几？敢出这种狂言？物理、数学......哪一个在全国敢说傲视别人的？
+以招收的学生而言，不要忘了，清华在上海连招生名额都招不满的，可能最近两年好点了。这些地方的学生如果来清华，难道也非得夹着尾巴做人？
+虽然对奥赛不感冒，但是当初偶本科那个班，就有国际奥赛第一名，以及国内奥赛一等奖得主。所谓夜郎自大，还真应这句话了。
+     假设王垠的本科是在清华读的，那么今天他就不会退学。
+     为什么？因为我已经看到有太多的原本很狂的高中生，在这里学会了夹着尾巴做人。
+     而王同学是来读研的，自然与同学的接触面就很窄，一般仅限于实验室的几个人，这样

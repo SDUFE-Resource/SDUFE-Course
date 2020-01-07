@@ -1,0 +1,19 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <jian@ccert.edu.cn>; Tue, 16 Aug 2005 02:37:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <jian@ccert.edu.cn>; Tue, 16 Aug 2005 02:50:35 +0800 (CST)
+Received: (eyou send program); Tue, 16 Aug 2005 02:45:30 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Tue, 16 Aug 2005 02:45:30 +0800
+From: pu@mail.tsinghua.edu.cn
+To: jian@ccert.edu.cn
+Date: Tue, 16 Aug 2005 02:45:30 +0800
+Reply-To: pu@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMTqvfwzMNTZv7zR0KOsysq6z8Lwo7/H6zMwyc/R0LXEyMvWuLXjdGh4IQ==?=
+Content-Type: text/plain
+
+    说说我的看法，我和你情况有点类似，虽然工资比你少，但还算过得去，比较自信继续做下去还会有进步，但是思考了一段时间后，还是决定辞职考研，因为我觉得工作并不是我的梦想，我很想做理论研究，至少也要尝试一下。
+    所以我想，如果你想搞学术、做研究，不妨读研（或者有条件的话直接留学）。如果只是想圆一个名牌大学梦，读完研究生还是找和目前差不多性质的工作的话，真就没什么必要了。

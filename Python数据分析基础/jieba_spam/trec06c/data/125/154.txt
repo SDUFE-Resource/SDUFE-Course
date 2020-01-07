@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <wang@ccert.edu.cn>; Tue, 13 Sep 2005 12:12:57 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <wang@ccert.edu.cn>; Tue, 13 Sep 2005 12:10:12 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <wang@ccert.edu.cn>; Tue, 13 Sep 2005 12:09:14 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Tue, 13 Sep 2005 12:20:46 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Tue, 13 Sep 2005 12:23:22 +0800
+From: "lai" <lai@runway.cn.net>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDQ0OE3E2rTmtcS158TUus3O0sPH0rvG8LbIuf21xMjV19M=?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: lai@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+大杂烩阿。。。科技+感情？很幽默嘛
+     我的电脑5周岁了，昨天进行了一次比较大的升级，重新开机后，看着“系统信息”里显示出怪异的448M内存容量，不禁想起5年来它伴着我们走过的路，写两句作为纪念吧。
+     这台电脑诞生于2000年8月。当时是即将去报到读研，捏造了很多冠冕堂皇的名目，跟家里要来6000元预算，跟着一位开电脑店的老兄，杀到中关村热闹非凡的攒机市场。
+     当时正是AMD推出DURON处理器不久，VIA的配套芯片组KT133也刚到店热销，现在回想起来，基本上就是从这个时候起，AMD联合VIA等一些小兄弟，凭借新K7体系架构，上演了PC处理器领域的绝地大反击，一时间也曾把Intel打的彷徨措手，哈哈，我的电脑差不多算是市面上第一批DURON

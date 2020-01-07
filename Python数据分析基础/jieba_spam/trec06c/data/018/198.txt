@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <wua@ccert.edu.cn>; Sat, 20 Aug 2005 20:28:58 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <wua@ccert.edu.cn>; Sat, 20 Aug 2005 21:02:18 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Sat, 20 Aug 2005 20:43:17 +0800
+From: "hu" <hu@mail.nisac.gov.cn>
+Reply-To: hu@mail.nisac.gov.cn
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IDIwMDUuOC4xOA==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+很多时候生命是麻木的~
+或者只能装作麻木
+     去现场考察，路过一处坟场，荒草掩映之中石碑林立；偶尔还见到断裂的石碑，同车之人猜测大概是仇家作的事情。近年来灾害事故频繁发生，大家对鬼神的敬畏程度仍日渐淡薄，也许并不是一件好事情。
+     去西部调查污水排放情况。路边尽是简易的小矮房子，顺着半开的门望进去，空间极其狭小阴暗。门前的老太太背驼得很厉害，黝黑的皮肤上满是纹路；大概是因为在矿区，似乎总有洗不干净的灰尘在脸上。紧挨着的地方正在盖小高层。问她是不是回迁户，她颤巍巍地说：“以前这里
+     老家的农村条件也不甚好，但小孩子的记忆中自有明朗的一面，那满树鲜红的樱桃，那擦得甑亮的胆瓶......越到大了，再看到眼下一些农村脏乱不堪的景象，每次都会受到一些刺激，竟仿若从未见过此类场景的城里人一样了，想来也觉奇怪。

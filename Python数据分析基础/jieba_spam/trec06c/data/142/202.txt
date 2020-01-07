@@ -1,0 +1,36 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <tao@ccert.edu.cn>; Fri, 16 Sep 2005 20:36:45 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <tao@ccert.edu.cn>; Fri, 16 Sep 2005 20:53:20 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <tao@ccert.edu.cn>
+	; Fri, 16 Sep 2005 20:53:20 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <tao@ccert.edu.cn>; Fri, 
+	Fri, 16 Sep 2005 20:18:21 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "xie" <xie@njnu.edu.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILfWyta1xMqxuvKjrG1t06ayu9OmuMPNy7u5ztLLzbXEveTWuKO/?=
+Date: Fri, 16 Sep 2005 20:48:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+送她的东西反正我是不会再要回来了。
+要了难道拿去变卖吗？或者送给下一任？
+我现在还有一对当初用来挽回感情的耳环（被拒收了的）
+都不知道应该怎么处理:P
+btw：最后分手的时候我送了一把瑞士军刀给她（是她要分的）
+     放心吧，没有这样的mm，你是以男生之心度女孩之腹了！
+     女生比男生更想忘掉一个失败的感情，一个不值得再去想念的人！
+     所以没有谁傻到和另外一个男生约会还时刻戴着戒指，来提醒自己曾经的失败感情

@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <pan@ccert.edu.cn>; Wed, 28 Sep 2005 11:01:23 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 03:12:33 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 11:12:33 CST
+Date: Wed, 28 Sep 2005 11:12:33 +0800 (CST)
+From: liang ming <zhan@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IL72tqjBy6Osze3Jz7vYvNK6zcTHuPbDwcG80MS1xMy4xdA=?=
+To: pan@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+haha～～～
+     我昨天才衰呢...发现我老爸变心了 555 昨天他过来 我告诉他先坐地铁到火车站 然后坐新川线到我住的地方....他花了1小时40分....结果走的时候 我和某人一起送他 某人带路 先坐了四站路到路家嘴地铁站...然后二号换一号 一个小时就搞定了.....
+     到了饭店 我爸打来电话说：“看来你一点也不希望我下次再来上海，**倒是很欢迎我的....."
+     ~~~~~~~~~~~~~~~~~~~~~&gt;&lt;~~~~~~~~~~~~~~~~~~~~~~

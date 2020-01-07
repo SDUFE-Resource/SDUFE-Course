@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <xue@ccert.edu.cn>; Sat, 3 Sep 2005 16:43:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <xue@ccert.edu.cn>; Sat, 3 Sep 2005 16:54:56 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 08:42:27 -0000
+From: "zheng" <zheng@mail.tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+Cc: <zeng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMrU0enKp7Dc?=
+Date: Sat, 3 Sep 2005 16:54:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+你是不是太着急了？我家的曾经连续两个晚上一觉睡8－10h不吃，但是第三天白天开始
+闹腾，老要吃。我感觉他的胃给饿得不舒服了。我也是这样的，饿狠了胃就难受，要少
+吃多餐才能缓过来。所以现在我晚上都在12点和5点给他吃两次。
+     前两天宽宽已经可以成功地连续睡上6，7个小时，有一次居然从晚上9点钟睡到5点多，8个小时，看样子具备了整夜不吃奶的实力。
+     昨天首次作尝试，11点的时候喂奶，结果早上4点多就醒了。总结失败的原因就是吃奶的时候太困了，一边吃一边睡，不是太饱。

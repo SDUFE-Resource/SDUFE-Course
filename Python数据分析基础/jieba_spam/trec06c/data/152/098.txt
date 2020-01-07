@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <sun@ccert.edu.cn>; Sun, 18 Sep 2005 18:04:11 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <sun@ccert.edu.cn>; Sun, 18 Sep 2005 18:20:46 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <sun@ccert.edu.cn>
+	; Sun, 18 Sep 2005 18:20:46 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <sun@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 17:45:47 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "che" <che@njnu.edu.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzOzM7La8u+G/3qOs0ru49rbg1MLByw==?=
+Date: Sun, 18 Sep 2005 18:15:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+    从来，我都知道人是不能太多的被感情困扰着，但是从来，我自己都逃不出感情这个关口，大概自己是个太不够理性的人。
+    男朋友出国留学，我不顾一切的要给这么多年的感情一个结果，我想他，几乎全是他的好，5年的感情，我以为离开他我会受不了，所以，自己忍了家人朋友太多的不理解，也对自己说了太多次一定要幸福，一定要相信他支持他这类的话。
+   我慢慢在改变，有了困难自己解决，心情不好忍着不发脾气，吵架的时候开始主动认错，我想成为一个完美的女生，我想让所有的人都相信爱情不是那么脆弱……我和自己较劲，不让自己认输。  
+   可我发现，他老是让我失望，老是伤我的心，我好象故意把自己变傻，但是也不是刀枪不入的啊，生病的时候都没有关心的话来温暖，现在总是眼泪不能控制的流下来，我还要屏住呼吸说“我没有哭呀”，生活得太痛苦了。
+   我好象忘了，恋爱是让人快乐的，现在好象陷入了折磨自己的恶性循环，真不知道该怎么办。男孩子真的是不小心，还是变得快啊

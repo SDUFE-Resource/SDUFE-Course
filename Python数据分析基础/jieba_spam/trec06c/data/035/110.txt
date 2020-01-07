@@ -1,0 +1,24 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <xue@ccert.edu.cn>; Wed, 24 Aug 2005 22:05:19 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 22:18:26 +0800 (CST)
+Date: Wed, 24 Aug 2005 22:12:12 +0800
+From: "lv" <lv@sohu.com>
+To: xue@ccert.edu.cn
+Cc: "yxl" <che@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INGh1PHSxravu7nKx9Gh1PHN+M2oo7+jv6O/?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+CNC。
+3G一上，网通也有移动设备了。
+两个职位的层次是不一样的。
+     北京移动：计费中心下OA开发之类的一般技术性开发工作
+     北京网通：总部信息化部BOSS系统的规划、需求等管理性工作，指导下面单位实施
+     两个职位都是有工作经验的，薪水可能都差不多，从职位层次上说，显然网通更高一些，但是从公司来说，移动更有实力，没经过这几年的融合什么的，也许更稳定一些。而且运营商还不知道怎么重组呢，哪个更有发展前景？

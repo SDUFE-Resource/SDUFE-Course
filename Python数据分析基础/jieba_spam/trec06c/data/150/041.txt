@@ -1,0 +1,22 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2svQX010170
+	for <ni@ccert.edu.cn>; Sun, 18 Sep 2005 06:38:42 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G3Pt3h004638
+	for <ni@ccert.edu.cn>; Sun, 18 Sep 2005 07:09:43 +0800
+Message-Id: <200509160325.j8G3Pt3h004638@stmp.nisac.gov.cn>
+Date: Sun, 18 Sep 2005 06:49:50 +0800
+From: "fan" <fan@mail.nisac.gov.cn>
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj4ztLQxLCutcTFrrqitcTQxQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+     当火车缓缓的驶出让我又爱又恨的梅州的时候，不知道自己心里是喜是悲。在开往广州
+     的八个小时d的旅途中，我装病在中铺的床上躺了八个小时，躲在被窝里哭了八个小时，
+     那讨厌的列车为什么老是要播放那些令人伤心的情歌呢？当车到了河源站的时候，我忽
+很感动，但不知道说什么好。不过时间能解决很多问题，你现在依然在燃烧你的激情，但几年或者几十年之后你的感受肯定会发生变化的。经历一些事情之后，你会相信时间和空间是治愈伤痛的良药，同时也是你对生活的激情的最无情的杀手。

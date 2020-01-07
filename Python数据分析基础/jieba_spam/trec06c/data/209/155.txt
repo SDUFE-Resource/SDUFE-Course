@@ -1,0 +1,20 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9qIIm028353
+	for <rao@ccert.edu.cn>; Fri, 30 Sep 2005 14:12:47 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SA3UnO014607
+	for <rao@ccert.edu.cn>; Fri, 30 Sep 2005 14:23:58 +0800 (CST)
+Received: (eyou send program); Fri, 30 Sep 2005 13:58:23 +0800
+Message-ID: <327900275.22130@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Fri, 30 Sep 2005 13:58:23 +0800
+From: ou@mail.tsinghua.edu.cn
+To: rao@ccert.edu.cn
+Date: Fri, 30 Sep 2005 13:58:23 +0800
+Reply-To: ou@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMz4v6rN9dvztcS49sjL0NDOqqOstNO087jftsjJz7e0y7y/xtHQxsC828zl1sY=?=
+Content-Type: text/plain
+
+赞!
+     正如你说的，没有一个制度的完美的，但不完美并不代表不能用，不好用。当一个制度开始真正地影响事务的发展，不合理性远大于合理性是，人们就会开始寻找更好的制度来替代。而paper制度还远没有达到那个程度，或者说，这个制度还相当合理。
+     paper提供给科研工作者一个交流思想，发表成果的平台。你做了什么工作，你就可以拿来展示。重要的是后端的评价工作。同行间的评价能最大限度的提供公平性，不错，现在有很多人在灌水，但其工作成果也同样在这种水中能够体现，得到客观的评价。除非评价者是科研白痴，根本看不出文章内容的好坏，或者依靠人情事故，借着与作者的好关系瞎给评价，这些都是中国常见，而国外相对做的较好的，也是造成paper制度在中国走样更多的原因。在美国，很多教授都是希望做出最好的东西，拿到最好的会议期刊上去发表，因为那代表了获得同行最高的评价，? 

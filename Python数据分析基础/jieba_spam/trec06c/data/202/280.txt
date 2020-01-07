@@ -1,0 +1,39 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <hu@ccert.edu.cn>; Thu, 29 Sep 2005 08:20:11 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 00:31:18 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 08:31:18 CST
+Date: Thu, 29 Sep 2005 08:31:18 +0800 (CST)
+From: liang ming <chi@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INbQufrRp8r11sa2yL6/vrnU9cO0xOPDx8HLo78=?=
+To: hu@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+     标  题: Re: 中国学术制度究竟怎么你们了？
+     
+     导师也很无奈
+     没有课题，博士招了一大堆，还要解决版面费
+     当然，导师也缺少一点责任感，至少得解决个实验室座位吧
+     不要搞得我像李熬一样整天在宿舍，吃喝拉撒，捣鼓论文搞所谓得科研
+     就在床上床下 ，上面是床下面是书桌的那种配置，
+     从床到门是7步，从门到床也是7步
+煮豆燃豆萁，
+偶在床上泣，
+一个破ｐａpｅｒ，
+真是把偶急
+     
+     
+     : 那是太少了！我支持你抗争到底！
+     : 不过这个不成为你支持王同学的理由，他们组的博士生总共可以拿一千左右吧，跟国外差不多，不是说绝对数目，是说上学/工作工资比。
+     
+     
+     --
+     
+※ 修改:・onelaugh 于 Sep 28 10:58:31 修改本文・[FROM: 220.192.251.*]

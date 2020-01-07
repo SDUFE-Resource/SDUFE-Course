@@ -1,0 +1,35 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <ning@ccert.edu.cn>; Wed, 28 Sep 2005 06:40:19 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Tue, 27 Sep 2005 23:03:13 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Tue, 27 Sep 2005 23:03:13 -0000
+Date: Wed, 28 Sep 2005 06:57:48 +0800
+From: "yu" <yu@csnet1.cs.tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzhvvbFxMvAzfXb89Xi0fnN/Lb3uLrS5bXEsNfR28DH?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+你们“业内人士”互相咬吧，门外汉实在“没有资格”评论这种问题了
+     标  题: Re: 坚决拍死王垠这样忘恩负义的白眼狼
+     
+     他搞的那些linux tex之类的东东算学问吗？雕虫小技而已。
+     
+     linux的原作者现在在做engineering，tex嘛，人家图灵奖都已经得了，
+     你们就没分啦！
+     
+     他中的那片paper，没有他的导师，同组同学的帮助，能搞得出来？
+     
+     
+     
+     : 何为做学问？
+     
+     
+     --
+     

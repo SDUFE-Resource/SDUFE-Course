@@ -1,0 +1,22 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <shi@ccert.edu.cn>; Wed, 28 Sep 2005 21:33:23 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Wed, 28 Sep 2005 21:36:21 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 13:36:21 UT
+To: shi@ccert.edu.cn
+From: cheng@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMz4v6rN9dvztcS49sjL0NDOqqOstNO087jftsjJz7e0y7y/xtHQxsC828zl1sY=?=
+
+其实我们相信 在bbs上叫唤比在清华做科研发文章好 
+雨怎么不停了 不能回去吃饭
+     王垠的公开信毫无疑问体现了很多不成熟和幼稚的地方，已经遭到了广泛和严厉的批评。但他所揭示或试图揭示的问题也同样毫无疑问是很有价值的，那就是，我们当前的科研体制尤其是科研激励体制是不是存在着严重的弊端，以paper-drive为特征的现行科研评价是不是符合科研事业自身的特征和本体目标。这个问题显然具有很大的现实性和紧迫性，不然也不会受到如此众多的共鸣。
+     由于王垠公开信里那些个人的具体细节吸引了很多目光，以至他所想冲击的这个大问题都被多数人忽视了。批评王垠无视学校和导师教育之恩和指出王垠过于理想化、世界上没有他所幻想的理想境界的人都没有错，但多日讨论后，到了今天很多细节已经很清楚的这个地步，还纠缠在这些个人具体行为，显然有些不合适了。
+     虽然也许从王垠这么个“小人物”、这么个已经被标注上“眼高手低”的不合适的人物来导出反思科研体制这么个大问题，有些人会很不屑，如果诺贝尔得主级别的出来大声疾呼还差不多。但平心静气想想，在难得吸引了大量眼球的时候，不正是推动一下关于科研评价体制大讨论的好机会么。

@@ -1,0 +1,25 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <jin@ccert.edu.cn>; Thu, 8 Sep 2005 05:38:21 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <jin@ccert.edu.cn>; Thu, 8 Sep 2005 05:50:38 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "bi" <bi@126.com>
+To: jin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMTRtcDFrsn6tcTP67eo1ea1w7K7vbLA7aO/?=
+Date: Thu, 8 Sep 2005 05:50:30 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+ 你看了friends就明白了，讲故事是为了告诉你什么都没明白，这么闹腾不是瞎扯么
+     前两天跟ex-gf打电话，又吵翻了。其中她给我讲了一个《Friends》里面的故事，气得我鼻子都快歪了。
+     （我没看过Friends，所以转述她的话可能细节不对，也希望大家能被她和我潜意识扭曲的细节记忆，谢谢。）
+     大意是说，Ruth开始喜欢一个女孩但是没追求成功，于是灰心，转而追求另一个女孩。后来，前一个女孩又表示接受Ruth了。Ruth当然仍然喜欢前一个女孩，可是当时他与第二个女孩的感情已经发展到相当程度，所以取舍之间，颇为艰难。

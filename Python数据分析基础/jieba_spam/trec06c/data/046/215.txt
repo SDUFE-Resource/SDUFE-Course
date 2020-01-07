@@ -1,0 +1,30 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <ye@ccert.edu.cn>; Sat, 27 Aug 2005 04:27:12 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 04:45:32 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 04:45:32 +0800
+Date: Sat, 27 Aug 2005 04:45:32 +0800
+From: cen@cernet.com
+Subject: =?gb2312?B?ofEg1dDGuM3FttPTqs/6uLrU8MjL?=
+To: ye@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+公司经授权,经营一些特许经营产品. 
+因市场拓展需要,诚聘校园宣传和营销人员. 
+要求： 
+1、有热情，有干劲，有一定的灵性。 
+2、最好有一些销售经验。 
+3、做事踏实，有团队精神。 
+工作时间： 一般周末工作，时间安排可以很有弹性。 
+待遇：月收入在2000元以上，若出色，还可以获得很多精美的奖品（限量版的）。 
+有意向的同学,请将个人简历(附联系电话)发送到本人站内信箱.或发送到: 
+scapegoat129@sohu.com.   我们将尽快回信通知面试时间. 

@@ -1,0 +1,26 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <fu@ccert.edu.cn>; Thu, 29 Sep 2005 08:54:47 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 01:05:58 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 09:05:57 CST
+Date: Thu, 29 Sep 2005 09:05:57 +0800 (CST)
+From: liang ming <zeng@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILj3zrss09DDu9PQv7S8+9K7uPbIy77Nz+u4+sv7o6jL/aOps7O83LXEuNC+9Q==?=
+To: fu@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+我是一直让着她啊，
+其实这种吵架也不是严重那种，
+有时她是笑笑的说，例如我说错什么话了，她就要笑话我一通，
+有时是严肃的说，例如有时碰她一下，她就很严肃的像生气的样子
+有时又像在撒娇，例如让她给我遥控器，她就说不给，我说怎么不给，她说是她拿着的就不给我，我说我要看其他电视，她又说.....   反正为一个小问题可以绕上半天，
+但每天都那样就不大对劲了。
+     作为男生你应该让着mm。

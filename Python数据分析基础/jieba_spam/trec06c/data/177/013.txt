@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <chi@ccert.edu.cn>; Sat, 24 Sep 2005 07:40:37 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <chi@ccert.edu.cn>; Sat, 24 Sep 2005 07:51:58 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 23:28:58 -0000
+From: "xie" <xie@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <luo@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgy/nOvcCsu/i74dLp?=
+Date: Sat, 24 Sep 2005 07:51:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+"
+第二篇论文就更传奇了。几投不中，就其原因，评委说是没有和现在最先进的算法程序实验比较。而我没有比较的程序，就是那个让我鄙视的人的程序。没办法，求他给我代码，只给 binary，也不给源代码。比了一下，确实比他快。不过我估计他程序写的有毛病，老是  core dump。不过还是记录下数据，添到论文上。一投就中，得了一个最佳论文奖。然后就有一篇校内新闻宣传：“我校王垠同学获得XXX会议最佳论文奖。这是大陆学者首次在如此高级别的会议上获得如此高的奖项。” 这个“高级别”的会议，在我看来就是个垃圾。美国人都把最差的论文投到这里，就是为了来旅游一圈而已。 
+"
+计算机系师生撰写的学术论文获ASP-DAC国际会议最佳论文奖
+　　【新闻中心讯】近日，由我校计算机系软件所设计自动化教研组师生王垠、洪先龙、经彤、杨

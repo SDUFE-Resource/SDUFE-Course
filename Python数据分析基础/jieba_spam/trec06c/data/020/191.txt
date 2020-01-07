@@ -1,0 +1,30 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <tao@ccert.edu.cn>; Sun, 21 Aug 2005 06:35:54 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 22:46:08 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 22:46:08 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "zhou" <zhou@jdl.ac.cn>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7H89b6ob+158TU19yz6b3uo6y+rbOjyqfIpdaqvvW8uMPr1tOjrNT1w7S72MrCxNijvyAo
+16rU2Ck=?=
+Date: Sun, 21 Aug 2005 06:50:16 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 NewExpress 讨论区 】
+发信人: goldlance01 (久在樊笼里，复得返自然), 信区: NewExpress
+标  题: 【求助】电脑总抽筋，经常失去知觉几秒钟，怎么回事呢？
+发信人: goldlance01 (久在樊笼里，复得返自然), 信区: Hardware
+标  题: 【求助】电脑总抽筋，经常失去知觉几秒钟，怎么回事呢？
+请教各位。
+就是电脑隔一会就昏迷几秒钟，这时候电脑就完全定住了，不出声、图像静止、鼠标键盘光驱失灵。这时候如果键入字母，就会等一会在电脑\'苏醒\'时显示出来。
+请问这是怎么回事呢？
+谢谢！

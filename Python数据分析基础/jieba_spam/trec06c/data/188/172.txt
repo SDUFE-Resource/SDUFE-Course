@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9wpWk007996
+	for <rao@ccert.edu.cn>; Mon, 26 Sep 2005 18:13:49 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QAAAcl020363
+	for <rao@ccert.edu.cn>; Mon, 26 Sep 2005 18:25:08 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 18:00:36 +0800
+Message-ID: <327727938.08832@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 26 Sep 2005 18:00:36 +0800
+From: hou@mail.tsinghua.edu.cn
+To: rao@ccert.edu.cn
+Date: Mon, 26 Sep 2005 18:00:36 +0800
+Reply-To: hou@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Content-Type: text/plain
+
+认真看完了整篇文章，总算有点儿收获，明白了什么叫纸上谈兵！
+你说的没错，不过只是在理论上听起来有些所以然！ 有点儿像垂暮的老人训导毛头小子！
+不知道你是否了解现在的中国研究生教育，如果不了解，可以先抽点儿时间！
+我从内心里对王垠的做法感到佩服，虽然我本人远没有这种魄力！
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。
+     首先，我们学习是为了什么？我觉得即使是我们学理工科的人，也不是为了成为所谓的爱因斯坦和牛顿。我这里用了所谓的爱因斯坦和牛顿，因为我们从小受到的教育就对爱因斯坦和牛顿扭曲了，我们那个时候不知道什么叫做科学只知道爱因斯坦和牛顿是非常非常牛的人。其实真正了解了爱因斯坦和牛顿的事情，并且做了很多年的科研，你就会发现其实爱因斯坦和牛顿只是同时代千千万万科学家的一员，只是他们的代表。很多同时代的很多科学家也很牛的，只是名头没有他们那么响而已。如果对于做科研了解的还不深的话就口出狂言要成为爱因斯坦和牛顿，那

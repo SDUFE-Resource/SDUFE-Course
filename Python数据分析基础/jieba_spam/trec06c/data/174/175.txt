@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <fan@ccert.edu.cn>; Fri, 23 Sep 2005 20:50:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <fan@ccert.edu.cn>; Fri, 23 Sep 2005 21:02:19 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 12:39:25 -0000
+From: "ding" <ding@mail.tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+Cc: <qing@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Fri, 23 Sep 2005 21:01:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+且不说大家主观偏袒他老板
+就是他自己的描写也没让人觉得老板不好，反而让人觉得他本人不够宽厚
+难道他词不达意，弄巧成拙了？
+     人是有基本的判断力和社会道德准则的，他老板亏待他了吗？剥削他了吗？一个处处维护他的老板，一个学术氛围浓郁的实验室，根本没有阻碍他个人的发展，他想走，完全可以走，但没有事实根据，胡乱指责导师、同学就完全违背了做人的基本道理，不要说在中国，就是在美国，这

@@ -1,0 +1,23 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bkmX006747
+	for <feng@ccert.edu.cn>; Tue, 27 Sep 2005 13:35:22 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4k00847;
+	Tue, 27 Sep 2005 13:38:40 +0800
+Message-Id: <200509260741.j8Q7f4k00847@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 05:38:39 UT
+To: feng@ccert.edu.cn
+From: xiao@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+
+如果你的观点只是想为了证明清华是个好学校，那你真的忽略太多了，
+清华大学如果比任何一所（北大不比较好了）学校差，那不仅仅是清华的失败，
+关系的是一个民族，一个国家的失败，正因为如此，即使清华只比其他学校好一
+丁点，那还是失败。我们的国家啊，给了你们太多，你们的产出多一点，是本分！
+况且国家等给你们的，按理你们就该产出更多，
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。

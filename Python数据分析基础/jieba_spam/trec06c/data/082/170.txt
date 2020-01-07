@@ -1,0 +1,24 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <gu@ccert.edu.cn>; Sat, 3 Sep 2005 23:59:20 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Sun, 4 Sep 2005 00:30:49 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Sun, 4 Sep 2005 00:11:54 +0800
+From: "zeng" <zeng@mail.nisac.gov.cn>
+Reply-To: zeng@mail.nisac.gov.cn
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INfpzbyjurPJwfq98M+yycbW99HdobbJ8buwobe+q8PAvufV1cbYueI=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+成龙扮演的是朝鲜将军？
+     http://ent.sina.com.cn/m/c/2005-09-02/1730829087.html
+     新浪娱乐讯 9月20日，成龙将携韩国第一美女金喜善，印度美艳天后玛丽卡、梁家辉、孙周等人，在人民大会堂举行《神话》全球首映礼。
+     　　《神话》讲述的是穿越时空的传奇故事，成龙扮演一位考古学家，梦中总是出现一个超凡脱俗的白衣女子，而这个女子就是金喜善饰演的古代朝鲜公主。随着梦境呈现出两千年前蒙信将军和朝鲜公主的爱情故事，整个故事脉络就贯穿在古今反复交替之间。

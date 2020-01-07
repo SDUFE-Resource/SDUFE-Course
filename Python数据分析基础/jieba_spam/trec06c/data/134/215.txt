@@ -1,0 +1,36 @@
+Received: from hotmail.com (bay9-f13.bay9.hotmail.com [64.4.46.117])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E3dVC4024093
+	for <mei@ccert.edu.cn>; Thu, 15 Sep 2005 08:23:48 +0800 (CST)
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	Wed, 14 Sep 2005 17:35:37 -0700
+Message-ID: <BAY9-F13DCF915AAD1C8AC2ACE8AB09F0@phx.gbl>
+Received: from 63.215.198.21 by by9fd.bay9.hotmail.msn.com with HTTP;
+	Thu, 15 Sep 2005 00:35:37 GMT
+X-Originating-IP: [219.238.94.8]
+X-Originating-Email: [longchuanok@hotmail.com]
+X-Sender: longchuanok@hotmail.com
+From: =?gb2312?B?wfogtKg=?= <jian@hotmail.com>
+To: mei@ccert.edu.cn
+Bcc: 
+Subject: =?gb2312?B?ofEgob5QaW5DTs/7z6Khv7CuwaLQxdbQufrR0L6/1LrV0Ma4yrXPsMn6?=
+Date: Thu, 15 Sep 2005 08:35:37 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312; format=flowed
+
+爱立信中国研究院招聘实习生，详细职位信息如下：
+Title: Integration&amp;Verification Engineer (Function Engineer) (Intern)
+Responsibilities:
+* Define verification environment and methodologies to be implemented within the R&amp;D Center 
+* Implement the defined environment and methodologies 
+* Development of test cases for the specific products and projects 
+* Integration and verification of products developed within the R&amp;D Center
+Requirement: 
+* MS. degree or above in Computer Software, Telecom or Electronics Engineering 
+* Experience in software development and good command of one of the following language i.e. C/C++/Perl 
+* Excellent knowledge of Wireless Communication systems, and experience on UNIX operating system 
+* Good knowledge on Radio Access Network for WCDMA or GSM 
+* Knowledge in system integration and testing i.e. SS7, ATM and IP 
+* Good communication skills and social abilities; 
+* Fluent in oral &amp; written English.
+感兴趣的同学请发送你的简历至： recruitment.etc@ericsson.com 
+注意：邮件标题请写上：应聘XXXXXXXXX职位！

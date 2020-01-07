@@ -1,0 +1,23 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <ning@ccert.edu.cn>; Thu, 15 Sep 2005 19:16:24 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <ning@ccert.edu.cn>; Thu, 15 Sep 2005 19:47:32 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Thu, 15 Sep 2005 19:27:39 +0800
+From: "he" <he@mail.nisac.gov.cn>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG2zKvQ0Mm9yc+ht8flu6q3xdOzu+H039b3tLTIy9SxvPvD5rvho6iw5tb3v8nS1NbDtdfC
+8KM=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+制作费这么高啊
+         9月16日（周五）下午两点新闻与传播学院与八一电影制片厂将于大礼堂联合举办影片《太行山上》清华放映会暨主创人员见面会，届时导演韦廉和八一电影制片厂领导将与大家见面。影片放映结束后，文西楼204将举办小型座谈会，尹鸿、饶曙光、曹丽、张晓琴等专家将出席座谈
+     影片介绍：
+         在抗日战争胜利６０周年之际，老牌劲旅八一电影制片厂汇集两岸三地实力演员，倾力打造出抗日题材巨作――&lt;&lt;太行山上&gt;&gt;。

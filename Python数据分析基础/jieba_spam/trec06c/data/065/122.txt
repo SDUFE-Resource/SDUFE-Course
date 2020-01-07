@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <tan@ccert.edu.cn>; Thu, 1 Sep 2005 14:07:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <tan@ccert.edu.cn>; Thu, 1 Sep 2005 14:19:39 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 06:08:50 -0000
+From: "xiao" <xiao@mail.tsinghua.edu.cn>
+To: tan@ccert.edu.cn
+Cc: <ren@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrvczSu8zisru2qLv9t9Y=?=
+Date: Thu, 1 Sep 2005 14:19:37 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+定积分的瑕点本来就是定义域造成的，可以当成广以积分做我当然知道
+我很期待你找一个不定积分的例子出来：）
+事实上，我退几步想，不定积分你给他加一个积分限不就是定积分了，做完之后去掉积分限，定积分都没问题了，不定积分还能做不出？
+     定积分出现瑕点的话是可以控制瑕点的，可以当成广义积分来做
+     但是注意不定积分的被积函数是有定义域的，如果换元的话是有可能
+     （注意是有可能）改变其定义域的。

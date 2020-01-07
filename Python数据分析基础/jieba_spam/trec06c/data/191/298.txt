@@ -1,0 +1,39 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdWEc032356
+	for <tian@ccert.edu.cn>; Tue, 27 Sep 2005 11:08:59 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 11:24:41 +0800
+Message-ID: <327652915.11497@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Tue, 27 Sep 2005 11:24:41 +0800
+Message-ID: <000201c5c1cf$bb5d1d80$0301a8c0@CCERTDAWEI>
+Reply-To: "su" <su@ccert.edu.cn>
+From: "su" <su@tsinghua.org.cn>
+To: tian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsK7H6aGqoarI59TGyOfRzMjnt+fI58POLi4uLi4u?=
+Date: Tue, 27 Sep 2005 08:24:42 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+我知道我读书不多，
+但，我也有一颗拥有“爱”的心，
+我知道你的心思不好猜测，
+否则，我不会你错过！
+我知道自己是面向黄土背朝天的娃，
+浪漫，对我来说，
+也许就是烤熟的玉米，大口的吃，
+我不知道你面红时的心思，
+可我也会说一句：如梦如烟，
+倘若被文人听到，
+定是风趣的一笑而过
+也许我的爱情就是：娶妻生子。
+平凡的像白开水，
+俗不可奈，
+可我很满意了，
+背着锄头，挥一挥一袖不带走一片云彩！

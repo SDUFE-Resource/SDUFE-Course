@@ -1,0 +1,41 @@
+Received: from tfol.com ([221.236.5.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8820wkq006952
+	for <lian@ccert.edu.cn>; Fri, 9 Sep 2005 14:46:20 +0800 (CST)
+Received: (umta 23260 invoked by alias); Fri, 9 Sep 2005 06:58:19 -0000
+X-Lasthop: 61.139.64.53
+Received: from unknown (HELO happylele) (unknown@61.139.64.53)
+  by localhost with SMTP; Fri, 9 Sep 2005 06:58:19 -0000
+Message-ID: <001501c5b41a$dd6c9f80$2e838f0a@happylele>
+From: "qiu" <qiu@tanfoidc.com>
+To: lian@ccert.edu.cn
+Subject: =?gb2312?B?ofEguaTS+Mjw0MW7+b3wuavLvtXQxrihqqGqtqjBv7fWzvbKpg==?=
+Date: Fri, 9 Sep 2005 14:58:25 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2670
+Disposition-Notification-To: "zhangle" <zhangle@tanfoidc.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2670
+
+工银瑞信基金管理有限公司是经中国证监会批准的第一家由银行发起设立的合资基金管理公司。公司成立于2005年6月21日，注册资本为人民币2亿元，注册地在北京。公司股东分别是中国工商银行、瑞士信贷第一波士顿、中国远洋运输（集团）总公司。3家股东持股比例分别为：中国工商银行55%、瑞士信贷第一波士顿25%、中国远洋运输（集团）总公司20%。公司经营范围包括经中国证监会批准的基金等资产管理业务、募集设立基金和中国证监会批准的其它业务。 
+我公司现诚聘以下人员：
+定量分析师 (2名) (北京市)  
+职位的目标 
+金融定量分析，包括金融工程研究、风险管理分析、程序开发、计算及产品实现等工作。 
+主要职责： 
+1. 金融工程特定问题的程序化实现，给出定量分析结果； 
+2. 针对特定金融工程产品的开发需要，与IT等部门一同进行相关程序或系统的开发工作； 
+3. 按照本部门研究规划中的特定问题，搜集相关材料，提出工作建议，并进行技术和实施等方面的准备。 
+4. 运作风险方面的分析和设立监控程序。
+任职要求： 
+1. 硕士，专业为：统计学，计量经济学，金融工程，等。 
+2. 扎实的数学、统计学基础，较强的程序开发和计算能力，能够运用VB、C＋＋或JAVA等实现特定金融工程算法； 
+3. 对国内、外金融市场有一定了解，熟悉主要金融产品的基本特性； 
+4. 具有金融工程领域相关研究经历，并对其有浓厚兴趣； 
+5. 钻研，勤奋，敬业，有责任心； 
+6. 工作中可以较为熟练地使用英语听、说、读、写。 
+我公司将向您提供具有竞争力的薪酬和个人培训与发展机会。有意者请将简历发至：
+HR_Zhaopin@icbccs.com.cn (请以您所应聘的职位名称作为发送邮件的标题)请在发送简历时注明您所要申请的职位及工作地点。谢绝来电来访。

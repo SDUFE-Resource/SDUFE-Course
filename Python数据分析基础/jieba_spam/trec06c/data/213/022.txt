@@ -1,0 +1,38 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <ding@ccert.edu.cn>; Sat, 1 Oct 2005 13:05:22 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sat, 1 Oct 2005 05:16:18 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sat, 1 Oct 2005 05:16:18 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <ding@ccert.edu.cn>; Fri, 30 Sep 2005 22:37:57 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <ding@ccert.edu.cn>; Sat, 1 Oct 2005 00:22:50 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sat, 1 Oct 2005 13:16:13 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <weng@motorola.com>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+Date: Sat, 1 Oct 2005 13:16:11 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+呵呵，试听、学习，说得好。我用windows也就是试用，学习。
+不过我是宁做真小人，不做伪君子。咱穷，买不起正版。
+等咱有了钱，软件买两套。盗版的用着，正版的供着。
+您如果永远都不用盗版，俺也佩服你。
+不过俺想知道，您一接触电脑就学linux,用latex？这之前您就没装windows,word？
+那如果将来您儿子学电脑，您让他学windows,word不？
+     mp3，试听。部分来源下载。
+     大片，学习，部分来源网上。
+     看看中国的版权法，那些我从网上下载的节目，我如果是学习的话没有侵犯版权阿。侵犯版权的最多是非法制作、传播和播放盗版作品并牟取了商业利益的网站，比如百度。

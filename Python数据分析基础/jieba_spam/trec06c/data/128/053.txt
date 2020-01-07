@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <ning@ccert.edu.cn>; Wed, 14 Sep 2005 01:02:51 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <ning@ccert.edu.cn>; Wed, 14 Sep 2005 01:00:06 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <ning@ccert.edu.cn>; Wed, 14 Sep 2005 00:59:08 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Wed, 14 Sep 2005 01:10:40 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Wed, 14 Sep 2005 01:13:16 +0800
+From: "cen" <cen@runway.cn.net>
+To: ning@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INTasfC1xLXYt72/tLW9wcujrLeowsm21LzSsvq1xMu1w/c=?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: cen@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     看到有人说到遗产继承，给大家提供点法律意见：
+     在没有遗嘱的情况下，中国的法律规定是：首先分割夫妻财产，夫妻各占一半儿；其次将死者的那份财产（总数的一半儿）作为遗产分割，顺序是：第一顺序继承人――配偶、父母、子女，三等分，各三分之一。那么在死者的遗产中，配偶又得到三分之一，父母得到三分之一（无论父
+胡扯,
+     如果没有父母或者没有子女，那么配偶和子女或者父母平分遗产，各得二分之一；如果配偶父母子女都没有，才轮到第二顺序继承人：祖父母、孙子女、兄弟姐妹。

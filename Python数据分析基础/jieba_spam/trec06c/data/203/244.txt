@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <tu@ccert.edu.cn>; Thu, 29 Sep 2005 11:35:44 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 03:46:51 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 11:46:51 CST
+Date: Thu, 29 Sep 2005 11:46:51 +0800 (CST)
+From: liang ming <zhong@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILWxy/2+3L74ztKjrMu1ztKxvtbK09DOyszitcTKsbry?=
+To: tu@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+可怜
+这样的女孩子太完美主义了
+跟这样的女孩子相处很累的
+     我觉得是命运的惩罚，我愿意去接受。让时间证明一切给她看。希望，不管多老的时候，能回头的时候说，你真好，那么好。为什么我年轻的时候没有发现呢。那个时候要是得到她这样的评价，我也会觉得我生命中爱情是没了，可是至少我还能得到她给我的正确看法吧。
+     太直率的我总是在她面前说错话，而她有那么的一粒沙子都容不下的。我觉得她的容不下十种美丽，我最喜欢的美丽。不过，我真的不想这是她的软弱。我不希望她这么软弱的。

@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j87BlNH3002554
+	for <ni@ccert.edu.cn>; Sat, 10 Sep 2005 01:28:30 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j87Bxb76001146
+	for <ni@ccert.edu.cn>; Sat, 10 Sep 2005 01:40:44 +0800 (CST)
+Message-Id: <200509071159.j87Bxb76001146@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 9 Sep 2005 17:26:11 -0000
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: ni@ccert.edu.cn
+Cc: <xia@ccert.edu.cn>
+Subject: =?gb2312?B?ofEguN/RxdLVyvXU2s/WtPrJ57vhvtmyvc6svOggKNeq1Ngp?=
+Date: Sat, 10 Sep 2005 01:40:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C5B3E6.AA53DD40"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzo5wDUyjmuLAhQNybYzBBmyxuiw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+【 以下文字转载自 Joke 讨论区 】
+发信人: coriolus (藤影阁主), 信区: Joke
+标  题: 高雅艺术在现代社会举步维艰
+发信人: coriolus (藤影阁主), 信区: ClassicMusic
+标  题: 高雅艺术在现代社会举步维艰
+    某领导收到一张舒伯特《未完成交响曲》演奏会的票，他没有空，便把票转送给行政秘书。第二天早上，主席问起演奏会的情况，秘书交给领导一份备忘录，上面写着：一、4位双簧管手大部分时间无所事事，人数应当减少，其工作可由其他成员分担。二、12位小提琴手奏出相同音符，此种重复毫无必要，团员人数应大幅度削减。如大音量实属必要，可用电子扩音机。三、弦乐组演奏的乐段，小号手再重奏无实际作用，若删去，演奏会所需时间可由两小时减至10分钟。四、舒伯特若注意上述事项，或可完成该交响曲。

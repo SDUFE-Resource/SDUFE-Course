@@ -1,0 +1,28 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <ye@ccert.edu.cn>; Sat, 10 Sep 2005 02:27:03 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <ye@ccert.edu.cn>; Fri, 9 Sep 2005 11:39:10 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 11:39:10 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 11:39:10 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sat, 10 Sep 2005 02:39:10 +0800
+From: =?GB2312?B?1/O+pw==?= <guan@gmail.com>
+Reply-To: guan@gmail.com
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPWsrvWqrjD1PXDtLDswcs=?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+没有什么，你太多心了！要学会互相谅解，以后的生活你就会越来越多地面对这样的事情了。
+     前几天这这里发过一次文，是和bf发生矛盾，不知道该不该继续下去。看了大家的帖子，我换了角度想问题，也想开了。可刚好没几天，又发生了问题，这次真的在犹豫了。
+     这次是这样。昨天我爸妈从外地来，周日回去。我妈妈说包饺子，周末请bf来吃。前天我跟他说，他说周五单位晚上有活动，周六有球类比赛，要赛一天，晚上太累了，也怕我们做好饭得等他，很勉强，说了半天才说好吧，赛完来吃。
+     可昨天中午，他又给我打电话，说单位叫他周六晚上去踢球赛，想让我跟妈妈说说，不去吃了。我当时觉得很心寒，他说来吃饭觉得累，可去踢球就有劲了吗？我父母在他心中就这个地位，真的很心寒。

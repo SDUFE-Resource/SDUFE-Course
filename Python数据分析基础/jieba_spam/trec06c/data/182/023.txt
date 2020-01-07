@@ -1,0 +1,33 @@
+Received: from nankai.edu.cn (sun.nankai.edu.cn [202.113.16.21])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N7Br6G015829
+	for <hu@ccert.edu.cn>; Sun, 25 Sep 2005 06:02:14 +0800 (CST)
+Received: (eyou send program); Sun, 25 Sep 2005 06:19:07 +0800
+Message-ID: <327460528.07655@nankai.edu.cn>
+Received: from 222.30.48.129 by 202.113.16.21 with HTTP; Sun, 25 Sep 2005 06:19:07 +0800
+From: "gan" <gan@nankai.edu.cn>
+To: hu@ccert.edu.cn
+Date: Sun, 25 Sep 2005 06:19:07 +0800
+Reply-To: "gan" <gan@nankai.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INK7uPbKtdHpytLNrNGntcS/tLeo?=
+Content-Type: text/plain
+
+俺觉得冥想不算technical
+     标  题: Re: 一个实验室同学的看法
+     
+     个人理解问题。我开会碰见一个老外，跟他说我们这边都是搞
+     technic的。然后他跟我说all sciences are technical.
+     
+     :  computer science &amp; computer engineer
+     :  应明生还算搞research得把 
+     
+     
+     --
+     正如ciwp的文章所言，在一些人处在水深火热生死攸关的时候，另一些人看来，不过是游
+     戏一场，人生是不是游戏这个问题就像鸡生蛋蛋生鸡一样被无数人讨论了无数个年头，依
+     旧各执一词没结果。
+     所以其实这人生没个标准答案，你写成什么样的它就是什么样的。所以我们要学会喜欢自
+     己亲笔写下的东西，快乐的一页当然好，悲伤的已既成事实，也不能撕掉啊，不如以天真
+     和简单的心情去对待吧。                         ――ifitis《如果生活欺骗了你》
+     
+     

@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8SBi0E8029027
+	for <yi@ccert.edu.cn>; Thu, 29 Sep 2005 22:13:24 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SBtAlB017695
+	for <yi@ccert.edu.cn>; Thu, 29 Sep 2005 22:24:34 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 29 Sep 2005 13:58:50 -0000
+Message-ID: <000c01c5c423$728140e0$0c42423b@tunoc1a645037e>
+From: "ke" <ke@mail.tsinghua.edu.cn>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+0wcvH5buqzcvRp7Kpyr+1xM7E19bT0LjQ?=
+Date: Thu, 29 Sep 2005 22:24:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C466.808A4220"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+一个外行的看法：
+认识的不少人都不是所谓的混学位，混paper，不少清华的博士根本不为４篇文章发愁，不屑于灌水文章（质量不高的文章），虽然知道科学家不能养家糊口，虽然知道科学家现在也只是一门职业，但是还是非常愿意做一个为科学奉献的人。
+他们当年也是读着那些科学家故事的小册子进入大学的，一样有着梦想和激情。
+他们一样鄙视把发paper当成任务当成标识自己身份的灌水者，很瞧不起。
+他们会发paper言之有物，会有创新点才会发表。
+会因为最初的研究方向创新点不够而焦急，不会没有创新就毕业……
+是不是给老板打工。有些老板是这样的，从外面拿到横向课题，或者创利公司，招来学生给自己干这些事情，不顾学生的兴趣和发展。不过这种老板应该不是大部分。毕竟，课题和公司也不是那么好弄的。
+所谓学术自由，是什么概念不太懂。是王同学那样以为学法语学其他与课题无关的东东就叫学术自由吗？这个估计老板不会让你弄。是按照自己的兴趣选择研究方向吧？那得想好了，
+记得报考导师研究方向起码不要太离谱，否则你就真的没有自由可言了。而是否完全按照你的兴趣培养你，这你事先报考导师的时候最好问清楚，各个导师的行事风格不一样。
+再则，倘若做研究，记得要有螺丝钉精神，别还没长成个小苗子，就以为自己是大树了，也别妄想回到哪种坐在苹果树下看到苹果掉下来就研究出万有引力，也别想着喝喝咖啡就能把定律研究出来的科研时代了。
+这种研究是中奢侈品，一般人消费不起。
+混学位的人是个傻蛋，没有人会用自己四年或者更长时间来混，如果清华的博士能够混混就毕业，就不会有博士版面上那么多郁闷的人，以及无数个徘徊在生与死边缘的人了。
+当然，不排出一些人伪造结果发paper,haha 
+     我原本就不太了解研究生的生活
+     因为现在还是本科，没有进实验室
+     我想问各位理科的GGJJ

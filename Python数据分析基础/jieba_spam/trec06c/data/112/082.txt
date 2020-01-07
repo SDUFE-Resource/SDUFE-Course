@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5fkNO028028
+	for <zhong@ccert.edu.cn>; Sat, 10 Sep 2005 19:00:51 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5dB7Y091681
+	for <zhong@ccert.edu.cn>; Sat, 10 Sep 2005 18:58:25 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5d8ol091677
+	for <zhong@ccert.edu.cn>; Sat, 10 Sep 2005 18:58:13 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 4247 invoked by uid 512); Sat, 10 Sep 2005 11:06:48 -0000
+Message-ID: <20050910054743.4246.qmail@stu.ee.tsinghua.edu.cn>
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn> 
+From: tan@stu.ee.tsinghua.edu.cn
+To: zhong@ccert.edu.cn
+Date: Sat, 10 Sep 2005 19:06:48 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: [TOEFL] Re: =?gb2312?b?vczKpr3av+zA1g==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+帮人问的
+针对性不要太强,关键在打好基础
+市面上看到的,清华+科海有一套"考研指导"系列,这是其中的一本
+http://www.china-pub.com/computers/common/info.asp?id=8654
+人民邮电有一套"考点精要与解题指导"系列,如
+http://www.china-pub.com/computers/common/info.asp?id=7578
+科海还有一套"习题解答与考试指导"系列,如
+http://www.china-pub.com/computers/common/info.asp?id=22324
+人民邮电的"计算机专业研究生入学考试全真题解"系列,如
+http://www.china-pub.com/computers/common/info.asp?id=12779
+不知道这些书怎么样,希望用过的给点建议,还有其他类似的推荐吗?

@@ -1,0 +1,31 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2Qvx5029940
+	for <hu@ccert.edu.cn>; Fri, 19 Aug 2005 15:45:33 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A377.00010B.12784@m52.126.com>
+Date: Fri, 19 Aug 2005 15:58:16 +0800 (CST)
+From: "hua" <hua@126.com>
+To: hu@ccert.edu.cn
+Bcc: "xjhxf@263.net" <xjhxf@263.net>,"jmwhxf@sina.com" <jmwhxf@sina.com>
+Subject: =?gb2312?B?ofEgxLPWqsP7t6i5+rmry77R0Lei1tDQxNXQxri437y2SmF2Ybmks8zKpg==?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_bOPJtnjNRxiIvorDRthwNKQyQThj"
+
+  
+Location : Beijing  
+Main Responsibilities:
+＃Participate in the whole cycle of development of software and system based on browser/server structure: be responsible for the design, implementation and integration. 
+Main Requirements : 
+＃Master degree in computer science or engineering;
+＃At least 4 years programming experience in Java is a must, good understanding in UML;
+＃With concrete project experience in J2EE platform design and development; be autonomous in J2EE server architectural design and implementation. 
+＃With experiences in Tomcat/Weblogic/JBoss, Oracle, Linux/Unix;
+＃Solid knowledge of software development processes;
+＃Knowledge on wireless communication is a plus;
+＃Working experience in multinational company;
+＃Good communication skills with fluency in written and oral English;
+＃Team work spirit and sense of responsibility are appreciated.　
+****
+If interested, please send your resume to cynthia.zhao@chinasterling.com ASAP

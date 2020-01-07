@@ -1,0 +1,28 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <pu@ccert.edu.cn>; Thu, 25 Aug 2005 19:51:02 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 20:09:25 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 20:09:25 +0800
+Date: Thu, 25 Aug 2005 20:09:25 +0800
+From: guan@cernet.com
+Subject: =?gb2312?B?UmU6IM6iyO3A79PQw7vT0LjjSmF2YbXEo78=?=
+To: pu@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+这段话写得好，赞一个。
+解决问题和学习能力非常重要，干么老要精通这精通那，你们在学校里面还能精通多少东西。
+看现在得招聘确实太功利，近视了。怪不得牛人都愿意去创新性的公司。
+         这个意思就是，其实不存在什么java高手，c++高手，高手就是高手，因为他首先是个高手，后来又接触了java这个玩意儿，所以变成了java高手。现在的用人单位招人其实都写错了，应该写上“招聘高手，熟悉Java”这样才对。
+         其实我也这么认为，所谓的高手是一种心态一种能力，一种可以解决任何问题的心态，一种可以快速掌握任何一种工具或者创造一种思想来解决任何问题的能力。这就是高手，而版上看到的“招聘java高手，精通xxl,oraxx,ejx,weblxx”这些都是废话,而且能找到的也不一定就是他们所希望的高手。真的具备素质的高手呢又因为不精通这些林林总总而不得其入。
+         高手的悲哀呀。

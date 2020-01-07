@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FDF2nP003737
+	for <peng@ccert.edu.cn>; Sat, 17 Sep 2005 13:33:35 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FDQpvs001563
+	for <peng@ccert.edu.cn>; Sat, 17 Sep 2005 13:45:24 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sat, 17 Sep 2005 05:26:36 -0000
+Message-ID: <003701c5b9f9$461a6f60$787d6fa6@hotline>
+From: "gu" <gu@mail.tsinghua.edu.cn>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+8x+W7qtHQtcTSu7Xjvq3R6brNuNDP6w==?=
+Date: Sat, 17 Sep 2005 13:46:25 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0034_01C5BA3C.5412CED0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+         我是从外校考研过来的，呵呵，很幸运的是考上了，看到今年又有好多人要考，想与大家一起分享一下经验。
+         首先，考清华研并不可怕，也不是很高不可攀的，要树立足够的信心，相信自己，如果自己一直都在想能不能考上，考不上怎么办，会占用很多时间，结果是考得很艰苦，也不一定有效。
+         其次，一定要坚持复习，哪怕数学英语已经很好了，觉得看不看都不会有提高了，这种也要加油看，态度决定一切，我当初因为没有学过统计直到考试前还没搞懂，但是因为一直坚持下来了，所以结果还好，我认为考研选择的不一定是最优秀的，但一定是刻苦的，有韧性的。
+谢谢,你学的是什么专业啊?

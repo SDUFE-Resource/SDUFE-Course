@@ -1,0 +1,33 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <pu@ccert.edu.cn>; Sun, 14 Aug 2005 10:42:29 +0800 (CST)
+Received: (qmail 5448 invoked from network); Sun, 14 Aug 2005 02:53:16 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 14 Aug 2005 02:53:16 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "fu" <fu@jdl.ac.cn>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?ofEguavLvsTasr/Nxrz2u/q74aOs1dDGuMrTxrXTxbuvyMvUsQ==?=
+Date: Sun, 14 Aug 2005 10:57:15 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+公司现在有内部推荐机会,2-3人
+主要从事视频编解码器在pc/dsp/arm上的优化工作.
+(h264,mpeg4-part2,wmv)编解码都做.
+音频也在做，需要对aac,mp3比较熟悉的人员．
+希望你有比较丰富的优化经验,
+能认真钻研技术,人品好.
+我们需要作出好的产品来,
+不只是纸上谈兵而已.
+欢迎你能尽快到公司工作．
+暂不招收学生，条件优秀的我们可以保持联系．
+工作地点：上海
+简历请寄至：bshymq_wang@yahoo.com.cn
+谢谢！来信必复．

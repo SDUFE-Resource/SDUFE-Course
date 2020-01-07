@@ -1,0 +1,34 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <ding@ccert.edu.cn>; Wed, 14 Sep 2005 09:28:45 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Wed, 14 Sep 2005 09:40:44 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <ding@ccert.edu.cn>; Wed, 14 Sep 2005 09:40:43 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <gan@dlut.edu.cn>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?ofEgWzkuMTVdIL+5yNXTotDb0e6+uNPuvau+/L6ryfHKwryj16jM4rGouOa74Q==?=
+Date: Wed, 14 Sep 2005 09:40:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+标题： [9.15] 抗日英雄杨靖宇将军精神事迹专题报告会
+报告会日期：2005年9月15日
+报告会时间：19：00-21：30
+报告会地点：清华大学蒙民伟楼二层报告厅
+主办单位：  共青团清华大学委员会
+承办单位：  软件学院研团总支    自动化系研团总支 
+报告会主讲人：吉林省白山市《长白山日报》社总编办主任、杨靖宇将军史实研究专家刘贤同志；吉林省白山市靖宇县县长助理、杨靖宇将军之孙马继民同志
+今年是中国人民抗日战争暨世界反法西斯战争胜利60周年，同时又是抗日民族英雄杨靖宇将军诞辰100周年。校团委和软件学院研团总支、自动化系研团总支特举办杨靖宇将军精神事迹报告会。本次报告会，软件学院研团总支邀请到吉林省白山市靖宇县县长助理、杨靖宇将军之孙马继民同志和吉林省白山市《长白山日报》社总编办主任、杨靖宇将军史实研究专家刘贤同志为同学们作报告，学校和相关学院领导也将出席报告会。刘贤同志和马继民同志将分别就自已的经历和感受，从不同的侧面，谈谈对杨靖宇将军的精神的理解感悟，讲述杨靖宇将军鲜为人知的英勇事迹和感人故事。
+通过举办抗日英雄杨靖宇将军精神事迹报告会，缅怀英烈丰功伟绩，激发师生爱国热情，提高广大青年学生的思想政治素质，树立正确的世界观、人生观和价值观。
+欢迎老师和同学们参加这次报告会。
+刘贤同志简介：
+刘贤，女，吉林省白山市《长白山日报》社总编办主任，最权威的杨靖宇事迹搜集整理者。１９８２年至１９８５年在靖宇县史志办公室工作期间，足迹遍及全国九个省、市、自治区，找到了很多抗联老战士、与抗联作战的敌人（包括抗联叛徒）、与杨靖宇有过接触的知情人等。有十几个重要的知情者，在接受她采访后不久就离开了人世。刘贤先后发表有关杨靖宇和抗联的研究论文４０多篇、新闻作品３０多篇，出版了《长白山抗联斗争史》《抗日名将杨靖宇》等专著。
+注：报告会开始前，18：20~18：55会放映描写杨靖宇将军和东北抗联的抗战影片《白山黑水》，欢迎感兴趣的同学请提前到场观看这部刻画杨靖宇将军和抗联战士伟大人格和辉煌人生的影片。

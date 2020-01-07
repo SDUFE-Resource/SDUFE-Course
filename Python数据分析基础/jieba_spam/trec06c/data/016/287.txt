@@ -1,0 +1,25 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <cen@ccert.edu.cn>; Sat, 20 Aug 2005 12:37:13 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Sat, 20 Aug 2005 12:53:39 +0800 
+Date: Sat, 20 Aug 2005 12:50:15 +0800
+From: "rao" <rao@admin.iscas.ac.cn>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILDWsNbC6MLo19/Byw==?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+     爸爸妈妈走了，我心里很难受。我在北京9年了，4年本，考研一年，研究生3年，工作一年，我一无所有，快10年了，妈妈第一次来北京，她一直盼望着来看看；爸爸是第二次，那次是送我来念本科的时候，9年前他是抗着大箱子来得，可是9年后他已经需要我搀扶了……我从来不知道时间是这样的。
+     我想带他们到处走走，可是他们已经走不动了。去颐和园的那天，爸爸本来精神很好的，可是走到西直门的时候，他说很难受，我们就只好回来了，后来也就只好不去。我想着爸爸曾经是个多傲气的人啊。
+     然后我和爸爸吵架了，因为我千辛万苦给他找了医生，他却不肯去看病，像个小孩子不懂事的样子。他怕花钱。后来终于去协和看上了，看个病可真难啊。我很害怕要手术，我租着房子，室友不在，可是她月底要回来的，如果手术，意味着他们至少要在北京住上3个月；更何况手术需要6万。
+真的应该多为父母做点事，他们老了，不管我们的处境如何。

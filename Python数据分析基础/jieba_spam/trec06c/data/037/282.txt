@@ -1,0 +1,36 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <zhuang@ccert.edu.cn>; Thu, 25 Aug 2005 11:09:35 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 11:27:55 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 11:27:55 +0800
+Date: Thu, 25 Aug 2005 11:27:55 +0800
+From: yun@cernet.com
+Subject: =?gb2312?B?ofEgW12439C9s8/GuCDIq9awL7zm1rDN+NKz1sbX97ywzqy7pLjfytYxLTLD+w==?=
+To: zhuang@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+本公司是由清华北大学子联合创业的一高科技公司，旗下经营的一与教育相关的商业网站，刚刚起步，因业务需要急需扩大、改版。因此想招聘网页制作和维护高手1-2名，具体要求如下：
+业务范围：
+――负责整个网站的更新与维护。
+要求：
+1、对asp网页制作非常了解,有一定的网站维护经验.
+2、熟练操作dreamweaver、flash、photoshop等软件。
+3、拥有对网络运营的整体把握能力，独立思考的能力，有1-2年网站工作背景者优先。
+4、踏实好学，工作细致认真，有责任心。
+5、兼职人员需有较充足空余时间，每周至少可来公司工作2天（周一至周五），具体可议。
+6、所有应聘人员实习时间为1周，合格者一周以后正式录用上岗。
+说明：
+1、公司强调实际经验能力，固招聘人员并无学历背景限制。
+2、因刚创业阶段，公司办公地点暂位于回龙观，紧邻轻轨，且可以报销一定的交通（轻轨等）费用。有意者请参考决定。
+2、公司一旦聘用，保证高于正常同行薪水，具体可面议。
+欢迎有网站工作背景的有识之士加入，可以考虑工作、加盟合作皆可！
+求职者请将个人简历（请勿带附件）发送到以下地址：huosl03@126.com。

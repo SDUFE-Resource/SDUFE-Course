@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <zhu@ccert.edu.cn>; Fri, 2 Sep 2005 13:06:02 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <zhu@ccert.edu.cn>; Fri, 2 Sep 2005 13:18:38 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 05:07:13 -0000
+From: "ren" <ren@mail.tsinghua.edu.cn>
+To: zhu@ccert.edu.cn
+Cc: <liao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM+yu7bJz9K7uPbFrrqio6yyu9aqtcC4w9T1w7TX9g==?=
+Date: Fri, 2 Sep 2005 13:18:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+主要是有时候不知道具体怎么做，单纯的约会吧，总得找理由吧，比如看电影买东西吃饭啥的，看电影吧，也不能每次都看电影，比如这周好像就没有什么可以值得看的片子。
+单纯逛街吧，这个好像我和她都不太在行的。买东西，给谁买？吃饭？嗯好像也没有特别的日子和理由，显得有些唐突。
+想给她发短信吧，会不会显得唠叨，说什么好呢？
+             哇！！不错不错，
+             强烈看好，:) 继续努力！  ^_^

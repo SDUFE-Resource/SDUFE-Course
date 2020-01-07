@@ -1,0 +1,26 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 14:56:19 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 14:18:37 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "pan" <pan@cert.org.cn>
+To: jian@ccert.edu.cn
+CC: "ke@ccert.edu.cn" <zhu@ccert.edu.cn>,
+   "lai@ccert.edu.cn" <guo@ccert.edu.cn>,
+   "wei@ccert.edu.cn" <ye@ccert.edu.cn>, "zhong@ccert.edu.cn" <sun@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW72o0uldUmU6IL3xzOy5xMbw08LG+M/ybW2x7bDXo6y1w7W91eLR+dK7uPa72Li0oaM=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 15:04:04 +0800
+
+赶快找点空闲，找点时间，把生米煮成熟饭。然后你也可以念叨：
+        岂徒心悠远，亦无流光念。意难灭，情未了。
+        虚将韶华日，须臾朱颜逝。同心结，何必观浮云。
+        且生且尽欢，宵尽梧桐泪未干。
+        弦断矣，谁人复卷帘？
+          若非流光度，何苦为难归，不是久远心，又怎落浮云，了不了，何必草？弦断也听音.
+         大家帮忙分析分析啊，不甚明了，看看我还有希望没有？

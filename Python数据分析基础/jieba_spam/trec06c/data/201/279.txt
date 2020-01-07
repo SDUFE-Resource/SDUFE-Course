@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <tu@ccert.edu.cn>; Thu, 29 Sep 2005 04:01:54 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 20:13:01 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 04:13:01 CST
+Date: Thu, 29 Sep 2005 04:13:01 +0800 (CST)
+From: liang ming <ding@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMWutPPRp8n6wfey+rrzuPjQtLj4xNDT0bXE0MU=?=
+To: tu@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+其实我猜这个男生好像不是不想在身边照顾她，根据文字来看确实是有很大困难。我觉得这个男生还有机会，我也觉得他没有躲起来，现在挽救还来得急。虽然受伤的心必然会留下伤痕，但是爱情新的繁荣还是可以弥补曾经的痛苦的，至少说能最有效弥补这个伤痛的人只有他。
+    强烈建议这个男生能像男人一样拨开羁绊，来到她的身旁，陪她一段。她只是太需要他了，希望他以后不再犯这个错误，那样就不会再有机会了
+          这是我的朋友在看了&lt;女大学生流产后写给男友的信&gt;后,给我发来的邮件,一起发在这里,真诚祝愿那个女生可以走出困境,重拾对爱情的信心,淡忘曾经的伤害,继续上路追赶错失的幸福!!!
+          “ 昨晚你给我发过来的文章我已经看过了，这的确是一篇非常真实的文章，是一个女孩对自己内心真实情感的写照。我想你昨晚辛辛苦苦地打了半天我怎么也该给你说一下我的感受，否则就让你白费力气了。
+         首先我认为一个人往往是在最孤立无助的时候才能更深刻地认识自己以及周围的一切，所以我觉得她这样的做法很好，把自己即时的心情体会记录下来，这样对于自身也是一次反省和提高。人的一生难免要经历各种磨难，关键是你怎么样去面对它，体验它以及如何从中得到提升。

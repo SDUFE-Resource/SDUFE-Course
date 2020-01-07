@@ -1,0 +1,31 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <hou@ccert.edu.cn>; Sun, 18 Sep 2005 14:20:52 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <hou@ccert.edu.cn>; Sun, 18 Sep 2005 14:37:27 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <hou@ccert.edu.cn>
+	; Sun, 18 Sep 2005 14:37:27 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <hou@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 14:02:28 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "cheng" <cheng@njnu.edu.cn>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOzKx9fUvLq1xMn6yNUg1OfJz77NwffA4cHL?=
+Date: Sun, 18 Sep 2005 14:32:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+     我每次也都是老爹送我的    虽然我家离车站这有300米     虽然我们的关系比较紧张
+         虽然老爹不怎么和我说话     虽然老爹的动作只有一个――――  朝我开去的车摆一摆手          但每回我走的时候他都会回来送我的    无论他有多忙         一直没有中断过         虽然只有300米         我觉得那是很感情的300米      我想起了《背影》…………………………………………     老爹好象的确有点老了          
+真心bless天下的所有的父母和他们远离家乡的儿女

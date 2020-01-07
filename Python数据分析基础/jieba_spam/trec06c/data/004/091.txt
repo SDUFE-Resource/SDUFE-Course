@@ -1,0 +1,21 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <qian@ccert.edu.cn>; Tue, 16 Aug 2005 06:15:25 +0800 (CST)
+Received: (qmail 5448 invoked from network); Mon, 15 Aug 2005 22:26:12 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Mon, 15 Aug 2005 22:26:12 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "mei" <mei@jdl.ac.cn>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILbU09q4uMS4o6zO0tXmtcS63MTavs4=?=
+Date: Tue, 16 Aug 2005 06:30:11 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+虽然楼主的老公是不对

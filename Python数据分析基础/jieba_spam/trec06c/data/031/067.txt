@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <long@ccert.edu.cn>; Tue, 23 Aug 2005 20:36:53 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <long@ccert.edu.cn>; Tue, 23 Aug 2005 20:50:11 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 12:44:48 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "long" <long@mail.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Cc: "tunet" <li@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzOG5qcflu6q089Gnzu/A7c+1v7zR0Neo0rW/zriotbw=?=
+Date: Tue, 23 Aug 2005 20:46:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+本人2000年考入清华大学物理系，2004年毕业读清华大学物理系直博，本科毕业时获叶企孙奖。本科期间各物理专业课程均为班上的佼佼者，对于各类常见教材的习题，各种常见习题集上的习题均了如指掌。本人导师为物理系量子力学课程主讲人，物理系研究生入学考试量子力学试题命题人之一，我每年均担任该课程助教，带本科生量子力学讨论班。所以本人可方便的接触到本科生期末试题，笔记等重要资料。但是本人声明：一般不可能接触到考研试题，也不会透露。本人可提供物理系研究生入学考试专业课辅导，尤其是量子力学，说白了，他娘的我就是为了赚点钱，辅导费50元/小时，俺是个实在人，谁给钱我他妈就跟谁干，保证把你干懂为止。
+联系方式：(1)手机：13811119662（短信）(2)理科楼3216，何先生

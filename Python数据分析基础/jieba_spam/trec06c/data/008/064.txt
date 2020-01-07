@@ -1,0 +1,24 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <li@ccert.edu.cn>; Thu, 18 Aug 2005 16:22:00 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <li@ccert.edu.cn>; Thu, 18 Aug 2005 16:55:20 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Thu, 18 Aug 2005 16:36:19 +0800
+From: "bai" <bai@mail.nisac.gov.cn>
+Reply-To: bai@mail.nisac.gov.cn
+To: li@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL2y0ru49rnKysKwyQ==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+这个故事告诉我们,短信是不可靠的.
+             也许小琴是个有点怪的女孩.
+             爱情对她很重要,她的温情脉脉,她的娇嗔赖皮也和其它女生一样.
+             第一次见识她的怪是大一的时候.那天是周末,她病了,不知道是心病,还是身体不舒服,反正躺在床上,一动不动.bf打电话来.bf在另外一所学校,有点远,每次来看她,都要坐一个半小时的车.她接了,"我不舒服,改天吧...不用了,我休息休息就好了...真的不用了...你别来...我不

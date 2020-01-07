@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86NYrNl030488
+	for <lai@ccert.edu.cn>; Wed, 7 Sep 2005 23:05:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j86Nl5Cw020630
+	for <lai@ccert.edu.cn>; Wed, 7 Sep 2005 23:17:41 +0800 (CST)
+Message-Id: <200509062347.j86Nl5Cw020630@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 7 Sep 2005 15:03:23 -0000
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Cc: <chen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTH1rDByw==?=
+Date: Wed, 7 Sep 2005 23:17:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C5B380.54702A70"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzPUXCPFDEFrr6STeY429PH7DHSw==
+
+wv~~~~
+     水母社区内测得时候我进来了，忙活了半天搞了一个制版方针，其实还是抄的原来arrowpower的那个，又招几个核心网友。然后从原来伪站的版三变成了版大。
+     这么久过去了，版面水化现象比较严重了，我有责任，而且事情是从原来伪站那个时候就开始了。
+     近期原创较多，也希望其他的版主能处理好版面的工作，别让老人们失望啊，因为过去卸任的那些人（包括将来的我在内）都会继续潜水关注的。

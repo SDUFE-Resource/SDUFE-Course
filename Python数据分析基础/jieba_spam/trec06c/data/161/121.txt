@@ -1,0 +1,34 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <fan@ccert.edu.cn>; Wed, 21 Sep 2005 01:20:19 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 17:31:20 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 17:31:20 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <fan@ccert.edu.cn>; Tue, 20 Sep 2005 10:42:17 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <fan@ccert.edu.cn>; Tue, 20 Sep 2005 12:39:43 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Wed, 21 Sep 2005 01:31:07 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <hong@motorola.com>
+To: fan@ccert.edu.cn
+Cc: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjnuOejrM7Su7nT0LTm1Nq1xLHY0qrC8KO/o7+jv6O/o7+jv6O/o7+jvw==?=
+Date: Wed, 21 Sep 2005 01:30:41 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+不要把自己想的那么伟大
+早分手对自己好点
+     今天逛街的时候，我对哥哥说你把手机拴到裤子上，（为了怕手机被摸，我特用十字秀的绳子编了一股绳子给他拴在手机上让他拴在裤子上），他毫不在意的说：没有绳子。我就纳闷了，我说我给你的绳子呢。他头也没回的说脏了剪了扔了。我无语。
+     今天，哥哥兴奋的说昨天晚上我跑步了。我很高兴哥哥能去跑步了。可是哥哥接着说有个女生一直在走。我超了她五次，每次到她后面我都要停下来跟着走。我说为啥。哥哥说：因为它头发很香，我喜欢闻。我的心很疼。

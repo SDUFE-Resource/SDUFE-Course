@@ -1,0 +1,51 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U301rY010973
+	for <fu@ccert.edu.cn>; Sat, 1 Oct 2005 08:13:47 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s67T079931
+	for <fu@ccert.edu.cn>; Sat, 1 Oct 2005 08:08:31 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.200])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s2q2079927
+	for <fu@ccert.edu.cn>; Sat, 1 Oct 2005 08:07:48 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id t9so856482wxc
+	for <fu@ccert.edu.cn>; Fri, 30 Sep 2005 17:24:02 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=W8KmBVYgtJQpTKJHhyqBPQpNMrndwd0y2MpDtldR3I4RhE6Kc4T1HsM706J0vp9CsI6L8ZXwRUVAEpb0VeWHwwgHOmzIJg3N5ezU1rxXNE5OB77ZnjAGIUptwrX52M2CpQAbjQGH9u8CAY2rjKNU/w6Ll7Ao3skKpgKarKaNhNI=
+Received: by 10.70.28.8 with SMTP id b8mr798445wxb;
+	Fri, 30 Sep 2005 17:24:02 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Fri, 30 Sep 2005 17:24:02 -0700 (PDT)
+Message-ID: <a00ed9800509292010qaccea32sfc4e2251cb90c982@mail.gmail.com>
+Date: Fri, 30 Sep 2005 17:24:02 -0700
+From: Shaozhi Ye <zeng@gmail.com>
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNIxMC4xtrzT0Mm2tPLL4w==?=
+In-Reply-To: <200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+	<200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j8U2s2q2079927
+Precedence: list
+Reply-To: Shaozhi Ye <zeng@gmail.com>
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+有时间来看桃吧:P
+我们计划了n久，打算找个周末的假期，
+把桃扔给桃爹，桃妈跟桃姥姥出去附近转转。
+上次周六天津出差，什么都准备好了，最后桃姥姥还是没跟桃妈去...
+     幼儿园今天下午开始放假，之后7。5天都要一刻不离陪着关关
+     石头这个猪头居然说国庆正好干活加班！气愤之余真想找个亲子旅游团带儿子一起消失
+     Q1:大家知道哪的儿童图书（尤其低幼）比较全？想买米菲兔的绘本，几个童书网站都缺货――动画片出来前还没人买呢，唉――西单图书大厦尽一堆启蒙教育、少儿英语+日本漫画，哪个柜台都放着洪恩英语的碟“i like potato I LIKE POTATO……”

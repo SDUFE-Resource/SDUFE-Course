@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UNMoHg011058
+	for <zheng@ccert.edu.cn>; Fri, 2 Sep 2005 18:58:25 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 19:00:30 +0800
+Message-ID: <325444295.10797@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 19:00:30 +0800
+Message-ID: <325444295.10780@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 19:00:30 +0800
+From: zhao@mail.tsinghua.edu.cn
+To: zheng@ccert.edu.cn
+Date: Fri, 2 Sep 2005 19:00:30 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IEhPTkVZLMTjysfO0rXEzOzKuQ==?=
+Content-Type: text/plain
+
+貌似海上钢琴师
+     2005/09/01
+         清晨，当第一缕骄阳透过窗户照射在我身上，我从睡梦中醒来。听到鸟儿婉转的歌声，闻到花儿醉人的清香。心中突然有份莫名的感动。
+         昨天夜里，我梦见自己刚出生就被扔在一艘大船上。船上一个好心的工人收养了我，我每天看海上日出，听大海歌声。有一天我从一扇从没注意过的门偷偷进了金碧辉煌的头等舱，我在大厅的钢琴上奏响生命里的第一首曲子。琴键像久违的好友，乐声像波涛像清风像雾霭像飞鸟，

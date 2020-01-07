@@ -1,0 +1,29 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <ren@ccert.edu.cn>; Fri, 26 Aug 2005 02:35:57 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Fri, 26 Aug 2005 02:49:04 +0800 (CST)
+Date: Fri, 26 Aug 2005 02:42:50 +0800
+From: "kong" <kong@sohu.com>
+To: ren@ccert.edu.cn
+Cc: "yxl" <cen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvehzb836zfq1xMjLxvjOytK7z8I=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+小公司，做系统分析能开多少银子，约数就可以了
+这种要求
+任职资格： 
+教育背景：通信,电子，计算机等相关专业；
+精通C/C++，Java，JSP/XML等开发语言；
+具有3年以上软件开发工程经验和2年以上产品研发系统分析与架构设计经验；
+熟悉UML，熟练掌握ROSE等建模工具，熟悉各种设计模式；
+具有较高的组织、管理、协调能力和语言表达能力（口头和书面），善于与人沟通，具有很强的团队精神； 
+职位要求：
+主要负责面向WAP门户管理和后台系统的研发；
+并负责制定系统架构和技术规范，参与产品的技术攻关，对解决方案进行评价，协助部门经理把握产品的方向。

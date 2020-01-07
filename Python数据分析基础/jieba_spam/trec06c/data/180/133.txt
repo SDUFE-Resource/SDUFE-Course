@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <yan@ccert.edu.cn>; Sat, 24 Sep 2005 21:59:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <yan@ccert.edu.cn>; Sat, 24 Sep 2005 22:11:13 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 13:48:13 -0000
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: yan@ccert.edu.cn
+Cc: <xu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILu5ysfV98jLLSC0+Lrswey97bXEv6jNqA==?=
+Date: Sat, 24 Sep 2005 22:11:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+                 

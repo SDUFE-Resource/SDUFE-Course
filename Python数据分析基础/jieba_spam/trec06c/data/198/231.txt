@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <pan@ccert.edu.cn>; Wed, 28 Sep 2005 15:44:51 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 07:56:01 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 15:56:01 CST
+Date: Wed, 28 Sep 2005 15:56:01 +0800 (CST)
+From: liang ming <fu@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IL3xze3Qwszstdi159Ow1Logo6zJ8buwIKOsQUE=?=
+To: pan@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+我倒
+         实在无法忍了，又在这假扮KL欺骗纯洁少年了。就让俺冒着生命威胁用亲身经历揭穿这个到处假扮KL唬人的MM的画皮吧。
+         话说...那日，俺游荡于piefriends中央大广场，四处用俺那充满某种颜色的眼神，打量来来往往的id。以俺久居piefriends的经验，发现了这个可疑的mm。想俺怎么说也月薪近万，勉强也清华毕业，身高175，体重60kg，自以为该稍微有点优势。于是装做街头不期邂逅，赶过去搭
+         这mm绝对不可多得，你要是资本够厚赶紧上手。您要是有钱有势，事业有成，骗回家您就捡到宝，下辈子绝对不愁开心，看着您就爽。您要是长的够帅，请回家，保证你少奋斗四十年...

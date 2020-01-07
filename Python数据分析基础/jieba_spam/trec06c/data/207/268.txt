@@ -1,0 +1,26 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T2QvLi001892
+	for <hua@ccert.edu.cn>; Fri, 30 Sep 2005 06:10:00 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8T2U2h24691;
+	Fri, 30 Sep 2005 06:13:05 +0800
+Message-Id: <200509290230.j8T2U2h24691@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Thu, 29 Sep 2005 22:13:05 UT
+To: hua@ccert.edu.cn
+From: fu@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INTn1qrI57TLo6y6zrHYt6Kx7cTHxqrOxNXCxNiho3JlxMe49sn5w/c=?=
+
+记者也挺难的，不能太苛求他们。
+记得一个很有名的摄影记者的获奖作品是
+一个瘦如干柴的小孩和一只捕食的雄鹰的对比。
+该作者为了捕捉到这个镜头，忍住了一直没有
+帮助那个孩子。为了让世人更加深刻的认识
+一些社会现象，他违背了自己的良心。
+这个记者一直十分忧郁，最后好像自杀了。
+     呵呵，我见到的大部分记者都不是好东西
+     当然也包括我，有良知却因为饭碗不得不去做恶心的东东

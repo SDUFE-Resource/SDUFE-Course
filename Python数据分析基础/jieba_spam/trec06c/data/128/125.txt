@@ -1,0 +1,28 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <zeng@ccert.edu.cn>; Wed, 14 Sep 2005 02:08:10 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Wed, 14 Sep 2005 02:20:09 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <zeng@ccert.edu.cn>; Wed, 14 Sep 2005 02:20:08 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <han@dlut.edu.cn>
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+DDt9bxwu0=?=
+Date: Wed, 14 Sep 2005 02:20:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    昨夜做梦梦到了初中同桌，青梅竹马，形容我们，一点也不过分。
+    我们是77、78年的。那个时代叫做“早恋”，我们不敢越雷池一步。
+    我们做同桌那一年兴起了圣斗士，如果我在他旁边轻轻叫他一声“紫龙”，他会半晌不应，然后故作深沉地问道：“什么事？”“请把语文书借我看一下”，他满脸的严肃却掩饰不住喜上眉梢。
+    回想起那时候的他多么幼稚可笑，可是清纯如水的小女孩就简简单单为他敞开了心扉。他送我他的宝贝：水泥钉、子弹壳、贴画；我给他讲数学作业，陪他一起看《女神的圣斗士》、《七龙珠》漫画书。
+    如果当时他学习努力一点，或许我们就能一起分到重点班；如果我当时选择了城北的那所重点高中，我们就能够一起周末回家；如果大学一年级，我听懂了他的话；如果那次元宵节，他来电话说几个同事正和他一起看花灯，我接受邀请一同前往......我去过他说的银行好几次，也没有找到他；他托我大一时候的男朋友问候我，得知我很好，就行了，从此后我们再没有联系过。
+    昨天梦里，我仿佛又回到了初中时代，我们又肩并肩地坐在一起，我重温了当年多次梦寐以求的画面，靠在他宽阔的肩上，侧着头望他温柔的目光。
+    青梅竹马的他，你在故乡还好吗？

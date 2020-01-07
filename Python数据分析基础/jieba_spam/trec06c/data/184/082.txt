@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <mei@ccert.edu.cn>; Sun, 25 Sep 2005 17:08:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <mei@ccert.edu.cn>; Sun, 25 Sep 2005 17:19:27 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 08:56:27 -0000
+From: "jiang" <jiang@mail.tsinghua.edu.cn>
+To: mei@ccert.edu.cn
+Cc: <wang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1fdtbcqu0rvNrMilutPEzw==?=
+Date: Sun, 25 Sep 2005 17:19:17 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+北大4GG、2mm十一准备去洛阳开封少林寺，现征mm同行。
+初步计划去四天，行程如下，有意者请回站内
+第一天夜 从北京出发，
+第二天   早上到洛阳，上午去龙门石窟，下午白马寺，有时间可以考虑去小浪底?
+         晚上住洛阳，吃水席
+第三天   早上去少林寺，下午上嵩山，晚上宿少林寺或登封
+第四天   早上逛登封，嵩阳书院，中岳庙。下午去开封
+第五天   大相国寺，包公祠，天波杨府，铁塔，清明上河园。晚上返京
+估计总的费用在800以内

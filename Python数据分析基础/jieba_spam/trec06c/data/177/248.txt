@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <ding@ccert.edu.cn>; Sat, 24 Sep 2005 10:40:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <ding@ccert.edu.cn>; Sat, 24 Sep 2005 10:52:17 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 02:29:14 -0000
+From: "zhang" <zhang@mail.tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Cc: <chen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sat, 24 Sep 2005 10:52:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+大便和花的关系 赞一把 比喻恰当 
+退学很正常，清华的博士退学的多了去了。退学我也很赞成，因为觉得没劲，那就不玩了。自己觉得什么适合自己，就去做什么好了。
+但是唧唧歪歪的我不喜欢。一件事没有做成功，理由百分之百都是体制、是环境、是导师。却不考虑一下自己有没有不足的地方。
+国内做research是垃圾――没错，我到了国外，我现在做的也还是垃圾，是大便。我不是维纳，也不是香农，可是多数人都不是。他或许还不明白，其实科学之花是需要大便做养料的。
+     呵呵，我是学cs的，但是我对于王垠那篇文章的感觉，也是觉得他总是
+     “不惮以最坏的恶意来推断别人”；根据我有限的心理学知识，我也怀疑他是不是有轻微的受迫害妄想症（我也仅仅是猜测，我完全是外行，不过看到有人和我意见一致还比较高兴）
+     况且，他对于同学的贬低缺乏根据（比如用word和用latex的区别）。

@@ -1,0 +1,26 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <xue@ccert.edu.cn>; Thu, 25 Aug 2005 09:26:32 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 01:16:07 -0000
+From: "zhuang" <zhuang@mails.tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 25 Aug 2005 09:39:49 +0800
+
+     新学期作息时间表：
+                     07：00 起床、洗漱、早饭
+                     08：00 - 12：00 学术科研
+                     12：00 - 13：30 午饭、午休
+                     13：30 - 17：30 学术科研
+                     17：30 - 19：00 打拳
+                     19：00 - 21：00 晚饭、休闲娱乐
+                     21：00 - 23：00 游泳
+                这个好奇怪啊！
+                     23：00 上床睡觉

@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <guo@ccert.edu.cn>; Sun, 25 Sep 2005 09:06:46 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <guo@ccert.edu.cn>; Sun, 25 Sep 2005 09:18:11 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 00:55:08 -0000
+From: "liu" <liu@mail.tsinghua.edu.cn>
+To: guo@ccert.edu.cn
+Cc: <xue@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SvvW1w2xpbnV4s8m+zcHLsrvJ2cjLo6zSsrqmwcuyu8nZyMs=?=
+Date: Sun, 25 Sep 2005 09:17:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+这个人还对mozilla很熟，而且前几天又和我说他改了bugzilla的一个feature,而且还提交过ACE的两个patch.
+     王的linux没多牛啊。我认识一个退学的碰巧也是他们系的才是大牛呢，linux的应用编程和
+     kernel hacking都很棒，以前在sun intern的时候写evolution，平时做什么事情都用emacs.
+     不过他office也很熟，作的ppt是我见过最漂亮的。他退学是为了追随女朋友。老板很nice，

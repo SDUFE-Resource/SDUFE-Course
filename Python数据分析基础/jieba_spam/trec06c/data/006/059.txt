@@ -1,0 +1,34 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EEiS1q009384
+	for <tao@ccert.edu.cn>; Wed, 17 Aug 2005 19:09:11 +0800 (CST)
+Message-ID: <200508142244.j7EEiS1q009384@spam-gw.ccert.edu.cn>
+Received: from pisclubjhb (unknown [219.238.168.2])
+	by smtp4 (Coremail) with SMTP id RkBfofVb_0IPEu83.1
+	for <tao@ccert.edu.cn>; Wed, 17 Aug 2005 19:22:40 +0800 (CST)
+X-Originating-IP: [219.238.168.2]
+From: "he" <he@126.com>
+To: tao@ccert.edu.cn
+Cc: <zhu@ccert.edu.cn>,
+	<liao@ccert.edu.cn>,
+	<jiang@ccert.edu.cn>,
+	<gan@ccert.edu.cn>,
+	<pan@ccert.edu.cn>,
+	<yun@ccert.edu.cn>,
+	<weng@ccert.edu.cn>,
+	<tan@ccert.edu.cn>,
+	<lai@ccert.edu.cn>,
+	<guo@ccert.edu.cn>,
+	<yan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuM6iyO3Rx9beuaSzzNS6yMvBptfK1LSyv8q1z7DJ+g==?=
+Date: Wed, 17 Aug 2005 19:23:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5A123.AB2C1F50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWg2iclErE9vEwpQUuF46XqYTUSdgABkatA
+In-Reply-To: <42FF5137.0076B3.03512>
+
+Opening for interns of HR, Advanced Technology Center, Microsoft
+Team: Staffing Team, ATC
+Time: September 

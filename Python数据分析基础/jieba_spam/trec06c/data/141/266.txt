@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <hua@ccert.edu.cn>; Fri, 16 Sep 2005 17:39:41 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <hua@ccert.edu.cn>; Fri, 16 Sep 2005 17:56:16 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <hua@ccert.edu.cn>
+	; Fri, 16 Sep 2005 17:56:16 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <hua@ccert.edu.cn>; Fri, 
+	Fri, 16 Sep 2005 17:21:17 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "feng" <feng@njnu.edu.cn>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK71Nm8zND4z7K7ttK7uPbIy8HLo6zItLu509C40L71o6zV5sbmudY=?=
+Date: Fri, 16 Sep 2005 17:51:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+感觉不会走得那么快……
+没关系，只要知道自己到底要什么就好
+     曾经喜欢一个男生，却从不了解他，因为他奇怪的性格，我从来不知道他的想法。这种莫名其妙的感觉连我自己都觉得奇怪，我不知道到底是喜欢他什么
+     后来知道他不喜欢自己，也就慢慢淡化了，不再主动找他，并且坚定地认为自己已经很能放得下了，就算有再一次机会，自己也不可能回头
+     可是，今晚群聚看到他了，我无奈地承认自己还是有感觉，因为我的眼光还是很在乎他

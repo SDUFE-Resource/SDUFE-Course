@@ -1,0 +1,35 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <che@ccert.edu.cn>; Thu, 25 Aug 2005 11:44:43 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 12:03:03 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 12:03:03 +0800
+Date: Thu, 25 Aug 2005 12:03:03 +0800
+From: ni@cernet.com
+Subject: =?gb2312?B?UmU6ILOk0rnC/sL+o6zO3tDEy6/D3w==?=
+To: che@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+     烦请诸位推荐几部片子
+     最好是能很快吸引人的那一号
+     谢谢^_^
+《破碎之花》 
+　Broken Flowers 
+导演：吉姆・贾木许 Jim Jarmusch
+编剧：吉姆・贾木许 Jim Jarmusch
+主演：比尔・莫瑞 Bill Murray
+　　　杰弗利・怀特 Jeffrey Wright
+　　　莎朗・斯通 Sharon Stone
+　　　弗朗西斯・康罗伊 Frances Conroy
+类型：喜剧
+片长：105分钟
+级别：R级(生动的语言，少许裸露)
+发行：索尼娱乐白柯电影 Bac Films 

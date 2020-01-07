@@ -1,0 +1,19 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <ni@ccert.edu.cn>; Mon, 29 Aug 2005 04:51:20 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 05:01:53 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Mon, 29 Aug 2005 05:01:53 +0800
+From: "kang" <kang@ctbu.edu.cn>
+To: ni@ccert.edu.cn
+Date: Mon, 29 Aug 2005 05:01:53 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "kang" <kang@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgenqxsb6puN/Qo9ehy97Dv9GnxOrX7rjfMTUwMNSqILK7tcO/59GnxOrUpMrV?=
+Content-Type: text/plain
+
+新建高校学生公寓住宿费标准不变
+本报讯（记者郭晓军）从今年秋季开学开始，本市高校内单元式学生公寓住宿费每生每学年不超过1200元，非单元式学生公寓每生每学年不超过900元；社会力量投资建设的校外学生公寓每生每学年不超过1500元。各校可根据提供的住宿条件，在规定收费标准内制定具体收费标准。学生公寓住宿费按学年收取，不得跨学年预收。
+昨天，市发改委在官方网站公布回复给市教委的《关于2005年北京高校新建学生公寓住宿费标准的函》，明确规定，2005年高校新建学生公寓住宿费标准不做调整。

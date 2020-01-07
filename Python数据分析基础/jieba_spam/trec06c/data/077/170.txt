@@ -1,0 +1,24 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <ding@ccert.edu.cn>; Sat, 3 Sep 2005 06:23:19 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Sat, 3 Sep 2005 06:54:48 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Sat, 3 Sep 2005 06:35:53 +0800
+From: "zhu" <zhu@mail.nisac.gov.cn>
+Reply-To: zhu@mail.nisac.gov.cn
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXiuPbIy8rHsrvKx8at19PE2KO/?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+在火车站我也碰到过类似情况，一个老大爷，看起来很像很有修养的那种，给了他20元（当时身上也就这些了），还特地让我留了电话和地址，走出老远了还跟我招手致意。可惜，还是骗子，因为他当时怎么说也要还我钱，尽管我说不用了，后来就没音信了。
+     今天在北大等gf下课，突然一个中年妇女凑到我的面前，满脸沮丧的对我说到，“同学，我是从外地来北大来找人的，他搬走了，能不能让我打个电话问一下呀？”我心想帮助别人是理所当然的，于是答应他借她手机用一下。她告诉我一个号码，我拨通后，里面传出一个男人的声音，然后我把手机递给了她。那个中年妇女然后对着电话说了起来，好像是说在火车上丢了钱包，在北大又找不到人，让他赶紧来北京接他。但是我发现了几个疑点：
+     1。那个妇女没有打电话给北大的她要找的人，反而打给远方的亲戚，这种舍近求远的行为难以理解。
+     2。如果按她在电话里所说的遭遇，她现在应该处于一种非常焦虑的状态，说话应该断断续续才对，可是她与那个人的对话却如此流利，短短不到1分钟，我大约计算了一下，她起码说了将近20句话，给我一种背书的感觉。而且每句都充满了悲情，似乎世上所有的倒霉事都叫她碰见了。

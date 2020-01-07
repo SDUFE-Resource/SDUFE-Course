@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KNVQWO026957
+	for <lu@ccert.edu.cn>; Wed, 21 Sep 2005 10:54:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8KNgrSA012901
+	for <lu@ccert.edu.cn>; Wed, 21 Sep 2005 11:05:35 +0800 (CST)
+Message-Id: <200509202342.j8KNgrSA012901@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 21 Sep 2005 02:43:51 -0000
+From: "tian" <tian@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Cc: <yana@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNLWqrXAzOzMs9K91LrE1M3iv8bK1sr1usPUpLaowvCjv7yx?=
+Date: Wed, 21 Sep 2005 11:05:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0056_01C5BE80.0E54D8A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW+PP+dE9Zps0Q1RamkdUKgZkzF9Q==
+
+很难，专家就更难约到了。不过如果是难度很高的手术，应该会被指派到专家，如果一般的除非有门路或是大把钞票。
+如果想去哪里就医，就赶紧去挂号看病，不过主任医生的好很难挂的，除非很早很早去排队或是提前一两天去排，要不然找号贩子；就是专家的好好几百的挂号费的也很难弄到
+天坛医院有网站，去看看，就知道那天那个医生或是专家出诊
+     天坛医院哪些专家比较好？床位紧张吗？排手术要多久时间？
+     我舅舅脑子里长了个恶性瘤，已经6公分了，急着做手术

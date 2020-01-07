@@ -1,0 +1,20 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <gu@ccert.edu.cn>; Mon, 29 Aug 2005 04:16:55 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 04:21:18 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 29 Aug 2005 04:21:18 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Mon, 29 Aug 2005 04:21:18 +0800
+From: "cheng" <cheng@mail.tsinghua.edu.cn>
+To: gu@ccert.edu.cn
+Date: Mon, 29 Aug 2005 04:21:18 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILrNtPO80sy9zNbSu8/C1rDStdGh1PE=?=
+Content-Type: text/plain
+
+搞通信,本身就是学电子的
+区通信设备商卖设备还是很对口的
+     先介绍一下我的情况：
+     我本科是学物理电子学的，硕士转学计算机应用，现在在软件所这边做毕业论文，导师给我两个方向一个是通信，一个是web服务。当然更具体的就要看工程需要了。目前还没有定下来，我打算硕士毕业工作，现在研究生2年级，还有两年毕业。我需要一些参考意见。谢谢这里的各位。
+     通信这个方向，根据项目的要求，我想大概会是协议层软件的编写或者协议的应用。而web服务，我想项目中用到的东西会比较简单了。但是自己可能努力的方向就是朝着J2EE这条路走。

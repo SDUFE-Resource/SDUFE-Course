@@ -1,0 +1,22 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <gan@ccert.edu.cn>; Tue, 27 Sep 2005 19:38:37 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 11:49:48 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 19:49:47 CST
+Date: Tue, 27 Sep 2005 19:49:47 +0800 (CST)
+From: liang ming <tian@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgv7S/tNXits67sKOstPPT0LfttMzS4s62sKE=?=
+To: gan@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+既然约定俗成，"博弈"也就"博弈"了，无伤大雅，不妨大家都附庸风雅一番，把人"斗"人这么直白的俗话改称"博弈"吧，人与人之间的博弈，感觉上也貌似有点糖衣炮弹，棉里藏刀的意味，但就像文人惯用的伎俩，"上厕所"称为"如厕"，"小便"称为"解手"，"性交"称为"交媾"一样，规避了扎眼的词眼，也就可以登大雅之堂了，衣冠楚楚的大谈文明和理性，也就成了理所当然显示自己伟大立拔的许可证了。
+------《像经济学家一样思考》 杨雁捷 著
+相当犀利啊，矛头直指当今中国学者虚浮不求务实，想到李敖在复旦演讲时讲的“尼姑思凡”，要寻求务实，确实深有体会啊！

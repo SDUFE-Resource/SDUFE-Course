@@ -1,0 +1,28 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7FBL9jQ015986
+	for <xue@ccert.edu.cn>; Fri, 19 Aug 2005 01:29:30 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7FBr5I2010935;
+	Fri, 19 Aug 2005 02:01:26 +0800
+Message-Id: <200508151153.j7FBr5I2010935@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 01:42:26 +0800
+From: "he" <he@mail.nisac.gov.cn>
+Reply-To: he@mail.nisac.gov.cn
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0MK2q7CyytCzodXQxri5pLPMsr++rcDt1vrA7Q==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+公司简介：新东安市场是香港新鸿基地产在北京最大的投资项目，目前是新鸿基的子公司。关于母子公司的具体情况，可以上网来看：www.shkp.com，www.sda.com.cn
+工作介绍：工作是新东安市场工程部经理的助理，协助完成新东安的装修改造工程。工作内容分两部分：（1）帮助经理使用电脑处理工程方面的各种问题，比如使用powerpoint演示将来的工作计划，使用autocad处理工程图，使用photoshop处理效果图、示意图等等。（2）帮助经理对工地上的情况进行监督指导。
+职位要求：对电脑熟练掌握，尤其是上面提到的软件（或者能够很快学会）；最好是建筑或者土木方面的相关专业，有相关项目经验的更好。优先考虑清华北大等名校。
+合同期限：2年一签
+待遇水平：目前￥5,000*13个月 税前，工作有加班费，按照国家标准。
+工作日期：目前急需用人，最好能够马上来上班
+工作地点：东城区王府井大街新东安市场
+应聘方法：一页纸的简历发邮件至aijiang@shkpbjo.com.cn（最好不用word文档，可以考虑pdf格式），有问题可以打电话咨询65280187

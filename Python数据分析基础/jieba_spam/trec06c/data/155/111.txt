@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ID8DYi008045
+	for <gu@ccert.edu.cn>; Mon, 19 Sep 2005 14:02:12 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8IDJqRe004245
+	for <gu@ccert.edu.cn>; Mon, 19 Sep 2005 14:13:51 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 19 Sep 2005 05:53:28 -0000
+Message-ID: <017301c5bc53$c8f1e290$787d6fa6@hotline>
+From: "xue" <xue@mail.tsinghua.edu.cn>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?ofEguMPE0MjLu6jHrru5ysfFrsjLu6jHrg==?=
+Date: Mon, 19 Sep 2005 14:14:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0170_01C5BC96.D6F872D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+ 
+我有一个朋友认识了一个女孩，第一次见面；这个女孩带他去了科技会展中心的咖啡馆。
+花了240元，她还带了一个朋友，这个女的还要了一盒烟，花了35元；最后我朋友选择了AA；这两个女孩非常不高兴，最后不欢而散。
+这个女孩张的还不错。
+我想知道如下问题：
+1、第一次见面应该花多少钱，因该去什么地方比较合适
+2、应该AA 吗？还是应该男的掏钱。
+3、第一次见面女孩子选择咖啡厅这样的地方花费超过200的她是怎样想的？？

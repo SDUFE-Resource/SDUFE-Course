@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <wua@ccert.edu.cn>; Thu, 15 Sep 2005 14:58:53 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <wua@ccert.edu.cn>; Thu, 15 Sep 2005 15:10:52 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 06:53:06 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "hu" <hu@mail.tsinghua.edu.cn>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvfHM7NTnyc+438Tcy/nSu7j2sqnKv8z4wqXByw==?=
+Date: Thu, 15 Sep 2005 15:06:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+早上骑车经过高能所家属区那个新楼的时候，发现很多警车，警察和保安。
+保安在拉着警戒线，周围群众远远地看着，小声议论着。
+放眼看过去，在楼底下的草地上，趟着一个人，盖着布，一动不动，估计死了。
+唉，又一个跳楼的，大家怎么不珍惜生命呢。
+6点15分，120到后检查发现人已经死了，6：25警察赶到，经多人辨认，确认死者为我所理论是引进百人计划茅广军，估计是自杀。
+茅广军简历：
+1989年毕业于宁波师范学院物理系，获学士学位
+1992年毕业于南开大学物理系，获硕士学位
+1995年毕业于中国原子能科学研究院，获博士学位
+1995-1996在中国科学院理论物理研究所做博士后
+2000年在中国科学院高能物理研究所理论室工作，其中：
+1) 1997年3月-6月在德国法兰克福大学做洪堡研究员
+2) 1999年7月-2000年12月在日本原子能研究所做STA研究员
+长期从事相对论平均场理论和相对论重离子碰撞理论方面的研究工作，发表论文近
+四十篇。
+“微观输运理论的发展及其在中高能重离子碰撞中的应用”获1996年核工业部科技
+进步二等
+奖，1999年吴有训物理奖，排名均为第三。
+主要科研方向：
+量子真空的性质和结构及其在核多体问题中的效应
+极端条件下的强相互作用和电磁相互作用

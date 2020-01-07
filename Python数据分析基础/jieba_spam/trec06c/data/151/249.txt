@@ -1,0 +1,40 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <pu@ccert.edu.cn>; Sun, 18 Sep 2005 15:28:27 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <pu@ccert.edu.cn>; Sun, 18 Sep 2005 15:45:02 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <pu@ccert.edu.cn>
+	; Sun, 18 Sep 2005 15:45:02 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <pu@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 15:10:03 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "xia" <xia@njnu.edu.cn>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?ofEg09DIy8/r0qpoaWFsbMfz1rDF4NG1v86zzMz9v87WpMLwICjXqtTYKQ==?=
+Date: Sun, 18 Sep 2005 15:40:14 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+【 以下文字转载自 Career_Plaza 讨论区 】
+发信人: pkuzhh (spiderman), 信区: Career_Plaza
+标  题: 有人想要hiall求职培训课程听课证吗
+课程名称：求职必备经管常识
+主讲人：许轶 
+      HiAll创始人，芝加哥大学硕士，放弃花旗银行高薪工作回国创业。具多年人力资
+源培训和教育咨询经验，与包括麦肯锡、IBM、朗讯、 西门子等50多家公司深入接触。主
+要著作有《剪裁人生》《求职胜经》 
+时间：9月24日起每月双周周六13：00-15：00
+地点：中科院自动化所13层第二会议室
+该课程学费60元，偶周六有事不能去了，现20元转
+有意者可联系010-51636154，张

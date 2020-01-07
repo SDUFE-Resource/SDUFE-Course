@@ -1,0 +1,20 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <yi@ccert.edu.cn>; Fri, 19 Aug 2005 10:07:41 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <yi@ccert.edu.cn>; Fri, 19 Aug 2005 10:20:45 +0800 (CST)
+Date: Fri, 19 Aug 2005 10:15:02 +0800
+From: "lin" <lin@sohu.com>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzazS4iBGYW1pbHlMaWZlILDmsObW9yBodXNoYW5odXNoYW4gtcS0x9awyerH6yAo16rU2Ck=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+【 以下文字转载自 BMManager 讨论区 】
+发信人: Menphis (050249), 信区: BMManager
+标  题: 同意 FamilyLife 版版主 hushanhushan 的辞职申请
+         

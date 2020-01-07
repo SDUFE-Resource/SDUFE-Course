@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <hong@ccert.edu.cn>; Thu, 25 Aug 2005 06:26:29 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 06:44:52 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 06:44:52 +0800
+Date: Thu, 25 Aug 2005 06:44:52 +0800
+From: wu@cernet.com
+Subject: =?gb2312?B?ofEg1M6woaOsuqO56rK71sHT2tXiw7S0zrDRLi4uLi4uLg==?=
+To: hong@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+连续看到好多片严厉批评鄙视海龟的文章，我都不太好意思来写了。不瞒各位所说我也是一个英国的硕士，但我觉得我的同学还都挺牛的啊。理科的情况我不太清楚，我们学校是文科的，在英国算是蛮有名的，但不是牛津剑桥。我们这一届中国来的硕士，毕业之后留在伦敦的人中有去高盛的，JP MORGAN的，有几个去了hedge fund，还有几个去了big four。我觉得北大清华毕业的牛人也不是很容易进投行吧？回国的人中也都挺不错的，比如去了中金，四大国有银行总部之类的。至于中国来的读本科的在英国找到好工作的就更多了，因为本科生比我们在英国找工作更有优势。
+所以我觉得非美国的海龟中也有很多很不错，还有很多像我这样虽然不牛但是很上进的：）所以大家就不要一棍子打死了：）

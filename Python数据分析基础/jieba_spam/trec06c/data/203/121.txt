@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <gan@ccert.edu.cn>; Thu, 29 Sep 2005 10:03:21 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Thu, 29 Sep 2005 01:49:37 -0000
+Date: Thu, 29 Sep 2005 10:15:21 +0800
+From: "chen" <chen@mail.tsinghua.edu.cn>
+To: gan@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+心智不健全
+     认识了一个女孩，博士毕业，
+     感觉平时她性格还可以，一谈论到学术就总是象5.4运动的热血青年那样，很是小马乍行
+     恨天低的样子，今天居然因为一点小事情在手机短信里和我大吵了一次，我在尽力克制自己，可她讲话的语气居然口气硬得让我吃惊，很是恼怒之极的样子。我一直希望找个比较温柔点的GF，可今天她的表现真让我感觉困惑。是不是多数女博士的性格都很强硬啊？

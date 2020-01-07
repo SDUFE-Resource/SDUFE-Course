@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <luo@ccert.edu.cn>; Wed, 14 Sep 2005 10:39:54 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <luo@ccert.edu.cn>; Wed, 14 Sep 2005 10:37:09 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <luo@ccert.edu.cn>; Wed, 14 Sep 2005 10:36:11 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Wed, 14 Sep 2005 10:47:43 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Wed, 14 Sep 2005 10:50:19 +0800
+From: "rao" <rao@runway.cn.net>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILy8yvW+zcrHwabBv6OszsS7r9L9wey3vc/yoaqhqtLpwM/LrsS+us3QwirLrirEvrXEus3Q
+s70=?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: rao@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+啥？
+         水木用户群是一笔资源，这笔资源应当掌握在什么人手中，如何发挥其作用，是大家应该认真思考的问题。
+         水木清华最初由于技术领先和高素质的水木用户群，率先成为全国最大的BBS。其定位生活、技术交流平台，实际上主要起到了一般媒体的作用，单纯的技术管理无法控制和引导不良信息，导致其成为社会发展的不安定因素，从而遭受重创。应该说，bbs具有一定的建设性作用，信
+         如今，随着局面的变化，校内交流平台可以对外开放，出现了两个平台争夺用户群的局面。

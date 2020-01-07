@@ -1,0 +1,27 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <you@ccert.edu.cn>; Sun, 21 Aug 2005 06:50:11 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 23:00:25 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 23:00:25 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "fu" <fu@jdl.ac.cn>
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvLHOytK7uPbI/be90K3S6c6l1Ly1xM7KzOI=?=
+Date: Sun, 21 Aug 2005 07:04:33 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+本人已经和沈阳一个单位签订了三方,三方上面单位注明:三年签约期,违约金1万,服务一年少3000,本人尚未报道,也没落户,户口卡和报道证都在自己手上,只有档案在单位那里
+请问:
+1 如果我跟单位办理三方违约,我是否需要缴纳这笔违约金?作为三方协议的规定这样的
+措辞是否能当作三方违约的违约金?如果这笔违约金有效,有什么办法避免缴纳这笔违约金?
+2 办理违约后,学校将如何对我处理?是否需要给学校缴纳违约金?另外,我的户口是否直接回原籍?
+3 我的户口卡上之前已经被我改迁回原籍,有效期是9月10号,违约手续等等如果不能再
+这之前办理完成,也就是户口卡过期会对我的户口回原籍有何影响?

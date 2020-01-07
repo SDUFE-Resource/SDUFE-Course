@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <xia@ccert.edu.cn>; Wed, 31 Aug 2005 20:03:00 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 20:05:52 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 31 Aug 2005 20:05:52 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Wed, 31 Aug 2005 20:05:52 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Wed, 31 Aug 2005 11:59:15 -0000
+Received: (eyou send program); Wed, 31 Aug 2005 19:51:25 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 19:51:25 +0800
+From: fan@mails.tsinghua.edu.cn
+To: xia@ccert.edu.cn
+Cc: zhan@ccert.edu.cn
+Date: Wed, 31 Aug 2005 19:51:25 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IL+0wcvLxLfW1q7Su6G2xt+9o6G3o6zO0rDRtfrI08HL?=
+Content-Type: text/plain
+
+我没扔，因为是借的盘，于是看了10分之一，还了。
+     这是我第一次给电脑装上DVD光驱，以前上学的时候从来都是从ftp下载电影，我就没买过光盘。现在工作了，没有了便利的网络条件，于是买来光驱，顺便想捎两个电影回来看。
+     卖碟的大嫂问我看《七剑》了没有，我说什么叫七剑，于是，她象看外星人一样看着我说，连这都不知道？！让我感觉自己犯了不可饶恕的错误，赶紧买了一张走人。
+     回来后装好光驱，把碟放进去，开始看大片。天啊，越看越不想看，我就纳闷了，这是中国的武侠电影吗？？？人物造型怪异，服装服饰西方化、卡通化（还不是中国卡通），对白毫无韵味，香港口音也弄上来了。

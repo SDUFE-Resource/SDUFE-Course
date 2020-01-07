@@ -1,0 +1,23 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <tu@ccert.edu.cn>; Sat, 27 Aug 2005 07:36:40 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 07:55:00 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 07:55:00 +0800
+Date: Sat, 27 Aug 2005 07:55:00 +0800
+From: lian@cernet.com
+Subject: =?gb2312?B?ofEgtPO80s3GvPbSu8/Cvs3StbWlzru1xLe2zqc=?=
+To: tu@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+mm  211 电力大学，非京学校，想在北京就业，本科学动力－仪表－自动化类，研究生专业是自动化，主要是电厂热工自动化。硕士应届毕业。
+没有作过实际项目，平时不是很爱学习，专业知识一般，计算机英语也都一般，爱参加社会活动，口才绘画还好，文采也可以。
+mm本人对自己的工作前景不甚清楚，不知道水的深浅，不是很清楚北京有哪些单位属于自己就业可争取的范围。希望水木版上的ggjj们能不惜赐教，针对本人的学校专业等等信息，广泛推荐就业可争取的单位，这样我就好有目标，谢谢！@

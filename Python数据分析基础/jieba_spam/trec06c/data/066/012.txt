@@ -1,0 +1,21 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <zeng@ccert.edu.cn>; Thu, 1 Sep 2005 16:40:14 +0800 (CST)
+Received: (qmail 18809 invoked from network); Thu, 1 Sep 2005 08:51:57 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 08:51:57 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "xie" <xie@jdl.ac.cn>
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgobbKwL3ntPPVvaG3u7nKx9PQsci9z8P3z9S1xM7Eu6+49LrS?=
+Date: Thu, 1 Sep 2005 16:54:15 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    好多朋友对它评价都不高，不过听说在欧美票房还好，大概其中有文化隔阂的问题吧；西方的宗教文化是讲“末日论”的，人们心中多少都带点儿这种情结，所以涉及于此的文艺作品也很容易有市场。《世界大战》就很典型啊，外星人简直就成了“上帝之鞭”，来惩罚原罪无数的地球人。斯导拍片依据的文本还不是H.G.威尔斯的原著，而是奥逊・威尔斯1938年从小说改编过来的广播剧。当时这个剧本在电台播出后，竟有十几万人信以为真，纷纷离家出逃躲避“火星人的进攻”，可见这“末日情结”之深之广。而这对于我们来说是难以理解的，进而也就不太能有欧美观众那种直指内心的感受，说不好也是正常了。 

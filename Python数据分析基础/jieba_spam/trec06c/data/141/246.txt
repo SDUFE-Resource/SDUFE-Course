@@ -1,0 +1,23 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2svQX010170
+	for <rao@ccert.edu.cn>; Fri, 16 Sep 2005 17:14:23 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G3Pt3h004638
+	for <rao@ccert.edu.cn>; Fri, 16 Sep 2005 17:45:24 +0800
+Message-Id: <200509160325.j8G3Pt3h004638@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 17:25:31 +0800
+From: "zhong" <zhong@mail.nisac.gov.cn>
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILXa0ru92rfJ79q/ztPQyrLDtNKqx/PC8A==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+太好了多谢多谢
+在综体的那间屋子上课？
+     我上学期选的。老师就讲了讲要求，考试什么的，要求就是尽量别迟到。如果你不迟到，考试就能过（老师自己说的），然后教了手法（10分钟内就讲完了）
+     期末的时候发现，老师每次都点名。不过老师特别体贴，一般都是8.10以后点，或者8.30以后点。
+     然后没有考试，就是把你断的标头钱交了就好，我好像交了6元，一共坏了12个，惭愧惭愧。

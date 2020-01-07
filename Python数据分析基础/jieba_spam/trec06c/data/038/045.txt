@@ -1,0 +1,21 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <mo@ccert.edu.cn>; Thu, 25 Aug 2005 12:14:40 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 12:27:47 +0800 (CST)
+Date: Thu, 25 Aug 2005 12:21:33 +0800
+From: "lei" <lei@sohu.com>
+To: mo@ccert.edu.cn
+Cc: "yxl" <qian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IHp6sbG+qbjf0KPXocvew7/Rp8Tq1+643zE1MDDUqiCyu7XDv+fRp8Tq1KTK1Q==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+是不是因为男硕住的老楼只能算筒子楼不算是公寓所以可以超过标准收1k/y？
+     新建高校学生公寓住宿费标准不变
+     本报讯（记者郭晓军）从今年秋季开学开始，本市高校内单元式学生公寓住宿费每生每学年不超过1200元，非单元式学生公寓每生每学年不超过900元；社会力量投资建设的校外学生公寓每生每学年不超过1500元。各校可根据提供的住宿条件，在规定收费标准内制定具体收费标准。学

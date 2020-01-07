@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <lu@ccert.edu.cn>; Thu, 15 Sep 2005 20:50:40 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <lu@ccert.edu.cn>; Thu, 15 Sep 2005 21:02:39 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 12:44:53 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "yu" <yu@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILO1wb65pLPMxMS49re9z/KxyL3PusO/vKO/?=
+Date: Thu, 15 Sep 2005 20:58:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+考的时候不分方向的，复试的时候能招的老师招，不是你想选谁就是谁的，
+每年不一样，看老师招推研生的情况定。力学应该哪里都用得到，碰撞组，
+可靠性分析什么的。事故再现也行。前提先把初试考好，否则都是空谈，还有就是
+复试以前联系一下能招生的老师了。
+btw，祝你好运
+     或者哪个导师比较好考？
+     （顺便问一句：报名的时候是填导师还是填研究方向？）
+     我准备的是应用力学

@@ -1,0 +1,31 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81B6REp021921
+	for <xin@ccert.edu.cn>; Fri, 2 Sep 2005 15:15:12 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j81Bbwq9009588;
+	Fri, 2 Sep 2005 15:46:41 +0800
+Message-Id: <200509011137.j81Bbwq9009588@stmp.nisac.gov.cn>
+Date: Fri, 2 Sep 2005 15:27:46 +0800
+From: "cen" <cen@mail.nisac.gov.cn>
+Reply-To: cen@mail.nisac.gov.cn
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0ru2zr/MucfD+tDEtcSwrsfpwOvO0tS2yKU=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+我和她在一年前走在一起，可是在整整一年后的日子里却分手了
+原因是我妈病了，不喜欢我找女朋友，觉得一旦我找了女朋友
+她就失去我了，所以为了劝说我和她分手还专门和我老爸跑到北京来
+苦口婆心地对我晓之以理，并且在情人节那天发现我在家给她打电话，跑过去
+把电话线给拔了，哭着闹着要我和她断绝关系，事实上我妈从没有见过她，也一点
+都不了解她，还说给一点钱给她，打发她走。事实上她很好，很优秀，蕙质兰心。
+但我妈觉得我是她在这个世界上唯一的希望，她活着都是为了我。可是我女朋友
+为我付出了很多很多，我曾给她许诺过未来的，她是我这辈子要娶的人。我们就因为
+我妈在这里闹而一次次地争吵，她觉得她很委屈，我也觉得很对不起她，
+争吵已经成为我们之间的主题了，我妈甚至觉得我找了女朋友，她就不想活了。
+就这样，都觉得太累了，我们分手了……

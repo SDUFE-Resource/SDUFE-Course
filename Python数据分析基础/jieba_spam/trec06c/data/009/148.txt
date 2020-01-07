@@ -1,0 +1,38 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EBDbnN008658
+	for <hua@ccert.edu.cn>; Thu, 18 Aug 2005 23:56:09 +0800 (CST)
+Received: (eyou send program); Fri, 19 Aug 2005 00:04:35 +0800
+Message-ID: <324018523.18139@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 19 Aug 2005 00:04:35 +0800
+Message-ID: <324018523.18120@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Fri, 19 Aug 2005 00:04:35 +0800
+From: hong@mail.tsinghua.edu.cn
+To: hua@ccert.edu.cn
+Cc: zhuang@ccert.edu.cn
+Date: Fri, 19 Aug 2005 00:04:35 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgQmlsbCBHYXRlcyC1xLTz0aexz9K1teTA8dHdvbI=?=
+Content-Type: text/plain
+
+侯捷注：网络上转来这篇文章。有意思。是不是Bill Gates写的，不重要！重要的
+是它写的不错。转载於此以飨网友，也惕厉自己。
+Bill Gates在某大学毕业典礼的演讲中，对毕业生提出十项极为睿智的人生建议，
+与毕业同学互勉：
+1.人生是不公平的，习惯接受吧。但如果你打算习惯一辈子，那人生是公平的。
+2.这个世界并不在乎你的自尊，只在乎你做出来的成绩。有了成绩再去强调你的感
+受。
+3.你不会一离开学校就有百万年薪、你不会马上就是拥有公司配属车位的副总裁，
+二者都必须靠努力赚来。
+4.如果你觉得你的老板很凶，等你做了老板就知道，老板是没有工作任期保障的。
+5.在速食店打工并不可耻，你的祖父母对煎汉堡有不同的看法，那没关系。重要的
+是你对未来的看法。
+6.如果你一事无成，不是你父母的错。不要对自己犯的错发牢骚，要在错误中学习
+正确之道。
+7.在你出生之前，你的父母并不像现在这般无趣，他们变成现在这样是因为忙着付
+你的开销，清洗你的衣服、听你吹嘘你有多了不起。所以在你拯救被父母这代人破
+坏的热带雨林之前，先整理一下自己的态度。
+8.学校里可能有蠃家有输家，人生路上却还言之过早。学校会不断给你机会，真实
+人生中却完全不是这麽回事。
+9.人生没有寒暑假。人生不是学期制，没有哪个雇主有兴趣帮你寻找自我，请用自
+己的时间来做这件事。
+10.电视上演的并非真实人生。现实生活中每人都要离开咖啡馆去创业。

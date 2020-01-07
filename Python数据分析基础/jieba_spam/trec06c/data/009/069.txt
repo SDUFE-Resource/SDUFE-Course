@@ -1,0 +1,25 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <pu@ccert.edu.cn>; Thu, 18 Aug 2005 22:25:39 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Thu, 18 Aug 2005 22:42:05 +0800 
+Date: Thu, 18 Aug 2005 22:38:41 +0800
+From: "he" <he@admin.iscas.ac.cn>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXQxrjUuNLitNPKwsjtvP6/qreitcTH5buqtcSxz9K1yfqjqM7evq3R6dKyv8mjqQ==?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+这样的公司一般不会要清华计算机的吧
+     本公司为软件开发为主的技术型公司，成员均为清华毕业。目前有比较多的软件开发项目。主要是用于j2ee和c++。现在想招聘部分人，由有经验的技术人员进行培养，并且在项目中实习和工作同时也作为公司的人才储备。
+     要求如下：
+     1、有计算机编程的基础。要对c或vb或dephi或java等任何一种语言有编程基础，并且做过一些大作业或项目。热爱软件开发，热爱编程。

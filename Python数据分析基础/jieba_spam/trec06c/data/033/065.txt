@@ -1,0 +1,35 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <yan@ccert.edu.cn>; Wed, 24 Aug 2005 11:04:22 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 11:17:29 +0800 (CST)
+Date: Wed, 24 Aug 2005 11:11:15 +0800
+From: "su" <su@sohu.com>
+To: yan@ccert.edu.cn
+Cc: "yxl" <ke@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuNeo1rAou/KzpMbavObWsCnN+NW+w8DK9Q==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+主要工作：
+网站美术设计制作(游戏资讯类)
+要求：
+有网站美术设计制作经验。
+能够熟练使用PS，Dreamweaver，Flash等网页编辑软件。
+最好有网站制作能力，熟悉HTML和javascipt，会使用asp和SQL数据库者为佳。
+ 
+最好要专职，长期兼职的要求能够每周保证4个以上的半天和周末到工作场地办公。
+工作地点在西直门和北方交大之间。
+ 
+待遇：
+可以按劳取酬，也可以领取固定工资，待遇从优。
+ 
+联系人：
+许先生
+greatpurple@126.com
+QQ: 154637311

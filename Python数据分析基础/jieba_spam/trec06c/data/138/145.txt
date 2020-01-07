@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <zhuang@ccert.edu.cn>; Fri, 16 Sep 2005 01:55:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <zhuang@ccert.edu.cn>; Fri, 16 Sep 2005 02:07:43 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 17:49:57 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "huang" <huang@mail.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILGxur0zNsvqsqnKv7rztNM0wqXXuc/Cye3N9iDUrdLytP2y6SjNvCk=?=
+Date: Fri, 16 Sep 2005 02:03:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+报到不准确。
+     http://news.sohu.com/20050915/n226961818.shtml
+     本报讯 （记者张寒）昨晨5时许，一男子从中科院高能物理研究所家属楼四层坠楼身亡。死者36岁，一个月前调到北京航天航空大学任教。警方称死亡原因正在调查中。
+     　　昨天中午，在28号楼南侧草地上，有一摊血迹。据在附近看车棚的梅女士说早6点左右，有居民发现该男子尸体并报警，警察赶到后，法医做了鉴定，并将该男子拉走。

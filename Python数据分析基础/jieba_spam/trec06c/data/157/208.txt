@@ -1,0 +1,70 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J65V6j013138
+	for <gu@ccert.edu.cn>; Tue, 20 Sep 2005 03:25:34 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J61MoI086766
+	for <gu@ccert.edu.cn>; Tue, 20 Sep 2005 03:21:51 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J61Hls086762
+	for <gu@ccert.edu.cn>; Tue, 20 Sep 2005 03:21:22 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15003 invoked by uid 512); Mon, 19 Sep 2005 19:29:45 -0000
+Message-ID: <20050919060943.15002.qmail@stu.ee.tsinghua.edu.cn>
+From: cheng@stu.ee.tsinghua.edu.cn
+To: gu@ccert.edu.cn
+Date: Tue, 20 Sep 2005 03:29:45 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEgx+W7qrzGy+O7+qOstefX06Os19S2r7uvyKvM17+80dDXysHP?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+清华计算机，电子，自动化全套考研资料
+北京考易通培训学校是全国第一家从事考研专业课考前辅导的单位，依托北京大学，清华大学，人民大学等在京最高学府的权威师资力量，我们以向考生提供五星级的考试辅导为己任，已经帮助许许多多的考生顺利考上了理想的学校。考易通现已当之无愧地成为考研专业课的第一品牌！2005年暑假，我们成功举办了北大、人大等高校20多个专业的专业课辅导班，为上千名学员提供了专业课方面的优质服务，同时提供考研咨询服务，以及提供最新最全的考研内部资料希望我们的努力能够助你考研成功！！以下资料都是经过我们精心整理,字迹清晰,内容详尽, 音质完美，是最经典的考研资料,请不要错过! 如果这里没有您需要得资料,请告诉我们,我们将一如既往地为考生提供五星级的考试辅导！
+清华计算机考研材料
+1、数据结构讲义;
+2、数据结构学习指导
+3、网络层概述讲义
+4、操作系统笔记;
+5、历年试题
+(其中包括操作原理，编译原理，计算机原理，计算机系统结构，数学逻辑，数据结构与程序设计等。)
+6、严蔚敏习题集详细答案;
+7、有关复试的情况.
+清华电子系全套资料
+1、信号与系统课堂笔记;
+2、信号与系统习题答案;
+3、模电课堂笔记;
+4、模电详细答案;
+5、电子系部分历年考题;
+6、资料光盘一张.
+(内有大量复习资料,包括数电,模电,电路原理等)
+清华自动化全套考研资料
+1、信号与系统分析笔记
+2、电路历年考研真题分类详细解答
+3、电路原理讲义笔记
+4、自动控制原理讲义
+5、现代控制理论讲义
+6、数字电子技术基础讲义
+7、模拟电子技术基础讲义
+8、清华本科生电路习题集(含答案)
+9、清华本科生电路期中期末考题
+10、自控考研真题(90―2000)
+11、电路历年考研真题(90―2001年)
+以上资料都经过精心整理，字迹清晰，是最经典的考研资料，请不要错过!
+电话：010-62754869
+QQ：279214823
+邮箱：jypx666@163.com 
+考研网址：http://www.kaoyitong.com
+祝学习进步，考研成功！

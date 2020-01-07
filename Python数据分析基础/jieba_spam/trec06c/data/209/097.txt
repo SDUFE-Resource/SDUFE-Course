@@ -1,0 +1,38 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3DEnC011057
+	for <lai@ccert.edu.cn>; Fri, 30 Sep 2005 13:11:42 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U37j6F080151
+	for <lai@ccert.edu.cn>; Fri, 30 Sep 2005 13:06:29 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U37hcH080147
+	for <lai@ccert.edu.cn>; Fri, 30 Sep 2005 13:06:11 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509300307.j8U37hcH080147@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodo-f4b2088bd3) (ksj00@202.112.4.221)
+	by localhost with SMTP; Fri, 30 Sep 2005 05:18:36 -0000
+Date: Fri, 30 Sep 2005 13:18:10 +0800
+From: "wua" <wua@mails.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/yz7K7trXEyMux7bDXo6zItLG7ut263bXE0N/I6MHL0ru3rKGj?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j8U37hcH080147
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     今天鼓足勇气向喜欢的人表白，被拒了。让我伤心的不是最终的结果，而是她拒完后的表现。一直埋怨我不该挑明，本来还想通过我追我一朋友的。一只觉得自己似乎很强似的，今天才知道在她眼里只是一件随时可以丢弃的工具而已。或许是没有被拒的经验吧，我一直以为女孩在拒绝人后会温柔的安慰一下，至低限度也会什么都不说的走开，可今天我却被整整数落了半个小时。虽然刚刚被拒心里不好受，但我一直强忍着，微笑着听完。但我在想，喜欢一个人不是我的错，即使不被接受，也总不该被人当下人一般骂个没完吧。
+同情你~

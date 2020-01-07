@@ -1,0 +1,25 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <tian@ccert.edu.cn>; Thu, 29 Sep 2005 21:52:28 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 14:03:39 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 22:03:38 CST
+Date: Thu, 29 Sep 2005 22:03:38 +0800 (CST)
+From: liang ming <peng@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMWutPPRp8n6wfey+rrzuPjQtLj4xNDT0bXE0MU=?=
+To: tian@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+         伤害是如此巨大，所以我们女生一定要学会保护自己，善待自己。找个会心疼自己的男朋友，才不会受到伤害。
+     这是我的朋友在看了&lt;女大学生流产后写给男友的信&gt;后,给我发来的邮件,一起发在这里,真诚祝愿那个女生可以走出困境,重拾对爱情的信心,淡忘曾经的伤害,继续上路追赶错失的幸福!!!
+     “ 昨晚你给我发过来的文章我已经看过了，这的确是一篇非常真实的文章，是一个女孩对自己内心真实情感的写照。我想你昨晚辛辛苦苦地打了半天我怎么也该给你说一下我的感受，否则就让你白费力气了。
+    首先我认为一个人往往是在最孤立无助的时候才能更深刻地认识自己以及周围的一切，所以我觉得她这样的做法很好，把自己即时的心情体会记录下来，这样对于自身也是一次反省和提高。人的一生难免要经历各种磨难，关键是你怎么样去面对它，体验它以及如何从中得到提升。
+    其次，从此文中也可以看出女性的柔弱。婷在处于这样的困境之中时却还是在时刻想着那个令她遭受了如此痛苦的男人。她心里总在抱着一线希望：希望那个男人能出现在她面前，来照顾她，呵护她。在文章的结尾她说她将不再爱他，可是我认为至少在写此文时她还是爱着他的。在此我并不是在批评女性的优柔寡断，而是我觉得男女就是有差别的，这是这个世界赋予人类的特性，女孩子的感情可能依赖型更强，更愿意将情感寄托在一些她自己也明知不大可能会实现的人身上。
+    最后当然要批判一下那个男人，对于这种不负责任的人我认为是可耻的。一个人活在世上是会有许多困难，会有许多身不由己的情况。但是无论如何你都应该为自己的行为负责。能否负得起责任是一回事，而是否敢于负责又是另一回事。像他这样的做法：在占有了别人的身体后就躲着不敢出来，这简直是一个最懦弱，最无情的人的做法。在你做一件事前总应该去想一下：我是否有能力去应对未来的后果。如果无法为自己的行为负责那就不要去做。因为最后受伤害的不是你自己，而是别人。我们每一个人都没有权力去伤害别人的。”

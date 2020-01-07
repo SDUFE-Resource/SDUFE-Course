@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <ye@ccert.edu.cn>; Sat, 24 Sep 2005 14:57:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <ye@ccert.edu.cn>; Sat, 24 Sep 2005 15:09:19 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 06:46:19 -0000
+From: "you" <you@mail.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Cc: <hong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILmrvbuztcnPtPO80ra8yMPOu8Lwo78=?=
+Date: Sat, 24 Sep 2005 15:09:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+          我有时挺矛盾的，工作了一天，挺累的。还得坐一个多小时的公交车才能到家，好不容易有个空位，可老人来了（真的不想让，否则就要站一个多小时，越走车上人越多，挺挤的）。可老人就站在自己身旁，不让，老感觉不敢抬头。有时售票员还会特意要求让位，真的不知该怎么办？
+         不会是我现在的道德水平不高吧，以前工作地离家不远时，我是会让位的，毕竟站一会也没什么，年轻啊，可现在一站就是一个多小时，已经忙了一天了，回到家，还是要忙着做饭洗衣服，早点休息，第二天早上六点就要起床上班。
+         不知道大家遇到没遇到这种情况？好像北京的老人还特多。
+看你是怎么想的就怎么做呗，，这种事也拿来讨论感觉没必要。

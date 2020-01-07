@@ -1,0 +1,35 @@
+Received: from sendmail.iclp.com.hk (sendmail.iclp.com.hk [203.193.56.98])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8D9HfCC018617
+	for <su@ccert.edu.cn>; Tue, 13 Sep 2005 23:50:12 +0800 (CST)
+Received: from ebpc1 ([192.168.17.111])
+	by sendmail.iclp.com.hk (8.11.6/8.11.6) with SMTP id j8DNBbb24415
+	for <su@ccert.edu.cn>; Wed, 14 Sep 2005 00:44:03 -0500
+thread-index: AcW4RY0OBhyKhSqsSemwSUmiAKaPGg==
+Thread-Topic: =?gb2312?B?SnVuaXBlcs34wue5q8u+0dC+v7rNvczT/bv6ubnNqNG2MjAwNcTqOdTC?=
+Reply-To: <weng@apac-juniper.net>
+From: "weng" <weng@apac-juniper.net>
+To: su@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjEzyNW5pNf3vMfCvA==?=
+Date: Wed, 14 Sep 2005 00:01:13 +0800
+Message-ID: <8c3801c5b845$8d1d0270$6f11a8c0@ebpc1>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_8C39_01C5B888.9B404270"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Exchange 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+挂失：
+高鑫    51533303     书包 NO.495   黑色，内有两本随机教材，一个笔记本和一本英文小说集
+卢彩波  51532166     其他 NO.689   银色十字架,有孔,约3cm
+包婷    13466605167  文具 NO.215   浅蓝色铅笔盒,一整盒铅笔,3-4支签字笔,1-2支书法笔
+雍容    51531265     钥匙 NO.769   一大串,大的黑色钥匙,小的约2.5厘米
+李瀚杰  51531835     钥匙 NO.770   五把,三把黑色,两把银色
+张健庭  51534803     电器 NO.614   philips手机,银色,触屏
+林志伟  13581803121  证件 NO.1243  IC卡 2005013077
+王鸿钧  51531498     证件 NO.1244  IC卡 2004010480
+送交:
+白玲    51531149     证件 NO.1136  餐卡,帐号为790732

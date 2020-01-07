@@ -1,0 +1,28 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8L7JBf0030307
+	for <fu@ccert.edu.cn>; Fri, 23 Sep 2005 10:45:34 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 10:35:19 +0800
+Message-ID: <327286536.17754@mail.tsinghua.edu.cn>
+Received: from 166.111.203.62 by mail.tsinghua.edu.cn with HTTP; Fri, 23 Sep 2005 10:35:19 +0800
+From: "xu" <xu@mail.tsinghua.edu.cn>
+To: fu@ccert.edu.cn
+Date: Fri, 23 Sep 2005 10:35:19 +0800
+Reply-To: "xu" <xu@mail.tsinghua.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgSUJN0KPUsM+1wdDR3b2yu+GhqrGxtPPVvjnUwjIzyNW+2dDQ?=
+Content-Type: text/plain
+
+时间：2005年9月23日晚19：00
+地点：北京大学英杰交流中心新闻发布厅
+路线：从北大东门进入，先往南走到转弯处，再向西走50米即到
+演讲题目：
+创新价值，“开发”我极限！
+－－我与IBM中国开发中心同行
+主讲：
+毛新生（IBM大中华区及北亚地区软件首席架构师）
+你想参与一个伟大的产品的开发吗?
+你想与一个伟大的团队一起进步吗?
+蓝色巨人将把百年经典与你共享.....
+机会难得，欢迎大家踊跃参与！！
+注：这次演讲和校园招聘无关，主要是给大家一个了解IBM的机会！IBM的校园招聘即将在
+10月中展开，希望大家留意校园BBS。（包括研发、销售、技术支持、咨询等）

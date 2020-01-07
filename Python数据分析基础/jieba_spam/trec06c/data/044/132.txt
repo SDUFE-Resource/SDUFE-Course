@@ -1,0 +1,41 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <guo@ccert.edu.cn>; Fri, 26 Aug 2005 15:32:23 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 15:50:46 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 15:50:46 +0800
+Date: Fri, 26 Aug 2005 15:50:46 +0800
+From: xia@cernet.com
+Subject: =?gb2312?B?UmU6IM7K0ru49mPT79HUzsS8/rXEzsrM4qOs1NrP37XI?=
+To: guo@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+这种中间有空格字符的用fscanf最好不过了
+     标  题: 问一个c语言文件的问题，在线等
+     
+     一个文本文件，内容比如
+     zhang 1001 19 room_101
+     fun   1002 20 room_102
+     Tan   1003 21 room_103
+     ling  1004 21 room_104
+     怎样用C语言把它读进去，我定义结构体的时候，
+     struct student_type
+     {
+       char name;
+       int num;
+       int age;
+       char address;
+     }stud[SIZE];
+     中间两个为整型的时候，读进去是乱码，好像只能作为字符串读进去，但我需要的是整型变量，不知道该怎么处理，请各位xdim指教,我在这里感激不尽！谢谢！
+     --
+     

@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <hua@ccert.edu.cn>; Mon, 22 Aug 2005 23:32:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <hua@ccert.edu.cn>; Mon, 22 Aug 2005 23:45:26 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 15:40:03 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "hu" <hu@mail.tsinghua.edu.cn>
+To: hua@ccert.edu.cn
+Cc: "tunet" <ma@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMjVsb7U57W+zO+089GntefX08+1tcTLtsq/u9i5+rei1bnU9cO00fmjvw==?=
+Date: Mon, 22 Aug 2005 23:41:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+回学校当老师吧
+     标  题: 日本早稻田大学电子系的硕士回国发展怎么样？
+     
+     
+     本科国内一般学校，211工程，
+     硕士日本早稻田大学电子系
+     即将毕业回国
+     在什么单位比较好？
+     月薪大概多少？
+     谢谢！
+     --
+     世界上有10种人：懂10进制和不懂10进制的。
+     

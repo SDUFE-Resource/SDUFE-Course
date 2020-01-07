@@ -1,0 +1,28 @@
+Received: from 163.com (m12-11.163.com [220.181.12.11])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KG4ZiJ024610
+	for <mo@ccert.edu.cn>; Fri, 23 Sep 2005 03:39:19 +0800 (CST)
+Message-ID: <200509210004.j8KG4ZiJ024610@spam-gw.ccert.edu.cn>
+Received: from jn556000 (unknown [218.90.189.12])
+	by smtp12 (Coremail) with SMTP id sLt_sb01MEMy81oE.1
+	for <mo@ccert.edu.cn>; Fri, 23 Sep 2005 03:50:36 +0800 (CST)
+X-Originating-IP: [218.90.189.12]
+Date: Fri, 23 Sep 2005 03:50:30 +0800
+From: "qiu" <qiu@163.com>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?ofEgt7PU6rXEtPPLxA==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+时间总是过的很快的，转眼就大四了
+还没体会大学生活的美好就要进入这个厮杀的阶段
+看着身边的同学们为了那可怜的几分保研加分互相勾心斗角，实在是心寒
+尽管我不用参加这些，或许还可以顺利稳当的拿到保研资格，总觉得亏了很多
+一直梦想着离开这个城市，去北京见识新的世界
+可因为自己的不自信和马虎，葬送了一个又一个的机会
+最后的下场也是可想而知的了
+期待明天的通知，期待成功的喜悦
+不愿意冒险的我在祈祷老天的恩赐
+给我一个机会，我能做的更好

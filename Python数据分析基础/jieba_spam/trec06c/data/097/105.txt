@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <ke@ccert.edu.cn>; Wed, 7 Sep 2005 13:59:42 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <ke@ccert.edu.cn>; Wed, 7 Sep 2005 13:57:58 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <ke@ccert.edu.cn>; Wed, 7 Sep 2005 13:57:38 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Wed, 7 Sep 2005 05:46:50 -0000
+Date: Wed, 7 Sep 2005 14:07:42 +0800
+From: "yan" <yan@mails.tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0ru49sWuyMu1xLGvvuc=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <yuan@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+她邂逅他，欣赏他，喜欢他，为他付出很多很多，把他变成一个男人。他曾对她好过，也说过很多亲密的话语，和对未来的期许。可是，他的情绪是波动的。女人忍无可忍，男人一次又一次的伤害，一次又一次的出尔反尔。她只希望她们可以简单幸福的在一起。可是，她流了太多的泪，留下了太多的无奈。后来，男人出差了，而女人却意外的怀孕了。冷漠的男人多了几许温情，开始问候她的状况。他对她说心中有他们的未来，希望可以平静幸福的生活，女人相信了，她吃了药。可是，那个男人会回来后，无情的否定了自己的话，说那只是为了让她吃药，是骗她的。女人痛不欲生，她曾爱过的男人，却这样残忍的折磨她的身心。她不知道如何面对未来的生活，对爱情，婚姻，不再有信心。这世界，真的如此凄凉吗？

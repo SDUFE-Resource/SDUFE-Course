@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <hu@ccert.edu.cn>; Sat, 24 Sep 2005 08:43:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <hu@ccert.edu.cn>; Sat, 24 Sep 2005 08:54:35 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 00:31:32 -0000
+From: "long" <long@mail.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Cc: <zhao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg06HP8w==?=
+Date: Sat, 24 Sep 2005 08:54:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+   今早八点多下去到桃李吃饭。在七号楼、六号楼和桃李园之间的地带，看到了令我心灵震颤的一幕，所以我忍不住到这里爬上几行。
+   一个哥哥――可能很帅，也可能不帅，因为我只看到他的背影，他骑在自行车上，他在喝一杯豆浆，他上身穿着白色运动衣，他身材矮偏胖，他背着双肩背包，他在骑着车喝豆浆；奥，忘了补充一下，这些都是在我看到那一幕之后，我眼睛所追加的。
+   最初，我只是看到了他很帅的一手，眼睛是这样记录的：他骑在车上喝完了豆浆，用左手信手朝后一送，那个大大的塑料豆浆杯子就落在六号楼后边的冬青丛上边，This is the glance.他骑车走了，我目送着。
+   后来，在我吃饭的时候，脑海中老浮想着这一幕，不知怎么，让我想起了曹植的《白马篇》，“仰手接飞猱，俯身散马蹄”――我说过，他穿着白衣服，骑着自行车，这样分析起来，真是大大的接近，这证明我的联想是属于类比联想。
+   我用罢早餐，出来下意识地朝那儿一瞥，大大的乳白色塑料豆浆杯子静静地斜着身子躺在六号楼后边的冬青丛上睡大觉。
+   那是在8点半左右，好像不用赶课吧，我的帅哥哥？

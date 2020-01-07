@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <tao@ccert.edu.cn>; Fri, 26 Aug 2005 12:54:04 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 13:12:27 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 13:12:27 +0800
+Date: Fri, 26 Aug 2005 13:12:27 +0800
+From: mei@cernet.com
+Subject: =?gb2312?B?UmU6INfyzOzU2tfP1vHUurG7yMvV0sHLvNnHrg==?=
+To: tao@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+台湾版的都能看出来，牛！
+     昨天和老公去紫竹院玩，在莲桥下面的划船游览处被人找了一张台湾版的假钞，面值是五十。那假钞从手感和视感很难分辨的出来，
+     刚开始发现的时候以为也是他们不小心收的假币然后找给了我们，现在想想他们是故意的，因为他们那有验钞机，我在那的几分钟，有好多人在买票，只要是二十以上的钱，他们都用验钞机验。现在想来也许是他们家里的人被别人坑了，然后他们再拿出那张假钞出来坑人，太缺德了

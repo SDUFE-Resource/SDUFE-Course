@@ -1,0 +1,28 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <ke@ccert.edu.cn>; Fri, 19 Aug 2005 03:34:02 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Fri, 19 Aug 2005 03:50:28 +0800 
+Date: Fri, 19 Aug 2005 03:47:04 +0800
+From: "jin" <jin@admin.iscas.ac.cn>
+To: ke@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQvP663M6qxNG1xMrCx+k=?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+  其实吧，Yoga应该比太极拳好一些，虽然我现在都不大可能去练，但是感觉上，
+其实Yoga更有道理也更实用些。BTW：我爷爷打了五十几年太极拳了，今年九十大寿了，
+精神头还好着呢，脑子清晰腿脚什么也都还好，应该说太极拳也是有效的吧。或许打拳
+并不见得好处有多少，但是至少体现了一种生活的态度吧。
+     “恨”不好
+     我是男生，有时候练yoga，我觉得yoga是一个很好的运动
+     对身心都有好处，不过我只是当yoga是一种爱好

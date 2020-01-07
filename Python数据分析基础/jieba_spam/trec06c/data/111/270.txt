@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4tSbr027739
+	for <luo@ccert.edu.cn>; Sat, 10 Sep 2005 17:24:29 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4qb7D090785
+	for <luo@ccert.edu.cn>; Sat, 10 Sep 2005 17:22:03 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4qXBY090781
+	for <luo@ccert.edu.cn>; Sat, 10 Sep 2005 17:21:34 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EDyGt-000FfA-00
+	for toefl@gradinfo.net.edu.cn; Sat, 10 Sep 2005 18:20:28 +0800
+Message-ID: <007a01c5b5c5$4bb2c900$2fcb6fa6@wanglanjia>
+From: "jin" <jin@ns.6test.edu.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILWx0+C7qrXEoba77tfFobex5LPJwcvVxdLVxLG1xKG2u+7XxaG3LSAt?=
+Date: Sat, 10 Sep 2005 17:34:10 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1216707451=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+这个已经争过好多回了。
+两者根本就是两回事，根本没办法放在一起比较。
+                                      当余华的《活着》变成了张艺谋的《活着》
+         最近一两年来已很少读小说，不过余华的小说是个例外，但《活着》我却是到前几天才刚刚读完，而由张艺谋改编的电影《活着》也是近乎在同时看完的。
+         据说张艺谋的这部电影在戛纳等国外电影节中获得过无数大奖，甚至被很多人誉为这是张的颠峰之作。可能是因为对照着小说看吧，这部电影并没有给我太多的触动，甚至非常失望，我难以理解，这样一部片子为何会一直在国内遭禁？这并不是余华的《活着》，尽管故事的架构依

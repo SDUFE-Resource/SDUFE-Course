@@ -1,0 +1,33 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <mei@ccert.edu.cn>; Sat, 24 Sep 2005 15:50:10 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Sat, 24 Sep 2005 07:57:53 -0000
+From: "gong" <gong@mails.tsinghua.edu.cn>
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgQ0lDQyAwNS0wNiBDYW1wdXMgUmVjcnVpdG1lbnQ=?=
+Date: Sat, 24 Sep 2005 16:01:49 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+CICC 2005 -2006 Campus Recruitment Process
+Step 1 Firm presentations on campus
+Step 2 Applying online (the deadline : October 25th, 2005)
+Step 3 Preliminary career talk
+Step 4 English test
+Step 5 Interview
+Step 6 Extending offer letters
+* Please note that the selection process for varied positions may be slightly different.
+CICC Website: www.cicc.com.cn
+CICC Online Application Form: http://careers.cicc.com.cn/cn/campus.htm
+Help desk: talent@cicc.com.cn
+Attached pls find CICC 05-06 Campus Recruitment Brochure.

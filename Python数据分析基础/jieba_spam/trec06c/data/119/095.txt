@@ -1,0 +1,52 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4DiK3027535
+	for <long@ccert.edu.cn>; Mon, 12 Sep 2005 06:15:19 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4B6cm090089
+	for <long@ccert.edu.cn>; Mon, 12 Sep 2005 06:12:53 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.198] (may be
+	forged))
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4B1Dx090072
+	for <long@ccert.edu.cn>; Mon, 12 Sep 2005 06:12:38 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id h31so397064wxd
+	for <long@ccert.edu.cn>; Sun, 11 Sep 2005 15:27:04 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=mK3sh9e2s8urWJV8dr6xYfe+ufEslUV77Fc7xpKe+/83yxpEAIoiFvFoCR39xu4+qkIxnQOkpiVLsdXaRhgPYIDejknAktNZ6Nf+ZoDrA10jgbMS3jc9SjADA4L7KwQSq0UI25YiDaxyftYpvUckSALRpXPPTJr9XNIEiA3yWaM=
+Received: by 10.70.112.2 with SMTP id k2mr34716wxc;
+	Sun, 11 Sep 2005 15:27:04 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Sun, 11 Sep 2005 15:27:04 -0700 (PDT)
+Message-ID: <a00ed980050909212543d66043@mail.gmail.com>
+Date: Sun, 11 Sep 2005 15:27:04 -0700
+From: Shaozhi Ye <you@gmail.com>
+To: long@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMPUw6OhraGt?=
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+	j8A4B1Dx090072
+Precedence: list
+Reply-To: you@gmail.com
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+见了以后你哭，他不改变。
+或者他变主意和你复合，过两天再分手。
+也就这样了。去看版面上damao100的所有帖子。就是你的写照。
+     他提出分手后，我找过他两次想挽回（伤心的哭，但没有闹），他坚持。回来后,我再没有联系他,他也没联系过我。半个月了，我觉得我可以理智的面对他，把想说的话说出来。于是打电话给他，他态度很好，有点出乎我的意料，他说明天中午过来一起吃饭。我能感觉到他的态度没有
+     我现在的心情很复杂，很想见到他，又害怕这次以后不知何时才能再见了，也担心见了他以后什么都说不出来。
+     现在大脑一片空白，不知道见了之后该说什么了……
+     PS：我一直把他当成最亲近的人，他突然的态度转变让我不知所措。我的心中还是想留住他的，但我不会厚颜的纠缠了，我只希望他会好，也会永远对他好……

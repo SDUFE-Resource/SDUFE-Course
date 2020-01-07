@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <feng@ccert.edu.cn>; Sat, 3 Sep 2005 07:23:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <feng@ccert.edu.cn>; Sat, 3 Sep 2005 07:35:42 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 23:24:53 -0000
+From: "xu" <xu@mail.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Cc: <fu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgv7SztcjLtcTG39TCo6zQptfFwffA4Q==?=
+Date: Sat, 3 Sep 2005 07:35:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+   这么好的一个电影为什么会默默无闻。
+   不要说什么不具可比性，比投资浩大，高调宣传，明星四处兜风造势的《七剑》真不知道强到哪儿去了。
+   范伟真是了不起。看过的所有他的角色，总是那么生动饱满，出乎意料然后又暗暗对自己说，这个人就应该是这样的。
+   故事让人信服，不知是剧本的漂亮还是导演讲故事的功力出色。情节流畅自然又抓人。看着范伟的憋屈，想起了《心急吃不了肉豆腐》里的冯巩和《卡拉是条狗》的葛优。他们，还有刚过世的傅彪，都是草根阶层的最好演绎者。看着这样的小人物，我们可以为自己而哭泣。挣扎与无可奈何，生活的愁苦，生命的辛酸使人情难自禁，痛哭失声，这不是看看粗糙的《功夫》，胡编的《七剑》可以相提并论的。说到这里，我觉得香港确实是没文化，或者我孤陋寡闻，没看见过一个使我唏嘘不已的正剧。
+   可惜这样一部电影，在我日常所触媒体上竟然看不见一丁点的评介。

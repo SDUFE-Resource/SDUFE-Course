@@ -1,0 +1,22 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <tao@ccert.edu.cn>; Sat, 20 Aug 2005 17:55:09 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <tao@ccert.edu.cn>; Sat, 20 Aug 2005 18:08:13 +0800 (CST)
+Date: Sat, 20 Aug 2005 18:02:30 +0800
+From: "zheng" <zheng@sohu.com>
+To: tao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsK7Kx9K71tbKssO00fm1xLjQvvWjvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+爱是一种什么样的感觉？
+如果判断是不是爱（喜欢）上她了？
+和她在一起，挺开心的，她好的话较多，和她在一起，我愿意静静地听，有时发表一些意见，有时候想和她说一些事，但听着她的话，听着听着就忘了说我本想说的话。但我并不介愿。
+她的缺点我很明白，但我一点都不介意。
+她会和我讲她父母的事。她说一些关心我的话时，我的感觉很亲切。
+我不知道这是不是爱，我想向她表白，但我不想发生这样的事：和她建立男女关系之后却发现那原本不是爱。

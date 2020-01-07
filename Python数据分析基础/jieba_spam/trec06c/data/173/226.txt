@@ -1,0 +1,43 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <xing@ccert.edu.cn>; Fri, 23 Sep 2005 17:14:03 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 17:03:03 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 17:03:02 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 17:03:02 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 09:03:02 -0000
+From: "luo" <luo@mail.tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INP2tb3V4tbWysLH6dOmuMPU9cO0sOw=?=
+Date: Fri, 23 Sep 2005 17:25:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+一般惯例是谁执笔谁是第一作者。你如果不想写的话就挂个第二
+作者比较合理。既然是博士期间作的工作，严格说成果是属于
+课题组的。
+出书和论文不矛盾。其他人的成果少量的可以按参考文献处理，
+多了就有问题了。
+     博士毕业在一个跟科研没有什么关系对paper没什么要求的单位
+     因此一直没有动力也没有时间整理论文发表文章
+     而导师认为论文中有些东西比较有价值，应该尽快整理发表
+     今日遇见，又提起这事，我说我现在比较忙，没有时间
+     他说让我将论文拿给我师妹整理发表
+     我不愿意但却不知道如何拒绝
+     请教，如果你遇到这类事情，会怎么办
+     背景信息：1.做论文时经导师、同课题组的师兄师妹同意
+                 在实例研究中采用了课题组其他人的成果
+               2.目前单位领导跟导师关系比较好，到这个单
+                 位也跟此有关
+               3.博士延期一年，博士期间因为有些问题对导
+                 师有些看法，但并不存在怀恨
+               4.我想将论文出书，但因为案例部分有他人的
+                 成果，不知道会不会有法律问题，因此这目
+                 前只是一个想法

@@ -1,0 +1,49 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T2QvLi001892
+	for <luo@ccert.edu.cn>; Fri, 30 Sep 2005 14:26:55 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8T2U2h24691;
+	Fri, 30 Sep 2005 14:30:00 +0800
+Message-Id: <200509290230.j8T2U2h24691@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 06:30:00 UT
+To: luo@ccert.edu.cn
+From: gu@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgR0UgSW50ZXJuIE9wcG9ydHVuaXRpZXM=?=
+
+GE Intern Opportunity
+Job Title: Production Engineer
+Location: Beijing
+Degree: 3rd year undergraduate
+Major: Automatization / Mechanical &amp; Electrical; 
+Assignment Period: 6 months
+Opening no.: 1
+Requirements:
+"       Major for Automatization or mechanical &amp; Electrical, have experience for system adjustment and troubleshooting
+"       Familiar with computer control system and different servo control system, understand computer workstation and operation system, skill for relevant measure equipments usage
+"       Understand the theory of RF circuit or wireless and the mean of parameter in the equipments
+"       Know process control and quality control during production.
+"       Scholarship awarded and Relevant intern experience expected 
+"       Actively participate in extracurriculum
+"       Energetic, enthusiastic, detailed-oriented, creative and willing to work hard;
+"       Dedicate to develop own career in a challenging environment.
+Any student interested in the position, please send their resume as attached file to recruit.intern@ge.com, using the subject: "Production Engineer -BJ". (deadline: September 29th)
+Job Title: I/E specialist 
+Location: Beijing
+Degree: 3rd year undergraduate
+Major: International Trading
+Assignment Period: 3~6 months
+Opening no.: 1
+Requirements:
+"       Good communication and problem solving skills
+"       Familiar on computer using, especially on Excel or Database
+"       Scholarship awarded and Relevant intern experience expected 
+"       Actively participate in extracurriculum
+"       Energetic, enthusiastic, detailed-oriented, creative and willing to work hard;
+"       Dedicate to develop own career in a challenging environment.
+Any student interested in the position, please send their resume as attached file to recruit.intern@ge.com, using the subject: "I/E specialist-BJ". (deadline: September 29th)
+     

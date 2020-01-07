@@ -1,0 +1,17 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <mo@ccert.edu.cn>; Sat, 27 Aug 2005 01:58:26 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 02:05:56 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 27 Aug 2005 02:05:56 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sat, 27 Aug 2005 02:05:56 +0800
+From: chi@mail.tsinghua.edu.cn
+To: mo@ccert.edu.cn
+Cc: wu@ccert.edu.cn
+Date: Sat, 27 Aug 2005 02:05:56 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7KuPa826OsuNW9+LTzzeLG89K7sOPSu7j21MLT0LbgydnHrqO/?=
+Content-Type: text/plain
+
+老家教书有这么高工资

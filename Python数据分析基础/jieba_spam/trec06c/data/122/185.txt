@@ -1,0 +1,23 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <qian@ccert.edu.cn>; Mon, 12 Sep 2005 21:13:42 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Mon, 12 Sep 2005 21:25:41 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <qian@ccert.edu.cn>; Mon, 12 Sep 2005 21:25:40 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <bi@dlut.edu.cn>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILrNxam05UdHwbWwrrXEsa+wpw==?=
+Date: Mon, 12 Sep 2005 21:25:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     如果你将这篇文章做一个统计，你就发觉，“钱”字出现的概率很高，220相对于城市是少了一点，但，你想没有想过自己的问题，你有没有在想，220对于他们这样的家庭是一个大数目，还是一个小数目，你总是在想自己的感受，想自己的东西，没有一个为他人设身处地想事情的时候。农村的哥哥应该拒绝这样的女生。如果我是你的男朋友，我立马和你分手。因为你除了小资，还是小资。给彼此机会吧！拒绝城市极度小资的妹妹。
+我也注意到了

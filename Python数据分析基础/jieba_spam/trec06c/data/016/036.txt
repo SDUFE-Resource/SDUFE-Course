@@ -1,0 +1,46 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <wang@ccert.edu.cn>; Sat, 20 Aug 2005 08:53:47 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <wang@ccert.edu.cn>; Sat, 20 Aug 2005 09:06:49 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 09:30:17 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: zheng@126.com
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgwb249m9mZmVyLLzoxNHRodTx1tCjrNLRwdCz9s/qx+mjrMfrtPO80rDvztK31s720rvPwg==?=
+Date: Sat, 20 Aug 2005 09:01:31 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+大家帮我分析分析，谢谢了。
+两个offer,一个是SAS，一个CA
+名气：（个人意见）
+SAS，是全球软件500强中的37位，统计学软件中的老大，现在搞BI，但在中国好像目前名气不大。
+CA，这个在中国名气比较大，我个人认为仅次于微软，ibm,sun,oracle，好像以前是三大软件公司。
+待遇环境：
+SAS给的待遇比CA高10％（主要是有年底奖）
+企业文化：（初步印象，都是听说）
+SAS的人都很nice,公司也组织各种活动让大家形成好的团队。
+听说CA的文化很tough，压力大，但不知道具体指什么，面试的时候感觉CA的人还是挺不错的。
+工作性质：
+SAS目前只有测试和少量国际化开发，所以暂时做不了我喜欢的开发。
+到CA是去做开发，开发数据备份产品，但具体做的事情的性质也不清楚，我估计应该是用VC来作设计与开发吧。
+我的情况：
+25岁，工作三年，小本，非名校，对计算机编程很喜欢，想有一天成为技术大牛。
+我的困惑：
+如果去了SAS：怕几个月不做编程开发，自己生锈了，而且我梦想能去微软，ibm，担心微软的牛们更青睐CA出来的，SAS不太知名，CA的背景更好一点。
+如果去了CA：因为最近看到网上有人说Dell,CA的企业文化比较tough,压力大，企业文化不是很好，我不知道这是说做sales的，还是也包括研发的，我不反感加班，只要让我做喜欢的编程开发工作，我少拿点钱，加加班无所谓，但就怕，钱也少拿了，还没做喜欢的事情，而且文化还不好。PS：另外在这个版上还看到文章说CA试用期裁人，真的假的，社招的出过这种事么？我希望这些都是假的，或者至少研发不是这样。
+欢迎知情的，不知情的，牛的，非牛的大哥大姐指点，批评，引导.
+欢迎跟贴，或者写信给我，也欢迎加我qq:4320727

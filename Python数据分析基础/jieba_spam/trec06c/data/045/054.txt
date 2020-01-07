@@ -1,0 +1,31 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <gao@ccert.edu.cn>; Fri, 26 Aug 2005 18:57:00 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Fri, 26 Aug 2005 10:46:35 -0000
+From: "hua" <hua@mails.tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 19:10:17 +0800
+
+招聘：java高手
+要求
+1、年龄要求 28岁以下
+2、学历要求 正规大学本科以上学历
+专业要求
+（1）精通java开发技术，对MVC、Struts、J2EE、EJB、Servlet、XML等技术了如指掌
+（2）有三以上Java开发经验
+（3）熟悉Oracle数据库
+（4）熟悉WebLogic，WebSphere等主流的中间件产品
+其他要求
+（1）热爱软件开发工作，能够适应高强度开发工作
+（2）性格开朗、善于沟通
+（3）思维灵活、反应敏捷
+（4）善于学习，研发能力强
+联系人：孙友华小姐 电话：82899128-8401 邮件地址：sunyouhua@hirisun.com

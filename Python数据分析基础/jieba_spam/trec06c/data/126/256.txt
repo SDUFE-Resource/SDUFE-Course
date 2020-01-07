@@ -1,0 +1,25 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <hu@ccert.edu.cn>; Tue, 13 Sep 2005 18:55:32 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Tue, 13 Sep 2005 19:07:31 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <hu@ccert.edu.cn>; Tue, 13 Sep 2005 19:07:30 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <qing@dlut.edu.cn>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVv7TN6qG2zNOz9r/LwqG1uqG3?=
+Date: Tue, 13 Sep 2005 19:07:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+这电影我不知道，寡闻了。
+     《逃离克隆岛》上映三周票房平平 被控90处剽窃 
+     据东方早报报道　由梦工厂和华纳兄弟电影公司共同制作发行的科幻大片《逃离克隆岛》在北美地区上映三周以来不仅票房平平，还受到了评论界的攻击。日前，该片更是被控告剽窃1979年的经典科幻电影《复制人》(TheClonusHorror)。
+     　　《复制人》的制作人将梦工厂和华纳兄弟告上法庭，要求纽约法院下令将《逃离克隆岛》撤出影院，并禁止该片进一步发行。《复制人》的制作人还要求获得一定数额的赔偿金和《逃离克隆岛》的部分票房收益。

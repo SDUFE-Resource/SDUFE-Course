@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <ding@ccert.edu.cn>; Wed, 28 Sep 2005 01:53:42 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <ding@ccert.edu.cn>; Wed, 28 Sep 2005 02:05:00 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 27 Sep 2005 17:40:26 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "xu" <xu@mail.tsinghua.edu.cn>
+To: ding@ccert.edu.cn
+Cc: <fan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtE1JVLrNy67EvrbUtP3N9dvztcTMrLbIsrvNrKO/?=
+Date: Wed, 28 Sep 2005 02:04:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+其实看到王垠的文章，我觉得特别象我曾经有过的状态，总觉得自己是个什么人物似的
+但其实那样想的时候，是自己最眼高手低的时候。我一个师兄做的课题我一直很感兴趣
+但是他从来不主张我读博士的时候做这个，说你现在最重要的是发文章，虽然你的想法
+是对的，但是在目前的情况是不可行的。
+想起来资格考试的时候，老师问我对什么问题感兴趣，我说理论，他们问是不是想做数值
+模拟的东东，我“严辞”拒绝，说不，我对解析的问题更感兴趣。虽然说的是实话，可是
+那些教授都很ft。后来要开题，一拿到一个方程，我就想考虑考察一下它的解析性质。
+我的老板也很ft，我师兄其实特别擅长做这样的问题，但是他也告诉我说，你这样的想法
+虽然是终极解决方案，但是不可行，如果就这样开题，肯定过不了的。
+回想起来，越是心浮气躁地希望把问题做大，就越是什么问题都解决不了。我的师兄做得不错恰恰因为他可以静心把程序玩得很顺，把相关的很实际的那些似乎是以发文章为目的的
+问题搞得很清楚，才可以集中注意力到非常有挑战性的部分。
+我想，如果王垠以后一直是那样的认识，到了国外是肯定要失望的。
+     一个有趣的现象是，在水木上有不少人捧王垠，而在MIT BBS上几乎都是一边倒地批王。
+     仔细看看那些捧王垠的，多半都是比较FQ，空喊口号地批驳中国教育制度的。
+     而MIT上发帖子的，基本上都是在国外继续深造过的，明白王垠所批判的东西，其实并不是中国所仅有的，他即使到了美国，他会发现那里跟清华并没有本质的区别：老板照样要你多发文章，因为没有文章就没有资金，没有资金就没钱吃饭；老板也会限制你的选课，因为你选课太多就

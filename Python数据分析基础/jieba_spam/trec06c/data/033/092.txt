@@ -1,0 +1,30 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <ke@ccert.edu.cn>; Wed, 24 Aug 2005 11:35:05 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 11:48:12 +0800 (CST)
+Date: Wed, 24 Aug 2005 11:41:58 +0800
+From: "ke" <ke@sohu.com>
+To: ke@ccert.edu.cn
+Cc: "yxl" <zhu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzqLI7b2r0rvE6sTa1Nq7qsCp1dA4MDDQwtSxuaQgsOvK/c6q0dC3og==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+新浪科技讯 8月24日晚10点，微软中国对外宣布说，在2006财年(2005年7月-2006年6月)，公司将在中国招聘约800名新员工。
+　　其中，一半以上的新聘人员将为研发人员，其他将是销售、市场和服务人员。同时，有近300个职位将面向新毕业的大学本科生、硕士研究生、MBA和博士生。
+ 
+ 
+ 
+   
+ 
+ 
+ 
+　　在2005财年，微软在中国的业务取得了骄人成绩，成为微软全球增长速度最快的子公司之一。
+　　微软公司全球副总裁、大中华区首席执行官陈永正透露，目前，微软中国正在建立更多的研发中心和办事处，运营规模不断扩展。最近，微软又在深圳和福州成立了新的办事处。
+　　员工除了任职微软中国外，微软亚洲工程院也将是一个重要的招聘的单位。微软亚洲工程院在成立不到两年的时间里，员工人数已经快速增长到300多人。

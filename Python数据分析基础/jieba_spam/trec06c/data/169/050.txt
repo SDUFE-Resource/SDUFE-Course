@@ -1,0 +1,45 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <wang@ccert.edu.cn>; Thu, 22 Sep 2005 19:16:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <wang@ccert.edu.cn>; Thu, 22 Sep 2005 19:27:33 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 11:05:05 -0000
+From: "feng" <feng@mail.tsinghua.edu.cn>
+To: wang@ccert.edu.cn
+Cc: <hou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx+W7qrXEuty24L3MytrV5srH0ru147/G0dC+q8nxtrzDu9PQ?=
+Date: Thu, 22 Sep 2005 19:27:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+看了王垠写的  《清华梦的粉碎―写给清华大学的退学申请》
+发现我和他的经历真是非常相似啊，我也是外推的直博
+也曾对清华怀有美好的憧憬
+和王垠一样，我导师也是只认识paper
+曾经有一段时间，他感觉我发paper进度慢，让我把原来写的因为论文再整成几篇中文的SCI发了，被我拒绝了。整天见到我说不了三句话就问：论文写好了么
+？
+终于有一天，我非常得意告诉他：写好了
+接着他问：写好了一篇还是两篇。。。。。。
+我崩溃了
+在清华有什么科研可言啊，一篇论文发了，导师“指导” 我改了一个公式，再投一篇
+更发指的是觉得这还不够本，让我把理论部分和实际结果分成两篇
+从那以后我对科研就毫无兴趣了，而且为了躲避导师的“追杀”曾经一度不想去实验室
+清华的所谓博导的水平之差也是惊人的，有的导师竟然自己带几个博士生的课题谁的都不懂，别说博士生了，经常听到本科到我们组做毕设的师弟师妹说：原来XXX老师什么都不懂啊！我不知道这个老师自己要是知道别人这么评价心里怎么想？
+清华的很多博士导师水平差不说，根本没有科学精神，在他们看来科研就是造论文，而且论
+文是换取名利的唯一手段，而我们这些研究生就是他们的工具
+我个人认为在这么一个腐败的学术环境下，必须有什么东西来约束这些所谓教授
+强烈要求学校取消教授终身制，也像博士生资格考试一样过个两三年考核一下，看看他到底
+够不够当教授的资格！省得那些整天不学无术狗屁不通的人也能通过奴役研究生取得所谓科
+研成果！（不知道那些看到这儿教授是不是会出一身汗呢？呵呵，我只是说说而已，学校根本没有那个胆量，请你不要紧张）
+学校是否自己反省过，你们的提高研究生素质和科研水平的过程中，是不是首先提高一下这
+些教授和副教授的科研素质。其实，阻碍我们实现“世界一流大学”这个目标的障碍就是教师队伍的素质太差！
+说实话，我很佩服王垠，退学我也想过，我确实没有这个勇气
+祝他好运！
+但一切都没有结束，我选择了另一条路，我要留下来，留下来战斗到底！

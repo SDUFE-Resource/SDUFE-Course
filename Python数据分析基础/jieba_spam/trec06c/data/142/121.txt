@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FDF2nP003737
+	for <chi@ccert.edu.cn>; Fri, 16 Sep 2005 19:43:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FDQpvs001563
+	for <chi@ccert.edu.cn>; Fri, 16 Sep 2005 19:55:05 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Fri, 16 Sep 2005 11:36:17 -0000
+Message-ID: <003701c5b9f9$461a6f60$787d6fa6@hotline>
+From: "guan" <guan@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILfuwM+w5dauw/wgx+vKtdHpytK1xMjLs9S3uQ==?=
+Date: Fri, 16 Sep 2005 19:56:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0034_01C5BA3C.5412CED0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+你拿了多少钱的搞费啊？
+     标  题: Re: 奉老板之命 请实验室的人吃饭
+     
+     因为有稿费阿
+     : why你自己花钱？
+     
+     
+     --
+                                             ┌┌    ┐┐
+                                             ││    ││
+                                             ││    ││
+                                             │

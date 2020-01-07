@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <lin@ccert.edu.cn>; Tue, 13 Sep 2005 12:59:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <lin@ccert.edu.cn>; Tue, 13 Sep 2005 13:11:23 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 04:53:56 -0000
+From: "fu" <fu@mail.tsinghua.edu.cn>
+To: lin@ccert.edu.cn
+Cc: <gu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7vfu24LPuyca40MHL0ru74aOsvs241bLF?=
+Date: Tue, 13 Sep 2005 13:11:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+因为逃了没有任何不良后果，不逃要交1000块钱，rp低下一点的人就会选择逃了
+     刚才跟一个高中同学聊天，他是一所著名医院的普通医生，今夜值班。
+     他刚刚送走了一个病人，上消化道大出血死的。我多问了两句，他告诉我本来不是什么大病，可是病人没有钱输血，于是躺在医院的病床上，躺在距离血库咫尺之遥的病床上失血过多而死。
+     我问了问要多少钱，他说400ml血800元，可能还要加上一点其他费用。

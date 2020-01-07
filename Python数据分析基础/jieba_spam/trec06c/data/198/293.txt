@@ -1,0 +1,64 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q8Ih5e007338
+	for <chi@ccert.edu.cn>; Wed, 28 Sep 2005 16:32:03 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q8M1b01723;
+	Wed, 28 Sep 2005 16:35:21 +0800
+Message-Id: <200509260822.j8Q8M1b01723@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 08:35:21 UT
+To: chi@ccert.edu.cn
+From: wei@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhdsbG+qe+szNq159fTv8a8vNPQz965q8u+LUVEQSBTb2Z0d2FyZSBFbmdpbmVlcihQ
+YXJzZXI=?=
+
+“校园招聘大全”(http://www.jobmm.com)独家提供 
+-------------------------------------------------------------------------------- 
+=== 招聘信息 ===
+ 
+ 公司名称:北京铿腾电子科技有限公司 
+ 招聘职位:EDA Software Engineer (Parser/Compiler development[急聘]  
+ 截至日期:2005-11-21  
+ 最低学历:硕士  
+ 招聘人数:人 
+ 工作地点: 北京 
+ 简历投递处: http://www.jobmm.com/cadence/Kuntai_job.asp 
+ 
+岗位描述: 
+Responsibilities:
+Develop, enhance and maintain front end(parser) and database for 
+circuit simulator
+ 
+相关要求: 
+Requirements:
+- Good at compiler principles, Lex/yacc or other lexical/syntax 
+  analyzer experiences
+- Skilled in C++ programming, familiar with development under 
+  Linux/Unix environment.
+- Familiarity with Spice netlist format ,Clearcase, software architecture 
+  and design specifications is better
+- EDA experience desireable, but not required
+- CS or EE Master degree or above
+- Good at English. (CET-6), and some experience working within a software
+  development team.
+   
+--------------------------------------------------------------------------------
+=== 公司详细资料 ===
+ 
+ 公司名称:北京铿腾电子科技有限公司 
+ 企业性质:三资企业  
+ 成立日期:2001-12-18 
+ 注册资金:4800万人民币 
+ 公司网站:http://www.cadence.com.cn 
+ 
+公司简介: 
+ 
+    Cadence Design Systems Inc.是全球最大的电子设计技术(Electronic Design 
+Technologies)、程序方案服务和设计服务供货商。其解决方案旨在提升和监控半导
+体、计算机系统、网络工程和电信设备、消费电子产品以及其它各类型电子产品的设
+计。其总部位于美国加州圣何塞（San Jose），在全球各地设有销售办事处、设计及
+研发中心，现拥有员工约4800名，2003年收入约11亿美元。

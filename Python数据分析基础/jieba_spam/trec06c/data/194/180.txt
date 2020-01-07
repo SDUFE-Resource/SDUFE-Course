@@ -1,0 +1,29 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <ren@ccert.edu.cn>; Tue, 27 Sep 2005 22:33:59 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 14:45:09 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 22:45:09 CST
+Date: Tue, 27 Sep 2005 22:45:09 +0800 (CST)
+From: liang ming <gu@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgz8i5tc2o1Nm31r7TIC8vUmU6IM7StcS76dL2yOfNrLymwN+ho820v+A=?=
+To: ren@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+次序：
+a. 把一些必要生活用品、证件、钱打好包，
+b. 把你的委屈和想法和他好好谈一次，
+c. 如果他不爽甚或动手，拎包走人，
+d. 立刻先在他父母那边抢个原告，态度要温和委曲
+e. 过三个月的分居生活，看你能不能过没他的日子，看他能不能
+过没你的日子
+f1.如果他软化，在亲友斡旋下可以回家
+f2.离婚。
+     我LG是一个典型的大男子主义，一点也不允许我有自己的意见和想法。例如：1开车上班我走辅路，他说为什么不走主路？我说主路更堵，待会出不去，他无语。可是几天后却因为这件事跟我发脾气，说我不听他的话，然后拿这个举例。我真是目瞪口呆啊。2正在给他烫出差穿的衣服，

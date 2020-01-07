@@ -1,0 +1,33 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j889N4UA011087
+	for <luo@ccert.edu.cn>; Sat, 10 Sep 2005 20:24:35 +0800 (CST)
+Message-ID: <200509081723.j889N4UA011087@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO b28d91f81b7b43f) (yang-w04@166.111.203.126)
+  by localhost with SMTP; Sat, 10 Sep 2005 12:11:35 -0000
+From: "lai" <lai@mails.tsinghua.edu.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuLzm1rA=?=
+Date: Sat, 10 Sep 2005 20:39:19 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+In-Reply-To: <000601c5af76$5ea858e0$c0cb6fa6@BAMBOOIBM>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvd6cjZMf6CDhmRji9RlY4vJqTKQE38gdA
+
+招聘兼职JAVA工程师6人 （研二学生）
+ 
+工作性质：兼职
+招聘人数：6人 
+月薪范围：面议 
+招聘对象：各大院校研二学生 ，在大运村附近住宿者优先。
+工作地点：北京    
+职位描述及要求：
+1、    时间充足有保证
+2、    学习能力比较强.
+3、    主要的工作是做html页面,对html\\javascript很熟悉,能手写代码，java好的优先考虑.
+4、    住大运村附近的学生优先考虑。
+请将简历发至：yuanlx@ahm.com.cn；
+联系电话：62625832转152

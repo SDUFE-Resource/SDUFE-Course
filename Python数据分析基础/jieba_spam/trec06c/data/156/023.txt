@@ -1,0 +1,54 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <shen@ccert.edu.cn>; Mon, 19 Sep 2005 18:23:45 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Mon, 19 Sep 2005 10:34:46 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Mon, 19 Sep 2005 10:34:46 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <shen@ccert.edu.cn>; Mon, 19 Sep 2005 03:45:43 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <shen@ccert.edu.cn>; Mon, 19 Sep 2005 05:43:09 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 18:34:33 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <ning@motorola.com>
+To: shen@ccert.edu.cn
+Cc: fan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7rPvK9dILjQvvWyqcq/srvE3LHP0rXBy6Gj?=
+Date: Mon, 19 Sep 2005 18:34:07 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+☆─────────────────────────────────────☆
+   hot286 (rat) (Thu Sep 15 10:35:14 2005):
+我是2001年的直博生，郁闷啊， 现在想退学找工作。大家可以给点意见吗？
+☆─────────────────────────────────────☆
+   smthvv (享受工作&amp;认真生活) (Thu Sep 15 10:37:22 2005):
+坚持吧，那么多年都熬下来了
+     我是2001年的直博生，郁闷啊， 现在想退学找工作。大家可以给点意见吗？
+☆─────────────────────────────────────☆
+   mzh (搬室回巢倒计时) (Thu Sep 15 10:37:22 2005):
+还早呢吧，刚开始第五年
+     我是2001年的直博生，郁闷啊， 现在想退学找工作。大家可以给点意见吗？
+☆─────────────────────────────────────☆
+   hot286 (rat) (Thu Sep 15 10:38:21 2005):
+关键是一篇sci都没有， 而且对做研究失去了兴趣。
+     还早呢吧，刚开始第五年
+☆─────────────────────────────────────☆
+   eddywx (puppy) (Thu Sep 15 10:46:19 2005):
+兄弟同情啊，这个做学问是没有办法强求得，没有兴趣基本上
+就是没有必要再在里面苦熬了，人很多时候放不下这放不下那，
+痛苦的根源也在于此吧，有很多博士自杀，至少里面有这种因素，
+苦海无边，回头是岸，兄弟自重！
+     关键是一篇sci都没有， 而且对做研究失去了兴趣。
+☆─────────────────────────────────────☆
+   alcohol (酒鬼小新

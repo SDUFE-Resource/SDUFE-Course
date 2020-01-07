@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J3gCnM014711
+	for <gan@ccert.edu.cn>; Mon, 22 Aug 2005 14:15:33 +0800 (CST)
+Received: (eyou send program); Mon, 22 Aug 2005 14:23:30 +0800
+Message-ID: <324423409.11928@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 22 Aug 2005 14:23:30 +0800
+Message-ID: <324423409.11903@mail.tsinghua.edu.cn>
+Received: from 202.112.4.166 by 166.111.8.18 with HTTP; Mon, 22 Aug 2005 14:23:30 +0800
+From: peng@mail.tsinghua.edu.cn
+To: gan@ccert.edu.cn
+Date: Mon, 22 Aug 2005 14:23:30 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgs8+9yUphdmG5pLPMyqa808jrztLDx7XEzcW20w==?=
+Content-Type: text/plain
+
+    商助科技是一家互联网高科技公司，由美国留学人员回国创建，现位于清华大学高科技创业园内。创建以来发展迅速，有多家知名企业在使用我们的服务，包括百度、当当等；多个风险投资商都表示了浓厚的投资意向。我们寻求志同道合的人士加盟我们的事业。
+  
+Java程序员：
+  * 本科以上学历，计算机或其他理工专业
+  * 对技术工作有浓厚的兴趣，并具备软件从业人员的优秀品质，如敬业、钻研、互助等精神
+  * 良好的团队工作意识和沟通能力
+  * 精通JAVABEAN、JSP、SERVLET、JAVASCRIPT、HTML
+  * 熟悉 ORACLE 或 MYSQL 数据库
+  * 一年以上相关经验
+联系方式：resume@shangzhu.com

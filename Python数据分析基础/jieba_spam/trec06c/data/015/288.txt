@@ -1,0 +1,56 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <hou@ccert.edu.cn>; Sat, 20 Aug 2005 08:11:46 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <hou@ccert.edu.cn>; Sat, 20 Aug 2005 08:25:04 +0800 (CST)
+Date: Sat, 20 Aug 2005 08:19:09 +0800
+From: "guan" <guan@sohu.com>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsObJz9PQ0Na13NS40uLAtE9yYWNsZSjJ7tvaKbmk1/fC8KO/1dDK28ewucvOytK7zrsgKNeq
+1Ngp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+【 以下文字转载自 WorkLife 讨论区 】
+发信人: BankerSjtu (小王子), 信区: WorkLife
+标  题: 版上有兄弟愿意来Oracle(深圳)工作吗？招售前顾问一位
+Oracle深圳研发中心招人啦。 
+简历请发到: steven.zhou@oracle.com
+工作地点在深圳。谢谢。
+POSITION TITLE: Sales Consultant (Database)
+DEPARTMENT: iTech, Shenzhen, China
+REPORTING TO (TITLE ONLY): Sales Consulting Manager
+POSITION SUMMARY
+・Support business development and transactional sales for Oracle Technology solutions by creating Proof of Concepts (POCs), demonstrations, scripts and presentations. 
+・Architect and deploy technology initiatives that;
+・encourage Oracle Technology presales support in the sales cycle,
+・empower the Sales Reps,
+・assist management by driving business development
+・provide for enhanced reporting. 
+・Design and develop prototypes and working demonstrations using Oracle technology to support sales opportunities and business development initiatives
+・Use technical development skills in support of business and sales initiatives in database design and programming, high availability (RAC), data warehousing solutions;
+・Learn and maintain in depth knowledge of Oracle Technology, and transfer such knowledge to other Sales Consultants, Sales Reps, and Oracle customers and partners. 
+・Design, build and deliver Sales Program materials such as training and iSeminar presentations and demonstrations. 
+・Mentor junior members, if any.
+EXPERIENCE
+・4+year\'s Oracle DBA experience essential
+・4+ years system admin experience on Unix/Linux environments strongly desired
+・Solid knowledge of hardware including storage/network highly valued
+・Knowledge in Oracle RAC9i/10g are strongly desired 
+・OCP certification highly valued
+・Ability to learn new technologies essential
+・Compatible interpersonal skills and multi cultural sensitivity essential
+・Ability to adapt to a rapidly changing, progressive organization essential 
+・Comprehensive knowledge of Oracle\'s technology products highly valued
+・Ability to work independently and with a team
+・Ability to work to a deadline within loose project guidelines required 
+・Self motivated, desire to learn independently required
+・Strong communication and training skills required
+・Competitive product knowledge is highly regarded
+・Ability to travel occasionally
+・Fluency in Mandarin 

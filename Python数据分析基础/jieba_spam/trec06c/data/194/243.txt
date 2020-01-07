@@ -1,0 +1,20 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <rao@ccert.edu.cn>; Tue, 27 Sep 2005 23:23:25 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 15:34:32 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 23:34:32 CST
+Date: Tue, 27 Sep 2005 23:34:32 +0800 (CST)
+From: liang ming <tan@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM7StcS76dL2yOfNrLymwN+ho820v+A=?=
+To: rao@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+沟通，需要沟通。 好多的事情就是因为一点点儿的小事儿，小误会的。。。
+     我LG是一个典型的大男子主义，一点也不允许我有自己的意见和想法。例如：1开车上班我走辅路，他说为什么不走主路？我说主路更堵，待会出不去，他无语。可是几天后却因为这件事跟我发脾气，说我不听他的话，然后拿这个举例。我真是目瞪口呆啊。2正在给他烫出差穿的衣服，他突然说要找什么东西，我说待会帮你一块找，马上好。可是又发脾气，说反正我骨子里老想做主，就是不听他的话。诸如以上种种，不胜枚举。我现在真是无可奈何了，觉得自己已经成了一个木偶似的，可是他还是不满意，感觉自己的生活没意思也没意义，很苦闷。也知道这样的? 橐鲆丫

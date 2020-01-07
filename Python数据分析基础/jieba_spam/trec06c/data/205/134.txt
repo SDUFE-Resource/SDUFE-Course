@@ -1,0 +1,111 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <shi@ccert.edu.cn>; Thu, 29 Sep 2005 18:36:51 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 10:48:02 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 18:48:01 CST
+Date: Thu, 29 Sep 2005 18:48:01 +0800 (CST)
+From: liang ming <ye@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM/juNu159OwvefX7se/1fPI3cfjx+m37s/XW9eq1Nhd?=
+To: shi@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+豪门夜宴 1991 演职员表：
+导演徐克 Hark Tsui    
+张同祖 Tung Cho \'Joe\' Cheung    
+张坚庭 Alfred Cheung    
+高志森 Clifton Ko    
+演员巩俐 Li Gong   Herself/Waitress at banquet 
+吴宇森 John Woo   Man on Stairs 
+张曼玉 Maggie Cheung   Dancer 
+张国荣 Leslie Cheung   Himself/Little B-head 
+洪金宝 Sammo Hung Kam-Bo   Hung Tai-Po 
+陈友 Anthony Chan   Himself 
+陈百祥 Pak-cheung Chan   Man Feeding Dog 
+陈欣健 Philip Chan   Policeman 
+张艾嘉 Sylvia Chang   Herself 
+郑裕玲 Carol \'Do Do\' Cheng   Mimi 
+张学友 Jacky Cheung   Jacky 
+姜戴维 David Chiang   Party Guest 
+程小东 Siu-Tung Ching   Man at Dinner 
+赵雅芝 Angie Chiu    
+楚原 Yuen Chor   Man on Stairs 
+周星驰 Stephen Chow   Himself 
+玛莉亚 Maria Cordero   Woman with Michael Hui 
+关之琳 Rosamund Kwan   Gigi 
+惠英红 Kara Hui   Servant 
+许冠文 Michael Hui   Himself 
+Josephine Koo   Photographer 
+葛民辉 Eric Kot   English Teacher 
+谷峰 Feng Ku   Man at Dinner 
+Hoi-Shan Kwan   Uncle Chicken Roll 
+泰迪・罗宾 Teddy Robin Kwan   Soccer Player 
+郭富城 Aaron Kwok   Little B-head\'s Brother 
+黎明 Leon Lai   Cook 
+林子祥 George Lam   Prince Alibaba of Kuwait 
+Meg Lam   Servant 
+林海峰 Jan Lamb   English Teacher 
+刘德华 Andy Lau   Presenter 
+Billy Lau   Soccer Player 
+刘嘉玲 Carina Lau   Dancer/Woman at Dinner 
+刘兆铭 Siu-Ming Lau   Wong 
+Heung Kam Lee    
+Hoi San Lee   Man at Dinner 
+李丽珍 Loletta Lee   Girl at Table 
+李子雄 Waise Lee   Party Guest 
+梁朝伟 Tony Leung Chiu Wai   Wai 
+梁家辉 Tony Leung Ka Fai   Leung 
+Angile Leung   Policewoman 
+梁家仁 Ka-Yan Leung   Man at Dinner 
+Hon-Lam Pau   Uncle Lotus Seed Bun 
+刘家良 Chia-Liang Liu   Master Lau/Uncle Nine 
+罗美薇 May Lo Mei-Mei   Waitress 
+Lowell Lo   Cab Driver 
+陆剑明 Jamie Luk   Vassal 
+麦嘉 Karl Maka   Mak 
+Mars   Man at Table 
+毛舜筠 Teresa Mo   Herself 
+梅艳芳 Anita Mui   Herself 
+吴君如 Sandra Ng Kwan Yue   Waitress 
+吴启华 Lawrence Ng   Party Guest 
+吴孟达 Man Tat Ng   Cook 
+吴耀汉 Richard Ng   Siu-Chi\'s Father 
+李嘉欣 Michelle Reis   Kar-Yan Li 
+Shum Kin Sang   Curly 
+沈殿霞 Lydia Sum   Aunt Bill 
+Alan Tam   Prince Alibaba of Kuwait (in dream sequence) 
+狄龙 Lung Ti   Waiter 
+曾志伟 Eric Tsang   Tsang Siu-Chu 
+曾江 Kenneth Tsang   Waiter 
+董骠 Bill Tung   Uncle Bill 
+Barry Wong   Man at Table 
+Gabriel Wong   Vassal 
+Goon Chung Wong   Band Member 
+黄沾 James Wong   Food Vendor 
+王祖贤 Joey Wong   \'Honey\', Jacky\'s wife 
+Ka-Kui Wong   Band Member 
+Kar-Keung Wong   Band Member 
+黄光亮 Kwong Leung Wong   Robbers 
+黄锦荣 Melvin Wong   Party Guest 
+黄百鸣 Raymond Wong   Forty 
+Wan-Si Wong   Servant 
+Fung Woo   Old Man 
+吴大维 David Wu   Jogger 
+任达华 Simon Yam   The Gigolo 
+叶倩文 Sally Yeh   Herself/Relative at banquet 
+Pauline Yeung   Party Guest 
+叶蕴仪 Gloria Yip   Party Guest 
+Sai-Wing Yip   Band Member 
+袁洁莹 Fennie Yuen   Waitress 
+袁和平 Woo-ping Yuen   Man at Dinner 
+Mimi Zhu   Party Guest 
+     ft
+     又不是第一次搞这种怪
+     查查《豪门夜宴》

@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <kang@ccert.edu.cn>; Fri, 2 Sep 2005 17:36:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <kang@ccert.edu.cn>; Fri, 2 Sep 2005 17:48:52 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 09:37:27 -0000
+From: "lei" <lei@mail.tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+Cc: <yuan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbBsqnSu8C0tdrSu7TO1ebV/dDEt7M=?=
+Date: Fri, 2 Sep 2005 17:48:46 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+其实工作了，工作方向很窄，并不会太多要求，博士很多情况下是浪费
+如果不能独当一面，精通甚广，很难在企业找到适合职位
+如果你的意向是在学校工作，读博士那使必要的，如果还想出来，建议不用读博士
+要想在三/四年间在学校的环境下成长为牛人，难哪
+     嗯，我已经意识到了编写程序，是作为工科学生的基本能力了我回用心学的：）hitboy放心，大家放心
+       我现在是觉得如果我读博士going on，出来基本上是不是就是从事项目研究或是任教啦？我挺喜欢做老师，而且自觉表达能力强，容易和人交流，也挺有亲和力，当我希望等我3or40之后成为一名老师，我想趁自己年轻的时候踏入社会磨练一下！！如果我几年后博士毕业，估计我想磨练都没有人给我着个机会啦？？是吗？
+     人家一看博士，女，唉，我不想一辈子只在学校待过，（学校挺好，老师有假期，可以照顾家里，陪陪lg和babamama）可我希望趁年轻的时候出去瞧瞧，觉得一下子就订了一辈子是不是太～～～～

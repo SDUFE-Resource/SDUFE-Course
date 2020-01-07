@@ -1,0 +1,31 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <ou@ccert.edu.cn>; Tue, 20 Sep 2005 12:06:41 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 04:17:42 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 04:17:42 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <ou@ccert.edu.cn>; Mon, 19 Sep 2005 21:28:39 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <ou@ccert.edu.cn>; Mon, 19 Sep 2005 23:26:05 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Tue, 20 Sep 2005 12:17:29 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <long@motorola.com>
+To: ou@ccert.edu.cn
+Cc: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEg0qrOqsfp19TJsbXExa7X08/rzajBy6Oho62jrc7Sw8fH7sjLvNK1xLqi19M=?=
+Date: Tue, 20 Sep 2005 12:17:03 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+在大家的帮助下，我们把她送到老家去了，在海南农村，其实他们两个很不配的，我朋友26，那个男的23，岁数差很多，而且那个男的是硕士研究生，我朋友只是高中毕业而已，不过确实很漂亮。当初我们都没有看好，那个男的说，就当是多夜情了，也不愿意负责任，我们没什么门路，也不想给那个男的难堪，只想找个地方给大家说说而已，希望得到大家的同情。我们也想说，爱情这个东西是讲究门当户对的，我们穷人家，没文化的女孩只能嫁给民工，没有给大城市的高学历知识分子们当女朋友的资格！我们穷人家的孩子就活该打破了门牙往肚子里面咽。

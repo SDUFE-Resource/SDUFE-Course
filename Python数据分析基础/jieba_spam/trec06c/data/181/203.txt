@@ -1,0 +1,33 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <feng@ccert.edu.cn>; Sun, 25 Sep 2005 03:54:01 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Sat, 24 Sep 2005 20:01:44 -0000
+From: "luo" <luo@mails.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgSUJN0KPUsM+1wdDR3b2yu+GhqrGxtPPVvjnUwjIzyNXN7TE5OjAwvtnQ0Cy7+rvhxNG1w6Oh?=
+Date: Sun, 25 Sep 2005 04:05:40 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+主题：IBM软件开发相关（题目待定）
+时间：9月23日晚19：00
+地点：北京大学英杰交流中心新闻发布厅
+演讲题目：创新价值，“开发”我极限！
+----我与IBM中国开发中心同行 
+主讲嘉宾: 毛新生（IBM大中华区及北亚地区软件首席架构师）
+你想参与一个伟大的产品的开发吗?
+你想与一个伟大的团队一起进步吗?
+蓝色巨人将把百年经典与你共享.....
+机会难得，欢迎大家踊跃参与，谢谢！
+注：IBM的校园招聘即将在10月中展开，希望大家届时密切关注校园BBS。（包括研发、销售、技术支持、咨询等）
+温馨提示：今天晚上有雨，请大家备好雨具，谢谢！

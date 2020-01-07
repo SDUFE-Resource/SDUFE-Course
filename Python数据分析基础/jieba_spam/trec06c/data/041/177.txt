@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <zhang@ccert.edu.cn>; Fri, 26 Aug 2005 03:09:41 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 03:28:04 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 03:28:04 +0800
+Date: Fri, 26 Aug 2005 03:28:04 +0800
+From: liu@cernet.com
+Subject: =?gb2312?B?UmU6ILnY09rV0rmk1/e1xNK7tePU08y4?=
+To: zhang@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+有道理！
+         又到了找工作的时间了。以前自己找工作的时候的一些感想也很想在这里说说。说不定会对师弟师妹们有用。
+         首先一点，千万不要完全相信传闻中的行业收入。那里面相当多的一部分是有夸大的。你仔细看看，大多数的人的信息来源都是听说，真正在这个行业里的人自己出来说的很少，这种二手的消息是不准的，而且传闻中间忽略了很多关键性的信息，比如年薪二十万，可能是工作四五年后的层次，一个企业里面收入的多少跟年限，岗位，工作表现息息相关，肯定不是一个数字能完全概括的。很多时候同一企业里面不同部门之间的差异可能有四到五倍。笼统地说哪个单位怎样没有任何意义。所以，你可以选择一个行业，但是千万不要随着传闻走。

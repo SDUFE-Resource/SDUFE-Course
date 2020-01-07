@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <chi@ccert.edu.cn>; Wed, 28 Sep 2005 16:51:24 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <chi@ccert.edu.cn>; Wed, 28 Sep 2005 17:02:42 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 28 Sep 2005 08:38:08 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "su" <su@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <ou@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtE1JVLrNy67EvrbUtP3N9dvztcTMrLbIsrvNrKO/?=
+Date: Wed, 28 Sep 2005 17:02:37 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+区别当然有，要不然出来干什么？
+我的意思就是在这种压力上，在国外和在国内没有本质区别，我说王垠的问题是意识不到
+这种压力是必然的，总以为是因为清华教育失败的产物，但是怎么说呢，退一万步，即使
+清华教育失败，也不是失败在他老板让他发文章上
+     要让欧说多少遍啊 压力哪里都有，但是文章或者老板可能是有区别的，所以，相同的压力，或许心情并不相同  就像我认识的一位老兄，他其实做学问不错的，如果他在国外做 教授，可能会过的不错；可惜他在清华，36岁就去世了

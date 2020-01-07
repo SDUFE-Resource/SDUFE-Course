@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85Brq7S017804
+	for <zhao@ccert.edu.cn>; Tue, 6 Sep 2005 02:21:02 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j85C6Fu5015902
+	for <zhao@ccert.edu.cn>; Tue, 6 Sep 2005 02:33:25 +0800 (CST)
+Message-Id: <200509051206.j85C6Fu5015902@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 18:19:51 -0000
+From: "wang" <wang@mail.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Cc: <ye@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7StcTLs7L6vMejqDajqQ==?=
+Date: Tue, 6 Sep 2005 02:33:17 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5B255.40DC4970"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWyEjKLgqxyovE3TYCvYclclUUw1Q==
+
+从我在产房里待着陪产我老婆的经历看
+我觉得有很多医生还不如经验丰富的接生婆
+也许还是应该有接生婆这个职业
+另外，据说男医生接生比女医生反而好？
+呵呵，我老婆生的时候是有男医生在的
+而且检查宫口，当时ft了半天
+不过没说啥，主要是后来对别的
+太有意见了
+        被推出产房后我睡了三个小时就能爬下床找替换的衣物了，除了觉得挺虚的，并没有太多不适。与我形成鲜明对比的还是那个麻醉师的LP，她就在我隔壁病房，在我第二天抱着孩子送到护士站让护士们喂奶的时候，她还不能坐起来，我出院的时候又碰到她婆婆，据说还得再住好几

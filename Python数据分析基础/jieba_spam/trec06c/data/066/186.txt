@@ -1,0 +1,41 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <ma@ccert.edu.cn>; Thu, 1 Sep 2005 18:55:20 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <ma@ccert.edu.cn>; Thu, 1 Sep 2005 19:07:56 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 10:56:31 -0000
+From: "weng" <weng@mail.tsinghua.edu.cn>
+To: ma@ccert.edu.cn
+Cc: <yu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob5TVFbXqrKlob+jqDkuM6OtOS40o6kyMDA2xOrKwL3nsa3Ft9bex/jUpNGhyPwgKNeq1Ngp?=
+Date: Thu, 1 Sep 2005 19:07:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: stvnet (清华大学学生网络电视), 信区: THUInfo
+标  题: 【STV转播】（9.3－9.4）2006年世界杯欧洲区预选赛
+发信人: stvnet (清华大学学生网络电视), 信区: STVNET
+标  题: 【STV转播】（9.3－9.4）2006年世界杯欧洲区预选赛
+本周末欧洲各大联赛为2006年世界杯欧洲区预选赛让路休战，但国家队的比赛一点不比俱乐部的比赛逊色，为方便清华校内没有电视但能联网且又关注2006年世界杯欧洲区预选赛的广大用户收看现场直播，学生网络电视（STVNET）将调整电视转播频道，对赛事进行转播！欢迎大家通过学生清华视听媒体专区的网络电视转播直击现场！
+本周末的球赛转播表如下（均为北京时间）
+9月3日
+21:50:00 2006年世界杯欧洲区预选赛(威尔士队-英格兰队) 
+9月4日
+00:20:00 2006世界杯欧洲区预选赛(苏格兰队-意大利队) 
+02:30:00 2006世界杯欧洲区预选赛(土耳其队-丹麦队) 
+具体收看办法：
+点击学生清华视听媒体右部顶端的“电视转播”下的“Gridmedia”蓝色背景图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+　　1.选择“打开”(或者OPEN/RUN)等本地打开按钮直到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网电视频道1台)”频道收看这场直播。
+　　2.选择“保存”(或者SAVE)等按钮保存到您的计算机上，运行保存下来的“Gridmedia学生网络电视版”程序，即可看到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gidmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网电视频道1台)”频道收看这场直播。
+　　另外由于将从远处服务器以及一些动态的转发节点获得数据，所以在选择频道弹出windows media player播放器后，您会看到播放器下端将出现“正在连接到媒体...”字样以及后来的“缓冲 XX％”字样，此时请您耐心等待数据的接收。
+　　为保证您的收看效果，建议安装windows media player 8.0或以上版本。
+                                                        学生网络电视
+Enjoy！

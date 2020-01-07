@@ -1,0 +1,31 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <feng@ccert.edu.cn>; Wed, 28 Sep 2005 09:53:07 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 02:04:14 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 10:04:14 CST
+Date: Wed, 28 Sep 2005 10:04:14 +0800 (CST)
+From: liang ming <long@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgx/PH87j3zrujrMenzfKyu9Kq1Nm4+M7St6LQxcHLICjXqtTYKQ==?=
+To: feng@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+【 以下文字转载自 PieLove 讨论区 】
+发信人: hello (^_^), 信区: PieLove
+标  题: 求求各位，千万不要再给我发信了
+自从俺这个账号注册一来，不断收到陌生人的来信。这些来信基本有个
+共同的特点：邮件名称貌似某人ID，邮件内容多为交友、相亲。
+经过俺三翻四次研究，总算弄明白了，这些信原来大多是两个pie版的应征
+信件，但没有直接在版上回复到邮箱，而是在邮箱选单中新写邮件，结果
+又粗心的把收件人ID和信件题目弄反了...最终结果就是把邮件发到我的信箱
+了。初期，我还好心的回信告知，后来实在有点多，就不再回复了。
+呜呜，就为这事，差点弄得我们夫妻反目啊。
+乡亲们呐，求求你们了，下次回信时，就算不会版面回复，也一定要看清楚
+收件人和信件题目啊！！
+不用有劳各位了，我自己转到另一个pie版和joke版.

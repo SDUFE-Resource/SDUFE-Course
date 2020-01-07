@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KNVQWO026957
+	for <lai@ccert.edu.cn>; Thu, 22 Sep 2005 08:16:27 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8KNgrSA012901
+	for <lai@ccert.edu.cn>; Thu, 22 Sep 2005 08:27:58 +0800 (CST)
+Message-Id: <200509202342.j8KNgrSA012901@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 00:06:14 -0000
+From: "pu" <pu@mail.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Cc: <lai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvNxtHQ0MXPol3H5buqtPPRp76r0sfPtbW8ur28vMr1uaSzzNbQ0MQ=?=
+Date: Thu, 22 Sep 2005 08:27:46 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0056_01C5BE80.0E54D8A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW+PP+dE9Zps0Q1RamkdUKgZkzF9Q==
+
+这是精仪系么？
+怎么在系主业上看不到这个中心？？
+     欢迎同学们推研到清华大学导航技术工程中心
+     清华大学导航技术工程中心简介
+         清华大学导航技术工程中心的科研方向主要为运动体导航、制导与控制的惯性仪表和系统，MEMS惯性仪表及其组合、惯性定位定向系统研究等。中心承担的"快速定位定向车"项目获1999年北京市科技进步一等奖。目前中心承担着国防重大攻关项目"*****工程化研究"和多项863项目

@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <jin@ccert.edu.cn>; Wed, 28 Sep 2005 06:31:32 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 22:42:39 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 06:42:39 CST
+Date: Wed, 28 Sep 2005 06:42:39 +0800 (CST)
+From: liang ming <hong@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INbQufrRp8r11sa2yL6/vrnU9cO0xOPDx8HLo78=?=
+To: jin@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+我觉得洪老师说得很对，４篇论文对于工作５年的博士生来说不算多。
+基本上是一个合理的评价标准（至少在清华），现在清华已经从单纯的追求数量转化为对质量的追求，这就是一个发展的过程，就目前的情况来看，数量的要求不算过分，对质量的考核(SCI,EI)也是一种可行的标准。任何一种制度都是不完善的，都是螺旋式的上升的，不可能一口吃个nobel，我们的基础力量不够，换句话说就是我们的paper还不够多，还不够牛，在学术界的影响还太小，量变到质变的发展需要时间。
+没有paper就没有学术交流，没有学术交流，科研就是一潭死水，我们要的就是多出paper,多出好paper,建立国际声誉，这才是我们现在能做的！
+     各位敬佩王垠敢于挑战不良制度得来说说？
+     我看看除了钱发的太少没有不合理的地方？除了paper数哪位能给出一个客观标准衡量博士期间完成的工作量的？别整天吃肉骂娘地控诉吃人的社会，要控诉就拿出新的建议来。共产主义社会的想干嘛干嘛想有啥来啥的就免了。

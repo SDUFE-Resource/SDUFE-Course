@@ -1,0 +1,25 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U2OGpf004571
+	for <zeng@ccert.edu.cn>; Thu, 1 Sep 2005 15:00:11 +0800 (CST)
+Received: (qmail 5721 invoked from network); Thu, 1 Sep 2005 07:11:51 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 07:11:50 -0000
+Message-ID: <001101c5ad0b$dfe7c0c0$e900a8c0@d47db5334f2a479>
+From: "liao" <liao@jdl.ac.cn>
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjIwdK7ttOtyv3Rp8+1oaLJ+s7vz7Whoruv0afPtbHP0rXJ+rW91tzF4NS006bTw8r90afR
+0L4=?=
+Date: Thu, 1 Sep 2005 15:14:10 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+...
+     热烈欢迎数学系、生物系、化学系毕业生
+     到周培源应用数学研究中心攻读博士学位（直博生）
+     清华大学周培源应用数学研究中心（以下简称"中心"）是清华大学在2002年设立的开展交叉基础科学研究的实体。它的宗旨是：推动数学和经验科学的学科交叉、渗透与合作研究，促进清华大学应用数学和经验科学的发展；增强清华大学科学研究的交叉性、科学性和前瞻性，活跃学术

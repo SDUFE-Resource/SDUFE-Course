@@ -1,0 +1,39 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <zheng@ccert.edu.cn>; Wed, 28 Sep 2005 02:50:16 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Tue, 27 Sep 2005 19:01:10 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Tue, 27 Sep 2005 19:01:10 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <zheng@ccert.edu.cn>; Tue, 27 Sep 2005 12:12:17 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <zheng@ccert.edu.cn>; Tue, 27 Sep 2005 14:08:43 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Wed, 28 Sep 2005 03:00:58 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <tang@motorola.com>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM31zazRp7XEYmxvZ7j80MLByw==?=
+Date: Wed, 28 Sep 2005 03:00:33 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+该同学适合去做社会学研究。
+有不少人觉得王同学意见提得很对，中国科研环境不好，以追求paper为目的了，于是中国的科研体制不科学，限制了人发展……
+个人觉得这个实在可笑。
+制度是否好不好？从现实的意义来说，倘若你觉得不好，认为有好的请提出一个来，有执行能力的。不用建立王同学所谓的垃圾桶，因为基本上做研究的人，大家也知道那几本刊物是垃圾桶。
+认为现行的标准背离了做研究的方向，做学术的方向，更是可笑。
+所有成功的人士都知道分解目标，而发paper也是被分解的第一步目标。
+倘若认为完全凭兴趣做研究
+那还是建议先找个盖茨一样的人做父亲，建立一个个人实验室。
+     发信人: Synthon (合成子・生命中的一点缠结), 信区: TsinghuaCent
+     标  题: 王垠：Segmentation fault ! Core dumped ―我写本文的目的zz

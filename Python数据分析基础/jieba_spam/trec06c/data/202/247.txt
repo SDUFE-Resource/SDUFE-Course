@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <yana@ccert.edu.cn>; Thu, 29 Sep 2005 07:52:22 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 00:03:32 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 08:03:32 CST
+Date: Thu, 29 Sep 2005 08:03:32 +0800 (CST)
+From: liang ming <ling@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM7S1eazz7XEtcDHuKOh?=
+To: yana@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+是条汉子啊
+     我不是一个莽撞的人，但是在这个事情上，我是有点愤怒了，所以说了一些过激的言论，我曾经和lovewe说我要向王垠道歉，但是看到王垠第二部分的出现，我觉得我是真的很难过，很难过，我想让大家知道我们教研组的真实情况，我真的没有什么奢求，只是希望你能够认识到你对教
+     我知道王垠是个青春阳光的好男孩，但是你的做法让我实在无法相信，当你的名字成为一个概念的时候，你的形象在我心中模糊起来，你到底怎么想的？难道正视一下导师对你的关怀，就是这么难的一件事情吗？我无意揣度你目前的心理状况，我只希望这件事情不要让大家受到更大的
+     我向asanisme道歉，我希望我们教研室团结起来，共度难关！

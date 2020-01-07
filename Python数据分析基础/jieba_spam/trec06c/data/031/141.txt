@@ -1,0 +1,44 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <kong@ccert.edu.cn>; Tue, 23 Aug 2005 22:04:19 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <kong@ccert.edu.cn>; Tue, 23 Aug 2005 22:17:37 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 14:12:14 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "qiu" <qiu@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: "tunet" <yi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INT1w7S+zbO2tb3V/riusbO+sMnPwcvE2KO/?=
+Date: Tue, 23 Aug 2005 22:14:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     标  题: 怎么就扯到政府背景上了呢？
+     
+       huawei成立之初，有政府背景吗？企业做大了，当然会和政府搞好关系，这不管在哪
+     个国家都是这样。难道microsoft、cisco就没政府背景？难道他们只能靠政府背景来发
+     展？
+     
+       huawei能有今天，把握了一个好的机遇是最重要的，而任正非高瞻远瞩也是很重要的
+     条件。
+     
+       如果中国没有huawei，现在咱们打电话还得一块多一分钟呢
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~这和华为有啥关系?
+     
+       我不喜欢huawei，但不表明我不欣赏huawei
+     
+     
+     : 关于贷款的情况
+     : 我觉得华为这种大企业的议价能力是很强的
+     : 贷款给他的银行不见得赚钱
+     
+     --
+     

@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j89BWCU9022808
+	for <feng@ccert.edu.cn>; Mon, 12 Sep 2005 00:54:13 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j89BiKkB022586
+	for <feng@ccert.edu.cn>; Mon, 12 Sep 2005 01:06:21 +0800 (CST)
+Message-Id: <200509091144.j89BiKkB022586@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 11 Sep 2005 16:50:45 -0000
+From: "kong" <kong@mail.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Cc: <ren@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrvcwgy66x5LPJsfnOqsqyw7TM5bv9seS08z8=?=
+Date: Mon, 12 Sep 2005 01:06:15 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B576.DC006930"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW1M82V4fCsJlcmRKqhxo69KqiULA==
+
+有一篇巨长的文章，跳着看吧
+水，在英文叫做WATER，化学分子式是H2O，`氢和氧的最普遍的化合物。水在自然界
+中以固态、液态和气态三种聚集状态存在。空气中含有水蒸气，土壤和岩石层中有时
+也积存着大量的水。水是动植物机体所不可缺少的组成部分。在一大气压下，水的沸
+点为100摄氏度，冰点为0摄氏度。水的密度在4摄氏度时最大。水能溶解许多物质，
+是最重要的溶剂。 
+全世界最

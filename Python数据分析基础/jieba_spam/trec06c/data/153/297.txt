@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ID8DYi008045
+	for <jiang@ccert.edu.cn>; Mon, 19 Sep 2005 05:11:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8IDJqRe004245
+	for <jiang@ccert.edu.cn>; Mon, 19 Sep 2005 05:23:08 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 18 Sep 2005 21:02:45 -0000
+Message-ID: <017301c5bc53$c8f1e290$787d6fa6@hotline>
+From: "liao" <liao@mail.tsinghua.edu.cn>
+To: jiang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgWzkuMjHN7Te1413Vxbrq1r6jutbQufq5srL6tbPKx7+5yNXVvdX5tcTW0MH37cbW+Q==?=
+Date: Mon, 19 Sep 2005 05:24:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0170_01C5BC96.D6F872D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+                        中国共产党是抗日战争的中流砥柱
+主讲人：张宏志
+    张宏志研究员现任职于陕西省社会科学院，获国务院颁发特殊津贴，中国抗战史学会理事。曾出版专著五部，发表论文40余篇，其《抗日血战三部曲》：抗日战争的战略防御、抗日战争的战略相持、抗日战争的战略反攻，被认为是国内已出版的最好的抗日史。致总书记胡锦涛的公开信《不能为国民党抗战平反》近期在全国上下引起巨大反响。
+时  间： 9.21周三晚19：00
+地  点：二教401
+组织者：核研院核研05党支部
+内容简介：
+    中国军民的浴血奋战对世界反法西斯战争作出了怎样的巨大贡献？国民党和共产党在抗战中各自的地位和作用究竟如何？
+    在中国人民抗日战争胜利60周年、九一八事变74周年之际，张宏志研究员将针对这些焦点问题进行深刻透彻的剖析，正面阐述历史真相，批驳错误思潮。欢迎同学们参与其中，也欢迎各党支部在先进性教育的过程中加入其中，共同学习进步！

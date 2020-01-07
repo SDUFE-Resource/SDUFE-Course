@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <guan@ccert.edu.cn>; Sun, 21 Aug 2005 00:42:53 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <guan@ccert.edu.cn>; Sun, 21 Aug 2005 00:56:07 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 00:24:48 +0800
+Date: Sun, 21 Aug 2005 00:55:58 +0800
+From: "tu" <tu@wnt.com.cn>
+To: guan@ccert.edu.cn
+Cc: "lic" <weng@ccert.edu.cn>, "sunt" <zhang@ccert.edu.cn>, "caoy" <chi@ccert.edu.cn>,
+        "wangb" <zhan@ccert.edu.cn>, "songhm" <yana@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfyzOxMR8u1xsXGxbj6y/vM4cbwo6y80sDvxMfQqcfXxt22vNKqwLSxsb6pzeahraGt?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+sigh,我爸爸妈妈到我这里嫌条件不好，而且没人讲话就回去了
+想留都不行，岳父岳母也使这个样子
+     唉，说句不该说的话，那边人就是这样的，觉得北京有亲戚，而且你LG和他哥哥混得也算不错，想来北京玩玩的想法也是可以理解的，但是他们不理解我们的难处。
+     虽然我家父母以前来北京时都是住宾馆，即使我叔叔让他们住家里也不会住的，但是我妈还是对我叔叔根本没有一点客气的意思耿耿于怀，这些年在我的教育下才有点理解了，就这观念，hehe

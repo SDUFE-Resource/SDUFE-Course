@@ -1,0 +1,46 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <lei@ccert.edu.cn>; Mon, 26 Sep 2005 09:20:04 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Mon, 26 Sep 2005 01:27:32 -0000
+From: "chen" <chen@mails.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK7uPa5pL/GtcTRp8n6LLeizsTVwsqyw7S2vLK7y+Mh?=
+Date: Mon, 26 Sep 2005 09:37:13 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+学校里面解决的东西本来就和商业上的应该有所区别。
+都去干最应用的了，理论谁来干？
+     标  题: Re:  一个工科的学生,发文章什么都不算!
+     
+     绝赞！！！！！
+     
+     
+     有些人为了拿项目拿经费，分明是没有问题非要搞出问题，
+     简单问题非要复杂化，说得多玄乎，然后憋出些垃圾来，
+     这种人在身边还少吗？
+     
+     恶心的是正是这些人口里口口声声地说如何真正的研究，
+     完全就是贼喊捉贼。
+     
+     真正解决问题、交流意见的文章，我觉得要越多越好。
+     
+     
+     : 文章是重要但是不是sci和ei的文章就好
+     : 去年看了moto研发的内部论文集,全球优秀论文,
+     : 感觉那才是,工程中真需要的论文,而不是整天在高校里憋出的论文就算影响因子再高也是垃圾
+     
+     
+     --
+     
+     

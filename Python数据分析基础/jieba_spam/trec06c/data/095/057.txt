@@ -1,0 +1,26 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <xie@ccert.edu.cn>; Wed, 7 Sep 2005 01:36:16 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Tue, 6 Sep 2005 17:48:31 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Tue, 6 Sep 2005 17:48:31 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Tue, 6 Sep 2005 17:48:31 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "xin" <xin@iim.ac.cn>
+To: xie@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3i0+/Ptc6qyrLDtMTHw7SwybLEwc+6zb+8ytS30dPDvNy1xMTHw7S43w==?=
+Date: Wed, 7 Sep 2005 01:48:37 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+re
+        刚才看到外语系又要卖水平一的材料了，就想到又有不少贫困生要勒紧裤腰带了。而且他们估计也不能说什么，怕别人笑话他在乎这点钱。还好我不是，就不会不好意思，SO随便说说
+        上学期我看见INFO上的校长信箱挺好奇，就写了封信说了一下外语系水平一考试费用的问题。不过几天后还真又人回电话了，是学校的一个工作人员，无非是说了些他们是为了让同学更加认真的对待考试等等，我觉得说下去没有多大意义，就恩啊的挂了。
+        其实想想，对于那些想提高水平一成绩的贫困生来说，200大概是一个月的伙食费吧，而且这对于那些不好好学习的家庭比较富裕的同学来说也起不到什么作用。而且连卖的水平一的资料都那么贵，真的是为了让同学好好学习吗？？不知道他们怎么想的

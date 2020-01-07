@@ -1,0 +1,28 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <fu@ccert.edu.cn>; Fri, 9 Sep 2005 20:55:14 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <fu@ccert.edu.cn>; Fri, 9 Sep 2005 06:07:21 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 06:07:21 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 06:07:21 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Fri, 9 Sep 2005 21:07:21 +0800
+From: =?GB2312?B?1/O+pw==?= <zhang@gmail.com>
+Reply-To: zhang@gmail.com
+To: fu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09q199X7sqnKv8n6tbzKprv5vfC3orfFsOy3qNPQudjOyszitcTNqNaq?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+昨天导师给偶们传达了精神
+     各相关单位：
+     我校博士生导师基金（以下简称博导基金）自1999年设立，学校按额度下发给博士生导师，由导师根据博士生的学术表现及业绩，作为其生活补贴按月发放。博导基金发放几年来，对我校吸引优秀生源、确保博士生基本生活水平起到重要作用。随着我校博士生培养规模不断扩大，博士
+     一、允许参加课题研究工作的博士生的生活补贴从其导师所支配的课题经费中列支，学校不再额外发放博导基金。

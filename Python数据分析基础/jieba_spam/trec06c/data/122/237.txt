@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <ke@ccert.edu.cn>; Mon, 12 Sep 2005 21:57:05 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <ke@ccert.edu.cn>; Mon, 12 Sep 2005 22:09:03 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 12 Sep 2005 13:51:51 -0000
+From: "ding" <ding@mail.tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+Cc: <bai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/rzP3M/bTzvNK1xL2o0ukh0LvQuyE=?=
+Date: Mon, 12 Sep 2005 22:08:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+Nod.北大　清华当老师的，应该很累很累，最近两年，老有年轻骨干殉职的事
+     标  题: Re: 想听听大家的建议!谢谢!
+     
+     现在高校也不容易啊，特别是清华北大，也很累
+     建议老实呆着吧
+     : 如果觉得正处太累，
+     : 副教可以考虑，现在在高校也挺不错的！比如my boss！估计给个正处，人也不换！！
+     
+     
+     --
+     妻外游，君自律；束发强心，待妻归
+     一切有利于按时毕业的，都要争取做
+     一切不利于按时毕业的，坚决不做
+     
+     

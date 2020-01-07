@@ -1,0 +1,28 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <jin@ccert.edu.cn>; Tue, 27 Sep 2005 01:20:30 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Tue, 27 Sep 2005 01:23:48 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 17:23:46 UT
+To: jin@ccert.edu.cn
+From: zhu@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILbgusO1xM2z1b3M4rLEsKE=?=
+
+人家李敖张张嘴开口大骂就能做成这么大的生意，
+难道不值得我们博士生学习么？
+我们要学会坚持真理的技巧，
+选择合适的地方，用巧妙的方式去说话，
+就能增加补贴，让不合理的制度付出代价，
+从而达到推动社会进步的目的，
+虽然本来的目的只是改善劳动条件而已。
+我不是党，所以看不懂你的逻辑。
+其实，我觉得，你将这次活动看作是凤凰的一次商业活动，一切也就容易懂了。
+最大的受益者，不是李敖，也不是贵党，而是凤凰。
+无非是利用与被利用的关系，各求所需而已。

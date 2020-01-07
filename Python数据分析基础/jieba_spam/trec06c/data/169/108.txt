@@ -1,0 +1,28 @@
+Received: from 163.com (m12-11.163.com [220.181.12.11])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KG4ZiJ024610
+	for <yun@ccert.edu.cn>; Thu, 22 Sep 2005 20:25:48 +0800 (CST)
+Message-ID: <200509210004.j8KG4ZiJ024610@spam-gw.ccert.edu.cn>
+Received: from jn556000 (unknown [218.90.189.12])
+	by smtp12 (Coremail) with SMTP id sLt_sb01MEMy81oE.1
+	for <yun@ccert.edu.cn>; Thu, 22 Sep 2005 20:37:05 +0800 (CST)
+X-Originating-IP: [218.90.189.12]
+Date: Thu, 22 Sep 2005 20:36:59 +0800
+From: "lian" <lian@163.com>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuEpBVkG437y2uaSzzMqm?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+    我公司是中关村科技园海淀园注册的高新技术企业，公司业务领域涉及水利、政府机构，主要从事软件中间件技术平台的开发和推广应用。目前随着公司业务的不断拓展，热忱欢迎有志于计算机软件开发和应用的有识之士加盟本公司。
+公司办公地址：知春路希格玛公寓
+招聘职位：高级JAVA工程师
+一.职位描述：
+1.负责公司承揽项目的模块设计及软件开发、实施工作；
+2.完成公司相关项目的模块设计及软件开发工作；
+二.任职资格：
+1.计算机或相关专业，大学本科以上学历；
+2.三年以上软件开发工作经验，有项目管理经验者优先；
+3.熟练使用JAVA语言编程；对JAVA核心编程(JAVA语法、J2EE、Java Web，Java builder、JSP有深入的理解和

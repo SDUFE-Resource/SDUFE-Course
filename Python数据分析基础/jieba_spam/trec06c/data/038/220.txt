@@ -1,0 +1,44 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <li@ccert.edu.cn>; Thu, 25 Aug 2005 15:02:48 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 15:15:55 +0800 (CST)
+Date: Thu, 25 Aug 2005 15:09:41 +0800
+From: "hou" <hou@sohu.com>
+To: li@ccert.edu.cn
+Cc: "yxl" <pu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNK2vMu1u6rOqqOsztLSssC0ss66z9K7z8I=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+这个是起薪
+华为的工资，是个底子啦，跟大家所说的“拿到手”的不一样
+唉，华为好时光过去啦
+2000年以前的老员工，有个说法
+华为待遇是1：1：1
+工资：奖金：股票
+10万：10万：10万
+应该说的是2000年时代的一般员工吧，不算领导，领导股票奖金都多， 当然工资也多
+也是1：1：1， 呵呵
+现在最后一个1没了， 头2个1变成0.5
+研发工资跟市场公司又不一样
+――――――――――――――――――――――――――――――――――――――――――――
+举个例子吧
+比如2005年来华为（不屑于来华为的、进不来华为的，咱不提了，好不？）
+假设你来了
+本科3500，是这样
+2条路，研发＆市场
+研发：3500＋800饭补＋1000？     
+市场：3500＋800饭补＋1000（驻外，因为在办事处嘛，这个就是卖命钱，离家在外啊）
+     1200租房＋2000打车＋900手机费（其实租房＋打车＋手机都不应该算）
+    
+奖金研发1－5， 市场4－8
+具体不知道，我没拿过奖金呢
+涨工资嘛，市场的1年涨500就不错了。研发涨的快涨的多，因为他们奖金少嘛
+     10、新人别来了，本科3500，研究生4000。就这样，来了也是受苦。这个是实话
+     第十点比较实在，现在研究生5000

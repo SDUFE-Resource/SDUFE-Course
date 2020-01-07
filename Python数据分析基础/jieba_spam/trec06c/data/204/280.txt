@@ -1,0 +1,32 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <bai@ccert.edu.cn>; Thu, 29 Sep 2005 16:22:49 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 08:34:00 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 16:33:59 CST
+Date: Thu, 29 Sep 2005 16:33:59 +0800 (CST)
+From: liang ming <bai@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INDCvqmxqDrH5buqsqnKv8n6uau/qtDF0/vNy9Gn0Pg=?=
+To: bai@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+风向不对头
+哈哈，笑死你了，半数学生！
+　　半数学生反对王垠退学
+　　昨天，记者在清华大学研究生宿舍附近进行了随机调查。对于王垠选择退学，有
+30%的学生赞成；50%的学生反对；20%认为无所谓。
+　　10名被访者中有三人赞同王垠的退学决定。一名持赞同意见的同学认为，是现行
+一些制度存在问题，比如对论文数量的要求才导致王垠做出退学的决定。
+　　5名被访者不赞同王垠这一做法，他们多对此表示惋惜。一名电机系研究生分析
+说，从王垠发表的照片和文字来看，他是一个不善于与别人交流和沟通的人，又没有
+找到排解压力和苦闷的方法。
+     【 以下文字转载自 TsinghuaCent 讨论区 】
+     发信人: cic (lquuuu的马甲), 信区: TsinghuaCent
+     标  题: 清华博士生公开信欲退学续

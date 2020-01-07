@@ -1,0 +1,44 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81DNZ1D022628
+	for <zhuang@ccert.edu.cn>; Fri, 2 Sep 2005 03:21:23 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j81DLued024767
+	for <zhuang@ccert.edu.cn>; Fri, 2 Sep 2005 03:20:09 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j81DLpFM024763
+	for <zhuang@ccert.edu.cn>; Fri, 2 Sep 2005 03:19:41 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Message-Id: <200509011321.j81DLpFM024763@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodof4b2088bd2) (sxx03@202.112.4.222)
+	by localhost with SMTP; Thu, 1 Sep 2005 19:08:52 -0000
+From: =?gb2312?B?ydvz4+q/?= <fu@mails.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Date: Fri, 2 Sep 2005 03:32:12 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWaTfmPRuCxvfElTl6VznZ6NS+/XQUq0wYg
+In-Reply-To: <323308814.29508@mails.tsinghua.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j81DLpFM024763
+Subject: =?gb2312?B?UmU6IMG1sK7W0LXEt9HTw7fWzK/OyszioaqhqtX3x/O087zS0uK8+w==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+我知道一个更有意思的．同一城市的一男生想追一女孩，但又因为他住的地方和那女孩的地方有一段距离，觉得老是自己跑过去太亏，于是要求那女孩出来在两人住的地方中间距离的地方约会，认为这样才公平，于是结果可想而知．
+     两人都是刚开始工作，现在两地分离，相聚一趟的花销大抵450左右
+     由于女生现在在高校做助教，假期比较多，可以一个月过去一次
+     男生在外企很忙，基本除了法定假期没有多余的假期

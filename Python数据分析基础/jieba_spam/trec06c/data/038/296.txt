@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <luo@ccert.edu.cn>; Thu, 25 Aug 2005 16:20:26 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 16:38:49 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 16:38:49 +0800
+Date: Thu, 25 Aug 2005 16:38:49 +0800
+From: xie@cernet.com
+Subject: =?gb2312?B?UmU6IMflu6rGrcHLy7bKv8n6?=
+To: luo@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+你去问问你们系主任他的数据从哪里来的再说吧
+只是我想问你，数百个专业清华只有3个专业第一是怎么综合排名全国第一了？
+     这是我们系主任讲话说得，因为三个专业两个在我们系，还有我这么说决不是说各位博士生不努力，而是学校的设备和学术积累不够，弄得大家费力不讨好，费了力气学术水平媒体上去，不能和北大那些文理学校比，即使和很多工科院校，清华的研究生阶段都没有优势，甚至很多优势专业也在弱化，比如建筑、化工等。

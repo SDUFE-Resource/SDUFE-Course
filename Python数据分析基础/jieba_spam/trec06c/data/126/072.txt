@@ -1,0 +1,23 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C5ZHks008458
+	for <gu@ccert.edu.cn>; Tue, 13 Sep 2005 16:01:13 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8C50nS32226
+	for <gu@ccert.edu.cn>; Tue, 13 Sep 2005 15:26:26 +0800
+Message-Id: <200509120500.j8C50nS32226@mail.cert.org.cn>
+From: "qiu" <qiu@cert.org.cn>
+To: gu@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: CNCERT/CC=CD=F8=C2=E7=B0=B2=C8=AB=D3=A6=BC=B1=BC=BC=CA=F5=B9=AB=BF=AA=BF=CE=CD=A8=D6=AA?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 13 Sep 2005 16:10:45 +0800
+
+不知所云
+发现现在有很多和稀泥的帖子
+         水木用户群是一笔资源，这笔资源应当掌握在什么人手中，如何发挥其作用，是大家应该认真思考的问题。
+         水木清华最初由于技术领先和高素质的水木用户群，率先成为全国最大的BBS。其定位生活、技术交流平台，实际上主要起到了一般媒体的作用，单纯的技术管理无法控制和引导不良信息，导致其成为社会发展的不安定因素，从而遭受重创。应该说，bbs具有一定的建设性作用，信息公开、网络发展也是社会发展的大方向，作为保护性软着陆措施：校内交流平台和新×水×木概念是非常成功的措施。
+         如今，随着局面的变化，校内交流平台可以对外开放，出现了两个平台争夺用户群的局面。

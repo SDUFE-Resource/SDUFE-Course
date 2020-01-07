@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <tian@ccert.edu.cn>; Thu, 25 Aug 2005 12:16:21 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 12:34:41 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 12:34:41 +0800
+Date: Thu, 25 Aug 2005 12:34:41 +0800
+From: bai@cernet.com
+Subject: =?gb2312?B?UmU6INPQscihtta4u7fN9aG3uPy6w7+0tcS159Oww7Q=?=
+To: tian@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+当年我看史泰龙的电影《第一滴血》，是我们村某个人生日，村大队从县城
+里面请了放影队放这部电影，露天的，第一次接触美国动作电影，那种震撼
+劲无法形容，但时至今日仍记忆犹新，比现在看《指环王》的感觉要好太多。
+     兴趣不同，影片类型不同，当然有比《指环王》好看的电影
+     高中时第一次看《真实的谎言》，那个震撼，绝对比如今看《指环王》强度大。
+     97年看了《教父》全三部、《侏罗纪公园》、《修女也疯狂》、《人鬼情未了》、《独立日》，oh, my god.

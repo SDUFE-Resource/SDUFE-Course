@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <pu@ccert.edu.cn>; Mon, 26 Sep 2005 01:19:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <pu@ccert.edu.cn>; Mon, 26 Sep 2005 01:30:58 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 17:07:55 -0000
+From: "wang" <wang@mail.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Cc: <xiao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INfcubI11eujrLrPvMYzNDjUqg==?=
+Date: Mon, 26 Sep 2005 01:30:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+我国目前使用的是组织培养疫苗，要求每次注射抗原量不少于2.5国际单位，使用方法是：一般咬伤患者于0、3、7、14、30天各肌肉注射一安瓶疫苗。严重咬伤（头、面、颈、手指和多部位咬伤）或深度咬伤（大量出血、功能障碍或肌皮咬伤）除按上过程序注射疫苗外，还应使用疫苗的当天或前一天（咬后8小时内）注射抗狂犬病血清，剂量按每公斤体重40国际单位（严重酌情增加至100国际单位）计算，50%在受伤部位浸润注射，其余进行肌肉注射，1～2日内分数次注完。血清使用前须作过敏试验，阳性者采用脱敏疗法。为避免血清对疫苗作用的干扰，应在第5针疫苗接种先后，再加强2针疫苗。 
+     刚刚问的...
+     cft 宝宝

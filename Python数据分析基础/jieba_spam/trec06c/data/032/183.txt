@@ -1,0 +1,21 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <qing@ccert.edu.cn>; Wed, 24 Aug 2005 07:01:44 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 07:14:51 +0800 (CST)
+Date: Wed, 24 Aug 2005 07:08:37 +0800
+From: "yuan" <yuan@sohu.com>
+To: qing@ccert.edu.cn
+Cc: "yxl" <zhu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsrG89K1yerH68H0vqnD+7buxNzF+s/CtuDJ2aO/xfqyu8/CtcTG8bK7y8DBy6O/?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+     本人工科小硕，去招聘会投简历，问及户口问题时，企业招人的总说可以报上去，但批不批不能确定。不知什么样的能批，什么样的不批，望达人指点！
+以前在公司管过人事，不知道你应聘的是哪一类的公司，如果公司本身没有人事权的话，那他要通过人才中心要指标。而户口指标是前一年十一月份的时候各公司将需求情况报到各人才中心，人才中心统一到人事局报批。有没有指标应该早就知道了。
+如果公司有户口指标的话，硕士生不限专业的，而且基本可以落户没问题。

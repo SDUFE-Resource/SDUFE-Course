@@ -1,0 +1,42 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8QwDc023423
+	for <mo@ccert.edu.cn>; Sat, 20 Aug 2005 09:31:25 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 562B8002558A
+	for <mo@ccert.edu.cn>; Sat, 20 Aug 2005 09:44:43 +0800 (CST)
+Date: Sat, 20 Aug 2005 09:38:48 +0800
+From: "lian" <lian@sohu.com>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?ofEgWzguMjLPwl1OZXcgdGVjaG5vbG9naWVzIGZvciBzaWduYWwgcHJvY2Vzc2luZyBhbmQgd2ly
+ZWxlc3M=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+【 以下文字转载自 CampusInfo 讨论区 】
+发信人: correct (各自曲折各自悲哀), 信区: CampusInfo
+标  题: [8.22下]New technologies for signal processing and wireless
+发信人: blueworld (该怎么办就怎么办！), 信区: THUInfo
+标  题: 【学术报告】New technologies for signal processing and wire
+主题：New technologies for signal processing and wireless communication
+报告人：
+Chong-Yung Chi, Associate Editor, IEEE Trans. Signal Processing
+  Chairman, Institute of Communications Engineering, &amp;
+  Professor, Department of Electrical Engineering
+National TsingHua University
+时间：8月22日（周一） 14:30-17:00，Talk A &amp; B
+          8月23日（周二） 8:30-11:30，Tutorial
+地点：东主楼10区309会议室
+主办单位：电子工程系
+联系人：陆建华（62792550）
+        张 盛（62794445）
+内容介绍：
+Talk A: Blind Source Separation by Kurtosis Maximization with Applications
+in Wireless Communications
+Talk B: Space Time MSINR-SRAKE Receiver with Finger Assignment Strategies in
+UWB Multipath Channels
+Tutorial: Blind Equalization and System Identification: Batch Processing
+Algorithms, Performance, and Applications

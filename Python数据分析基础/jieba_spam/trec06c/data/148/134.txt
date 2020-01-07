@@ -1,0 +1,32 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <yi@ccert.edu.cn>; Sat, 17 Sep 2005 21:57:09 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <yi@ccert.edu.cn>; Sat, 17 Sep 2005 22:13:44 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <yi@ccert.edu.cn>
+	; Sat, 17 Sep 2005 22:13:44 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <yi@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 21:38:45 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "rao" <rao@njnu.edu.cn>
+To: yi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILz7zfjT0bzH?=
+Date: Sat, 17 Sep 2005 22:08:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+这点小事，大老爷们鸟她呢
+     她如照片中一样美丽，却比照片中更活泼、可爱。但是这可爱与我有什麽关系呢？其实两个多月前我们就曾提起过见面的事情，后来我有意无意拖沓下来，只是前几天她又提起，我才与她相见的。我之所以拖沓一点，并非担心见面之后她在我心中那个美好的印象打折扣，而是担心我在
+     见了以后的日子里，她对我冷淡了很多。这并不意外，只不过接受起来稍有一点感情上的难度――只是这个小小的涟漪碰撞我的心口，几日之后死水便会回复平静。庸常的男人如我，必定过一种庸常如死水的生活，不奢望任何大大小小的传奇；或者戏剧性的情节――我的实际的生活中
+     有朋友劝我cool一点，这让我苦笑。我并无cool的资本；我若装酷，不是欲擒故纵，而是釜底抽薪，我在她那里的好印象与日俱减的――然而我会真cool的，真正的cool会让我和她之间的好感和倾慕如沙漠中的小河，自然流淌、自然干涸。我不会去追问，因为我知道答案；也不会去努

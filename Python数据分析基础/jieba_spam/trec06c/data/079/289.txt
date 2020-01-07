@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <huang@ccert.edu.cn>; Sat, 3 Sep 2005 13:51:45 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <huang@ccert.edu.cn>; Sat, 3 Sep 2005 14:04:20 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 05:53:31 -0000
+From: "cheng" <cheng@mail.tsinghua.edu.cn>
+To: huang@ccert.edu.cn
+Cc: <kang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7XqsjDob+437XIyv3Rp8DgzbzK6SAo16rU2Ck=?=
+Date: Sat, 3 Sep 2005 14:04:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+【 以下文字转载自 SecondBook 讨论区 】
+发信人: zzhwb (这一生就是你了，我不会让你跑掉的！), 信区: SecondBook
+标  题: 【转让】高等数学类图书
+高等数学(同济四版)           高等教育           30.00    12.00
+高等数学(同济四版)----考点精析与习题全解        15.80    3.00
+高等数学解题常见错误剖析      同济              10.00    3.00
+高等数学(下)教与学参考 与同济四版配套           17.00    6.00
+线性代数教与学参考     与同济三版配套           18.00    7.00
+2005年全国硕士研究生入学统一考试数学考试大纲及导读  
+                               高等教育      19.60+8.00   10.00
+线性代数(同济第三版)           高等教育           9.60    3.00
+线性代数(第二版)     居马余   清华              16.00     8.00
+线性代数学习指南     居马余   清华              14.00     6.00
+线性代数与解析几何   俞正光   清华               13.50    4.00
+概率论与数理统计(浙大)        高等               12.40    4.00
+概率论与数理统计(浙大)--导教/导学/导考   西北工业  14.00  4.00
+价格还可以再商量
+有意者可以回站内信箱
+或者短信13810701629

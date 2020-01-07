@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82NbfwP002626
+	for <wen@ccert.edu.cn>; Sun, 4 Sep 2005 05:03:06 +0800 (CST)
+Received: (eyou send program); Sun, 4 Sep 2005 05:03:26 +0800
+Message-ID: <325704282.09716@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 4 Sep 2005 05:03:26 +0800
+Message-ID: <325704282.09698@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sun, 4 Sep 2005 05:03:26 +0800
+From: gao@mail.tsinghua.edu.cn
+To: wen@ccert.edu.cn
+Cc: tian@ccert.edu.cn
+Date: Sun, 4 Sep 2005 05:03:26 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW8fz1vpd0ru49sr90afM4ii52NPavKvWtbXEtdq2/rPkt9bM9bz+KQ==?=
+Content-Type: text/plain
+
+设函数f(x)有二阶连续导数，且f\'(0)=0,lim f\'\'(x)/|x|=1,则
+                                    x-&gt;0
+A.f(0)是f(x)的极大值
+B.f(0)是f(x)的极小值
+C.(0,f(0))是曲线y=f(x)的拐点
+D.f(0)不是f(x)的极值,(0,f(0))也不是曲线y=f(x)的拐点
+答案是:B，因为x=0是f(x)的驻点，且f\'\'(x) ~ |x|(x-&gt;0),即f\'\'(x)&gt;=0(x-&gt;0),由极值的第二充分条件可得,x=0为极小值点。
+我的疑问是：既然f\'\'(x)&gt;=0(x-&gt;0)，怎么知道f\'\'(0)!=0呢？？？若f\'\'(0)=0的话，那就不是极小值了啊。。。。。搞晕了，到底极值的第二充分条件是不是一定要x=x0时，f\'\'(x0)等于或不等于0来判断，还是只要在x-&gt;x0的过程中，f\'\'(x)等于或不等于0来判断啊？？

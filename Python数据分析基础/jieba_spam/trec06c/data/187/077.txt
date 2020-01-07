@@ -1,0 +1,27 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdW0h032355
+	for <gan@ccert.edu.cn>; Mon, 26 Sep 2005 10:57:38 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 11:13:21 +0800
+Message-ID: <327652915.84524@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Mon, 26 Sep 2005 11:13:21 +0800
+Message-ID: <000101c5c1cf$bb387e80$0301a8c0@CCERTDAWEI>
+Reply-To: "wei" <wei@ccert.edu.cn>
+From: "wei" <wei@tsinghua.org.cn>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEZyZWVkb20gaXMgTk9UIGZyZWUgo7q4+M31zazRp7rNtNPKwr/G0dC5pNf3tcTNrMjK?=
+Date: Mon, 26 Sep 2005 08:13:11 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+我更愿意这样理解，大家的贡献推动技术的发展，但是当这个发展接近一个threshold的时候，需要有天才才能突破。所以，两者都是需要的，但是以为后者的供应量比较少，自然价格就比较贵了。但是，两者都是一样重要的。
+     “天才就是99％的汗水加上1％的灵感。”以讹传讹，总是这样说。爱迪生可够冤枉的。实际上完整的原话是这样的：“天才那就是1%的灵感加上99%的汗水。但那1%的灵感才是值得考虑的...
+     类似地，爱因斯坦也说过：
+     “整个人类都丧失了生活的动力,世界笼罩在一片阴影中

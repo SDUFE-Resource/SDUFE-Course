@@ -1,0 +1,32 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <lu@ccert.edu.cn>; Mon, 22 Aug 2005 11:49:49 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <lu@ccert.edu.cn>; Mon, 22 Aug 2005 12:03:07 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 03:57:44 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "lai" <lai@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Cc: "tunet" <qian@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgz9bU2r+8tPPRp9XmyN3S17Ch?=
+Date: Mon, 22 Aug 2005 11:59:30 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+今天接到家里一个电话，说我一个表外甥女要读大学了，顺道来北京玩，让我接待一下
+欧就问说是不是那个谁
+我妈说是的，偶很惊异，问考上了哪个学校，她说考上南开了
+：P，我还是很惊异，欧这个外甥女在我们那里那个高中3，400名的水平
+全省不知道多少名，我一直以为考不上大学的
+可能连专科都上不了，居然能考一个重点大学
+就和我老公说现在的大学真容易考阿
+我们当时如果那样的成绩肯定上不了大学
+我老公倒没说啥，说她来了自己掏给一千元做奖励，好好鼓励

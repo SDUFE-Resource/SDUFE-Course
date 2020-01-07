@@ -1,0 +1,46 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j875hi24000645
+	for <shen@ccert.edu.cn>; Fri, 9 Sep 2005 06:30:13 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IMF00DGINE211@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 9 Sep 2005 06:47:43 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Wed,
+ Fri, 9 Sep 2005 06:47:43 +0800
+Date: Fri, 9 Sep 2005 06:47:43 +0800
+From: wua@cernet.com
+Subject: =?gb2312?B?ofEgobDJ57vh1vfS5brN0LPJ57vhtcS5ub2o0+u3otW5obEtLbXawfm97LGxtPOhosflu6qhosjL
+tPPI/dA=?=
+To: shen@ccert.edu.cn
+Message-id: <3ad323df3a.3df3a3ad32@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+【 以下文字转载自 PhD 讨论区 】
+发信人: foolsnoopy (秋秋・第九年), 信区: PhD
+标  题: “社会主义和谐社会的构建与发展”--第六届北大、清华、人大三?
+报告题目:  “社会主义和谐社会的构建与发展”--第六届北大、清华、人大三校博士生论
+坛
+　报告人: 北大、清华、人大三校博士生
+报告时间: 2005-09-09 14:00
+报告地点: 图书馆报告厅
+主办单位: 北京大学、清华大学、中国人民大学
+　　简介:     清华大学人文学院同北大、人大马克思主义学院合作的“三校论坛”每年轮
+流在三个学校召开。今年由清华大学承办。
+报告内容： 李晓东（北大）：《建构和谐社会呼唤立法转型》
+                  于福坚（北大）《社会主义和谐社会中的公平与效率》
+                  姜   波（北大）：《和谐社会中的人权及其宏观保障》
+                  吴丹（清华）：《社会主义和谐社会是一种动态的和谐》
+                  李英（清华）：《和谐社会需要建构和谐人格》
+                  程世勇（清华）：《经济转型中城乡劳动力转移机制分析》
+                  陈辉（人大）：《坚持群众路线，提高构建和谐社会能力》
+                  房正宏（人大）：《试论社会主义和谐社会的理论生成》
+                  郑小九（人大）：《北京奥运的理念与和谐社会的构建》
+                  清华大学人文社会科学学院
+                  北京大学马克思主义学院
+                  中国人民大学马克思主义学院

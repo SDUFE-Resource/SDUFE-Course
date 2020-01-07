@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j89BWCU9022808
+	for <li@ccert.edu.cn>; Sat, 10 Sep 2005 22:57:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j89BiKkB022586
+	for <li@ccert.edu.cn>; Sat, 10 Sep 2005 23:09:16 +0800 (CST)
+Message-Id: <200509091144.j89BiKkB022586@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 10 Sep 2005 14:53:40 -0000
+From: "weng" <weng@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Cc: <qiu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNLLtcu1ztK4w8jnus7RodTxxNijvw==?=
+Date: Sat, 10 Sep 2005 23:09:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B576.DC006930"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW1M82V4fCsJlcmRKqhxo69KqiULA==
+
+博士去做公务员有点屈才呀，好好努力找工作吧，机会还是有的。
+     我是女生，现在博士在读，明年6月毕业，现在在考虑工作的问题。其实我是想做一个安稳的工作就行。
+     目前在考虑两个选择：1.考公务员，准备考卫生部，不知道会怎么样。实在也不知道公务员是干什么的。2.留在现在的医院，不过可能不是以临床为主，但是我又不喜欢做科研工作，可能也是因为没有什么兴趣吧。
+     大家说说我该怎么办？

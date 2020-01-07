@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86NYrNl030488
+	for <chi@ccert.edu.cn>; Wed, 7 Sep 2005 13:46:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j86Nl5Cw020630
+	for <chi@ccert.edu.cn>; Wed, 7 Sep 2005 13:58:40 +0800 (CST)
+Message-Id: <200509062347.j86Nl5Cw020630@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 7 Sep 2005 05:44:22 -0000
+From: "liao" <liao@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: <feng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFu6z7yvXSDOyrj2uaTX987KzOKjrL/JxNyw5sPmsrvMq7rPysqjrLTzvNKw78Omv7S/tA==?=
+Date: Wed, 7 Sep 2005 13:58:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C5B380.54702A70"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzPUXCPFDEFrr6STeY429PH7DHSw==
+
+你到了北京195m的房子至少要150w哪，还不算利息
+你算算你一个月赚多少能负担的起？
+北京有什么好的呢，人又多，空气又差
+哎，我觉得你现在的生活挺好的，比大多数同龄北京人（原住及外来）都好
+生活就是这样的啊
+北京啊，秋天的时候来旅游还是不错的
+其他的时候，呵呵，真比不上内蒙古草原啊
+     ☆─────────────────────────────────────☆
+        sunmf (勇敢的心) (Tue Sep  6 16:32:35 2005):
+     个人情况：

@@ -1,0 +1,38 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <han@ccert.edu.cn>; Thu, 1 Sep 2005 23:01:39 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 23:04:31 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 23:04:31 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 23:04:31 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 14:57:54 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 22:50:04 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 22:50:04 +0800
+From: mei@mails.tsinghua.edu.cn
+To: han@ccert.edu.cn
+Cc: jian@ccert.edu.cn
+Date: Thu, 1 Sep 2005 22:50:04 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILG+1MK8xruutcTP+7fR?=
+Content-Type: text/plain
+
+工资不低啊，税后6K多，税前8K多了啊。hehe
+     标  题: 本月计划的消费
+     
+     房租：1600
+     交通：无（有班车，不过要起的早点哦）
+     水果日用品：100
+     伙食：400
+     ==============还能节余4000块大洋
+     
+     --
+     你牛B？有我牛B么？天生的牛，那就是不一样，看我的气质，迟早要出名。
+     
+     

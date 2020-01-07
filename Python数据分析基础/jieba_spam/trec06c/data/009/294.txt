@@ -1,0 +1,33 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8V0cL023464
+	for <ding@ccert.edu.cn>; Fri, 19 Aug 2005 02:45:00 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 40F4F0045593
+	for <ding@ccert.edu.cn>; Fri, 19 Aug 2005 02:58:18 +0800 (CST)
+Date: Fri, 19 Aug 2005 02:52:24 +0800
+From: "han" <han@sohu.com>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7V0Ma4ob/A68mi0NDStdbG1OzWtNDQz7XNs6OoTUVTo6nPtc2zuaSzzMqm?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084420.40F4F0045593@sohumx06.sohu.com>
+
+公司名称：航天信息股份有限公司
+电子邮箱： yangyjcims@mail.tsinghua.edu.cn 
+职位发布日期： 2005-08-10 
+工作所在地： 北京市清华科技园 
+职位描述： 
+1、面向离散制造企业客户，基于MES系统的解决方案，从事MES系统的推广、实施和运行支持。
+2、MES系统实施部分或全部过程（需求分析、客户作业支援、系统安装调试、客户培训、客户运行支持等）。 
+职位要求： 
+学历：本科及以上学历 
+专业：计算机、工业工程、管理信息等相关专业
+相关工作经验：
+1、二年以上ERP软件或MES软件实施经验，三年以上工作经验。
+2、了解制造业基本管理模式与业务流程，熟悉计算机操作。
+3、具备良好的沟通、学习和解决问题的能力，能够承受工作压力。
+4、熟悉条形码系统和PLC者优先。 
+注：应聘简历请勿使用附件形式,并在邮件主题中注明:(1)应聘岗位(2)姓名

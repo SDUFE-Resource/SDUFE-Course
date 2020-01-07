@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <ning@ccert.edu.cn>; Sat, 17 Sep 2005 09:03:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <ning@ccert.edu.cn>; Sat, 17 Sep 2005 09:15:41 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 00:56:23 -0000
+From: "ding" <ding@mail.tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Cc: <ning@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3xzOy1xM64v9q3tNOm?=
+Date: Sat, 17 Sep 2005 09:15:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+我爸妈刚离开日本的时候，很担心我会因为疲劳而奶量减少。实际上，
+一方面我维持了他们在时的一日两汤，另一方面小辰辰老黏着我要吃，
+反而奶量比他们在的时候还大了。在我离开日本的时候，奶量已经差
+不多自己调节到刚刚好，回国来婆婆每天两顿浓汤，奶量又大涨，重
+新开始每夜挤奶的工作...现在又好了，呵呵。
+     不要担心，奶量可以根据宝宝的食量自动调节。按你说的，瑶瑶的胃
+     口应该不是很大。你以前是吸奶给婆婆喂，所以每天会有多。现在直
+     接喂，可能就自动少一点了吧。以后瑶瑶饭量增大，吃得多，奶量也

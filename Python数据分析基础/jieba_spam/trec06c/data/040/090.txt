@@ -1,0 +1,29 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <lu@ccert.edu.cn>; Thu, 25 Aug 2005 22:07:00 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 22:20:07 +0800 (CST)
+Date: Thu, 25 Aug 2005 22:13:53 +0800
+From: "ou" <ou@sohu.com>
+To: lu@ccert.edu.cn
+Cc: "yxl" <fan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INDsv8u7xrfJuujPtcHQtdrSu7K/tcTGrMP7us3W99Hdo6zLrb3pydzSu8/CPw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+goole补充下
+片名：《黄飞鸿》
+导演：徐克
+主演：李连杰|元彪|关之琳|张学友|任世官|郑则仕|邱建国|刘询|午马
+类型：动作片
+IMDB评分：7.4/10 (2,720 votes)
+影片介绍：
+徐克拍的第一部“黄飞鸿”电影。以黄飞鸿阻止洋人将唐人卖往旧金山做猪仔为主线，梁宽拜师为副线，演绎了一部令观众耳目一新的“黄飞鸿”电影。而徐克将这一民族英雄塑造为在中西方文化冲撞的乱世中迷惘且具有忧患意识的武师，也颇具象征意义。
+     第一部就叫 黄飞鸿
+     不过似乎台湾上映时也叫 武状元黄飞鸿
+     我第一次接触这片时也是这个名字

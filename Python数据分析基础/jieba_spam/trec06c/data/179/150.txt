@@ -1,0 +1,31 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <wei@ccert.edu.cn>; Sat, 24 Sep 2005 17:51:59 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Sat, 24 Sep 2005 09:59:42 -0000
+From: "gu" <gu@mails.tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7fWwfdd19TCvLXEwO6wvcflu6rR3b2yKNeqvMQpICjXqtTYKQ==?=
+Date: Sat, 24 Sep 2005 18:03:38 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+【 以下文字转载自 Li_ao_Focus 讨论区 】
+寄信人: TZhang (小善良言)
+标  题: [分流]自录的李敖清华演讲(转寄)
+发信站: BBS 水木清华站 (Fri Sep 23 11:42:51 2005)
+来  源: 166.111.13.144 
+【 以下文字转载自 TZhang 的信箱 】
+发信人: Wes (志玲早日康复！), 信区: THUExpress
+标  题: [分流]自录的李敖清华演讲
+前面缺了10分钟左右
+ftp://user:user@166.111.116.116/pub

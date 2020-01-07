@@ -1,0 +1,29 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdW0h032355
+	for <luo@ccert.edu.cn>; Tue, 27 Sep 2005 10:05:17 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 10:21:00 +0800
+Message-ID: <327652915.84524@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Tue, 27 Sep 2005 10:21:00 +0800
+Message-ID: <000101c5c1cf$bb387e80$0301a8c0@CCERTDAWEI>
+Reply-To: "zhu" <zhu@ccert.edu.cn>
+From: "zhu" <zhu@tsinghua.org.cn>
+To: luo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzZyejV4tH50rvW1sfpv/ajrM312/PNy9GntcTKwg==?=
+Date: Tue, 27 Sep 2005 07:20:50 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+     看来不少人是很自恋。
+     以系别而言，清华理科在全国排名到老几？敢出这种狂言？物理、数学......哪一个在全国敢说傲视别人的？
+     以招收的学生而言，不要忘了，清华在上海连招生名额都招不满的，可能最近两年好点了
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      那请你说说全国有哪所学校理科生源比清华好？
+。这些地方的学生如果来清华，难道也非得夹着尾巴做人？

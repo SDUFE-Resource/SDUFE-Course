@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <kong@ccert.edu.cn>; Fri, 23 Sep 2005 07:34:25 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <kong@ccert.edu.cn>; Fri, 23 Sep 2005 07:45:49 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 23:23:21 -0000
+From: "zhang" <zhang@mail.tsinghua.edu.cn>
+To: kong@ccert.edu.cn
+Cc: <zhong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7StcTNr7uw?=
+Date: Fri, 23 Sep 2005 07:45:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+     以前都是看别人的故事，今天我也来将自己的爱情故事写出来。
+     我失恋了，很痛苦的，可能由于我非常看重这份感情的缘故吧，我痛苦得简直受不了了，几乎到了崩溃的边缘。
+     我来自一个农村家庭，我们兄妹两人，父母都是那种很朴实的劳动人民，只是靠着土里抛食，家里的经济状况不好。从小到大，一路上学下来，我没有让父母太多操心，尽可能为父母节省开支，大学期间，趁着假期做兼职，在校时勤工俭学，可是尽管这样，直到大学下来，家里也已经一贫如洗了。
+这种事情还有什么好说的，我跟你一样都是从农村里出来的人，说实话，你在农村见过这样的媳妇没有啊？你要她干吗？还为她睡不着，没事的时候多关心一下父母吧！

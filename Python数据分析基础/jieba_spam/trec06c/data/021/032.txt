@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <kang@ccert.edu.cn>; Sun, 21 Aug 2005 09:29:34 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <kang@ccert.edu.cn>; Sun, 21 Aug 2005 09:42:48 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 09:11:29 +0800
+Date: Sun, 21 Aug 2005 09:42:39 +0800
+From: "su" <su@wnt.com.cn>
+To: kang@ccert.edu.cn
+Cc: "lic" <guan@ccert.edu.cn>, "sunt" <guo@ccert.edu.cn>, "caoy" <lu@ccert.edu.cn>,
+        "wangb" <liao@ccert.edu.cn>, "songhm" <yuan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILq90MW6zc2st73N/srTo6zRodTxxMS49qO/?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+航信以前待遇还不错，后来降过一次薪
+9万8到底怎么来的，问清楚一点
+同方威势不知道是不是清华同方下属企业？
+同方危机重重，但旗下企业怎样就不知道了
+反正保证能把钱拿到手，别指望2年以后会怎样
+     中国民航信息网络股份有限公司，在东四，作商务软件工程师，也就是运维方面吧。
+     同方威视，就是做vc下的程序员。
+     待遇：航信 月工资不高，但人事信誓旦旦的说什么9万8没有问题。无公积金。

@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <mo@ccert.edu.cn>; Tue, 23 Aug 2005 17:47:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <mo@ccert.edu.cn>; Tue, 23 Aug 2005 18:00:47 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 09:55:20 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "che" <che@mail.tsinghua.edu.cn>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?ofEgo9vV0Ma4o92x4LPMuN/K1i9IYWNrZXI=?=
+Date: Tue, 23 Aug 2005 17:57:11 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+Job Openings
+  Community Engine(CE) 公司是开发在线娱乐软件及其平台的软件公司。
+我们拥有简单的公司架构,注重员工的能力，在这里所有人机会均等。
+我们拥有一支年轻，掌握尖端技术且有创造力的开发队伍，
+欢迎同样能够创造新的娱乐价值的人才加入到我们中来！
+[研发

@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <cao@ccert.edu.cn>; Fri, 23 Sep 2005 21:00:43 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 20:49:43 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 20:49:42 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 20:49:42 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 12:49:42 -0000
+From: "wu" <wu@mail.tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMnxu7A=?=
+Date: Fri, 23 Sep 2005 21:12:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+“而成龙将近60岁的年龄”，看到这一句，我就知道没有必要再看下去了。
+      今天下班后去看了《神话》的首场。在UA金钟。 感慨很多。
+      
+      1  一般的影星，或者歌星，尤其是香港的，大多都是越老越差。 很多人可能最后一两部片子风格会和过去有所不同，美其名曰是改变风格，尝试新形式，但其实最后都很失败。 周星驰的少林足球就已经比较失败了，而功夫更是失败的要命，将星爷一世英名扫尽。 而成龙将近60岁的年龄，现在所奉献的这部片子，却是罕见的精品。更被我认为是成龙的最高境界。

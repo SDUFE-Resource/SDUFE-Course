@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <kong@ccert.edu.cn>; Mon, 22 Aug 2005 23:00:36 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <kong@ccert.edu.cn>; Mon, 22 Aug 2005 23:13:50 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 22:42:31 +0800
+Date: Mon, 22 Aug 2005 23:13:41 +0800
+From: "he" <he@wnt.com.cn>
+To: kong@ccert.edu.cn
+Cc: "lic" <you@ccert.edu.cn>, "sunt" <yu@ccert.edu.cn>, "caoy" <qian@ccert.edu.cn>,
+        "wangb" <lu@ccert.edu.cn>, "songhm" <gao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INXi1tbS7LXYwbW/ycTcwvCjvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+放弃，他不是那种重情义的人。
+     我从上海来北京工作了，他正要去上海读研究生了。一个偶然的机会我们相遇了。坦白说我很喜欢他；他也欣赏我。但是他说他追求的是在身边的幸福，他说如果我们在同一城市，他就会选择我的。
+     我该怎么办呢？放弃目前的工作而去上海，一年两年内是不太现实的，毕竟我才开始参加工作。我觉得他好，珍惜他，也怕他在上海能遇到更好的。但是两个城市的距离如何跨越呢？
+     我说我两年后可以去上海工作的，或者他也可以来北京工作的啊，将来还是可以一起啊。

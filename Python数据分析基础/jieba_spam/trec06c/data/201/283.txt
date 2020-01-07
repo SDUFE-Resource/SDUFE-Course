@@ -1,0 +1,34 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <fu@ccert.edu.cn>; Thu, 29 Sep 2005 04:02:49 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 20:13:59 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 04:13:59 CST
+Date: Thu, 29 Sep 2005 04:13:59 +0800 (CST)
+From: liang ming <peng@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM7S0rLAtNTe0rvPwsnxu7CjrM2musO1xNPpwNbGrA==?=
+To: fu@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+七剑是拍给徐克自己看的，英雄和十面埋伏是拍给老外看的。
+神话还算是拍给中国人看的。
+     标  题: Re: 我也来赞一下神话，挺好的娱乐片
+     
+     从卧虎藏龙开始，这些大片拍的不怎么样但票房都很好，比如英雄，十面埋伏，
+     功夫，神话。 七剑的票房不了解。
+     : 这片子的口碑肯定不会太好，但也不见得会差到哪里去。
+     : 而且我觉得这部片子将来的票房会很好，不知道为什么会这么觉得。
+     
+     
+     --
+     
+      多一份情便多一份牵挂。
+     
+     

@@ -1,0 +1,57 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <fan@ccert.edu.cn>; Mon, 22 Aug 2005 19:58:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <fan@ccert.edu.cn>; Mon, 22 Aug 2005 20:12:02 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 12:06:39 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "guan" <guan@mail.tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+Cc: "tunet" <ren@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxLPDwLn6zeLG89XQxrhXaW5DRce2yOvKvcHs0/K1xL+qt6K5pLPMyqYvtdjNvLHg0uvIy9Sx?=
+Date: Mon, 22 Aug 2005 20:08:25 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+某外企招聘WinCE嵌入式领域的开发工程师/地图编译人员
+1, 本科以上学历,最好硕士
+2, 2-4年有GIS 和 数字地图的开发经验
+3, 优先考虑有地图压缩经验的工程师
+4, 熟悉便携式设备嵌入式操作系统如WinCE,linux,Symbian的优先
+5, 英语熟练,口语,因为本职位入职后,要在国外呆一段时间培训,同外国工程师交流
+6, 具有集体观念
+本职位主要侧重WinCE的上层软件的开发,集成到PDA或者手机中.
+1, 嵌入式领域2年以上,本科以上学历,最好硕士
+2, 有C/C++语言的经验
+3, 从事过嵌入式领域WinCE的开发,侧重上层Application方面的经验
+4, 英语熟练,口语,因为本职位入职后,要在国外呆一段时间培训,同外国工程师交流
+5, 有GPS开发经验更佳
+6, 具有集体观念
+以上职位, 到岗时间尽快.
+1. Bachelor degree, master degree is preferred. 
+2. Be experienced in GIS and digital map. 
+3. Be very familiar with map compression is highly preferred. 
+4. 3~4 years experience in map or GIS development is preferred 
+5. Be familiar with portable device Os such as windows mobile, symbian, linux is highly preferred. 
+6. Good at self management, quick study, problem solving and communication skill 
+7. Team working attitude 
+8. Fluent spoken English and good English listening comprehension is a must 
+9. Computer science, mathematics or GIS major is highly preferred 
+3, Bachelor degree, master degree is preferred. 
+2. Be experienced in C/C++/eVC 
+3. Be experienced in software development on embedded OS such as Microsoft Windows mobile, WinCE,.net, Symbian, Linux and so on. 
+4. 3~4 years experience in coding development in embedded OS is preferred 
+5. Experience in development GPS navigation system is highly preferred. 
+6. Good at self management, quick study, problem solving and communication skill 
+7. Team working attitude 
+8. Fluent spoken English and good English listening comprehension is highly preferred 
+9. Computer science major is highly preferred 
+简历请发到请回本站信箱或者career_2003@163.com

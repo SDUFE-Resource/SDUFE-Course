@@ -1,0 +1,29 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <wua@ccert.edu.cn>; Fri, 30 Sep 2005 11:32:36 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Fri, 30 Sep 2005 11:35:34 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 03:35:34 UT
+To: wua@ccert.edu.cn
+From: xin@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEg0PjO78DtsMvY1Cg0KSAo16rU2Ck=?=
+
+【 以下文字转载自 DP.THU 讨论区 】
+发信人: esunit (人生八戒), 信区: DP.THU
+标  题: 续物理八卦(4)
+爱因斯坦和米列娃的数学谁好？
+小爱不喜欢数学，米列娃数学较好似乎已成定论。但是这个定论似乎是大家只看到他们大学前几年的状态而作出的。开始的时候的确如此，由于第一年主要是数学课，米列娃学习很专心，期末各门分数都不错。
+但是这只说明了米列娃此时还是个如大一清华mm般典型的学习狂，她的数学底子怎么样，且观后效。
+让我们看看他俩的毕业成绩单，会发现一些有趣的东西。
+米列娃排最后一名，成绩低于毕业标准。她的实验物理和理论物理都非常好，和小爱一样好，但是数学很差，6分满分她才2.5，而小爱是5.5。
+这仿佛印证了一句不知名的名言：有的人谈恋爱后学习成绩突飞猛进，有的人谈恋爱后学习一落千丈。
+但是，要交待的题外话是，米列娃大学期间休学了一段时间，这段时间的课都是小爱帮他补的。
+小爱的成绩排全班第四（共5人），勉强毕业，获得了教高中数学或科学课的资格。米列娃还得再修一年。用现在的话说，俩人一个去找工作，一个延期，可见谈恋爱不好好学习是什么结果-_-b
+也许爱因斯坦老人家听到了不高兴，那么我们反过来，可以这样对现在推上研的兄弟们说：你们基本不可能成为爱因斯坦了……

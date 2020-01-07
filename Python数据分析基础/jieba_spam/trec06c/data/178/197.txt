@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <kang@ccert.edu.cn>; Sat, 24 Sep 2005 14:13:51 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <kang@ccert.edu.cn>; Sat, 24 Sep 2005 14:25:16 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 06:02:13 -0000
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+Cc: <liao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sat, 24 Sep 2005 14:25:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+很简单的问题，没有导师搞项目，你靠什么过活？
+没有导师，你做什么题目？你有方向吗？
+你以为天天喝茶就是科研吗？不尊敬前人是无知的表现。
+     “据我所知，清华的导师绝大多数都是对学生负责的。”
+     “绝大多数”是多少？没准王同学碰到的是少数。另外话说回来，清华导师也没有那么高尚，不就是先让学生把他们的活干好，顺便写写论文，不然老师也不好交差。我就没发现那帮倒是有一个好的（特指建筑系）。教师就是一个教职，没有什么高尚的说法。
+     理想是什么？依我说是最大化的占用资源，目的是满足自己的想法。每个人都在拼命的挣钱，占用资源，这有什么错的，是个大好事。

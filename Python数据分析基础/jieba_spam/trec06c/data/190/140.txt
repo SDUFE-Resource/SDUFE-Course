@@ -1,0 +1,34 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <yang@ccert.edu.cn>; Tue, 27 Sep 2005 04:07:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <yang@ccert.edu.cn>; Tue, 27 Sep 2005 04:18:57 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 26 Sep 2005 19:54:23 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "xu" <xu@mail.tsinghua.edu.cn>
+To: yang@ccert.edu.cn
+Cc: <gao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILzhvvbFxMvAzfXb89Xi0fnN/Lb3uLrS5bXEsNfR28DH?=
+Date: Tue, 27 Sep 2005 04:18:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+你知道knuth是何许人也？
+他还有lisp scheme 
+还有计算几何
+我支持王寅退学，虽然我觉得去美国也不一定会得到他想要的，
+但是在清华绝对得不到他想要的
+所以走人，我支持
+另外，他对清华和中国教育制度的微辞，甚至对导师和同学的微辞，
+外人不了解其中缘故，还是不要乱加评论为好
+难道导师“人品”好，我们就要做奴才么？！
+     他搞的那些linux tex之类的东东算学问吗？雕虫小技而已。
+     linux的原作者现在在做engineering，tex嘛，人家图灵奖都已经得了，
+     你们就没分啦！

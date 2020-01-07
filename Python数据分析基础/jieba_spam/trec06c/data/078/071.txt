@@ -1,0 +1,17 @@
+Received: from 126.com (m31-131.126.com [220.181.31.131])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VFZxNf015728
+	for <xu@ccert.edu.cn>; Sat, 3 Sep 2005 08:17:49 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4315D151.000127.15265@m51.126.com>
+Date: Sat, 3 Sep 2005 08:30:12 +0800 (CST)
+From: "hu" <hu@126.com>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrvcy088/Ao6y1pc67yc+xo8/Vt8fSqrW1sLjC8KO/?=
+X-Priority: 3
+X-Originating-IP: [222.82.100.165]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_XBKQERjJmkyoayKhuDpraIjGqtQo"
+
+除海淀区外其他城区的社保中心上保险时需要档案所在地出证明，为了防止人档分离。海淀区是最先在北京市成立科技实验区，实验区内的企业可以享有一定便捷的社保缴费方式，企业可以统一到试点社保经办机构办理，只需要带统计局的104表和工资台帐即可缴纳，可统计局的104表虽然有用工人数，可没有档案相关说明，社保中心为了方便企业，所以就以104表为准，所以现在就形成了在海淀区参统的企业在办理保险时不用出具档案证明，还有如果单位找的代理公司办理保险业务，保险代理公司也要求告知档案所在，这样有利于他们代理其它业务。
+     那需要什么才能上？要户籍卡或户口簿或身份证吗？
+     我上次去问，说还要存档证明。

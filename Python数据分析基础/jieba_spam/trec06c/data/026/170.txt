@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <chen@ccert.edu.cn>; Mon, 22 Aug 2005 15:34:56 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <chen@ccert.edu.cn>; Mon, 22 Aug 2005 15:48:10 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 15:16:51 +0800
+Date: Mon, 22 Aug 2005 15:48:01 +0800
+From: "ni" <ni@wnt.com.cn>
+To: chen@ccert.edu.cn
+Cc: "lic" <su@ccert.edu.cn>, "sunt" <che@ccert.edu.cn>, "caoy" <weng@ccert.edu.cn>,
+        "wangb" <su@ccert.edu.cn>, "songhm" <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMj9w+az/rjoKGEgbm92ZWwgb2YgbXlzZWxmLGFuZCBqdXN0IGEgbm92ZWwp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+哈哈
+     嗯
+     我原来的高中就有理科实验班，我曾经两次在火车遇见过校友，都是理科实验班的学生，都很不愿意谈论高中生活，直接对我说，实验班的三年是他们最惨痛苦的三年，不想回忆
+     大一时，我曾在北京野外实习的基地遇见过一个北大的女孩，我认得她，她是我的高中校友，获得国际奥赛金牌的，我上去和她打招呼，说我也是XX中学的，她竟然看都没看我一眼就走了，ft

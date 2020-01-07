@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <qing@ccert.edu.cn>; Sat, 27 Aug 2005 09:50:55 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 09:58:25 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 27 Aug 2005 09:58:25 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sat, 27 Aug 2005 09:58:25 +0800
+From: yun@mail.tsinghua.edu.cn
+To: qing@ccert.edu.cn
+Cc: yi@ccert.edu.cn
+Date: Sat, 27 Aug 2005 09:58:25 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM6iyO3A79PQw7vT0LjjSmF2YbXEo78=?=
+Content-Type: text/plain
+
+主要是很多公司不想培训你，想拿来就用，入门的时候就要求你会，否则面世你就通过不了
+既然你觉得简单，你就事先学会呗，面世什么会什么，这样才算你是个高手！！！
+         这个意思就是，其实不存在什么java高手，c++高手，高手就是高手，因为他首先是个高手，后来又接触了java这个玩意儿，所以变成了java高手。现在的用人单位招人其实都写错了，应该写上“招聘高手，熟悉Java”这样才对。
+         其实我也这么认为，所谓的高手是一种心态一种能力，一种可以解决任何问题的心态，一种可以快速掌握任何一种工具或者创造一种思想来解决任何问题的能力。这就是高手，而版上看到的“招聘java高手，精通xxl,oraxx,ejx,weblxx”这些都是废话,而且能找到的也不一定就是他们所希望的高手。真的具备素质的高手呢又因为不精通这些林林总总而不得其入。
+         高手的悲哀呀。

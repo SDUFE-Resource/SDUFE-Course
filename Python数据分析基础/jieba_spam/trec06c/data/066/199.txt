@@ -1,0 +1,29 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U2OGpf004571
+	for <che@ccert.edu.cn>; Thu, 1 Sep 2005 19:04:48 +0800 (CST)
+Received: (qmail 5721 invoked from network); Thu, 1 Sep 2005 11:16:28 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 11:16:27 -0000
+Message-ID: <001101c5ad0b$dfe7c0c0$e900a8c0@d47db5334f2a479>
+From: "zhong" <zhong@jdl.ac.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7xr2jrNTZzPnSu7TOudjT2rKpyr+1xKOssN/W8bz7wcKho7a8ysfQxMDvu7A=?=
+Date: Thu, 1 Sep 2005 19:18:47 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+学校扣20%,打印文章和文稿，还有其他的开支，给学生皎皎助研费
+你以为还有几个钱啊
+现在带学生成本很高的，如果以后交学费，按照美国的奖学金制度，1年招1个研究生的人头费开支就要
+2-3万才能让他们吃上饭。
+有5个学生，1年至少10万，就是说自己一分钱不拿，也要12.5万才能养学生的口
+考虑到科研开支，5个学生起码1年要20万。
+你以为轻松啊
+     反正一分钱不花，又不买芯片又不买软件，干挣
+     而且轻松啊，可以在家带孩子，性价比还挺高的

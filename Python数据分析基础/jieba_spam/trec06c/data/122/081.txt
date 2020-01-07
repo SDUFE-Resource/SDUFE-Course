@@ -1,0 +1,25 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <ren@ccert.edu.cn>; Mon, 12 Sep 2005 19:34:08 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Mon, 12 Sep 2005 19:46:07 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <ren@ccert.edu.cn>; Mon, 12 Sep 2005 19:46:06 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <cao@dlut.edu.cn>
+To: ren@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INbQufq05cPx19TWztOwz/G0q7Klz+7Ev7zGu64=?=
+Date: Mon, 12 Sep 2005 19:46:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+给个村民的定义先......
+     中国村民自治影像计划网站：http://www.chinavillagefilm.com
+     一、    背景
+     “中国村民自治影像传播计划”是中国民政部与欧盟合作开展的“中国―欧盟村务管理培训项目”下的公共宣传计划，其目的是，让更多公众了解并关注正在中国基层农村开展的、涉及占中国人口众多的农民的政治生活变革的村民自治进程，同时让具有“草根背景”的村民、以及更多

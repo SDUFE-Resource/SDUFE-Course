@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <cheng@ccert.edu.cn>; Tue, 23 Aug 2005 23:46:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <cheng@ccert.edu.cn>; Tue, 23 Aug 2005 23:59:24 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 15:53:57 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "tao" <tao@mail.tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+Date: Tue, 23 Aug 2005 23:55:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     我有若干个同学在华为，应该还是有资格说几句的。不过我
+     事先声明，1我的℃信息都是两年前的；2，不保证一定正确，
+     但是可以保证我不会骗你，如果我说错了那一定是别人骗了我。
+内部的东西相信没几个人清楚,包括那些在里面工作很长时间的员工
+商场如战场,要生存下去也没那么容易
+不要单纯的去看人家的手段
+难道你愿意看到中国的土地上都是你愿意呆的那种外企?
+恐怕到时候你会看到更卑劣的手段

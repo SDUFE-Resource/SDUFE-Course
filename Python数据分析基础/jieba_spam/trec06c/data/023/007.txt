@@ -1,0 +1,20 @@
+Received: from aryasec.com ([218.1.92.40])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J5nswI015469
+	for <guan@ccert.edu.cn>; Sun, 21 Aug 2005 19:23:07 +0800 (CST)
+Message-ID: <200508191349.j7J5nswI015469@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?sLLR1NfJ0a8=?= <luo@aryasec.com>
+Subject: =?gb2312?B?ofEg18nRr6O6ztK1xMDNtq+6z82s09DOysziwvCjvw==?=
+To: guan@ccert.edu.cn
+Content-Type: multipart/mixed;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";charset="GB2312"
+MIME-Version: 1.0
+Reply-To: luo@aryasec.com
+Date: Sun, 21 Aug 2005 19:39:47 +0800
+X-Priority: 2
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+我的合同如下：
+  1. 乙方毕业后来甲方工作的服务期为两年，服务期自乙方入职之日起计算。
+  2. 如乙方在服务期内主动离职或严重违纪而致被甲方解雇，则视为违约行为，并需向甲方支付违约金三万元人民币。
+  3.违约金的支付方式为：如乙方在服务期第一年内违约，需向甲方支付违约金全额；如乙方在服务期满一年后违约，则违约金依乙方在甲方供职时间（自入职之日起计算）按月等额递减，至服务期满时，递减为零。
+我（乙方）感觉有歧意的地方是第2条的理解应该是我两年内任何时候走都要交3万，即我差一天满两年走也交三万，但正确的意思应该是第3条表述的，我想问一下，但从法律意义上讲，我如果在满两年的前一天或两天走的话，该交三万还是只交未满的天数相应的违约金呢 

@@ -1,0 +1,19 @@
+Received: from aryasec.com ([218.1.92.40])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J5nswI015469
+	for <yan@ccert.edu.cn>; Sun, 21 Aug 2005 14:41:27 +0800 (CST)
+Message-ID: <200508191349.j7J5nswI015469@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?sLLR1NfJ0a8=?= <yu@aryasec.com>
+Subject: =?gb2312?B?UmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0=?=
+To: yan@ccert.edu.cn
+Content-Type: multipart/mixed;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";charset="GB2312"
+MIME-Version: 1.0
+Reply-To: yu@aryasec.com
+Date: Sun, 21 Aug 2005 14:58:07 +0800
+X-Priority: 2
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+我也参加过英国电信(BT)的项目，在CPS组，不知后来那个项目怎么样了。
+     偶03年跳出来的，以前是规定每月两个周六加班，累计到下年做假期，比如春节请假等，如果用不完，补加班费。后来改成每月一个周六加班。
+     平时加班，我在的部门不多，我是新员工，算加得多的了，其他大多数人下班就走。或者等晚8点的免费夜宵和免费班车。周末基本上没人加班。但是偶在....因为刚到公司想多学点东西。周末除了规定的周六外，我加班都拿到了加班工资。至于外企，我现在在一家公司，不想评论。
+     华为做事很严谨，加班工资是按小时算的，我一次填加班表从早9点到晚6点，还被扣了中午吃饭休息的一个小时。华为很严格，比较自由一点人可能不能适应，为公司付出劳动，钱一分不少，比如每层楼都请员工做消防员，会给那个员工发补贴。但是任何与工作无关的事情都不能做，比如上网，qq，msn，需要工作上网的必须申请帐号。

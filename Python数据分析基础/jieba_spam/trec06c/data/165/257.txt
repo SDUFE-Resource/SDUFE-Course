@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LBXfxi031486
+	for <hu@ccert.edu.cn>; Thu, 22 Sep 2005 00:45:42 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8LBjEv0011031
+	for <hu@ccert.edu.cn>; Thu, 22 Sep 2005 00:57:15 +0800 (CST)
+Message-Id: <200509211145.j8LBjEv0011031@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 21 Sep 2005 16:35:19 -0000
+From: "you" <you@mail.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Cc: <mo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMj1zsqjusTRtcC2wdHQv8nS1LbB0+uxvr/GusGyu8/guMm1xNeo0rXC8KO/?=
+Date: Thu, 22 Sep 2005 00:57:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C5BEE4.F6DD0CF0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW+oeiffFwOk8vdS7KYdF5R4B6nTQ==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+一般来说从不相关专业跳到医学去不允许
+比如读个哲学类的本科考个外科的研究生出去主刀. 人类会很危险的. 
+相反. 如果什么都不会了  那就去考哲学
+ms很多人感觉在自然科学方面没有什么潜力和发展了。  就很随便弄个哲学博士的顶子
+牛顿后来就去研究神学：）
+     我高中时的化学老师，据她自己说，她本科念的化学，硕士念的教育学，博士念的心理学
+     这三个完全不搭边儿啊！！！
+     难道研究生还可以这么念？

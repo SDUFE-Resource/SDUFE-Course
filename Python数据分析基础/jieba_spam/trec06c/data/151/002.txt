@@ -1,0 +1,48 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <zhong@ccert.edu.cn>; Sun, 18 Sep 2005 10:38:05 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <zhong@ccert.edu.cn>; Sun, 18 Sep 2005 10:54:40 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <zhong@ccert.edu.cn>
+	; Sun, 18 Sep 2005 10:54:40 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <zhong@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 10:19:41 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "yun" <yun@njnu.edu.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzIyLvT0MjLy7XG8MWjttnQxcnPtdujrL+0v7TV4rj2?=
+Date: Sun, 18 Sep 2005 10:49:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+按照牛顿的想法：
+我们认知的规律、事实，都归科学管；
+我们暂时不能认知的，都归上帝管。
+ok。我们研究科学的目的就是逐步地认识自然、改造自然，说白了就是要将上帝的权力逐步回收！
+哈。
+信不信上帝，都没什么。
+当然，如果迷信那些圣经里的故事、教义，那才拘泥了。
+     标  题: Re: 既然有人说起牛顿信上帝，看看这个
+     
+     而且牛顿信仰上帝之所以被拿来搞笑是因为他老人家在研究地球自转的时候
+     实在搞不清楚初始的力从哪里来得，于是说了他的明言：上帝蹬了一脚，地球就转动了
+     而且牛顿现在很多的贬评来自于其后期为了现实的力量放弃了对待物理科学的态度
+     因为其当时的影响力，他的这个态度对于当时的物理届有很不好的影响而已
+     您看偏了
+     : 老牛都八百辈子以前的事情了，你咋不敢拿爱因斯坦说一说？
+     : 真正聪明，严谨，有智慧的科学家大部分都不信教！
+     :     杰出的美国科学家几乎全都不信神
+     
+     --
+     

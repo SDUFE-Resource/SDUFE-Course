@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QNo9MB013563
+	for <ling@ccert.edu.cn>; Wed, 28 Sep 2005 09:38:24 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8R01MBr028203
+	for <ling@ccert.edu.cn>; Wed, 28 Sep 2005 09:49:37 +0800 (CST)
+Message-Id: <200509270001.j8R01MBr028203@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 28 Sep 2005 01:24:47 -0000
+From: "jin" <jin@mail.tsinghua.edu.cn>
+To: ling@ccert.edu.cn
+Cc: <lei@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgobDI/bzZuMmyv6Gxwb3Grcz8vLbWsM67IMjnus7S1tbG08PIy7ivsNyjv3p6?=
+Date: Wed, 28 Sep 2005 09:49:31 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C339.A353D6A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXC9pQv9PjT/MfrSEOqvQPxaHLccg==
+
+www.XINHUANET.com　　2005年09月27日 10:58:43　　来源：检察日报
+    《检察日报》编者按 专业证书是假的、干部履历是假的、连入党材料也是假的，这样一个“三假干部”竟一路靠着并不高明的伪造手段发迹起来。如果从一开始，用人单位能够严格按照有关程序进行干部考察，那么曹忠武就不可能有以后的肆意妄为。  
+    近年来新闻媒体相继报道了多起骗官案，其中仅有小学文化程度的农民周叶骗取了江西省吉安地区行署副专员职务；仅是内蒙古某单位一个普通职工的郭爱宏，骗取了内蒙古集宁市市委副书记的职务；广东省韶关市个体老板蔡登辉骗取了广东省揭阳市普宁华侨管理区政法委书记的职务，等等。 
+    曹忠武被执行了死刑，但该案并不能到此为止。如何让干部选任工作更加制度化、规范化、透明化，使干部管理工作更加完善，这是摆在有关部门面前的严峻课题。 
+    ２００５年９月１３日上午，曾经震惊中南海的“‘三假干部’骗官案”终于画上句号――案件主犯曹忠武在北京被执行死刑。 
+    就在两年多前，曹忠武的身份是中国物资储运大连公司项目部部长、物华运输有限公司董事长兼经理、全国特产经济办公室筹备组负责人、全国特产经济办公室主任等。可就是这样一个位居局级干部高位者却是一个彻头彻尾的“假干部”――专业证书是伪造的、干部履历是假的、连入党材料也是假的。 
+    ２００４年６月８日，曹忠武因贪污２１１．１７万元，受贿１３５万元，行贿６万余元，挪用公款２００万元，诈骗１６３万元，伪造国家公文、私刻印章、伪造证件等２３项罪行６种罪名被北京市第一中级人民法院一审判处死刑。 
+    一个不学无术者究竟用了怎样高超的“障眼法”而飞黄腾达？ 
+    曹忠武其人 
+    曹忠武１９５７年７月

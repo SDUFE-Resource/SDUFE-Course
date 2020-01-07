@@ -1,0 +1,64 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7F5seeW013938
+	for <zhong@ccert.edu.cn>; Fri, 19 Aug 2005 18:27:54 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7F6S7Cu010058
+	for <zhong@ccert.edu.cn>; Fri, 19 Aug 2005 19:01:21 +0800
+Message-Id: <200508150628.j7F6S7Cu010058@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 18:42:21 +0800
+From: "tao" <tao@mail.nisac.gov.cn>
+Reply-To: tao@mail.nisac.gov.cn
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob7V0Ma4ob+y4srUuaSzzMqmoaJMaW51eCC/qreiuaSzzMqmvLCyoba+t9bO9rmks8zKpg==?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+   Anchiva Systems, Inc.以开发和销售顶尖内容过滤网络安全系统与应用软件为主业。 公司由angel VCs 创立。angel VCs 同时也是 Netscreen的早期创始人，并将其引领至一个巨大成功的位置（在2001年成为IPO并在2004年以40亿美圆的价格被Juniper 收购）。 Anchiva 于2004年10月组立，坐落在加利福尼亚的Sunnyvale 。
+   我们拥有在安全,加密,反病毒,反垃圾邮件,内容过滤方面的专家经验，利用这些经验以及我们的软件,系统架构,技术,解决方案来使我们的客户网络免受大面积的网络安全威胁,无论是来自内部还是外部的. 这类保障在外围设备上提供如同内部网关一般达到最佳的性能。 在出色的技术能力，专业的操作以及可升级的标准化基础的平台的相互作用下，我们的产品性能远优于目前所指的同类产品或同行业中的其他产品。我们的解决方案着眼于市场的各个层面，从SMBs，中大型企业到服务提供商和供货商。 
+职位：测试工程师  （人数：3人）
+基本素质要求：
+* 大学本科以上学历，计算机相关专业毕业；
+* 沟通能力强，有团队合作精神；
+* 学习及自学能力强；
+* 英语4级或以上水平，能够熟练阅读英文手册及文章。
+技术要求：
+1、熟悉测试流程，能根据软件需求说明书或规格说明书编写测试计划、测试用例
+2、熟悉TCP/IP协议，了解网络安全设备工作原理及配置
+3、熟悉网络应用、网络安全技术
+4、熟悉linux系统
+5、具有网络安全产品测试经验
+职位：Linux 开发工程师  （人数：3人） 
+基本素质要求：
+* 大学本科以上学历，计算机相关专业毕业；
+* 沟通能力强，有团队合作精神；
+* 学习及自学能力强；
+* 英语4级或以上水平，能够熟练阅读英文手册及文章。
+技术要求：
+1、2年以上Linux下C/C++语言开发经验； 
+2、熟悉互联网协议，有TCP/IP相关协议开发经验； 
+3、有1年以上安全产品开发经验，防火墙，SSL VPN等 
+4、精通SSL/TLS协议； 
+5、熟悉unix/linux/BSD操作系统； 
+6、熟悉Radis，LDAP，Active Directory协议； 
+7、有上述相关项目的开发经验，且担任过项目组织责任者优先； 
+职位：病毒分析工程师  （人数：2人）              
+职位描述：从事病毒分析和研究工作
+基本素质要求：
+* 大学本科以上学历，计算机相关专业毕业；
+* 沟通能力强，有团队合作精神；
+* 学习及自学能力强；
+* 英语4级或以上水平，能够熟练阅读英文手册及文章。
+技术要求：
+1、了解病毒和反病毒软件的基本原理
+2、熟悉Windows操作系统的基本原理
+3、能熟练使用静态反汇编工具（如IDA）和动态调试工具（如SoftICE）
+4、有一年以上病毒分析经验、一年以上C/C++开发经验。
+待遇从优，具体面议
+公司网站：www.anchiva.com
+公司地址：清华大学学研大厦
+有意者请将个人简历发送至  hr@anchiva.com.cn

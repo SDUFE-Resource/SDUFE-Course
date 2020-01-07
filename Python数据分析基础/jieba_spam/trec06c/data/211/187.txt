@@ -1,0 +1,38 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U2R6AL010810
+	for <liu@ccert.edu.cn>; Sat, 1 Oct 2005 02:15:10 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8U2U2g26094;
+	Sat, 1 Oct 2005 02:18:06 +0800
+Message-Id: <200509300230.j8U2U2g26094@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 18:18:06 UT
+To: liu@ccert.edu.cn
+From: lian@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL+0wcuhtsnxu7Cht9auuvOyu9PJtcO3rcHLt62htsq3vMehtw==?=
+
+ms这个蒙毅是个文官
+     标  题: 看了《神话》之后不由得翻了翻《史记》
+     
+     考证出了影片中故事的一些依据。
+     
+     史记卷六　秦始皇本纪　第六
+     
+     蒙毅的真正死因：
+     “胡亥不听。而遣御史曲宫乘传之代，令蒙毅曰：“先主欲立太子而卿难之。 
+     今丞相以卿为不忠，罪及其宗。朕不忍，乃赐卿死，亦甚幸矣。卿其图之！” 
+`: 毅对曰：“以臣不能得先主之意，则臣少宦，顺幸没世。可谓知意矣。以臣不知太子之能，则太子独从，周旋天下，去诸公子绝远，臣无所疑矣。夫先主之举用太子，数年之积也，臣乃何言之敢谏，何虑之敢谋！非敢饰辞以避死也，为羞累先主之名，愿大夫为虑焉，使臣得死情实。且夫顺成全者，道之所贵也； 
+     刑杀者，道之所卒也。昔者秦穆公杀三良而死，罪百里奚而非其罪也，故立号曰‘缪’。昭襄王杀武安君白起。楚平王杀伍奢。吴王夫差杀伍子胥。 
+     此四君者，皆为大失，而天下非之，以其君为不明，以是籍于诸侯。故曰‘用道治者不杀无罪，而罚不加于无辜’。唯大夫留心！”使者知胡亥之意，不听蒙毅之言，遂杀之。”
+     
+     --
+     勇气往往是改变自己人生的关键词
+     说一句话或做一件事
+     一瞬间的勇气就可以决定你一生的命运
+     
+     ※ 修改:・universezx 於 Sep 30 10:41:12 修改本文・[FROM: 218.247.208.*]
+     ※ 修改:・universezx 於 Sep 30 11:14:19 修改本文・[FROM: 218.247.208.*]

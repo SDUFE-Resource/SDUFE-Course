@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8JBii0m015387
+	for <yana@ccert.edu.cn>; Wed, 21 Sep 2005 23:14:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8JBuNSM005175
+	for <yana@ccert.edu.cn>; Wed, 21 Sep 2005 23:26:08 +0800 (CST)
+Message-Id: <200509191156.j8JBuNSM005175@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 21 Sep 2005 15:05:15 -0000
+From: "weng" <weng@mail.tsinghua.edu.cn>
+To: yana@ccert.edu.cn
+Cc: <qiu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILWxtPrS1cr1xfrGwA==?=
+Date: Wed, 21 Sep 2005 23:26:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD54.315C4400"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW9ESMViAP3rUc6TpGavIn8JvsLVg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+这不是批评 这是吹牛
+         上层人士的游戏是传统艺术的本源，坚持这种观点就是坚持终身学习的理念。
+         上层人士不是有钱的、有权的、空有文凭、空有理想的人士，而是具有崇高理想、深厚文化积淀、坚实知识学问、杰出劳动技能和坚韧不拔精神的人，人格高尚自然品味高雅。可以说，伟大得艺术是伟大得人格抗争世俗潮流的结晶。
+         是故，具有极为大的理想、全面发展、知识面广博专精、不畏强权的人格是个体发展的极限，也是艺术学习的努力方向。

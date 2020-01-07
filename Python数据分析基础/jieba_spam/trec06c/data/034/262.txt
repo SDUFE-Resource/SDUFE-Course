@@ -1,0 +1,32 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <cen@ccert.edu.cn>; Wed, 24 Aug 2005 19:18:46 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Wed, 24 Aug 2005 19:37:09 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 19:37:09 +0800
+Date: Wed, 24 Aug 2005 19:37:09 +0800
+From: hu@cernet.com
+Subject: =?gb2312?B?UmU6INK7uPbR0L6/yfq1xNf3z6LKsbzkse2jrMfrtPO80ta41f0=?=
+To: cen@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+我基本跟你反着...
+     新学期作息时间表：
+                     07：00 起床、洗漱、早饭
+                     08：00 - 12：00 学术科研
+                     12：00 - 13：30 午饭、午休
+                     13：30 - 17：30 学术科研
+                     17：30 - 19：00 打拳
+                     19：00 - 21：00 晚饭、休闲娱乐
+                     21：00 - 23：00 游泳
+                     23：00 上床睡觉

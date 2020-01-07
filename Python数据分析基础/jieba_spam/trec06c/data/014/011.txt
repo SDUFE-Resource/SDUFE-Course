@@ -1,0 +1,29 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <shi@ccert.edu.cn>; Fri, 19 Aug 2005 22:38:11 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Fri, 19 Aug 2005 22:54:37 +0800 
+Date: Fri, 19 Aug 2005 22:51:13 +0800
+From: "lian" <lian@admin.iscas.ac.cn>
+To: shi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNK+9bXDz9bU2r34sNm2yLu509DS4su8w7Q=?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+不是那么简单算的。以前碰到过类似的公司，专门向别人打听过。
+期权就是按入职时市场价位给你，只是给你一个认购权，什么时候都可以按这个价格买。想套现就按当前市场价抛进去。
+况且，公司一般是按协议期给，比如签5年，一年给20%。
+钱是市面上的，想要套现，还想带到国内来，起码会缩水30-40%，美国政府不是吃干饭的。
+所以现在进百度，按这个价给你认购权。。。。。除非它还会大涨到200，300刀，否则很亏。
+     嘿嘿，现在去看你的合同怎么签了
+     不过肯定不如前面进去的。
+     公司如果给你期权的话，就看行权价怎么定了，上市之前，很便宜，百度一年前进去的行权价5块，更早的更便宜，基本白送。但上市后，一般会按你入职时的股市较低价给你的，收益你就自己想去吧。

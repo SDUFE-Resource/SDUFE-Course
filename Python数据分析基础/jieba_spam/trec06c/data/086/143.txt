@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83CBlYV005279
+	for <xu@ccert.edu.cn>; Sun, 4 Sep 2005 20:25:30 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83COHdV019350
+	for <xu@ccert.edu.cn>; Sun, 4 Sep 2005 20:38:00 +0800 (CST)
+Message-Id: <200509031224.j83COHdV019350@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 12:25:31 -0000
+From: "tan" <tan@mail.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Cc: <luo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILHItvuhpLjHtMTU2tbQufq/3sHLKNeq1Ngp?=
+Date: Sun, 4 Sep 2005 20:37:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5B0C5.716D46C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWwgmMrCakV2o5FTJGgH6GL8DeD6Q==
+
+中国现阶段的富人同美国19世纪的富人比例差不多，致富手段多为：转政策空子，捡下海第一桶金；综合特点是：厚黑；这样的人不要太指望有多少社会责任感，不过再等50年，也许
+就好了。。。
+     ――你看过这个事后有何感想？
+     　　有消息说，比尔・盖茨在中国哭了。为什么哭了，说法不一。
+     　　有人说，他看到中国的一则报道后哭的。这则报道说，2003年“非典”期间，中华慈善总会总共才收到770万元捐款，其中只有一个富人以个人名义捐了200万人民币。一个13亿人口的泱泱大国，百万美元以上的富人超过了23万名，在亚洲仅次于日本。当国家面临那么严峻的灾难时

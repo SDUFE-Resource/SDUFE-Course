@@ -1,0 +1,26 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <yana@ccert.edu.cn>; Sat, 10 Sep 2005 02:34:44 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <yana@ccert.edu.cn>; Fri, 9 Sep 2005 11:46:51 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 11:46:51 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 11:46:51 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sat, 10 Sep 2005 02:46:51 +0800
+From: =?GB2312?B?1/O+pw==?= <bai@gmail.com>
+Reply-To: bai@gmail.com
+To: yana@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INbV09rW3MSpwcujrNq6yMvNrMils6q46A==?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+     上一个周末去交大西门附近的佰金唱歌，剩下一张返卷。周末又到了，最近心情很好，明、后天都可以好好休息了，诤人同去唱歌，我是男生(70年代末的，算不算老男人就不知道了：），唱的不会把你吓倒，征人同去，希望你也能不太闷，毕竟是去开心的（不是诤友）。联系方法：qq,25199963 &amp;小灵通89833335。我在德外上班，下班就回清华，时间就是晚上：）
+再喊一声,准备出发了,还有谁报名啊,班车就要发车了:)

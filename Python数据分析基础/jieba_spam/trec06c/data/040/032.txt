@@ -1,0 +1,23 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <hong@ccert.edu.cn>; Thu, 25 Aug 2005 21:21:48 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 21:40:11 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 21:40:11 +0800
+Date: Thu, 25 Aug 2005 21:40:11 +0800
+From: zhong@cernet.com
+Subject: =?gb2312?B?ofEgztLP67rNxOPP4LDptb3Azw==?=
+To: hong@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+人们说爱情是一生一世的！而我说爱情是生生世世的,其实爱情是没有时间地点的距离的！我和我老公可能也是有缘吧,,让我们相识而起是很不寻常的！我因为和2前任男友而来到北京，当时我根本没有想过再北京常住，后来一次偶然的机会让我们相识彼此也一见钟情吧！后来我们再奥体聊了一个通宵，后来我们就一起爬山，游泳，过得无忧无虑得，后来经过很多事情吧！我们最终走到了一起！特别是我第一次知道中国人得情人节！原来是那么得痴情，那么的感人。所以爱是没有永恒国度的。只要你相信，就一定会属于你的，得到的更要珍惜。到后悔时已经晚了。

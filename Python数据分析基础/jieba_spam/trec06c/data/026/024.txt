@@ -1,0 +1,20 @@
+Received: from aryasec.com ([218.1.92.40])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J5nswI015469
+	for <weng@ccert.edu.cn>; Mon, 22 Aug 2005 12:31:37 +0800 (CST)
+Message-ID: <200508191349.j7J5nswI015469@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?sLLR1NfJ0a8=?= <qiu@aryasec.com>
+Subject: =?gb2312?B?UmU6ILj2yMvK1cjrIFJlOiC7qs6q0+vW0NDLtcS21LHIW9eqzPld?=
+To: weng@ccert.edu.cn
+Content-Type: multipart/mixed;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";charset="GB2312"
+MIME-Version: 1.0
+Reply-To: qiu@aryasec.com
+Date: Mon, 22 Aug 2005 12:48:17 +0800
+X-Priority: 2
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+不错啊。
+有没有大饮料柜？
+     文章是最近写的，可是提及的工资确是01--03年的，看来lz是老员工了。文章比较得这么详细，怎么不详细说说现在的工资水平？
+     华为：今年刚毕业的硕士，大概5000，补助800。
+     在我现在公司，从华为跳出来的都说现在进华为没有前几年好了。但对刚毕业的，在华为倒是可以学到些东西，积累些工作经验，镀镀金，对将来的个人发展还是有利的。

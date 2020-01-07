@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <you@ccert.edu.cn>; Fri, 23 Sep 2005 07:23:54 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <you@ccert.edu.cn>; Fri, 23 Sep 2005 07:35:18 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 23:12:50 -0000
+From: "tang" <tang@mail.tsinghua.edu.cn>
+To: you@ccert.edu.cn
+Cc: <zhang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SsrvKx7rDyMuhraGt?=
+Date: Fri, 23 Sep 2005 07:35:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+你最后一句都说你不是好人了,那不算过分吧.
+     今天闲得无聊，有感于网上对baidu、google的讨论，于是在baidu、google上试着上
+     搜一些认识的人联系方式。就想到了自己在外地的准mm。
+     通过她导师的名字、负责人的名字、单位等，准确的定位了她实验室、她导师的电话。当然
+     了，为了保险，和她那边一个认识的人确认了一下，然后就打了过去，想给她一个惊喜，结
+     果被她说“间谍”、“不是好人”、“不给她空间。”、“不说实话”“恶心”“卑鄙”。
+     sigh，难道我真的很过分？我不是好人。

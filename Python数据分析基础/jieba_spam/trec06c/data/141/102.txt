@@ -1,0 +1,25 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBHaMG026280
+	for <cen@ccert.edu.cn>; Fri, 16 Sep 2005 15:07:27 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id A7E89718597; Fri, 16 Sep 2005 15:19:18 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 139F3733E57; Fri, 16 Sep 2005 15:19:17 +0800 (CST)
+Message-ID: <053901c5b91f$8fe966d0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <jiang@dlut.edu.cn>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMrAvefK17i7sci2+6GkuMe0xLXEuNDH6cn6u+7Iq8Pmxti54g==?=
+Date: Fri, 16 Sep 2005 15:19:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0536_01C5B962.9DFC0500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+不过文章本身和题目关系似乎不大啊？
+      世界首富比尔・盖茨的感情生活全面曝光(组图)   
+     美国《福布斯》杂志公布：比尔・盖茨以其名下的净资产466亿美元，仍排名世界富翁的首位。 
+     然而，让人意想不到的是，这位世界首富没有自己的私人司机，公务旅行不坐飞机头等舱却坐经济舱，衣着也不讲究什么名牌；更让人不可思议的是，他还对打折商品感兴趣，不愿为泊车多花几美元……为这点“小钱”，如此斤斤计较，他是不是“现代的阿巴公（吝啬鬼）”？ 

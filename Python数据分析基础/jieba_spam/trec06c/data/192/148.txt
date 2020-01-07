@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QNo9MB013563
+	for <qian@ccert.edu.cn>; Tue, 27 Sep 2005 13:23:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8R01MBr028203
+	for <qian@ccert.edu.cn>; Tue, 27 Sep 2005 13:34:35 +0800 (CST)
+Message-Id: <200509270001.j8R01MBr028203@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 27 Sep 2005 05:09:45 -0000
+From: "xia" <xia@mail.tsinghua.edu.cn>
+To: qian@ccert.edu.cn
+Cc: <zeng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgusOjrM7SwLTN2tK7uPahq6Gr?=
+Date: Tue, 27 Sep 2005 13:34:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C339.A353D6A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXC9pQv9PjT/MfrSEOqvQPxaHLccg==
+
+     我外婆一直和我小舅舅小舅妈一起住，因为是帕金森氏综合症，
+请了一个保姆。小舅妈是家庭妇女，一直和保姆就处不好，其实请
+保姆的钱是我外婆自己的，请保姆也是说一陪外婆为主，但是还是因为
+保姆做不做家务等诸多问题请了一个又一个。
+    我老妈，一旦有节日长假就想把外婆接我家来住。前段日子她接外婆
+过来看牙，在我家住了一个周末，就给保姆放了一天假；国庆的时候又
+要接过来住，还得给保姆放假。我外婆就＆小舅妈说这事来着，结果她就
+发飙了，说放放放，一天到晚放，请保姆也是你们要请，放也是你们要放……
+也不知道她干吗生气，结果我妈我外婆都是一肚子气，哎。

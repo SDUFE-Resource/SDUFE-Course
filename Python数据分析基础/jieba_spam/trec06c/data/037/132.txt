@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <li@ccert.edu.cn>; Thu, 25 Aug 2005 08:40:56 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 08:59:19 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 08:59:19 +0800
+Date: Thu, 25 Aug 2005 08:59:19 +0800
+From: ning@cernet.com
+Subject: =?gb2312?B?ofEgsru40sy4wbWwrg==?=
+To: li@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+   辛苦考到了清华，以为前途光明，什么也不用去想了，可是来了才发现在这里的孤独。大学里的朋友们都没了，孤身一人在人潮喧嚷的路上，没人疼没人爱。
+   我不是没有条件追求自己的幸福，外在的内在的都不差。很喜欢一个师兄，要知道在高中他就是我的师兄阿。在清华的短短一周他很照顾我，请我吃饭，一起聊天很开心的，陪我去游泳，还有通宵的K歌，我冷的时候倚在他身边取暖。但是在他眼里我是个孩子，他说，他愿意做我的好师兄，好同事，好朋友而不是其他。我想，一切结束了，他知道我们是不可能的。
+   呵呵，下学期我要去深研院了，一想到这里，便没有自信去奢望有谁会等我了，这就是现实。哥哥告诉我，在清华这两年，最重要的不是多用功学习，不是考GT，而是找到一个值得爱也爱你的人。我苦笑，我是漂泊不定的，我的爱情在哪里呢？我只能仰慕他，朋友似的开玩笑，我多希望能得到更多的温暖啊。
+   夜深了，也是今天刚参加过高中同学聚会，看到他们都带着mm来，很羡慕。作为一个女生，长在清华，不知是福是祸。

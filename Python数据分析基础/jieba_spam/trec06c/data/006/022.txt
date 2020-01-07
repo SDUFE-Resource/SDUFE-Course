@@ -1,0 +1,25 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7F5seeW013938
+	for <gong@ccert.edu.cn>; Wed, 17 Aug 2005 17:37:27 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7F6S7Cu010058
+	for <gong@ccert.edu.cn>; Wed, 17 Aug 2005 18:10:54 +0800
+Message-Id: <200508150628.j7F6S7Cu010058@stmp.nisac.gov.cn>
+Date: Wed, 17 Aug 2005 17:51:54 +0800
+From: "wua" <wua@mail.nisac.gov.cn>
+Reply-To: wua@mail.nisac.gov.cn
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOyyu7/swNY=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+不要太偏执，应该要照顾到各个方面的因素，比如考上的把握有多大！
+相信你过不了多久就能把问题想清楚的：）
+       本来雄心勃勃的要考清华经管的研究生的，今天早晨却问了自己一个非常奇怪的问题，
+     到底是为什么呢？我对清华根本没有把握，为什么要冒那么大风险呢？几年来的辛苦为了什么？那么多的付出，面对那么多诱惑一次次的放弃，打着梦想的旗子的孩子能找到归路吗？
+     或许这只是一条不归路？

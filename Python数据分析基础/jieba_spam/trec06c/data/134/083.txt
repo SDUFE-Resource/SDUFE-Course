@@ -1,0 +1,28 @@
+Received: from sendmail.iclp.com.hk (sendmail.iclp.com.hk [203.193.56.98])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8D9HfCC018617
+	for <ren@ccert.edu.cn>; Thu, 15 Sep 2005 06:31:25 +0800 (CST)
+Received: from ebpc1 ([192.168.17.111])
+	by sendmail.iclp.com.hk (8.11.6/8.11.6) with SMTP id j8DNBbb24415
+	for <ren@ccert.edu.cn>; Thu, 15 Sep 2005 07:25:16 -0500
+thread-index: AcW4RY0OBhyKhSqsSemwSUmiAKaPGg==
+Thread-Topic: =?gb2312?B?SnVuaXBlcs34wue5q8u+0dC+v7rNvczT/bv6ubnNqNG2MjAwNcTqOdTC?=
+Reply-To: <zhao@apac-juniper.net>
+From: "zhao" <zhao@apac-juniper.net>
+To: ren@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjVv7TN6qG2zNOz9r/LwqG1uqG3?=
+Date: Thu, 15 Sep 2005 06:42:26 +0800
+Message-ID: <8c3801c5b845$8d1d0270$6f11a8c0@ebpc1>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_8C39_01C5B888.9B404270"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft CDO for Exchange 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我没查过前面的评论，不知道别人怎么评价，但至少我认为没什么创意。就好比现在詹姆斯卡梅隆已经拍了一部铁达尼号，你如果再按类似剧情拍一部铜达尼号，我估计票房也不会好。
+片子的细节的确很重要，但最重要的还是其主线，撇开主线来谈细节是没有意义的，至少对于票房来说我觉得是这样。当然，我承认这部片子的场面是做的很好的，但看完却有一种故意烧钱的感觉。
+片子的伦理是稍微少了一点，不过对于商业片来说，这个应该不是重点吧，AI也不能算一部很成功的商业片吧。我印象中它的全美票房还没过亿。
+     还是老一套，类同于the clonus horror就是没创意了；创意是什么？大多数观众看了觉得意料之外情理之中这就叫创意；如果不是先把创意这个标竿牵涉进来，使得大多数观众联系到了日常生活中关于克隆，器官移植的知识，联想，他们会以没有创意为由贬低这电影么？显然不会。

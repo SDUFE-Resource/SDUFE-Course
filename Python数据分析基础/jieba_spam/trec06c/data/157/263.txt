@@ -1,0 +1,33 @@
+Received: from 163.com (bj44-212.i.netease.com [202.108.44.212])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J2mLj7012065
+	for <jian@ccert.edu.cn>; Tue, 20 Sep 2005 04:40:52 +0800 (CST)
+Message-ID: <200509191048.j8J2mLj7012065@spam-gw.ccert.edu.cn>
+Received: from tsinghua-i1p2se (unknown [219.223.254.137])
+	by smtp4 (Coremail) with SMTP id DkAhVaYpLkMLBk0E.1
+	for <jian@ccert.edu.cn>; Tue, 20 Sep 2005 04:52:23 +0800 (CST)
+X-Originating-IP: [219.223.254.137]
+From: "rao" <rao@163.com>
+Reply-To: rao@163.com
+To: jian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgUGllQnJpZGdl0MKzydSxo7pQaWVQb3N0ZXKjrFBpZVJvb20=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Tue, 20 Sep 2005 04:52:19 +0800
+
+【 以下文字转载自 PieLove 讨论区 】
+发信人: Wes (志玲早日康复！), 信区: PieLove
+标  题: PieBridge新附属版面：PiePoster，PieRoom
+发信人: Wes (志玲早日康复！), 信区: PieBoard
+标  题: PieBridge新附属版面：PiePoster，PieRoom
+本版已开设两个新附属版面
+PiePoster 鹊桥・征友海报
+PieRoom   鹊桥・约会厅
+PiePoster为不可回文版面
+提供“不允许回文的征友信息发布”服务
+欢迎有征友愿望，又不希望别人对说三道四的网友来此发文征友
+PieRoom为俱乐部版面
+是专为在PieLove和PiePoster版为自己征友的网友开设的约会场所
+祝大家都能早日觅得佳偶！

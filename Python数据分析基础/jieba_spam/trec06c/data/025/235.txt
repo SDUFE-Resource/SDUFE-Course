@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <zhu@ccert.edu.cn>; Mon, 22 Aug 2005 10:49:51 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <zhu@ccert.edu.cn>; Mon, 22 Aug 2005 11:03:05 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 10:31:46 +0800
+Date: Mon, 22 Aug 2005 11:02:56 +0800
+From: "tian" <tian@wnt.com.cn>
+To: zhu@ccert.edu.cn
+Cc: "lic" <ling@ccert.edu.cn>, "sunt" <gong@ccert.edu.cn>, "caoy" <guan@ccert.edu.cn>,
+        "wangb" <li@ccert.edu.cn>, "songhm" <xu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgUGluQ068sdDo0rvD+8/uxL/WtNDQ1vrA7SAo16rU2Ck=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+【 以下文字转载自 Career_MNC 讨论区 】
+发信人: Jeam (chonic), 信区: Career_MNC
+标  题: PinCN急需一名项目执行助理
+发信人: Jeam (chonic), 信区: Career
+标  题: PinCN急需一名项目执行助理
+据说要求很简单，有无经验都可，但必须是全职，能适应出差，因为会派往外地，主要就
+是协助执行项目经理做一些实施的工作
+学历要求不高，大专以上就可以
+薪酬方面没有详细说，对方说让我推荐而已，具体的你可以直接和他们谈
+有兴趣的同志把你的个人简历给我站内信箱贴一份或者发到我的邮箱
+yangtaopku@sohu.com吧
+越快越好，他们急招

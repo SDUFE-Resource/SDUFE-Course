@@ -1,0 +1,39 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <gong@ccert.edu.cn>; Fri, 26 Aug 2005 09:47:47 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 10:06:10 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 10:06:10 +0800
+Date: Fri, 26 Aug 2005 10:06:10 +0800
+From: zheng@cernet.com
+Subject: =?gb2312?B?ofEg1dDGuNPOz7fN+NW+st+7ri+/qreiyMs=?=
+To: gong@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+关于我们:
+我们是由一群美、英归国留学生创建的工作室，致力于中国网络游戏新模式的发展，我们提供每个参与者一个实现梦想、发挥创意的过程，我们从一个新的角度去理解网络游戏，开辟一种新的业务模式。
+我们要求:
+1)    对网络游戏有热情，有1-2年网游经验，最好有游戏策划经验，思考能力比较强
+2)    能进行简单网页开发，熟悉Html语言，Photoshop，Flash，Flash Actionscript， Dreamweaver       
+        其中之一
+3)    英语能力较强，能够浏览国外网站，跟踪国外网游领域最新发展
+4)    责任心和一定分析能力
+5)    白天有时间在我们提供的工作室进行工作
+   
+我们提供:
+1)    一流的软硬件平台，提供你一个良好的学习、游戏、思考的环境
+2)    锻炼个人的市场和经济视野，沟通能力和运作能力
+3)    具有竞争力的薪酬和非常好的工作氛围
+我们欢迎:
+经济管理或计算机背景的同学以及其他有兴趣人事加盟，有兴趣者:
+Email to: eric@ascendvp.com.cn， 请附上你的个人介绍和网游经历

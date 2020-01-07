@@ -1,0 +1,25 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <yuan@ccert.edu.cn>; Mon, 26 Sep 2005 09:09:54 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Mon, 26 Sep 2005 01:17:22 -0000
+From: "cai" <cai@mails.tsinghua.edu.cn>
+To: yuan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILj4zfXNrNGnus7IpbrOtNO1xL2o0uk=?=
+Date: Mon, 26 Sep 2005 09:27:03 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+比较中肯，鉴定完毕。千里之行始于足下，顺便打出来
+     这两天不断有人跟我提起退学的事情，虽然不认识王同学，但是因为对事件里的其他人比较熟悉，特地跑过来看了看。看到不少知道细节的人的帖子，相信大家对那个教研组的老师的耐心和宽容都已经很理解了，他们已经在现在体制容许的范围内尽了力去帮助，提供环境。我想事情很
+     看王垠的帖子，好像已经准备了G,T，准备出国。但我感觉这不是一条合适他的路，在美国这几年，这里并不是象他理想中的样子。学术界的体制不比国内好太多。我见到的不少有名的教授，大多是好的"writer"和"fund raiser"，真正能提出所谓科学精华的很少。大家开学术会议时多
+     另外他需要改变研究方向。他现在的方向实际上应该属于工程类，完全是面向实际问题的，与其科学理想不靠边。我感觉现今计算机的大部分方向都开始偏重工程，都类似他不喜欢的IEEE。最美的科学是数学。他感觉数学是那么简单的话，也许真应该去找个小学校搞点数学。我去过Be

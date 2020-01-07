@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <wei@ccert.edu.cn>; Mon, 22 Aug 2005 21:23:54 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <wei@ccert.edu.cn>; Mon, 22 Aug 2005 21:37:12 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 13:31:49 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Cc: "tunet" <gan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMflu6rGrcHLy7bKv8n6?=
+Date: Mon, 22 Aug 2005 21:33:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+按照教育部研究生与学位办公室的全国一级学科排名，
+在全部11个学科门类80个一级学科中，清华共有13个一级学科名列第一，
+其次为北京大学11个，浙江大学5个等...
+按照武书连对研究生专业的排名，清华的一级学科半数以上是名列全国第一。
+另外，想请教你是哪个系的？呵呵，你们系主任好愤青，或者你听错了或者理解错了...
+     这个数据不用查，我觉得你查才对，我比较有把握，综合排名第一很大一部分是学生素质等其他方面，当然清华其它专业没有排第一的一般也是前五，综合排名第一也就不奇怪了，从地方院校或者研究所来清华读博士硕士的不少都有微词，当然对清华本科生教育倒是一致好评，可是学

@@ -1,0 +1,32 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <hong@ccert.edu.cn>; Sun, 18 Sep 2005 03:16:20 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <hong@ccert.edu.cn>; Sun, 18 Sep 2005 03:32:55 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <hong@ccert.edu.cn>
+	; Sun, 18 Sep 2005 03:32:55 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <hong@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 02:57:56 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "yu" <yu@njnu.edu.cn>
+To: hong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILrN0MTSx7XEbW221MPFo6zT9MPGo6zV5tDEx+u9zA==?=
+Date: Sun, 18 Sep 2005 03:28:07 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+哇，你们两个都是大牛
+     住在心仪的mm对门，几乎每天见面，很多人看来这时千载难逢的好机会，可实际根本不是这样。住的近，容易混熟，根本不好下手阿。想忍着吧，也天天烦闷，有时周末两人都在屋，夏天热把门打开，背对背的，书也看不进去。
+     MM属于事业型的，实验比较累，愿意工作时可以从早8点到晚12点，不过平时也比较忙。平时有些闲空，由于mm开朗大方，都用来社交和组织活动了。想约也不方便，由于还算熟，mm会问到底要干啥什么的。
+     MM研四，年龄也不小，可一点没看出要谈恋爱的意思，还象个孩子一样纯真；mm很坚强，也很优秀，牛津的本科，她整天过的很快乐的样子，想找MM脆弱的时候都不容易。

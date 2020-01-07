@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <fan@ccert.edu.cn>; Mon, 29 Aug 2005 10:33:09 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 10:37:32 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 29 Aug 2005 10:37:32 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Mon, 29 Aug 2005 10:37:32 +0800
+From: "xing" <xing@mail.tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+Date: Mon, 29 Aug 2005 10:37:32 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IEpBVkG1xLTzxaO2vNTaxMTA7y4uLi4uLg==?=
+Content-Type: text/plain
+
+我觉得你首先要搞清楚你客户的需求，光说JAVA是没用的。
+JAVA是一揽子东西，恐怕没有人什么都懂。做过3年的人经验
+也各不相同，因为领域不同嘛。他们招人去干什么？做企业应用？
+开发工具的研发？规范实现？连个大体的范围都没有~，更别说具体
+技术范畴了。
+您的客户到底是产品商还是集成商？这我们都不知道，去了一看
+完全不match，谁都不爽。
+招聘一般不应只列出requirement，
+还应该列出responsibility不是？^_^
+     不是跟你发火，就是郁闷。
+     说真的，因为career认识的有好多现在都成了朋友，但是也有很多让我特郁闷的人。
+     有的在msn上加了我，然后问了很多，最后说，哦，就是某某公司阿，我特熟，不用你了，我自己去找人给我投简历。

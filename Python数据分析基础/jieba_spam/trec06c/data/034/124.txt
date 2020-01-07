@@ -1,0 +1,47 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <cheng@ccert.edu.cn>; Wed, 24 Aug 2005 16:48:09 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Wed, 24 Aug 2005 08:37:44 -0000
+From: "shen" <shen@mails.tsinghua.edu.cn>
+To: cheng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 24 Aug 2005 17:01:26 +0800
+
+北京瑞平通信技术有限公司（Beijing Arrowping Technology Co.Ltd）成立于2004年底，
+是一家在中国新设立从事通讯产品研发的外商投资公司。
+公司以研制开发无线通讯产品为主营方向，技术团队在美国工作多年，在无线通讯领域已
+成功开发出多种类型数据语音产品。凭借雄厚的技术研发实力，瑞平通信将迅速成长为国
+内业少数几家拥有自主知识产权的通讯企业。瑞平公司拥有一流的技术实力、一流的专业
+人才、一流的质量服务意识，必将在新的世纪里取得长足的发展，我们秉承“创新、高效
+、追求、卓越”，主张充分信任，倡导精诚合作。
+现因业务发展需要，我们需要以下各方面专业人才加盟。我们将为您提供充分的发展空间
+和具有竞争力的薪酬和福利待遇，希望每一名员工能够充分享受工作的乐趣，做出骄人的
+业绩！
+联系方式：
+E-mai：lihang@arrowping.com.cn
+工作性质：全职 截止日期：2005-9-25 
+招聘人数：4人 月薪范围：面议 
+工作经验：3年 学历： 
+工作地点：北京    
+ 
+职位描述及要求
+职位描述：
+1. 负责无线通信系统设计,定义和仿真,包括物理层信号波形设计,信号估计和检测算法,干
+扰对消,信道编译码, 链路层协议和TCP/IP协议；
+2. 负责新技术研究和跟踪，包括物理层和链路层；
+3. 工程部支持:现有系统和算法仿真,问题识别和解决方案；
+4. 市场部支持:系统性能预测和比较；
+5. 标准跟踪:对现有工业标准理解,理论比较研究,仿真研究；
+任职资格：
+1. 相关专业博士学历，若硕士学历应具有三年以上系统相关工作经验；
+2. 掌握通信和统计信号处理理论和技术,信道编译码技术；
+3. 具备基本网络技术和协议,熟悉链路层协议和TCP/IP协议；
+4. 熟练掌握MATLAB编程,熟悉C/C++；
+ 

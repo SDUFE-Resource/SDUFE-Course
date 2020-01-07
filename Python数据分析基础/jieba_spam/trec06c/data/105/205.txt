@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86NYrNl030488
+	for <ni@ccert.edu.cn>; Fri, 9 Sep 2005 08:08:27 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j86Nl5Cw020630
+	for <ni@ccert.edu.cn>; Fri, 9 Sep 2005 08:20:39 +0800 (CST)
+Message-Id: <200509062347.j86Nl5Cw020630@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 9 Sep 2005 00:06:21 -0000
+From: "zeng" <zeng@mail.tsinghua.edu.cn>
+To: ni@ccert.edu.cn
+Cc: <fan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMzs0+7Ays2o1dDGuNCj1LC02c/61LE=?=
+Date: Fri, 9 Sep 2005 08:20:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C5B380.54702A70"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzPUXCPFDEFrr6STeY429PH7DHSw==
+
+     北京天宇朗通科技有限公司是中国唯一一家集手机研发、生产、销售及售后为一体的手机生产商，其旗下的CECT系列和天语系列手机，物美价廉，时尚，功能全。同时该公司与北京移动合作多年，是北京移动最重要的销售代理商。为了在新学期开学之初，让利于学生，同时，给学生提供社会实践的机会。特招聘少量销售人员。
+     工作时间：可短期，可长期，双方协商。
+     工作地点：各大校园
+6、     相关要求：
+A、    诚实守信，良好的保密意识。
+B、    北京科技大学在校学生，大二、大三最佳；勤奋踏实、热情开朗；在开学期间时间比较充裕的同学。
+C、    优先考虑有直销经验的同学，有销售热情的同学。
+只要北京科技大学在校学生？

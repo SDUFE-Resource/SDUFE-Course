@@ -1,0 +1,42 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <yuan@ccert.edu.cn>; Tue, 13 Sep 2005 19:12:16 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Tue, 13 Sep 2005 19:24:15 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Tue, 13 Sep 2005 19:24:11 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "rao" <rao@dlut.edu.cn>
+To: yuan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1Pi+rdKyyse49sfu0afJ+g==?=
+Date: Tue, 13 Sep 2005 19:19:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     小学和初中，基本上一个月吃一次肉，煮一次方便面，都已经很奢侈了
+     高中，一个月生活费不到200（确切的是150），吃饭最少的一个月只花了90（因为一天
+     只敢吃一顿，现在想起都决的不可能）
+ 
+ 高中的时候
+ 我每个星期从家里领到的生活费总共是25元
+~~~~~~~~~~~~~~吃饭用15元~~~~~~~~~~~~~
+ 早上：馒头两个 4毛  咸菜半份 1毛  稀饭一碗 2毛
+ 中午：馒头三个 6毛  菜一份 3毛 
+ 下午：馒头三个 6毛  菜一份 3毛
+ 
+ 每天总计：2元5角
+ 周一到周六 2.5*6=15元
+~~~~~~~~~~~~~~交通用2元~~~~~~~~~~~~~~
+          坐汽车从家里到学校
+~~~~~~~~~~~~~~文化娱乐用1元~~~~~~~~~~
+               看录像
+             或者租小说
+剩下的钱，基本上就买些乱七八糟的东西
+吃个瓜子了，买块冰糕了，买个蜡烛了，买个草稿纸了，或者晚上饿了再买一个糖三角了。方便面的确太贵，6毛一袋，且吃一袋没作用。不过，到了高三的时候舍得吃了，因为那个时候我从家里每个月拿30元。
+后来，说起这些事情觉着挺逗，其实那个时候我家里的经济状况还算可以，每个星期给我50的生活费也不会有太多问题，可是那时我想都不敢想，这么多钱可怎么花呀。

@@ -1,0 +1,34 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <han@ccert.edu.cn>; Sat, 1 Oct 2005 09:03:21 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sat, 1 Oct 2005 01:14:17 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sat, 1 Oct 2005 01:14:17 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <han@ccert.edu.cn>; Fri, 30 Sep 2005 18:35:56 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <han@ccert.edu.cn>; Fri, 30 Sep 2005 20:20:49 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sat, 1 Oct 2005 09:14:12 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <fan@motorola.com>
+To: han@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMilwcvMy8flu6p+?=
+Date: Sat, 1 Oct 2005 09:14:10 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+你在dpim的宿舍?
+25#还是7#的?
+     昨儿去了趟清华了解考研的情况，来谈谈见闻：
+         昨天一直在下毛毛雨，润物细无声阿，把我半截裤子都毛毛湿了，这还是小事，刚买的跑鞋也报废了。
+     清华校园子太大了，偶从西门进想租辆自行车，生生力气，结果那大爷非要我200块钱压金，还一小时2块钱，我说我只有100块，要不我把证件压你这，他愣是不干。那只好坐11路车了。TMD谁要你的破车，下次问个校内学生的手机号，我发短信过去，才1毛钱，比你这2块钱一小时便宜

@@ -1,0 +1,59 @@
+Received: from sohumx06.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G8V0cL023464
+	for <qing@ccert.edu.cn>; Sat, 20 Aug 2005 19:01:53 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by sohumx06.sohu.com (Postfix) with ESMTP id 40F4F0045593
+	for <qing@ccert.edu.cn>; Sat, 20 Aug 2005 19:15:11 +0800 (CST)
+Date: Sat, 20 Aug 2005 19:09:17 +0800
+From: "yuan" <yuan@sohu.com>
+To: qing@ccert.edu.cn
+Subject: =?gb2312?B?ofEgQmFycmllciBmb3IgQ2hpbmEgY29kZSBicmVha2VyIQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084420.40F4F0045593@sohumx06.sohu.com>
+
+发信人: tofu (豆腐), 信区: News
+标  题: [IHT]Barrier for China code breaker 
+  Barrier for China code breaker  
+By John Markoff The New York Times
+THURSDAY, AUGUST 18, 2005
+ 
+ 
+SAN FRANCISCO Last year a Chinese mathematician, Xiaoyun Wang, shook up the insular world of code breakers by exposing a new vulnerability in a crucial American standard for data encryption. On Monday, she was scheduled to explain her discovery in a keynote address to an international group of researchers meeting in California.
+ 
+But a stand-in had to take her place, because she was not able to enter the country. Indeed, only one of nine Chinese researchers who sought to enter the country for the conference received a visa in time to attend.
+ 
+Although none of the scientists were officially denied visas by the United States Consulate, officials at the State Department and National Academy of Sciences said this week that the situation was not uncommon.
+ 
+Lengthy delays in issuing visas are now routine, they said, particularly for those involved in sensitive scientific and technical fields.
+ 
+The visa snag angered organizers of the annual meeting of the International Cryptology Conference, who argued that restrictions originally created to prevent the transfer of advanced technologies from the United States are now having the opposite effect.
+ 
+"It\'s not a question of them stealing our jobs," said Stuart Haber, a Hewlett-Packard computer security expert who is program chairman for the meeting, Crypto 2005, being held this week in Santa Barbara. "We need to learn from them, but we are shooting ourselves in the foot."
+ 
+Haber and other researchers stressed that progress is made in the field of cryptography by continually investigating existing algorithms and systems for weaknesses, in efforts like Wang\'s. Among scholars and software engineers, finding such obscure logical flaws is considered a badge of honor and not a hostile act.
+ 
+Wang, a mathematician at Tsinghua University in Beijing, and her student Hongbo Yu were scheduled to present a paper in Santa Barbara on Monday on their successful attack on a United States government cryptographic function called Sha-1. Sha-1 is a formula for creating what mathematicians call a hash, a single number used to represent a larger message or a data file. Such algorithms are routinely used in encryption and authentication systems.
+ 
+In addition to presenting the technical paper, Wang had been planning on detailing further advances in her work, according to several researchers attending the event. After Wang failed to obtain a visa, a third member of the research team, Yiqun Lisa Yin, presented the paper instead on Monday morning. A Chinese citizen, she is currently an independent security consultant in Connecticut and has been a student of Ronald Rivest, a prominent cryptographer.
+ 
+An official at the National Institute for Standards and Technology, which is responsible for maintaining U.S. cryptographic standards, said that he was disappointed by Wang\'s absence and that he had tried to intervene several times to persuade the State Department to allow her to appear at the conference.
+ 
+"I have no idea why she didn\'t get her visa," said the official, William Burr, the manager of the Security Technology Group at the institute. "But I attempted to convince them that this wasn\'t some strange woman. I wanted to let them know that there was someone whose business was affected by her work and who was anxious to see her."
+ 
+He said he was still hopeful that Wang would be permitted to attend a technology conference that the institute has scheduled for October.
+ 
+A State Department spokeswoman said Monday that the potential time it takes for visa applications to be approved is clearly outlined on Web sites maintained by United States embassies around the world.
+ 
+"I certainly do appreciate that this is a frustration," said the spokeswoman, Angela Aggeler, of the Bureau of Consular Affairs.
+ 
+She noted that Chinese visas that require review under a scientific and technical category, known as Mantis, routinely take more than two months. Wang and her student both applied in early July. Wang was interviewed by consular officials on Aug. 9, but typically two weeks are needed after such an interview for a visa to be processed.
+ 
+Last week, after the conference organizers realized that it was unlikely that Wang would obtain a visa in time to attend the event, they contacted the White House science adviser, John H. Marburger 3rd, asking him to intervene with the State Department.
+ 
+ 
+ 
+Chris Buckley contributed reporting from Beijing for this article.

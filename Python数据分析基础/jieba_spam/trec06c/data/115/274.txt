@@ -1,0 +1,26 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <gao@ccert.edu.cn>; Sun, 11 Sep 2005 13:11:00 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Sun, 11 Sep 2005 13:29:00 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Sun, 11 Sep 2005 13:28:59 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "yuan" <yuan@mail.csu.edu.cn>
+To: gao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgz7K7trn9ztK8uMTqtcTE0LqiwLSxsb6pwcujrM7SyKW8+8v7w7Sjvw==?=
+Date: Sun, 11 Sep 2005 13:10:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+他是我高中的同班同学，一直都很喜欢我，不过我对他没什么感觉，只是有些怜悯之心吧。作为朋友人还是挺不错的。今天他来北京出差了，发短信说这两天没事想让我当当导游。可是我去的话又怕GG有想法，GG和我也是高中同学，只是不一个班，但他一直都知道这个男孩喜欢我。偶尔因为这个男孩和我联系，GG还会吃醋。
+如果是你，你会去见这个男生么？还是我、GG还有这个男生我们三个一起去玩？可是这样好尴尬的。而且很明显这个男生对我忍然有些好感，虽然他有女朋友了。如果不见的话也觉得不大好，毕竟人家远道而来又没其他熟人。
+为难中……
+请大家支个招！谢谢！

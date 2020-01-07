@@ -1,0 +1,48 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <zhuang@ccert.edu.cn>; Thu, 29 Sep 2005 17:48:08 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Thu, 29 Sep 2005 09:59:19 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 17:59:18 CST
+Date: Thu, 29 Sep 2005 17:59:18 +0800 (CST)
+From: liang ming <liao@yahoo.com.cn>
+Subject: =?gb2312?B?ofEg16rGqs7E1cKjrL+0v7TW0Ln6ybbKsbry0rLE3NXi0fk=?=
+To: zhuang@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+大家都知道美国德州最近闹飓风的事情吧？
+发信人: pine (pine), 信区: Texas
+标  题: 我的逃难经历，淳朴的texas人
+发信站: BBS 未名空间站 (Sun Sep 25 17:39:36 2005), 转信
+我从别的地方往collegestation开，开到lake conroe，105和45交接的地方就空了，我
+那个v8的油老虎，最多让我再开个20mile，整个conroe city没有一个加油站有油的
+眼见天色以黑，没有办法，硬头皮上，总不能为了三四加沦的汽油憋在这里
+把车往居民区一停，挨门讨汽油。讨到一加仑是一加仑
+第一家，老头子很酷，开始说他们自己也要用油，后来犹豫了一下说可以给我一加仑
+老太很热情，反复问我要不要水，要不要吃的，老头拿来一桶汽油，给我倒了大概一加仑
+我千恩万谢，要给钱，老头子说不用了，记得下次人家有困难你得帮忙
+第二家，中年男子，一句话不说让我跟他去车库，拿出来一桶，说都给你把。我说真是
+好人啊，问有多少汽油我好给钱，他说别别你拿去就是，还给我找漏斗，女主人又是问
+寒问暖，要不要水，要不要吃的，要不要洗手。可惜我这个油老虎，这些油不够我回家的
+后面就不顺利了，敲了5－6家都没有油，但对我深表同情
+最后一家，敲门，不出来，过一会，一大个带条狗出来，态度很是冷淡，问我是不是想
+讨钱，我说偶只要汽油不要钱，说我在tamu工作来者，给你看工作证。于是他让我把车开
+过来，并反复问我是不是就一个人，等我把车开来，态度就完全变了，万分热情，让
+我到家里，给偶啤酒，老太把饭都装好了问我要不吃点，大个说开始他们怕有打劫的。
+他说他家没有油，但是他的boat里面有，他可以舀出来给我，让我跟他去放的地方。
+到了那，变舀边聊天，这家伙居然问我在中国mm们是不是在高中 wait to be f*cked，
+说他在tamu读书的时候f*ck了不少p**ssy（倒不是说中国的），我说没有没有偶们很传统
+的
+至少等到大学把。
+等把他的船里面的油舀光了，我看看觉得差不多了，他看看表坚持说不一定够，从邻居
+的船里面接着舀。完了也是不肯要钱，这一舀大概舀给我5－6加仑，搞得我很不好意思
+很有意思的经历。真希望中国什么时候也能这样，不光是帮不帮的问题，而是帮忙时候
+的态度
+整个过程里面，根本不觉得是在帮个陌生人，好像是在做分内的事情一样

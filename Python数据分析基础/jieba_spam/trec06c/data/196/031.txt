@@ -1,0 +1,22 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <hong@ccert.edu.cn>; Wed, 28 Sep 2005 05:05:58 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 21:17:09 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 05:17:08 CST
+Date: Wed, 28 Sep 2005 05:17:08 +0800 (CST)
+From: liang ming <sun@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILTzvNLKx7K7yse63GI0yKvWsLzSzaXW97i+?=
+To: hong@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+同意同意。当了家庭主妇就当了呗，管别人说什么？自己不小看自己就行了，要别人不小看自己，累不累呀。
+要承认全职工作的已婚妇女更辛苦才对。压力也大。
+     有趣，好像你一天做的事情上班的人就不用作了，那些上班的人难道不做饭么，那些上班的人不用洗衣服么，被鄙视了也没办法，但只要自己心安理得就好，就是有钱，就是不用工作，关你们什么事，嫉妒了说些嘲讽的话随便，有钱了为什么还要工作，做些自己喜欢的事情不行么，我一直认为bill gates现在全凭自己的兴趣和责任做事（毕竟是个大公司的老板），所以你做全职主妇没有什么丢脸的，只要你老公养得起，但你也不要拿那些琐事当借口，否则会让工作的人撞墙的。

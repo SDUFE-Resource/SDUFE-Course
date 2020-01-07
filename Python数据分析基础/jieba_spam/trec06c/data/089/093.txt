@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83CBlYV005279
+	for <wei@ccert.edu.cn>; Mon, 5 Sep 2005 15:27:11 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83COHdV019350
+	for <wei@ccert.edu.cn>; Mon, 5 Sep 2005 15:39:41 +0800 (CST)
+Message-Id: <200509031224.j83COHdV019350@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 07:27:12 -0000
+From: "ye" <ye@mail.tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Cc: <kang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMvmsePBxMHEuPqzpLGy0rvG8LT4uqLX07XEw6y23LDJo6zO+877?=
+Date: Mon, 5 Sep 2005 15:39:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5B0C5.716D46C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWwgmMrCakV2o5FTJGgH6GL8DeD6Q==
+
+开明的长辈会遵照孩子父母的意愿去带孩子，而孩子的父母也应该不时地反省自己是否陷入了另外一种执着。婴儿期间的一些抚养细节会很重要，另外一些也很不重要，懂得其间的取舍，在不同观念中找到平衡才是理想的解决之道。
+     俺跟俺娘对于带孩子的问题上主要有如下矛盾：
+     1、衣服穿多穿少盖多盖少的问题。 
+     这个几乎天天吵，我妈的观点恨不得是孩子裹得越严实越好，

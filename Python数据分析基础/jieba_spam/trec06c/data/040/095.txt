@@ -1,0 +1,30 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <zhong@ccert.edu.cn>; Thu, 25 Aug 2005 22:08:31 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 22:21:38 +0800 (CST)
+Date: Thu, 25 Aug 2005 22:15:24 +0800
+From: "pan" <pan@sohu.com>
+To: zhong@ccert.edu.cn
+Cc: "yxl" <sun@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgob7V0Ma4ob/Qo9SwtPrA7aGi0KPUsNa00NA=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+【招聘】校园代理、校园执行
+【职责】校内推广活动执行；校内商品销售管理
+        我们会在各高校进行现场推广活动，需要少量工作人员
+        代理负责我公司voip产品的校园销售，主要是网上订单的回复等
+【要求】在读大学生，熟悉市场或计算机基本操作；上网方便
+有意者请将相关信息回复至站内信箱，或发至：daibing@cbcom.cn;wuzh@cbcom.cn
+我们会主动与您联系
+欢迎校内社团洽谈合作
+需求信息如下：
+姓名；性别；学校；年级；系别；宿舍；联系电话
+以及其他个人信息
+请登陆公司网站了解详细情况：www.cbcom.cn

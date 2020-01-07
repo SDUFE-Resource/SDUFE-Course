@@ -1,0 +1,28 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <hou@ccert.edu.cn>; Sat, 10 Sep 2005 00:34:33 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <hou@ccert.edu.cn>; Fri, 9 Sep 2005 09:46:40 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 09:46:40 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 09:46:40 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sat, 10 Sep 2005 00:46:40 +0800
+From: =?GB2312?B?1/O+pw==?= <gu@gmail.com>
+Reply-To: gu@gmail.com
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMPmttTV4tH5tcTE0Mn6uMPU9cO0sOyjvw==?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+这种糠心萝卜你不赶紧甩了还等啥。。
+     估计说出来会被人拍，但希望能拍醒我！
+     他一直很反对中国把婚姻看成人生很重要的事情，觉得就是因为在中国把婚姻看的太重
+     所以导致离婚很难，因为考虑到离婚女很难再找到合适的，而男的相对好一点。（由此可见他心地善良，想到离婚时还会为对方考虑未来。）但离婚男受到的惩罚是会受到社会舆论、亲戚朋友的谴责（我都奇怪没结婚他那来这么多想法？！可能是前段时间我说要结婚，他有婚姻恐惧症

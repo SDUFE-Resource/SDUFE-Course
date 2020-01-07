@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <zheng@ccert.edu.cn>; Fri, 2 Sep 2005 14:06:46 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <zheng@ccert.edu.cn>; Fri, 2 Sep 2005 14:19:22 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 06:07:57 -0000
+From: "li" <li@mail.tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Cc: <lu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILzIyLu2vMu1ytXI687KzOKjrL+00MLAy9K7uPbN+NPRtcTOxA==?=
+Date: Fri, 2 Sep 2005 14:19:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+这个人本身有很大的逻辑问题
+一方面，他觉得征他的税不合理，应该征大老板的税
+一方面，他提倡贫穷地区起征点低，发达地区起征点高
+其实他就是希望只征比他富得人的税补贴他
+他自己也知道他的收入在全国平均水平以上
+他为什么就不该补贴贫困地区得人
+他自己在人家贫困地区得人眼里，就是大老板
+     zz from sina
+      我是北京一大型国企的技术工作者，高级工程师，每月4000元的 工资，按全国的平
+     均收入水平，这个工资应该算是高收入了吧。但账 目不算不明。我的工资扣出养老

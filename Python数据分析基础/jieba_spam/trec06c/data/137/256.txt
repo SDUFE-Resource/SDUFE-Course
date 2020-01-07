@@ -1,0 +1,39 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <xing@ccert.edu.cn>; Thu, 15 Sep 2005 23:06:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <xing@ccert.edu.cn>; Thu, 15 Sep 2005 23:18:11 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 15:00:28 -0000
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Cc: <tao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgudjT2tTdzaPK1cih1tjQ3rfRtcTNqNaqenogKNeq1Ngp?=
+Date: Thu, 15 Sep 2005 23:18:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+【 以下文字转载自 DEEAET 讨论区 】
+发信人: jiefangxie (时间快到了..逼上梁山啊), 信区: DEEAET
+标  题: 关于暂停收取重修费的通知zz
+关于暂停收取重修费的通知 
+分类：注册中心  
+ 
+--------------------------------------------------------------------------------
+关于暂停收取重修费的通知 
+清教发21号
+根据国家相关部门精神，经清华大学校内收费及标准核定小组2005年度第一次会议决定，自2005-2006学年度秋季学期开始，暂停收取重修费。
+相关说明如下：
+1．自2005年9月10日起暂停收取重修费。停收重修费后，学生应根据教务管理中有关重修、选课的规定，对不及格课程进行重修。重修课程成绩的记载方式，仍按照《学生手册》和《研究生手册》中的相关规定执行。
+2．自2005-2006学年度秋季学期开始，同时暂停向开课院系发放重修课程的教学经费。
+特此通知
+清华大学注册中心
+2005.9.14
+ 
+ 

@@ -1,0 +1,22 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <chi@ccert.edu.cn>; Sat, 20 Aug 2005 15:55:08 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 08:05:22 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 08:05:22 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "gu" <gu@jdl.ac.cn>
+To: chi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INe8sbizycGiSUO5q8u+o6zV2dPQ1r7Wrsq/?=
+Date: Sat, 20 Aug 2005 16:09:30 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+ip是什么
+     你好，我是一名有着5年工作经验的IC工程师，曾在一家大公司做，因此对于IC得整个设计流程熟悉，而且积累了相当多的IP库，也做了大量高性能芯片的研发设计。根据我的了解目前我国现在IC设计仍然处于低水平状态，很难有做到高性能芯片的公司，大家知道，集成电路设计水平

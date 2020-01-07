@@ -1,0 +1,38 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8UBYHfL001438
+	for <gu@ccert.edu.cn>; Sun, 2 Oct 2005 13:03:57 +0800 (CST)
+Received: (eyou send program); Sun, 2 Oct 2005 12:48:23 +0800
+Message-ID: <328079123.17836@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 2 Oct 2005 12:48:23 +0800
+Message-ID: <328079123.07659@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sun, 2 Oct 2005 12:48:23 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 2 Oct 2005 04:48:23 -0000
+Message-ID: <010201c5c5b4$6d2b0c10$0c42423b@tunoc1a645037e>
+From: "hou" <hou@mail.tsinghua.edu.cn>
+To: gu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgeM6qZih4KbrNZyh4LHkpzazKscih1+7Qoda1yrG68rXEss7K/aOs1PXDtLHtyr6jvyAo16rU
+2A==?=
+Date: Sun, 2 Oct 2005 13:14:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00FF_01C5C5F7.7B1E8980"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+【 以下文字转载自 Mathematics 讨论区 】
+发信人: theking (jacky), 信区: Mathematics
+标  题: Re: x为f(x)和g(x,y)同时取最小值时候的参数，怎么表示？ (转载
+我在写文章，需要表示一个值
+还是不对，可能我的意思没有表达清楚
+我的问题是
+先必须满足g(x)取最小值，这时候x的取值还有多种可能
+设为集合X的任何一个元素吧
+再从这多种可能也就是集合X中取一个值，使得f(x)尽可能的小
+也就是比x取集合X中的其它值时小，但并不是f(x)在定义域上的最小值
+如何表示这样的一个x？
+两个条件有先后关系，不是完全独立的，谢谢
+     对。交上就可以了。你在学什么？数理逻辑？模型论？

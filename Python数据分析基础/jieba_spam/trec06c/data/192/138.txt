@@ -1,0 +1,38 @@
+Received: from 163.com (m13-38.163.com [220.181.13.38])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R44erL016207
+	for <you@ccert.edu.cn>; Tue, 27 Sep 2005 13:14:36 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4338C772.00011A.09069@bj163app38.163.com>
+Date: Tue, 27 Sep 2005 13:25:35 +0800 (CST)
+From: "yan" <yan@163.com>
+To: you@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+X-Priority: 3
+X-Originating-IP: [192.168.208.3(211.71.208.220)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 163com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_UavxAYpNvcbFdlmHkWPevJPmofML"
+
+计算机系的大牛基本没人和你玩，我就勉为其难吧，
+其实我当初就是计系一小面，只不过大二时候发过
+一本linux的书，二百多页,邮电出版，
+销量还不错，以至于教研组的老师都买了一本
+计系比我强的基本上车载斗量...
+所以我就不知道博士生会玩tex, linux究竟算什么
+     标  题: Re: 请问各位大牛做了什么比王垠更了不起的事了
+     
+     请问阁下作了什么比linux更了不起的事了？
+     : 标  题: Re: 请问各位大牛做了什么比王垠更了不起的事了
+     : 
+     : 王垠的paper不是我们瞧不起，是it自己就瞧不起，
+     : 我们看不起的是它的linux tex
+     : : 我是外校的。我知道清华有很多“大牛”，喜欢而且拥护清华的制度。
+     : : 我只是困惑，就算ieee,sci所有的期刊全是你们的“牛”论文对成为科技强国有什么意义么？
+     : : 你们看不起linux，看不起latex这些小儿科，当你们用盗版的word打你们的best paper award candidates的时候，当用盗版powerpoint演示你们的方案的时候，你们就变得比王垠更有学术气质了么？更像搞研究的了？
+     : 
+     : --
+     : 
+※ 修改:・Hurricane 于 Sep 28 04:46:24 修改本文・[FROM: 131.151.101.*]
+     
+     
+     --
+     

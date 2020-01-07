@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <gong@ccert.edu.cn>; Thu, 25 Aug 2005 11:48:02 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 12:06:22 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 12:06:22 +0800
+Date: Thu, 25 Aug 2005 12:06:22 +0800
+From: mei@cernet.com
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+To: gong@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+中国的工会、劳动保障部门形同虚设
+     不知道为什么,我很讨厌华为,其实我是一个和通讯根本不占边的人,耶不懂什么是好,什么是坏,但是就像很多人喜欢春春一样,好像歌唱得不是很好,但是就是喜欢,
+     所以不知道为什么我就是不喜欢华为,根深蒂固的,从5年前开始就是~
+     因为5年前,我在飞机上偶遇一个浙大的GG,(那时我是大二吧),他就告诉我他在华为工作,好累,好苦,那时我好同情他,我说这个单位怎么这样的?

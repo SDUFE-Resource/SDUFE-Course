@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <long@ccert.edu.cn>; Thu, 29 Sep 2005 13:20:09 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Thu, 29 Sep 2005 05:06:25 -0000
+Date: Thu, 29 Sep 2005 13:32:09 +0800
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: long@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+你还真指望那款计算器给你用。。。没给老师逮那是有的老师不熟悉规则，否则死的很难看，任何规定使用那种计算器都是作弊行为
+     我听自动化的师兄是这么说的。
+     再说了，电路原理本来就  相对  要简单一些嘛。反正我们当时学的时候，课后题和老师推荐的书的习题以及平时上习题课的题目，基本没有不会做的。大一的课，不像信号，还有那么多数学的东西。期末考试一堆人90多分。
+     我师兄叫我把那本小本的，比较薄的什么习题精编做两遍，那玩意我大一的时候一个晚上就可以做半本。

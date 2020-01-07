@@ -1,0 +1,34 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TBAtQH005875
+	for <bai@ccert.edu.cn>; Sat, 1 Oct 2005 19:16:50 +0800 (CST)
+Received: (eyou send program); Sat, 1 Oct 2005 19:01:52 +0800
+Message-ID: <327991357.01131@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 1 Oct 2005 19:01:52 +0800
+Message-ID: <327991357.01115@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Sat, 1 Oct 2005 19:01:52 +0800
+From: yana@mail.tsinghua.edu.cn
+To: bai@ccert.edu.cn
+Date: Sat, 1 Oct 2005 19:01:52 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1tC5+rSrw72089GnuePQvsq10enK0r3TytzD4srUzeLNxtHQvr/J+g==?=
+Content-Type: text/plain
+
+获得保送外推研究生资格的同学请注意：
+    本实验室接收免试研究生，两年制，毕业后拿的是中国传媒大学（原北京广播学院）
+计算机与软件学院的工学硕士学位。有意保送到本实验室的同学请将简历发送到
+    gr_cuc@163.com
+    请在简历中注明
+    1、姓名
+    2、性别
+    3、本科的学校和专业
+    4、成绩排名和年级总人数
+    5、联系方式
+    6、本科所修读的主干课程以及成绩
+    7、其它你认为 必要的信息。如实践经验，技术认证等。
+    最好是通信以及相关专业的同学。
+    实验室简介：
+    中国传媒大学广芯数字系统集成研究所，是一从事世界前沿先进数字广播和数字通信的
+信源编解码和信道编解码及其宽带移动多媒体手机电视片上系统(SOC)设计和系统集成的研
+究所.研究内容包括低码率高清晰度数字视频H.264编解码，
+数字音频AAC的编解码，数字广播信道编解码，WiFi802.11a/b/g/WiMax802.16e SOC系统,
+DVB-H/DMB/DTV系统集成，IPTV网络广播 和手机电视移动广播系统.

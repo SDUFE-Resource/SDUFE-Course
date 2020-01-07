@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <kang@ccert.edu.cn>; Sat, 3 Sep 2005 02:47:30 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <kang@ccert.edu.cn>; Sat, 3 Sep 2005 03:00:05 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 18:49:16 -0000
+From: "yana" <yana@mail.tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+Cc: <he@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgbW3U9cO0wcs=?=
+Date: Sat, 3 Sep 2005 03:00:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+  今天mm来我这玩，一天都挺开心的。后来mm说要我从箱子里面取点东西，因为箱子在床底下最深处，也不是很着急，我就说稍微等一下就去取。mm立刻就很生气，然后就开始很大声的用那种威胁命令的口气吵我，接着就甩门走人，当时隔壁的室友们都在。类似的事情总是发生，mm总是会为了这些小事情发脾气。她让我做什么我就要马上做什么，只要我和她的想法有点不一样，她就要发脾气，甚至在很多人的面前也不给我面子。我每次问她为什么，她给我的回答让我很吃惊，是因为我没有好好学习，她看见我就烦，所以就对我态度不好。这有联系吗？看见我烦为什么还要天天和我在一起学习 吃饭 看碟……

@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <su@ccert.edu.cn>; Thu, 15 Sep 2005 08:14:54 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <su@ccert.edu.cn>; Thu, 15 Sep 2005 08:26:55 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 15 Sep 2005 00:09:28 -0000
+From: "luo" <luo@mail.tsinghua.edu.cn>
+To: su@ccert.edu.cn
+Cc: <yuan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7KuPbOyszio6zE6sfhsNfB7MWuyMu2vNPDtuDJ2ceutcS7r9exxrewog==?=
+Date: Thu, 15 Sep 2005 08:26:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+喜欢什么的人都有。
+food版的喜欢去好馆子吃饭，一顿饭成百上千的，
+travel版的喜欢越野装备，一套冲锋衣一顶帐篷成百上千；
+beauty版的喜欢往脸上涂涂抹抹，瓶瓶罐罐成百上千；
+你要是去real-esteate班看看呢，那儿有人收集房子，几十万几十万一套的
+存着给父母兄弟姊妹及其未出生的儿女呢。
+有钱就按自己喜欢的方式花吧，算不上败家，家本来就是败出来的。
+     sigh...我怎么想怎么觉得这样有些败家...

@@ -1,0 +1,29 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <xu@ccert.edu.cn>; Thu, 8 Sep 2005 09:43:39 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <xu@ccert.edu.cn>; Thu, 8 Sep 2005 09:55:56 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "xu" <xu@126.com>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgy7nMubijyczRp9S61dDJ+tD7vbK74Q==?=
+Date: Thu, 8 Sep 2005 09:55:48 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+发信人: keyun (喜欢飞翔的感觉), 信区: THUExpress
+标  题: 斯坦福商学院招生宣讲会
+世界顶尖商学院 斯坦福大学商学院
+九月十五日晚七点至九点，希尔顿大酒店
+MBA 招生说明会，届时有招生委员会教授回答问题 请注册（见下宣传单）
+STANFORD MBA PROGRAM INFORMATION SESSION
+DATE: Thursday, 15 September 2005
+TIME: 19:00

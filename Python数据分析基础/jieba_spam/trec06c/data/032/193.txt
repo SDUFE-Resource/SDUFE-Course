@@ -1,0 +1,22 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <qing@ccert.edu.cn>; Wed, 24 Aug 2005 07:21:55 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 07:35:02 +0800 (CST)
+Date: Wed, 24 Aug 2005 07:28:48 +0800
+From: "cheng" <cheng@sohu.com>
+To: qing@ccert.edu.cn
+Cc: "yxl" <lian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7KzOK24Lbgo6y12tK7uPbOyszio6y52NPatdrSu7TOsvq87A==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+ABO溶血几乎可以忽略不计，没什么关系，关键是RH溶血。不过亚洲人大多数都是RH因子阳性，所以溶血的概率很低。不太清楚国内的验血查不查RH因子，米国这边是查的，只要RH阳性人家就不会管你ABO是否溶血呢。其实偶是O型，老公是A型，按ABO血型系统，偶们这种组合是很容易溶血的，但是这边医生提都没跟偶提过，估计是忽略不计的。
+     从网上看的文章，12～13周的时候去医院建卡，然后做第一次产检
+     18～20周的时候再做第一次B超
+     是不是这样呢？

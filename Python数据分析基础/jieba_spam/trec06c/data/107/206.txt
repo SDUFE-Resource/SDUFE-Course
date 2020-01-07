@@ -1,0 +1,26 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <weng@ccert.edu.cn>; Fri, 9 Sep 2005 18:59:22 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 9 Sep 2005 19:17:22 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Fri, 9 Sep 2005 19:17:21 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "xia" <xia@mail.csu.edu.cn>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM+yu7bJz9K7uPZNTaOsv8nKx7K71qq1wLjD1PXDtL340ruyvb27zfmjrHNpZ24uLi4=?=
+Date: Fri, 9 Sep 2005 18:58:48 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+等你们中科院或你们所组织活动时,坐一起,谈上几句,这样下来不就成了?
+     跟我在一个研究所，虽然我知道她，但是她还不认识我。
+     打听到她的邮箱后给她发邮件，希望和她认识，做个朋友。她也挺热情地回了信，偶备受鼓舞，又发了封信给她，就一直没回音了。
+     现在偶也不知道她有木有BF，但是觉得现在也不好意思直接问。而且她到现在也不知道偶到底是谁，是不是应该给她发张PP介绍自己先？可总感觉这样就太PIE了，不知道该怎么办。

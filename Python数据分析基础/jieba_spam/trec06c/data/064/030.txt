@@ -1,0 +1,30 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U2OGpf004571
+	for <mei@ccert.edu.cn>; Thu, 1 Sep 2005 10:14:04 +0800 (CST)
+Received: (qmail 5721 invoked from network); Thu, 1 Sep 2005 02:25:44 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 02:25:43 -0000
+Message-ID: <001101c5ad0b$dfe7c0c0$e900a8c0@d47db5334f2a479>
+From: "gao" <gao@jdl.ac.cn>
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrvczSu8zisru2qLv9t9Y=?=
+Date: Thu, 1 Sep 2005 10:28:03 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+     方法应该没错,是不是过程有问题?
+     my key is:
+     ln(x+(x^2-1)^1/2)+C
+楼上的没有看清楚题目啊。
+题目是对x*(x^2-1)^1/2求不定积分。你的求解是对(x^2-1)^1/2。
+对于本题，我觉得设x=sect是完全正确的。不过应该对t的范围作讨论。
+分t在(0,pi/2)和(pi/2,pi)。
+当t取(0,pi/2)时，sect&gt;1，x&gt;1，此时结果为：arccos(1/x)+C  
+当t取(pi/2,pi)时，sect&lt;-1，x&lt;-1，此时结果为：arccos(-1/x)+C。
+因此，本题结果为：arccos(1/|x|)+C。

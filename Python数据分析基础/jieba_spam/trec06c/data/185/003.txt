@@ -1,0 +1,33 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <guan@ccert.edu.cn>; Sun, 25 Sep 2005 21:28:41 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Sun, 25 Sep 2005 13:39:35 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Sun, 25 Sep 2005 13:39:35 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <guan@ccert.edu.cn>; Sun, 25 Sep 2005 06:50:42 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <guan@ccert.edu.cn>; Sun, 25 Sep 2005 08:47:08 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Sun, 25 Sep 2005 21:39:23 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <lv@motorola.com>
+To: guan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvrTH67nY16KhsLOkt+fGxsDLobHPtcHQvbLX+bXa0rvG2iAo16rU2Ck=?=
+Date: Sun, 25 Sep 2005 21:38:58 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+【 以下文字转载自 THUExpress 讨论区 】
+发信人: charlesguo (小哥哥), 信区: THUExpress
+标  题: 敬请关注“长风破浪”系列讲座第一期
+讲座时间：2005年9月28日星期三下午2:30

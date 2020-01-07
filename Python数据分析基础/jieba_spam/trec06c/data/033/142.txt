@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <zhang@ccert.edu.cn>; Wed, 24 Aug 2005 12:21:45 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <zhang@ccert.edu.cn>; Wed, 24 Aug 2005 12:34:59 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 04:29:32 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "ke" <ke@mail.tsinghua.edu.cn>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7StcTAp7vzo7q40Mfp0Oiyu9Do0qrSqr+80emjvw==?=
+Date: Wed, 24 Aug 2005 12:31:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+gao~~~~
+如果是这样，女生总是表示不满意，岂不是能够在局部实现最优解，获得最大的利？
+男生应该怎么办？
+博弈论认为，最优解在于首先表示出诚意，然后遵循最简单的跟随策略。
+当对方表现合作，我方合作。对方表现不合作，我方不合作。
+男生首先应该表示满意。
+当女生表示不满意的时候，男生也应该表示出不满意。
+而当女生表示出满意时，再跟着表示满意。
+     
+     : 这两件事情未必相关
+     : 也许前面那个人即使表现出对他不大喜欢也不会拼命追她
+     : 而后面那个即使表现出喜欢他也会拼命追
+     
+     --
+     

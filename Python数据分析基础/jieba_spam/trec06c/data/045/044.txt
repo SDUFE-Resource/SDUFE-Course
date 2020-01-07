@@ -1,0 +1,20 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <liao@ccert.edu.cn>; Fri, 26 Aug 2005 18:49:26 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Fri, 26 Aug 2005 10:39:01 -0000
+From: "feng" <feng@mails.tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 19:02:43 +0800
+
+不用了，同事之间帮忙是应该的，以后你有能帮他忙的地方出点力就好了。不要把公事办成了私事。上次看书，说工作中不要经常试图用个性魅力取代实力。
+     我在想中秋节我应不应该去看看上次帮我装机器的同事
+     上次是头儿帮我联系的，说他给我介绍的都是技术方面的大牛
+     我以后也会用得着，但是我当时去之前头儿提醒我说人家是有老婆的人（我当时就FAINT了）要表现的懂事点，不要惹人家老婆不高兴之类的

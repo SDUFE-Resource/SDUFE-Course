@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83CBlYV005279
+	for <zhuang@ccert.edu.cn>; Mon, 5 Sep 2005 21:28:32 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83COHdV019350
+	for <zhuang@ccert.edu.cn>; Mon, 5 Sep 2005 21:41:02 +0800 (CST)
+Message-Id: <200509031224.j83COHdV019350@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 13:28:33 -0000
+From: "bai" <bai@mail.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Cc: <jin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IHJlOlu6z7yvXSC159fTzajQxbe9z/I80MW6xdPrz7XNsz6yu7+8tcTE2sjd?=
+Date: Mon, 5 Sep 2005 21:40:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5B0C5.716D46C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWwgmMrCakV2o5FTJGgH6GL8DeD6Q==
+
+期中期末是山老师出的？
+倒~~~~
+不管谁出的吧，
+反正都得老老实实看书不是么。
+陆老师的确很牛，
+据传在清华上本科的时候很少不考满分，
+后来在香港科技大学念的博士，
+专业是微小卫星通信。
+     山老师出的题我感觉很偏数学，差不多就是郑老师的风格了

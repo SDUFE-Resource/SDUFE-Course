@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J3Tsuc012204
+	for <shen@ccert.edu.cn>; Tue, 20 Sep 2005 19:16:14 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J3P05T085835
+	for <shen@ccert.edu.cn>; Tue, 20 Sep 2005 19:12:29 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (m13-67.163.com [220.181.13.67])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J3OphQ085831
+	for <shen@ccert.edu.cn>; Tue, 20 Sep 2005 19:11:14 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+MIME-Version: 1.0
+Message-ID: <432E330C.000184.26953@bj163app67.163.com>
+Date: Tue, 20 Sep 2005 19:26:15 +0800 (CST)
+From: "zeng" <zeng@163.com>
+To: shen@ccert.edu.cn
+X-Priority: 3
+X-Originating-IP: [192.168.208.154(210.25.128.99, 202.38.188.130)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com -->
+	163com
+Subject: =?gb2312?B?UmU6IM3tytrRp867ttS7p7/a09DKssO007DP7KO/?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1569947849=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+没什么关系吧。
+     标  题: 晚授学位对户口有什么影响？
+     
+     户口已经审批下来了，现在要落户，但是因为晚授学位，所以寄给人才中心的档案里面没有
+     研究生期间的一些材料，也就是不能证明我是研究生，但是我办户口的时候，填的资料都是研究生的，请问，把档案寄过去之后，对落户有什么影响么？多谢，多谢！
+     --
+       江涌楚天阔，桂影渐婆娑。孤独夜色无奈，不见有星河。灯火千家摇曳，唯我依稀入梦，对饮与嫦娥。只愿广寒里，醉倒卧云波。
+       相思绪，今铸就，奈她何？别离无语，可否追悔驾长车？望破婵娟飞镜，难觅伊人身影，此恨哪堪说！月去不需我，寂寞放悲歌。
+     
+     

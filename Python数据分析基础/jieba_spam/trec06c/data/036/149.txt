@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <gan@ccert.edu.cn>; Thu, 25 Aug 2005 03:55:30 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <gan@ccert.edu.cn>; Thu, 25 Aug 2005 04:08:44 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 20:03:17 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "qian" <qian@mail.tsinghua.edu.cn>
+To: gan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILGxtPO6zcflu6q1xLncwO2/xtGn0+u5pLPMzerIq7K70rvR+aO/?=
+Date: Thu, 25 Aug 2005 04:05:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+MIS也分方向的，北大的更偏计算机方向。
+这边对数学的要求更高
+     标  题: 北大和清华的管理科学与工程完全不一样？
+     
+     有牛人了解吗？
+     北大还要考管理信息系统部分含计算机网络、数据库、数据结构、信息系统开发与管理、计算机语言C或Java。
+     而清华完全没有写要考计算机的知识？
+     
+     为什么呢？谢谢
+     
+     --
+     

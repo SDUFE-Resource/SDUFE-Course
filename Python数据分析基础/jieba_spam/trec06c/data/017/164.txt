@@ -1,0 +1,29 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <cao@ccert.edu.cn>; Sat, 20 Aug 2005 15:20:16 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Sat, 20 Aug 2005 15:36:42 +0800 
+Date: Sat, 20 Aug 2005 15:33:18 +0800
+From: "lin" <lin@admin.iscas.ac.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+u9zNK7uPbXsL/VtffT68uixuHF5LrPtcTOysziICjXqtTYKQ==?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+【 以下文字转载自 Occupier 讨论区 】
+发信人: greatlixin (雨飞), 信区: Occupier
+标  题: 请教一个装空调与刷漆配合的问题
+正在装修，马上就要刷墙漆了，打算在明年夏天来临之际在装空调，有几个问题想请教一下。
+1、是否需要在刷漆前，并且未定空调类型的情况下，将空调的孔打出来？
+2、如果等到定下空调再打孔，并且墙漆已经刷完的情况下，打孔是否会对孔周围的墙漆造成影响？如果有影响能否补救呢？
+3、一般在什么时候买空调，折扣会更多一点呢？
+万分感谢！比较着急，如果天气允许，后天就要开始刷漆了。

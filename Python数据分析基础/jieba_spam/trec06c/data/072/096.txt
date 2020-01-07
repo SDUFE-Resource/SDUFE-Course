@@ -1,0 +1,38 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U1PmpO004160
+	for <he@ccert.edu.cn>; Fri, 2 Sep 2005 14:28:18 +0800 (CST)
+Received: (qmail 858 invoked from network); Fri, 2 Sep 2005 06:39:55 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Fri, 2 Sep 2005 06:39:54 -0000
+Message-ID: <000701c5ad03$b6eade80$e900a8c0@d47db5334f2a479>
+From: "rao" <rao@jdl.ac.cn>
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQw7vT0MjLz/HO0tK70fmho6GjoaOjvw==?=
+Date: Fri, 2 Sep 2005 14:42:20 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+这个……
+就是把连接水木的地址换成这个地址啊。
+穿梭不是代理。
+     标  题: Re: 有没有人像我一样。。。？
+     
+     没人指导一下？
+     fterm
+     代理类型sock5
+     地址proxy4.ppmm.org
+     端口 1080？
+     地址簿bbs.newsmth.net
+     使用sock代理，代理1
+     怎么不行？
+     : 怎么设？
+     
+     
+     --
+     

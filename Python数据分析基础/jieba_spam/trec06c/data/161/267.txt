@@ -1,0 +1,38 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <gan@ccert.edu.cn>; Wed, 21 Sep 2005 04:03:50 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 20:14:51 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 20:14:51 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <gan@ccert.edu.cn>; Tue, 20 Sep 2005 13:25:48 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <gan@ccert.edu.cn>; Tue, 20 Sep 2005 15:23:14 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Wed, 21 Sep 2005 04:14:38 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <ren@motorola.com>
+To: gan@ccert.edu.cn
+Cc: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INbQx++92tPQw7vT0Lj6ztLSu9H50/TDxqO/?=
+Date: Wed, 21 Sep 2005 04:14:12 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+比你郁闷的多了
+中秋节都过完了，还说这些干什么啊
+     还没等俺表白，人家就直接说我们不合适的，短信说了，电话也是这么说了！
+     比起板上的兄弟们我最惨吧，连表白都没有说，就被refuse了！
+     基本理由就是,跟俺没有安全感,暗指花心吧~~
+     中秋节狂郁闷阿,打了一下午球,狂抽!学会了对攻!
+     昨晚也没有月亮,正好想找人家去紫竹院看月亮也不用啦
+     有谁中秋节和我一样郁闷?~~~~~~~~~~~~~~~~~~~惨就一个字

@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <weng@ccert.edu.cn>; Wed, 24 Aug 2005 17:46:00 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Wed, 24 Aug 2005 18:04:23 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 18:04:23 +0800
+Date: Wed, 24 Aug 2005 18:04:23 +0800
+From: qian@cernet.com
+Subject: =?gb2312?B?UmU6ILjQvvXH5buqyrPMw7XEs/jKpsuuxr3Mq7Luo6E=?=
+To: weng@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+知足常乐吧，别太把自己当盘菜，还是适应环境的好，呵呵。
+         刚入学，几天来在不同食堂的比较，且不说同样档次的菜比我原来学校贵了一倍，更让我感觉到郁闷的是清华各个食堂厨师做菜难以入口，比如各个食堂都有很多所谓的“川菜”，但是我吃了后感觉连四川的街边小摊的水平都比不上(我是四川成都人），味道十分奇怪，难道只知

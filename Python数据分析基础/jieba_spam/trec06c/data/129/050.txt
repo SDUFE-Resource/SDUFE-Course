@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <lin@ccert.edu.cn>; Wed, 14 Sep 2005 05:35:21 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <lin@ccert.edu.cn>; Wed, 14 Sep 2005 05:47:22 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 21:29:55 -0000
+From: "liao" <liao@mail.tsinghua.edu.cn>
+To: lin@ccert.edu.cn
+Cc: <gong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9eqyMNdIKGwu7e+s8+1obG/vNHQ18rBz6Oou6/RpyvOosn6zu+jqczhuak=?=
+Date: Wed, 14 Sep 2005 05:47:17 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+资料类别
+“环境系”考研资料（化学+微生物）提供
+资料名称、原价（或笔记复印件页数）及转让价
+化学：02 03 04 05四年真题
+微生物：历年期中期末试题 本科生微生物课堂讲义 本科生作业 复习提纲 03 04 05年微生物考研真题。近200页。
+只收取部分复印和邮寄费用
+联系方式
+sdweiaili@163.com 或 站内邮箱
+其他说明
+作为过来人，经过了初试、复试和录取，积累了少许的经验和教训，也愿意跟你一起分享。
+有什么疑难问题都可以直接问我 
+祝大家明年能顺利实现梦想！加油！ 

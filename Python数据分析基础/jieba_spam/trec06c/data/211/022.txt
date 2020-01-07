@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T2QvLi001892
+	for <yang@ccert.edu.cn>; Fri, 30 Sep 2005 22:59:55 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8T2U2h24691;
+	Fri, 30 Sep 2005 23:03:00 +0800
+Message-Id: <200509290230.j8T2U2h24691@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Fri, 30 Sep 2005 15:03:00 UT
+To: yang@ccert.edu.cn
+From: mei@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILrczbS/4LXE0ru8/srC?=
+
+《企鹅宝贝》？是电视剧还是电影？很好看吧？很可惜我没有看过，我一点也不怪他的妈妈，我是晚辈呀，晚辈应该尊重老人嘛！我可以尽力做得很好，我也会尊重他的妈妈。觉得一个人有时心情不好了，在这上面找个人来聊聊，有困难了大家给我回复信息，发表自己的看法，我在做事情的时候多吸纳大家的意见，这样子真的很好，我的心情也好多了，谢谢大家！
+     很多时候，并不是相爱就可以一生一世；
+     很多时候，你必须站在对方父母的角度想想；
+     你看过《企鹅宝贝》么？你会明白父母有多么不容易……

@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8EBMZaM026296
+	for <he@ccert.edu.cn>; Fri, 16 Sep 2005 16:50:43 +0800 (CST)
+Received: (eyou send program); Fri, 16 Sep 2005 16:44:25 +0800
+Message-ID: <326696577.15347@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 16 Sep 2005 16:44:25 +0800
+Message-ID: <326696577.15331@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Fri, 16 Sep 2005 16:44:25 +0800
+From: jian@mail.tsinghua.edu.cn
+To: he@ccert.edu.cn
+Date: Fri, 16 Sep 2005 16:44:25 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INPQyMvC9LGxtPO8xsvju/rXqNK1v87N+cTq1ebM4rXEwvA=?=
+Content-Type: text/plain
+
+打电话问研招办
+然后时装5块钱到信封，就能邮回来:) 不过建议你采用下面的方法(不过不是卖的）：
+发信人: arcane (身是天涯浪荡客*心似日暮归林雀), 信区: Kaoyan
+标  题: 考计算机的研友看过来
+发信站: 北大未名站 (2005年07月01日07:36:24 星期五), 转信
+前一段时间尝试用qq和email传试题，实在慢得受不了，所以只有暂时不传了，见谅：（
+现在我把试题都放在一个公共邮箱里面了，想要的朋友请去bdwmbbskaoyan@126.com
+中看，密码是kaoyanren.请不要改密码。如果密码被人改了请联系我，我再改回来，在收
+件箱里。
+欢迎大家传点新资料里面方便共享
+我申请了密码保护，想改密码的人还是省省心吧
+     有人卖北大计算机专业课往年真题的吗？最好有离散数学

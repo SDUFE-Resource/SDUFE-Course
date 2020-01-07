@@ -1,0 +1,21 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j874iPdV032722
+	for <wei@ccert.edu.cn>; Fri, 9 Sep 2005 05:23:46 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by smtp119.sohu.com (Postfix) with ESMTP id 84D5F0526C87
+	for <wei@ccert.edu.cn>; Fri, 9 Sep 2005 05:35:48 +0800 (CST)
+Date: Fri, 9 Sep 2005 05:35:57 +0800
+From: "guo" <guo@sohu.com>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXms8+1xMfrvcy49867xfPT0SzM2LHwysfH68jIwbXW0LXExa66otfTsO/O0r3itPAs0LvQ
+uyE=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907045627.84D5F0526C87@smtp119.sohu.com>
+
+  真是好人啊！我怎么就碰不到这样的呢？
+     这倒不是吹牛,烧菜做饭对我来说是很EASY,小时候家里穷,老爹老娘要抓紧时间干活,很小就学会了家务,厨艺基本上还算拿的出手,很多朋友对我这点很欣赏,呵呵,自夸一下
+     不过,过生日我估计不会是我们两个吧,她有几位很要好的朋友,而且我是穷光蛋,又没有房子,住在学生宿舍的啊,她跟我一样.两个人的话,做饭很不错,人一多了好象不是很方便,要是有了房子,那肯定很温馨

@@ -1,0 +1,19 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2svQX010170
+	for <liu@ccert.edu.cn>; Sat, 17 Sep 2005 09:27:17 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G3Pt3h004638
+	for <liu@ccert.edu.cn>; Sat, 17 Sep 2005 09:58:18 +0800
+Message-Id: <200509160325.j8G3Pt3h004638@stmp.nisac.gov.cn>
+Date: Sat, 17 Sep 2005 09:38:25 +0800
+From: "qing" <qing@mail.nisac.gov.cn>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgstmzodPWtuDBy9K7tK7Kp9LiyMu1xL3F06Ghow==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+ 明天就是中秋节，班里的聚会不想去。中秋节可能只有我一个人孤独，星不多却可以成对，数星解愁的企图破灭了。我仅有的想法是就在操场里转两圈，可能有人认为我不够虔诚，因为我只是用脚步在丈量土地，我就想我一直走下去，走下去，机会就在这条路上，不知道我能不能抓住，我数着脚步一百步，一千步。。。我没有走到明天，因为不久我发现我并不孤独，在我的前面是一辆自行车，他用这种清华最传统的交通方式来淹没我的脚步。我无奈了，做什么事都是这么痛苦。

@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <lu@ccert.edu.cn>; Mon, 12 Sep 2005 18:05:57 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <lu@ccert.edu.cn>; Mon, 12 Sep 2005 18:17:55 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 12 Sep 2005 10:00:43 -0000
+From: "han" <han@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Cc: <yang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL3MxOO8uNXQv7TNuNK70KnKwsfp?=
+Date: Mon, 12 Sep 2005 18:17:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+我的手很粗糙、发质很差，不敢正眼看人，没有什么对手，好友不错，字写得不好，
+梦醒时总是很痛苦，胸襟不够宽广
+     看一个国家的国民教育，要看他的公共厕所。 
+     　　看一个男人的品味，要看他的袜子。 
+     　　看一个女人是否养尊处优，要看她的手。 
+     　　看一个人的气血，要看他的头发。 
+     　　看一个人的心术，要看他的眼神。 
+     　　看一个人的身价，要看他的对手。 
+     　　看一个人的底牌．要看他身边的好友。 
+     　　看一个人的性格，要看他的字写得怎样。 
+     　　看一个人是否快乐，不要看笑容，要看清晨梦醒时的一刹那表情。 
+     　　看一个人的胸襟，要看他如何面对失败及被人出卖。 
+     　　看两个人的关系，要看发生意外时，另一方的紧张程度。 
+     　　看你重不重视我的贴子，就要看你有没有看到此处了。 
+     　　年轻人,看你有没有良心，就要看你回不回贴了

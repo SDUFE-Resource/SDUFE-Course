@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <zhu@ccert.edu.cn>; Fri, 26 Aug 2005 07:12:44 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 07:20:14 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 07:20:14 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 07:20:14 +0800
+From: shi@mail.tsinghua.edu.cn
+To: zhu@ccert.edu.cn
+Cc: liao@ccert.edu.cn
+Date: Fri, 26 Aug 2005 07:20:14 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INX3yMu45svfztKjrL3xzOy1xLu3z9+12Mz61PXDtMHL?=
+Content-Type: text/plain
+
+环线一列车风扇故障 地铁2号线局部运营受影响 
+   
+今天上午7点35分左右，2号线地铁一列车行至内环（崇文门――前门方向）崇文门站时，4号车厢发现有异味，司机下车检查后，判定是一电风扇短路所致，经请示后该列车清空回库检修。该列车空载行至和平门站时故障风扇短路点发生明火，车站站务员通知司机并共同扑救控制火势，同时及时拨打119，消防队赶到后于8点12分将明火扑灭，在此期间环线和平门站暂时采取封站措施，外环地铁保持正常运营，环线主要车站及时采取告知措施，通知乘客乘坐外环地铁并选择其他交通工具，西直门地铁采取了暂时的限流措施。
+据了解发生故障的列车为已经运行了20多年的老车，是已列入逐步更新的列车，针对这起事故地铁公司将组织专门人员进行认真分析，并对此类车加强维护保养，以确保车辆质量。
+在此地铁公司就今日早高峰列车发生故障造成2号线内环运营秩序受到影响，给乘客出行带来不便表示歉意。同时感谢广大乘客在处理此次紧急情况时表现出来的积极配合。（地宣）
+     还有，今天啥日子，为啥一大早就那么多人出门

@@ -1,0 +1,25 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <xing@ccert.edu.cn>; Tue, 13 Sep 2005 01:25:18 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Tue, 13 Sep 2005 01:37:17 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Tue, 13 Sep 2005 01:37:13 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "peng" <peng@dlut.edu.cn>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILrNxam05UdHwbWwrrXEsa+wpw==?=
+Date: Tue, 13 Sep 2005 01:32:59 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+说的真不错，有道理
+     作为一个农村出来的男性，忍不住说两句了。
+     也许对于清华研究生毕业才挣2000，确实很少；但要看将来，他有能力上清华，就有能力挣钱（看你怎么培养他了，包括去掉他一些坏毛病，培养他的气质）。
+     不讳言，我刚毕业的时候（北大小硕），第一个工作也才2000，说来真是丢人，同学里面大概有挣我四五倍的吧。但这不是说能力就一定比别人差了四五倍；主要在于交流方面、整体形象方面确实跟城市出来的孩子有差距。

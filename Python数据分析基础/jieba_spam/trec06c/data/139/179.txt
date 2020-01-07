@@ -1,0 +1,22 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <zhang@ccert.edu.cn>; Fri, 16 Sep 2005 07:40:48 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <zhang@ccert.edu.cn>; Fri, 16 Sep 2005 08:11:56 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 07:52:03 +0800
+From: "feng" <feng@mail.nisac.gov.cn>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFt6el1s0rnEu8/CtcTI/cLWs7W4vg==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+前面写的很好，后面都是什么玩意
+      作者：西风飘絮_  提交日期：2005-9-14 21:51:10  
+     　　华灯初上，难得亚运村的天能看得到星光，这是一件让人兴奋的事。
+     　　　　和女友商量好要到附近的一家西北餐厅解决晚餐问题。出得小区大门，看到一些人力三轮横七竖八地地停在马路边揽客，如果路稍远的话，每遇到这种场景，我们总是会照顾一下这些人的生意，我向来尊敬自食其力的人。

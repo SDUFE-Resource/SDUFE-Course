@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <feng@ccert.edu.cn>; Wed, 7 Sep 2005 14:29:16 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <feng@ccert.edu.cn>; Wed, 7 Sep 2005 14:27:32 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <feng@ccert.edu.cn>; Wed, 7 Sep 2005 14:27:12 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Wed, 7 Sep 2005 06:16:24 -0000
+Date: Wed, 7 Sep 2005 14:37:16 +0800
+From: "lei" <lei@mails.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO80r71tcO7s9TQy8S49tTCuOPXsNDev8nQ0MLw?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <rao@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+千盼万盼，终于拿到新房钥匙了，接下来就要搞装修了，可是这会已经怀孕4个半月了，我认为趁着9，10月份我是在怀孕4－6个月，体力也比较好，把房子收拾出来，晾着，明年生完（预产期2月初）就可以搬了。老公的意见：装修是大工程，现在我跑来跑买东西会累，装修现场有味，这会对胎儿造成不好影响，他说应该明年生完4，5月份再装。可是那得什么时候才能搬进去？目前我们住的一室一小厅，我早就住够了，当然希望有可能早搬进去，而且装修无论现在还是明年都是得我做，他也帮不上什么忙（工作关系），而且我现在也打算把我妈请来帮忙盯着，会量力而行。老公就认为凡是有可能对小孩有一点不利影响的绝不应作，为这个还争执了一晚上，过来人能否说说意见？装修半包出去，主材也订的差不多，这个个人的工程量还有多大？我的想法可行吗

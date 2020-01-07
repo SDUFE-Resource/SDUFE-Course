@@ -1,0 +1,36 @@
+Received: from 163.com (m13-38.163.com [220.181.13.38])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R44erL016207
+	for <cen@ccert.edu.cn>; Tue, 27 Sep 2005 21:50:10 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4338C772.00011A.09069@bj163app38.163.com>
+Date: Tue, 27 Sep 2005 22:01:09 +0800 (CST)
+From: "kong" <kong@163.com>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1ffFo8jLuPjL3snhUFBNTbSmwO3N+MLnzsrM4g==?=
+X-Priority: 3
+X-Originating-IP: [192.168.208.3(211.71.208.220)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 163com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_UavxAYpNvcbFdlmHkWPevJPmofML"
+
+昨天第一次冒泡问个问题
+碰到很多好心人
+结果给宿舍郁闷了两整天的PPMM无限希望
+她的电脑在过去的48小时罢工
+打了N次给校园网管理中心
+那边都不甩
+我把她的情况贴出来好了：
+“客户端一直处于寻找服务器状态，看属性， ip地址显示为154.256……
+此前一直都好好的。显示10.112.……不知道出什么事情了
+中午还好好的，晚上就完蛋了呢，我什么都没做啊
+高手出出主意
+有别的寝室的同学也出现类似问题
+重装也不行
+打电话去网络中心，到10点多才有人接，说他不知道为什么
+叫我打另一个电话，一直没人接
+这个该谁负责呢？是软件的问题么？”
+我们在人大
+要是那位好心的牛人有空可以来帮忙看下吗？
+她这两天正在赶稿，
+很急用的说
+最后，我征求了她的同意
+搞定的话MM请吃饭：）

@@ -1,0 +1,34 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <liao@ccert.edu.cn>; Fri, 16 Sep 2005 23:56:47 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <liao@ccert.edu.cn>; Sat, 17 Sep 2005 00:13:22 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <liao@ccert.edu.cn>
+	; Sat, 17 Sep 2005 00:13:22 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <liao@ccert.edu.cn>; Fri, 
+	Fri, 16 Sep 2005 23:38:23 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "lv" <lv@njnu.edu.cn>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMnu0rmjrLbA19S/3sb8?=
+Date: Sat, 17 Sep 2005 00:08:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+想哭就哭吧
+想想：这样的打击都受过了，还有什么不能再忍受的吗
+      当是一种积累好了
+加油啊
+     实习一个多月了，虽然去了很有名的一家工作室！每天很累，因为学校位置很偏僻，每天来回都要在车上耗上3个小时！这几天，在那边帮着扫描一本书和一些照片（工作室那台扫描仪很不好用，每天我几乎都是在和它折腾，磕磕碰碰终于弄弯了，中间几次被老板和他的助手提醒，说无论怎么样你都得完成），下午老板在工作室一台机器上打开图片来看，发现颜色偏差很大，当时我跟他解释，他也不听。女助手也在那指指点点地。中间几乎是质问我了，但是我知道我没有错，也都坚持着不说一句话了。一个同事觉得肯定是显示器的问题，把图片调到新买的那台G5: 上打开，顿时真相大白。老板在那说机器怎么这样差劲了，我也不吭声，继续弄我的东西，我用的是工作室最差的那台屏幕几乎已经花掉了的G3。整个过程我都不说一句话，等着老板回自己的办公室了，我对着显示器，眼泪终于止不住地往下掉，回想这段时间，很多时候都是委屈得想哭，刚来的时候在阳台上偷偷抹眼泪，几乎天天哭，今天再一次因为委屈而哭。
+     7点左右，下班，走之前跟老板打招呼，他也没有理我。女助手朝我笑了笑。走出来，我的眼泪又一次止不住地流，雨一直在下，还有那么几丝寒风，滴在我的脸上，手上，也滴在我的心里。在附近的超市买了一碗酸辣粉，几近麻木地一口一口吞下，脑子里都是最近委屈的事情。该死的学费，导师的作业，昨天一个老师的严厉批评，还有浓浓的乡愁，我在这个很多人向往的城市，过着很不快乐的生活。我经常在下班的那趟34路车上抹眼泪，我经常在回家的车上，看着万家灯火想念远在湖南的亲人。

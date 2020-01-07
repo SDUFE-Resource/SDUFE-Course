@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J3gCnM014711
+	for <ni@ccert.edu.cn>; Tue, 23 Aug 2005 03:56:44 +0800 (CST)
+Received: (eyou send program); Tue, 23 Aug 2005 04:04:41 +0800
+Message-ID: <324423409.11928@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 23 Aug 2005 04:04:41 +0800
+Message-ID: <324423409.11903@mail.tsinghua.edu.cn>
+Received: from 202.112.4.166 by 166.111.8.18 with HTTP; Tue, 23 Aug 2005 04:04:41 +0800
+From: qian@mail.tsinghua.edu.cn
+To: ni@ccert.edu.cn
+Date: Tue, 23 Aug 2005 04:04:41 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+Content-Type: text/plain
+
+虽然这年头大家都在骗银行的钱，不过华为骗的尤其多。
+其实有一个大家很bs的公司在这方面做的很厚道：联想。
+可能因为它没有很厚的政府背景，所以骗不到那么多。
+也许这也是联想无法在研发上大投入的原因。
+     我有若干个同学在华为，应该还是有资格说几句的。不过我
+     事先声明，1我的℃信息都是两年前的；2，不保证一定正确，
+     但是可以保证我不会骗你，如果我说错了那一定是别人骗了我。

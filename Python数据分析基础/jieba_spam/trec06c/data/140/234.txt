@@ -1,0 +1,23 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G3hMU7010661
+	for <wua@ccert.edu.cn>; Fri, 16 Sep 2005 12:40:55 +0800 (CST)
+Message-ID: <200509161143.j8G3hMU7010661@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO b28d91f81b7b43f) (yang-w04@166.111.203.126)
+  by localhost with SMTP; Fri, 16 Sep 2005 04:26:43 -0000
+From: "xie" <xie@mails.tsinghua.edu.cn>
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3G0dDQxc+i?=
+Date: Fri, 16 Sep 2005 12:55:32 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6axz0VIoH4GpYSpe3bXS01wjyWgAB5Aww
+In-Reply-To: <00b001c5ba6a$64ccf2e0$26cb6fa6@liuwu>
+
+好喜欢的方向，可惜不是学这个的
+     中国科学院北京自动化研究所的杨老师和潘老师招收保送生。两人都有在美国长期从事研究工作的背景，当前承担国家比较重要的科研项目，经费充足，研究方向也比较新。两位老师都很年轻，对学生很好。学生有充足的时间作研究，适当作些项目积累实际的经验，(不像有的地方...
+     对学生的要求：成绩排名不要求很靠前，但也不能太差(至少要能通过自动化所的预选，否则老师也帮不上忙),但是在应用数学或计算机方面有一定特长。总之,欢迎向应用数学和计算机科学方面偏科的同学。感兴趣的同学可以和他们联系。
+     两人的简历和联系方式见下。

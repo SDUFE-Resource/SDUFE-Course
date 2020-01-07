@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <liu@ccert.edu.cn>; Sat, 24 Sep 2005 07:18:25 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <liu@ccert.edu.cn>; Sat, 24 Sep 2005 07:29:49 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 23:07:21 -0000
+From: "liu" <liu@mail.tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Cc: <luo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMXg0fiz9sC0zfXb89Xi0fm1xNGnyfqjrLLFysfW0Ln6vczT/bXEyqew3A==?=
+Date: Sat, 24 Sep 2005 07:29:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+呵呵，不要把起点低局限于一个小范畴
+他不知的忝窍匀缓芰私獾睦国外的情况，不也是一种起点低么？
+来清华之前被同学教育，不也在显示起点低么
+     标  题: Re: 培养出来王垠这样的学生，才是中国教育的失败
+     
+     
+     : 1。他 也没说自己很牛
+     : 2。他对老师或者环境的认识有什么偏差，那是他自己的事
+     : 3。起点低的人（姑且这么认为吧）要认清一些事情不是那么容易的
+     能直接和Knuth交流沟通，还能称起点低么
+     网络时代，信息获取不再只局限于周围的环境了
+     
+     --
+     

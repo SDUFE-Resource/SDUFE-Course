@@ -1,0 +1,54 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AD9Mx3029876
+	for <tang@ccert.edu.cn>; Mon, 12 Sep 2005 21:41:21 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6dUu093533
+	for <tang@ccert.edu.cn>; Mon, 12 Sep 2005 21:38:52 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bluebox.CS.Princeton.EDU (bluebox.CS.Princeton.EDU
+	[128.112.136.38])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AD6ZAN093529
+	for <tang@ccert.edu.cn>; Mon, 12 Sep 2005 21:38:35 +0800 (CST)
+	(envelope-from wangyi@ns.6test.edu.cn)
+Received: from [140.180.169.187] (yiwang.student.Princeton.EDU
+	[140.180.169.187]) (authenticated bits=0)
+	by bluebox.CS.Princeton.EDU (8.12.11/8.12.11) with ESMTP id
+	j8ADL2a8029505
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <tang@ccert.edu.cn>; Mon, 12 Sep 2005 09:53:02 -0400 (EDT)
+Message-ID: <4322DDBC.1080807@ns.6test.edu.cn>
+Date: Mon, 12 Sep 2005 09:52:59 -0400
+From: Yi Wang <xiao@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+MIME-Version: 1.0
+To: tang@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?vczKpr3av+zA1g==?=
+In-Reply-To: <200509100403.j8A43JnJ089901@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 mlx=-1
+	adultscore=0 adjust=0 reason=safe engine=3.0.0-05090301
+	definitions=3.0.0-05090911
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+今天 本来打算 写信给一个人说清楚 也就是 拒绝 
+但是 上来却看到这一篇贴 让我 不知道怎么做了……
+sigh～～～～～～～～～～
+bless～～～～～～～～～～～
+昨天一个人跟我说 没有关系 谁在感情上不会受一些伤害啊 就是这些伤害让一个人成长
+我也是认为 虽然很多事情没有办法勉强 没有办法美好的发生和圆满的结局 但是 我们还是会互相觉得对方是很好很好的人 对不对 也会有不忍 对不对
+但是 也许真的多多少少受一些伤害 才会换来最终的幸福吧
+       半年前,因为在这个园子里跟某个人的相遇,我到了一个社团;半年之后,因为这个人的离
+     开,我写MAIL告诉他,谢谢他把我带到那里,把我交给一个崭新和精彩的世界.我想他或许无
+     法想像到我的用意.在这个集体中,我喜欢上了一个男生.

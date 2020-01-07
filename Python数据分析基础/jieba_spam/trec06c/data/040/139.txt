@@ -1,0 +1,30 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <liu@ccert.edu.cn>; Thu, 25 Aug 2005 22:36:04 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 22:54:24 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 22:54:24 +0800
+Date: Thu, 25 Aug 2005 22:54:24 +0800
+From: bi@cernet.com
+Subject: =?gb2312?B?UmU6IMfrzsrLrb+0uf3Qo9K91Lq1xNHA0r2jvw==?=
+To: liu@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+牙具要钱
+     标  题: Re: 请问谁看过校医院的牙医？
+     
+     ms不要钱的..
+     : 请问大家根尖炎必须凿开么？
+     : 去校医院拍牙片，然后治根尖炎（就是先凿开再补上）大概多少钱呢？
+     : 谢了
+     
+     --
+                　     

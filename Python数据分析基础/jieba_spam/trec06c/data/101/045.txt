@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86NYrNl030488
+	for <kang@ccert.edu.cn>; Thu, 8 Sep 2005 08:39:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j86Nl5Cw020630
+	for <kang@ccert.edu.cn>; Thu, 8 Sep 2005 08:51:35 +0800 (CST)
+Message-Id: <200509062347.j86Nl5Cw020630@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 8 Sep 2005 00:37:17 -0000
+From: "gan" <gan@mail.tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+Cc: <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMG9uPbOyszi?=
+Date: Thu, 8 Sep 2005 08:51:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C5B380.54702A70"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzPUXCPFDEFrr6STeY429PH7DHSw==
+
+我妈妈一直说，小孩子吃母乳没事，只要母亲不生病。所以title不要
+因为哺乳不吃药，拖时间长了可能反而对孩子有影响。有的药物对孩子
+影响小，如果是孩子可以吃的药，就更没有问题。在刚刚哺乳完的
+时候吃药，这样到下次哺乳的时候乳汁里面药物的含量已经很低了。
+     1、一两个月内的孩子很容易鼻塞，不一定是感冒。
+     大人感冒的话有可能孩子也会有，但是小婴儿体内有母体带出来的抗体，
+     一般都没事

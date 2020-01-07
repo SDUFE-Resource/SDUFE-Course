@@ -1,0 +1,36 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <tu@ccert.edu.cn>; Sat, 27 Aug 2005 11:08:12 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 11:26:32 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 11:26:32 +0800
+Date: Sat, 27 Aug 2005 11:26:32 +0800
+From: gong@cernet.com
+Subject: =?gb2312?B?UmU6IFu6z7yvXSDM/bTzvNK2vMu1u6rOqqOsztLSssu1wb2+5A==?=
+To: tu@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+网速总算恢复，得以目睹这篇m的“好”文。
+不可否认，作者在通信这个行业有过几年的经验，各方面知识都是知道一点的
+从作者的文中，自然可以看出和中国电信的关系不错。
+似乎是和中国电信合作过大项目，不过，可惜，同一个项目，份额比华为少了一点点
+看完此文之后，发觉作者引述到C时，其堂皇的论点让我似曾相识
+回忆起前几天，在各大媒体上，有一个醒目的标题：
+“××××××宣战阻击华为 国内外双线竞争”
+文中，此公司总裁就说过完全相同的话
+啧啧，上下同心，其利断金
+贵总裁的一些论点，我是不敢批驳的，自然也不敢批驳此文类似的论点
+既然要阻击，我们还是很害怕的
+至于此文对我司今后的其他担忧，就不必了。
+贵司这一阻击，我们有没有今后还很难讲啊。
+             今天看大家谈的很兴起，我也来谈两句。
+             因为和华为打的实在是太多了，所以对华为不敢说了解，但是也还是知道一些。
+             看了前面两个哥们说的，代表了两种观点，我总结一下：

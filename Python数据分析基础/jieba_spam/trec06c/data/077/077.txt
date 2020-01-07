@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <zhu@ccert.edu.cn>; Sat, 3 Sep 2005 05:22:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <zhu@ccert.edu.cn>; Sat, 3 Sep 2005 05:34:43 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 21:23:54 -0000
+From: "fu" <fu@mail.tsinghua.edu.cn>
+To: zhu@ccert.edu.cn
+Cc: <hua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFuxprG0v6hd0f7R/g==?=
+Date: Sat, 3 Sep 2005 05:34:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+前三个月穿过防辐射服，
+出了三个月就迫不及待的扔到一边，
+基本上每天有8-10个小时对着电脑，
+不过用的都是液晶显示器和本本
+孩子听力没有任何问题，
+才出生的时候听见突然的比较大的声音都会哆嗦一下，
+评分10分，没有畸形，
+现在七天，会随着声音转动眼睛
+在医院问过护士们，有没有新生儿因为辐射听力出现问题或者是畸形的，
+被她们取笑，说根本没有办法追究是不是因为辐射，
+出现问题的孩子没有觉得比前些年电脑普及率不高的时候多
+     现在提呢？
+     你怀的时候防辐射了吗?
+     是－&gt;咋防的？

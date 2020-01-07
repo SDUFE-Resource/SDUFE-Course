@@ -1,0 +1,18 @@
+Received: from wnt.com.cn ([211.100.22.34])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q6u6Eg006450
+	for <tu@ccert.edu.cn>; Wed, 28 Sep 2005 01:30:35 +0800 (CST)
+Received: from 127.0.0.1 (HELO quarkmail.com) (envelope-from wangb@wnt.com.cn)
+	by localhost (quarkmail-1.2.1) with SMTP id S1874202AbVIZGep
+	for weike@ccert.edu.cn; Wed, 28 Sep 2005 01:09:11 +0800
+Message-ID: <BJfqj7M8usFU$hY9lBHOp$QovdTJ56@wangb>
+From: "sun" <sun@wnt.com.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Date: Wed, 28 Sep 2005 01:09:11 +0800
+X-Priority: 3 
+X-Save: wangb@wnt.com.cn:sent
+Content-type: text/plain
+Content-Transfer-Encoding: base64
+
+王同学，不是你说得那样！从他的文章中，他只是把自己的经历写了下来，中间的确带有一定的感情色彩，但是为什么会产生这么大的共鸣，最需要的是他揭露的我们国家的教学中的很多问题，这个是大家关心的。清华在工科方面肯定是我们全国最好的学校。里面肯定有很多大牛，很多默默无闻的人。可以说清华是我们国家的脊梁，但是在这个学校中，就我了解同样有很多拿学生挣钱的，还有就是学生昏昏过日子的。所以大家都说的有道理，只是从不同的角度来发表自己的观点！
+     清华莫非真比别的国内的大学差?

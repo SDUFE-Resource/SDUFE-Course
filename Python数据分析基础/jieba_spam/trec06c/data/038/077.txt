@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <zhuang@ccert.edu.cn>; Thu, 25 Aug 2005 12:47:24 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 13:05:44 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 13:05:44 +0800
+Date: Thu, 25 Aug 2005 13:05:44 +0800
+From: guan@cernet.com
+Subject: =?gb2312?B?UmU6IL+0wcvLxLfW1q7Su6G2xt+9o6G3o6zO0rDRtfrI08HL?=
+To: zhuang@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+对白是真差。
+     这是我第一次给电脑装上DVD光驱，以前上学的时候从来都是从ftp下载电影，我就没买过光盘。现在工作了，没有了便利的网络条件，于是买来光驱，顺便想捎两个电影回来看。
+     卖碟的大嫂问我看《七剑》了没有，我说什么叫七剑，于是，她象看外星人一样看着我说，连这都不知道？！让我感觉自己犯了不可饶恕的错误，赶紧买了一张走人。
+     回来后装好光驱，把碟放进去，开始看大片。天啊，越看越不想看，我就纳闷了，这是中国的武侠电影吗？？？人物造型怪异，服装服饰西方化、卡通化（还不是中国卡通），对白毫无韵味，香港口音也弄上来了。

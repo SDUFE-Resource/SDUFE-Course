@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <xia@ccert.edu.cn>; Tue, 23 Aug 2005 02:52:40 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <xia@ccert.edu.cn>; Tue, 23 Aug 2005 03:05:58 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 19:00:35 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "li" <li@mail.tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+Cc: "tunet" <ni@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMflu6rGrcHLy7bKv8n6?=
+Date: Tue, 23 Aug 2005 03:02:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+时代在变，不能总是拿过去艰苦的条件来比较
+也不是不能吃苦，只是有些不应该或者不必要吃的苦又为何要吃呢
+过去研究生不交住宿费，而今我们要交，而且还是在高校里面算是比较多的
+但是住宿条件并没有改善到让人满意的程度
+所以大家有点牢骚也使可以理解的
+     现在硕士生住的房间，我们本科时都是6个人住的，不照样住了几年吗？
+     要照这么说，清华还骗了本科生呢？可大家当初也没多说什么
+     条件是不太好，可“山不在高，有仙则名”，克服一下，多感受一下学校好的地方，比空发牢骚强！

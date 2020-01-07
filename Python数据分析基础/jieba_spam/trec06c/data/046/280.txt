@@ -1,0 +1,35 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <qing@ccert.edu.cn>; Sat, 27 Aug 2005 05:49:04 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 06:07:24 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 06:07:24 +0800
+Date: Sat, 27 Aug 2005 06:07:24 +0800
+From: hua@cernet.com
+Subject: =?gb2312?B?ofEg1tC5+rHq17y7r9HQvr/UutXQxrjLtsq/oaKyqcq/?=
+To: qing@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+中国标准化研究院 招聘管理类、经济类、工学类硕士、博士
+招聘单位： 中国标准化研究院
+所属行业：国家质量监督检验检验总局
+单位性质：国家级社会公益类科研事业单位
+单位网址： www.cnis.gov.cn
+招聘岗位: 标准化理论研究、标准化战略研究、技术法规研究、WTO/TBT研究、标准与知识产权问题研究等
+待遇：解决北京户口，其它面议。
+要求: 
+1、专 业：管理、工业工程、经济、系统工程、法律等相关专业；
+2、学 历：硕士或以上（应届毕业生或社会在职人员均可）；
+3、英语六级以上，具有良好的英语交流能力（面试时测试英语口语）；
+4、计算机使用熟练，有工科背景者优先；
+5、工作踏实、认真，善于与人沟通，具有团队合作精神。
+有意者请将简历发至zhaochy@cnis.gov.cn，合则约见。
+截至日期：2005年10月1日

@@ -1,0 +1,34 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <kong@ccert.edu.cn>; Wed, 28 Sep 2005 23:10:05 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 15:21:15 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 23:21:15 CST
+Date: Wed, 28 Sep 2005 23:21:15 +0800 (CST)
+From: liang ming <sun@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgy8S0ptXFzfujrLrDz/GjrL7NyqPO0tK7uPa7ucvj1f2zow==?=
+To: kong@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+    四处张望，好像，就剩我一个还算正常
+    因为我毕不了业
+    能读这么久的书的人，肯定与常人不同――除了个别人，这些个别本来就与众不同，是那些天生他才必有用的人，这些人不要去理会，钦佩的看着他们愉快的为人类从猴子变成人，从人变成超人，从超人变成神做贡献就行了。除去了这些个别人，剩下的就是我们常常讨论的那个博士群体了。
+    这是一个怎样的群体？不傻却又聪明不到哪里去，不危害社会但也做不了什么贡献。跟小县城里的那些小混混们差不多，小混混们是在该读书的时候却傻不垃圾的在街头混，而博士们是在该在街头混的时候却不聪明的去读书了。小混混和博士们最大的不同是，小混混在街头混的时候花父母的，博士们在实验室研究的时候花国家的。
+    小混混们往往被好多小女生青睐，原因是他们看起来很酷，男博士们也往往被好多小女生青睐，那是因为他们真的很酷。小女生青睐小混混是小混混们做了她们有冲动想做，但是却不敢去做的事情；小女生青睐男博士是男博士们做了她们敢做却不想做的事情。人总是很冲动，小女生最冲动，没理性，胡闹，瞎闹，嘛也不懂；人总是很理性，小女生最理性，只献身，不动情，弄得丫的欲罢不能，最后还要为她打一辈子工。
+    
+    对于女博士，我只来一个if then；如果你看不习惯手握烟卷，口吐烟圈和一帮男孩子们混在一起的女混混，那么你就很可能也不习惯和那些女博士生活。
+    
+    没缺点，没优点，只有特点，上面的特点容易被误认为是在说缺点，那我也只好说一些容易被误认为是优点的特点吧，首先他们很可爱，其次真得很可爱，最后有时候可爱的可恨。
+    PS1:顶着压力，冒死发贴，砖头们，土坷垃们，放马，来吧。
+    PS2:斑竹删之前请告诉我，让我留个备份
+    PS3:我不想正常了
+    PS4:我想毕业
+    PS5:我想毕业后娶个老婆，生个儿子
+    PS6:我想等儿子大了，告诉他一个真相：孩儿呀，内爹混嘞真孬，都怨我娶了内妈，内妈是博士。

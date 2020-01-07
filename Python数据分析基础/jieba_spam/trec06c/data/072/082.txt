@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j826MNsm028905
+	for <xia@ccert.edu.cn>; Fri, 2 Sep 2005 14:15:19 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j826YvNG017832
+	for <xia@ccert.edu.cn>; Fri, 2 Sep 2005 14:27:49 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Fri, 2 Sep 2005 06:16:00 -0000
+Message-ID: <00b101c5af87$e9547800$787d6fa6@hotline>
+From: "lv" <lv@mail.tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyOe6ztTaTWNBZmVlsLLIq7L6xre1xLj80MK3/s7xxvfB0LHt1tDM7bzTVVJMICjXqtTYKQ==?=
+Date: Fri, 2 Sep 2005 14:24:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00AE_01C5AFCA.F7623430"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 Networking 讨论区 】
+发信人: yjhy (执著), 信区: Networking
+标  题: 如何在McAfee安全产品的更新服务器列表中添加URL
+发信站: BBS 水木清华站 (Fri Sep  2 17:42:01 2005), 转信
+发信人: yjhy (执著), 信区: THUNet
+标  题: 如何在McAfee安全产品的更新服务器列表中添加URL
+不知道在哪里能找到设置更新服务器列表，我使用的版本为Version:9.1,build:9.1.08,E
+ngine Version:4.4.00,那位知道告我一声，谢谢!

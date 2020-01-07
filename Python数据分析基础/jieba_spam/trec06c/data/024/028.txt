@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <ning@ccert.edu.cn>; Mon, 22 Aug 2005 01:26:49 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <ning@ccert.edu.cn>; Mon, 22 Aug 2005 01:40:03 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 01:08:44 +0800
+Date: Mon, 22 Aug 2005 01:39:54 +0800
+From: "lai" <lai@wnt.com.cn>
+To: ning@ccert.edu.cn
+Cc: "lic" <guan@ccert.edu.cn>, "sunt" <jian@ccert.edu.cn>, "caoy" <wua@ccert.edu.cn>,
+        "wangb" <zheng@ccert.edu.cn>, "songhm" <mei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7StcTM9bz+ysq6z8m2uavLvqO/tPO80r2o0umjoQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+     工科硕士，技术平平。英语巨牛，且不只是考试行的那种。社会工作较为突出。
+     大家看看，俺这条件，去什么公司，应聘什么样的职位比较合适？
+呵呵，我就不拍了，说点儿想法
+我觉得我当初跟你很相似，工科（但我是本科），英语比较好（肯定没有你牛）；
+如果你愿意，而且能吃苦，还想多赚钱，那么我建议你去国内的国际工程公司或者大型进出口公司。因为现在国内的大型进出口公司以及国际工程公司一般都需要懂技术而且外语好的人才。不知道这位现在在哪儿读书？就怕屈你的才了。但是收入绝对是可观的：）。要耐得住寂寞呀。不过到外面的世界开开眼界还是好的。我工作两年现在去了四个国家了。我们同事有的都快游遍全世界了。
+如果愿意可以细谈：本人QQ：11690604

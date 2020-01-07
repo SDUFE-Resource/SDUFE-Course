@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <qiu@ccert.edu.cn>; Mon, 15 Aug 2005 05:34:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <qiu@ccert.edu.cn>; Mon, 15 Aug 2005 05:48:10 +0800 (CST)
+Received: (eyou send program); Mon, 15 Aug 2005 05:43:05 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Mon, 15 Aug 2005 05:43:05 +0800
+From: you@mail.tsinghua.edu.cn
+To: qiu@ccert.edu.cn
+Date: Mon, 15 Aug 2005 05:43:05 +0800
+Reply-To: you@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1dDGuLS00rXQzcir1rDDwLmkyei8xsjL1LEgKNeq1Ngp?=
+Content-Type: text/plain
+
+【 以下文字转载自 ParttimeJob 讨论区 】
+发信人: maghaen (magic), 信区: ParttimeJob
+标  题: 招聘创业型全职美工设计人员
+  寻求有丰富网站页面设计经验和制作经验的美工设计人员。能设计logo,banner，
+掌握html，javascript，actionscript,flash。要求有创业精神。可参考公司网站:
+www.hoodong.com
+地点:北京海淀区学院路近学知桥
+联系方式：email：hr@hoodong.com

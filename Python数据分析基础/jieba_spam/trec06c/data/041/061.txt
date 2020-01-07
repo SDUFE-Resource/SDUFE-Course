@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <wei@ccert.edu.cn>; Fri, 26 Aug 2005 01:35:53 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 01:43:23 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 01:43:23 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 01:43:23 +0800
+From: yun@mail.tsinghua.edu.cn
+To: wei@ccert.edu.cn
+Cc: lu@ccert.edu.cn
+Date: Fri, 26 Aug 2005 01:43:23 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILjVv7ShtsrAvefWrtW9obe56cC0?=
+Content-Type: text/plain
+
+华星的放映列表，绝密飞行快了……
+《绝密飞行》 (美国) 9月8日 
+《日出日落》 (中国滕文骥影片) 9月15日 
+《美丽上海》 (中国) 9月15日 
+《逃之夭夭》 (法国) 9月16日 
+《神话》 (中国香港) 9月23日 
+《神奇四侠》 (美国) 9月29日 
+《童梦奇缘》 (中国) 9月29日 
+《警界争雄 》 (法国) 10月1日 
+《哈利波特4-火焰杯》 (美国) 11月18日 
+《金钢》 ( ) 12月14日 
+另外佐罗传奇确定引进，但是没有公布具体日期仿佛
+     阿，绝密飞行也要引进的阿

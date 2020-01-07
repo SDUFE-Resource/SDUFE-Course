@@ -1,0 +1,32 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q8frpZ012129
+	for <tan@ccert.edu.cn>; Mon, 29 Aug 2005 02:38:18 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <430ED8CA.0000D0.32715@m115.126.com>
+Date: Mon, 29 Aug 2005 02:50:31 +0800 (CST)
+From: "zhao" <zhao@126.com>
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgufq8ytDUuavLvsfzsvrGt76twO2jqLK7ysq6z9Omveyxz9K1yfqjqQ==?=
+X-Priority: 3
+X-Originating-IP: [222.82.97.251]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_nydxdIXIQAMDkzacqLhDtoxLoZym"
+
+  产品经理/项目经理
+电子邮箱：nanyangbeijing@sina.com
+发布日期：2005-08-30    工作地点：北京市
+招聘人数：若干    学    历：本科
+工作年限：三年以上    薪水范围：面议
+外语要求：英语 优秀    接受简历语言：中文或英文
+        
+职位描述：        
+高级技术类职位，不适合销售人才和应届毕业生。 
+职位要求： 
+英语六级80分以上，具有阅读大量英文文档的能力 
+两年以上互联网产品策划及项目管理经验，熟悉产品整个生命周期的管理，并能交付规范的文档 
+较强的逻辑分析能力，独立思考能力，创新意识强，具备优秀的表达能力 
+良好的团队沟通、协调能力,能否思考新的电子商务应用，了解国内外相关电子商务（电子交易）产品的特点和发展趋势 
+熟悉J2EE技术、主流数据库，有电子商务应用架构设计经验优先 
+职位描述： 
+优化产品功能，提高产品的易用性 思考产品的现状,了解各用户使用状况，根据用户反馈或者用户使用性测试，及时改进产品，提出产品整体规划 负责配合相关人员进行产品推广、售前等方面的工作 
+不符合职位要求者请勿申请。        

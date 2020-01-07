@@ -1,0 +1,23 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R65apq017246
+	for <luo@ccert.edu.cn>; Thu, 29 Sep 2005 10:54:45 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 11:02:24 +0800
+Message-ID: <327801595.21795@mails.tsinghua.edu.cn>
+Received: from 166.111.8.254 by mails.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 11:02:24 +0800
+From: ou@mails.tsinghua.edu.cn
+To: luo@ccert.edu.cn
+Date: Thu, 29 Sep 2005 11:02:24 +0800
+Reply-To: ou@mails.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+Content-Type: text/plain
+
+果然是极品
+     你为什么开始鄙视ieee，sci，说这些都是none sense
+我不鄙视学术期刊库，我鄙视安于制度，为制度唱赞歌的人－－对了，还有灌水的人。
+因为他们的终极理想是“灌水”，无非一个是IEEE的会议，一个是BBS.
+     后来又拿ieee fellow的标准来衡量一个人是不是“大牛”？
+抱歉，我忘了，还有隐居在清华的“大牛”。他们对王垠也是不屑的。
+“大牛”的标准修订如下：看不起它／it的人。
+     btw：攻击别人时最好抓住一点穷追不舍，像你这样全面出击的确为难你了。
+要是你们的漏洞少一点就好了，我只好都尝试来修补修补了。况且我的技术不专一，专功一点的话，我的数学模型里说结果是完败。

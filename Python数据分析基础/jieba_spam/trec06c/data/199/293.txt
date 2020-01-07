@@ -1,0 +1,28 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <yun@ccert.edu.cn>; Wed, 28 Sep 2005 20:10:29 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Wed, 28 Sep 2005 20:13:44 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 12:13:42 UT
+To: yun@ccert.edu.cn
+From: hua@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEgzqrKssO0y7W5+sTaufrN4s7esb7WyrLusfA=?=
+
+国内国外都有好导师 也都有坏导师
+如果你不认为X国月亮比较圆的话
+你应该感觉国内国外好坏比例差不多
+研究的题目国外的可能前沿很多
+但是我觉得反过来认为做前沿的东西就要到国外
+这就不合逻辑了 而这似乎是王同学没有想明白的地方
+国外是个适合做研究的地方 但王的问题在于
+他只看到A比B好 却从不考虑B其实对他也不错
+这就不太厚道了
+有雄心壮志不是问题 但是无论国内国外都是靠实力说话
+我认为王有资格感觉良好 但是恐怕没有资格说那么多

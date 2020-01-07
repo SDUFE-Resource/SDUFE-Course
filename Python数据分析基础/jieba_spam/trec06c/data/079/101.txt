@@ -1,0 +1,26 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U2OGpf004571
+	for <kong@ccert.edu.cn>; Sat, 3 Sep 2005 11:35:27 +0800 (CST)
+Received: (qmail 5721 invoked from network); Sat, 3 Sep 2005 03:47:07 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 3 Sep 2005 03:47:06 -0000
+Message-ID: <001101c5ad0b$dfe7c0c0$e900a8c0@d47db5334f2a479>
+From: "wen" <wen@jdl.ac.cn>
+To: kong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzNLA7tSwy7bK88a1z9ajrMjnus6xo9akzazRp8PHvs2yzbXEyrPGt7CyyKs=?=
+Date: Sat, 3 Sep 2005 11:49:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+昨天晚六时许去桃李园三楼吃饭，是在外间吃涮肉。
+结果突然听到女生尖叫，一只硕鼠在席间窜来窜去。真是倒胃口。
+上周，在二楼中午就餐，也是伴随着女生尖叫，一只老鼠到处乱窜。当时还有一位中年男子试图用手去抓，结果还是让老鼠跑掉了。
+感觉有点过分了。
+也许，食堂里有老鼠很难避免，但是如此频繁地有老鼠出没，是否是管理失责呢？
+试问学校饮食科何以保证同学们就餐的食品安全？

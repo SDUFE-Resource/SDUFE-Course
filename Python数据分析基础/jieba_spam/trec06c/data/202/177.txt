@@ -1,0 +1,32 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <tan@ccert.edu.cn>; Thu, 29 Sep 2005 06:52:01 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 23:03:11 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 07:03:11 CST
+Date: Thu, 29 Sep 2005 07:03:11 +0800 (CST)
+From: liang ming <rao@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgw/fM7NHT0PjSu8zs16Ky4SAo16rU2Ck=?=
+To: tan@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+【 以下文字转载自 DA.THU 讨论区 】
+发信人: jackghost (小脸盆儿大轮胎), 信区: DA.THU
+标  题: 明天延续一天注册
+发信人: jackghost (小脸盆儿大轮胎), 信区: IEEEINFO
+标  题: 明天延续一天注册
+由于学校很多同学使用的是转帐单
+明天我们延续一天的注册
+时间还是 12:00-14:30
+地点还是FIT 3区502
+注册的网址是：
+https://webapps2.ieee.org/member/Member
+打印后带来签名就可以啦
+btw,注意选择免费的杂志

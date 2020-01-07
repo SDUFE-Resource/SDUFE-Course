@@ -1,0 +1,28 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 16:47:53 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 16:10:11 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "tang" <tang@cert.org.cn>
+To: gong@ccert.edu.cn
+CC: "tang@ccert.edu.cn" <ren@ccert.edu.cn>,
+   "wua@ccert.edu.cn" <ding@ccert.edu.cn>,
+   "yana@ccert.edu.cn" <cai@ccert.edu.cn>, "pan@ccert.edu.cn" <gao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INOwxsChqqG2tsDX1LXItP2htw==?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 16:55:38 +0800
+
+袁泉是哪个？
+     《独自等待》我姑且把他定位为是一部现代爱情片吧，据说拍完已经好长时间了，但一
+     直没有公演，九月初终于在全国开始上演。我是在一个同学的强烈推荐之下看得，果然没
+     有让我失望，可见我还是更喜欢看这种文艺片的。
+     导演伍仕贤在剧中也出演一个小角色，他从小随着父母生活在中国、美国、澳大利亚、
+     和加拿大，曾就读于美国华盛顿大学电影艺术系、大三转学到北京电影学院导演系。不得
+     不承认，导演界也真是江山代有才人出，各领风骚数百年，老的一代还没销声匿迹，新的
+     一代便如雨后春笋般
+     夏雨，李冰冰，龚蓓

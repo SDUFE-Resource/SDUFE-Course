@@ -1,0 +1,31 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8H5bKBZ019880
+	for <yang@ccert.edu.cn>; Sun, 18 Sep 2005 15:27:03 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.140.180)
+  by localhost with SMTP; Sun, 18 Sep 2005 07:12:42 -0000
+From: "cai" <cai@mails.tsinghua.edu.cn>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjQvvWyqcq/srvE3LHP0rXBy6Gj?=
+Date: Sun, 18 Sep 2005 15:44:28 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLAELDCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+In-reply-to: <326923542.29639@mails.tsinghua.edu.cn>
+
+图形会议很少，国内也就ChinaGraph还可以投，而且也就少数能选到学报。
+别的会议档次都低了点。
+国际上每年差不多就Siggraph,EuroGraph,PacificGraph可以投了。虽然
+WorkShop,Symposium还有一些，但因为EI,SCI检索问题国内基本不投稿。
+偶尔也有一些会议能将优秀论文推荐到杂志，但比起其它领域有些会议收录几百篇
+都能SCI的情况，图形是没有的。
+国内能中以上三个顶级会议的每年就那么两个，大部分目光只能盯着其它期刊了。
+     弄篇siggraph？
+     图像好像比图形容易发多了，不过图形的会议也不少啊
+     我就看到过好几次，档次不怎么高的，

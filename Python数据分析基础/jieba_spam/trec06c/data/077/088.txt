@@ -1,0 +1,36 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j822KE0j026900
+	for <kong@ccert.edu.cn>; Sat, 3 Sep 2005 05:25:12 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j822I2Cp027723
+	for <kong@ccert.edu.cn>; Sat, 3 Sep 2005 05:23:52 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j822Hw7X027719
+	for <kong@ccert.edu.cn>; Sat, 3 Sep 2005 05:22:57 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 3 Sep 2005 05:11:59 +0800
+Message-ID: <325626821.22783@mails.tsinghua.edu.cn>
+Received: from 202.38.188.130 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 3 Sep 2005 05:11:59 +0800
+From: zhang@mails.tsinghua.edu.cn
+To: kong@ccert.edu.cn
+Date: Sat, 3 Sep 2005 05:11:59 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgzvey2MbfxOo=?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: zhang@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+昨天看了西藏七年。本来以为能从中收获点儿什么东西，但是让我比较失望。想看历史，没有，史实被编剧涂抹了（虽然不多），而且改的太刻意和轻率，有的地方居然让我很想笑；想看政治，可以说基本就没有，很不过瘾；想看民风民俗，也是如蜻蜓点水，让我印象并不深刻；想看风景，马马虎虎，但没有让我眼前一亮的画面。不过如果是想看皮特，其他就不用太计较了。总之我觉得这片子就是皮特的偶像剧，（说实话这人物塑造得也不咋的），加上了一点点对藏民的同情和人文关怀，就仅此而已了。让我比较欣赏的是影片对阿沛阿旺晋美这个人物的塑造，艺术化比较成功，也没有太偏离史实，让人觉得很有味道。而达赖见张经武一段让我觉得巨搞笑，只能说导演的愿望是美好的，她想要表达的东东很明显，但拜托别这么刻意阿，让人觉得导演好天真。总之，本来可以拍成一部史诗剧的题材（至少也要接近啊），被简单化了，整部片子看完，让我觉得缺少厚重感，缺乏深度，什么东西都是轻描淡写就过去了，唉只能说导演功力不够阿，可惜可惜。最后的字幕也很恶搞，还郑重其事的打出来，我看了真的笑开了^_^。纯属个人意见呵呵

@@ -1,0 +1,37 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <li@ccert.edu.cn>; Fri, 9 Sep 2005 14:27:35 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 9 Sep 2005 14:45:35 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Fri, 9 Sep 2005 14:45:34 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "gong" <gong@mail.csu.edu.cn>
+To: li@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INfUyLux59akt6jExLj2wM/Kprj4tcS31rjfsKGjvw==?=
+Date: Fri, 9 Sep 2005 14:27:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+刘兵的会筛掉n多人啊。。。
+60610012 1 自然辩证法 人文学院 曾国屏   2 星期1 第4节 0 0 220 -18 999 999  详细信息 
+60610012 1 自然辩证法 人文学院 曾国屏   2 星期1 第5节 0 0 220 -18 999 999  详细信息 
+60610012 2 自然辩证法 人文学院 杨舰   2 星期1 第4节 0 0 220 90 999 999  详细信息 
+60610012 2 自然辩证法 人文学院 杨舰   2 星期1 第5节 0 0 220 90 999 999  详细信息 
+60610012 3 自然辩证法 人文学院 吴彤   2 星期2 第2节 0 0 220 -98 999 999  详细信息 
+60610012 4 自然辩证法 人文学院 蒋劲松   2 星期2 第2节 0 0 220 -139 999 999  详细信息 
+60610012 5 自然辩证法 人文学院 李正风  刘立 2 星期2 第2节 0 0 220 28 999 999  详细信息 
+60610012 6 自然辩证法 人文学院 高亮华   2 星期2 第2节 0 0 200 -70 999 999  详细信息 
+60610012 7 自然辩证法 人文学院 肖广岭   2 星期2 第2节 0 0 200 7 999 999  详细信息 
+60610012 8 自然辩证法 人文学院 刘兵   2 星期3 第4节 0 0 200 -129 999 999  详细信息 
+60610012 8 自然辩证法 人文学院 刘兵   2 星期3 第5节 0 0 200 -129 999 999  详细信息 
+60610053 0 自然辩证法(文科类) 人文学院 雷毅  张成岗 3 星期3 第4节 0 0 200 3 999 999  详细信息 
+60610053 0 自然辩证法(文科类) 人文学院 雷毅  张成岗 3 星期3 第5节 0 0 200 3 999 999  详细信息 
+     蒋怎样？

@@ -1,0 +1,47 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <chen@ccert.edu.cn>; Sun, 18 Sep 2005 14:14:53 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <chen@ccert.edu.cn>; Sun, 18 Sep 2005 14:31:28 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <chen@ccert.edu.cn>
+	; Sun, 18 Sep 2005 14:31:28 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <chen@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 13:56:29 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "tan" <tan@njnu.edu.cn>
+To: chen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsaa94LTz1tC7qsf4uLHX3LLDx+W7qtHdvbK74Q==?=
+Date: Sun, 18 Sep 2005 14:26:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+                       客户关系管理
+                            ――宝洁大中华区副总裁聂凯文先生清华演讲会
+您可知道？  1997年7月1日起，宝洁公司在全球范围内取消了销售部门，成为全球首家没有销售部的公司
+您可知道？  何以用一个新诞生的部门――“CBD”（Customer Business Development, 客户业务发展部）取代传统销售
+您可知道？  客户关系管理如何辅助宝洁公司成为行业的领导者
+敬请关注:
+Acing Your Job
+清华大学职业辅导活动月首场演讲--客户关系管理
+9月22日上午9：00   就业中心大报告厅
+主讲人:   Kevin Edwards （聂凯文）
+宝洁大中华区副总裁，客户生意发展部总经理(CBD General Manager)
+CBD简介:
+    宝洁公司从1997年7月1日起，在全球范围内取消了销售部门，成为全球首家没有销售部的公司。一个新的部门诞生了――“CBD”（Customer Business Development,客户业务发展部)。1999年，宝洁公司在中国的销售渠道也作了巨大的调整：取消销售部，代之以客户业务发展部（CBD），全面负责客户业务的发展及服务工作。
+    没有了销售部，也就没有销售人员，那宝洁是如何做销售的呢？由“销售部”向“客户业务发展部”，绝不是一次简单的更名，更是使命、任务的转型。除了销售之外，更重要的是要辅导、帮助经销商改善内部管理，提升营销运作水平，进而扩大生意。
+主讲人简介:
+Mr. Kevin Edwards
+1986 Sales Representative, New Orleans District, Food Division
+1987 District Field Representative, New Orleans District, Food Division
+1990 Unit Manager, New Orleans District, Food &amp; Beverage 

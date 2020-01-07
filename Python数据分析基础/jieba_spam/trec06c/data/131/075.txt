@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <lian@ccert.edu.cn>; Wed, 14 Sep 2005 15:16:06 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <lian@ccert.edu.cn>; Wed, 14 Sep 2005 15:28:01 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 07:10:18 -0000
+From: "xia" <xia@mail.tsinghua.edu.cn>
+To: lian@ccert.edu.cn
+Cc: <cai@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxKaywdGnufq80tbYtePKtdHpytLV0Mn60MXPoiAo16rU2Ck=?=
+Date: Wed, 14 Sep 2005 15:27:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+【 以下文字转载自 DCS 讨论区 】
+发信人: Luspring (廉颇), 信区: DCS
+标  题: 摩擦学国家重点实验室招生信息
+精仪系清华大学摩擦学国家重点实验室http://sklt.tsinghua.edu.cn是我国首批成立的国家重点实验室之一，现招收化学和化工专业硕士研究生、博士研究生若干名，请有兴趣的同学与路新春老师联系。电话81764，email:xclu@tsinghua.edu.cn.

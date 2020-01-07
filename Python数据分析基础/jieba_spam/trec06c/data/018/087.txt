@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <su@ccert.edu.cn>; Sat, 20 Aug 2005 18:59:38 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <su@ccert.edu.cn>; Sat, 20 Aug 2005 19:12:52 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sat, 20 Aug 2005 18:41:33 +0800
+Date: Sat, 20 Aug 2005 19:12:43 +0800
+From: "su" <su@wnt.com.cn>
+To: su@ccert.edu.cn
+Cc: "lic" <cao@ccert.edu.cn>, "sunt" <lin@ccert.edu.cn>, "caoy" <mo@ccert.edu.cn>,
+        "wangb" <xiao@ccert.edu.cn>, "songhm" <yan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Sut64uMS4o6y3x7Ojt8ezo6Oh?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+另一方面，能否这样说，如果没有光彩事业，那么中国的民营企业在市场经济中的作用和影响也缺乏一个亮点，一束光彩。这种亮点和光彩就是自觉地走共同富裕之路，自觉地认同社会主义的本质，自觉坚持社会主义的义利观，从而也为我国市场经济的性质和特性作了一处明确的注脚，注脚注释的明确内容：中国的市场经济即是社会主义的市场经济。 我国市场经济和光彩事业这种紧密关系，就保证了光彩事业广阔的发展前途。越来越多地区对光彩事业的欢迎，也是很好的证明。
+            什么叫注脚？

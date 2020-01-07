@@ -1,0 +1,19 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <jiang@ccert.edu.cn>; Mon, 29 Aug 2005 02:10:17 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 02:20:50 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Mon, 29 Aug 2005 02:20:50 +0800
+From: "lin" <lin@ctbu.edu.cn>
+To: jiang@ccert.edu.cn
+Date: Mon, 29 Aug 2005 02:20:50 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "lin" <lin@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INP0w8bBy6Os1ffH89K7z8LS4rz7?=
+Content-Type: text/plain
+
+哥们我猜你是合肥工大的吧?
+     两年前，考清华，系里总共招15人，我排第16名，只好调剂到排名教育部直属倒数的一个大学，自筹经费。
+     一直很郁闷，老师人还好，只是没有课题，实验室硬件也很差，一分钱也不给。研二快结束时（6月），突然把我得课题改了（做ansys有限元分析的）。研三的人正好5月份离校了，很多他们以前积累的东西，都没传给我。（以前我做的东西，跟现在的相关不大，以为用不了，老师当

@@ -1,0 +1,31 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q8Ih5e007338
+	for <he@ccert.edu.cn>; Tue, 27 Sep 2005 22:09:56 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q8M1b01723;
+	Tue, 27 Sep 2005 22:13:14 +0800
+Message-Id: <200509260822.j8Q8M1b01723@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 14:13:14 UT
+To: he@ccert.edu.cn
+From: jiang@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjnufu5+s3ius3H5buqu7e+s7Lusru24LXEu7CjrA==?=
+
+     标  题: Re: 如果国外和清华环境差不多的话，
+     
+     环境当然不一样。
+     但是无论是在国外还是在国内，你都需要拼命发PAPER，拼命替老板干活。在这一点上，没有本质区别。
+     也许一个区别就是，王要是在美国这么干，估计已经被整个学界灭掉了。
+                                                 `````````````````好恐怖，怕怕！
+     
+     : 为什么有那么多人要出去呢？
+     : 那些MIT的人，为什么不留在国内呢？
+     
+     
+     
+     --
+     

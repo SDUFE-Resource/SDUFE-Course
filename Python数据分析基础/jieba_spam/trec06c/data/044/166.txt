@@ -1,0 +1,27 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <cao@ccert.edu.cn>; Fri, 26 Aug 2005 16:03:53 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 16:22:16 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 16:22:16 +0800
+Date: Fri, 26 Aug 2005 16:22:16 +0800
+From: you@cernet.com
+Subject: =?gb2312?B?ofEgveHStb+80dCzybmmvLjCytPQtuC086O/?=
+To: cao@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+看简章，对同等学历要求挺高的。
+1.英语要过4级（我本科清华的，就没考过这东西，据说现在还改成考分制了）
+2.核心期刊发表文章（还得第一或者第二作者，不知道现在的研究生师兄们是否有过这种论文发表）
+3.还要辅修所有报考专业的本科主干课程（基本上就是不让跨专业考研了，sigh）
+有没有过来人介绍一下，结业考研几率有多大？如果没有满足上面的要求，是不是初试无论考的如何都不会让复试啊？我好像不满足上面的第二条要求，无奈啊。。。

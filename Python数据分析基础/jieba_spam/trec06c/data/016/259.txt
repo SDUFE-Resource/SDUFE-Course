@@ -1,0 +1,30 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2Qvx5029940
+	for <jian@ccert.edu.cn>; Sat, 20 Aug 2005 12:08:29 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A377.00010B.12784@m52.126.com>
+Date: Sat, 20 Aug 2005 12:21:12 +0800 (CST)
+From: "lei" <lei@126.com>
+To: jian@ccert.edu.cn
+Bcc: "xjhxf@263.net" <xjhxf@263.net>,"jmwhxf@sina.com" <jmwhxf@sina.com>
+Subject: =?gb2312?B?ofEgob5TVFbXqrKlob+zrLy2xa7J+TW9+DPM1MytyPwgKNeq1Ngp?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_bOPJtnjNRxiIvorDRthwNKQyQThj"
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: stvnet (清华大学学生网络电视), 信区: THUInfo
+标  题: 【STV转播】超级女声5进3淘汰赛
+发信人: rely (没有语言天赋的人◎江湖不再有Miller), 信区: STVNET
+标  题: 【STV转播】超级女声5进3淘汰赛
+超级女声5进3淘汰赛将于今晚湖南卫视20:30现场直播,欢迎通过学生清华视听媒体专区的网络电视转播直击现场！
+为方便清华校内没有电视但能联网且又关注超女的用户收看现场直播，学生网络电视（STVNET）将调整电视转播频道，对赛事进行转播！
+具体收看办法：
+点击学生清华视听媒体右部顶端的“电视转播”下的“Gridmedia”蓝色背景图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+　　1.选择“打开”(或者OPEN/RUN)等本地打开按钮直到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网用户)”频道收看这场直播。
+　　2.选择“保存”(或者SAVE)等按钮保存到您的计算机上，运行保存下来的“Gridmedia学生网络电视版”程序，即可看到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gidmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网用户)”频道收看这场直播。
+　　另外由于将从远处服务器以及一些动态的转发节点获得数据，所以在选择频道弹出windows media player播放器后，您会看到播放器下端将出现“正在连接到媒体...”字样以及后来的“缓冲 XX％”字样，此时请您耐心等待数据的接收。
+　　为保证您的收看效果，建议安装windows media player 8.0或以上版本。
+                                                        学生网络电视
+http://www.student.tsinghua.edu.cn/media/default.aspx

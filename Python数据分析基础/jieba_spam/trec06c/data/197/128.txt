@@ -1,0 +1,34 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RB80BW019815
+	for <gao@ccert.edu.cn>; Wed, 28 Sep 2005 10:23:39 +0800 (CST)
+Received: (eyou send program); Wed, 28 Sep 2005 10:09:50 +0800
+Message-ID: <327818451.29271@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 28 Sep 2005 10:09:50 +0800
+Message-ID: <327818451.29255@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 28 Sep 2005 10:09:50 +0800
+From: sun@mail.tsinghua.edu.cn
+To: gao@ccert.edu.cn
+Cc: lu@ccert.edu.cn
+Date: Wed, 28 Sep 2005 10:09:50 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMz4v6rN9dvztcS49sjL0NDOqqOstNO087jftsjJz7e0y7y/xtHQxsC828zl1sY=?=
+Content-Type: text/plain
+
+偶们公司内部架了一个。呵呵 用着很爽，
+不过也肯定有人不爽，老板倒是很支持，毕竟提高了生产力么，谁强谁衰一下子就看出来。
+但是老板肯定不肯开一个板讨论如何做老板  :P
+所以阿 这个paper bbs最好不要由有学术追求的人来开设了. 那样遇到的阻力大.
+ 
+     标  题: Re: 跳开王垠的个人行为，从大高度上反思科研评价体制
+     
+     狂nod
+     先建一个吧，你投稿吗，不是sci、ei啊
+     
+     
+     : 现有的发paper流程太低效了 
+     : 如果真是处于交流的目的，那么远不如建个paper bbs.
+     
+     
+     --
+     
+     ※ 修改:・theking 于 Sep 29 08:53:50 修改本文・[FROM: 202.120.3.*]

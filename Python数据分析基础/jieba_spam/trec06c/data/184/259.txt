@@ -1,0 +1,39 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <tian@ccert.edu.cn>; Sun, 25 Sep 2005 20:45:40 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Sun, 25 Sep 2005 12:56:34 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Sun, 25 Sep 2005 12:56:34 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <tian@ccert.edu.cn>; Sun, 25 Sep 2005 06:07:41 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <tian@ccert.edu.cn>; Sun, 25 Sep 2005 08:04:07 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Sun, 25 Sep 2005 20:56:22 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <yuan@motorola.com>
+To: tian@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILrDz/HT0LK7ydnIy9LUzqrN9dvzyse49tLU19TO0s6q1tDQxLXEyMujvw==?=
+Date: Sun, 25 Sep 2005 20:55:57 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+感觉他圈子比较小，有些想法我很难理解
+比如说到了清华看大家用word，觉得自己在川大都用latex然后作鄙视状
+说句实话，这个在科研里占多大比重？能占有比重么？
+感觉他是一个很聪明的人，但好多东西是交流才能学到的
+他更像个高中生
+上面有位同学说的好，他这做为一种个人行为，我们在精神上支持他，祝福他。
+有的话有的事是要用心去理解的，猛一看不喜欢或不对自己味口就那么大反应，只能说是一种任性的行为。世界不是为你的味口设计的。
+     tex上可以说是以技术服人，skate上可以大家一起刷刷才能出感情的咧
+     如果已经对科研环境感觉失望，对实验室没有了感情
+     自然就与实验室的师兄弟交流少了

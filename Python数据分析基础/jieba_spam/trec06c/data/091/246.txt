@@ -1,0 +1,32 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8431hfN008529
+	for <qiu@ccert.edu.cn>; Tue, 6 Sep 2005 07:59:47 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM900833VWCO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Tue, 6 Sep 2005 08:17:29 +0800 (CST)
+Date: Tue, 6 Sep 2005 08:13:33 +0800
+From: =?gb2312?B?wre0utPq?= <ou@cernet.com>
+Subject: =?gb2312?B?ofEgMjAwNS0yMDA2x++8vtGnxtrR0L6/yfrRob/OyrG85LXEzajWqiAo16rU2Ck=?=
+To: qiu@ccert.edu.cn
+Cc: "grey.wang" <tu@ccert.edu.cn>, swgui <wua@ccert.edu.cn>,
+ zhaohonglin82 <guo@ccert.edu.cn>
+Message-id: <0IM900834VWCO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_4iCo3BsWakluEN5O95QvqA)"
+
+【 以下文字转载自 THUInfo 讨论区 】
+发信人: foolsnoopy (秋秋・第九年), 信区: THUInfo
+标  题: 2005-2006秋季学期研究生选课时间的通知
+2005-2006秋季学期研究生选课时间的通知 
+正选时间（含2005级新生）：
+2005年9月9日(星期五)上午8：00～9月12日(星期一)下午16：00 
+其中：11日下午14：00～11日下午18：00。网上选课暂停，计算机系统对需要抽签的
+课程进行后台自动抽签。
+补退选时间（重修（考）网上选课时间）：
+2005年9月16日(星期五)上午8：00～9月19日(星期一)下午16：00。
+最后一天上午8：00至下午16：00只允许选课，不可退课。
+注册中心
+2005年9月5日

@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R9oOdP018957
+	for <liao@ccert.edu.cn>; Wed, 28 Sep 2005 18:04:36 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8RA1dYd023981
+	for <liao@ccert.edu.cn>; Wed, 28 Sep 2005 18:15:51 +0800 (CST)
+Received: (eyou send program); Wed, 28 Sep 2005 17:50:48 +0800
+Message-ID: <327813796.02359@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Wed, 28 Sep 2005 17:50:48 +0800
+From: fu@mail.tsinghua.edu.cn
+To: liao@ccert.edu.cn
+Date: Wed, 28 Sep 2005 17:50:48 +0800
+Reply-To: fu@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INbQufrRp8r11sa2yL6/vrnU9cO0xOPDx8HLo78=?=
+Content-Type: text/plain
+
+paper数?
+当然如果质量又好数量有多,这样当然好啊.
+但现在状况是什么?SCI,数量,谁管内容呢?我就认识一个年轻教授,
+他们当年发表sci的方法是大家一起研究别人的sci的格式，然后套用，
+很有用，一投一个准。跟新东方研究gre差不多了
+ 
+     衡量标准是必须的，这个是我们讨论的前提，如果这你也不同意我们就没话说了。我认为paper数是至今为止最客观最容易实施的标准，虽然不完美，所以我支持paper数作为博士毕业标准之一。
+     我说的客观标准的意思是可以衡量的，比如一篇文章的长度，页数，而不是以人的感觉为标准，比如文章写得好不好，有趣不有趣。

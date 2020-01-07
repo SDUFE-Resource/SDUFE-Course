@@ -1,0 +1,265 @@
+<!doctype html public '-//IETF//DTD HTML 3.0 Strict//EN' >
+<html>
+<head>
+  <title>Cryptography Lab -
+         DES Block Cipher Internals &amp; Modes of Use</title>
+  <link rev="made" href="mailto:Lawrie.Brown@adfa.edu.au">
+  <meta http-equiv="Content-Type" content="text/html">
+</head>
+<body>
+
+<h1 align=center>Cryptography Lab</h1>
+<h2 align=center>DES Block Cipher Internals &amp; Modes of Use</h2>
+
+<h3>Objective</h3>
+The objective of this lab is to explore the operation of the DES
+encryption algorithm by tracing its execution, computing one round
+by hand, and then exploring the various block cipher modes of use.
+
+<h3>Resources - DES Calculator</h3>
+To explore the operation of the <b>DES</b> block cipher, you will be using
+the <a href="index.html">DES Calculator Applet</a>.  This applet is used to
+encrypt or decrypt test data values using the DES block cipher. It can
+optionally provide a trace of the calculations performed, with varying
+degrees of detail.
+
+<p>
+For this lab, you will be assigned a <b>Key Plain Cipher</b> triple to use.
+The triple is written as three values in hexadecimal being the key (64 bits),
+plaintext (64 bits) and ciphertext (64 bits) values respectively;
+and should look something like the following:
+<pre>
+    5B5A57676A56676E 675A69675E5A6B5A 974AFFBF86022D1F
+</pre>
+
+If you <b>encrypt</b> the specified plaintext with the key, you should get
+the ciphertext value; if you <b>decrypt</b> the ciphertext value, you should
+get the plaintext value. Depending on the trace level specified, you will
+also be given details of the round calculations as they are computed.
+
+<p>
+You can run the <a href="index.html">DES Calculator
+Applet</a> in the following ways:
+<dl>
+<dt> <b>install on your own system</b>
+<dd> the <a href="index.html">DES Calculator Applet</a> page 
+provides links for the files to download onto your system. Then just
+open the <a href="DEScalc.html">DEScalc.html</a>
+page using either your favorite (Java enabled) web browser, or running
+"<code>appletviewer DEScalc.html</code>" from the Java SDK distribution,
+to run the applet.
+<dt> <b>direct web access</b>
+<dd> alternatively you can access the
+<a href="DEScalc.html">DES Calculator</a>
+directly from this site to run the applet.
+</dl>
+
+<p>
+Please note that the applet has limited error handling, supplying an
+incorrect input value is liable to generate nonsense results!
+
+<p>
+<hr>
+
+<h3>Lab Task - Part a - Block Cipher Internals</h3>
+For this lab, you have been allocated a <b>specific DES triple</b>
+from the list below (please make sure you use it). You will use the
+key and plaintext values from this triple in the 
+<a href="DEScalc.html">DES Calculator</a>.
+With this triple, you are asked to do the following tasks:
+
+<ol type=i>
+<li> Encrypt the plaintext using the key given in your triple, with
+tracing of the round values.  Note how the bits in <b>X</b> (the left
+and right halves of the data) change from round to round.  What is the
+value of your <b>X</b> at the start of round 5?
+
+<li> Change DES bit 12 of the PLAINTEXT in your triple (ie change the
+0 to 1, or 1 to 0 as appropriate), assuming DES bit numbering from left
+(MSB) bit 1 to right (LSB) bit 64. Encrypt this new plaintext value using
+the <a href="DEScalc.html">DES Calculator</a>.  Using the trace output,
+after each of the first four rounds list in a table how many <b>bits</b>
+of <b>X</b> differ from the corresponding values in part i (nb. you will
+have to convert between hexadecimal & binary and compare the relevant
+bits to do this).
+
+<li> Briefly describe how the subkeys used in each of the four rounds above
+were derived from the original 64 key bits specified.
+
+<li> Describe which characteristics of a good block cipher design have been
+illustrated by this exercise, and how they are demonstrated.
+
+</ol>
+<p>
+
+<h4>Assessment - Part a</h4>
+As assessment for this part of the lab, you should create a file for this lab.
+At the top of this file you should include
+the <b>name of this course, this lab, your name, and your student number</b>.
+Then include the heading: <b>Part a: Block Cipher Internals</b>, and
+follow this with the trace logs of the round values for all the DES
+encryptions you ran for each of the above tasks, your working, your
+answers and discussions.
+
+<p>
+
+<h3>DES Triples:</h3>
+<p>
+The table below lists triples on the left with the login they are
+allocated to on the right (nb. you may need to scroll the window to see
+the logins). These were randomly generated using the GenDES program, which is
+also included in the JAR file, and which generates <i>n</i> random triples
+when run as:
+<pre>
+    java -cp DEScalc.jar GenDES <i>n</i>
+</pre>
+<pre>
+<font size=2>
+<b>Triple (key plain cipher)in Hexadecimal                        		Login</b>
+
+5B5A57676A56676E 675A69675E5A6B5A 974AFFBF86022D1F	xxx
+</font>
+</pre>
+
+<p>
+<hr>
+
+<h3>Lab Task - Part b - Block Cipher Round</h3>
+<p>
+For the second part of this lab, using your <b>original</b> plaintext
+and key values, you should calculate the value of round <b>two</b>
+by <b>hand</b>, (ie computing all steps in a DES round) using the
+value of X and the sub-keys as given by the
+<a href="DEScalc.html">DES Calculator</a>,
+and verify that you obtain the same value of X as the
+trace shows at the start of round three.
+
+<p>
+You will find this relatively simple if you use a scientific calculator
+with the ability to enter and display numbers in various bases and to 
+perform logical operations (eg. the Windows Calculator in Scientific Mode,
+or kcalc on Linux).
+
+<h4>Assessment - Part b</h4>
+As assessment for this part of the lab, edit your lab file to
+include the heading: <b>Part b: Block Cipher Round</b>, and follow this
+with the <b>full</b> details of how you computed each of the steps
+(including values before and after modulo reduction), and your comments
+on the validity of the result.
+
+<p>
+<hr>
+
+<h3>Lab Task - Part c - Block Cipher Modes of Use</h3>
+For this part of this lab, you will be encrypting by hand, the
+<b>same message</b> using the <b>same key</b>, twice, once in CBC mode,
+then in CFB-64 mode.  Note - you <b>are not asked to compute the DES
+internal values</b> by hand, you may use the
+<a href="DEScalc.html">DES Calculator</a> for this.
+Rather you are showing how each of the above modes is implemented,
+treating DES now as a "black box" en/decryption algorithm (ie something
+that takes input & key and gives you some output).
+
+<h4>Setup</h4>
+To start with you need to create the key and message you'll use, and represent
+them in hex (binary) as follows:
+
+<dl>
+<dt> <b>key</b>
+<dd> create a <b>8-byte</b> (64-bit) key based on your name
+and other letters (if necessary) to make it 8 chars long,
+eg my key might be: "<code>LawrieBr</code>".
+Then translate this from ASCII into hexadecimal (see below).
+<dt> <b>message</b>
+<dd> create a short message of between <b>17 and 23 bytes</b> in length by
+concatenating your <b>first name</b> with "test message" or "message"
+as necessary to ensure it is 17 or more characters long.<br>
+eg I could use a message of "<code>Lawrie's test message!</code>"<br>
+Please <b>ensure</b> it is at least 17 and no more than 23 characters,
+that is it should incompletely span 3 input blocks of the cipher.
+</dl>
+
+<p>
+To convert from the ASCII text of your key/message to hexadecimal (and hence
+binary), you can:
+<ul>
+<li> either look up each character in an ASCII Table
+and write out the translation,
+<li> or enter each into a small text file, and use the Linux/Unix
+<b>od -x</b> command to translate it.<br>
+eg I put my key above into the file <code>l2-key</code>,
+and then ran the following command:
+<pre>
+%od -x l2-key
+0000000 4c 61 77 72 69 65 42 72 
+</pre>
+Note this gives the offset into the file of each 16 byte group, and then
+on successive lines lists the bytes in hexadecimal.
+</ul>
+
+<p>
+To show how you'd use these, I could for example implement the ECB mode
+(which is <b>not</b> what you are asked to do) as follows:
+given my key above, and the first 8 bytes of my message "Lawrie's",
+I'd create the following key and plaintext hex values:
+<pre>
+    4c617772696542726f776e58595a5051 4c61777269652773
+</pre>
+and then encrypt this using the <a href="DEScalc.html">DES Calculator</a>
+which tells me (using trace level 1):
+<pre>
+    setKey(4c617772696542726f776e58595a5051)
+    encryptDES(4c61777269652773)  = a10e8bf6faf0f6bd
+</pre>
+hence my first block of ciphertext in ECB mode would be:
+<pre>
+    a10e8bf6faf0f6bd
+</pre>
+
+<h4>Illustrate Implementation of CBC Mode</h4>
+Demonstrate how the <b>CBC Mode</b> can be used to first encrypt, and then
+decrypt the above message, divided into blocks. You should use an
+<b>IV</b> of all 0's. CBC mode is:
+<pre>
+    C<sub>i</sub> = DES<sub>K1</sub>(P<sub>i</sub> XOR C<sub>i-1</sub>)
+    C<sub>-1</sub> = IV
+</pre>
+You should explicitly discuss how you handle the final, undersize block,
+and how the receiver determines which decrypted bytes are valid. This
+is part of the assessment for this item.
+
+<h4>Illustrate Implementation of CFB-64 Mode</h4>
+Demonstrate how the <b>CFB-64 Mode</b> can be used to first encrypt, and then
+decrypt the above message, handling each character (byte) separately this
+time in a stream. Again use an <b>IV</b> of all 0's. CFB mode is:
+<pre>
+    C<sub>i</sub> = P<sub>i</sub> XOR DES<sub>K1</sub> (C<sub>i-1</sub>)
+    C<sub>-1</sub> = IV
+</pre>
+and you will be using 64-bit feedback (ie all 8 bytes of ciphertext),
+which can be done <b>only after</b> you have processed eight distinct bytes
+of the message.
+
+<h4>Discussion</h4>
+You should conclude this section with a few sentences on how easy or
+not each mode was to implement, and each's applicability to different
+applications.
+
+<p>
+
+<h4>Assessment - Part c</h4>
+As assessment for this part of the lab, edit your lab file to
+include the heading: <b>Part c: Block Cipher Modes of Use</b>, and follow
+this with <b>full details</b> of all your calculations showing how you
+implemented the above modes. You should include all your DES Calculator
+traces of key, data and resulting output values, but <b>not</b> internal
+round values; as well as all your calculations and discussions.
+
+<hr>
+<address>
+  Copyright &copy;
+  <a href="http://www.unsw.adfa.edu.au/~lpb/">Dr Lawrie Brown </a> /
+   6 Jun 2005
+</address>
+</body>
+</html>

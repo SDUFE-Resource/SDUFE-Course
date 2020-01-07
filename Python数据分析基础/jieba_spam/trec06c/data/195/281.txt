@@ -1,0 +1,26 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q8Ih5e007338
+	for <he@ccert.edu.cn>; Wed, 28 Sep 2005 04:19:01 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q8M1b01723;
+	Wed, 28 Sep 2005 04:22:19 +0800
+Message-Id: <200509260822.j8Q8M1b01723@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 20:22:19 UT
+To: he@ccert.edu.cn
+From: hua@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzhvvbFxMvAzfXb89Xi0fnN/Lb3uLrS5bXEsNfR28DH?=
+
+不知道老板为学生找钱体现在哪方面？
+首先这样的机制是否受到国家法律的保护或者监督？
+如果没有受到监督，那么又如何能够保证老板的赚来的钱在学生 科研与老板自己之间
+合理的分配？
+学生是弱势群体，其利益必定没有保障
+这是这次事件的关键所在！！
+并不是针对某个老板某个学校，社会有反响是因为这个制度确实是有问题
+     老板为学生找钱，学生的成果为老板找钱
+     这本来就是同时进行的两件事，他永远只看到一个面，这就是他的问题所在

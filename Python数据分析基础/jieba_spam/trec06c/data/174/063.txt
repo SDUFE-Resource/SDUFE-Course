@@ -1,0 +1,39 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LBXfxi031486
+	for <qiu@ccert.edu.cn>; Fri, 23 Sep 2005 19:03:19 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8LBjEv0011031
+	for <qiu@ccert.edu.cn>; Fri, 23 Sep 2005 19:14:52 +0800 (CST)
+Message-Id: <200509211145.j8LBjEv0011031@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 10:52:56 -0000
+From: "sun" <sun@mail.tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+Cc: <weng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxa7J+tXiysfSu9bWyrLDtNDEwO2jvw==?=
+Date: Fri, 23 Sep 2005 19:14:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C5BEE4.F6DD0CF0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW+oeiffFwOk8vdS7KYdF5R4B6nTQ==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+一个普通朋友
+她会经常跟你电话
+谈论最近的情况
+比如看书看累了，给你电话
+晚上睡不着，给你电话
+吃饭的时候，也给你电话
+说打电话你没有什么事情，就是说话而已
+当然也确实是这啊那的不着边际的聊天
+没有实质的内容
+也会花功夫的跟你选择生日礼物
+但是呢，很多同学在一起玩的时候
+她又表现出似乎对你很陌生
+几乎不主动跟你言语
+也不正视你
+言语也是损你几句
+当然，我也知道她损我的话是开玩笑的
+她这是一种什么心理呢？
+哎

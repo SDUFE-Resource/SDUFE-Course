@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <pan@ccert.edu.cn>; Sun, 18 Sep 2005 01:26:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <pan@ccert.edu.cn>; Sun, 18 Sep 2005 01:37:56 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 17 Sep 2005 17:18:38 -0000
+From: "wua" <wua@mail.tsinghua.edu.cn>
+To: pan@ccert.edu.cn
+Cc: <kong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1NPP6w==?=
+Date: Sun, 18 Sep 2005 01:37:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+    月是故乡明。长久了。却已经没有了明的概念。
+    不知道是什么时候，已经没有了漂泊的感觉。淡泊了些些的私心杂念，不再去想命运的交迭。我知道自己看穿了。还望那西边的落日，静固的老树桠，半透灰的水彩在天空涂抹几下，权当是层云的淡退。年轻人不该看夕阳。不该去体味那阴郁的沉沦。不该去感受那绝望的温存。沉下去了。它吸走了灵魂。那里，还有没有人？
+    有谁懂火之狂舞？
+    我不苦。如果我能够安慰你，只能说我比你懂。不知道何时，能够让我看到你真面孔……

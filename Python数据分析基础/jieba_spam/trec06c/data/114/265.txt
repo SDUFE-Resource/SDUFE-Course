@@ -1,0 +1,51 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <wen@ccert.edu.cn>; Sun, 11 Sep 2005 07:38:33 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <wen@ccert.edu.cn>; Sat, 10 Sep 2005 16:50:40 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Sat, 10 Sep 2005 16:50:40 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Sat, 10 Sep 2005 16:50:40 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sun, 11 Sep 2005 07:50:40 +0800
+From: =?GB2312?B?1/O+pw==?= <li@gmail.com>
+Reply-To: li@gmail.com
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7rPvK9dINfUvLrDu9PQxM3QxLbUbW0=?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+☆─────────────────────────────────────☆
+   judyshen (朱迪) (Mon Sep  5 13:07:02 2005):
+已经养成习惯了,唉,两个都火
+☆─────────────────────────────────────☆
+   Mintka (Mint) (Mon Sep  5 13:07:26 2005):
+审美疲劳?
+     已经养成习惯了,唉,两个都火
+☆─────────────────────────────────────☆
+   judyshen (朱迪) (Mon Sep  5 13:09:58 2005):
+不是,一向以来对谁都是一样的
+     审美疲劳?
+☆─────────────────────────────────────☆
+   Mintka (Mint) (Mon Sep  5 13:12:19 2005):
+那你还没遇到你的克星吧
+     不是,一向以来对谁都是一样的
+☆─────────────────────────────────────☆
+   acefish (小火) (Mon Sep  5 13:13:00 2005):
+分了
+     已经养成习惯了,唉,两个都火
+☆─────────────────────────────────────☆
+   iamgod (西门吹牛) (Mon Sep  5 13:19:42 2005):
+磨合期，挺过去了，就可以结婚，挺不过去就拉倒了
+     已经养成习惯了,唉,两个都火
+☆─────────────────────────────────────☆
+   HAPPYLIGHT (作real美女是我的终生追求||Faith) (Mon Sep  5 15:02:33 2005):
+   那你还是单身把
+     已经养成习惯了,唉,两个都火

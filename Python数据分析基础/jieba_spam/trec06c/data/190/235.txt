@@ -1,0 +1,33 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <mei@ccert.edu.cn>; Tue, 27 Sep 2005 05:40:41 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 21:51:35 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 21:51:35 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <mei@ccert.edu.cn>; Mon, 26 Sep 2005 15:02:42 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <mei@ccert.edu.cn>; Mon, 26 Sep 2005 16:59:08 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 05:51:23 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <cai@motorola.com>
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Date: Tue, 27 Sep 2005 05:50:58 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+裸奔这事儿有什么正确不正确的?  个人喜好罢了
+另,爱因斯坦说: 造成这一切悲剧的主要原因，是因为多数人的道德和智慧，与那极少数真正为人类创造价值的人比起来，是无比低下
+虽感觉爱因斯坦不够厚道,但细想起来也不无道理,所以还是对另类有宽容的对待为好.
+     如果他是学别的，我说他是井底之蛙可能不够格，但从他目前的专业和表现，我还是有资格说他的表现只能算中下。他的退学能得到大家的喝采，不过就像你在街上看到一个人在罗奔，觉得这个人很牛罢了。他的行为是需要勇气的，但不代表他所作是正确的，或者他有多了不起。

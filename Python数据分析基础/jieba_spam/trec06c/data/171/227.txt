@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <yang@ccert.edu.cn>; Fri, 23 Sep 2005 07:59:24 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <yang@ccert.edu.cn>; Fri, 23 Sep 2005 08:10:53 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 23:47:59 -0000
+From: "ni" <ni@mail.tsinghua.edu.cn>
+To: yang@ccert.edu.cn
+Cc: <yun@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SvvW1w8jPyrbN9c2s0ae1xMjL?=
+Date: Fri, 23 Sep 2005 08:10:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+     杨吗？他是圈钱，我是凑数为出国，都是生活逼得啊，所以之后我没发了啊。
+nod
+     不过说起来，我的论文有一篇跟小垠那篇一个等级，另外一篇还真有好几位引用，
+     所以，真没觉得有什么东西让他这么浮躁的。。都这么大人了。。
+我想他主要还是看不上这个领域。
+其实这很正常，我周围很多人都看不上自己的领域，觉得没前途。
+有些领域都被人做了几十年了，继续做些边边角角的工作实在没意思。

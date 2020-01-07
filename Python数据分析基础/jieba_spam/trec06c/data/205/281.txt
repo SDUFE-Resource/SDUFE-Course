@@ -1,0 +1,22 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9PC3p028193
+	for <pan@ccert.edu.cn>; Thu, 29 Sep 2005 20:32:13 +0800 (CST)
+Received: from nearxlz (th077173.ip.tsinghua.edu.cn [59.66.77.173])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8S9aPo04715;
+	Thu, 29 Sep 2005 20:43:26 +0800 (CST)
+Message-Id: <200509280936.j8S9aPo04715@netarchlab.tsinghua.edu.cn>
+Date: Thu, 29 Sep 2005 20:44:37 +0800
+From: "gu"<gu@netarchlab.tsinghua.edu.cn>
+Reply-To: gu@netarchlab.tsinghua.edu.cn
+To: pan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMWusqnKv9XmtcS+zcTHw7TE0bSmxa7F89PRwvCjvw==?=
+X-mailer: Foxmail 5.0 beta1 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+他们是按纵向思维发展的，可能在自己的专业领域懂的很多，研究的很深，但是
+很多其他方面他们就涉及的很浅，一般人是沿着宽阔的大路向前走，他们是沿着一条
+狭窄的小路向纵深方向走。
+     不过我觉得跟学历是有关系的。我认识一个男博士，特别自我中心，谈论问题的时候特爱跟我争论，而且性格让我觉得有些变态。。。可能偶太普通了？反正偶是不想再中国读博，给我感觉是中国的博士思维比较定式，人越来越狭隘。美国读出来的完全不一样

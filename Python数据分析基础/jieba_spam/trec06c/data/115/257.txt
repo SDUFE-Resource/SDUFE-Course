@@ -1,0 +1,30 @@
+Received: from tust.edu.cn (mail.tuli.edu.cn [210.31.141.5])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8931EHK017361
+	for <you@ccert.edu.cn>; Sun, 11 Sep 2005 12:43:35 +0800 (CST)
+Received: (eyou send program); Sun, 11 Sep 2005 12:45:08 +0800
+Message-ID: <326234968.16870@tust.edu.cn>
+Received: from 202.112.4.180 by mail.tust.edu.cn with HTTP; Sun, 11 Sep 2005 12:45:08 +0800
+From: "luo" <luo@tust.edu.cn>
+To: you@ccert.edu.cn
+Date: Sun, 11 Sep 2005 12:45:08 +0800
+Reply-To: "luo" <luo@tust.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgtPLL49PQyrG85MHLxaq49rj3v8a4tM+wy7zCt6Osz+vSqrXEvtnK1g==?=
+Content-Type: text/plain
+
+今天太晚了，不搞了。
+如果大家有兴趣，
+那我就写一份！
+拟包括如下内容：
+英语、政治、数学、信号与系统、
+数字电路、模拟电路的复习心得和思路。
+ps，我是笨人，
+本科成绩不怎么好看那种，
+所以想来我的经验也许能给大家更多些信心。
+那些能考400多分的牛人就不用看了；
+我希望能给大多数的同学多少提供一些力所能及的帮助，
+所以如果有想骂我的兄弟们还请轻拍。
+（小声说，
+大家re文越热烈，
+我写得就将更有动力，
+决不食言）

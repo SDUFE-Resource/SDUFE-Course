@@ -1,0 +1,27 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdWEc032356
+	for <wang@ccert.edu.cn>; Tue, 27 Sep 2005 08:55:21 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 09:11:03 +0800
+Message-ID: <327652915.11497@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Tue, 27 Sep 2005 09:11:03 +0800
+Message-ID: <000201c5c1cf$bb5d1d80$0301a8c0@CCERTDAWEI>
+Reply-To: "hu" <hu@ccert.edu.cn>
+From: "hu" <hu@tsinghua.org.cn>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEZyZWVkb20gaXMgTk9UIGZyZWUgo7q4+M31zazRp7rNtNPKwr/G0dC5pNf3tcTNrMjK?=
+Date: Tue, 27 Sep 2005 06:11:04 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+不好意思问一声，你是学什么的？居然把linux和tex作为计算机深层次知识，让cs的笑掉大牙，你不会说中关村装机器的是搞硬件吧？如果说他弄过那几个方向的话，那所有上过大学物理的也算弄过量子力学了，从这点看，王同学和爱因斯坦也确有一比。
+         王垠是不是有搞科研的兴趣，这个就看大家怎么理解科研了，反正我不觉得他觉得自己很牛。
+         你说他仅仅有兴趣于linux，tex，滑板这是有问题的，他的退学申请里，也提到了算法，数据挖掘，（微分几何？这个不确定）等方向，至少感觉他曾经专门“弄”过，虽然最后放弃了那些方向。所以他有研究精神是毫无疑问的。
+         不可否认，他在linux，tex这些比较能体现os，或者计算机科学深层次知识方面的工具的普及上作了很大贡献，我觉得中国需要这样的“科普”人。

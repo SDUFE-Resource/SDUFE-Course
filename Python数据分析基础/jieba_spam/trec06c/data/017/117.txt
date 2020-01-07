@@ -1,0 +1,38 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <zhou@ccert.edu.cn>; Sat, 20 Aug 2005 14:31:29 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 06:41:43 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 06:41:43 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "yan" <yan@jdl.ac.cn>
+To: zhou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SuMPV0sqyw7S5pNf3xNijv7j3zruyzsSxss7EsQ==?=
+Date: Sat, 20 Aug 2005 14:45:51 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+用户界面设计什么时候都好找的。
+     标  题: Re: 我该找什么工作呢？各位参谋参谋
+     
+     用户界面设计听说今年工作特别好找
+     
+     : 不是计算机专业的小硕，但想做相关的工作。
+     : 会一点语言，包括VC(MFC)、VB、Delphi，ASP之类的，但不算深入，可应付一般的开发，有点Linux下用C编程的和Shell编程的经验。
+     : 做过一点网络相关的项目，但仅限Socket编程。
+     
+     --
+     
+       　道可道，非常道。名可名，非常名。
+     　　无名天地之始；有名万物之母。
+     　　故常无，欲以观其妙；常有，欲以观其徼。
+     　　此两者，同出而异名，同谓之玄。玄之又玄，众妙之门。                 
+     
+     
+     ※ 修改:・cjmm 于 Aug 17 18:48:47 修改本文・[FROM: 203.86.95.*]

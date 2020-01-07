@@ -1,0 +1,33 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T1EWk0000972
+	for <yana@ccert.edu.cn>; Fri, 30 Sep 2005 18:49:48 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8T19BtK069273
+	for <yana@ccert.edu.cn>; Fri, 30 Sep 2005 18:44:43 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8T14kU4069206
+	for <yana@ccert.edu.cn>; Fri, 30 Sep 2005 18:40:01 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 18877 invoked by uid 512); Fri, 30 Sep 2005 10:48:16 -0000
+Message-ID: <20050929011301.18876.qmail@stu.ee.tsinghua.edu.cn>
+From: wei@stu.ee.tsinghua.edu.cn
+To: yana@ccert.edu.cn
+Date: Fri, 30 Sep 2005 18:48:16 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?UmU6INC0uPjKp7DctcS9zNP9?=
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+说的是不错，但是这个不是学校教育的责任吧？这是人生态度问题。理论上大学好象应该负责教育学生建立一个正确的人生态度，但我不知道有什么样的学校能做到？似乎外国最好的大学也没有这一项吧，学校不过是提供给人一个学习的环境。这个态度还是看自己了。出了学校还要进“社会大学”再学一学。

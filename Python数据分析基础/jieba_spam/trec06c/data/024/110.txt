@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J3gCnM014711
+	for <mei@ccert.edu.cn>; Mon, 22 Aug 2005 02:49:20 +0800 (CST)
+Received: (eyou send program); Mon, 22 Aug 2005 02:57:17 +0800
+Message-ID: <324423409.11928@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 22 Aug 2005 02:57:17 +0800
+Message-ID: <324423409.11903@mail.tsinghua.edu.cn>
+Received: from 202.112.4.166 by 166.111.8.18 with HTTP; Mon, 22 Aug 2005 02:57:17 +0800
+From: wang@mail.tsinghua.edu.cn
+To: mei@ccert.edu.cn
+Date: Mon, 22 Aug 2005 02:57:17 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgobBhaWdvsa2hscflu6qxsbTzsK65+tXfz/PG5bDZyMvNxczlyPy/qsq8sajD+8HLo6E=?=
+Content-Type: text/plain
+
+你会下国际象棋吗？你会下中国象棋吗？
+来下爱国者象棋吧――由清华大学学生紫光国际象棋协会协办的“aigo杯”清华北大爱国者象棋百人团体赛开始报名了！
+爱国者象棋――加炮的国际象棋
+无论你是久经沙场的棋士，还是初出茅庐的小兵，在这场趣味与竞技并存的百人大赛里总有你的位置。水平有高低，热情无极限，不仅有丰厚的奖品，还有如此众多的棋友，不要犹豫了，赶快报名吧，共同分享这棋类的盛宴。[新手们别犹豫，国际象棋协会会举办针对你们的赛前培训指导]
+比赛时间初步定于10月15日，共两轮，一场在清华，一场在北大。
+目前已知冠亚军的奖品均为U盘――有两百支U盘等你来拿。另外爱国者透露参赛者还将获得一件比赛时穿的T恤。
+报名方式――请把姓名、班级、宿舍、手机号码、宿舍电话、国际象棋/中国象棋水平发至chessclub@126.com[也可发短信至13906006292] 报名成功与否以收到回复为准。
+敬请关注此次活动的海报！
+清华大学学生紫光国际象棋协会

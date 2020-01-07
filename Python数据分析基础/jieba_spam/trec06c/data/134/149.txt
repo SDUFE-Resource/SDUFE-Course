@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ENX85N030645
+	for <pu@ccert.edu.cn>; Thu, 15 Sep 2005 07:32:55 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8ENit6u004766
+	for <pu@ccert.edu.cn>; Thu, 15 Sep 2005 07:44:42 +0800 (CST)
+Message-Id: <200509142344.j8ENit6u004766@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 14 Sep 2005 23:26:12 -0000
+From: "zhu" <zhu@mail.tsinghua.edu.cn>
+To: pu@ccert.edu.cn
+Cc: <ma@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvK/dGnXbnY09q5pMjL0N7A7bv6xve1xNXiuPa4xcLKzsrM4n5+fn7T0MjLsO/O0r+0v7TC
+8KM=?=
+Date: Thu, 15 Sep 2005 07:44:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5B9C9.59DD7D60"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW5hktpZGtl3DY0QVG2yrLFOcDrMA==
+
+概率应用题有几个固定的题型，你把这些题型都整理出来。
+解题的时候根据已知判断是那个题型，然后按照这个题型的解法列公式代数计算就行了。
+题目的意思基本上是搞不清楚的，怎么解释都有道理，你要是非想搞清楚你就完了。
+       为了保证设备正常工作，需要配备适量的维修工人，现有同一类型的设备300台，各台设备工作相互独立，发生鼓掌的概率是0.01，在通常情况下，一台设备的故障可以由一个工人处理。
+       （1） 问至少需要配备多少工人，才能保证设备发生故障时不能及时维修的概率不超过0.01???
+        （2） 若由一个工人负责维修20台设备，求设备发生故障时不能及时维修的概率~

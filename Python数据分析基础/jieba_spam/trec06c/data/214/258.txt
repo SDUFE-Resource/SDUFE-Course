@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8TNZmZm009556
+	for <cao@ccert.edu.cn>; Sun, 2 Oct 2005 07:18:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8TNkmaV017714
+	for <cao@ccert.edu.cn>; Sun, 2 Oct 2005 07:29:33 +0800 (CST)
+Message-Id: <200509292346.j8TNkmaV017714@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 1 Oct 2005 23:03:08 -0000
+From: "zheng" <zheng@mail.tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Cc: <mei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7S1rvPo837wqXW99LUuvO2rrXD16XXobv6u+E=?=
+Date: Sun, 2 Oct 2005 07:29:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001A_01C5C593.18C0F390"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXFUAn0NYzCGVdZSOy1gVwHMkt8UA==
+
+难道你认为现在出现成绩达标但是因为要考虑一下被两个系拒绝的情况就是效率高？
+效率高低与否，是制度建立的是否合理，最小化不合理导致的矛盾，如果为了达到公平，牺牲一些效率是必要的，请记住，每个人推研是人生大事，关系他一辈子的工作选择，甚至婚姻和家庭，幸福。为此而牺牲一些时间是值得的
+这些规定当日是学校来定，可惜清华这么多年都没有改进这个流程，而同学也被麻痹的好像事物就该如此一样
+我是希望清华好，最起码学生能够独立的为自己的权利去奋斗和争取，才会说这样的话。
+我工作以后发现在顶级高校学习的学生社会适应能力最差的就是体现在不善于为自己的权利而谋划，很多普通高校的学生在艰苦的环境下更容易磨练出“削尖脑袋为自己”，“自己的权利一定要争取”这样的性格，这种性格在当前社会中是生存的一个重要技能
+                             ~~~~~~~~~~问题是这个是学校定的呢,不是学生定的呢

@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <xing@ccert.edu.cn>; Sun, 25 Sep 2005 22:25:42 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <xing@ccert.edu.cn>; Sun, 25 Sep 2005 22:37:03 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 14:14:03 -0000
+From: "ling" <ling@mail.tsinghua.edu.cn>
+To: xing@ccert.edu.cn
+Cc: <tao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sun, 25 Sep 2005 22:36:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+我12岁时就觉得所追求的东西到最后都变的如此缺乏意义 但是还要勇敢的活下去 
+年轻人要勇敢的追求未知 长大的人要勇敢地活下去 人生不就是克服恐惧的一个过程吗
+     嗯，我有同感，但是我没有这么牛，相反我还很俗
+     本科时一心想的是GPA，到了研究生发现GPA屁都不是。就一心想paper，我想一定会有将来的某一天，发现paper也是一文不值的时候，到那时我就会想钱，但是最后也会有发现钱也没有用的那一天，但是我现在还在为这些东西奋斗
+     说白了就是等死

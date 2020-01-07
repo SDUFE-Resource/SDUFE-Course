@@ -1,0 +1,24 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <yang@ccert.edu.cn>; Tue, 6 Sep 2005 15:24:26 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Tue, 6 Sep 2005 07:36:41 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Tue, 6 Sep 2005 07:36:41 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Tue, 6 Sep 2005 07:36:41 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "huang" <huang@iim.ac.cn>
+To: yang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INTntePMuMG1sK6+zbrDwcujoQ==?=
+Date: Tue, 6 Sep 2005 15:36:47 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+清华里还是有些好gg没有过感情经历的，而且是不是对感情很投入还是因人而异的，并不是说他有过一次感情经历，他就不再会爱了，不再投入了，我想你的顾虑是没有必要的，细心观察周围的异性，相信你会找到真爱的。
+PS:有一点我觉得在研究生阶段会遇到的问题，那就是会有很多比较不错的女孩子有了男朋友^_^,感情是需要先来后到的么？追一个人需要考虑很多其他因素么

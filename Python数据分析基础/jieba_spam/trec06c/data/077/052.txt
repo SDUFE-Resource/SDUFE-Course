@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <liao@ccert.edu.cn>; Sat, 3 Sep 2005 05:08:21 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <liao@ccert.edu.cn>; Sat, 3 Sep 2005 05:20:57 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 21:09:32 -0000
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: liao@ccert.edu.cn
+Cc: <xue@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMLyt7/HsMbao6xnZ765yLu21M7Sy7Who6GjoaM=?=
+Date: Sat, 3 Sep 2005 05:20:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+你的那个10万首府无法用公积金的
+只有贷款完毕后才能取公积金卡里的钱。
+     gg目前处于创业期，每个月只要2K的基本生活费，年底看公司营运的情况分红，公司创建一年多，去年一直很艰难得才得以
+     维持，今年相对好转，gg很少和我提工作的事，每次我问他公司的前景，他都说不知道，看年底吧。。。
+     我工作2年，6k/月，公积金3k/月，和gg八年长跑，我想结束这种一周才见一面的这种状态，希望能和gg有个小家，为此我

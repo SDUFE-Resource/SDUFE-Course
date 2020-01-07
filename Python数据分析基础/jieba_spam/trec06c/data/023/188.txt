@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <gu@ccert.edu.cn>; Sun, 21 Aug 2005 22:49:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <gu@ccert.edu.cn>; Sun, 21 Aug 2005 23:02:22 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 14:56:59 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "rao" <rao@mail.tsinghua.edu.cn>
+To: gu@ccert.edu.cn
+Cc: "tunet" <zeng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvMbL47v6yseyu8rHs/XK1LK7v7zPtc2zveG5uaO/?=
+Date: Sun, 21 Aug 2005 22:58:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+024计算机科学与技术系 32 　 含深圳研究生院6人 
+  081200计算机科学与技术 　 　 　 
+    01计算机系统结构 　 ①101政治②201英语③301 数学一④439 数据结构、操作系统及计算机原理 复试专业课：计算机系统结构和计算机网络 
+    02计算机软件与理论 　 ①101政治②201英语③301 数学一④439 数据结构、操作系统及计算机原理 复试专业课：编译原理和数据库原理 
+    03计算机应用技术 　 ①101政治②201英语③301 数学一④439 数据结构、操作系统及计算机原理 复试专业课：人工智能、信号处理原理、计算机控制、多媒体技术（四选二） 
+可以先不用认真复习

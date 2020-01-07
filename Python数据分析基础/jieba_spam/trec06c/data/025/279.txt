@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J3gCnM014711
+	for <tan@ccert.edu.cn>; Mon, 22 Aug 2005 11:44:43 +0800 (CST)
+Received: (eyou send program); Mon, 22 Aug 2005 11:52:40 +0800
+Message-ID: <324423409.11928@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 22 Aug 2005 11:52:40 +0800
+Message-ID: <324423409.11903@mail.tsinghua.edu.cn>
+Received: from 202.112.4.166 by 166.111.8.18 with HTTP; Mon, 22 Aug 2005 11:52:40 +0800
+From: chi@mail.tsinghua.edu.cn
+To: tan@ccert.edu.cn
+Date: Mon, 22 Aug 2005 11:52:40 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0=?=
+Content-Type: text/plain
+
+  关于工作压力：因人而异，取决于技术水平、学习能力、以及智商
+  关于人情味：  我的体会是，在华为，同事们一起奋斗，相互之间
+                情意很深，对公司也很有感情。即使离开公司，我
+                很少见到骂公司的，除非是那些从别的地方跳槽过
+                去的，后来无法适应的。
+     我咋觉得华为工作不如中兴啊？看你什么追求了，华为压力太大了，缺点人情味，人际关系也比较冷酷一些的

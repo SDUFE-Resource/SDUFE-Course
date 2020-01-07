@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <zhu@ccert.edu.cn>; Tue, 30 Aug 2005 18:45:08 +0800 (CST)
+Received: (eyou send program); Tue, 30 Aug 2005 18:48:00 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 30 Aug 2005 18:48:00 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Tue, 30 Aug 2005 18:48:00 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Tue, 30 Aug 2005 10:41:23 -0000
+Received: (eyou send program); Tue, 30 Aug 2005 18:33:33 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Tue, 30 Aug 2005 18:33:33 +0800
+From: li@mails.tsinghua.edu.cn
+To: zhu@ccert.edu.cn
+Cc: chen@ccert.edu.cn
+Date: Tue, 30 Aug 2005 18:33:33 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1eK49sjLyseyu8rHxq3X08TYo78=?=
+Content-Type: text/plain
+
+今天在北大等gf下课，突然一个中年妇女凑到我的面前，满脸沮丧的对我说到，“同学，我是从外地来北大来找人的，他搬走了，能不能让我打个电话问一下呀？”我心想帮助别人是理所当然的，于是答应他借她手机用一下。她告诉我一个号码，我拨通后，里面传出一个男人的声音，然后我把手机递给了她。那个中年妇女然后对着电话说了起来，好像是说在火车上丢了钱包，在北大又找不到人，让他赶紧来北京接他。但是我发现了几个疑点：
+1。那个妇女没有打电话给北大的她要找的人，反而打给远方的亲戚，这种舍近求远的行为难以理解。
+2。如果按她在电话里所说的遭遇，她现在应该处于一种非常焦虑的状态，说话应该断断续续才对，可是她与那个人的对话却如此流利，短短不到1分钟，我大约计算了一下，她起码说了将近20句话，给我一种背书的感觉。而且每句都充满了悲情，似乎世上所有的倒霉事都叫她碰见了。
+3。整个通话期间，都是那位妇女在说，对方似乎没说一句话，如果那个人真是她的亲戚，为何对她如此不关心，连具体状况都不问清楚。
+打完电话后，那位妇女继续悲情的望着我，说道，“同学，能不能借我点钱，好让我去火车站与来接我的人见面。”
+这种赤裸裸的要钱行为更加加重了我的怀疑，赶紧找了个理由溜之大吉，大家说她到底是不是骗子呢？

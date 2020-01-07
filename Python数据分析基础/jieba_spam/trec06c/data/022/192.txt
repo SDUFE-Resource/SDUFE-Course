@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <ou@ccert.edu.cn>; Sun, 21 Aug 2005 17:22:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <ou@ccert.edu.cn>; Sun, 21 Aug 2005 17:35:35 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 09:30:12 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "lai" <lai@mail.tsinghua.edu.cn>
+To: ou@ccert.edu.cn
+Cc: "tunet" <wen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEguPbIy8rVyOsgUmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0=?=
+Date: Sun, 21 Aug 2005 17:31:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+文章是最近写的，可是提及的工资确是01--03年的，看来lz是老员工了。文章比较得这么详细，怎么不详细说说现在的工资水平？
+华为：今年刚毕业的硕士，大概5000，补助800。
+在我现在公司，从华为跳出来的都说现在进华为没有前几年好了。但对刚毕业的，在华为倒是可以学到些东西，积累些工作经验，镀镀金，对将来的个人发展还是有利的。
+4、个人收入
+华为02年以前本科5500，硕士7000，3个月转正可加500－1000，另外是800－1000补助，还有15％养老基金，实际01年进入的本科生3个月后月总收入可到8000。到05年应该在10000左右。研究生相应高1500。华为涨工资基本上都是每年普调。03年以后新员工平均降了1500左右。
+奖金，01年以前很多，01、02年效益不好，少的可能只有1w，03、04平均3－5w。奖金分配看部门，市场&gt;研发&gt;供应链
+中兴00年到现在本科4500，硕士6000，试用期7－8折，转正不涨工资。每天吃饭补助15元，高温补助3元。外出公干或出差，这部分补助扣除。01年进中兴的本科，到05年月收入应该6500－7500（包括吃饭的300块），技术支持还要低。在中兴涨工资是见很困难的事，很多人是2年工资都不动，普调的比例很小。中兴半年考核有5％比例的降薪，降20％。
+交税要少一点，按照工资×87％来交税，特区企业13%的部分免交税。其他也没什么福利。
+奖金：公司平均3w左右，奖金分配看部门,CDMA、手机&gt;移动、网络&gt;康讯、本部，据说CDMA、手机会高很多，事业部之间差异很大。
+     待遇上是2个烂公司,比啥

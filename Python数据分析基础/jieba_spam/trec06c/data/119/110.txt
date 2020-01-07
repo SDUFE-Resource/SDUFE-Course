@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5cufv027982
+	for <shen@ccert.edu.cn>; Mon, 12 Sep 2005 06:30:44 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5aHKJ091531
+	for <shen@ccert.edu.cn>; Mon, 12 Sep 2005 06:28:18 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5aEwf091527
+	for <shen@ccert.edu.cn>; Mon, 12 Sep 2005 06:28:02 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 12 Sep 2005 06:17:11 +0800
+Message-ID: <326329923.15072@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 12 Sep 2005 06:17:11 +0800
+From: gu@mails.tsinghua.edu.cn
+To: shen@ccert.edu.cn
+Date: Mon, 12 Sep 2005 06:17:11 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INfcyMdnZ8n6xvjU9cO0sOywoaO/?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: gu@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+如果你真的很爱他，可以容忍他的这些缺点，那就勇敢地为了他而改变自己，多注意一下他所谓的面子，少说些不（哪怕是开玩笑）；
+如果你觉得自己不够爱他，不足以为了他而改变自己的性格，而且确实觉得他的气量太小，完全可以离开他。
+总之，我们很难改变别人，只能改变自己；不愿改变自己，就避开他。不要夹在中间，空自发愁。
+     gg说他刚跟人家说完我很爱他，就出了这样的事，他觉得很没面子。也可能因为他是个班长吧，比较在乎这个。可后来，他也总是生气，说什么不喜欢我会他说不。可是有时候不是真的说不，可能是开玩笑啊，他都不听我解释了。我都愁死了。

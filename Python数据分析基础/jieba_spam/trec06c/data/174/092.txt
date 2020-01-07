@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <luo@ccert.edu.cn>; Fri, 23 Sep 2005 19:32:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <luo@ccert.edu.cn>; Fri, 23 Sep 2005 19:44:00 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 11:21:06 -0000
+From: "ning" <ning@mail.tsinghua.edu.cn>
+To: luo@ccert.edu.cn
+Cc: <liao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL/Jwa+1xMDPuassztLSu8n6sqEssNHL+8Dbu7XByw==?=
+Date: Fri, 23 Sep 2005 19:43:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+    如果你想用捂汗来退烧的话，那么注意，吃完药睡下，盖比较厚的被子，总之你感到热，很快出汗就对了，一出汗你的贴身内衣一定要立刻换掉，被子也要立刻换干净的（因为如果你的内衣或者被子不换的话，你出的汗又会重新渗透到你的皮肤里面），好了，在吃一次退烧药，如果不出意外，那么睡一觉就可以退烧了。如果还是不行，建议立刻去医院。 
+     发烧一天一夜了,没感冒,体温总是在反复.吃了退烧药就好点,出一身汗.过一会又浑身发冷,体温又上来.
+     可怜的老公,看得出他尽全力想让我舒服点,我盖了家里所有的被子,一夜没怎么睡,陪着我,虽然不会做饭,但我要吃什么,还是马上下去给我买.
+     唉,我什么时候能好起来呢

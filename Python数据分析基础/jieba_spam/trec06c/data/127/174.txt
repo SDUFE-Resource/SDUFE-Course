@@ -1,0 +1,46 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <gao@ccert.edu.cn>; Tue, 13 Sep 2005 22:07:55 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <gao@ccert.edu.cn>; Tue, 13 Sep 2005 22:19:54 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 13 Sep 2005 14:02:08 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "ding" <ding@mail.tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzsDJ+rK/vfS8sc2o1qrU3c2jz/rK26Gww861xMTd0fjR1ezusN/LqqGx?=
+Date: Tue, 13 Sep 2005 22:15:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+2005年09月14日 10:26
+ 
+　　中新网9月14日电 中国卫生部今日发出紧急通知：标识为“深圳市艾博云斯化妆品有
+限公司”(卫妆准字29-XK-1888号)生产的“梦的妮养颜祛斑霜”(卫妆特字(2000)第0419
+号)7个不同生产批号的产品，汞含量严重超标，要求各地暂停销售。
+ 
+　　通知说，在今年全国化妆品卫生专项整治工作中，江苏省卫生监督所检查发现标识为
+“深圳市艾博云斯化妆品有限公司”(卫妆准字29-XK-1888号)生产的“梦的妮养颜祛斑霜
+”(卫妆特字(2000)第0419号)7个不同生产批号(0409125、0409124、0409126、0504025、
+0507065、0508006、0506048)的产品，汞含量严重超标，分别为9040.5mg/kg、
+11842.3mg/kg、8247.9mg/kg、1243mg/kg、1702mg/kg、1428mg/kg、5838 mg/kg (《化妆
+品卫生规范》(2002年版)规定汞限量1mg/kg)。
+ 
+　　为保护消费者健康，根据《化妆品卫生监督条例》及《化妆品卫生监督条例实施细则
+》的有关规定，卫生部要求：
+ 
+化妆品有限公司”(卫妆准字29-XK-1888号)生产的“梦的妮养颜祛斑霜”(卫妆特字
+(2000)第0419号)的所有批号化妆品，并对产品进行监督检查，依法查处汞含量超标的产
+品。
+ 
+　　二、广东省要立即对深圳市艾博云斯化妆品有限公司进行全面监督检查，核查其生产
+情况和产品流向，并请于9月25日前将核查情况函报我部监督司。
+ 
+　　三、各地对化妆品专项整治过程中发现的违法行为和违法产品，要及时依法查处，并
+向社会通报。对涉及消费者健康的大案要案要及时上报卫生部。(完）

@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFG0025934
+	for <feng@ccert.edu.cn>; Thu, 29 Sep 2005 05:48:16 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Wed, 28 Sep 2005 21:33:50 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Cc: "Duan Haixin" <xu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsrvKx8u1y/uyu8Wjo6yyu7n9yLfKtdPQsrvJ2cjLscjL+8Wj?=
+Date: Thu, 29 Sep 2005 05:59:07 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+我所知道的，最短有二年半毕业的直博生
+另一个要三年毕业直博生，文章很牛，老板已经没什么可指导的了
+还有半年毕业，现在做东西已经和老板是平等的和作关系了
+其它什么毕业去harvard，mit或者本科就发sci牛文的大有人在
+     我是外校的。我知道清华有很多“大牛”，喜欢而且拥护清华的制度。
+     我只是困惑，就算ieee,sci所有的期刊全是你们的“牛”论文对成为科技强国有什么意义么？
+     你们看不起linux，看不起latex这些小儿科，当你们用盗版的word打你们的best paper award candidates的时候，当用盗版powerpoint演示你们的方案的时候，你们就变得比王垠更有学术气质了么？更像搞研究的了？

@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <zhan@ccert.edu.cn>; Wed, 24 Aug 2005 20:17:52 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Wed, 24 Aug 2005 20:36:15 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 20:36:15 +0800
+Date: Wed, 24 Aug 2005 20:36:15 +0800
+From: hong@cernet.com
+Subject: =?gb2312?B?UmU6IL3xzOzKx87StcTJ+sjVo6zItMO7yMvXo87SyfrI1b/swNajoaOho6HT0MqxuvLU2srAyc/K
+x7Y=?=
+To: zhan@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+实际上你已经做的很好了，至少为未来打下了良好的基础，只要你去努力并且小有成就时，你就能品尝到生活的甘甜，成功的人都是这么走过来的，没有人能帮你，只有你自己能帮你自己
+     发信人: btkj (雄关漫道真如铁，而今迈步从头越！), 信区: Mentality

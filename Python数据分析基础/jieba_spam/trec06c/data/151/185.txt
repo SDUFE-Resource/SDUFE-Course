@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <zhu@ccert.edu.cn>; Sun, 18 Sep 2005 14:26:19 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <zhu@ccert.edu.cn>; Sun, 18 Sep 2005 14:38:08 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 18 Sep 2005 06:18:50 -0000
+From: "huang" <huang@mail.tsinghua.edu.cn>
+To: zhu@ccert.edu.cn
+Cc: <long@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgW9XQxrhdvObWsM341b6jqEFTUCBhbmQvb3IgQVNQLk5ldKOpv6q3osjL1LE=?=
+Date: Sun, 18 Sep 2005 14:38:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+招聘单位是一家私营企业，规模不大，地址在大运村附近（知春路上，骑车距离学校约半小时），主要从事翻译和培训业务。现因业务发展需要，欲建立和升级网站。网站采用数据库，能够支持后台管理、基于数据库数据的动态页面，并能为用户交流提供平台。拟采用ASP或ASP.NET+Access或Sql Server。
+招聘兼职网站开发人员一名，要求：
+1。熟练使用ASP或ASP.NET+Access或Sql Server。
+2。有充足的工作时间；
+3。较好的学习能力。
+如果采用Visual Studio.Net开发更佳。
+有意者请将个人简历发送至 wangyoutian@sina.com 。注意：
+1。请注明您的工作时间安排（按周），以及每周可以工作几天；
+2。在上述工作时间安排下，期望报酬（按月）；
+3。不要用附件。

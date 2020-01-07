@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8JBii0m015387
+	for <yan@ccert.edu.cn>; Tue, 20 Sep 2005 21:54:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8JBuNSM005175
+	for <yan@ccert.edu.cn>; Tue, 20 Sep 2005 22:06:17 +0800 (CST)
+Message-Id: <200509191156.j8JBuNSM005175@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 20 Sep 2005 13:45:24 -0000
+From: "xiao" <xiao@mail.tsinghua.edu.cn>
+To: yan@ccert.edu.cn
+Cc: <ren@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7KvLi49s7KzOKho6GjoaPQu9C7vNKw5kdHTU1KSkREoaOho6Gj?=
+Date: Tue, 20 Sep 2005 22:06:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD54.315C4400"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW9ESMViAP3rUc6TpGavIn8JvsLVg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+1 咖啡，免得上午困
+2 早吃比较好
+3 想上就上。
+4 看看书，活着看看电视
+5 ……
+1。早餐主食莎琪玛   喝的应该配咖啡呢？还是牛奶？还是茶水？ 谢谢了
+2。早餐吃的时间是那一段对身体比较好？。。。我一般是起床后一点不饿。。到了10点以后有点饿了才吃。。。
+3。上班时间总是想上会水木。。。特矛盾。。。大家有这种矛盾吗？如何处理？
+4。晚上睡觉前洗完澡。。。头发湿的不能睡觉。。。这段时间大家是怎么利用的？
+5。……

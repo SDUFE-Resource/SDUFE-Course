@@ -1,0 +1,23 @@
+Received: from mail.datangmobile.cn ([219.142.67.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8892WtN010943
+	for <yu@ccert.edu.cn>; Fri, 9 Sep 2005 07:57:43 +0800 (CST)
+X-MimeOLE: Produced By Microsoft Exchange V6.0.6249.0
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----_=_NextPart_001_01C5B455.B334AA92"
+Subject: =?gb2312?B?UmU6INeqyMPU0Li+t8C3+Mnkwu281w==?=
+Date: Fri, 9 Sep 2005 08:09:27 +0800
+Message-ID: <D728AD1FA2543948B89DE29C5BF4CD0704702305@bjmail1.bj.datangmobile.com>
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+Thread-Topic: =?gb2312?B?Rlc6usPP+8+i?=
+Thread-Index: AcWzVeLIdAsKA274TtK/X9/Q8e7fPQAAQx2QAAD0grAAPoMbQA==
+From: <jin@datangmobile.cn>
+To: yu@ccert.edu.cn
+
+你俩真费劲
+     这个问题长期存在争议，有的研究者认为自己的工作可以证明，有的人却认为证明不了这一点。
+     再看看这篇吧，就是前面提到的那篇最近引起争议的文章。
+     Draper GJ, Vincent T, Kroll ME and Swanson J. Childhood cancer in relation to distance from high-voltage power lines in England and Wales: a case-control study. BMJ (2005). Available from http://www.bmj.com.

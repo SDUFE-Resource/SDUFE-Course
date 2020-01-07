@@ -1,0 +1,302 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <zhang@ccert.edu.cn>; Fri, 16 Sep 2005 17:58:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <zhang@ccert.edu.cn>; Fri, 16 Sep 2005 18:10:17 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 09:50:59 -0000
+From: "li" <li@mail.tsinghua.edu.cn>
+To: zhang@ccert.edu.cn
+Cc: <peng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgw8C5+klNRELN+NW+VE9QIDEwMCCyv9OwxqwguPzQwtbQ?=
+Date: Fri, 16 Sep 2005 18:10:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+发信人: rayman116 (rayman), 信区: Movie 
+标  题: 美国IMDB网站TOP 100 部影片 zz 
+发信站: BBS 科苑星空站 (Sun Sep 18 23:03:46 2005), 站内 
+                           
+    ――IMDB网站可能是目前互联网上最为权威、系统、全面的电影资料网站，它所特有的电影评分系统深受影迷的欢迎，注册的用户可以给任何一部影片打分并加以评述，而网站又会根据影片所得平均分、选票的数目等计算得出影片的加权平均分并以此进行TOP250（最佳250部影片）和Bottom100（最差100部影片）的排行。 
+　　由于影片资料的更新和所得评分的不断变化，TOP250和Bottom100必定是份动态的名单，但大部分出色（或者说是受大众欢迎的）影片的位置会相对不变，于是这份TOP榜单也就有了窥视大众电影口味的意义。 
+　　 
+                    美国IMDB网站TOP 100 部影片 
+                     (修订时间2005年8月25日) 
+序号 等级 出品时间 英文片名 中文片名     别名 
+1.  9.0  1972  The Godfather 教父 
+2.  9.0  1994  The Shawshank Redemption 肖申克的救赎（刺激1995、月黑风高） 
+3.  8.9  2003  The Lord of the Rings: The Return of the King 指环王III（魔戒III：王者归来） 
+4.  8.8  1974  The Godfather: Part II 教父II 
+5.  8.8  1954  Shichinin no samurai 七武士 
+6.  8.7  1993  Schindler\'s List 辛德勒名单（舒特拉的名单） 
+7.  8.7  1942  Casablanca 卡萨布兰卡（北非谍影） 
+8.  8.7  1977  Star Wars 星球大战 
+9.  8.7  1980  Star Wars: Episode V - The Empire Strikes Back 帝国反击战（帝国大反击） 
+10. 8.7  1966  Buono, il brutto, il cattivo, Il 独行侠决战地狱门（好人、坏人和小丑、黄昏三镖客、地狱大决斗） 
+11. 8.7  1994  Pulp Fiction 低俗小说（黑色追缉令、危险人物） 
+12. 8.7  2001  The Lord of the Rings: The Fellowship of the Ring指环王I（魔戒I：魔戒现身） 
+13. 8.7  1975  One Flew Over the Cuckoo\'s Nest 飞越疯人院（飞越杜鹃窝） 
+14. 8.7  2002  The Lord of the Rings: The Two Towers 指环王II（魔戒II：双城奇谋、双塔） 
+15. 8.7  1954  Rear Window 后窗 
+16. 8.7  1941  Citizen Kane 公民凯恩（大国民） 
+17. 8.6  1964  Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb                                                                              奇爱博士（密码114） 
+18. 8.6  2002  Cidade de Deus 无主之城 
+19. 8.6  1995  The Usual Suspects 嫌疑惯犯（非常嫌疑犯、普通嫌疑犯、刺激惊爆点） 
+20. 8.6  1981  Raiders of the Lost Ark 夺宝奇兵（法柜奇兵） 
+21. 8.6  1957  12 Angry Men 十二怒汉 
+22. 8.6  2000  Memento 记忆拼图（失忆、纪念品） 
+23. 8.6  1968  C\'era una volta il West 狂沙十万里（西部往事、万里狂沙万里愁） 
+24. 8.5  1959  North by Northwest 西北偏北（谍影疑云、谍影风云） 
+25. 8.5  1960  Psycho 惊魂记（精神病患者、触目惊心） 
+26. 8.5  2001  Fabuleux destin d\'Amélie Poulain, Le 天使爱美丽（艾蜜莉的异想世界） 
+27. 8.5  1990  Goodfellas 盗亦有道（好家伙） 
+28. 8.5  1962  Lawrence of Arabia 阿拉伯的劳伦斯（沙漠枭雄） 
+29. 8.5  1946  It\'s a Wonderful Life 风云人物（奇妙的生活、莫负少年头） 
+30. 8.5  1991  The Silence of the Lambs 沉默的羔羊 
+31. 8.5  1950  Sunset Blvd. 日落大道（夕照林荫道；红楼金粉） 
+32. 8.5  2004  Eternal Sunshine of the Spotless Mind 无痛失恋（暖暖内含光、美丽心灵的永恒阳光） 
+33. 8.5  1999  American Beauty 美国美人（美国丽人、美丽有罪） 
+34. 8.5  1999  The Matrix 黑客帝国（二十二世纪杀人网络、） 
+35. 8.5  1999  Fight Club 搏击俱乐部（搏击会、斗阵俱乐部） 
+36. 8.4  1979  Apocalypse Now 现代启示录 
+37. 8.4  1958  Vertigo 迷魂记（眩晕）  
+38. 8.4  2002  The Pianist 钢琴师（钢琴家、战地琴人） 
+39. 8.4  1957  Paths of Glory 光荣之路（光辉的历程、突击） 
+40. 8.4  1962  To Kill a Mockingbird 杀死一只知更鸟（梅岗城的故事、怪屋疑云） 
+41. 8.4  2001  Sen to Chihiro no kamikakushi 千与千寻（神隐少女） 
+42. 8.4  1976  Taxi Driver 出租车司机（的士司机、计程车司机） 
+43. 8.4  1949  The Third Man 第三者（黑狱亡魂） 
+44. 8.4  1995  Se7en 七宗罪（火线追缉令） 
+45. 8.4  1981  Boot, Das 从海底出击（特种任务、潜航大风暴） 
+46. 8.3  1931  M 凶手（可诅咒的人） 
+47. 8.3  1944  Double Indemnity 双重保险（双重赔偿、双重生活） 
+48. 8.3  1994  Léon 这个杀手不太冷（杀手莱昂、终极追杀令） 
+49. 8.3  2004  Hotel Rwanda Hotel Rwanda 卢旺达旅店（卢旺达酒店） 
+50. 8.3  2000  Requiem for a Dream 梦之安魂曲（迷上瘾、梦的挽歌） 
+51. 8.3  1952  Singin\' in the Rain 雨中曲(万花嬉春) 
+52. 8.3  1974  Chinatown 唐人街 
+53. 8.3  1959  Some Like It Hot 热情似火（骄阳似火） 
+54. 8.3  1950  Rash&amp;ocirc;mon 罗生门 
+55. 8.3  1975  Monty Python and the Holy Grail 巨蟒和圣杯（圣杯传奇、蒙迪佩登与圣杯） 
+56. 8.3  1997  L.A. Confidential 幕后嫌疑犯（洛城机密、铁面特警队） 
+57. 8.3  1950  All About Eve 慧星美人 
+58. 8.3  1941  The Maltese Falcon 马耳他雄鹰（枭巢喋血记、群雄夺宝鹰） 
+59. 8.3  1957  The Bridge on the River Kwai 桂河大桥 
+60. 8.3  2004  Crash 撞车（碰撞） 
+61. 8.3  1998  American History X 野兽良民（美国X历史） 
+62. 8.3  1936  Modern Times 摩登时代 
+63. 8.3  1980  Raging Bull 愤怒的公牛（蛮牛、狂牛） 
+64. 8.3  1979  Alie 异形（异形杀手） 
+65. 8.3  1998  Saving Private Ryan 拯救大兵雷恩（雷霆救兵） 
+66. 8.3  2004  Million Dollar Baby 百万宝贝（百万美元宝贝） 
+67. 8.3  1997  Vita è bella, La 美丽人生（一个快乐的传说） 
+68. 8.3  2004  Untergang, Der 帝国的毁灭（帝国陷落） 
+69. 8.3  1971  A Clockwork Orange 发条橙（发条橙子） 
+70. 8.3  1973  The Sting 骗中骗（老千记状元才、刺激） 
+71. 8.2  2003  Kill Bill: Vol. 1 杀死比尔Ｉ 
+72. 8.2  1992  Reservoir Dogs 落水狗（水库狗、霸道横行） 
+73. 8.2  1948  The Treasure of the Sierra Madre 碧血金沙（宝石岭、浴血金沙） 
+74. 8.2  1939  Mr. Smith Goes to Washington 史密斯先生到华盛顿（史密斯游美京、华府风云、民主万岁） 
+75. 8.2  1984  Amadeus 莫扎特传（阿玛迪斯） 
+76. 8.2  1962  The Manchurian Candidate 满洲候选人（谍影迷魂） 
+77. 8.2  2004  The Incredibles 超人特攻队 
+78. 8.2  1931  City Lights 城市之光 
+79. 8.2  1960  The Apartment 公寓春光（桃色公寓） 
+80. 8.2  1954  On the Waterfront 码头风云（岸上风云、在江边） 
+81. 8.2  1963  The Great Escape 大逃亡（第三集中营、龙虎榜） 
+82. 8.2  1980  The Shining 闪灵（鬼店） 
+83. 8.2  1985  Ran 乱 
+84. 8.2  1939  The Wizard Of Oz 绿野仙踪（梦游仙宫） 
+85. 8.2  1957  Sjunde inseglet, Det 第七印章（第七封印）  
+86. 8.2  1986  Aliens 异形II（英文片名：第一集是单数，第二集是复数） 
+87. 8.2  1968  2001: A Space Odyssey 2001漫游太空 
+88. 8.2  1958  Touch of Evil 历劫佳人（人海奇花） 
+89. 8.2  1927  Metropolis 大都市 
+90. 8.2  2004  Kill Bill: Vol. 2 杀死比尔II 
+91. 8.2  2005  Sin City 罪恶之城  
+92. 8.2  1995  Braveheart 勇敢的心（惊世未了缘、梅尔吉勃逊之英雄本色） 
+93. 8.2  1940  The Great Dictato 大独裁者 
+94. 8.2  1989  Nuovo cinema Paradiso 天堂电影院（星光伴我心、新天堂乐园） 
+95. 8.2  2001  Donnie Darko 死亡幻觉（唐尼・达可） 
+96. 8.2  1975  Jaws 大白鲨 
+97. 8.2  2003  Oldboy 老男孩 
+98. 8.2  1951  Strangers on a Train 列车上的陌生人（火车怪客） 
+99. 8.2  1952  High Noon正午（龙城歼霸战） 
+100. 8.2 2003  Finding Nemo 海底总动员（以下为IMDB后150部影片的排名） 
+         
+    在IMDB后150部影片的新排序中，有多部在榜时间很长的影片落选，但也有不错的影片上榜。在约翰.特拉沃夫塔主演的《剑鱼行动》的开篇中，他曾专门介绍过阿尔.帕西诺主演的影片《炎热的下午》（黄金万两）。此次阿尔.帕西诺另一部影片《疤面煞星》的上榜，也应是众望的结果。 
+                  
+                  （2005年9月3日新排序） 
+                
+101. 8.2 1977  Annie Hall  安妮．霍尔 
+102. 8.2 1997  Mononoke-hime  魔法公主（幽灵公主） 
+103. 8.2 1996  Fargo  冰风暴（雪花高离奇谋杀案） 
+104. 8.1 1994  Forrest Gump  阿甘正传 
+105. 8.1 1982  Blade Runne  银翼杀手（叛狱追杀令） 
+106. 8.1 2000  Wo hu cang long  卧虎藏龙 
+107. 8.1 1927  The General  将军号 
+108. 8.1 1987  Full Metal Jacket  全金属外壳（金甲部队） 
+109. 8.1 1940  Rebecca  蝴蝶梦 
+110. 8.1 1961  Yojimbo  大镖客（用心棒） 
+111. 8.1 1948  Ladri di biciclette  偷自行车的人（单车失窃记） 
+112. 8.1 2004  Before Sunset  日落之前（日落巴黎、爱在日落余晖时、情留相逢时） 
+113. 8.1 1946  The Best Years of Our Lives  黄金时代（我们生活中最美好的年代） 
+114. 8.1 1987  The Princess Bride  公主新娘（海盗勇士、魔域传说） 
+115. 8.1 1999  The Sixth Sense  鬼眼（第六感、灵异第六感）  
+116. 8.1 1991  Terminator 2: Judgment Day  终结者II（未来战士II、魔鬼终结者II:审判日） 
+117. 8.1 2005  Batman Begins  蝙蝠侠诞生（蝙蝠侠前传） 
+118. 8.1 1984  Once Upon a Time in America  美国往事（义薄云天、四海兄弟） 
+119. 8.1 1934  It Happened One Night  一夜风流 
+120. 8.1 1946  The Big Sleep  夜长梦多（沉睡） 
+121. 8.1 1946  Notorious  美人计 
+122. 8.1 1933  Duck Soup  鸭羹（鸭汤、轻易之举） 
+123. 8.1 1957  Before Sunset  日落大道（夕照林荫道；红楼金粉） 
+124. 8.1 1969  Butch Cassidy and the Sundance Kid  虎豹小霸王（神枪手与智多星） 
+125. 8.1 1983  Star Wars: Episode VI - Return of the Jedi  星战：绝地大反击（杰迪归来、武士复仇） 
+126. 8.1 1967  The Graduate  毕业生 
+127. 8.1 1980  The Elephant Man  象人 
+128. 8.1 1967  Cool Hand Luke  铁窗喋血（逃狱金刚、铁手卢克） 
+129. 8.1 1970  Patton  巴顿将军 
+130. 8.1 2004  Finding Neverland  寻找梦幻岛（裁决） 
+131. 8.1 1992  Unforgiven  杀无赦（不可饶恕、豪情盖天） 
+132. 8.1 1998  Lola rennt  罗拉快跑（疾走罗拉） 
+133. 8.1 1978  The Deer Hunter  猎鹿人（越战猎鹿人） 
+134. 8.0 2000  Amores perros  爱情是狗娘（狗男女的爱） 
+135. 8.0 1940  The Philadelphia Story  费城故事（旧欢新宠） 
+136. 8.0 1999  The Green Mile  绿色奇迹（绿里奇迹） 
+137. 8.0 1985  Back to the Future  回到未来 
+138. 8.0 2002  Ying xiong  英雄 
+139. 8.0 1989  Glory  光荣战役（光荣） 
+140. 8.0 1959  Ben-Hur  宾虚（宾汉） 
+141. 8.0 1925  The Gold Rush  淘金记 
+142. 8.0 1989  Indiana Jones and the Last Crusade  圣战奇兵（印地安那．琼斯和圣杯） 
+143. 8.0 1999  Toy Story 2  玩具总动员II（反斗奇兵II） 
+144. 8.0 1953  Stalag 17   17号囚房（战地军魂） 
+145. 8.0 1986  Platoon  野战排（杀戮战场、前进高棉） 
+146. 8.0 1938  Bringing Up Baby  育婴奇谭（管教贝贝、魔胎） 
+147. 8.0 1983  A Christmas Story   圣诞故事 
+148. 8.0 1979  Manhattan  曼哈顿 
+149. 8.0 1940  The Grapes of Wrath  愤怒的葡萄（怒火之花） 
+150. 8.0 1944  Arsenic and Old Lace  毒药与老妇（砒霜与烈酒） 
+151. 8.0 1979  Life of Brian  万世魔星（布莱恩的一生）  
+152. 8.0 1969  The Wild Bunch  日落黄沙（流寇志） 
+153. 8.0 1951  The African Queen  非洲皇后（非洲女王号、非洲抗暴记） 
+154. 8.0 1956  The Searchers  搜索者 
+155. 8.0 1957  Witness for the Prosecution  控方证人（雄才伟略） 
+156. 8.0 1961  The Hustler  江湖浪子 
+157. 8.0 1930  All Quiet on the Western Front  西线无战事 
+158. 8.0 2002  Hable con ella  对她有话儿（对她说） 
+159. 8.0 1928  Passion de Jeanne d\'Arc, La  圣女贞德的受难（贞德的激情） 
+160. 8.0 1939  Gone with the Wind  乱世佳人 
+161. 8.0 1959  Quatre cents coups, Les  四百击（四百下） 
+162. 8.0 2003  Big Fish  大智若鱼（大鱼） 
+163. 8.0 2003  Mystic River  神秘河（悬河杀机） 
+164. 8.0 1988  Die Hard  虎胆龙威（终极警探） 
+165. 8.0 1955  The Night of the Hunter  猎人的夜晚（雾夜惊魂） 
+166. 8.0 1953  Roman Holiday  罗马假日（金枝玉叶） 
+167. 8.0 2001  Shrek  怪物史莱克（史努比） 
+168. 8.0 1988  Hotaru no haka  再见萤火虫（萤火虫之墓） 
+169. 8.0 1938  The Adventures of Robin Hood  侠盗罗宾汉（罗宾汉历险记、罗宾汉） 
+170. 8.0 1999  The Straight Story  史崔特先生的故事（斯特莱特的故事、路直路弯） 
+171. 8.0 1940  His Girl Friday  女友礼拜五（星期五女郎） 
+172. 8.0 2000  Gladiator  角斗士（帝国骄雄、神鬼战士） 
+173. 8.0 1998  Festen  家变（那一个晚上） 
+174. 8.0 1956  The Killing  杀手（谋杀） 
+175. 8.0 1962  Ikiru  生之欲 
+176. 8.0 2004  Mar adentro  深海长眠（出海） 
+177. 7.9 1962  The Man Who Shot Liberty Valance  双虎屠龙（谁杀了理贝・特瓦朗斯） 
+178. 7.9 1974  Young Frankenstein  年轻的科学怪人（新科学怪人、青年佛兰肯斯坦） 
+179. 7.9 2004  Sideways  杯酒人生 
+180. 7.9 1937  Grande illusion, La  大幻影（大幻灭、战争幻想曲） 
+181. 7.9 1999  Magnolia  木兰花（心灵角落、人生交叉剔） 
+182. 7.9 1925  Bronenosets Potyomkin  波坦金战舰 
+183. 7.9 1963  Charade  谜中谜（花都奇遇结良缘） 
+184. 7.9 1950  Harvey  迷离世界（哈维） 
+185. 7.9 1994  Ed Wood  艾活传（艾德伍德） 
+186. 7.9 1963  8&amp;frac12;  八部半（八又二分之一） 
+187. 7.9 1974  The Conversation  对话（窃听） 
+188. 7.9 2001  Monsters, Inc.  怪兽公司（怪兽公园、怪兽电力公司） 
+189. 7.9 1954  Strada, La  大路（街道） 
+190. 7.9 1951  The Day the Earth Stood Still  地球停顿记（地球停转之日） 
+191. 7.9 1996  Sling Blade  弹簧刀（弹簧折刀） 
+192. 7.9 1982  Gandhi  甘地传 
+193. 7.9 1951  A Streetcar Named Desire  欲望号街车（欲望街车） 
+194. 7.9 1996  Trainspotting  猜火车（迷幻列车） 
+195. 7.9 1993  Groundhog Day  偷天情缘（今天暂时停止） 
+196. 7.9 1960  Spartacus  斯巴达克斯（万夫莫敌） 
+197. 7.9 1994  Trois couleurs: Rouge  红色情深（蓝・白・红---红色） 
+198. 7.9 1965  Per qualche dollaro in più  黄昏双镖客（独行侠江湖伏霸）  
+199. 7.9 1935  A Night at the Opera  歌剧院之夜（歌台三怪杰） 
+200. 7.9 1985  Brazil  巴西（妙想天开） 
+201. 7.9 1995  Twelve Monkeys  十二猴（未来总动员） 
+202. 7.9 1986  Stand by Me 伴我同行（站在我这边） 
+203. 7.9 1943  Shadow of a Doubt  辣手摧花（心声疑影） 
+204. 7.9 1976  All the President\'s Men  水门事件（总统班底、惊天大阴谋） 
+205. 7.9 1944  Laura  罗娜秘记（绝代佳人） 
+206. 7.9 1927  Sunrise: A Song of Two Humans  日出 
+207. 7.9 1975  Dog Day Afternoon  炎热的下午（黄金万两） 
+208. 7.9 2002  America  新美国梦 
+209. 7.9 1922  Nosferatu, eine Symphonie des Grauens  第一个吸血鬼（诺斯菲拉图）  
+210. 7.9 2003  Lost in Translation  迷失东京（爱情不用翻译） 
+211. 7.9 1995  Toy Story  玩具总动员（反斗奇兵） 
+212. 7.9 1966  Who\'s Afraid of Virginia Woolf?  谁怕弗吉尼亚・沃尔夫（灵欲毒宵） 
+213. 7.9 1966  Persona  假面 
+214. 7.9 2000  Almost Famous  成名在望（几近成名、成名之路） 
+215. 7.9 1942  To Be or Not to Be  你逃我也逃（生存还是毁灭） 
+216. 7.9 1998  The Big Lebowski  谋杀绿脚趾（大人物搏拉斯基） 
+217. 7.9 1999  The Insider  惊爆内幕（局内人） 
+218. 7.9 2000  Snatch.  偷拐抢骗（贪得无厌） 
+219. 7.9 1968  The Lion in Winter  冬狮（冬之狮） 
+220. 7.9 1982  Fanny och Alexande  芬妮与亚历山大 
+221. 7.9 1998  Lock, Stock and Two Smoking Barrels  两棵大烟枪（够姜四小强） 
+222. 7.9 1976  Network  广播电视网（电视台风云、荧光幕后） 
+223. 7.9 1984  This Is Spinal Tap  腰椎穿刺 
+224. 7.9 2003  Pirates of the Caribbean: The Curse of the Black Pearl  加勒比海盗（神鬼奇航）  
+225. 7.9 2001  Mulholland Dr. 穆赫兰道（失忆大盗） 
+226. 7.9 226. 7.9 1973  The Exorcist  驱魔人（大法师） 
+227. 7.9 1984  The Terminator  终结者（未来战士、魔鬼终结者） 
+228. 7.8 1961  Judgment at Nuremberg  纽伦堡大审判 
+229. 7.9 2004  Garden State  情归新泽西（花园故乡） 
+231. 7.8 1949  Kind Hearts and Coronets  仁心与冠冕（善良心和小冠冕） 
+232. 7.8 2003  The Station Agent  心灵驿站（火车站管理员） 
+233. 7.8 2003  21 Grams  21克（忘情水、灵魂的重量） 
+234. 7.8 1995  Heat  盗火线（烈火捍将） 
+235. 7.8 1990  Miller\'s Crossing  米勒倒戈（风云再起时）  
+236. 7.8 1979  Being There  妙人奇迹 
+237. 7.8 1988  Rain Man  雨人（手足情未了） 
+238. 7.8 2004  Taegukgi hwinalrimyeo  太极旗飘扬 
+239. 7.8 1975  Barry Lyndon  乱世儿女（巴里・林登） 
+240. 7.8 2005  Cinderella Man  铁拳男人（拳王之路、拳击手、灰姑娘的男人） 
+241. 7.8 2003  Bom yeoreum gaeul gyeoul  春夏秋冬又一春 
+242. 7.8 1999  Being John Malkovich  成为约翰・马尔科维奇（傀儡人生） 
+243. 7.8 2004  Spider-Man 2  蜘蛛侠II  
+244. 7.8 1934  The Thin Man  瘦人（要命的瘦子、凶案疑云） 
+245. 7.8 1945  Brief Encounter  相逢恨晚（相见恨晚） 
+246. 7.8 1967  In the Heat of the Night  炎热的夜晚（在炎热的晚上） 
+247. 7.8 2004  Diarios de motocicleta  摩托上的日记（机车环游日记） 
+248. 7.8 2003  Dogville  厄夜变奏曲（狗城、狗镇） 
+249. 7.8 1967  In the Heat of the Night  炎热的夏夜（月黑风高杀人夜、恶夜追缉令） 
+250. 7.8 1983  Scarface  疤面煞星 
+                   TOP 250 落选的影片 
+1957  Smultronst&amp;auml;llet  野草霉 
+1961  The Hustle  江湖浪子（骗子） 
+1952  Ikiru  流芳颂 
+2004  Finding Neverland  寻找梦幻岛（不老的传说） 
+1933  King Kong  金刚（大金刚） 
+1967  Bonnie and Clyde  雌雄大盗（邦尼和克来德、我俩没有明天） 
+1983  The Right Stuff  征空先锋（太空先锋、太空英雄） 
+1935  The 39 Steps  三十九级台阶（国防大机密） 
+1966  Persona  角色 
+1939  Stagecoach  关山飞渡（驿马车） 
+1959  Rio Bravo  赤胆屠龙 
+1987  The Untouchables  铁面无私（义胆雄心） 
+1935  Bride of Frankenstein  弗兰克斯坦的新娘 
+1941  Sullivan\'s Travels  苏利文的旅行 
+1968  Planet of the Apes  人猿星球（人猿世界） 
+2002  Whale Ride  鲸骑士 

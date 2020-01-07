@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <zhou@ccert.edu.cn>; Sat, 24 Sep 2005 10:29:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <zhou@ccert.edu.cn>; Sat, 24 Sep 2005 10:41:08 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 02:18:14 -0000
+From: "zhu" <zhu@mail.tsinghua.edu.cn>
+To: zhou@ccert.edu.cn
+Cc: <qian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMTcv+fXqNK1v7zJz9bQzsSyqcq/wvA/?=
+Date: Sat, 24 Sep 2005 10:40:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+看你的本事喽
+         我是对外经贸大学的金融学硕士,我想报考中文专业的博士生,我从小就热爱文学,但后来读了金融,我读研究生时,我旁听了一节中国文学史,从此,系统地学习文学,以文学为业的想法就在我脑海中挥之不去,经过反复考虑,我决定报考中文系的博士生,在我认识的同学中,确实有从外系考入中文系的,但都是本科毕业时考研考上的,像我这样硕士跨专业报考文学博士是不是好难?我知道读中文系是建立在大量阅读的基础上的,我是不是已经晚了?如果我要报考,应该怎么样复习?或者推荐一所学校?北京师范大学中文系博士难考吗?

@@ -1,0 +1,25 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9PC3p028193
+	for <ren@ccert.edu.cn>; Fri, 30 Sep 2005 01:21:01 +0800 (CST)
+Received: from nearxlz (th077173.ip.tsinghua.edu.cn [59.66.77.173])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8S9aPo04715;
+	Fri, 30 Sep 2005 01:32:14 +0800 (CST)
+Message-Id: <200509280936.j8S9aPo04715@netarchlab.tsinghua.edu.cn>
+Date: Fri, 30 Sep 2005 01:33:25 +0800
+From: "wua"<wua@netarchlab.tsinghua.edu.cn>
+Reply-To: wua@netarchlab.tsinghua.edu.cn
+To: ren@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09rH5buqvMbL47v6v7zR0LXEvLi49s7KzOI=?=
+X-mailer: Foxmail 5.0 beta1 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+1、关于专业课试卷：有用，某些题目可能会重复
+2、参考书能看一遍并理解了更好（这个要求就比较高了），但一般来说看课件即可达到目的（ds和os一般不会超出课件，体系和原理就不能局限于课件，考得多是些概念方面的东西）
+考研给每个人的经验都有差别，切不可盲从他人经验，应该根据自己的情况决定自己的复习方法！
+简单说，只要认真、细心，把每个知识点真正理解了，考试的时候别粗心大意，就没什么问题了！
+     首先声明我已经在精华区泡了三四天时间了，感觉有的写的很好，有的写的也是很简略，而且有的信息已经有些旧了，因此在这里再提一些问题，大家来讨论一下：
+     1、历年专业试卷有价值吗？版主能不能把历年的真题整理发布一下？
+     2、官方的招生信息网上提供的参考书都是贼厚贼厚的，有必要把它们都认真的看一遍吗？（我感觉数据结构要认真看，可是别的呢？）  哪些参考书比较有价值？

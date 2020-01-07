@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8ID8DYi008045
+	for <fan@ccert.edu.cn>; Tue, 20 Sep 2005 05:01:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8IDJqRe004245
+	for <fan@ccert.edu.cn>; Tue, 20 Sep 2005 05:13:07 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 19 Sep 2005 20:52:44 -0000
+Message-ID: <017301c5bc53$c8f1e290$787d6fa6@hotline>
+From: "zeng" <zeng@mail.tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFu99Lyxx/PW+l3K17TOvPvD5rrz1PXR+cGqz7WyxbK7yqfMxs27xNg/?=
+Date: Tue, 20 Sep 2005 05:14:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0170_01C5BC96.D6F872D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+“喂，小丽么？我们单位刚发了两张今天晚上的五道口电影院的电影票
+你有时间来看么？你要是下班晚，先过来，我们找个地方吃点东西好了”
+     标  题: [紧急求助]首次见面后怎样联系才不失唐突呢?
+     
+         前两天同学带了个MM来我家,后来我请他们在外面吃了一顿,互相了解了下。突然发现有了些感觉，同学也私下鼓励我．
+         当时由于其他原因一直犹豫不绝,连个电话号码都没要；当时她们邀请我第二天和另外几个人去居庸也推掉了。今天忍不住找同学问到那MM手机号码,但又不知道如何联系才不失唐突!
+     
+     --
+     
+     ※ 修改:・nedask 於 Sep 19 21:31:26 修改本文・[FROM: 221.216.120.*]

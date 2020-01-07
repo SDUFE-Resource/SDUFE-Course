@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <hu@ccert.edu.cn>; Mon, 22 Aug 2005 22:23:56 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <hu@ccert.edu.cn>; Mon, 22 Aug 2005 22:37:14 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 14:31:51 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "shen" <shen@mail.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Cc: "tunet" <zhang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMz9tPO80ra8y7W7qs6qo6zO0tKyy7XBvb7k?=
+Date: Mon, 22 Aug 2005 22:33:37 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+hehe，我讨厌华为是因为今年初他们打电话约我面试，到了地方发现N多人都去了，很多是未约的，还有一些应届毕业生，但是从这里开始就对华为印象不好了――那几个前台小姐也忒NB了吧！考！
+后来发生了一件更郁闷的事，面试的时候他问我现在的工资，不想告诉他太多，只告诉了基本工资――大概只有接近正常收入的一半，那个面试官就显示出了一些轻蔑，最后也没要我。本来这个也没什么，不过后来某一天突然收到了他们合作伙伴的面试邀请电话，叫什么汇通？问是从哪里得到我的消息的，竟然告诉我说是华为把我的简历给了他们……
+从此就成了非常反感华为的人。这辈子坚决不再考虑华为！
+还有，为什么删了江南女孩的文章？刚才Re文也没Re上。
+     你懂什么？
+     不慎命中了一句话：
+     头发长，见识短

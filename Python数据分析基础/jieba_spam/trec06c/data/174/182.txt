@@ -1,0 +1,28 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LBHc26031385
+	for <zhao@ccert.edu.cn>; Fri, 23 Sep 2005 20:57:54 +0800 (CST)
+Message-ID: <200509211917.j8LBHc26031385@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO dfder-09mhatbya) (xy-liu04@166.111.53.221)
+  by localhost with SMTP; Fri, 23 Sep 2005 13:05:46 -0000
+From: "hou" <hou@mails.tsinghua.edu.cn>
+To: zhao@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: =C5=A3=BD=CC=CA=DA=B5=C4=B1=A8=B8=E6=BB=C3=B5=C6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+      boundary="=====002_Dragon024143317611_====="
+Date: Fri, 23 Sep 2005 21:10:45 +0800
+
+【 以下文字转载自 STVNET 讨论区 】
+发信人: stvnet (清华大学学生网络电视), 信区: STVNET
+标  题: 【STV直播】9.23李敖在清华的演讲
+　　9月23日，李敖神州之旅第二站，将在清华主楼后厅演讲。为了让没有机会去看的xdjm实时了解到现场的情况，学生网络电视将从早上9点开始对这次活动进行直播。
+具体收看方法：　
+  　点击学生清华视听媒体右部顶端的“直播转播 点击进入”图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+　　1.选择“打开”(或者OPEN/RUN)等本地打开按钮直到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华学生网络电视台(教育网用户)”频道收看我们的直播。
+　　2.选择“保存”(或者SAVE)等按钮保存到您的计算机上，运行保存下来的“Gridmedia学生网络电视版”程序，即可看到弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gidmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看 的频道进入“
+　　另外由于将从远处服务器以及一些动态的转发节点获得数据，所以在选择频道弹出windows media player播放器后，您会看到播放器下端将出现“正在连接到媒体...”字样以及后来的“缓冲 XX％”字样，此时请您耐心等待数据的接收。
+　　为保证您的收看效果，建议安装windows media player 8.0或以上版本。
+    您还可以下载并安装VVsky客户端软件（http://202.205.10.26/Media/VVSky_Setup.exe）免费注册用户并登陆该客户端之后在主界面右侧选择频道STVNET即可收看我们的直播。
+Enjoy！
+                                                         学生网络电视

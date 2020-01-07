@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <yuan@ccert.edu.cn>; Fri, 26 Aug 2005 05:46:22 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 05:53:52 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 05:53:52 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 05:53:52 +0800
+From: wua@mail.tsinghua.edu.cn
+To: yuan@ccert.edu.cn
+Cc: gong@ccert.edu.cn
+Date: Fri, 26 Aug 2005 05:53:52 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILjVuNXAz7mrtPK157uwuf3AtMHLo6zIz86qy/uw1sLo1Nq80sDvtPLC6b2ryse21LXE?=
+Content-Type: text/plain
+
+是啊。
+我记得广州那有个案子就是叫人来家里打麻将，然后露富了，然后全家被杀了，被抢了很多钱。
+最好还是从事健康

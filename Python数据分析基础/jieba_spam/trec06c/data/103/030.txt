@@ -1,0 +1,35 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j889N4UA011087
+	for <lei@ccert.edu.cn>; Thu, 8 Sep 2005 18:07:05 +0800 (CST)
+Message-ID: <200509081723.j889N4UA011087@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO b28d91f81b7b43f) (yang-w04@166.111.203.126)
+  by localhost with SMTP; Thu, 8 Sep 2005 09:54:05 -0000
+From: "ma" <ma@mails.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/r1dK9zNP9zfjE2rXExfPT0bDvw6ay4tK7z8LN+MvZ?=
+Date: Thu, 8 Sep 2005 18:21:49 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+In-Reply-To: <000601c5af76$5ea858e0$c0cb6fa6@BAMBOOIBM>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvd6cjZMf6CDhmRji9RlY4vJqTKQE38gdA
+
+我这里速度是 10kB 15kB 200kB
+但是公网的，不知道教育网的情况如何
+     标  题: 想找教育网内的朋友帮忙测一下网速
+     
+     netresource那里居然没人理 :（
+     
+     只要是教育网内的朋友都可以阿，有人愿意帮忙测一下么
+     谢谢~先
+     握握手 交朋友拉 男女不限阿 呵呵
+     
+     http://dtd.174.sundns.net.cn/test.rar
+     http://int.dx.b365.net/test.rar
+     http://int.wt.b365.net/test.rar
+     测一下下载速度是多少
+     --
+     

@@ -1,0 +1,28 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <yan@ccert.edu.cn>; Tue, 16 Aug 2005 06:48:46 +0800 (CST)
+Received: (qmail 5448 invoked from network); Mon, 15 Aug 2005 22:59:33 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Mon, 15 Aug 2005 22:59:33 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "pan" <pan@jdl.ac.cn>
+To: yan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsbG+qcrQtefQxbnmu67J6LzG1Lqzz8a4zajQxbmks8zP4LnY16jStTIwMDXTpr3ssc/Stcn6?=
+Date: Tue, 16 Aug 2005 07:03:32 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+因业务发展需要，北京市电信规划设计院现面向社会招聘通信工程相关专业2005毕业生，人数为5人，要求如下：
+（1）2005年应届北京高校毕业生
+（2）专业要求：通信工程或者电子信息工程专业
+（3）学力：本科以上，硕士优先考虑
+（4）北邮、清华、北交、北理、北航、北科毕业生优先考虑
+北京市电信规划设计院介绍：http://www.btpdi.com.cn
+这是个不错的机会，现在还没有落实工作的2005毕业生抓紧机会了！
+请有意加盟、条件符合者将简历发至：HR@btpdi.com.cn，杨先生收

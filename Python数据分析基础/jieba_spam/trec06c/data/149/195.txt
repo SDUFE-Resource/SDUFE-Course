@@ -1,0 +1,50 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <he@ccert.edu.cn>; Sun, 18 Sep 2005 03:54:10 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <he@ccert.edu.cn>; Sun, 18 Sep 2005 04:10:45 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <he@ccert.edu.cn>
+	; Sun, 18 Sep 2005 04:10:45 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <he@ccert.edu.cn>; Fri, 
+	Sun, 18 Sep 2005 03:35:46 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "hu" <hu@njnu.edu.cn>
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILzIyLvT0MjLy7XG8MWjttnQxcnPtdujrL+0v7TV4rj2?=
+Date: Sun, 18 Sep 2005 04:05:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+现实的好处啊:))
+     标  题: Re: 既然有人说起牛顿信上帝，看看这个
+     
+     错了，别的我不知道。
+     
+     生物学的诸多领域的优秀的教授学者大部分都信教；
+     以至于好多学生为了博得老板的好感
+     也都跑去入教。。
+     
+     : 老牛都八百辈子以前的事情了，你咋不敢拿爱因斯坦说一说？
+     : 真正聪明，严谨，有智慧的科学家大部分都不信教！
+     :     杰出的美国科学家几乎全都不信神
+     
+     --
+     Please take a good look around you. Look at the classmate on your left. Look at the classmate 
+     on your right. Now consider this: Five years from now, 10 years from now, even 30 years from 
+     now, odds are the person on your left is going to bea looser. The person on you
+     r right meanwhile is going to be a loser. And you in the middle? What can y
+     ou expect? Loser. Loserhood. Loser cum laude.
+     
+     
+※ 修改:・Truly 于 Sep 18 16:08:00 修改本文・[FROM: 221.221.150.*]

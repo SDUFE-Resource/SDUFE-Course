@@ -1,0 +1,35 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EEiS1q009384
+	for <ke@ccert.edu.cn>; Thu, 18 Aug 2005 10:37:18 +0800 (CST)
+Message-ID: <200508142244.j7EEiS1q009384@spam-gw.ccert.edu.cn>
+Received: from pisclubjhb (unknown [219.238.168.2])
+	by smtp4 (Coremail) with SMTP id RkBfofVb_0IPEu83.1
+	for <ke@ccert.edu.cn>; Thu, 18 Aug 2005 10:50:47 +0800 (CST)
+X-Originating-IP: [219.238.168.2]
+From: "yi" <yi@126.com>
+To: ke@ccert.edu.cn
+Cc: <hua@ccert.edu.cn>,
+	<gan@ccert.edu.cn>,
+	<jiang@ccert.edu.cn>,
+	<ma@ccert.edu.cn>,
+	<tan@ccert.edu.cn>,
+	<cao@ccert.edu.cn>,
+	<zhu@ccert.edu.cn>,
+	<luo@ccert.edu.cn>,
+	<bi@ccert.edu.cn>,
+	<zhan@ccert.edu.cn>,
+	<zeng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKG2zKvQ0Mm9yc+ht7nbuNA=?=
+Date: Thu, 18 Aug 2005 10:51:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5A123.AB2C1F50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWg2iclErE9vEwpQUuF46XqYTUSdgABkatA
+In-Reply-To: <42FF5137.0076B3.03512>
+
+4000万人民币可不算什么小成本了。
+         很赞同你的最后两句。
+         对于这个电影，我在看之前是并没有抱多大希望的，但是结果比我想象的好，这恐怕这就是为什么说它进步。
+         我觉得对于这类“有进步”主旋律电影的评价，我们该降下一个层次。因为无论导演的水平还是一贯以来我们主旋律影片所坚持的“特色”，都使得影片存在无数的问题，这一点我们都心知肚明。所以我们没有必要要求他们一口就吃一个胖子，路还是要一步一步地走。这部电影与

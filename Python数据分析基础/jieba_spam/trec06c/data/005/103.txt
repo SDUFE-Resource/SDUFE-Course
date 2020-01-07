@@ -1,0 +1,56 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EEiS1q009384
+	for <hu@ccert.edu.cn>; Wed, 17 Aug 2005 03:31:18 +0800 (CST)
+Message-ID: <200508142244.j7EEiS1q009384@spam-gw.ccert.edu.cn>
+Received: from pisclubjhb (unknown [219.238.168.2])
+	by smtp4 (Coremail) with SMTP id RkBfofVb_0IPEu83.1
+	for <hu@ccert.edu.cn>; Wed, 17 Aug 2005 03:44:47 +0800 (CST)
+X-Originating-IP: [219.238.168.2]
+From: "lai" <lai@126.com>
+To: hu@ccert.edu.cn
+Cc: <zhan@ccert.edu.cn>,
+	<hou@ccert.edu.cn>,
+	<guan@ccert.edu.cn>,
+	<qian@ccert.edu.cn>,
+	<guo@ccert.edu.cn>,
+	<tu@ccert.edu.cn>,
+	<guan@ccert.edu.cn>,
+	<ning@ccert.edu.cn>,
+	<liu@ccert.edu.cn>,
+	<wua@ccert.edu.cn>,
+	<qiu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuEpBVkG/qreiyMvUsQ==?=
+Date: Wed, 17 Aug 2005 03:45:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5A123.AB2C1F50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWg2iclErE9vEwpQUuF46XqYTUSdgABkatA
+In-Reply-To: <42FF5137.0076B3.03512>
+
+上海同捷数字化技术有限公司是上海同济同捷科技股份有限公司下属的高科技公司
+，于2003年8月正式成立。
+前身为美国UGS公司中国研发中心和上海同济同捷科技股份有限公司软件研发中心。
+为美国UGS公司研发UG软件(三维设计软件)和同捷科技股份IPDM产品、IDQC产品。为
+通用（GM）、福特（Ford）、伟世通（Visteon）等开发工程应用软件。
+    本公司是国内从事技术信息化和管理信息化开发和服务的最大公司之一，主要
+产品有PDM、IDQC和DPS系统，集团公司是国内唯一能从事汽车设计的专业公司，共
+有员工600人，公司位置位于浦东金桥高新技术开发区;
+   工作地点:北京(公司北京的研发分部)
+Java高级程序员
+1)      本科以上学历，包括本科；两年以上开发经验；
+2)      熟悉软件开发流程和设计工具，熟练使用Rose进行软件模块的分析和开发；
+3)      精通Java编程和EJB开发，深刻理解面向对象和J2EE技术；
+4)      熟练使用Oracle和MS SqlServer，精通SQL；
+5)      熟练使用Eclipse/Jboss/Tomcat/等Java系列开发工具；
+6)      能够独立根据需求文档进行软件的分析、设计和开发；
+7)      具备良好的沟通能力以及协调能力；
+8)      熟悉.Net/LDAP/Corba者优先；
+JAVA项目经理：
+1)      本科以上学历，包括本科；三年以上开发经验；
+2)      具有良好的制造业信息化背景，熟悉目前国内主流的信息化软件；
+3)      具备Java 高级程序员的要求，同时要求熟悉Corba技术；
+4)      能够独立和客户进行沟通，并且进行功能的需求分析、设计、开发；
+5)      良好的协调能力；
+联系方式：Email:baiep@tjd.cn

@@ -1,0 +1,30 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <cai@ccert.edu.cn>; Thu, 25 Aug 2005 22:56:04 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 23:14:27 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 23:14:27 +0800
+Date: Thu, 25 Aug 2005 23:14:27 +0800
+From: shen@cernet.com
+Subject: =?gb2312?B?UmU6IFu6w8/7z6JduqPN4saxt7+xqLXAOC4yOS0xMQ==?=
+To: cai@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+The Island 逃出克隆岛 8530万，看来迈克尔贝的这部电影在海外票房上突破
+一亿是肯定的事情了，而且远远超出国内票房，脱离了亏本的厄运。
+Mr. &amp; Mrs. Smith 史密斯夫妇，2.07亿，继国内取得1.8亿多的票房之后，这
+部影片的海外票房也顺利突破2亿，并且有可能达到2.5亿的水平。
+两部我相当喜欢的电影，两部海外票房都相当成功的电影。
+     \'Island\' salvages some honor at foreign box office
+     Tuesday August 23 1:54 PM ET
+     Domestic dud "The Island" led the international box office for a second succ

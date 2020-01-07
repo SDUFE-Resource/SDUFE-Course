@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <jiang@ccert.edu.cn>; Sat, 24 Sep 2005 19:53:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <jiang@ccert.edu.cn>; Sat, 24 Sep 2005 20:05:17 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 11:42:23 -0000
+From: "ma" <ma@mail.tsinghua.edu.cn>
+To: jiang@ccert.edu.cn
+Cc: <liao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMrVv7S3vbeouPzV/Q==?=
+Date: Sat, 24 Sep 2005 20:04:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+CAN NOT CONNECT
+     具体收看方法：　
+       　点击学生清华视听媒体右部顶端的“直播转播 点击进入”图标，您将会看到弹出一个对话框；此后可以进行以下两种之一的选择：
+     　　请选择“保存”将文件保存到本机,右健释放.运行文件夹的gmengine.exe,弹出“正在链接服务器进行设置”对话框，同时任务栏右下角会出现Gridmedia的播放引擎。至此，鼠标右键点击该播放引擎即可以选择您所要观看的频道进入“清华教育网娱乐频道)”频道收看我们的直播

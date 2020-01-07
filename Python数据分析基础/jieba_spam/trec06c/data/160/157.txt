@@ -1,0 +1,36 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J3Tsuc012204
+	for <wua@ccert.edu.cn>; Tue, 20 Sep 2005 20:21:41 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J3P05T085835
+	for <wua@ccert.edu.cn>; Tue, 20 Sep 2005 20:17:56 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from 163.com (m13-67.163.com [220.181.13.67])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J3OphQ085831
+	for <wua@ccert.edu.cn>; Tue, 20 Sep 2005 20:16:41 +0800 (CST)
+	(envelope-from chenyang03@163.com)
+MIME-Version: 1.0
+Message-ID: <432E330C.000184.26953@bj163app67.163.com>
+Date: Tue, 20 Sep 2005 20:31:42 +0800 (CST)
+From: "lv" <lv@163.com>
+To: wua@ccert.edu.cn
+X-Priority: 3
+X-Originating-IP: [192.168.208.154(210.25.128.99, 202.38.188.130)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com -->
+	163com
+Subject: =?gb2312?B?ofEgsK7Jz9K7uPa76NO5tcRHR6O6o6g=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1569947849=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+我最近喜欢上了一个我用真心改好的GG，由于我们经历太相似，再有他有过一段痛苦的爱情，还有其他乱七八糟的感情，那些都是因为那次痛爱的堕落，我们最初朋友哥们似的来往，我不停的骂他昏庸不负责，教他认识一个男人要有责任心，改好了他，其实我早就有预感我们不可能友情一直下去，因我感到他对我有不同的感情，我却在这其中失去了很多，慢慢沦陷喜欢他，我们都有糊涂说不清楚的情愫，可是他却躲避在自己的城堡中，害怕面对纯真善良的我，有负于我，还有对曾爱的亏欠，在最初我的激励下，他鼓起勇气重追旧爱，可是一个受伤的女人是在一夜之间发生裂变的，他却逃避，怕面对我，我该怎么办，是继续？还是征服？办法在那里？

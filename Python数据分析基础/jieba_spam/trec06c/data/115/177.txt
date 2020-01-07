@@ -1,0 +1,29 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <lv@ccert.edu.cn>; Sun, 11 Sep 2005 11:22:20 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <lv@ccert.edu.cn>; Sat, 10 Sep 2005 20:34:27 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Sat, 10 Sep 2005 20:34:27 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Sat, 10 Sep 2005 20:34:27 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sun, 11 Sep 2005 11:34:27 +0800
+From: =?GB2312?B?1/O+pw==?= <zhou@gmail.com>
+Reply-To: zhou@gmail.com
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXm0MTH673Muf3AtMjLo7qz9sn6sru+w7XE06S2+brIyrLDtMXG19O1xMTMt9uxyL3PusOj
+vw==?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+哈哈,还是班主大人勤奋.这个楚MM偶的偶像哦.
+而且偶还从她那买了好几K的奶粉了,就是物流到偶这里慢一点
+     现在的配方奶粉都差不多，国家标准是一样的， 炒做概念，迷惑消费者，目前国内的伊利、圣元优聪婴幼儿奶粉都很不错的，和进口品牌相比毫不逊色。
+     选奶粉要懂得看里面的成分，婴儿配方奶粉的成分一般是鲜牛奶、乳清粉（国外进口，人家提炼奶油余下的，主要就是蛋白质）维生素、矿物质等，胡萝卜素、牛璜酸什么也要加，为了不上火还要加低聚糖（可以生成双歧因子，促进肠胃蠕动），DHA和AA不一定要直接添加的，有鱼腥

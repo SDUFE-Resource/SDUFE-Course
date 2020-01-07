@@ -1,0 +1,30 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2svQX010170
+	for <xing@ccert.edu.cn>; Fri, 16 Sep 2005 15:55:51 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G3Pt3h004638
+	for <xing@ccert.edu.cn>; Fri, 16 Sep 2005 16:26:52 +0800
+Message-Id: <200509160325.j8G3Pt3h004638@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 16:06:59 +0800
+From: "lv" <lv@mail.nisac.gov.cn>
+To: xing@ccert.edu.cn
+Subject: =?gb2312?B?ofEgo9tBSUVTRUMgSlNUo924sMjVsb7T0NC9yrXPsLv6u+Egu+62r7CyxcWyubPko6hOZXejqQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+标题：［AIESEC JST］赴日本有薪实习机会  活动安排补充（New）
+简介：
+J S T (Japan Study Tour)是清华大学学生对外交流协会(ASIC)和国际经济学商学学生组织(AIESEC)合作为清华学生提供有薪实习机会的项目。几年来，这个项目已经成功运作数次。已有大约100名的学生去了日本企业实习，通过在日本的实习对于面对自己的将来和技能提升都有很大的帮助。
+    今年九月的J S T主要提供两个项目的实习：Management Internships(简称MT)，Technical Internship(简称TT)。
+在日本的实习项目最短期限为2-3个月。在实习过程当中为了使您全心全意地投入实习项目的环境，实习开始之前与之后，分别由中国和日本的AIESEC成员为您服务。如果你可以长期参与实习并且有一定的IT技术（程序设计（C/C++，JAVA等）、网络设计，数据库设计等），机会将会更多。
+我们已于9月17日15：00 ～ 17：00在四教4102举办了Information Seminar。但由于那天刚好与党员保持先进性教育活动相冲突，致使很多关心JST的同学没能到场参加。想要索取相关资料及个人简历表的同学请与菅哲雄联系（联系方式见本文结尾处），邮件或短信皆可。
+此外，9月20日14：00 ～ 17：00将在清青快餐举办Consulting Service，详细介绍日本公司的情况，并解答与JST相关的问题。欢迎到场参加。没能赶上Information Seminar的同学请不要错过这次活动。
+负责人 菅 哲雄
+guanzx03@mails.tsinghua.edu.cn
+13811924240
+清华大学学生对外交流协会（ASIC）
+◆    AIESEC(国际经济学商学学生组织)由世界上91个国家和地区形成全球网络，其目的是通过海外实习项目为未来承担国际社会的学生提供建立发现并发展自身潜能的平台。不仅已经成功地为3500名以上的学生提供了在海外学习和生活的机会，而且举办了350余次国际国内会议，使5000名以上的成员有机会参与到组织的运作当中发挥自身的领导能力。AIESEC自1948年成立以来，始终以促成国际实习项目、通过“国际实习项目”和“国际间互相理解”所获得的经验培养能够活跃在国际社会舞台上的年轻人，现已是世界上最大规模的学生组织。

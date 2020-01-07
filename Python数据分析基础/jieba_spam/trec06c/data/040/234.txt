@@ -1,0 +1,27 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <liu@ccert.edu.cn>; Thu, 25 Aug 2005 23:51:53 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 15:41:28 -0000
+From: "wei" <wei@mails.tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 00:05:10 +0800
+
+bless
+         我现在跟lp一起在清华某系读研，我们都是直推的，开学就要研二了。一年过去了
+     ，觉得这里的学习和研究跟我所想要的实在是差得很远，老板就像一个刚爆发了的资本家
+     一样，不学无术且自以为是。当初推研的时候成绩不好，觉得不管什么地方都行，好歹混
+     个清华的硕士文凭吧
+         虽然浪费了一年时间，可是在这一年里近水楼台追到了lp，实在是很划算。谢谢lp
+     支持我，跟你结婚是我有生以来作出过的最英明的决定。要让爸爸失望了，他老人家一直
+     想让我安安稳稳读到毕业。我还是觉得如果我不这样做，以后我会后悔一辈子。对现在的
+     老板，虽然有一肚子
+         以后就常驻这边了，跟各位xdjm一起好好做准备。我想考CS，数学英语忘得差不多
+     了，专业课除了数据结构别的也一窍不通，要做的事情还有很多。大家一起加油吧：）

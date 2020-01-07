@@ -1,0 +1,100 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5IQ6E027876
+	for <feng@ccert.edu.cn>; Sun, 11 Sep 2005 19:00:23 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5Fd1q091174
+	for <feng@ccert.edu.cn>; Sun, 11 Sep 2005 18:57:57 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5FXOV091170
+	for <feng@ccert.edu.cn>; Sun, 11 Sep 2005 18:57:30 +0800 (CST)
+	(envelope-from yang.feng00@mails.tsinghua.edu.cn)
+Received: from unknown (HELO zyyf) (yang.feng00@61.49.179.73)
+	by localhost with SMTP; Sun, 11 Sep 2005 10:46:38 -0000
+Message-ID: <002601c5b5c8$a46bebf0$0c01a8c0@zyyf>
+From: "lin" <lin@mails.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztK1xL+80dDCt6O606LT77XE0afPsC3Qwrart70tR1JF?=
+Date: Sun, 11 Sep 2005 19:11:32 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Cc: 
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0168757630=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+下面继续说我自己。
+我考过四级、六级、四六级口语、GRE、托福、考研，
+成绩都还算拿得出手，所以也才敢上来给大家指手画脚一下。
+这些考试当中，其中我专门准备过的只有GRE，其他的都没怎么花时间。
+其实我也走过弯路；
+那些我走过的弯路，我就不希望后来人接着走了。
+~
+话说我的大学生活还算平静，
+直到我听说一种叫做“GRE”的东西。
+剩下的不用我说大家也能猜个八九不离十了：
+我被伟大的新东方精神感动得简直涕泪奇下，
+虔诚地买回玉米糊的红宝书，
+在道听途说的新东方精神的熏陶和鼓舞下，
+在考G同路人们的互相鼓励下，
+没黑没白地投身于诵读红宝的伟大事业之中，
+但觉红宝之博大精深，
+绝非我等鼠辈精读30遍、40遍所能体会到冰山一角的。
+大二暑假，我终于如愿以偿来到我幼小的心灵当中的圣地，
+顶礼膜拜一般地听完了整整一期新东方暑期班。
+虽然课程听得我稀里糊涂，
+但对新东方神话宗教一般的崇拜依然不减。
+听说有人把红宝背了50、60遍，
+便立志一定要超过他，
+不背上100遍不罢休！
+~
+2001年暑假过后，
+我带着厚厚的笔记本、内部讲义从新东方回到天津，
+继续一边学习大学课程，一边苦读GRE。
+我大概是在2001年的11、12月份交钱报了名，
+考试时间：2002年4月11日；
+考试地点：北京，鼎钧大厦。
+~
+忙活完了自己的期末考试，
+大三寒假开始，
+全身心地投入到考G的复习当中。
+这是我发现时间已经不够了，于是便转而去抓那些比死背红宝书也许更有效的东西。
+（终于有点儿开窍了，呵呵，醒悟的还算及时）
+对于单词，我打印了一份黑宝书（打印版），它比红宝更侧重实战。
+对于阅读、句子填空，我锁定了两本书作为基础读物：
+《GRE句子填空》，陈圣元。
+我所见过的新东方出的GRE教材当中，这是最经典的（注意没有“之一”）。
+《GRE阅读全真题详解》，樊一昕、苑青主编，
+上海世界图书出版公司出版发行，1999年10月第1版。
+后一本是上海思马得学校出的。
+逻辑我则基本上不去操心；反正逻辑只要看懂了题目就一定会做。
+大三下学期开学之后，
+我更是学着《新东方精神》书中的前辈们的样子开始逃课，
+什么课都不去上，
+专心猫在宿舍里作PP2（这个，考过机考的都知道是什么东西吧）。
+~
+随着考试的日期越加临近，
+我越加感觉在新东方学的东西用不上。
+逐渐地我开始怀疑玉米糊一干人等搞出《新东方精神》之类的东西到底是出于什么目的，
+鼓吹把红宝书背上几十遍这种愚蠢的举动到底是由什么险恶用心。
+因为买过来一本板砖就背，
+实在是我所能想得出来的效率最低的英语学习方法，是小学生中学生才用的学习方法。
+我们都是大学生了，为什么还被别人忽悠得热血沸腾，
+用这种一点智商都没有的土办法去学英语呢？
+借狸叔的一句话来说：
+“最烦的就是你们这些背单词的了，
+一点儿技术含量没有！”
+~

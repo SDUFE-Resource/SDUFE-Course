@@ -1,0 +1,20 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PBM1hB031975
+	for <ma@ccert.edu.cn>; Mon, 26 Sep 2005 21:51:12 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 21:38:32 +0800
+Message-ID: <327646561.19141@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 26 Sep 2005 21:38:32 +0800
+Message-ID: <327646561.19123@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Mon, 26 Sep 2005 21:38:32 +0800
+From: hu@mail.tsinghua.edu.cn
+To: ma@ccert.edu.cn
+Cc: ye@ccert.edu.cn
+Date: Mon, 26 Sep 2005 21:38:32 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMbmudajrM312/PL+dL90tTOqrrAtcTHocehysexu8v719S8urHJytO1xA==?=
+Content-Type: text/plain
+
+但是如果你真能作好的话，可以走国家支持的道路啊，再说了可以做到嵌入式方向的，国内很多用嵌入式的还不是花钱买的国外的，自己人是有做的，好象普及不开，我想除了市场因素，恐怕重要的还是你做的到底好不好
+     这么说吧，大家都用盗版windows习惯了
+     假如作出一套新的操作系统来，有多少人会换过去？有多少人肯自己花钱买？
+     如果明知道没有什么市场的东西，为什么要花钱去做呢？

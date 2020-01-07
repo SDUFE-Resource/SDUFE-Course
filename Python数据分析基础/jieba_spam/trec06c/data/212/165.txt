@@ -1,0 +1,25 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U2R6AL010810
+	for <zeng@ccert.edu.cn>; Sat, 1 Oct 2005 09:15:29 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8U2U2g26094;
+	Sat, 1 Oct 2005 09:18:25 +0800
+Message-Id: <200509300230.j8U2U2g26094@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Sat, 1 Oct 2005 01:18:25 UT
+To: zeng@ccert.edu.cn
+From: luo@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM3G0dDLxLSmxfax2qOstPO80rj4ztKz9rP21vfS5bDJo6y40Lyksru+oQ==?=
+
+其实问题在于你自己实现没有考虑清楚，没有就各种可能发生得情况做出考虑。
+在推研这种比较严肃得问题上，你本就应该提早对于可能发生得情况做出抉择。
+因为在推研得过程中，不止是你，还有很多其他得同学在等待着消息，对于成绩特别好得同学来说还好，但是对于其他得成绩中等得同学来说，等待得过程的确是非常痛苦得一件事情。
+从院系得角度来说，它如果无法确定最终人选，则无法公布入选名单，这样对很多同学来说是不公平得，如果只是等待一个人考虑的话。
+所以希望推研得各位师弟师妹们，在你们推研之前，请认真彻底得考虑清楚各种可能性，这样也就不至于发生现在得这种情况了。
+     我是清华大学的大四学生。在今年推研招生中，我的第一志愿为A（别的系），第二志愿为本系。
+       在A的面试结束后的第二天，也就是本系面试的时候，刚刚走出考场的我心情很乱，这时候看到手机上有一个陌生的未接来电，于是就打了这个电话，对方说：“你有资格被A录取了，你要不要来？”我想了一下，因为刚刚结束本系的面试，所以心情很乱，就说能给我一点时间吗？他说：“不行，如果你不愿意，我们还有很多人等这个名额”。我就求那个老师，说再给我一点时间，但是那个老师马上说：“你要考虑的话我们马上就放弃你”。我又和他讲我需要时间考虑，他说：“那你就放弃吧！”
+     我本来想和家里商量一下然后再做决定，因为事先都没有和家里商量，所以觉得在做这个决定之前问一下父母。可是他没有丝毫给我考虑的时间，他们居然就说算了吧，他们就算我放弃了！

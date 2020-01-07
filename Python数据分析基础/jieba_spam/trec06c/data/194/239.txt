@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8QBhmPT008954
+	for <ke@ccert.edu.cn>; Tue, 27 Sep 2005 23:18:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QBt6QD026617
+	for <ke@ccert.edu.cn>; Tue, 27 Sep 2005 23:29:25 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 27 Sep 2005 15:04:51 -0000
+Message-ID: <009501c5c291$203bbec0$0c42423b@tunoc1a645037e>
+From: "tan" <tan@mail.tsinghua.edu.cn>
+To: ke@ccert.edu.cn
+Cc: <xu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtE1JVLrNy67EvrbUtP3N9dvztcTMrLbIsrvNrKO/?=
+Date: Tue, 27 Sep 2005 23:29:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0092_01C5C2D4.2E44C000"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+这条小溪可不觉得自己是小溪, 觉得自己是长江了.  
+他家反对的是这点. 
+我们也觉得他就是条小溪. 
+     标  题: Re: 为什么MIT和水木对待王垠的态度不同？
+     
+     
+     : 一个有趣的现象是，在水木上有不少人捧王垠，而在MIT BBS上几乎都是一边倒地批王。
+     : 仔细看看那些捧王垠的，多半都是比较FQ，空喊口号地批驳中国教育制度的。
+     : 而MIT上发帖子的，基本上都是在国外继续深造过的，明白王垠所批判的东西，其实并不是中国所仅有的，他即使到了美国，他会发现那里跟清华并没有本质的区别：老板照样要你多发文章，因为没有文章就没有资金，没有资金就没钱吃饭；老板也会限制你的选课，因为你选课太多就会影响你的研究...这些规则，即使是在顶级名校的顶级教授那里，也是无法避免的。
+     
+     
+     
+     我，一个文科生，在什么是科研怎样做研究上没有发言权，但我还记得唐

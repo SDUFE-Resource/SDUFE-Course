@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <jin@ccert.edu.cn>; Sat, 27 Aug 2005 14:24:30 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Sat, 27 Aug 2005 14:42:50 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Sat, 27 Aug 2005 14:42:50 +0800
+Date: Sat, 27 Aug 2005 14:42:50 +0800
+From: chen@cernet.com
+Subject: =?gb2312?B?UmU6ILK7uf3Kx7nCtaWjrLK7uf3Kx8LkxK8=?=
+To: jin@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+         真正的爱就那么一次，不想委屈自己，也不能委屈别人。不过是孤单，不过是落寞。
+         想起小家伙的时候就不觉得孤单了，世界上最近的距离，不是两个人面对面说情话，
+     而是，小家伙一直在我心里面，在那个夏天，微微笑。换了岁月，不变容颜，沧海桑田，
+有点像野蛮女友里面，王晶向他说关于他的事情。不同的结局是，我想，你的她不会回来了。保重吧…爱可以不让人知道，不要把它当作一件艺术品。

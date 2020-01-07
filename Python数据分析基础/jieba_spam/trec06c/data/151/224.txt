@@ -1,0 +1,31 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G3hMU7010661
+	for <hua@ccert.edu.cn>; Sun, 18 Sep 2005 15:05:21 +0800 (CST)
+Message-ID: <200509161143.j8G3hMU7010661@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO b28d91f81b7b43f) (yang-w04@166.111.203.126)
+  by localhost with SMTP; Sun, 18 Sep 2005 06:51:09 -0000
+From: "che" <che@mails.tsinghua.edu.cn>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzuOe0873jx+u9zLy4tcDQxbrFzOIssqKzq9Lps8nBotDFusXT68+1zbPOyszizNbC28f4?=
+Date: Sun, 18 Sep 2005 15:19:58 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6axz0VIoH4GpYSpe3bXS01wjyWgAB5Aww
+In-Reply-To: <00b001c5ba6a$64ccf2e0$26cb6fa6@liuwu>
+
+呀呵，这题我咋看着这么眼熟捏？
+问题一:
+  为使带通信号以尽量小的群延迟无失真的通过理想带通系统,则要求其带内幅频特性为常数,相频为过在频的点的负斜率直线,.该结论与信号的无失真传输(幅频常数,相频过零点直线)不一致.二者是否矛盾?怎样推倒给出详细解释?
+郑的书上没有呀? 我也看不出来,恳请各位解答
+问题二
+判断
+1.不含直流分量的信号的希尔拨特变换是全通系统?
+2.两个最小相移系统的级联一定是最小相移系统?
+3希尔伯特变换的等价系统为全通系统?
+4延迟为T的连续时间线形时不变系统是最小相移系统?
+5全通系统是不可实现系统?
+说出你们的理由?

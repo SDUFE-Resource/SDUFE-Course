@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <liu@ccert.edu.cn>; Wed, 24 Aug 2005 19:17:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <liu@ccert.edu.cn>; Wed, 24 Aug 2005 19:31:12 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 11:25:45 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "jiang" <jiang@mail.tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzqLI7dbQufrV0MS8vqux+DgwMMP7IMbVzajR0Lei1d/UwtC90rvN8g==?=
+Date: Wed, 24 Aug 2005 19:27:36 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+◇字体：［大 中 小］ 来源： 法制晚报 (08/25 14:09) 
+ 
+　　面向北京、上海、广州、成都四地区　近300个职位面向新毕业大学生、硕士生等―――
+　　本报讯　今天上午，微软中国表示将在2006年6月前招收800名员工，有近300个职位将面向新毕业的大学本科生、硕士研究生和博士生。
+　　微软中国宣布，公司将在2006财年（2005年7月－2006年6月）在中国招聘约800名新员工，一半以上的新聘人员将为研发人员，其他将是销售、市场和服务人员。同时，有近300个职位将面向新毕业的大学本科生、硕士研究生和博士生。
+　　据微软大中华区人力资源总监ScottSlipy表示，目前招收的人才主要集中在北京和上海，同时会有少量的职位面对广州和成都。“这是微软进入中国以来最大规模的招聘活动。”ScottSlipy表示。该人士表示，对于薪酬问题，微软会给人才提供有竞争力的薪酬。据记者了解，目前微软方面普通研发人员的月工资基本上都在一万元以上。
+　　微软亚洲工程院院长张宏江说：“微软亚洲工程院在成立不到两年的时间里，员工人数已经快速增长到300多人，我们欢迎更多软件开发精英和青年学子加入到微软研发队伍中来，共同推进科技创新事业。”据ScottSlipy透露，微软的招聘网站将公布所有招聘职位。“当然，我们也会采取其他方式，如招聘网站、校园招聘等。校园招聘一般从9月开始。对高级职位的应聘，一般有4-6轮面试。”ScottSlipy说。
+　　新闻背景
+　　IT业今年抢拉“壮丁”
+　　对于微软在华招收近800名员工，同样希望在搜索领域大展身手的阿里巴巴则表示，同样会在人才方面进行储备，阿里巴巴首席执行官马云表达了这个意愿。
+　　百度对这个消息似乎早有准备，因为在上市前夕，百度负责人就表示会在未来一年内将员工扩充到1000人左右。百度CEO李彦宏则表示目前最难求的是人才，如果是有真才实学的人，有多少要多少。
+ 

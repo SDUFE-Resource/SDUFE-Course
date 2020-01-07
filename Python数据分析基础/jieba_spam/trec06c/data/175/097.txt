@@ -1,0 +1,44 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <wei@ccert.edu.cn>; Sat, 24 Sep 2005 00:15:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <wei@ccert.edu.cn>; Sat, 24 Sep 2005 00:26:52 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 16:03:52 -0000
+From: "huang" <huang@mail.tsinghua.edu.cn>
+To: wei@ccert.edu.cn
+Cc: <he@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgucC8xtXiuOfDx7G+v8bU2sflu6q2wb7Nu+HAz8q1tuDByw==?=
+Date: Sat, 24 Sep 2005 00:26:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+说实话，你的认识，对清华的学生来说，他们大概本科三四都已经认识到了。
+一直在普通院校周围的人都不如他，骄傲惯了，
+如果大一就来清华，看看计算机系的本科同学，就老实多了。
+在清华看到这种博士真的不少，他们总觉得别人做的工作就是修修补补，在一个成型的袍子
+上东绣一朵花，西坠一个珠子，这都是他们不屑于做的
+他们希望就像牛顿或者爱因斯坦一样，建立一个全新的体系，称为一个新学科的奠基。
+他们不满足与做缝补匠，希望重新织一个袍子
+可惜，我只能说，我看到他们的后果就是，满心的命比天高，可惜表现的就是才比纸薄。
+不仅仅一事无成，而且白白浪费了太多时光。
+我们在很多时候佩服他们的勇气，怀疑自己是不是不够理想；但是又在很多时候在感慨，是
+否有些人也太自视甚高，耽误一生。
+文章中提到的以paper为衡量标准的中国现形科研体制确实不合理，大家多楼主的理智的褒
+扬应该来自于此。但是在中国人口如此众多，博士生水平参次不齐，人数庞大的情况下，还
+想要什么样人性化、个性化、理想的评价体系呢？请楼主或者其他对现形科研体制不满的人
+能够提出一个更合理更容易执行的办法出来？
+从文章中看出以及从同门师兄弟的描述中可以看出，楼主的科研环境算是非常宽松的了。不
+知怎样的环境才能让楼主觉得舒坦呢？
+或许，楼主可以到斯坦福或者ｍｉｔ去，或许可以发现理想国，或许失望。
+但倘若此次引起如此的广泛讨论，能够促进中国科研体制的变革和前进，确实是楼主一大贡
+献?
+     【 以下文字转载自 SJC.THU 讨论区 】
+     寄信人: theonlyone (唯一  忏悔、感恩、高远)
+     标  题: [转载] 清华梦的粉碎―写给清华大学的退学申请(转寄)

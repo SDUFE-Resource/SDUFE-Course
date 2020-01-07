@@ -1,0 +1,27 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8B8Z7Ye001586
+	for <feng@ccert.edu.cn>; Mon, 12 Sep 2005 19:35:38 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id E7E8A6E36C9; Mon, 12 Sep 2005 19:47:37 +0800 (CST)
+Received: from commonor995309 (unknown [211.161.18.249])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP
+	id 701926E2ACF; Mon, 12 Sep 2005 19:47:33 +0800 (CST)
+Message-ID: <006901c5b6ac$cb930fd0$370410ac@commonor995309>
+From: "su" <su@dlut.edu.cn>
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMy4zLjO0rP2ye3FqbTltcS4uMfXus2z9snts8fK0LXExLjH1w==?=
+Date: Mon, 12 Sep 2005 19:43:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0065_01C5B6EF.D7E8E2D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+你爸妈相亲的时候啥情景？
+和你类似？
+好奇ing
+     我父亲来自一个湖北穷苦的农村.我爷爷在我父亲很小的时候去世,留下两个儿子.我奶奶靠给别人缝补,拉扯两个小孩长大.我父亲是老大,还有一个弟弟.
+     父亲吃了不少苦,整个家都是他在支撑.可是他从来不抱怨.默默忍受着.16岁那岁,父亲谎报年龄,参军了.开始每月只有七块钱,他寄给我奶奶六块钱.父亲曾经参加过西沙海战,当时我爸是属于海军陆战队性质的一支部队,但当时好象还不叫海军陆战队.
+     在79年,中越战争期间,当时我已经出生.我爸是当时的广州军区参战部队的一个加强团的团长兼政治委员.他率领着三千多官兵,在战斗中,是中国军队进攻的开路先锋之一.听说我爸的人马曾经包围过越军掉队的四百多人,最后,那些越军全部被俘.战后,老爸被转业到湖北省政府某机关任职.

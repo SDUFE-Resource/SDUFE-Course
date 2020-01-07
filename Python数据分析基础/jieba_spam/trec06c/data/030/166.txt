@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <tian@ccert.edu.cn>; Tue, 23 Aug 2005 16:18:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <tian@ccert.edu.cn>; Tue, 23 Aug 2005 16:31:53 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 08:26:26 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "hou" <hou@mail.tsinghua.edu.cn>
+To: tian@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1ffT0NLiz/KyzrzTw/fM7NOtvdPO0tCjysC957Tz1Mu74b2htvm72Ln6u+62r7XEzazRpw==?=
+Date: Tue, 23 Aug 2005 16:28:17 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我校健儿世界大运会上摘得两金一铜
+――――热烈欢迎健儿凯旋归来
+我校运动健儿在土耳其举行的第23届的世界大学生运动会上，以两金一铜的优异成绩为中国、为清华赢得了荣誉。
+在本次比赛中，清华健儿发扬了坚持到底、永不放弃的清华体育精神，在强手如林的比赛中，发挥了最好的状态，展现了清华人特有的风采，受到兄弟国家的一致好评。胡凯同学夺得了男子100米的冠军，王颖获得女子三级跳远的冠军，刘青获得了女子1500米的第三名。
+23日下午他们即将归来，我校部分领导将与同学一同前往机场迎接，感谢他们为国家争得了荣誉，为中国的大学生赢得了骄傲。现征寻有意向参加这次活动的同学。
+明天中午12：00在十食堂门口集合，准时出发，按报名先后顺序，同学们不要错过难得的机会！ 
+联系方式：e-mail：ssj02@mails.tsinghua.edu.cn
+          联系人：司书甲
+报名截止时间：22日晚上8：00

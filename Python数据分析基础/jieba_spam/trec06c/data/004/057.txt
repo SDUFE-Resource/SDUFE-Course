@@ -1,0 +1,25 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7C1ceuQ019050
+	for <guo@ccert.edu.cn>; Tue, 16 Aug 2005 04:40:15 +0800 (CST)
+Received: (qmail 5448 invoked from network); Mon, 15 Aug 2005 20:51:02 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Mon, 15 Aug 2005 20:51:02 -0000
+Message-ID: <000b01c59ee0$a1f666b0$e900a8c0@d47db5334f2a479>
+From: "jiang" <jiang@jdl.ac.cn>
+To: guo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvT9MPGXdLRvq3O3reo0MXIzsq10enK0sHL?=
+Date: Tue, 16 Aug 2005 04:55:01 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+其实实习作的也一样，跟实验室差不多。在实验室没办法，就得听老板的。自己选择自己的方向，前途，在实验室不大可能，在公司更不可能。小弟目前在一公司（如果该公司都不是玩比较nb玩意的话，那也就几乎没有玩芯片的啦，呵呵）。进去了，大家其实也就是干些一般的活，“高层次的想法”跟不用不到，哈哈。一本科生，基础牢些，在会些开发软件，完全可以胜任。不过在实验室还是不错的，起码自由些，喜欢什么还可以自己弄弄，公司完全不可啦。
+    在实验室就是少说话，多替老师干活。掌握些实际的工作方法。
+     研一寒假的时候好容易获得了一个难得的实习机会
+     结果被实验室扣下，理由是实习的内容对以后做的课题帮助不大
+     结果研一下半学期就被拖到实验室干活，美其名曰提前进入课题，早作准备

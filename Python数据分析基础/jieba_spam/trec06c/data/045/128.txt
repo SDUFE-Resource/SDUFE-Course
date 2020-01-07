@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <shen@ccert.edu.cn>; Fri, 26 Aug 2005 20:24:37 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 20:32:07 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 20:32:07 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 20:32:07 +0800
+From: guan@mail.tsinghua.edu.cn
+To: shen@ccert.edu.cn
+Cc: liao@ccert.edu.cn
+Date: Fri, 26 Aug 2005 20:32:07 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg0a/OytK70Km3ycD7xtajrLrNaW50ZWy1xM7KzOI=?=
+Content-Type: text/plain
+
+大家帮忙提供一些信息，谢谢了
+清华本科毕业两年，本来在一个台湾做笔记本研发的公司（上海）做机构工程师，
+结果出差包销费都老是欠我，都是我先垫。
+已经受够台湾企业的抠门。
+最近想换份工作，于是开始找工作。
+1个飞利浦照明电子的工作已经ok了，我只要了8000，结果他们马上答应了，感觉一定是
+要少了，其实钱少没关系，主要是做整流器的结构设计，和我以前设计笔记本结构比起来太简单了，怕把自己给费了。周一飞利浦让我去谈福利，第一个想问大家知道这个公司前景怎么样，还有福利要怎么和他谈。
+另一个职位是intel thermal engineer,由于目前国内很缺，所以有两个部门都有进入第3轮机会，但是前途未卜。
+请大家给个意见，是推掉飞利浦的，还是有什么方法可以兼顾。
+谢谢了

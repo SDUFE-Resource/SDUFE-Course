@@ -1,0 +1,22 @@
+Received: from 163.com (m13-20.163.com [220.181.13.20])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j897B1aC019635
+	for <xia@ccert.edu.cn>; Sun, 11 Sep 2005 10:56:21 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4321385B.0000FC.08953@bj163app20.163.com>
+Date: Sun, 11 Sep 2005 11:08:22 +0800 (CST)
+From: "chi" <chi@163.com>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?ofEgwdTNt9awzrujuryx0bC+q82oQysrLEMm1tDOxMrkyOu3qL+qt6ImTWFjaW50b3NoL1VuaXgv
+V2luZG8=?=
+X-Priority: 3
+X-Originating-IP: [192.168.208.155(210.72.197.14)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 163com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_zaEKjQWroZbskVmCcRNRUtYjFkpl"
+
+Hello,大家好！好消息,一家著名美国IT公司急招Software Engineer主要用C,C++或Java做为工具，做中文输入开发处理的。工作地点：北京。有相关经验是最好的啦^_^ 不过这家外企是愿意培养人的，让他从零做起。所以你在编程方面很出色，又是名校高材生可要多关注一下啦。英语要好! 
+大家踊跃报名吧！好机会，当然要大家分享，身边有合适的朋友也要照顾一下喽!
+联系我可以：
+jerry.yao@multimage.com.cn 可以直接发简历，中英文
+010-60668184/64602978 －18 Jerry
+好啦，说了半天，贴出详细JD，大家对号入座吧!
+R&amp;D 

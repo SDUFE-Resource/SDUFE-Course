@@ -1,0 +1,34 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <chen@ccert.edu.cn>; Thu, 29 Sep 2005 05:25:08 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 21:36:19 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 05:36:18 CST
+Date: Thu, 29 Sep 2005 05:36:18 +0800 (CST)
+From: liang ming <long@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+To: chen@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+     关于盗版软件请参考Linus.T
+     : 楼主的文章不错，支持。
+     : 到处用着盗版软件，还好意思鄙视linux，还好意思说什么学术。
+     : 呵呵，这么多re问，没有几个是针对原文的，大多是针对什么web、telnet的，有什么意思！
+以下摘自 Just For Fun的第三章:
+“总的来说，我从两个方面看版权。比如一个每月挣五十美元的人，他可能会为一个软件花费二百五十美元吗？如果花一点钱买非法拷贝软
+件，而把五个月的工资用于吃饱肚子，我一点不觉得他不道德。这种侵权是道义上可以接受的。去追捕这种“侵权者”是不道德的，更不要
+说简直就是愚蠢的。就Linux而言，谁在乎如果只将其用于个人目的时，一个人是否真正遵循了GPL呢？那些想藉此赚大钱的人们，才是真正
+不道德的，不管他们是在美国还是非洲，也不管程度如何。
+”
+原文谈linus在采用GPL以前，很担心有人利用免费的linux牟利，侵犯了他的版权。后来linux太流行了，出于大量发行的需要，linus决定采用GPL，从而允许销售linux又保证所有基于linux的开发均保持开放的特色。并顺便谈了对版权的简单看法，该书的后面还有专门章节讨论版权和知识产权。
+好了，我不保证我说的忠于linus本人，但是对于ruster (人民教师×中秋节加班)应该有足够的参考意义了。
+总结一下：
+不要认为用盗版软件是天经地义的，如果你们教研室很穷，或者清华很穷，软件作者也许会从道义上同情地允许你们使用盗版。
+当你们可以不用盗版的时候，却鄙视为linux、印刷级开放标准文档的制作进行应用普及和中文本地化作出真正奉献的人。你以为他的导师让他写的那些论文才能衡量人品和才能么？你以为你的论文可以抵消中国落后的事实么？把你的论文题目给我们大家开开眼好吧？看看你的研究成果是什么来的。不要告诉我只有灌水and灌水哦。

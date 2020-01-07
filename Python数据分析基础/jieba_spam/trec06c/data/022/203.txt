@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <zhan@ccert.edu.cn>; Sun, 21 Aug 2005 17:30:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <zhan@ccert.edu.cn>; Sun, 21 Aug 2005 17:43:41 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 09:38:18 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "ning" <ning@mail.tsinghua.edu.cn>
+To: zhan@ccert.edu.cn
+Cc: "tunet" <yang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILj2yMvK1cjrIFJlOiC7qs6q0+vW0NDLtcS21LHIW9eqzPld?=
+Date: Sun, 21 Aug 2005 17:40:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+嘿嘿，我要是华为的单身男人，或者有其他企图（比如人力资源的为了华为的性别比例），会劝mm们在华为做研发
+如果我是外面的和华为无关的人，会劝mm们不要去华为做研发
+观点、立场不同罢了，谈不上恶心了
+     这和厚道有什么关系？这位自己厚道吗？自从冒出厚道这个词后，怎么总有人喜欢挂在嘴边，真恶心！
+     我看那是个mm，和她开开玩笑而已
+     你也就会说说"就不要哄骗其他MM进华为受苦了吧" "非MM们瘦弱的肩膀能承受的，意志不够

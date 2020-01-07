@@ -1,0 +1,43 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <feng@ccert.edu.cn>; Thu, 25 Aug 2005 06:47:27 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 07:05:50 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 07:05:50 +0800
+Date: Thu, 25 Aug 2005 07:05:50 +0800
+From: wei@cernet.com
+Subject: =?gb2312?B?ofEgudjT2tDCyfq1xNehy9630Q==?=
+To: feng@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+W楼应该属于以下的第一类，收费标准是每学年不超过1200元
+而W楼实际收费是1500元/年
+应该是违反了相关规定的
+http://edu.people.com.cn/GB/1053/3644991.html
+北京学生住宿费每学年最高1500元 
+24所高校新公寓收费标准不得上调 
+　　本报讯  2005年高校新建学生公寓住宿费标准不得上调。北京市发改委昨天对包
+括首都医科大学等在内的北京24所高校新建学生公寓住宿费作出批复。2005年高校新
+建学生公寓住宿费标准不作调整，各校可根据提供的住宿条件，在规定收费标准内制
+定具体收费标准。
+　　记者了解到，北京高校新建学生公寓住宿费收取分为三类。第一类，是首都医科
+大学、北京语言大学等5所高校的新建校内单元式学生公寓，收费标准是每生每学年
+不超过1200元；第二类是北京科技大学、北京体育大学等19所高校的非单元式学生公
+寓，收费标准是每生每学年不超过900元；第三类是北京邮电大学宏福校区和北京工
+商大学良乡校区等由社会力量投资建设的校外学生公寓，每生每学年不超过1500元。
+　　市发改委要求，有关学校需填报《北京地区学校学生住宿费标准审批表》，经市
+教委审核，到价格管理部门办理《收费许可证》，并使用财政部门统一印制的行政事
+业性收费票据，方可收费。此外，学生公寓住宿费按学年收取，不得跨学年预收。各
+学校要按照《教育收费公示制度》的规定，做好教育收费公示工作。 （陆纯 田杰）
+ 
+ 

@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <lu@ccert.edu.cn>; Tue, 30 Aug 2005 15:16:33 +0800 (CST)
+Received: (eyou send program); Tue, 30 Aug 2005 15:20:56 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 30 Aug 2005 15:20:56 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Tue, 30 Aug 2005 15:20:56 +0800
+From: "gan" <gan@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Date: Tue, 30 Aug 2005 15:20:56 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgs8/V97y8yvW4utTwyMs=?=
+Content-Type: text/plain
+
+    创业型公司诚征技术负责人。该负责人将参与公司产品的设计并负责技术人员招聘、软件开发、硬件采购等工作。工资不低于同等资历人员的水平，并可获得适当股权回报。
+ 
+应征者应有团队协作精神，富于创造性思维，能够自主工作，并应符合以下要求：
+ 
+1.      精通JAVA语言，熟悉面向对象的程序设计方法，四年以上的Java工作经验；
+2.      熟悉J2EE服务器端编程模式。熟悉MVC，熟悉J2EE的Swing、JSP、Servlet、JavaBean、JDBC、struts、XML等主要技术,能熟练应用Jbuilder等工具进行实施部署工作；
+3.      熟练使用ORECLE，MYSQL数据库，并有两年以上的开发经验；
+4.      有领导5人以上进行软件开发的经验；
+5.      有一定软件架构设计能力。
+ 
+有意者请将简历发送至chinalawfinder@126.com。

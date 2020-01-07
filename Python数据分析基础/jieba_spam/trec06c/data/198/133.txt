@@ -1,0 +1,33 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <fan@ccert.edu.cn>; Wed, 28 Sep 2005 14:26:20 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Wed, 28 Sep 2005 06:49:14 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Wed, 28 Sep 2005 06:49:14 -0000
+Date: Wed, 28 Sep 2005 14:43:49 +0800
+From: "qing" <qing@csnet1.cs.tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPPBrMj96tjWx8Tcv8a8vNPQz965q8u+X6GwsbG+qdHQvr+/qrei1tDQxKGx1dDGuNOissU=?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+诚聘英才
+大连三曦智能科技有限公司，成立于2003年12月，是由在国外长期从事人工智能技术研究与开发的归国人员、日本的人工智能技术研究人员和公司经营者共同发起，与国内从事通信控制技术专业公司，共同成立的中日合资技术公司。
+公司以生物信息识别技术，图象处理，语音信号、自然语言处理等人工智能技术应用研发为导向，致力于人工智能产品的设计、生产和销售，同时也致力于人工智能技术的普及，人工智能技术人才的培养，使人工智能技术受惠于社会。
+    公司因业务发展需要，筹备成立“北京研究开发中心”，诚招下列人员加盟。
+1. 研究开发中心主任 1名 年薪（15万至18万元）
+5年以上从事软件、硬件开发及测试工作的经历，5年以上大型IT项目管理和人力资源管理经验，统招本科以上学历，计算机相关专业毕业，35岁以下。
+2. Team Leader  3名 年薪（12万至15万元）
+（1）、5年以上TCP/IP开发经验，3年以上系统架构设计经历，2年项目管理经验，熟练使用VC++、C/C++，统招本科以上学历，计算机相关专业毕业，33岁以下。
+（2）、熟悉Linux或BSD或Unix和Windows等OS的内部结构、且有5年以上的相关开发经验，熟悉kernel、且有3年以上相关开发经验，2年项目管理经验，熟练使用C/C++、VC++，统招本科以上学历，计算机相关专业毕业，33岁以下。
+（3）、5年以上的图像处理开发经验、且取得较好的研究开发成果，2年项目管理经验，熟练使用VC++、C/C++，工学硕士以上学历，计算机相关专业毕业，33岁以下。
+3. C/C++工程师 4名 月薪（5，000至8，000元）
+3年以上VC++、C/C+++的开发经验，统招本科以上学历，计算机相关专业毕业，26岁以下，懂日语者优先。
+以上人员必须具有敬业精神，团队协作沟通能力，能在压力下工作，有外企工作经验者优先。被选中的人员可能先来大连工作2至3个月，熟悉公司的各种情况。
+公司地址：116023，大连市高新园区高能街1号 路明科技大厦C205号。
+传真：0411-8475-5001       e-Mail：hr@3cis.com.cn或3cis@vip.sina.com

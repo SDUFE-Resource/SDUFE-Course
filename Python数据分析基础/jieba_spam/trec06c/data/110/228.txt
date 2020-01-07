@@ -1,0 +1,24 @@
+Received: from mail.datangmobile.cn ([219.142.67.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8892WtN010943
+	for <peng@ccert.edu.cn>; Sat, 10 Sep 2005 11:37:22 +0800 (CST)
+X-MimeOLE: Produced By Microsoft Exchange V6.0.6249.0
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----_=_NextPart_001_01C5B455.B334AA92"
+Subject: =?gb2312?B?ofEgyrXU2rK71qq1wLeitb3ExMDvyKWjujIwMDXE6tbQufq/xtGn1LrUusq/1PbRobP1sr268tGh
+yMvD+7U=?=
+Date: Sat, 10 Sep 2005 11:49:06 +0800
+Message-ID: <D728AD1FA2543948B89DE29C5BF4CD0704702305@bjmail1.bj.datangmobile.com>
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator: 
+Thread-Topic: =?gb2312?B?Rlc6usPP+8+i?=
+Thread-Index: AcWzVeLIdAsKA274TtK/X9/Q8e7fPQAAQx2QAAD0grAAPoMbQA==
+From: <zhong@datangmobile.cn>
+To: peng@ccert.edu.cn
+
+中新网9月9日电中国科学院今日在其官方网站宣布：2005年中国科学院院士增选通信评审已经结束。根据《中国科学院院士章程》和《中国科学院院士增选工作实施细则》的规定，各学部院士对本学部中国科学院院士增选有效候选人进行通信投票，并经中国科学院各学部常委会审议，确认145位候选人为初步候选人。以下为具体名单：
+序号 姓名 年龄 专业 工作单位 
+1 马中骐 65 理论物理 中科院高能物理研究所 
+2 王诗

@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J65V6j013138
+	for <shen@ccert.edu.cn>; Wed, 21 Sep 2005 01:50:49 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8J61MoI086766
+	for <shen@ccert.edu.cn>; Wed, 21 Sep 2005 01:47:06 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8J61Hls086762
+	for <shen@ccert.edu.cn>; Wed, 21 Sep 2005 01:46:37 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 15003 invoked by uid 512); Tue, 20 Sep 2005 17:55:00 -0000
+Message-ID: <20050919060943.15002.qmail@stu.ee.tsinghua.edu.cn>
+From: ma@stu.ee.tsinghua.edu.cn
+To: shen@ccert.edu.cn
+Date: Wed, 21 Sep 2005 01:55:00 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEgudjT2jIwMDbE6su2yr/J+tXQyfrN+MnPsajD+9SksajD+7mk1/e1xM2o1qo=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+关于2006年硕士生招生网上报名预报名工作的通知
+ 
+根据教育部安排，2006年硕士生招生网上报名预报名工作将于2005年9月18日―23日进行。准备参加2006年硕士研究生入学考试的我校应届本科生均可上网进行预报名，网址为：http://www.chinayz.com.cn/（公众网）；http://www.chinayz.edu.cn/（教育网）。现将有关事宜通知如下：
+1.      考生预报名前应仔细阅读省市招办、招生单位和报名点发布的有关公告，认真填写报考信息。在成功提交报考信息后，牢记自己设置的“密码”和网上报名系统给定的“报名号”。
+2.      预报名期间，清华大学网上招生系统暂不开通，报名点选择清华大学的考生9月23日后登录清华大学网上招生系统打印《2006年清华大学硕士研究生报名信息表》（报考京外招生单位考生为《报考攻读硕士学位研究生登记表》）。
+3.      预报名期间，考生可在教育部网上报名系统填报相关信息，并进行网上支付，预报名期间填报的报考信息有效，且在网上报名正式开通时段（2005年10月10日―31日每天8:00-23:00）内，可随时修改报名信息。但“报考单位”、“报考点”和“考试方式”一经确认提交，则不得更改。
+4.      预报名期间，请考生仔细核对 “报考单位”、“报考点”、或“考试方式”选择是否正确。如有错误，请不要进行网上支付。考生必须重新进行网上报名，提交信息，获取新的报名号和密码后，再进行网上支付。
+                                       清华大学研究生招生办公室
+                                          2005年9月19日

@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8BNCpQ4005027
+	for <bai@ccert.edu.cn>; Mon, 12 Sep 2005 18:27:11 +0800 (CST)
+Received: (eyou send program); Mon, 12 Sep 2005 18:22:21 +0800
+Message-ID: <326480081.20005@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 12 Sep 2005 18:22:20 +0800
+Message-ID: <326480080.19987@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Mon, 12 Sep 2005 18:22:20 +0800
+From: zhou@mail.tsinghua.edu.cn
+To: bai@ccert.edu.cn
+Date: Mon, 12 Sep 2005 18:22:20 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7S1Pi+rdKyyse49sfu0afJ+g==?=
+Content-Type: text/plain
+
+大家都是苦过来的,没必要在这里这么悲情.
+我不觉得这是一件好事.
+当我过那样的生活的时候,我的世界太小了,我的目光太短浅了.
+成功的家族应该一代一代累积,让子女站得更高,看得更远,而不是一味强调吃苦.
+     小学和初中，基本上一个月吃一次肉，煮一次方便面，都已经很奢侈了
+     高中，一个月生活费不到200（确切的是150），吃饭最少的一个月只花了90（因为一天
+     只敢吃一顿，现在想起都决的不可能）

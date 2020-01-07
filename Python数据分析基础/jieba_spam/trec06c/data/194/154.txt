@@ -1,0 +1,26 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <ren@ccert.edu.cn>; Tue, 27 Sep 2005 22:13:28 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Tue, 27 Sep 2005 14:24:35 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Tue, 27 Sep 2005 22:24:35 CST
+Date: Tue, 27 Sep 2005 22:24:35 +0800 (CST)
+From: liang ming <lv@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM312/OjrMTjtb21183L0afBy8O709CwoaO/?=
+To: ren@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+各人都有自己的利益设想呀。王垠第一篇里提到的问题的确存在，
+可是如果他不是在一个相对宽松的环境里，他也不可能放心大胆
+这么直率作为一个没有毕业的在校生的写出来……
+别人支持与否对他这样性格的人没有用，只不过增加sina等炒作的热度而已。
+王可能不是想演戏的说，hehe
+     真搞不懂，你们这些fan王垠的，到底支持不支持他退学阿？
+     如果他不退学了，他这场闹剧到底给谁演的呢？
+     困惑中。。。。

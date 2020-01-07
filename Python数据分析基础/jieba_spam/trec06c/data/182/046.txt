@@ -1,0 +1,61 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <ye@ccert.edu.cn>; Sun, 25 Sep 2005 06:31:41 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Sat, 24 Sep 2005 22:39:09 -0000
+From: "tao" <tao@mails.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Subject: =?gb2312?B?ofEguNC297XE0MTMrA==?=
+Date: Sun, 25 Sep 2005 06:48:50 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+赞最后一句！
+对别人怀有一个感恩的心态，多看别人的正面..
+     标  题: Re: 一个实验室同学的看法
+     
+     
+     什么叫做真正的 researcher ? 
+     
+     不要轻视 engineer 类型的数据收集处理等繁杂的工作，
+     这个都是科学积累的一个过程。
+     
+     洪老师组的情况在国内的学术界绝对是属于很好的了，
+     不要把国外的 research 行当想得有多理想多崇高，
+     
+     这个孩子太理想话，总以为世界应给以他为中心的
+     制定规则，他来美国的话，很大的可能他还是会很
+     失望的，而且这里的压力更大，绝对不是清华老师
+     为学生尽量照顾照想得状态， ... ，大多数情况下，
+     老师和学生就是雇主和员工，不合适，你很可能就会
+     被提掉 .
+     
+     
+     人不要总是挑剔的去看环境，对自己要严格的要求，
+     对别人怀有一个感恩的心态，多看别人的正面..
+     
+     
+     
+     
+     
+     
+     : ft
+     : 你知道啥叫真正的researcher？
+     
+     
+     
+     --
+     
+     潇洒红尘中
+     
+     
+※ 修改:・herd 于 Sep 24 14:43:53 修改本文・[FROM: 61.149.91.*]

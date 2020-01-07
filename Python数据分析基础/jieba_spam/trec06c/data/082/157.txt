@@ -1,0 +1,50 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81DNZ1D022628
+	for <lu@ccert.edu.cn>; Sat, 3 Sep 2005 23:48:38 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j81DLued024767
+	for <lu@ccert.edu.cn>; Sat, 3 Sep 2005 23:47:24 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j81DLpFM024763
+	for <lu@ccert.edu.cn>; Sat, 3 Sep 2005 23:46:56 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Message-Id: <200509011321.j81DLpFM024763@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodof4b2088bd2) (sxx03@202.112.4.222)
+	by localhost with SMTP; Sat, 3 Sep 2005 15:36:07 -0000
+From: =?gb2312?B?ydvz4+q/?= <lu@mails.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Date: Sat, 3 Sep 2005 23:59:27 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWaTfmPRuCxvfElTl6VznZ6NS+/XQUq0wYg
+In-Reply-To: <323308814.29508@mails.tsinghua.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j81DLpFM024763
+Subject: =?gb2312?B?ofEgob7V0Ma4ob+xsb6p18rQxcD709DP3rmry74gKNeq1Ngp?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 ParttimeJob 讨论区 】
+发信人: MCZHANG (瘦瘦的猪), 信区: ParttimeJob
+标  题: 【招聘】北京资信利有限公司
+Getronics(资信利) 是当今世界上在信息和通讯技术(ICT)提供专业的解决方案和服务的业界领导者之一。公司2003年均营业额达26亿欧元。Getronics总部设在荷兰阿姆斯特丹，直属机构布在美洲、亚洲、欧洲等30多个国家，27,000多名专业人员和技术专家为全球多达130个国家/地区的用户提供ICT咨询和服务。 
+1999年原来的荷兰公司成功地收购了Wang Global（美国王安电脑）和之前的Olivetti systems and services division（意大利好利获得公司系统和服务子公司），并将各方服务能力充分整合重组。目前资信利在 "网络和桌面外包服务"全球排名第二，"网络咨询和集成"全球排名第四（资料来源：IDC2002－2003）。  
+ 北京资信利有限公司（www.getronics.com）现招聘临时（三月，有转正可能）文员一名（全职）,应届毕业生优先。工资从优。
+要    求： 女性，五官端正，英文口语好
+主要工作： 前台接待及部分行政助理工作。
+有意者请将简历（请附彩照一张）发往以下地址：peter.zhao@getronics.com或zhaoyc62@263.net  .
+补充电话号码，84584271转239，十一后公司将迁至中关村海淀剧院附近。

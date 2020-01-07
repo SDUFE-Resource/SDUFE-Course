@@ -1,0 +1,23 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M9u4Oh007208
+	for <tu@ccert.edu.cn>; Sat, 24 Sep 2005 20:36:18 +0800 (CST)
+Received: from USER-8A61F7734D (tu203210.ip.tsinghua.edu.cn [166.111.203.210])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8MA7Wo22604;
+	Sat, 24 Sep 2005 20:47:46 +0800 (CST)
+Message-Id: <200509221007.j8MA7Wo22604@netarchlab.tsinghua.edu.cn>
+Date: Sat, 24 Sep 2005 20:45:04 +0800
+From: "cao" <cao@netarchlab.tsinghua.edu.cn>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SvfHM7NKy09C147jQycs=?=
+X-mailer: Foxmail 5.0 beta2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+俺的境遇类似啊
+我读研时候的课题，新来的小师妹接不上，老板打电话让我下班了有空就去学校帮着调程序
+这老板，我在他手底下受了那么久的气，毕业时还把我们那一拨都给延期了
+现在好歹也是找我帮忙，说起话来理直气壮的，
+要不是看着我那小师妹可怜巴巴的什么也倒腾不出来，我真不想再去实验室晃悠。。
+     今天接到前主管的电话,说是原来我做的项目要添加一些新的功能,做点维护工作,问我周末有没有空,让我去帮他,说是付我工资.我拒了....回想在他手下干活的那一年多,真是感慨万千,那么久的时间他对我的工作从没有一句肯定的话,每天都是无休止的斥责和不满....我所需要的认同

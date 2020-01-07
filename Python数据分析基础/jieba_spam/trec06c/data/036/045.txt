@@ -1,0 +1,25 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <zhuang@ccert.edu.cn>; Thu, 25 Aug 2005 01:55:09 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 02:13:32 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 02:13:32 +0800
+Date: Thu, 25 Aug 2005 02:13:32 +0800
+From: hu@cernet.com
+Subject: =?gb2312?B?UmU6ILnY09qwrrXPyfq1xMTHvuTD+9HUo621vbXXysfKssO0KHp6KQ==?=
+To: zhuang@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+  你不知道科学的另一个名言吗？ idea is cheap 
+     http://blog.donews.com/llf/archive/2005/07/19/471832.aspx
+     在sohu教育频道看见这么一个文章《中国教材为什么要篡改爱迪生的名言》，举了两个小小的著名的例子，都是我们打小就学习并牢记的。一个是大发明家爱迪生先生的那句“天才那就是1%的灵感加上99%的汗水”，一句是大物理学家爱因斯坦先生的那句“上帝不掷色子。”文中说我

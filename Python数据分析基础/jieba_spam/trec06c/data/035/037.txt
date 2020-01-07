@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <gong@ccert.edu.cn>; Wed, 24 Aug 2005 20:36:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <gong@ccert.edu.cn>; Wed, 24 Aug 2005 20:49:14 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 12:43:47 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "xin" <xin@mail.tsinghua.edu.cn>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgvLHGuKO6dmMrK7+qt6LIy9Sxo6zX9teovNLPtc2ztcS/qreiLNeovObWsL75v8k=?=
+Date: Wed, 24 Aug 2005 20:45:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+急聘：vc++开发人员，做专家系统的开发
+北京银河之陆科技有限公司是一家高新技术企业，位于中关村科技园区，以无线通信，电子政务，农业科技软件为业务主导方向，现因业务需要，招聘vc开发人员1-2名，做专家系统的开发，要求：
+1。有一年以上MFC开发经验，有相应的产品。
+2。熟悉数据库开发工作，熟悉SQL Server，熟练使用ADO.
+3。有一定的界面设计开发能力。
+4。扎实的c/c++基础。
+5。大学本科或以上学位。
+薪酬面议。有意者请将简历寄到：flagfly1998@yahoo.com

@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <rao@ccert.edu.cn>; Fri, 26 Aug 2005 21:23:40 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 21:42:00 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 21:42:00 +0800
+Date: Fri, 26 Aug 2005 21:42:00 +0800
+From: che@cernet.com
+Subject: =?gb2312?B?UmU6ILzy1rHDu7+0uf2xyMbfvaO4/MDDtcTO5M/A?=
+To: rao@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+确实有种双旗镇刀客的感觉
+btw：没有大家说得那么烂吧
+     我觉得还可以。当然导演为了场景调度不可能把所有客观的因素都一一实现。首先开场能感觉出是徐克的电影，徐克的电影镜头总是摆放很多人，不像张的电影镜头一看就能分出几个大的块面，因此难免给人一种乱哄哄的感觉。再一个从布景到着装给人的视觉都很朴实，甚至有那么一点点土，人物设定也很好，没有把七剑神化，但是烽火连城这个人越看越让我联想到方士玉中的那个大光头（名字叫什么我忘了呵呵）
+     btw：看了5分钟突然想到很早以前看的另一部电影双旗镇刀客，好像那里有点相似。

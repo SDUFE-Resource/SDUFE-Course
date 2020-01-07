@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <peng@ccert.edu.cn>; Sat, 24 Sep 2005 05:02:21 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <peng@ccert.edu.cn>; Sat, 24 Sep 2005 05:13:50 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 20:50:56 -0000
+From: "pu" <pu@mail.tsinghua.edu.cn>
+To: peng@ccert.edu.cn
+Cc: <kong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztK4w9T1w7Sw7A==?=
+Date: Sat, 24 Sep 2005 05:13:30 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+      我很喜欢一个男生，好长时间了。每次想起他或者见到他时，都很兴奋，都很高兴。总是希望能多和他在一起。
+    后来我鼓足勇气，问他有没有女朋友。他回答得含含糊糊的，总是避开话题。
+    在后来，我就向他表白了，可他却说他有 女朋友了，而且他还说自己太忙，没空了解我。伤心。
+    我真的很喜欢他，想多了解他 。我觉得如果他了解了我 ，也一定会喜欢我的  。可是他好像对我一点感觉都没有，而且他好像根本就没有女朋友，只是敷衍我。
+    现在我该怎么办呢?放弃，还是继续追他？想舍弃，但还是不舍 ，希望那天他会接纳我 ；可是希望又 很渺茫。
+    我到底应该怎么办呢！！！！！

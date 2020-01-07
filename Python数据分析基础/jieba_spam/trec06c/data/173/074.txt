@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <zeng@ccert.edu.cn>; Fri, 23 Sep 2005 14:52:49 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <zeng@ccert.edu.cn>; Fri, 23 Sep 2005 15:04:18 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 06:41:24 -0000
+From: "xue" <xue@mail.tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Cc: <cai@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Fri, 23 Sep 2005 15:03:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+有的是后搞科研也看心情，
+有些破事，虽然不浪费你什么时间，但是会搞的你心情很不爽，很难受，进而影响正常科研工作。
+       科研最重要的是全身心投入，导师总让他做那么无聊的课题已经占据了他绝大部分时间，要知道总是浪费时间在自己认为没有意义的事情上，轻则会对任何事情都失去兴趣,重则可能会崩溃掉！这种情况下选择离开，对他来说应该是最好的选择。所以基本上与协调能力无关。出现不

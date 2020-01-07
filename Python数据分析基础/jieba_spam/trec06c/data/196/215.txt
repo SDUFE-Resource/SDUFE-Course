@@ -1,0 +1,27 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <wang@ccert.edu.cn>; Wed, 28 Sep 2005 07:27:52 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Wed, 28 Sep 2005 07:31:07 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 23:31:05 UT
+To: wang@ccert.edu.cn
+From: mo@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INTatdrB+dXC1dK1vdXiw7TSu8z1?=
+
+我突然想起来啊
+貌似严格按照法律来说，房主如果出租房屋，签订正式法律文件，是要
+交税的
+当然实际生活中很少有人这么大费周章。。
+也就是说，大多数所谓的租房合约其实都不是受法律保护的，就算楼主
+真的转租了，房东最后是不是也讨不了什么好？我是说真的对簿公堂的
+话。。
+     =================================================
+     承租人在租赁期限内，征得出租人同意，可以将承租房屋的部分或全部转租给
+                        ~~~~~~~~~~~~~~

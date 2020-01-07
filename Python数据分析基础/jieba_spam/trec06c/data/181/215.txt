@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <che@ccert.edu.cn>; Sun, 25 Sep 2005 04:07:04 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <che@ccert.edu.cn>; Sun, 25 Sep 2005 04:18:33 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 19:55:39 -0000
+From: "jian" <jian@mail.tsinghua.edu.cn>
+To: che@ccert.edu.cn
+Cc: <wu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0bC85tawzfjC57ncwO3UsQ==?=
+Date: Sun, 25 Sep 2005 04:18:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+本单位位于清华科技园内，现征兼职网络管理员一名。
+要求清华附近院校的研究生或高年级学生，熟悉网页设计和网络设置。
+兼职工作的主要任务如下，每周工作时间为一个半天，酬劳从优。
+1.安装网络服务器并设置局域网，服务器当机及时进行恢复。
+2.设计网站主页并每在学期放假期间进行一次升级改版。
+3.每周一次对服务器进行维护，对网站信息进行更新。
+4.每周一次升级病毒库，清理FTP数据。
+联系人：李先生
+电  话：62797159

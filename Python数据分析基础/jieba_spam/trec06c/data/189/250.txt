@@ -1,0 +1,21 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <cao@ccert.edu.cn>; Tue, 27 Sep 2005 00:57:46 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <cao@ccert.edu.cn>; Tue, 27 Sep 2005 00:18:05 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "mo" <mo@cert.org.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILbU09rN9dvzysK8/rK7zcKyu7/stcTP67eo?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Tue, 27 Sep 2005 01:03:44 +0800
+
+sp
+     在水木对任何问题总会有两面或者还有中立，王垠现象也一样。我很佩服这个同学的那种执着精神，但是我个人认为他的心态还是需要自我调整的。象他说的老师告诉他成果属于清华，这个我觉得真实，我也能理解，但是其对于清华学生大面积的论述我觉得有所偏颇。
+     教育制度，或者社会制度，确实不尽人意，这个我不想说。
+     对于清华，不管怎么说，我觉得她所提供的环境是想当不错了，不管是科研气氛，设备还是图书杂志之类。只要是你想安心去做科研，很多想法都能去做的，当然不排除有些确实受条件限制。但是四年了或者接近四年了，如果算是开始两年选题之类有问题，第三年开始有所思路，到现

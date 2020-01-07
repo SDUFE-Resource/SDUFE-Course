@@ -1,0 +1,42 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <tian@ccert.edu.cn>; Wed, 28 Sep 2005 20:16:17 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Wed, 28 Sep 2005 20:19:32 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 12:19:30 UT
+To: tian@ccert.edu.cn
+From: ou@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMjLu7fCpdTaxMTA77Ch?=
+
+那地方的确不好找，画个图给大家和后来的人看
+                                                                        
+                                              平时这个门是开着的        
+                         ←┐                 周或晚上要从后面绕        
+           ┌── ★     │││                                         
+           │    ││    │││                                         
+         │││ 人环楼 ≯│││                                         
+         │││        ≯│││                    │   │              
+         ││└────≯││└──────────┘   │              
+         │└─────≯ ←─────────────┐│              
+         └──────≯ ─────────────┐││              
+             篮球场    ≯                           │││              
+                                                    │││              
+    ┌────────┐      ┌────────┐  │││              
+    │                ├───┤                │  │││              
+    │     化学馆     ├───┤ 何添楼 ┌───┘  │││              
+    │                │      │        │          │││              
+    └────────┘      └────┘          │││              
+    ────────────────────────┘│└───        
+                                                      └────        
+                                                                        
+   ──────────────────────────────         
+                                                                        
+画得比较简单，但应该能找到了:P
+     rt

@@ -1,0 +1,33 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <zhong@ccert.edu.cn>; Sat, 17 Sep 2005 19:31:41 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <zhong@ccert.edu.cn>; Sat, 17 Sep 2005 19:48:16 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <zhong@ccert.edu.cn>
+	; Sat, 17 Sep 2005 19:48:16 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <zhong@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 19:13:17 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "zeng" <zeng@njnu.edu.cn>
+To: zhong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILrDxfPT0brNYma31srWwcsgx+u9zLTzvNI=?=
+Date: Sat, 17 Sep 2005 19:43:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+瞎扯
+那种嚷着30岁前不考虑家庭只考虑事业的男人就是没长大，不知道天高地厚，总觉得自己能成就一番伟业，其实狗屁不是。
+古语云“成家立业”，先成家后立业，你见过几个事业成功的男人没有家庭的？毛主席干革命的时候还不忘娶老婆生孩子呢，hoho
+当然，如果女方是那种好吃懒动只知道索取不知道付出的大小姐，想干事业的男人倒是可以kick掉这种。不过看描述女方不是这样的人
+     会有冲突  有时候男生很实际 

@@ -1,0 +1,28 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <tu@ccert.edu.cn>; Thu, 18 Aug 2005 23:56:22 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <tu@ccert.edu.cn>; Fri, 19 Aug 2005 00:09:26 +0800 (CST)
+Date: Fri, 19 Aug 2005 00:03:43 +0800
+From: "huang" <huang@sohu.com>
+To: tu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMqv082089Gno6ixsb6po6m1xENTtcTH6b/2?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+如此说来，它还不如东营的石油大学和大庆的石油学院了，呵呵
+     标  题: Re: 石油大学（北京）的CS的情况
+     
+     北京石油化工学院，这个也是石油方面的
+     它的计算机系，项目也很少，这是系主任亲自告诉我的
+     
+     : 哦，是这样啊。我只是类比了一下，因为我了解石油系统的其它某些高校，项目还是挺多的，与各石油管理局和油田公司的项目合作，而且几乎是项目垄断。
+     : 本以为石油大学(北京)应该在信息口(石油方面)可以竖立一面旗帜，如你说，看来还是很糟糕的。btw, 难道石油大学没有与 石油天然气总公司、勘探开发研究院那些单位合作吗？
+     
+     
+     --
+     

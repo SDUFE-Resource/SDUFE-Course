@@ -1,0 +1,30 @@
+Received: from hotmail.com (bay9-f13.bay9.hotmail.com [64.4.46.117])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E3dVC4024093
+	for <liu@ccert.edu.cn>; Thu, 15 Sep 2005 03:55:46 +0800 (CST)
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	Wed, 14 Sep 2005 13:07:35 -0700
+Message-ID: <BAY9-F13DCF915AAD1C8AC2ACE8AB09F0@phx.gbl>
+Received: from 63.215.198.21 by by9fd.bay9.hotmail.msn.com with HTTP;
+	Wed, 14 Sep 2005 20:07:35 GMT
+X-Originating-IP: [219.238.94.8]
+X-Originating-Email: [longchuanok@hotmail.com]
+X-Sender: longchuanok@hotmail.com
+From: =?gb2312?B?wfogtKg=?= <zeng@hotmail.com>
+To: liu@ccert.edu.cn
+Bcc: 
+Subject: =?gb2312?B?UmU6IMfz1vrSu7XAuN/K/czixL8=?=
+Date: Thu, 15 Sep 2005 04:07:35 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312; format=flowed
+
+用多项式除法，除到商的最阶等于v(x）的最高阶为止
+假设v(x)的最告阶为2
+eg：               1 -d^2
+                  ------------
+           1+d^2 | 1
+                   1+d^2
+                   -------
+                    -d^2
+                    －d^2－d^4
+                    -----------
+     大家都知道求解二阶线性微分方式用微分算子法求特解非常方便，但是文灯指南中对等式右边为多项式时的特解计算方法说的不清楚，比如方程是F(D)y=v(x),y=1/F(D)v(x)说怎么除的实在是搞不清楚，用教材上讲的方法吧，又太麻烦了，望大虾指点迷津。

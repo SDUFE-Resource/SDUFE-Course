@@ -1,0 +1,24 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <wu@ccert.edu.cn>; Sat, 24 Sep 2005 17:01:19 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Sat, 24 Sep 2005 09:09:02 -0000
+From: "yang" <yang@mails.tsinghua.edu.cn>
+To: wu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S1eLDtNf2uf231sLwo78=?=
+Date: Sat, 24 Sep 2005 17:12:58 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+你的题目不应该叫“我这么做过分吗？”，而应该改成“我是不是有XX病”，或者“我是不是很X”
+谢谢。
+     虽然结婚了，但是婚姻不幸福，想离婚。想起来前男友对自己百般的好，可是自己却太任性，现在就想约前男友出来坐坐，毕竟曾经那么相爱过。现在对事业、家庭都淡漠了，只有前男友是我活下去的支柱之一。前男友的女友却经常看他的信件，因此和他吵架。真是不可理喻，我只是把他看作我的好朋友之一。而且也是因为她的存在，我们才没有复合。现在前男友也快毕业了，只是他们还没有结婚。我和他正常交往，这个他女友却很介意，这个我做的过分吗？我偶尔给他发发短信，E-mail，不高兴时候和他打打电话。

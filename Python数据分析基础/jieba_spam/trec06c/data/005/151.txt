@@ -1,0 +1,74 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EEiS1q009384
+	for <qian@ccert.edu.cn>; Wed, 17 Aug 2005 07:31:18 +0800 (CST)
+Message-ID: <200508142244.j7EEiS1q009384@spam-gw.ccert.edu.cn>
+Received: from pisclubjhb (unknown [219.238.168.2])
+	by smtp4 (Coremail) with SMTP id RkBfofVb_0IPEu83.1
+	for <qian@ccert.edu.cn>; Wed, 17 Aug 2005 07:44:47 +0800 (CST)
+X-Originating-IP: [219.238.168.2]
+From: "tan" <tan@126.com>
+To: qian@ccert.edu.cn
+Cc: <tan@ccert.edu.cn>,
+	<ding@ccert.edu.cn>,
+	<peng@ccert.edu.cn>,
+	<hua@ccert.edu.cn>,
+	<weng@ccert.edu.cn>,
+	<chen@ccert.edu.cn>,
+	<zhou@ccert.edu.cn>,
+	<xie@ccert.edu.cn>,
+	<qing@ccert.edu.cn>,
+	<ye@ccert.edu.cn>,
+	<rao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvIq9awL7zm1rDV0Ma4XWphdmG5pLPMyqY=?=
+Date: Wed, 17 Aug 2005 07:45:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5A123.AB2C1F50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWg2iclErE9vEwpQUuF46XqYTUSdgABkatA
+In-Reply-To: <42FF5137.0076B3.03512>
+
+     期望工作地点：北京
+     期望薪金: &gt;3500
+     联系方式：13811183623
+     个 人 简 历
+     姓名 梁爽 性别 男 民族 汉 
+     出生年月 1982.3 健康状况 健康 政治面貌 共青团员 
+     专业 海洋技术 物理系 信息学院 中国海洋大学（211工程重点院校） 
+     学历 本科 籍贯 北京 
+     ●工作经验：1年
+     ●英语水平 CET-4   熟练阅读E文资料,翻译E文,口语良好
+     ● 计算机水平 
+     * 通过MCSE MCDBA 认证，熟悉Access,SQL2000使用                  
+     * 参与两个复杂一点的web(.net aspx技术)开发.
+      (http://211.64.130.228  http://www.biotechworld.cn)
+       一个很简单的asp web(http://www.acoustic-ts.com)
+       目前自己在捣鼓水木清华的bbs系统(C的内核,php的界面)
+     *熟悉XML、HTML脚本,熟练使用Dreamweaver MX,Flash MX 
+     *熟悉linux环境(主要是linux fc2),熟悉php+mysql+perl+apache配置和使用
+      (&gt;php-5.0.4,&gt;mysql-4.1.X,apache-1.3.33)
+     *可以使用java(&gt;1.5.0),正在学习jsp开发技术
+  这条很恐怖。
+      熟悉eclipse3.0以上版本 Borland Jbuilderx 开发环境
+     *可以使用C/C++，熟悉Turbo C/C++ 开发环境,linux下C/C++开发环境
+     *熟练使用AUTO CAD平面制图 熟练使用Photoshop(在清华城市规划院的时候做了不到1年的设计制图工作).
+     *接受新事物的能力很快
+     ●在校期间知识结构 声学、海洋学、高等数学、大学物理、电子技术、计算机技术等。
+     ● 主修课程 
+     物理类：高等数学、概率统计、大学物理、理论力学、量子力学、电动力学。 
+     声学类：声学基础、水声原理、水声换能器原理、场与波动学、声学测量，相关英文原著及文献的阅读、翻译。
+     计算机类：微机原理、C语言、汇编语言、单片机技术、计算机文化基础。
+     电子类：模拟电子技术、数字电子技术、传感器技术、光电技术、接口技术、信号与线性系统，以及相应试验。
+     海洋类：海洋科学导论、生物海洋学、海洋地质学、海洋文化概论
+     ●在校期间社会工作与实践
+     青岛外海实习水文、海洋生物、地质和海水性质及气象实验.
+     2002年10月在东方红2号考察船实习。
+     2002年2月参与编写《老年朋友学电脑》（人民邮电出版社ISBN 7-115-10573-1/TD.3047）。
+     2002年9月，参与创建学生网站――海之子（http//:211.64.130.228），任该网站主编、记者团团长。
+     2002年始，任校大学生艺术团民乐队队长，多次在学校大型文艺演出中担任重要角色，具有丰富的舞台经验。
+     2004年1月始，在青岛市市政府协助青岛红十字会工作，并参与红十字会网站建设，代表红十字会与网络提供商协商网站事宜等。
+     喜好民族器乐，曾在老师指导下，以推导方程的方式研究民族器乐与西洋器乐的不同原理，并获得初步成果。
+     参与清华大学体育馆、游泳馆，北京体育大学、教育部礼堂，首都师范大学音乐学院的电声、建声测试。
+     实习期间，论文《清华大学综合体育馆及游泳馆建筑声学和电声设计特性分析总结》被中国建筑学会建筑物理分会2004年学术会议录用。
+     ● 人生信条 多思不多虑

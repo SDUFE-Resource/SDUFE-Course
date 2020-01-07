@@ -1,0 +1,21 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <kang@ccert.edu.cn>; Tue, 30 Aug 2005 10:28:19 +0800 (CST)
+Received: (eyou send program); Tue, 30 Aug 2005 10:32:42 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 30 Aug 2005 10:32:42 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Tue, 30 Aug 2005 10:32:42 +0800
+From: "mo" <mo@mail.tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+Date: Tue, 30 Aug 2005 10:32:42 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM7StcTK1rv61PXDtLPksrvJz7XnLi4=?=
+Content-Type: text/plain
+
+这个似乎没太好的办法，可能你今天摇一下转一下就接触上了，但下一次又不行了，而且总
+是摇啊转的越来越松了...大概只能换个充电器了
+其实以前在说明书上看到这种ms幼稚的“故障自查”我都觉得很搞笑
+后来才发现原来80%的情况就是那些看上去极其幼稚的情况....
+                         ~~~~~~~~~~~~~~~~~就是这个，用太久了接口好像接触不好
+      手机几乎没电了，没法开   只有那个指示没电的红灯还亮着，没有充电提示  

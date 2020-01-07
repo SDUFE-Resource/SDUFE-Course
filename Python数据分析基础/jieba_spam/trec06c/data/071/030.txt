@@ -1,0 +1,20 @@
+Received: from 126.com (m31-131.126.com [220.181.31.131])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VFZxNf015728
+	for <pu@ccert.edu.cn>; Fri, 2 Sep 2005 10:23:46 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4315D151.000127.15265@m51.126.com>
+Date: Fri, 2 Sep 2005 10:36:09 +0800 (CST)
+From: "long" <long@126.com>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsbG+qcTEuPa089GntcTX1Lavu6/XqNK1sci9z7rDv7yjvw==?=
+X-Priority: 3
+X-Originating-IP: [222.82.100.165]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_XBKQERjJmkyoayKhuDpraIjGqtQo"
+
+朋友本科毕业于河北理工大学自动化专业，基础不是很好，现在想来北京读研。
+她们系的介绍：
+    本专业旨在培养电气传动系统、生产过程自动控制系统、智能控制系统以及综合自动化技术应用方面的高级工程技术人才。
+    本专业学制四年，学生在校期间将掌握扎实的理论基础、专业知识和专业技能，完成本专业工程师的基本训练。设置的主要课程除高等数学、政治理论、大学物理、英语等公共基础课外，还有电路理论、电子技术、计算机原理、自动控制系统、工厂供电、检测技术及仪表等专业基础课和专业课。本专业具有硕士学位授予权。
+    学生毕业后可到企业、科研院所、大中专院校等单位，以电子技术、电气技术和计算机技术为主要手段，从事工业企业生产过程的检测、控制自动化及供电系统等方面的专业技术工作。
+她现在想来北京读研，我对自动化专业不熟悉，希望了解该方向的人帮忙推荐推荐，万分感谢！

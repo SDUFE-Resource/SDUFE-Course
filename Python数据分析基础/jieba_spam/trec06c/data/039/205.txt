@@ -1,0 +1,23 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <ni@ccert.edu.cn>; Thu, 25 Aug 2005 19:31:01 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 19:44:08 +0800 (CST)
+Date: Thu, 25 Aug 2005 19:37:54 +0800
+From: "guan" <guan@sohu.com>
+To: ni@ccert.edu.cn
+Cc: "yxl" <ni@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IDU0X2NsdWK007Ty1NO/qsq8oaqhqsflu6rRp8n61NrO98PF19O1xMq1z7DJ+rvu?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+这个应该给个标记啊
+btw：作者比较牛X
+     此帖由54club转载
+     我的专业是企业管理，FD毕业后直接来RD继续念这个什么都学，又什么都学得不精的专业。今年暑假，我没有去导师公司做项目，决定自己找实习。很可惜，一开始没有好好把握 去shell的机会，后来西门子给了机会就决定留在北京实习了。 
+     在西门子之前，我去过5家公司实习，其中包括了上海麦肯锡和上海奥美公关。实习的经历从做的事情来说很多时候都只能归入“打杂”一列。在麦肯锡，我的主要工作是实地收 集顶级男装品牌的价格信息，这份工作当然谁都能做，只要机灵一点。那时候做得很累的时候也质疑过自己

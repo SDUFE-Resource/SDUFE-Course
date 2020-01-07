@@ -1,0 +1,34 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <xia@ccert.edu.cn>; Sun, 21 Aug 2005 11:41:29 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sun, 21 Aug 2005 03:51:43 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sun, 21 Aug 2005 03:51:43 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "mei" <mei@jdl.ac.cn>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxNzV4tH50LTK/dGnuavKvcLwo78gKNeq1Ngp?=
+Date: Sun, 21 Aug 2005 11:55:51 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 DMS.THU 讨论区 】
+发信人: peri (精灵), 信区: DMS.THU
+标  题: 能这样写数学公式吗？
+发信人: peri (精灵), 信区: Mathematics
+标  题: 能这样写数学公式吗？
+1。如果A是一个矩阵，
+        C＝A＋3
+就是在A的每个元素上加数字3。
+在正式的paper中能这样写公式吗？还是需要写成
+C=A+3I
+I是一个与A同维数的单位阵。
+2。A是矩阵，B是矩阵A的元素与0取大后得到的矩阵，能这样写吗：
+B＝max（A，0）
+还是要写成元素表达式：bij＝max（aij，0）

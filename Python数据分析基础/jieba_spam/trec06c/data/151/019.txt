@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8HB0nBi001471
+	for <hua@ccert.edu.cn>; Sun, 18 Sep 2005 11:00:47 +0800 (CST)
+Received: (eyou send program); Sun, 18 Sep 2005 10:52:46 +0800
+Message-ID: <326954368.12982@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 18 Sep 2005 10:52:45 +0800
+Message-ID: <326954367.12965@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Sun, 18 Sep 2005 10:52:45 +0800
+From: luo@mail.tsinghua.edu.cn
+To: hua@ccert.edu.cn
+Date: Sun, 18 Sep 2005 10:52:45 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgoe+h76Hvs/bK29fuyKjN/rXEdHNpbmdodWEgY3O/vNHQ16jStb/O18rBz6Oh?=
+Content-Type: text/plain
+
+   [资料清单]:
+         1.清华招生情况概述,包括历年的招生名额,报考名额的官方统计数据....以及大家所关心的一些其他问题
+         2 清华CS94----05年的全真试题,其中04,05年的是考场回忆版
+         3 清华CS最新数据结构,操作系统,网络原理,系统结构的全部课件,以及重点提示,
+       4 独家：清华CS考研数据结构出题人殷人昆的手写讲义!!!   内容提炼的非常清晰！ 
+    5 清华编译原理电子课件,免费赠送
+   价格面议，qq 33068274或者站内联系。
+btw：我06考清华CS，这份资料自己也在用，感觉非常好！
+附：03CS专业可第一页扫描

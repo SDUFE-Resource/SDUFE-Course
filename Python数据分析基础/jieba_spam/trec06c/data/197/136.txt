@@ -1,0 +1,32 @@
+Received: from vip.sina.com.cn ([202.108.35.188])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q8Hhuv007325
+	for <lei@ccert.edu.cn>; Wed, 28 Sep 2005 10:33:10 +0800 (CST)
+Received: (qmail 11487 invoked by uid 99); Wed, 28 Sep 2005 02:44:15 -0000
+Message-ID: <20050926082851.11486.qmail@vip.sina.com.cn>
+From: <wen@vip.sina.com>
+To: lei@ccert.edu.cn
+Cc: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SvvW1w8312/Oyu7auv8bRpw==?=
+MIME-Version: 1.0
+Date: Wed, 28 Sep 2005 10:44:15 +0800
+X-Mailer: SinaMail 3.0Beta (FireToad)
+X-Priority: 3
+Content-Type: multipart/mixed;
+  boundary="----------112772333111457SINAEMAIL---"
+
+     标  题: 我觉得王垠不懂科学
+     
+     我的话题跟他退学无关，是从他的主页上对linux和windows的看法想起来的。顺便我也为windows说几句话。
+     
+     王垠看重的是技术，一般对技术有疯狂爱好的人会有这个看法。不可否认，很多饱受windows痛苦的人也有这个看法。但是windows能够如此成功是有他的道理的。
+     
+     其实任何方向都可以做科学研究。windows之所以能够成功，是它在人的认知领域方面的成功。windows的开发使得大多数人能够在短时间内掌握实用，能够简单的用鼠标就能完成绝大多数操作。这种易于理解易于操作的特性难道不是成功的科学吗？Unix出现很多年了，他在技术上趋于完美，但是为什么没有能够普及开来。为什么windows出来之后就普及了？都是有原因的。
+     
+     我想，如果接触过一点认知科学的人都会知道这一点。图形传达的信息和符号语言传达的信息是不可同日而语的。可能计算机专业出身的人对符号有偏执的爱好，喜欢用tex来写文章，但是一般来说，还是用word比较爽一点。换句话说，把word和tex都拿出到市场上卖，无疑是word市场份额大。
+     
+     操作性，可用性也是科学，呵呵
+     --
+     打倒万恶的户籍制度！！！
+比windows更成功的是共和国的户籍制度;)
+     
+     

@@ -1,0 +1,22 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <kong@ccert.edu.cn>; Fri, 26 Aug 2005 10:29:36 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 10:47:56 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 10:47:56 +0800
+Date: Fri, 26 Aug 2005 10:47:56 +0800
+From: tang@cernet.com
+Subject: =?gb2312?B?UmU6IEpNU7DvztKz9rj21vfS5aOsztK4w9T1w7TRodTxtcDCt7XEsKE=?=
+To: kong@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+其实我现在没有什么做科研的心了，想做教授，是因为觉得工作会比较稳定，因为估计到以后BF会比较有本事，估计不应该要那么辛苦，但是从目前的情况来讲，又没有办法解决很多事情，日子毕竟是要从前往后过的，就好象现金流要段流一样，还有就是也不知道，可能是一种隐隐的事业心吧，哎。。其实一直想做个小女人的，但是却做成了女强人，BF也常说别那么辛苦行不行，就是觉得怎么好的机会啊
+     出国是为了事业，就看你要做什么样的人了，如果有你现在这么好的基础，不一心扑在科研上可能比较可惜。

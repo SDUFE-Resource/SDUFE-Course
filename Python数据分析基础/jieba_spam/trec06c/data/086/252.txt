@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8431hfN008529
+	for <ma@ccert.edu.cn>; Sun, 4 Sep 2005 22:42:27 +0800 (CST)
+Received: from nocyunxing ([202.112.0.111])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM900833VWCO2@mail.cernet.com> for
+ sunbin@ccert.edu.cn; Sun, 4 Sep 2005 23:00:09 +0800 (CST)
+Date: Sun, 4 Sep 2005 22:56:13 +0800
+From: =?gb2312?B?wre0utPq?= <xing@cernet.com>
+Subject: =?gb2312?B?UmU6ILXn19O/xry8tPPRp7vxufq8yrTz16ix58Lbu+G52r78?=
+To: ma@ccert.edu.cn
+Cc: "grey.wang" <lei@ccert.edu.cn>, swgui <lai@ccert.edu.cn>,
+ zhaohonglin82 <guan@ccert.edu.cn>
+Message-id: <0IM900834VWCO2@mail.cernet.com>
+MIME-version: 1.0
+X-Mailer: Foxmail 5.0 [cn]
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_4iCo3BsWakluEN5O95QvqA)"
+
+       赞一声！
+       
+     人民网9月4日讯：在今天上午于新加坡举行的第7届国际大专辩论会大决赛上，中国大陆地区代表队、来自四川成都的电子科技大学队以5:0战胜香港科技大学队，夺得冠军。
+         决赛中双方的辩题分别是：（正方）香港科技大学 : 公众人物的隐私需要受到保护；（反方）电子科技大学 : 公众人物的隐私不需要受到保护。台湾世新大学的黄执中获全系列“最佳辩手”。
+         这项赛事由新加坡新传媒集团和中国中央电视台合办，每两年一届，在新加坡和北京轮流举行。据悉，自1993年复旦大学在国际大专辩论会夺冠后，12年来，中国大陆代表队第一次在新加坡夺得本项赛事的冠军。

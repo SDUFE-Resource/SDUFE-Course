@@ -1,0 +1,23 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <ling@ccert.edu.cn>; Thu, 29 Sep 2005 02:06:00 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 18:17:10 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 02:17:10 CST
+Date: Thu, 29 Sep 2005 02:17:10 +0800 (CST)
+From: liang ming <wen@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMWusqnKv9XmtcS+zcTHw7TE0bSmxa7F89PRwvCjvw==?=
+To: ling@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+分析得不错，其实和博士无关！
+     其实为了小事吵架这种事情在男女朋友之间是很普通的，如果你的mm不是女博士，估计你只会愤愤然的说：“这小女生，总是这么……”，但是因为你的女朋友是博士，好了～兄弟你就把问题上升到“女博士”的高度，有了文章可做啦～
+     其实能读到博士不容易，没有点好强的精神，男生也一样读不到，我觉得性格比较强比例在博士群体偏高很正常，并不是“女”博士独有的特点。
+     好强有错么？你不喜欢好强的mm大可以不必去找，这个世界没有人会强迫你去喜欢你不喜欢的人。

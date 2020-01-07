@@ -1,0 +1,28 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KNVQWO026957
+	for <qian@ccert.edu.cn>; Fri, 23 Sep 2005 04:18:44 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8KNgrSA012901
+	for <qian@ccert.edu.cn>; Fri, 23 Sep 2005 04:30:15 +0800 (CST)
+Message-Id: <200509202342.j8KNgrSA012901@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 20:08:31 -0000
+From: "hong" <hong@mail.tsinghua.edu.cn>
+To: qian@ccert.edu.cn
+Cc: <long@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzuOe0873jx+u9zLy4tcDQxbrFzOIssqKzq9Lps8nBotDFusXT68+1zbPOyszizNbC28f4?=
+Date: Fri, 23 Sep 2005 04:30:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0056_01C5BE80.0E54D8A0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW+PP+dE9Zps0Q1RamkdUKgZkzF9Q==
+
+第一个题目很好理解
+因为带通信号一般都要求载频处频率信号的相变为零，
+低通信号自然是要求直流频率零处相变为零，所以出现
+你说的这种情况，都对
+     问题一:
+       为使带通信号以尽量小的群延迟无失真的通过理想带通系统,则要求其带内幅频特性为常数,相频为过在频的点的负斜率直线,.该结论与信号的无失真传输(幅频常数,相频过零点直线)不一致.二者是否矛盾?怎样推倒给出详细解释?
+     郑的书上没有呀? 我也看不出来,恳请各位解答

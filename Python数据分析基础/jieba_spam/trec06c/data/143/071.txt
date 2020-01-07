@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8FBhgV9003152
+	for <hu@ccert.edu.cn>; Fri, 16 Sep 2005 23:08:51 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8FBtVIH029758
+	for <hu@ccert.edu.cn>; Fri, 16 Sep 2005 23:20:40 +0800 (CST)
+Message-Id: <200509151155.j8FBtVIH029758@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 15:01:53 -0000
+From: "su" <su@mail.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Cc: <qiu@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgxMS80tOw1Lq3xdOzo7+jv6O/UmU6ILjVv7TN6qG2zNOz9r/LwqG1uqG3?=
+Date: Fri, 16 Sep 2005 23:20:33 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BA2F.69B84380"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW57Ftgyg2sMjsQQOq8TagbU/Od5Q==
+
+现在正在上映吗？
+看大家讨论得还不错
+     场面可看，不是滥片，呵呵
+     养殖克隆人获取健康器官，这个创意不落俗套，好事者还可以诠释一下伦理，者学内涵；关于未来的场面非常立体，可以说是全景式的，很有动感，真实感。
+     不足之处也很明显，剧情编排弱，传统的英雄美女格式已经落了窠臼，偏偏主角似乎是天才加福星，无师自通得身手敏捷，莫名其妙的死里逃生；反方尽管是战斗老贼，却打一个挂一个

@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <lu@ccert.edu.cn>; Fri, 2 Sep 2005 11:27:54 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 11:30:46 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 11:30:46 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Fri, 2 Sep 2005 11:30:46 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Fri, 2 Sep 2005 03:24:09 -0000
+Received: (eyou send program); Fri, 2 Sep 2005 11:16:19 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 11:16:19 +0800
+From: ning@mails.tsinghua.edu.cn
+To: lu@ccert.edu.cn
+Cc: lu@ccert.edu.cn
+Date: Fri, 2 Sep 2005 11:16:19 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgtPO80rDvw6az9rP216LS4iE=?=
+Content-Type: text/plain
+
+我想考某校一国家重点实验室的博士，对导师的选择做了1、2、3。。。。。排序。
+最近联系了一NO1的牛导，但是由于他现在在中国科协从政（几乎不在学校任教），他把我的资料转到他们课题组的另外一位老师那里去了，今天那位老师给我来信让我和他联系，但是我感觉他的方向太窄，而且他太年轻，不在我选择的导师范围之内（呵呵）。
+各位看看，我是继续联系我的NO2导师呢，还是就选择这位年轻导师呢？个人感觉如果不选择这位年轻导师，以后会不会见面很尴尬？！
+选博导应该怎么选那？
+sigh

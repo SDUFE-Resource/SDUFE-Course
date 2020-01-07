@@ -1,0 +1,24 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KB1TcO022822
+	for <xin@ccert.edu.cn>; Wed, 21 Sep 2005 04:17:05 +0800 (CST)
+Received: (eyou send program); Wed, 21 Sep 2005 04:07:19 +0800
+Message-ID: <327213503.11311@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 21 Sep 2005 04:07:18 +0800
+Message-ID: <327213502.11296@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 21 Sep 2005 04:07:18 +0800
+From: jian@mail.tsinghua.edu.cn
+To: xin@ccert.edu.cn
+Date: Wed, 21 Sep 2005 04:07:18 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILTzvNK4+M3GvPbSu7j2uNDIy7XExqzX0yEhIQ==?=
+Content-Type: text/plain
+
+科幻一个最基本的功能就是满足人类的幻想啊
+可以登陆月球、征服火星、神游太虚
+科幻也可以借未来讽刺现实，批判政治、社会，嘻笑怒骂
+科幻还可以虚拟现实、穿梭时空、反思文明、接触异型、浪漫奇趣...
+aventgarden不过是其中一支而已
+至于探讨人性...这个我实在无话可说。这年头，什么电影都能扯到人性上啊。
+     要么具有十足的先锋性实验性，比如蔡明亮的《洞》、库布里克的《发条橙》
+     要么具有十足的诚意去探讨人性最本质最细枝末节的部分，比如斯皮尔伯格的《AI》
+     其余的科幻还真不觉得怎么样，包括星战系列

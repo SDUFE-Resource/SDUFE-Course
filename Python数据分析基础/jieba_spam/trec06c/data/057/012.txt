@@ -1,0 +1,18 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q8frpZ012129
+	for <cen@ccert.edu.cn>; Tue, 30 Aug 2005 00:59:04 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <430ED8CA.0000D0.32715@m115.126.com>
+Date: Tue, 30 Aug 2005 01:11:17 +0800 (CST)
+From: "kong" <kong@126.com>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6iyO3A79PQw7vT0LjjSmF2YbXEo78=?=
+X-Priority: 3
+X-Originating-IP: [222.82.97.251]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_nydxdIXIQAMDkzacqLhDtoxLoZym"
+
+不找工作怎么行
+     高手不用找工作
+         这个意思就是，其实不存在什么java高手，c++高手，高手就是高手，因为他首先是个高手，后来又接触了java这个玩意儿，所以变成了java高手。现在的用人单位招人其实都写错了，应该写上“招聘高手，熟悉Java”这样才对。
+         其实我也这么认为，所谓的高手是一种心态一种能力，一种可以解决任何问题的心态，一种可以快速掌握任何一种工具或者创造一种思想来解决任何问题的能力。这就是高手，而版上看到的“招聘java高手，精通xxl,oraxx,ejx,weblxx”这些都是废话,而且能找到的也不一定就是

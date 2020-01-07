@@ -1,0 +1,59 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <mo@ccert.edu.cn>; Sat, 10 Sep 2005 07:11:34 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Sat, 10 Sep 2005 07:29:34 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Sat, 10 Sep 2005 07:29:33 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "yu" <yu@mail.csu.edu.cn>
+To: mo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQyMvWqrXAwdbUqsHSwM/Kprvyt7bGvdLjwM/Kpsvmu/q5/bPMv861xMnPv8612LXjwvCj
+vw==?=
+Date: Sat, 10 Sep 2005 07:11:00 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+非学位课
+ 无
+ 60420094
+ 0
+ 应用随机过程
+ 4
+ 考试
+ 明理楼112
+ 2-1
+ 111111111111111100000000
+ 
+非学位课
+ 无
+ 60420094
+ 0
+ 应用随机过程
+ 4
+ 考试
+ 明理楼112
+ 4-2
+ 111111111111111100000000
+ 
+非学位课
+ 无
+ 60230014
+ 0
+ 随机过程
+ 4
+ 考试
+ 三教2102
+ 2-1
+ 111111111111111100000000
+ 
+     rt
+     多谢！
+※ 修改:・pearlite 于 Sep  9 16:02:04 修改本文・[FROM: 59.66.100.*]

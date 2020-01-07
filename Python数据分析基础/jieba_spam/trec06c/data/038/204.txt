@@ -1,0 +1,27 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <ling@ccert.edu.cn>; Thu, 25 Aug 2005 14:44:50 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 15:03:13 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 15:03:13 +0800
+Date: Thu, 25 Aug 2005 15:03:13 +0800
+From: li@cernet.com
+Subject: =?gb2312?B?UmU6ILTzvNLU2kNoaW5hSFLJz7XEvPLA+tPDy/u1xLzywPrEo7DlwvCjvw==?=
+To: ling@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+怎么还没招聘就填开简历了
+还没到9月份，不要这么搞紧张气氛好不好，呵呵
+         我感觉它的简历模板有些对我们应届毕业生不太适用，特别是IT技能，搞成：
+     “AAA技术 **月 熟练”。这种方法比较怪异，因为技术是相关的，将相关的技术都罗列起来不是非常麻烦么；特别是有些你掌握的技术，它还不提供给你。
+         大家写简历都是怎么办的呢？是不是使用自己的简历模板？交流一下吧，本人研三，该卖了，哈哈。

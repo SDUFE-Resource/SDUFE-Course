@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <you@ccert.edu.cn>; Sun, 21 Aug 2005 09:57:46 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <you@ccert.edu.cn>; Sun, 21 Aug 2005 10:11:00 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 09:39:41 +0800
+Date: Sun, 21 Aug 2005 10:10:51 +0800
+From: "che" <che@wnt.com.cn>
+To: you@ccert.edu.cn
+Cc: "lic" <xue@ccert.edu.cn>, "sunt" <lai@ccert.edu.cn>, "caoy" <shen@ccert.edu.cn>,
+        "wangb" <hou@ccert.edu.cn>, "songhm" <wang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKH+s8/GuKH+0dDCt82o1dDGuLzm1rDUus+1v7zR0LiotbzUsaOoz97R0L6/yfqjqQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+     研路通考研社区（www.yanlutong.com）是由国内权威考研专业课辅导咨询机构北京研路通教育咨询公司重金推出的以考研专业课辅导咨询为主的大型考研社区，目前为规模最大的首家品牌化运作的考研专业课辅导咨询类网站。研路通一经推出就吸引了广泛的关注，和各大网络媒体也一直进行着长期的良好合作，已经和搜狐、新浪、Tom网顺利签约达成长期合作伙伴关系！
+     现诚邀各大高校优秀研究生加入我们的咨询团！
+     职位要求：
+顶~~

@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83Navcu007784
+	for <kang@ccert.edu.cn>; Tue, 6 Sep 2005 11:08:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83NnJli001115
+	for <kang@ccert.edu.cn>; Tue, 6 Sep 2005 11:20:32 +0800 (CST)
+Message-Id: <200509032349.j83NnJli001115@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 6 Sep 2005 03:07:49 -0000
+From: "peng" <peng@mail.tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+Cc: <xue@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7luPbUwqOs0KG80rvv06a4w7PUtuDJ2aO/?=
+Date: Tue, 6 Sep 2005 11:20:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B125.2476A9F0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWw4hYhpZKPpUbwSle4S7/Xq9uNDg==
+
+我宝宝跟你宝宝吃的一样多，不过5个月肯定长得比你家宝宝重，感觉美赞臣的奶粉油非常多，我们有次拉肚子去化验，大夫说便便全是油滴，黄黄的一片一片的。每个孩子不一样，还是安照孩子自己的胃口来，别喂多了。奶一定不要冲浓了，尽量摇匀，孩子一般不愿意喝浓奶而且有害健康。每天让他多活动活动，不要总是抱着，让宝宝多趴，学爬，辅食可以多加点蛋黄。
+     奶粉喂养的小丫头，正好5个月了
+     现在每天5次（白天四小时一次，晚上6小时），每次4勺半（美赞臣的安婴儿），大约
+     130多毫升吧。小家伙长得有点儿瘦（12斤半左右）。老妈老觉得喂少了，可是LP喂

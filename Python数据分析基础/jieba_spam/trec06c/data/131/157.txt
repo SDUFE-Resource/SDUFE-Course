@@ -1,0 +1,41 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <ma@ccert.edu.cn>; Wed, 14 Sep 2005 16:42:27 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Wed, 14 Sep 2005 16:54:26 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <ma@ccert.edu.cn>; Wed, 14 Sep 2005 16:54:25 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <yu@dlut.edu.cn>
+To: ma@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM29yLu12KOs0MTH6bK7usPBy6Grz/uzwcHLoas1NTU1NTU1NTU1?=
+Date: Wed, 14 Sep 2005 16:54:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+没有坏，何来好
+     标  题: 徒然地，心情不好了～消沉了～5555555555
+     
+     以前觉得人有情绪的生理周期
+     可是经过一个假期我都没觉得自己不开心过
+     就从昨天,徒然间晴转多云,再就是阴雨
+     到今天也没有好转的迹象
+     心情不好,影响好多事情啊
+     哎,怎么办好呢?
+     
+     坏心情,真耽误事儿啊!
+     --
+     我 
+     是一朵盛开的夏莲 
+     多希望   你能看见现在的我                               
+     风霜还不曾来侵蚀   秋雨还未滴落              
+     青涩的季节又已离我远去                        
+     我已亭亭　    不忧　亦不惧 
+     
+     

@@ -1,0 +1,29 @@
+Received: from tfol.com ([221.236.5.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8820wkq006952
+	for <zhao@ccert.edu.cn>; Fri, 9 Sep 2005 12:47:43 +0800 (CST)
+Received: (umta 23260 invoked by alias); Fri, 9 Sep 2005 04:59:42 -0000
+X-Lasthop: 61.139.64.53
+Received: from unknown (HELO happylele) (unknown@61.139.64.53)
+  by localhost with SMTP; Fri, 9 Sep 2005 04:59:42 -0000
+Message-ID: <001501c5b41a$dd6c9f80$2e838f0a@happylele>
+From: "jian" <jian@tanfoidc.com>
+To: zhao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgob6z9srbob+xsbTztefX07+80dDIq8zX18rBzw==?=
+Date: Fri, 9 Sep 2005 12:59:48 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2670
+Disposition-Notification-To: "zhangle" <zhangle@tanfoidc.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2670
+
+北大电子学系通信与信息系统、信号与信息处理、电路与系统三个专业考研专业课必备资料（共300多页）：
+1、试卷：电子线路99-04年（每道题均有详解），信号与系统99-03年；
+2、辅导班笔记：电子线路（电分、模电、数电）01-03年，信号与系统01-03年（含老师讲义）；
+3、指定参考书习题答案：高文焕《电子线路基础》答案，杨素行《模电简明教程》答案；
+4、北大电子学系本科生课堂笔记：模电，信号与系统。
+联系方式：
+csluoying@hotmail.com/13466398098/010-51639022

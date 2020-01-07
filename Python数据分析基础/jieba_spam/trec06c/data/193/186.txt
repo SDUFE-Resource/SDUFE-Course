@@ -1,0 +1,33 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <tang@ccert.edu.cn>; Tue, 27 Sep 2005 18:20:03 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <tang@ccert.edu.cn>; Tue, 27 Sep 2005 17:40:22 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "pan" <pan@cert.org.cn>
+To: tang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7YztjO2M7YLMDPsOW7ucO7t6LS+NfT?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Tue, 27 Sep 2005 18:26:01 +0800
+
+欢迎来做苦力啊
+     标  题: 呜呜呜呜,老板还没发银子
+     
+     ~~~&gt;_&lt;~~~
+     十一怎么过啊
+     莫非要去做苦力?
+     
+     --
+     兔子吃饭回来说:11食堂的盘子很新,可以照镜子,真高兴
+     正确mm看了说:照出来一只兔子,分不清楚到底是盘子里的兔子还是吃盘子里的兔子的兔子了
+     兔子:正确mm学问高,你这句话我看了2次还是没看明白
+     jackghost建议我做个qmd,于是有了这个qmd
+     然后microcheng说:你这个qmd可读性不强，建议取消
+     兔子:对于理解力比我还差的人,我不予考虑其建议的
+     
+     

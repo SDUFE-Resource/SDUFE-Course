@@ -1,0 +1,26 @@
+Received: from tfol.com ([221.236.5.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8820wkq006952
+	for <lu@ccert.edu.cn>; Thu, 8 Sep 2005 16:18:34 +0800 (CST)
+Received: (umta 23260 invoked by alias); Thu, 8 Sep 2005 08:30:33 -0000
+X-Lasthop: 61.139.64.53
+Received: from unknown (HELO happylele) (unknown@61.139.64.53)
+  by localhost with SMTP; Thu, 8 Sep 2005 08:30:33 -0000
+Message-ID: <001501c5b41a$dd6c9f80$2e838f0a@happylele>
+From: "yang" <yang@tanfoidc.com>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INDEwO/T0MasxP6+srqj?=
+Date: Thu, 8 Sep 2005 16:30:39 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2670
+Disposition-Notification-To: "zhangle" <zhangle@tanfoidc.com>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2670
+
+         有次朋友来玩，帮我把一直喜欢的书橱一角拍了下来。扫的不太清楚，但是还是兴质勃勃的把它发给了不少朋友，请他们看看我心爱的书橱。
+         有的朋友问书橱上摆的都是什么啊？我说是贝壳呀。
+         那些贝壳的名字其实连自己都叫不出来，但心满意足的爱着。有从长岛带回来的海星，有来自威海的贝壳，有鸥翅湾的石子......。还有那只冰蓝色的琉璃做的鱼，是夏天的晚上在街道散步的时候偶然碰到的，一直想再买一个送给朋友，可惜却一直没有再遇到那两个卖琉璃的少年。
+你写的我都能明白,有些事情过去了就让他过去,只是一段美好的回忆,人总是在向前走,走累了,回头看看休息一下也是很正常的,休息完了还是要往前走的啊,总不能在原地踏步吧:)

@@ -1,0 +1,40 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <ou@ccert.edu.cn>; Mon, 26 Sep 2005 22:56:02 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 15:06:56 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 15:06:56 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <ou@ccert.edu.cn>; Mon, 26 Sep 2005 08:18:03 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <ou@ccert.edu.cn>; Mon, 26 Sep 2005 10:14:29 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Mon, 26 Sep 2005 23:06:44 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <ding@motorola.com>
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SvvW1w2xpbnV4s8m+zcHLsrvJ2cjLo6zSsrqmwcuyu8nZyMs=?=
+Date: Mon, 26 Sep 2005 23:06:19 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+现实确总不这样，呵呵
+     标  题: Re: 我觉得linux成就了不少人，也害了不少人
+     
+     不过你要是一脸不屑的看着那些带随身听的人，估计你就要被扁了。
+     
+     : 真的，如果满大街都是放卡带的随身听，你闹腾一个mp3挂着听。。。一定要挂在脖子上，不是很拽么？
+     : 希罕是好事啊
+     
+     
+     --
+     

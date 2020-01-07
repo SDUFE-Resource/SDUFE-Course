@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <yu@ccert.edu.cn>; Sat, 3 Sep 2005 13:10:38 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <yu@ccert.edu.cn>; Sat, 3 Sep 2005 13:23:13 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 05:12:24 -0000
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: yu@ccert.edu.cn
+Cc: <rao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILbBsqnSu8C0tdrSu7TO1ebV/dDEt7M=?=
+Date: Sat, 3 Sep 2005 13:23:11 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+建议退学吧
+我师妹读了一年，暑假去深圳转了一圈，回来就退学了。
+那边很容易找工作的，她已经面试通过了面试，月薪6k，
+几年后博士毕业有能如何呢？
+一定要想好这个问题。
+     硕博连读，今天开学就博2了，虽然本科硕士成绩优秀，但愈发现学习和科研风牛马不相及！！！！不喜欢编程，我想主要是我保研后就只顾着玩了，落的太多，该学的super 多，感觉没有补救了：（  熟悉的同学们马上明年就毕业了，不知自己到时能不能挺下来，我编程能力很差！！！！导师最近要我做项目：（觉得天都塌了*_*
+       忽然觉得这世道（当然是工科的世道，文科应该没这类problems），不会编程，真的是没法生存！！！！！！还曾经要“立志”改变女博在国人心中的形象，看来我是不是该“理智”一点，这个博真的不容易呀：（
+     so 我真的动了退的心，想想真是对不起bama，还有自己从前的优秀成绩，可是害怕一味的坚持等于最终的不识时务！！！还害怕退了找工作还需要programingprograming，疯了：（

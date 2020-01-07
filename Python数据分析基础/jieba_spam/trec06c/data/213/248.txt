@@ -1,0 +1,48 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U301rY010973
+	for <fan@ccert.edu.cn>; Sat, 1 Oct 2005 19:09:31 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s67T079931
+	for <fan@ccert.edu.cn>; Sat, 1 Oct 2005 19:04:15 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.200])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s2q2079927
+	for <fan@ccert.edu.cn>; Sat, 1 Oct 2005 19:03:32 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id t9so856482wxc
+	for <fan@ccert.edu.cn>; Sat, 1 Oct 2005 04:19:46 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=W8KmBVYgtJQpTKJHhyqBPQpNMrndwd0y2MpDtldR3I4RhE6Kc4T1HsM706J0vp9CsI6L8ZXwRUVAEpb0VeWHwwgHOmzIJg3N5ezU1rxXNE5OB77ZnjAGIUptwrX52M2CpQAbjQGH9u8CAY2rjKNU/w6Ll7Ao3skKpgKarKaNhNI=
+Received: by 10.70.28.8 with SMTP id b8mr798445wxb;
+	Sat, 1 Oct 2005 04:19:46 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Sat, 1 Oct 2005 04:19:46 -0700 (PDT)
+Message-ID: <a00ed9800509292010qaccea32sfc4e2251cb90c982@mail.gmail.com>
+Date: Sat, 1 Oct 2005 04:19:46 -0700
+From: Shaozhi Ye <ding@gmail.com>
+To: fan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztLV4tH51/bKx7K7yseyu7TzusOwoQ==?=
+In-Reply-To: <200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+	<200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j8U2s2q2079927
+Precedence: list
+Reply-To: Shaozhi Ye <ding@gmail.com>
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+   本来和GG计划了很久，国庆一起骑车去天津玩，连出游计划都做得很详细了，因为准备露营，GG还买了帐篷。
+    可是因为临时有个私活，所以GG不能和我一起去了。这快到国庆的几天，宿舍同学一起去其中一个舍友老家那边玩，也邀请我了。但是想着要和GG一起出去，就回绝了。在前天又有同学和师姐问我叫我一起去天津玩。因为GG接的活没有定下来，所以迟迟没有答复人家。本来星期三约好和GG一起去天安门看看灯火，然后去我学校看我。
+   今天下午3点半我已经出发了，GG给我电话说，公司马上就让他们干活，不能来了，也不能陪我出去玩了。于是我马上下车回学校，并给同学答复说明天一早出发去玩。
+   可是心里又想 这样是不是不好啊，GG为了我们在一起，国庆放弃休息赚钱，GG平时实习很累的，我却和同学一起出去玩。我玩心比较重的说……

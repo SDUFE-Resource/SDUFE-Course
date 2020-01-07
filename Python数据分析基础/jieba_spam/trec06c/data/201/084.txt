@@ -1,0 +1,24 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <ren@ccert.edu.cn>; Thu, 29 Sep 2005 01:22:50 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 17:34:00 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 01:34:00 CST
+Date: Thu, 29 Sep 2005 01:34:00 +0800 (CST)
+From: liang ming <he@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INLyzqrDqCy6zdXJt/K8uLr1tPLG8MC0?=
+To: ren@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+我曾经喜欢猫，农村的时候猫是个影子一样的可爱的小动物，几乎不用打理。
+现在不喜欢了，城市里边养猫是那么可怕，受不了那个味儿
+     丈夫是一个很斯文的人.很绅士.从我认识他到结婚到现在除非是玩闹时偶尔手重点.平日连重话都没对我说过.
+     因为丈夫的年龄比我大一些,我们决定今年要个BB.可是我很喜欢猫...养了4只.在UK的家里还有7只....我知道丈夫不喜欢猫,但因为爱我所以他忍受....可是今天早上他上班前再次很郑重的说-必须把猫送走..我拒绝..我见这次真的无法说服他,忍不住在他脸上抓了几下....结果....他把我抱起来狠狠摔在了沙发上....
+     我爱我的丈夫,我也喜欢我的猫.说实话我并不打算这么小就要当母亲.可丈夫说BB生下来有保姆我其实不用操什么心的,我知道他这真是在宽我的心....可我不想后退,而且下周回UK办事情他还要发动我的母亲说服我...烦啊

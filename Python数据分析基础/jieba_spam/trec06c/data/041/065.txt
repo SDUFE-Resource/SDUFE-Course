@@ -1,0 +1,36 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <yu@ccert.edu.cn>; Fri, 26 Aug 2005 01:43:48 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 02:02:08 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 02:02:08 +0800
+Date: Fri, 26 Aug 2005 02:02:08 +0800
+From: ma@cernet.com
+Subject: =?gb2312?B?UmU6INf3zsS1xMPYvvejqNSttLSjqSAo16rU2Ck=?=
+To: yu@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+现象不重要，关键是原因，你知道文化人为什么要这么玩深沉吗？你以为人家不累啊..
+【 以下文字转载自 Emprise 讨论区 】
+发信人: whiteflower (万劫不复), 信区: Emprise
+标  题: 作文的秘诀（原创）
+鲁迅先生有一篇文章，叫做《作文的秘诀》，写得很有讽刺意义。
+这篇文章我是很早以前看过的了，具体内容记不清楚了，大概是说，如果要写出让别人觉得好的作文，就应该把文章故意弄得高深难懂一些，琢磨一下字句，尽量繁复一些，让人觉得你很高深，很有水平。
+我觉得他说得颇有道理。
+中国人写文章，喜欢写一些乱七八糟的废话，用来点缀自己的文章，模糊自己的中心思想，从而起到一种装饰、包装的作用。其作用，确实起到了一种让人觉得高深，佩服的作用，而更多的负面作用，却是让读者无法容易地理解自己的文章，无法体会到自己真正的中心思想是什么。
+ 
+其实，我认为。 不管是写作文，还是老师讲课，或者是企业家培训讲座等等，最应该做到的是，将自己的中心思想以最简单的语言表达出来，让人最容易理解。
+只要让读者懂了自己的真正意思，用多少语言或者多少文字又有多大的关系呢？
+这就跟程序员写程序一样，明明100行可以完成的功能，偏要写成1000行。这样做除了降低程序的效率，降低程序的可读性，还能起到什么作用？
+说了这么多，其实我还是太罗嗦了。
+我就举例说明吧，电影《大话西游》里面的唐僧及其形象转变就是一个很好的例子。
+ 
+大家是否觉得，后来的唐僧更好一些呢？

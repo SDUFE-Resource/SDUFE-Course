@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <han@ccert.edu.cn>; Sat, 3 Sep 2005 19:58:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <han@ccert.edu.cn>; Sat, 3 Sep 2005 20:11:26 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 3 Sep 2005 12:00:01 -0000
+From: "qing" <qing@mail.tsinghua.edu.cn>
+To: han@ccert.edu.cn
+Cc: <li@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM+jzfvKx77kusU=?=
+Date: Sat, 3 Sep 2005 20:11:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+有时候估计不是刻骨铭心的感情吧
+我认为有时候应该是一种占有欲
+或者是一种不愿接受改变的惰性
+一种无法改变的习惯
+     我不知道为什么所有的人都把爱情描绘的这么的刻骨铭心,我一直在怀疑,想知道这是什么感觉,到底是一种什么样的感觉,20多岁的男人,没有恋爱过,哈,朋友说我是人生的一大失败.
+     各位是不是我活着有一点窝囊呀?

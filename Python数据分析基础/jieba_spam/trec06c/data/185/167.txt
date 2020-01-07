@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8OB6nor025292
+	for <xiao@ccert.edu.cn>; Mon, 26 Sep 2005 00:30:48 +0800 (CST)
+Received: (eyou send program); Mon, 26 Sep 2005 00:18:43 +0800
+Message-ID: <327559284.25099@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 26 Sep 2005 00:18:43 +0800
+Message-ID: <327559284.25083@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Mon, 26 Sep 2005 00:18:43 +0800
+From: hu@mail.tsinghua.edu.cn
+To: xiao@ccert.edu.cn
+Cc: you@ccert.edu.cn
+Date: Mon, 26 Sep 2005 00:18:43 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILrDz/HT0LK7ydnIy9LUzqrN9dvzyse49tLU19TO0s6q1tDQxLXEyMujvw==?=
+Content-Type: text/plain
+
+这很正常的，怎么绝情了？
+学生在学校搞的东西自然既属于学生，也属于学校；学生离开学校后，有些没整理的
+研究成果，实验室帮忙整理出来发表很正常的，我们实验室就经常有后来的师弟师妹
+帮忙整理毕业了的师兄师姐的东西然后发表呢――当然，那些师兄师姐应该是第一作
+者，如果后来者没有对其大发展的话――这些毕业走了的人还经常因此感谢那些帮忙
+的后来者呢。
+     晚上收到副导师的email说：“还有一件事需要向你说一下：你在学校学习期间所取得的成
+     绩包含你的努力、导师的指导帮助、同学们的帮助，还有学校和国家的支持。你作为博士生
+     学习阶段取得的成果属于教研组、学校和国家。正如同我们作为职务发明的专利属于学校一

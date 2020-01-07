@@ -1,0 +1,50 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <zhu@ccert.edu.cn>; Tue, 13 Sep 2005 05:40:56 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <zhu@ccert.edu.cn>; Tue, 13 Sep 2005 05:38:11 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <zhu@ccert.edu.cn>; Tue, 13 Sep 2005 05:37:13 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Tue, 13 Sep 2005 05:48:45 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Tue, 13 Sep 2005 05:51:21 +0800
+From: "ling" <ling@runway.cn.net>
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzP246NPrtsG46A==?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: ling@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+1 
+每个人都有自己听歌的习惯，也都有各自喜欢听歌的理由，有些人是因为旋律，有些人是因
+为歌词；有时候会因为喜欢旋律而喜欢上歌词，有时候会因为喜欢歌词而喜欢上旋律。最早
+的时候，只知道歌好听，希望那优美的音乐自己也能唱出，歌词能记住就行，谁也不会去理
+会歌词的含义；长大后，经历的事情多了，想的东西也多了，心境也是随时间的变化各不一
+样，这时候开始在歌曲中寻找符合自己心境的一类，似乎想从歌曲中获取共鸣，也给自己一
+些心理暗示，给自己寻找一些安慰或者快乐，打这时候，就开始在陶醉于旋律的同时品味那
+别样的歌词。
+2
+当偶们还没有流行歌曲反映的那种情感经历的时候，当偶们还接受着学校正统教育的时候
+，偶们确实没有高看过流行歌曲。但是，如今，偶们会意识到它才更贴近于偶们的实际生活
+，有时候看着流行歌曲的歌词却是感觉自己似乎就在故事中，自己就是其中的那个主人公。 

@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81DNZ1D022628
+	for <shen@ccert.edu.cn>; Fri, 2 Sep 2005 02:01:50 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j81DLued024767
+	for <shen@ccert.edu.cn>; Fri, 2 Sep 2005 02:00:36 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j81DLpFM024763
+	for <shen@ccert.edu.cn>; Fri, 2 Sep 2005 02:00:08 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Message-Id: <200509011321.j81DLpFM024763@gradinfo.net.edu.cn>
+Received: from unknown (HELO dodof4b2088bd2) (sxx03@202.112.4.222)
+	by localhost with SMTP; Thu, 1 Sep 2005 17:49:19 -0000
+From: =?gb2312?B?ydvz4+q/?= <kong@mails.tsinghua.edu.cn>
+To: shen@ccert.edu.cn
+Date: Fri, 2 Sep 2005 02:12:39 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWaTfmPRuCxvfElTl6VznZ6NS+/XQUq0wYg
+In-Reply-To: <323308814.29508@mails.tsinghua.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j81DLpFM024763
+Subject: =?gb2312?B?UmU6IMfrzsrU9cO0yLe2qNK7uPbFrrqiuMOyu7jD17ejvw==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+接触还是比较多的，可能因为一伙人里面我工作算比较轻闲的，所以每次组织活动订场联系人都是我来负责，基本上都是打球聚餐唱K之类的活动，每周都会有一到两次，而且下面两个人单独打电话的机会也比较多，但是都是不冷不热的感觉，一般至多两三天都会通一次电话，有时候多几天没打电话，她就会打过来问我一些活动方面的事情，比如时间啊地点啊人员啊这类的问题，单独聊天的机会就只有两次。
+     从朋友做起，先多接触接触吧

@@ -1,0 +1,60 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86DlBho027727
+	for <lv@ccert.edu.cn>; Wed, 7 Sep 2005 18:29:34 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j86DixEj066825
+	for <lv@ccert.edu.cn>; Wed, 7 Sep 2005 18:27:39 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from smtp.blacksburg.ntc-com.net (dapp1.blacksburg.ntc-com.net
+	[204.111.169.34])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j86DitfF066821
+	for <lv@ccert.edu.cn>; Wed, 7 Sep 2005 18:27:19 +0800 (CST)
+	(envelope-from hswu02@vt.edu)
+Received: from hswu (n140s066.ntc.blacksburg.shentel.net [204.111.140.66])
+	by smtp.blacksburg.ntc-com.net (Postfix) with ESMTP id 1518E130877;
+	Wed, 7 Sep 2005 06:41:23 -0400 (EDT)
+From: "liao" <liao@vt.edu>
+To: lv@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjfI1bmk1/e8zcK8?=
+Date: Wed, 7 Sep 2005 06:41:21 -0400
+Message-ID: <000001c5b2eb$21c5ff90$6800a8c0@hswu>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+Importance: Normal
+In-Reply-To: <200509061253.j86Crvrj066117@gradinfo.net.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Content-Transfer-Encoding: 8bit
+	j86DitfF066821
+Cc: 
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+报失
+徐一菱  51531848      挎包，书包，黑色，内有一个笔记本 
+黄鹏    13810091395   黑色鳄鱼钥匙包
+肖冬雪  13552252333   黑色长袖休闲外套男装
+郑超惠  51531320      IC卡（2002010570）
+孙晖    13811342762   乒乓球拍（三只）
+郭远舟  51531767      钱包，黑色，内有IC卡，餐卡，身份证，电话卡及现金若干
+送交
+王建华  67462705      手机，NOKIA
+郝文嘉  51531752      钥匙
+彭霄    62775742      100元
+段承杰                钱包，黑色（已找到失主）
+领取
+张维拓  51531840    手机，NOKIA
+朱利民              钱包，黑色

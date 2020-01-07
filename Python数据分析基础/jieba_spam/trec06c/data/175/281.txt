@@ -1,0 +1,33 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 02:53:54 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 02:16:12 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "mei" <mei@cert.org.cn>
+To: xiao@ccert.edu.cn
+CC: "sun@ccert.edu.cn" <ye@ccert.edu.cn>,
+   "yu@ccert.edu.cn" <cen@ccert.edu.cn>,
+   "lin@ccert.edu.cn" <cai@ccert.edu.cn>, "kong@ccert.edu.cn" <zhu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNKwrrPUvcjX07K7?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 03:01:39 +0800
+
+自己包。
+     标  题: Re: 大家爱吃饺子不
+     
+       两年前在一个小馆子吃到了番茄鸡蛋馅的饺子，觉得超美味，后来不在那附近住了，
+     就再也没吃过。
+       前阵子偶然路过，发现那个小馆子居然还在，于是又进去，却没有那种馅了。
+     
+     : 我特别爱吃饺子
+     : 可是自己包太麻烦了
+     : 好想念我妈的饺子啊，口水。。。。。
+     
+     --
+     
+     

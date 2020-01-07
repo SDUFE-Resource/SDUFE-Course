@@ -1,0 +1,21 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2Dh1P009817
+	for <ding@ccert.edu.cn>; Sat, 17 Sep 2005 13:53:38 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G2ifhm004555
+	for <ding@ccert.edu.cn>; Sat, 17 Sep 2005 14:24:36 +0800
+Message-Id: <200509160244.j8G2ifhm004555@stmp.nisac.gov.cn>
+Date: Sat, 17 Sep 2005 14:04:44 +0800
+From: "pan" <pan@mail.nisac.gov.cn>
+To: ding@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXi0fm1xLGjz8i40L71sci9z6GjoaOhow==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+     其实什么事情都可以做成形式主义，如果你心里把它当作“形式主义”的话
+典型的唯心论和虚无主义。这样说证明你没有完全领会做这种工作的实质是什么，重心是什么，有效方法是什么。
+我想楼主的“形式主义”说法是批评“保先”的形式，而非“保先”本身。对于组织实施保先的同志，当然要做好工作，也应该谦虚听取意见，有则改之，无则加勉。如果老兄你自认为你的思想方法和工作方法已经无比先进了，那则是另外一回事情了。不知道你是否了解党章中关于“批评与自我批评”的论述。

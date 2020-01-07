@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <guo@ccert.edu.cn>; Mon, 29 Aug 2005 21:47:27 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 21:51:50 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 29 Aug 2005 21:51:50 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Mon, 29 Aug 2005 21:51:50 +0800
+From: "bai" <bai@mail.tsinghua.edu.cn>
+To: guo@ccert.edu.cn
+Date: Mon, 29 Aug 2005 21:51:50 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IEpBVkG1xLTzxaO2vNTaxMTA7y4uLi4uLg==?=
+Content-Type: text/plain
+
+我以前公司的技术总监就是这样的，他实际经验太丰富了，做技术都10多年了，现在仍然
+自己坚持做一些。
+     标  题: Re: JAVA的大牛都在哪里......
+     
+     啥地方有这样的牛人呀？
+     : 有c++和java都精通的人。
+     
+     
+     --
+     呢------
+     　　于是，长工们开始闹事了，地主有点慌，忙问谋士怎么办？谋士说：赶紧通知长工们
+     ，房子要跌价了，别买了，租房住吧，正好把我们的猪圈租给他们，结果，这么多年后，
+     长工们的钱全没了，还在租房住，直到永远！
+     
+     

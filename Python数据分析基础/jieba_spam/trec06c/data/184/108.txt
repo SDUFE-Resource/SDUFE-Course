@@ -1,0 +1,29 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8O5BZan023965
+	for <guan@ccert.edu.cn>; Sun, 25 Sep 2005 17:38:31 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.143.84)
+  by localhost with SMTP; Sun, 25 Sep 2005 09:45:59 -0000
+From: "tao" <tao@mails.tsinghua.edu.cn>
+To: guan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sun, 25 Sep 2005 17:55:40 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLMELHCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+In-Reply-To: <326942605.27056@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+就是，灌一片nature,science谁不让你走？一篇ieee transactions也行啊。不过做
+真正研究的人明白，一篇ieee transactions 也不难，静下心来做个1年肯定能出了
+。
+ps:王的东西我没看出科研意义。科研是创新，而不是学会已经存在的东西。科研的
+意义在于输出（产生知识），而不是输入（学会已经存在的知识）。
+     扯淡年年有，今年特别多。
+     1。不靠文章评价，不靠同行评价你的文章，靠什么？
+     2。在清华计算机系，没有任何人要求你文章数量，你可以只灌一篇牛水，然后拍屁股走人。你能看到那牛水后面的辛劳吗？看不到，就不要说的太轻飘。

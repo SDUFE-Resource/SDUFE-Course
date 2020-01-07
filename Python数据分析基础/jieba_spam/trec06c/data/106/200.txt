@@ -1,0 +1,41 @@
+Received: from eyou.net ([202.197.64.39])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8925OHa016508
+	for <wang@ccert.edu.cn>; Fri, 9 Sep 2005 13:38:24 +0800 (CST)
+X-EYOU-SPAMVALUE: 0
+Received: (eyou anti_spam gateway 3.0); Fri, 9 Sep 2005 13:56:24 +0800
+Message-ID: <326232606.22287@eyou.net>
+X-EYOUMAIL-SMTPAUTH: hjl@csu.edu.cn
+Received: from 202.197.54.31 by 202.197.64.39 with SMTP; Fri, 9 Sep 2005 13:56:23 +0800
+Message-ID: <008a01c5b4e2$df562320$1f36c5ca@csuhjl>
+From: "lv" <lv@mail.csu.edu.cn>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjnI1bmk1/e8x8K8?=
+Date: Fri, 9 Sep 2005 13:37:50 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+报失：
+王倩     51531174      IC卡；
+                       丢失时间：9-8晚11:00；丢失地点：东区浴室
+陈艳     51531043      钱包：格子，有IC卡，餐卡，银行卡等；
+         13811362465   丢失时间：9-9，丢失地点：紫荆4#楼前
+莫颖慧   51531185      钱包：红色，内有IC卡，银行卡、餐卡、照片等；
+                       丢失时间：9-9；丢失地点：教材中心
+刘峰     13596177169   钱包：学生证，几张饭卡，一张建行卡等；
+                       丢失时间：9-9下午5:00~6:00；丢失地点：紫荆篮球场
+苏新     62777185      钥匙：若干，有“博友”二字的钥匙扣，一把黑色分叉车钥匙；                       
+                       丢失时间：9-9中午；丢失地点：图书馆附近
+杨鹏     51532046      腰包：内有钥匙一串，黑色钱包一个，西门子手机一部；
+                       丢失时间：9-9上午；丢失地点：紫荆操场
+送交：
+杨小鹏     钥匙：一把宿舍钥匙，两把较小指甲刀，钥匙扣有“日美”字样；
+           拣获地点：紫荆园餐厅西侧；拣获时间：9-8晚11点
+领取：
+高平       钥匙
+     

@@ -1,0 +1,21 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <feng@ccert.edu.cn>; Wed, 28 Sep 2005 10:32:34 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 02:43:41 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 10:43:41 CST
+Date: Wed, 28 Sep 2005 10:43:41 +0800 (CST)
+From: liang ming <wang@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgztK4w9T1w7Sw7KO/?=
+To: feng@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+我们5年了。中间发生了很多很多事情，分分和和好几次，但其实都没有分成。但是前段时间他在外面有了别人，我说要分时，开始他同意了，后来说已经和别人断了，还要和好。
+我也同意了，因为毕竟在一起那么久了，我是真的不想和他分开。可是，关键出了这样的事情，他的意愿也不坚决，所以我很怕同样的事情发生。我想，自己已经经不起这样的折腾了。觉得很难过，很害怕。害怕过没有他的生活，怕失去他，可是也怕他又和别人在一起。
+怎么办啊？想让他许愿发誓把，但又觉得似乎感情的事情无法勉强，怕这样就真的把他吓走了，不的话，又怕他会出去鬼混，自己更加难过。怎么办呢？

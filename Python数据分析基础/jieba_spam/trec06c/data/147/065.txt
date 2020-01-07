@@ -1,0 +1,29 @@
+Received: from mailgate1.neusoft.com ([210.83.210.153])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F2h5xA032120
+	for <hou@ccert.edu.cn>; Sat, 17 Sep 2005 16:25:29 +0800 (CST)
+Received: from smtp3.neusoft.com (mail.neusoft.com [210.83.210.139])
+	by mailgate1.neusoft.com (8.12.11/8.12.11) with ESMTP id j8F2pa4i001038
+	for <hou@ccert.edu.cn>; Sat, 17 Sep 2005 16:33:56 +0800
+Received: from win2003 ([192.168.74.50])
+ by smtp3.neusoft.com (iPlanet Messaging Server 5.2 Patch 1 (built Aug 19
+ 2002)) with ESMTPA id <0IMU0027B80HRF@smtp3.neusoft.com> for
+ weike@ccert.edu.cn; Sat, 17 Sep 2005 16:35:25 +0800 (CST)
+Date: Sat, 17 Sep 2005 16:36:33 +0800
+From: SQL <mei@neusoft.com>
+Subject: =?gb2312?B?ofEgsb7AtMrHt6LU2kpva2Ww5rXEo6y087zSy7Wyu7rD0KajrLu5yse3otTavNKw5snPsMk=?=
+To: hou@ccert.edu.cn
+Message-id: <001e01c5b9a0$c21b92a0$324aa8c0@win2003>
+MIME-version: 1.0
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Content-type: text/plain; charset=gb2312
+Content-transfer-encoding: base64
+X-Priority: 3
+X-MSMail-priority: Normal
+X-MailScanner: Not scanned: please contact your Internet E-Mail Service Provider for details
+
+我最亲爱的老妈随着孩子们的茁壮成长，她老人家的年龄也越来越大了，难免脑子回犯糊涂，有时孩子们上班去了，就她一人在家，会犯些可爱的小迷糊，比较经典有以下几个：
+1.遥控器当电话：一人在家看电视，突然想起要给大姐打电话说件事，随手拿起电视遥控器，开始拨电话号码  ％￥＃※×◎。半天没人接，再拨，还是没有接，如此几次，老妈火大了，把遥控器往沙发上一扔――这破电话，该让闺女给换个新的了。
+2.洗衣机空转：老妈住我的房子，教会她用我们的滚筒洗衣机了，一天她心血来潮帮我们洗衣服，按照背了几遍的程序，接水――电源――洗衣粉――开关，然后看电视去了，过一会拿衣服才发现洗衣机里根本没衣服！
+3.眼镜冰箱藏：有一周老妈一直很郁闷，找不到看电视的老花镜了，很生气地打电话问姐姐，是不是调皮的外甥给藏到哪去了，我们跟着满屋找也没找到。某天，老妈做饭从冰箱冷藏室取肉才发现眼镜和肉放在一起，足足冻了一周啦！
+4.过节：老妈是胶东人，虽然在大城市生活了几十年，但还是顽固地保持着胶东人的生活习惯。过年吃饺子，端午包粽子，十五吃月饼、冬至吃包子。八月十五一定是全家人一起吃月饼，先摆一会瓜果、月饼，一边摆一边嘴里用胶东话唱着：月亮奶奶爱吃月饼。我们全家表情幸福地配合着，一副儿女孝顺，合家团圆的感人场景！
+今年仲秋没法回家跟老人家过了，但很想老妈，希望她老人家在千里之外过得开心！

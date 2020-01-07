@@ -1,0 +1,31 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <wen@ccert.edu.cn>; Thu, 25 Aug 2005 18:58:50 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 19:11:57 +0800 (CST)
+Date: Thu, 25 Aug 2005 19:05:43 +0800
+From: "xiao" <xiao@sohu.com>
+To: wen@ccert.edu.cn
+Cc: "yxl" <huang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILK7u+G+3L74yMssutzT9MPG?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+匪可爱，好色尔
+     标  题: Re: 不会拒绝人,很郁闷
+     
+     你们太可爱了,哈哈哈
+     
+     : 我出一题目更简单的吧
+     : 羽毛球一速度V1飞向球拍，球拍以速度V2迎向羽毛球，设球与球拍为完全弹性碰撞，并且球拍击完球后速度不变。求击后球速. 请写出解题过程。
+     
+     
+     --
+     地狱里寻找快乐，拥有天使的眼睛和魔鬼的心
+     
+     

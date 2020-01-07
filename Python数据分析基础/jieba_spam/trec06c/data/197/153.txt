@@ -1,0 +1,18 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R2Ql7k015088
+	for <zhu@ccert.edu.cn>; Wed, 28 Sep 2005 10:47:46 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8R2U2q21285;
+	Wed, 28 Sep 2005 10:51:01 +0800
+Message-Id: <200509270230.j8R2U2q21285@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 02:51:01 UT
+To: zhu@ccert.edu.cn
+From: luo@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SzqrKssO0vrTF5c312/M=?=
+
+我认为他是毕不了业才只好写出一篇大义凛然的退学申请的，鄙视这种人

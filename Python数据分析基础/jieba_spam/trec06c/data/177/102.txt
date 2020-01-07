@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <yana@ccert.edu.cn>; Sat, 24 Sep 2005 08:52:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <yana@ccert.edu.cn>; Sat, 24 Sep 2005 09:04:10 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 00:41:16 -0000
+From: "shi" <shi@mail.tsinghua.edu.cn>
+To: yana@ccert.edu.cn
+Cc: <hu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/ry7W8uL7ku7A=?=
+Date: Sat, 24 Sep 2005 09:03:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+如果王垠有宽容的心胸，相信他会做出一番事业来
+     1. 我相信当事人只是很诚实地说出了他内心对环境（包括学校、导师、副导、同学）的看法；我们每个人其实在心底也有或多或少这样或那样的想法，却碍于人情世故，选择了将问题归咎于自己，我也是，但我希望有朝一日，我们的孩子可以大胆地说出他们的想法，并在他们的想法

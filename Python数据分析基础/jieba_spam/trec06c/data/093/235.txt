@@ -1,0 +1,74 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8622xnO022222
+	for <liu@ccert.edu.cn>; Tue, 6 Sep 2005 18:18:51 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8620e0D062537
+	for <liu@ccert.edu.cn>; Tue, 6 Sep 2005 18:16:59 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from bighead.6test.edu.cn (Debian-exim@[202.38.99.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8620bmL062533
+	for <liu@ccert.edu.cn>; Tue, 6 Sep 2005 18:16:28 +0800 (CST)
+	(envelope-from lx@ns.6test.edu.cn)
+Received: from lx by bighead.6test.edu.cn with local (Exim 4.50)
+	id 1ECT2E-0005DY-7J
+	for toefl@gradinfo.net.edu.cn; Tue, 6 Sep 2005 18:33:57 +0800
+Date: Tue, 6 Sep 2005 18:33:57 +0800
+From: LIU Xin <feng@ns.6test.edu.cn>
+To: liu@ccert.edu.cn
+Subject: Re: [TOEFL] =?gb2312?B?1NnOytK7uPbOyszi?=
+	=?gb2312?B?o6ywssirt73D5rXE?=
+Message-ID: <20050906021806.GA20051@bighead.6test.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <200509051512.j85FCqUH055072@gradinfo.net.edu.cn>
+User-Agent: Mutt/1.4.1i
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+有意者请与李老师直接联系 szli@nlpr.ia.ac.cn
+http://www.cbsr.ia.ac.cn/users/szli/recruit-postgrads.htm
+李子青  研究员 （主页：http://www.cbsr.ia.ac.cn/users/szli/） 
+教育情况： 
+1982年7月： 获湖南大学学士学位。  
+1985年12月：获国防科技大学硕士学位。 
+1991年9月： 获英国Surrey大学博士学位。
+工作情况：
+1990－1991年：英国Surrey大学电子工程系研究员(Research Fellow)。 
+1991－2000年：新加坡南洋理工大学博士后研究员、讲师、高级讲师、副教授。 
+2000.5－2004.8： 微软研究院研究员。 
+2004.8-今： 中科院自动化所研究员。
+主要业绩：
+李子青博士在统计模式识别与机器学习理论与算法应用基础，以及生物特征识别 、智能视频监控，图像处理与计算机视觉，图像与视频理解 等应用 领域的研究积极活跃，有较广泛的国际国内学术联系，发表论文 200 多篇，撰写编写著作 5 部，其中Markov Random Field Modeling in Image Analysis (Springer, 2nd edition in 2001) 被誉为“里程碑意义的工作”，最近与 A. K. Jain 合编的 Handbook of Face Recognition (Springer, 2004) 为人脸识别领域第一部权威论著。
+学术任职：http://www.cbsr.ia.ac.cn/users/szli/activities.htm
+ 
+应用基础研究：统计模式识别、机器学习理论与算法 
+应用算法研究：生物特征（人脸、掌纹、虹膜、声纹）识别，智能视频监控(图像 中物体检测、跟踪、识别，视频语义理解） 
+硬件研发：光机电一体化，嵌入式系统，图像传感器 
+系统开发与集成：生物特征识别系统，智能视频监控系统
+ 
+考生要求 有扎实的数学物理基础，和/或优秀的电子/计算机工程素养，和良好的软件编程能力 （基础及算法研究类） ； 或 
+有优秀的软或硬件开发，或系统集成能力 （开发类）；和 
+追求卓越，有积极的工作热情和良好的团队合作精神（所有考生）。
+目前学生情况：http://www.cbsr.ia.ac.cn/users/szli/Students/index.htm 
+ 
+联   系 欢迎EMAIL联系：szli@cbsr.ia.ac.cn, szli@nlpr.ia.ac.cn。
+简历中请 描述个人志向，并给出以下信息： 
+高考分数、年级排名/总人数 ，获奖情况，附成绩单 
+数学物理基础，外语水平 
+软件设计编程能力和经验 
+硬件设计制作能力和经验 
+项目经验 
+附成绩单
+ 

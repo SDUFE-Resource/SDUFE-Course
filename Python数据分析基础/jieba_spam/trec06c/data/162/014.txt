@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8JBii0m015387
+	for <zhuang@ccert.edu.cn>; Wed, 21 Sep 2005 04:55:14 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8JBuNSM005175
+	for <zhuang@ccert.edu.cn>; Wed, 21 Sep 2005 05:06:53 +0800 (CST)
+Message-Id: <200509191156.j8JBuNSM005175@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 20 Sep 2005 20:46:00 -0000
+From: "su" <su@mail.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Cc: <ke@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgztK1xL+80dDCt6O606LT7yDM/cGm?=
+Date: Wed, 21 Sep 2005 05:06:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5BD54.315C4400"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW9ESMViAP3rUc6TpGavIn8JvsLVg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+虽然考研初试已经不考听力了，还是说一说吧。
+听力，最好的听力材料就是能够找到相应文本的材料。
+磁带、mp3、电影、音乐、广播新闻，
+随便什么都行，只要自己能听得进去就行，
+注意一点，就是必须有对应的英文原稿；
+强烈不推荐在听不懂太多内容的情况下硬听VOA、BBC这些东西，
+因为1没有原稿2听不懂说的是什么，
+这样就没有办法在听到的“发音”和单词之间建立起正确的关系，
+进而也就不会有什么提高。
+p.s.
+不推荐friends。
+这套电视剧里面的俚语实在太多，
+我直接看文本都看不懂。
+如果不打算投身于美国口语的学术研究，
+就不用看这片子了。

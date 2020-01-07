@@ -1,0 +1,21 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <gao@ccert.edu.cn>; Tue, 27 Sep 2005 23:58:21 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 16:09:31 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 00:09:31 CST
+Date: Wed, 28 Sep 2005 00:09:31 +0800 (CST)
+From: liang ming <wei@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMWutPPRp8n6wfey+rrzuPjQtLj4xNDT0bXE0MU=?=
+To: gao@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+      让我们共同祝福那个女孩能尽快恢复，事情已经发生了，好好过以后的日子吧，我相信她一定会幸福的。那个男生真是可恶！恋爱时口口声声我爱你，爱她就要占有她？事情发生了还漠不关心，让女友一个人像受伤的羔羊一样可怜的舔舐伤口，这种人简直……你是男人么！！
+    时代的进步也颠覆了很多固有的传统观念，在性的问题上，男人确实比女人有更大的随意性。而不管怎么样，最终受伤害的还是女人。如果生理上的伤害是可以通过手术来愈合消除的，那么心灵伤害可以永远没有痊愈的可能。从身体结构上来分析， 女人一般是死心眼，计较的，肯把自己交付给一个男人就说明爱他已至深。然而，那个男生却把这样信赖当做自己享受快乐的通行证，在遇到红灯后，轻松下车，撇清一切关系。这样的男人在我转载的文章中是一例，而在我们身边还是有好多的。什么时候男人可以真正学会心疼女人，关爱女人，那也不需要我们在这里感慨，唏嘘了。

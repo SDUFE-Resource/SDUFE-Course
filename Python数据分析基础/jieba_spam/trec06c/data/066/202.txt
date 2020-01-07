@@ -1,0 +1,34 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7T4id6m030342
+	for <tang@ccert.edu.cn>; Thu, 1 Sep 2005 19:07:40 +0800 (CST)
+Received: (qmail 18809 invoked from network); Thu, 1 Sep 2005 11:19:23 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Thu, 1 Sep 2005 11:19:23 -0000
+Message-ID: <001801c5ac56$5440b960$e900a8c0@d47db5334f2a479>
+From: "pan" <pan@jdl.ac.cn>
+To: tang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgWzkuNc/CXbKpyr/Rp867wtvOxMvNyfO8sLTwseezzNDyvbLX+SAo16rU2Ck=?=
+Date: Thu, 1 Sep 2005 19:21:41 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 CampusInfo 讨论区 】
+发信人: seric (伤逝), 信区: CampusInfo
+标  题: [9.5下]博士学位论文送审及答辩程序讲座
+2005年秋季学期 
+博士学位论文送审及答辩程序讲座通知
+各位应届博士生：
+    研究生院培养办公室定于2005年9月5日（星期一）下午举办“博士学位论文送审程序及论文格式”的讲座，讲解学位论文送审和答辩申请过程的有关要求、注意事项，以及博士论文写作格式的有关问题，请本学期准备申请论文送审、答辩的博士生同学务必参加。
+时 间： 2005年9月5日（星期一）
+下 午： 2：30~5：00
+地 点： 东阶教室（在东主楼东侧）
+主要内容： 1. 博士学位论文送审与申请答辩程序
+           2. 博士学位论文写作格式
+研究生院培养办公室
+2005年8月29日星期一

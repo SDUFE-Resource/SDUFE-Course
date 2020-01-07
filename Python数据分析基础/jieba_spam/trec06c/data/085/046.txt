@@ -1,0 +1,27 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82NbfwP002626
+	for <zhong@ccert.edu.cn>; Sun, 4 Sep 2005 13:20:42 +0800 (CST)
+Received: (eyou send program); Sun, 4 Sep 2005 13:21:02 +0800
+Message-ID: <325704282.09716@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 4 Sep 2005 13:21:02 +0800
+Message-ID: <325704282.09698@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sun, 4 Sep 2005 13:21:02 +0800
+From: xin@mail.tsinghua.edu.cn
+To: zhong@ccert.edu.cn
+Cc: qiu@ccert.edu.cn
+Date: Sun, 4 Sep 2005 13:21:02 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW7mruOZdILnY09q9+9a5ucS2r9PDu6fP8sbky/tCQlPXqtLGtcS5q7jmICjXqtTYKSjXqrzE
+KQ==?=
+Content-Type: text/plain
+
+来  源: 166.111.86.81 
+【 以下文字转载自 gag 的信箱 】
+发信人: SYS01 (SYSOP), 信区: Announce
+标  题: [公告] 关于禁止鼓动用户向其他BBS转移的公告
+发信人: SYS01 (SYSOP), 信区: sysop
+标  题: [公告] 关于禁止鼓动用户向其他BBS转移的公告
+          根据惯例，本站近期内将删除并禁止发表鼓动用户向
+      其他BBS站点转移的文章。请各位用户理解，并给予配合。
+                             BBS水木清华站临时站务管理组
+                                    2005年9月2日

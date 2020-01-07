@@ -1,0 +1,26 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <tan@ccert.edu.cn>; Wed, 28 Sep 2005 08:48:56 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 01:00:03 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 09:00:03 CST
+Date: Wed, 28 Sep 2005 09:00:03 +0800 (CST)
+From: liang ming <tian@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMfrzsq49867tPPFo9f2wcvKssO0scjN9dvzuPzBy7K7xvC1xMrCwcs=?=
+To: tan@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+     : ：3, 电池,交卷,液晶, 也许属于材料化工吧, 不是IEEE的范畴.
+     您的意思是，我应该举路由器，无线AP，flash ram这些东西？
+     
+     范畴？原来“牛人”都不搭理IEEE以外的东西阿。
+     
+     因为别的领域我不懂,所以不敢说啊, 不同领域的研究特点差很多很多的.
+     既然王同学是这个领域,所以我们说IEEE呀.
+     你又玩小把戏,我又没说自己是牛人,你就把我归到引号牛人里,然后推出些结论,这样不好吧.当然我比你还是牛一些的,呵

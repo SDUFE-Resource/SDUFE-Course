@@ -1,0 +1,21 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R9oOdP018957
+	for <tu@ccert.edu.cn>; Wed, 28 Sep 2005 05:37:32 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8RA1dYd023981
+	for <tu@ccert.edu.cn>; Wed, 28 Sep 2005 05:48:47 +0800 (CST)
+Received: (eyou send program); Wed, 28 Sep 2005 05:23:44 +0800
+Message-ID: <327813796.02359@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Wed, 28 Sep 2005 05:23:44 +0800
+From: mei@mail.tsinghua.edu.cn
+To: tu@ccert.edu.cn
+Date: Wed, 28 Sep 2005 05:23:44 +0800
+Reply-To: mei@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILy4teO88rWltcS/tLeoo6y/tMHLzfXb87XEzcvRp9DFuvM=?=
+Content-Type: text/plain
+
+有了word才节省了大家攒论文的时间。
+     1，赞同wangyin对中学教育的批判，中国的应试教育确实比较恶心
+     2，不赞同wangyin对高校科研的批判，王垠太理想化了，也许是因为他有实现那种理想科研的能力
+     3，最最不赞同的一点－－他居然批判 Word，还捧Linux。 Word是多么伟大的软件啊，划时代的产品，我一直用它，包括写论文，没觉得哪里不好；；还有那个linux，超级恶心，比windows差远了，如果不是有一些自己独特的优点，使得它在某些条件和应用下有一些好处和优势，打死

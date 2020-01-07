@@ -1,0 +1,57 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8T1EWk0000972
+	for <hou@ccert.edu.cn>; Thu, 29 Sep 2005 08:02:50 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8T19BtK069273
+	for <hou@ccert.edu.cn>; Thu, 29 Sep 2005 07:57:45 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8T14kU4069206
+	for <hou@ccert.edu.cn>; Thu, 29 Sep 2005 07:53:03 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 18877 invoked by uid 512); Thu, 29 Sep 2005 00:01:18 -0000
+Message-ID: <20050929011301.18876.qmail@stu.ee.tsinghua.edu.cn>
+From: zhuang@stu.ee.tsinghua.edu.cn
+To: hou@ccert.edu.cn
+Date: Thu, 29 Sep 2005 08:01:18 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEgSW50ZXJuuNDP66Gqoaq90r+qsaa94MrQs6HR0L6/sr/J8cPYw+bJtNau0rsoenopICjXqtTY
+KQ==?=
+Precedence: list
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 Career 讨论区 】
+发信人: tulipblue (no matter), 信区: Career
+标  题: Intern感想――揭开宝洁市场研究部神秘面纱之一(zz)
+                          走进宝洁CMK――我在CMK的实习感想
+                  Hinson Liang            02 Information Management
+    因为一次偶然，我认识了宝洁，并且争取到在宝洁CMK 实习的机会。通过暑期实习生
+计划，我走进了宝洁，体验了CMK的生活。希望通过跟大家分享我在宝洁CMK实习的感受，
+能够让大家更深入了解宝洁，更深入了解CMK。
+初识CMK
+Challenging CMK
+Interesting CMK
+Rewarding CMK
+CMK人
+初识CMK
+    CMK即市场研究部，全称是Consumer &amp; Market Knowledge。CMK通过对消费者、渠道、
+媒体等做大量定性和定量的研究，提出有价值的建议，并最终影响商业决策。在宝洁里面
+，CMK发挥着内部咨询的作用。相对于MKT或者CBD等部门，CMK可能显得有点神秘，这可能
+因为在很多决策时候，CMK都处于一个幕后军师的角色，而不是活跃在大家的眼前。正是因
+为CMK掌握很多先进的研究技术（网上会有很多评论说：中国市场研究行业很大程度上是由
+宝洁带起来，而其中正是CMK发挥着非常重要的作用），和一种神秘的感觉，CMK被称为宝
+洁的秘密武器。
+Challenging CMK
+    宝洁的实习跟其他公司的实习很不一样，宝洁并不会特意设计一个针对实习生的工作
+计划，让实习生练练手脚。宝洁提倡“early responsibility”

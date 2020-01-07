@@ -1,0 +1,19 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j874iPdV032722
+	for <xin@ccert.edu.cn>; Wed, 7 Sep 2005 19:59:26 +0800 (CST)
+Received: from John (unknown [202.106.175.161])
+	by smtp119.sohu.com (Postfix) with ESMTP id 84D5F0526C87
+	for <xin@ccert.edu.cn>; Wed, 7 Sep 2005 20:11:28 +0800 (CST)
+Date: Wed, 7 Sep 2005 20:11:37 +0800
+From: "zeng" <zeng@sohu.com>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7rPvK9dIMWuyfrTw7XEu6S39Ma3v8nS1Lj4xNDJ+tPDw7QgKNeq1Ngp?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907045627.84D5F0526C87@smtp119.sohu.com>
+
+☆─────────────────────────────────────☆
+   raycandy (

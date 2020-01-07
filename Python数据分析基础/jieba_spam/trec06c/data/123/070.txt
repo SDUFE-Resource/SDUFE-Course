@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AF39fI030243
+	for <zeng@ccert.edu.cn>; Tue, 13 Sep 2005 00:14:05 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AF0L4C093997
+	for <zeng@ccert.edu.cn>; Tue, 13 Sep 2005 00:11:35 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8AF0IZY093993
+	for <zeng@ccert.edu.cn>; Tue, 13 Sep 2005 00:11:13 +0800 (CST)
+	(envelope-from mayuanchen@tsinghua.org.cn)
+Received: (eyou send program); Tue, 13 Sep 2005 00:30:38 +0800
+Message-ID: <326365583.28602@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: mayuanchen@tsinghua.org.cn
+Received: from unknown (HELO mayc-d400) (220.207.80.1)
+	by 210.77.143.232 with SMTP; Tue, 13 Sep 2005 00:30:38 +0800
+From: "zhao" <zhao@tsinghua.org.cn>
+To: zeng@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [TOEFL] =BD=CC=CA=A6=BD=DA=BF=EC=C0=D6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Date: Tue, 13 Sep 2005 00:23:27 +0800
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0061451654=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+那天看到有关超女的报道，说lyc的明星气质终于使大陆出现了一个像港台明星那样水准的明星
+当时我就想到了，早几年前，由于还珠格格的热播，大陆有了一位名叫赵薇的小燕子，她的受欢迎程度可是不亚于所谓的港台明星，就在电视台评选的最佳女友排行榜，她总是第一名，第二的貌似是张柏芝
+可以跟周星驰、刘德华配戏的她，真的是一个明星了
+     我有几次对比了一下，除了超女那几个，明星版里平时人最多的就是赵薇版了，天涯里fan她的人也不少
+     在中国的明星中，她的fans群算较大的了
+     而且她的fans最大的特点就是死忠，很坚强很执着，这跟赵薇的品性还是有一定关系的，如果她的人品经不起推敲，也不会在经历了那么大的挫折还能有人欣赏她喜欢她。

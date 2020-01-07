@@ -1,0 +1,24 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S2R37O025523
+	for <hu@ccert.edu.cn>; Thu, 29 Sep 2005 13:23:29 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8S2U1L21972;
+	Thu, 29 Sep 2005 13:26:27 +0800
+Message-Id: <200509280230.j8S2U1L21972@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Thu, 29 Sep 2005 05:26:27 UT
+To: hu@ccert.edu.cn
+From: qian@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILnY09rH5buqvMbL47v6v7zR0LXEvLi49s7KzOI=?=
+
+1、关于专业课试卷：有用，一来可以检测你的复习效果，二来某些题目可能会重复考
+2、参考书能看一遍并理解了更好（这个要求就比较高了），但一般来说看课件即可达到目的（ds和os一般不会超出课件）；但体系结构和原理就不能局限于课件，考得多是些概念。
+每个人考研的经验都有差别，切不可盲从他人经验，应该根据自己的情况决定自己的复习方法！
+简单说，只要认真、细心，把每个知识点真正理解了，考试的时候充满自信、别粗心大意，就没什么问题了！
+     首先声明我已经在精华区泡了三四天时间了，感觉有的写的很好，有的写的也是很简略，而且有的信息已经有些旧了，因此在这里再提一些问题，大家来讨论一下：
+     1、历年专业试卷有价值吗？版主能不能把历年的真题整理发布一下？
+     2、官方的招生信息网上提供的参考书都是贼厚贼厚的，有必要把它们都认真的看一遍吗？（我感觉数据结构要认真看，可是别的呢？）  哪些参考书比较有价值？

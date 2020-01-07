@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j87BlNH3002554
+	for <ren@ccert.edu.cn>; Wed, 7 Sep 2005 21:38:21 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j87Bxb76001146
+	for <ren@ccert.edu.cn>; Wed, 7 Sep 2005 21:50:35 +0800 (CST)
+Message-Id: <200509071159.j87Bxb76001146@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 7 Sep 2005 13:36:02 -0000
+From: "yu" <yu@mail.tsinghua.edu.cn>
+To: ren@ccert.edu.cn
+Cc: <jin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SutzQwMnNtcTSu867t6i5+sWu0Mc=?=
+Date: Wed, 7 Sep 2005 21:50:31 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C5B3E6.AA53DD40"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzo5wDUyjmuLAhQNybYzBBmyxuiw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+     呵呵，
+     着装上，她不屈服，不迎合所谓的时尚潮流。
+     演技上，更是以全新的角度演绎每一角色，如《八美图》《钢琴教师》。
+     
+     谈到参加影展的着装，
+     相比之下，我们国家的女星们一参加国际影展，动不动就奢华礼服，
+     感觉好像一辈子没有穿过好衣服，然后到那去扬眉吐气似的。
+那个是社交礼仪，是礼貌
+     她们和法国本地女星相比，更显得寒酸。
+     
+     好莱坞的女星们则是动不动就抢夺眼球，怎么抢眼怎么穿。
+     比来比去，还是欧洲，尤其法国女星有味道！
+     怪不得张曼玉去了法国，回来变的如此有味道！
+     hehe 
+     --
+     
+     

@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R85rss018413
+	for <yan@ccert.edu.cn>; Tue, 27 Sep 2005 15:07:49 +0800 (CST)
+Message-ID: <200509271605.j8R85rss018413@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO wjz) (jsjx@166.111.68.11)
+  by localhost with SMTP; Tue, 27 Sep 2005 06:54:05 -0000
+Date: Tue, 27 Sep 2005 15:19:49 +0800
+From: "cheng" <cheng@mail.tsinghua.edu.cn>
+To: yan@ccert.edu.cn
+Subject: Re: 疑似被安装后门或被蠕虫感染的计算机列表    2005-09-27
+X-mailer: Foxmail 5.0 [cn]
+Disposition-Notification-To: "jsjx" <jsjx@mail.tsinghua.edu.cn>
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+     急问已经工作了报考研究生还需要单位出具证明？刚才咨询人大，想报考法律硕士的非全日制，老师说要原单位出具证明。如果要是到时候辞职了，原单位又不方便开，那怎么办？好像前几年就不需要原单位开证明了啊，而且我还是自费，不是什么委培。
+     而且，如果以后涉及调档案的问题；（我得户口不在北京）现在我的档案就随便放在一个亲戚的公司，也没有按他们正式员工的编制存放人才中心，（好像就存在亲戚的家里，呵呵），这个会影响考上研究生后迁入集体户口吗？
+     谢谢。
+哪这么复杂，早就不用开了。现在的原则是：你自己解决好，到时候出现各种问题，自己负责。
+  法硕，偶听说不给学生调档案地。

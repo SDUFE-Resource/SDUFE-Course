@@ -1,0 +1,37 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8609x05021377
+	for <tan@ccert.edu.cn>; Wed, 7 Sep 2005 04:20:05 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp4 (Coremail) with SMTP id JAByKDnhHEOfVeqS.1
+	for <tan@ccert.edu.cn>; Wed, 7 Sep 2005 04:32:22 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <000d01c5b279$05443430$26cb6fa6@liuwu>
+From: "hou" <hou@126.com>
+To: tan@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx/PW+qOho6GjoaOho6GjoaOho6GjoaOho6GjoaOho6GjoaOh?=
+Date: Wed, 7 Sep 2005 04:32:14 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+下面是我本学期的选课计划，请大家伙过目，请大家伙指点！
+1自然辩证法  2学分
+2社会主义与当代世界 1学分
+3英语A    2学分
+4数值分析   4学分
+以上为必选
+5材料学基础 3学分    南策文老师
+6材料合成热力学 3学分   潘伟老师
+7近代信息功能陶瓷材料  2学分  张中太老师
+8材料分析与表征 3学分  张政军老师
+9核材料科学基础   2学分  
+10现代仪器分析方法与实验  3学分张四纯
+11X-射线晶体结构分析 2学分  王如冀老师
+12博弈论   3学分  孙永广老师
+13游泳  0学分
+以上为专业选修课

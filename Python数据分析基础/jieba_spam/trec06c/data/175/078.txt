@@ -1,0 +1,35 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Fri, 23 Sep 2005 23:51:49 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Fri, 23 Sep 2005 23:14:07 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "hong" <hong@cert.org.cn>
+To: zheng@ccert.edu.cn
+CC: "bai@ccert.edu.cn" <he@ccert.edu.cn>,
+   "wua@ccert.edu.cn" <zhong@ccert.edu.cn>,
+   "zhuang@ccert.edu.cn" <rao@ccert.edu.cn>, "liao@ccert.edu.cn" <hua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Fri, 23 Sep 2005 23:59:34 +0800
+
+     
+     缺乏独立精神 看不到周围的不足 怎么能进行创新
+     不多几个人出来起来说no 国内的学术风气怎么才能改善 
+     这种学术风气的主导者－－教授们  怎么才会有危机感呢 
+     
+     在关站后的 水木上 这样说 王同学 真不够意思
+     楼主说这样的话 可能是要维护所谓的传统的价值观 但绝对不利于国内学术风气的改善
+     
+     我的意思是 我们要对周围不好的因素 说 no 而不要苟活者 
+     学术浮夸风不该越演越烈 没有水平的教授不该占用与其水平不称的资源
+我完全赞同你说的要改善国内的学术风气。问题是，怎么改善？鼓励任何形式对教授对学校的抨击？这跟贴大字报有什么不同？
+估计你们身处其中不觉得，我在外头看，觉得国内这几年的学术风气越来越好。重要标志之一就是对paper的重视度大大增加。科研不写paper做啥？写paper宣读发表就是广义的各个研究小组在一个巨大的common room里端着咖啡互相讨论想法进度。合着common room变成convention center，自己买的咖啡变成大桶装免费咖啡王同学就不认识了？
+最后要狂拍一下你这种什么都不知道听一点就出来吆喝唯恐天下不乱的人。恰恰和你的臆测和王同学的指责相反，王同学的导师是一个认真踏实做科研的教授，而且研究水平早就跟国际接轨。这个领域国际一级会议里头中国大陆的文章，一大半都是他发的。他们的科研小组，也早在十几年前起就开始跟国外有很多交流。他就算拿到国外，水平也不算差。
+ 
+     --
+     

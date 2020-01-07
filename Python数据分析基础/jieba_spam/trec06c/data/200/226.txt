@@ -1,0 +1,26 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <yan@ccert.edu.cn>; Wed, 28 Sep 2005 22:57:22 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 15:08:32 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 23:08:32 CST
+Date: Wed, 28 Sep 2005 23:08:32 +0800 (CST)
+From: liang ming <wen@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INT1w7TR+cTcubvT69fUvLrJ7rCutcTFrrqi19PX9sXz09HE2D8=?=
+To: yan@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+我是一个有女朋友的男生，由于某种原因吧，我来大学后喜欢上了另一个女孩，很喜欢，很很喜欢，可是我有老婆了，虽然离得很远，但是我选择了做这个女孩的朋友。
+    至于怎么做嘛，我觉得是因为我还怕错误的后果吧。如果我对后来的女孩做错什么事，就会伤害两个我爱的人，这是我最不想看到了，所以我要时刻明白什么是能做的什么事不能做的。做朋友也可以照顾对方，留在离她很近的地方，从她的快乐中获得幸福，在她危难时你能挺身而出，这已经是退而求其次的最好结果了。能不能接受这种方式就要看你的心态了，付出是否必须要求通常意义上的回报。不去要求就可以了。
+    我觉得我活一生可能会遇到很多自己喜欢的女孩，但不可能一个个的都去追求，去发生恋情，所以我选择了守着第一个我承诺过的女孩，让她独享这种幸福。别的女孩你可以欣赏，可以帮助，可是是朋友，但不能拿走她们爱情中的任何一个部分。
+    这是我的生活方式，不知是不是会被排砖，但我觉得没有很大的错误。
+     我深爱一个女孩子
+     可是落花有意,流水无情啊
+     只有做朋友了

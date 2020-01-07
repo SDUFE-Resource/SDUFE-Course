@@ -1,0 +1,47 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U3XRsq011198
+	for <han@ccert.edu.cn>; Sat, 1 Oct 2005 13:26:27 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U3S2Fd080380
+	for <han@ccert.edu.cn>; Sat, 1 Oct 2005 13:21:13 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8U3RxnO080376
+	for <han@ccert.edu.cn>; Sat, 1 Oct 2005 13:20:58 +0800 (CST)
+	(envelope-from hujun02@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sat, 1 Oct 2005 13:33:23 +0800
+Message-ID: <328051624.14203@mails.tsinghua.edu.cn>
+Received: from 202.112.4.39 by mails.tsinghua.edu.cn with HTTP;
+	Sat, 1 Oct 2005 13:33:23 +0800
+From: zhong@mails.tsinghua.edu.cn
+To: han@ccert.edu.cn
+Date: Sat, 1 Oct 2005 13:33:23 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IHphbtXiuPajrLTzvNLX7M/CwfTH6bDJ?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: zhong@mails.tsinghua.edu.cn
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+那些人都是动嘴的人，根本不会想到这其中的麻烦
+明天要公布名单，那么下午就要定死录取名单，
+那就只能按照成绩一个个通知，直到来的数目够了为之
+哪有时间让你考虑？
+所以A系的做法是对的
+至于他本系的规定也是可以理解的
+推研名额就那么多，外推和本系
+既然不想去外推干吗放到第一志愿？
+你不去的话就又要挤占本系后面学生名额
+结果能读研的人可能就会少一名
+我觉得这个规定很合适
+     根本不一样，找工作多长时间，推研多长时间，
+     全校都那么搞，根本没法推了

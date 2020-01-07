@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <shi@ccert.edu.cn>; Sat, 24 Sep 2005 08:47:10 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <shi@ccert.edu.cn>; Sat, 24 Sep 2005 08:58:34 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 00:36:06 -0000
+From: "zhou" <zhou@mail.tsinghua.edu.cn>
+To: shi@ccert.edu.cn
+Cc: <cen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgv6jD18Ct?=
+Date: Sat, 24 Sep 2005 08:58:25 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+今天和同学提到卡米拉，出乎我意料，竟然大家一致认为她是个不可饶恕的女人，勾引查尔斯，害死戴安娜，毁坏王室尊严，破坏皇室形象，我无语，一个比查尔斯还大的中年妇女，从小不修边幅，没有戴妃般美丽的外表，甚至连内在也无法和戴妃相提并论，她有什么资本荣升“情妇”之名呢？而在这三十几年背后，她又容忍多少民众的唾骂，讽刺呢？有头脑的青年，睁开眼睛自己看看吧，对一个人的评价从不应是被舆论导向的，相反，思想该为舆论领路。

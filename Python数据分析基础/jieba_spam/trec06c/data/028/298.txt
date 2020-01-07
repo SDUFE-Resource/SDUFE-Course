@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <rao@ccert.edu.cn>; Tue, 23 Aug 2005 06:14:42 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <rao@ccert.edu.cn>; Tue, 23 Aug 2005 06:27:56 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 22:22:29 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "jin" <jin@mail.tsinghua.edu.cn>
+To: rao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IL3xzOzU2tK7uPZtbcrWu/rJz7+0tb2/8de3uMNtbcG9xOq1xGdnt6K1xLbM0MUgKNeq1Ngp?=
+Date: Tue, 23 Aug 2005 06:24:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+你中学语文满分了。。。翻译成英文会很好玩。。。
+     在乎你的我，只在乎，（我）在乎的你；在乎你的我，不在乎，我在乎的你，是否在乎，别人；也不在乎，是否，别人像，在乎你的我一样，在乎，我在乎的你。在乎你的我，只在乎，我在乎的你（此处原文二字前后颠倒），是否像，在乎你的我，在乎你一样，在乎，在乎你的我。
+     ※ 修改:・LiuJG 于 Aug 25 01:29:19 修改本文・[FROM: 221.216.112.*]

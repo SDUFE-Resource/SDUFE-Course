@@ -1,0 +1,22 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <kang@ccert.edu.cn>; Wed, 24 Aug 2005 15:32:59 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 15:46:06 +0800 (CST)
+Date: Wed, 24 Aug 2005 15:39:52 +0800
+From: "ma" <ma@sohu.com>
+To: kang@ccert.edu.cn
+Cc: "yxl" <xing@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMfrzsrSu7j20afJ+rW1sLiyu8Tcyc+xo8/VtcTOyszio6zU2s/ftcijrbyx?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+单位做法是不对的，保险是劳动者的基本保障，是建立在事实劳动关系的基础上的，与你所说的试用期无关，保险应从你与公司建立劳动关系开始缴纳，上保险不一定非要调档案，如果单位有这方面的要求，但也不能因此限制给你缴纳保险。而且不上保险工资是否多一些，你根本看不出来。因为保险是确定工资基数的基础上的。
+     5月底进了一家公司，不解决户口，因此学校给我下发了派遣证，将我的户口和我的档案都
+     打回老家了，三个月的试用期里面，公司说国家规定试用期可以不用上保险，就没上
+     现在试用期过了，公司要我的档案，我的档案现在在家里，公司说也是属于学生档案，必须在当地人才中心，半年后做完转正定级，方可往北京调。

@@ -1,0 +1,52 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <shen@ccert.edu.cn>; Tue, 23 Aug 2005 12:22:32 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <shen@ccert.edu.cn>; Tue, 23 Aug 2005 12:35:46 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Tue, 23 Aug 2005 04:30:19 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "jin" <jin@mail.tsinghua.edu.cn>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztK7ucC01dA=?=
+Date: Tue, 23 Aug 2005 12:32:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+公司名称：北京诺德世讯科技开发有限公司
+公司地址：
+海淀区成府路45号海升集团C座209（www.nodinfo.com）
+应用软件开发工程师：
+  职位描述：主要负责PC端应用软件的开发。
+  要求：1、本科及本科以上
+        2、熟练使用C、C++
+        3、会用VC编程开发中型软件项目
+        4、英语4级以上
+        5、有LINUX或数据库开发经验者优先
+招聘人数：5-8人
+嵌入式软件开发工程师：
+  职位描述：熟悉DSP程序设计和优化，并基于DSP平台开发音视频软件。
+  要求：1、本科及本科以上
+        2、熟练使用C、C++
+        3、英语4级以上
+        4、具有LINUX或ARM开发经验者优先
+  招聘人数：2-3人
+联系方式:
+联 系 人：吴小姐,钱小姐
+邮    箱：nodinfo@sohu.com      hr@nodinfo.com   
+联系电话：010－62559962－11      
+传    真：010－62559962－17
+QQ:              364034703(可以咨询)
+招聘期限:
+长期，合适就招。
+其实工作的好坏，是看一个公司是否有潜力，从事的职业是否前途，个人是否有未来
+？而我们能给您最好的答案。如笔试面试通过，公司将会进行一些专业培训。我们需
+要的是优秀的人才,我们能不惜全力塑造培养人才，对人才的希望也是宁缺毋滥，如
+果您有目标有梦想,就赶快加入我们。
+谢谢关注！

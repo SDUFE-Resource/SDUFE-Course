@@ -1,0 +1,56 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <bi@ccert.edu.cn>; Tue, 20 Sep 2005 20:48:29 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 12:59:30 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 12:59:30 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <bi@ccert.edu.cn>; Tue, 20 Sep 2005 06:10:27 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <bi@ccert.edu.cn>; Tue, 20 Sep 2005 08:07:53 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Tue, 20 Sep 2005 20:59:17 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <lai@motorola.com>
+To: bi@ccert.edu.cn
+Cc: qian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjE5yNW5pNf3vMfCvA==?=
+Date: Tue, 20 Sep 2005 20:58:51 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+报失:
+张璐   13141355624           钱包，黑色白斑点内有银行卡身份证 
+丢失时间9.18 地点西操附近
+刘伟   13466353141           钱包，棕色身份证银行卡北林出入证 
+丢失时间9.16 地点北区浴室
+李舟军 13505812759/51532256  钱包黑色IC卡银行卡餐卡身份证
+丢失时间9.17 地点紫荆园
+秦凌   13811319748/51531110  钱包红色kittyIC卡银行卡餐卡身份证
+丢失时间9.19 地点三教或六教
+刘新新 51531167              书包ELLEN红色内有钱包磁带书手机
+丢失时间9.16 地点桃李园
+[不详] 62777131              四把钥匙两大两小
+丢失时间9.17 地点主楼附近
+高原   13522011277           五把或六把有一把极小黄色钥匙
+丢失时间9.15 地点图书馆
+赵银   13488661413           眼镜一副
+丢失时间9.18 地点东操
+赵绪军 62778066              饭卡
+丢失时间9.18 地点不详
+刘宁静 13777391341           饭卡
+丢失时间9.15/16 地点十四食堂
+格勒巴桑13141201495          学生证
+丢失时间9.16 地点不详
+送交
+武瑞星   计算器    时间9.19  地点六教B区
+王睿禹 《物业管理》时间9.15  地点六教C区  

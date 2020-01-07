@@ -1,0 +1,31 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7V1socv011928
+	for <xia@ccert.edu.cn>; Fri, 2 Sep 2005 02:52:30 +0800 (CST)
+Message-ID: <200508310954.j7V1socv011928@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO malibotreasure) (malb03@166.111.203.148)
+  by localhost with SMTP; Thu, 1 Sep 2005 18:40:44 -0000
+From: =?gb2312?B?wu3A8rKo?= <yuan@mails.tsinghua.edu.cn>
+To: xia@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7SuevFrrXExKPKvcq2sfA=?=
+Date: Fri, 2 Sep 2005 03:04:57 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+Thread-Index: AcWI/xWUiTh2uxm6QWyTJ93ncFaG0Ak0M1Ug
+In-Reply-To: <321405761.05160@mails.tsinghua.edu.cn>
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1165
+
+呵呵，不能一堆，就5-6张
+所以说是本科毕业设计的水平嘛
+     标  题: Re: 我闺女的模式识别
+     
+     
+     哦，想象她在一堆报纸里掀来掀去的样子
+     : 年方二八一十六个月，能给俺挑报纸
+     : 要人民日报、参考消息什么的，我家闺女都能从5-6种报纸里面挑出来。识别率100%
+     : 语音识别能力博士水平，报纸识别能力本科水平
+     
+     --
+     

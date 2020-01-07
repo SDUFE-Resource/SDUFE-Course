@@ -1,0 +1,34 @@
+Received: from mailsvr.icst.pku.edu.cn ([162.105.163.117])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8F4nrgY000524
+	for <yi@ccert.edu.cn>; Fri, 16 Sep 2005 21:54:08 +0800 (CST)
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5B9B2.8ECC9B35"
+Subject: =?gb2312?B?ofEgvrTH67nY16K9stf5IsWj1r7J/b3MytrC/sy40afOu8LbzsS1xNGhzOK6zb/G0afC287EtcTQ
+tNf3Ig==?=
+X-MimeOLE: Produced By Microsoft Exchange V6.5.7226.0
+Date: Fri, 16 Sep 2005 22:05:54 +0800
+Message-ID: <3BF3883AB800694AA3296642EE8781602E83C1@icstmail.icstdom.icst.pku.edu.cn>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: =?gb2312?B?udjT2kNDRVJU1dDGuMfpv/ajrLG+v8bJ+rGj0dDH6b/2tcg=?=
+thread-index: AcW5so5MmpWRfBlsT0KLn2ZYXxwJZA==
+From: =?gb2312?B?emh1Z2VqaWFud2VpKNbuuPC9qM6wKQ==?= <yun@icst.pku.edu.cn>
+To: yi@ccert.edu.cn
+
+讲演人：牛志升 教授
+时间：9月20日（周二）晚7：00
+地点：理学院报告厅
+主办单位：清华大学研究生院
+牛志升教授将与你探讨如何确定研究方向、如何做好开题报告、如何撰写科技论文、以及在论文书写及投稿过程中的一些心得体会，欢迎各位同学到现场同我们的"良师益友"进行面对面的交流。
+牛志升教授简历：
+清华大学电子工程系教授、博士生导师，北方交通大学兼职教授，清华大学信息科学与技术学院副院长，第二、四、七、八届清华大学"良师益友"。
+牛教授1985年毕业于北方交通大学通信与控制系，1986年国家公派赴日留学，并分别与1989年和1992年获日本丰桥技术科学大学的工学硕士和工学博士学位。1992－1994年就职于日本富士通研究所，1994年回清华大学任教至今，并于：
+（1）1995年10月至1996年1月日本邮政省通信综合研究所客座研究员；
+（2）1997年2月至1998年2月日本日立公司中央研究所客座主任研究员；
+（3）2001年1月至2001年2月日本国立佐贺大学访问教授；
+（4）2002年2月美国纽约Polytechnic University访问教授。 
+牛教授的主要研究方向包括：
+(1) 宽带通信网络及其流量控制技术；(2)宽带无线接入及其资源优化管理技术；(3)移动因特网技术；(4)平流层通信技术。 
+牛志升教授曾经获得过日本电子情报通信学会(IEICE)PAACS奖、日本政府外国专家奖、日本通信振兴协会(TAO)电信科学进步奖、中国通信学会第六届全国青年通信学术会议优秀论文一等奖、清华大学青年教师教学优秀奖、宝钢教育基金优秀教师奖、教育部优秀青年教师资助计划、北京市师德先进个人奖、清华大学"学术新人"等奖项。并担任IEEE通信学会亚太地区执委会委员，IEEE通信学会北京分会主席，亚太地区通信会议（APCC）指导委员会主席，IEICE北京分会主席，以及清华大学首届国际博士生论坛无线通信分论坛主席。

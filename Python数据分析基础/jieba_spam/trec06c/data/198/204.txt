@@ -1,0 +1,33 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <long@ccert.edu.cn>; Wed, 28 Sep 2005 15:22:39 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 07:33:50 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 15:33:49 CST
+Date: Wed, 28 Sep 2005 15:33:49 +0800 (CST)
+From: liang ming <guan@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IDAuObXEzt7P3tGtu7fE3NC0s8m31sr9wvCjv8rHsrvKx7XI09oxo78=?=
+To: long@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+     是不是所有的无限循环小数都可以写成分数，似乎初中时课本上讲过。
+设无限循环小数：0.xxx...，x为n位自然数（循环节），
+证明 0.xxx... 可以表示为分数。
+证明：
+0.xxx... = 0.x + 0.00...0xxx...
+                   ~~~~~~(n个0)
+         = 0.x + 0.xxx.../10^n
+记 0.xxx... 为 y，
+y = 0.x + y/10^n
+解得 y = (0.x×10^n)/(10^n-1)
+亦即 y = x/(10^n-1)
+得证。
+比如 0.123123... = 123/(10^3-1) = 123/999。
+上述方程亦可严格证明 0.999... = 1。

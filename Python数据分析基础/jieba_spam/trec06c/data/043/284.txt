@@ -1,0 +1,30 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <che@ccert.edu.cn>; Fri, 26 Aug 2005 13:27:53 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 13:46:16 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 13:46:16 +0800
+Date: Fri, 26 Aug 2005 13:46:16 +0800
+From: feng@cernet.com
+Subject: =?gb2312?B?UmU6IKG2wt7J+sPFobehtsbfzuTKv6G3obbC0qG3obbM7NPrtdiht6Os09C40KGj?=
+To: che@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+《乱》的主题的确没什么创意
+来自于莎士比亚四大悲剧之《李尔王》
+大家都知道，莎士比亚关注的是人类内心永恒的矛盾、永恒的痛苦
+您说它陈腐，算是说对了，几千年来还在不停上演呢
+舞台上、生活上都是如此。
+     《罗生门》太黑暗压抑了。欣赏不了。
+     《乱》主题没什么创意，战斗场面比较精致。
+     《七武士》比较完美，很有教育意义。满大街都是义士，真让人热血沸腾。

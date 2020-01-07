@@ -1,0 +1,35 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <shen@ccert.edu.cn>; Fri, 16 Sep 2005 15:34:33 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <shen@ccert.edu.cn>; Fri, 16 Sep 2005 15:51:08 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <shen@ccert.edu.cn>
+	; Fri, 16 Sep 2005 15:51:08 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <shen@ccert.edu.cn>; Fri, 
+	Fri, 16 Sep 2005 15:16:09 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "lai" <lai@njnu.edu.cn>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfrzqrO0rT3yc/WuLu3?=
+Date: Fri, 16 Sep 2005 15:46:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+ 我就从不戴首饰，记得在我生日时，妈妈给买了条太阳花样的金手链。
+ 我一直没有戴过，只是放在盒子里。
+ 我想戴我最爱的男人送我的首饰。
+ 戴一辈子也不摘下。
+                                     请为我戴上指环
+         看见很多女孩子戴上指环，亮晶晶的，很好看。
+         其实很简单的的一个金属环，银色的光泽，柔和却不刺眼。你看见这指环，看见了指环主人的纤纤玉手，便看见了她的心性。

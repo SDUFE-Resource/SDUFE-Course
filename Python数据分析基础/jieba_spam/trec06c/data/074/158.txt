@@ -1,0 +1,19 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UNMoHg011058
+	for <rao@ccert.edu.cn>; Fri, 2 Sep 2005 21:22:55 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 21:25:00 +0800
+Message-ID: <325444295.10797@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 21:25:00 +0800
+Message-ID: <325444295.10780@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 21:25:00 +0800
+From: xin@mail.tsinghua.edu.cn
+To: rao@ccert.edu.cn
+Date: Fri, 2 Sep 2005 21:25:00 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILTzvNLGwMDto6zKx87StO3By8Lwo78=?=
+Content-Type: text/plain
+
+我觉得楼主失败在向他认错,这样说慌,我冷他一段时间再说
+     我来挖坑：
+     我是学计算机的，老公电脑坏了，所以一直拿我的电脑上网，上个月我渐渐发现，我电脑上gmail多出好几个帐户。我就问老公是不是他的，他一口否认，还说我冤枉好人。
+     我就奇怪啊，你不登陆的话IE是不会记忆的。后来我尝试破解，结果其中两个邮箱的密码都被我破解了，但还有两个没有搞定。打开那两个一看，发现里面全都是他的信。btw：我非常地不爽，不过我觉得这属于个人隐私，而且我理亏在先。所以这一口气就压了一个月。

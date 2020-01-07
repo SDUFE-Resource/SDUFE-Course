@@ -1,0 +1,37 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <wei@ccert.edu.cn>; Thu, 8 Sep 2005 01:21:57 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Wed, 7 Sep 2005 17:34:12 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Wed, 7 Sep 2005 17:34:12 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Wed, 7 Sep 2005 17:34:12 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "chen" <chen@iim.ac.cn>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?ofEgufLV97GxtPO1xMjI0MRnZ7vyysdtbbDvsLO96LG+yumjqLi91dWjqQ==?=
+Date: Thu, 8 Sep 2005 01:34:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+俺也是受人所托，说这些资料对她论文非常重要，所以想请
+哪位北大的同学帮忙借出来 然后俺复印一下（p99－p105），很快的
+哪位热心的gg或是mm愿意帮帮俺，谢谢啊。
+是mm可以报告你喜欢的冰淇淋，是gg的话，嗯，也报告你喜欢的冰淇淋
+呵呵，谢谢啊，回我的信箱啊，再
+下面是书的信息，谢谢啊
+I712.074/H24 
+个人著者: 
+Harris, Charles B.  
+题名:  Contemporary American novelists of the absurd / by Charles B. Harris.
+收藏处
+ 
+1 外文图书 闭架借书处  
+  2 外文图书 闭架借书处  
+  3 外文图书 美国文献室  

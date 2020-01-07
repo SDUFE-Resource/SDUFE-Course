@@ -1,0 +1,40 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j822KE0j026900
+	for <su@ccert.edu.cn>; Fri, 2 Sep 2005 12:24:50 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j822I2Cp027723
+	for <su@ccert.edu.cn>; Fri, 2 Sep 2005 12:23:30 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j822Hw7X027719
+	for <su@ccert.edu.cn>; Fri, 2 Sep 2005 12:22:35 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Fri, 2 Sep 2005 12:11:37 +0800
+Message-ID: <325626821.22783@mails.tsinghua.edu.cn>
+Received: from 202.38.188.130 by mails.tsinghua.edu.cn with HTTP;
+	Fri, 2 Sep 2005 12:11:37 +0800
+From: zeng@mails.tsinghua.edu.cn
+To: su@ccert.edu.cn
+Date: Fri, 2 Sep 2005 12:11:37 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILzNxO6/udW9yqTA+zYw1tzE6qOh?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: zeng@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+纪念七七是写的，在此重发
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+东瀛孤岛，鬣狗盘踞。彼状如侏儒，心似蛇蝎。借始皇之武功，得脱畜类之形状。承大唐之文治，难移兽性之冥顽。
+数百年妖氛渐炽，甲午一战，毁我水师，窃台湾酿百年祸患。及三十年后，土狼群集东北，野心窥觑中原。双七之日，造衅发难。血雨尽染长城内外，腥风狂扫大河上下。圣人教化之地，顿做屠城之所；诗书沐浴之民，俱为虎狼之餐。
+然天不灭中华，妖孽岂耐我何？悠悠一甲子，世事沧桑，先烈之英灵未远，如中天之日，永照神州。六十载光阴荏苒，奈何孤岛之间，幽魂飘荡；环球之内，戾气日盛，祥和渐远！追远思今，念及子孙，当富国强兵，复兴中华，方不负祖宗之文化，先烈之精神。

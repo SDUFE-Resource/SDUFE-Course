@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A5cufv027982
+	for <jiang@ccert.edu.cn>; Sun, 11 Sep 2005 07:34:03 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A5aHKJ091531
+	for <jiang@ccert.edu.cn>; Sun, 11 Sep 2005 07:31:37 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8A5aEwf091527
+	for <jiang@ccert.edu.cn>; Sun, 11 Sep 2005 07:31:21 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 07:20:30 +0800
+Message-ID: <326329923.15072@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Sun, 11 Sep 2005 07:20:30 +0800
+From: guan@mails.tsinghua.edu.cn
+To: jiang@ccert.edu.cn
+Date: Sun, 11 Sep 2005 07:20:30 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgt7TTs8quyrPMw9bczqe+29batPLFxrK7wbzP1s/zenotbXlob21lICjXqtTYKQ==?=
+Content-Type: text/plain
+Precedence: list
+Reply-To: guan@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 THUExpress 讨论区 】
+发信人: mintolive (minto), 信区: THUExpress
+标  题: 反映十食堂周围聚众打牌不良现象zz-myhome
+来自166.111.**.**的关注校园文明 发布于2005-9-11 17:49:09
+  
+    近段时间（一个月以来），十食堂边上，靠近黑车停靠的地方，白天老是有人聚众打扑克牌（聚赌行为有待查证），有个黑车胖司机在其中比较明显，其中有食堂员工围观或参与（因为穿了食堂制服），这个影响十分不好，堂堂清华大学，居然在十食堂这样的热闹地带出现聚众打牌行为，如有聚赌则更严重，请学校保卫部门和饮食中心加以管理，至于黑车问题就不多说了 

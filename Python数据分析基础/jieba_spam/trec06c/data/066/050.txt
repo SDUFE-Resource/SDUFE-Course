@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <zhu@ccert.edu.cn>; Thu, 1 Sep 2005 17:07:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <zhu@ccert.edu.cn>; Thu, 1 Sep 2005 17:20:33 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 09:09:44 -0000
+From: "wang" <wang@mail.tsinghua.edu.cn>
+To: zhu@ccert.edu.cn
+Cc: <ma@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILT6ztLNrMrCzsrSu8/C?=
+Date: Thu, 1 Sep 2005 17:20:31 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+抱歉，俺不懂
+     标  题: Re: 代我同事问一下
+     
+     
+       苏绣好还是杭绣好？
+     
+     : 苏州虎丘
+     
+     
+     --
+         情有多深  How deeply would my love hide 
+         爱有多长  How long could my love be bright 
+         我不问你  I don\'t wanna ask you about that
+         我问自己  I just ask myself every night
+     
+     

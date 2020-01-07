@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <zhao@ccert.edu.cn>; Fri, 26 Aug 2005 17:16:27 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 17:34:47 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 17:34:47 +0800
+Date: Fri, 26 Aug 2005 17:34:47 +0800
+From: shi@cernet.com
+Subject: =?gb2312?B?UmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0gu6rOqrrN1tDQy8Tcsru7pc/gsvDMqMLwo78=?=
+To: zhao@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+  这两个公司确实相互之间关系有些紧张..
+     我在国外几个国家待过，你所说的欧美大公司在战斗中被中国打垮的项目我也见了很多了。确实很另人欣慰。
+     但是我们要同时要看多，在很多很多国家，华为和中兴互相拼价格的现象。本来对外的报价已经很低了，任何一方都可以拿到项目，可是为了自己能拿到项目就不断的互相压价，最后都快赔本赚吆喝了。最终导致的是国家的损失，如果中兴和华为合作能对付外国公司，那么双方都有利
+     更可气的是，双方的员工（特别是领导）经常在国外见了都不愿意搭理对方，好象公司给他们植入的思想就是对方是自己的敌人。我有几次到使馆，看到只要中兴或者华为一方的人来使馆了，另外一方看到后马上就走了，不会在那里待着。而且双方如果同时在一个国家就到处送礼（那

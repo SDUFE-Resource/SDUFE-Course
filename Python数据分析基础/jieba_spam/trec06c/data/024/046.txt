@@ -1,0 +1,36 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <bi@ccert.edu.cn>; Mon, 22 Aug 2005 01:40:53 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <bi@ccert.edu.cn>; Mon, 22 Aug 2005 01:54:07 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 01:22:48 +0800
+Date: Mon, 22 Aug 2005 01:53:58 +0800
+From: "guan" <guan@wnt.com.cn>
+To: bi@ccert.edu.cn
+Cc: "lic" <qian@ccert.edu.cn>, "sunt" <bai@ccert.edu.cn>, "caoy" <zeng@ccert.edu.cn>,
+        "wangb" <ou@ccert.edu.cn>, "songhm" <xia@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgwb3V28L0v7zR0KGivMbL47v6oaLTotPvyuk=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+计算机部分：
+1. 考研数据结构历年真题   王为东  西安电子科技大学出版社   原价：20元          现价：4元（全新，含全国十大名校历年真题98-02年的）
+2. C 语言程序设计题解与上机指导  谭浩强  清华大学出版社  原价：20元   现价：4元
+3．C程序设计 （第2版） 谭浩强  清华大学出版社  原价：26元   现价：5元
+4．C程序设计试题汇编  谭浩强  清华大学出版社  原价：26元   现价：5元
+英语部分：
+1．新概念英语(3) 亚历山大等 大16开 外语教学与研究出版社 原价：18.9 元 现价：4元
+2．英语九百句 （基础篇） 16开  一本书六盒磁带   中山大学音像出版社  原价：38元
+（生活篇） 16开  一本书四盒磁带   中山大学音像出版社  原价：32元
+                                两本书十盒磁带共卖15元
+3．北京太奇培训学校2005年考研英语授课讲义（朱泰祺主讲）现价：6元（含500元辅导班所讲所有内容，一半书的价格，辅导班的效果，免去上课劳累之苦，俺也是买来的）
+4．2005年考研英语新增知识点讲义   张洪兵，朱泰祺    赠送
+5．最新大学英语四级考试全真试题名师讲解   上海交大潘晓燕   中山大学出版社      原价：27元     现价：4元（含3盘磁带）（部分书写）
+电话: 13693511684(可发短信)   截止时间：明天下午5点前（20号）
+量大更优惠。

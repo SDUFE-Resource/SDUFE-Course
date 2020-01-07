@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CBnxWH010976
+	for <shi@ccert.edu.cn>; Tue, 13 Sep 2005 16:59:34 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CC1vgD012744
+	for <shi@ccert.edu.cn>; Tue, 13 Sep 2005 17:11:32 +0800 (CST)
+Message-Id: <200509121201.j8CC1vgD012744@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 08:54:20 -0000
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: shi@ccert.edu.cn
+Cc: <zhou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0ae74df2yqew3NXfo62zyc6qu+nS9rPJuabV3yAo16rU2Ck=?=
+Date: Tue, 13 Sep 2005 17:11:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0000_01C5B7D4.D1894070"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW3kcMs0nWbSv5MS5yPiZTEuaRxmg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+【 以下文字转载自 FamilyLife 讨论区 】
+发信人: diaoke (雕刻), 信区: FamilyLife
+标  题: 学会做失败者－成为婚姻成功者
+虽然作者是个老外，背景、文化和中国人有差异，但是婚姻的问题是相通的，作者列举了生活中的一些琐事，也提出了自己的解决之道。个人觉得很值得一看。
+http://seal08.blogchina.com/
+题为《学会做失败者－成为婚姻成功者》

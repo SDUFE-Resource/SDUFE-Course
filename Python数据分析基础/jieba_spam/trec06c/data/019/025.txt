@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <yu@ccert.edu.cn>; Sat, 20 Aug 2005 22:21:53 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <yu@ccert.edu.cn>; Sat, 20 Aug 2005 22:35:07 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sat, 20 Aug 2005 22:03:48 +0800
+Date: Sat, 20 Aug 2005 22:34:58 +0800
+From: "zhan" <zhan@wnt.com.cn>
+To: yu@ccert.edu.cn
+Cc: "lic" <huang@ccert.edu.cn>, "sunt" <shen@ccert.edu.cn>, "caoy" <ni@ccert.edu.cn>,
+        "wangb" <ning@ccert.edu.cn>, "songhm" <zheng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILXX0L02MDDUqtXQxriz9by2ssbO8cjL1LHSu8P7?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+一周工作7天，600？你还要什么技术含量？做小时工也比这强多了。以后这种变态招聘少来这里了，看着让人就烦！
+     有什么好说这个黑的？什么样的职位什么样的钱，这个职位也就跟前台差不多不需要什么技术含量，也不像前台有身高相貌等要求，能给到6，800虽然说低但是也还行了？你说给多少？给6k？评什么？
+     黑？这个活高中毕业就能做了，大学毕业给不到1k的多的去了，读了四年大学也不过多了2，3百。黑不黑不是拿一个低级职位的收入跟一个中高级人才相比的。

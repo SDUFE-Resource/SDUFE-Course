@@ -1,0 +1,36 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M5vbgt005692
+	for <lei@ccert.edu.cn>; Sat, 24 Sep 2005 11:30:50 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8M5qUEM011899
+	for <lei@ccert.edu.cn>; Sat, 24 Sep 2005 11:26:40 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8M5qPKG011895
+	for <lei@ccert.edu.cn>; Sat, 24 Sep 2005 11:25:41 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 19856 invoked by uid 512); Sat, 24 Sep 2005 03:34:04 -0000
+Message-ID: <20050922060051.19855.qmail@stu.ee.tsinghua.edu.cn>
+From: yi@stu.ee.tsinghua.edu.cn
+To: lei@ccert.edu.cn
+Date: Sat, 24 Sep 2005 11:34:04 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?UmU6INK7sOO087zS16G1xLXYt721vbWlzrvT0Lbg1LbE2A==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+俺上下班高峰要30-80分钟，前者是一直打车的最快速度，后者是一直公车的最慢速度
+     搬的新家在南三环夏家胡同，公司在海淀，每天坐公交上班单程需要一个半小时左右，如果遇到堵车更是没准，每天到了公司觉得就剩半口气了，工作效率很差，晚上回到家吃饭收拾家洗洗澡，基本上也再做不了别的事情了，晚上也不敢出去玩，去了一趟三里屯，打车回家花了近五十
+     ＰＳ：我以前住在北二环，上班很方便，真是由俭入奢易，由奢入俭难啊　：（

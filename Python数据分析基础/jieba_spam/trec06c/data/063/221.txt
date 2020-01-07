@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UBi4GK007631
+	for <pan@ccert.edu.cn>; Wed, 31 Aug 2005 19:47:49 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7UBuk3X020990
+	for <pan@ccert.edu.cn>; Wed, 31 Aug 2005 20:00:31 +0800 (CST)
+Received: (eyou send program); Wed, 31 Aug 2005 19:50:10 +0800
+Message-ID: <325402385.30647@mail.tsinghua.edu.cn>
+Received: from 166.111.125.2 by mail.tsinghua.edu.cn with HTTP; Wed, 31 Aug 2005 19:50:10 +0800
+From: lin@mail.tsinghua.edu.cn
+To: pan@ccert.edu.cn
+Date: Wed, 31 Aug 2005 19:50:10 +0800
+Reply-To: lin@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMfrvcyjrLbBsqlvcrmk1/ejvw==?=
+Content-Type: text/plain
+
+不搞科研,博士基本没用
+现在就业形势不好,学历贬值
+能找好工作还是先工作吧
+我博士即将毕业,找的工作还不知道收入能否达到硕士毕业直接工作的同学高呢?
+        我现在是工科的应届硕士生，我想读博提高一下自己的科研能力，但是听说博士出去到学校当老师比较合算，如果当老师肯定大部分时间搞科研，这是我不想期望的。
+        我现在只是想通过读博提高一下自己的专业水平，但是不可能长期搞科研的，所以想问一下各位工科博士毕业后想不长期搞科研，应当去哪？
+        恳请各位指教，谢谢！

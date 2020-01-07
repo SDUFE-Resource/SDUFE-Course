@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <ye@ccert.edu.cn>; Fri, 23 Sep 2005 13:25:40 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <ye@ccert.edu.cn>; Fri, 23 Sep 2005 13:37:09 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 05:14:15 -0000
+From: "gan" <gan@mail.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Cc: <xue@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgUmU6vtbN4sjLtNPV4rz+ysLA77+0tb21xCDO0tKyy7XBvb7kzfXb8w==?=
+Date: Fri, 23 Sep 2005 13:36:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+文章只大概扫了一遍，看到和记得的几点：
+1、理想主义，不管是口号与否，理解就是理想。是，我们都知道这是幼稚，是不成熟，
+但这年头有人出来喊这个，做这个，这事本身就让人一阵心热，毕竟谁都有过那个时期。
+我只会去祝福，因为这样的人不能多，但决不能没有！来个当头棒喝很有意思么？
+2、对PAPER风的不齿，的确，现在的大环境就是这样，国内国外，一流末流都一样，除非
+你能跟了巨牛，他愿意养你5年，要出去混还是要这个。但是，同学，你自己问问自己，
+这真的是你想要的RESEARCH么？如果你也和我一样的确曾经的或者仍然的有那么一点点的
+无奈与愤怒，你会跳出来迫不及待的告诉他“RESEARCH就是这样的，你就从了吧”
+至于其他的大大小小，鸡毛蒜皮的破事谁有心思去管它，如果有人因为这个就跳出来影射
+THU如何如何，某系某人如何如何，那才是需要拍砖的。他这样做了吗？至少我在他的文
+中没有感觉出来，或者没有那个心思去管它挖它。如果有人天生嗅觉敏锐，能嗅出来为了
+这个大做文章对THU不利，大家也该去拍那些人吧？我就奇怪我没有觉得怎么地如何，怎
+么有人自己跳出来不断非要提醒我如何如何了呢？
+就算这个王垠是个精神病，满嘴胡话，他说这两点我有同感，我也一样会为他击节叫好。
+     1。有缺点的制度和环境谁都可以指责，错的就是错的，和指责人是不是很牛，有没有
+     人格缺点都没有关系。
+     2。paper应该是研究的自然结果，是表达自己想法的必要形式，而不应该成为评判的唯
+     一标准，更不是为了发paper而发paper
+     3.有很多研究生学会的不是如何提取别人文章的精髓，而是抓住细节不放，恶意攻击

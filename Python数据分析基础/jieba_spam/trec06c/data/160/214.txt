@@ -1,0 +1,102 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <fu@ccert.edu.cn>; Tue, 20 Sep 2005 21:42:11 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Tue, 20 Sep 2005 13:53:12 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Tue, 20 Sep 2005 13:53:12 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <fu@ccert.edu.cn>; Tue, 20 Sep 2005 07:04:09 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <fu@ccert.edu.cn>; Tue, 20 Sep 2005 09:01:35 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Tue, 20 Sep 2005 21:52:59 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <xu@motorola.com>
+To: fu@ccert.edu.cn
+Cc: che@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW7rPvK9dIMfrzsrH5buqw7/E6rbBsqm1xNHTxtqxz9K1tcTT0Lbgydmjvw==?=
+Date: Tue, 20 Sep 2005 21:52:33 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+☆─────────────────────────────────────☆
+   ldct (笨小孩) (Sat Sep 17 23:15:41 2005):
+有1/3么
+有没有直接就是毕不了业的（不能延期）
+决定读博了 
+怕怕
+☆─────────────────────────────────────☆
+   hollywood (好莱坞) (Sat Sep 17 23:37:47 2005):
+来问这个问题
+还不如好好准备
+发几篇IEEE trans 或mag
+这样说不定你还可以提前毕业，呵呵
+     有1/3么
+     有没有直接就是毕不了业的（不能延期）
+     决定读博了 
+☆─────────────────────────────────────☆
+   ldct (笨小孩) (Sat Sep 17 23:44:14 2005):
+IEEE trans和mag都是什么？
+我现在大四
+该做什么呢
+导师现在只是叫我去上一些研究生的课
+     来问这个问题
+     还不如好好准备
+     发几篇IEEE trans 或mag
+☆─────────────────────────────────────☆
+   wheel (动力) (Sat Sep 17 23:51:08 2005):
+决定了就好好干
+     有1/3么
+     有没有直接就是毕不了业的（不能延期）
+     决定读博了 
+☆─────────────────────────────────────☆
+   ldct (笨小孩) (Sat Sep 17 23:52:09 2005):
+那现在该做什么呢
+大四的课好像也不少 -_-
+     决定了就好好干
+☆─────────────────────────────────────☆
+   huangxg (阿黄) (Mon Sep 19 06:51:31 2005):
+博士没有固定时间，所以没有所谓延期的说法。
+我们班大概有1/4没有拿到博士学位
+     有1/3么
+     有没有直接就是毕不了业的（不能延期）
+     决定读博了 
+☆─────────────────────────────────────☆
+   theking (jacky) (Mon Sep 19 08:16:40 2005):
+国外的？
+不过国外的读博期间比国内读博要爽点，至少经济上有奖学金的话
+所以退出还可以接受。而国内一般的大家都是憋着口恶气
+赶快毕业，把这几年失去的赚回来，能赚多少就赚回多少，要不然就亏大了
+主要还是读博期间普遍受压迫很严重，如果中途再被迫退出，那是何等凄惨
+惨！惨！惨！
+     博士没有固定时间，所以没有所谓延期的说法。
+     我们班大概有1/4没有拿到博士学位
+☆─────────────────────────────────────☆
+   luckyboi (2006偶与上海有个约会) (Mon Sep 19 08:45:06 2005):
+enthusiasticly sp:)
+     国外的？
+     不过国外的读博期间比国内读博要爽点，至少经济上有奖学金的话
+     所以退出还可以接受。而国内一般的大家都是憋着口恶气
+☆─────────────────────────────────────☆
+   yiban (吃苦等于吃补) (Mon Sep 19 09:31:49 2005):
+拿不到学位，就这样拍拍屁股走人了？
+导师就没有任何责任吗？就没有任何说法吗？
+感觉如果学生没有拿到学位，则需要对导师的指导资格重新进行评估。
+     博士没有固定时间，所以没有所谓延期的说法。
+     我们班大概有1/4没有拿到博士学位
+☆─────────────────────────────────────☆
+   huangxg (阿黄) (Mon Sep 19 23:14:00 2005):
+大多数是自己要求退学的，个别导师还苦苦哀求，看不出
+导师有什么责任
+     拿不到学位，就这样拍拍屁股走人了？
+     导师就没有任何责任吗？就没有任何说法吗？
+     感觉如果学生没有拿到学位，则需要对导师的指导资格重新进行评估。

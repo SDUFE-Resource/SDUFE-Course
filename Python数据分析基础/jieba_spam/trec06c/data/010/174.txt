@@ -1,0 +1,47 @@
+Received: from admin.iscas.ac.cn ([159.226.4.201])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G5UY1f022031
+	for <wen@ccert.edu.cn>; Fri, 19 Aug 2005 06:09:39 +0800 (CST)
+Received: from jjy ([159.226.4.93])
+          by admin.iscas.ac.cn (Lotus Domino Release 6.5.1)
+          with ESMTP id 2005081613470205-2566 ;
+ Fri, 19 Aug 2005 06:26:05 +0800 
+Date: Fri, 19 Aug 2005 06:22:41 +0800
+From: "ding" <ding@admin.iscas.ac.cn>
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsbG+qbXE0+rSuQ==?=
+Organization: JOS
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+ 2005-08-16 13:47:02,
+	Serialize by Router on mailserver/iscas(Release 6.5.1|January 21, 2004) at
+ 2005-08-16 13:47:14
+Message-ID: <OF8DB6E2ED.E6F74C77-ON4825705F.001FC5C5@admin.iscas.ac.cn>
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon421232817784_====="
+
+  行走在北京的雨夜之中
+  分不清自己内心中是大气磅礴还是孤独渺小
+  一种豪情 一种欲哭无泪的悲伤
+  父亲发来短信：北京下雨，冷了吧？生活学习还顺利吗？
+  一种感动的暖流在流淌。
+  这两年，一直追求学业的坦途与成功在奔波着，
+  读了不错的学校不错的专业，
+  学会了“勇敢”，却忘记了感怀。
+  
+  大部分时间都是自己，无论吃饭逛街，还是旅游。
+  当内心是孤单的自己的时候，
+  才感到远方家人的牵挂，
+  回想起来他们其实一直都是这样，
+  只是那些杂事忽略了这些温微的牵挂。
+  有这样一种爱，
+  没有分手没有结束，
+  总是那样源源不断、悄无声息的给予，
+  哪怕给予爱的人受到了我们无意间的语言伤害，
+  也从不会怪罪无知的我们。
+  他们就是也只可能是――父母！
+  几年前看杂志上说“您”字是“你在我心上”，
+  永远在一个人心上的，只有他们的孩子，直到不能再睁着眼看着孩子。
+  我们这些尚未为人父为人母的人啊，
+  有何资格说在心上呢？永远吗？
+  永远有多远？
+  

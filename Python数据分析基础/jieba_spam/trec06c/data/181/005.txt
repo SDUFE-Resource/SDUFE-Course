@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <sun@ccert.edu.cn>; Sun, 25 Sep 2005 00:43:49 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <sun@ccert.edu.cn>; Sun, 25 Sep 2005 00:55:18 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 16:32:24 -0000
+From: "yu" <yu@mail.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Cc: <wu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INX3yMsxMC4xweizv8bvs7XIpczssLLDxcn9ufrG7A==?=
+Date: Sun, 25 Sep 2005 00:54:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+     给你讲一下我的经历吧：去年十。一，和几个同学去看升旗，当时是穿着羽绒服去的，结果，广场关闭，从王府井那就不让进了，连广场都看不见。人山人海都掎在地下通道里，空气几乎让人窒息，无奈，我们只好出来。那天晚上刮风，我们穿着羽绒服都冷的够呛。所有的旅馆都爆满，也没有地铁，所以我们只能在王府井溜达一晚，惨痛的经历啊，所以，要去看升旗要三思而后行。五一好一点，天也不太冷，还能在第一排，呵呵

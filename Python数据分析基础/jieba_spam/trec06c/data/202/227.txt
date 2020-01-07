@@ -1,0 +1,30 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <weng@ccert.edu.cn>; Thu, 29 Sep 2005 07:36:37 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Wed, 28 Sep 2005 23:47:47 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 07:47:47 CST
+Date: Thu, 29 Sep 2005 07:47:47 +0800 (CST)
+From: liang ming <xie@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILTTvqvSx8+1y7a1vb3wyNqyqaOstPO80rDvztLGwLzb0rvPwr/J0NDQ1LDJ?=
+To: weng@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+我说的基础不好
+你前四年都是学工科的
+人家前四年都是系统的专业知识
+人家对金融的理解，某些细节的理解都和你不一样了
+这个不是说排名看出来的
+但愿你能明白我得意思
+当然什么事情都不是绝对的
+要是我选，本来就是交叉的，干吗非要读博那，即使拿到博士学位的也不能说是高端人才啊
+我觉得出去工作更有优势
+再不出去工作，你交叉的那点优势也没有了，就成了半路出家了
+     不知道读博或者成为高端人才需要什么样的基础？我前面说的实力不足只是和当时争外推名额的那几个牛人相比，呵呵。我自己在系里的排名大概是28/150，要在我们系争取到直博名额还是没有问题，只是不想在这个系呆那么久

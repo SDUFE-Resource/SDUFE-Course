@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83CBlYV005279
+	for <lu@ccert.edu.cn>; Sun, 4 Sep 2005 10:59:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83COHdV019350
+	for <lu@ccert.edu.cn>; Sun, 4 Sep 2005 11:12:01 +0800 (CST)
+Message-Id: <200509031224.j83COHdV019350@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 02:59:32 -0000
+From: "chi" <chi@mail.tsinghua.edu.cn>
+To: lu@ccert.edu.cn
+Cc: <shen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INbQyNXT0brD0r3Uur7gwOvH5buq09C24NS2o7/U9cO019+woaO/?=
+Date: Sun, 4 Sep 2005 11:11:54 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5B0C5.716D46C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWwgmMrCakV2o5FTJGgH6GL8DeD6Q==
+
+     听不少姐妹说，那不错，想到中日医院生。
+     不知道离清华有多远，打车的话得多少分钟？大约比海淀妇幼远多少？
+     收费不知道贵不贵，什么价位？
+从清华过来是远了点
+中日在北三环跟四环之间，中医药大学北边
+对外经贸大学南边，是什么樱花东街的路上
+打车可能要一个小时了（普通堵车的情况）
+比海淀妇幼当然远多啦，
+收费的话我感觉三级甲等都差不多
+顺产3K，剖腹6-8K
+现在生孩子都不省钱的，该花的哪个医院都会让你花上
+陪护是指生完后可以有家属在医院陪床睡
+陪产是指在顺产时可以有家属在身边鼓劲、加油、安慰啥的，呵呵
+中日是可以陪护，不可以陪产
+不过有陪护比较好，因为一般医院在产后对孕妇照顾得都不到位
+对婴儿倒还都不错。

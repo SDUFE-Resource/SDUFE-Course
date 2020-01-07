@@ -1,0 +1,18 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7CC5Jst024179
+	for <ke@ccert.edu.cn>; Tue, 16 Aug 2005 14:52:18 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7CCIo9Y018514
+	for <ke@ccert.edu.cn>; Tue, 16 Aug 2005 15:05:49 +0800 (CST)
+Received: (eyou send program); Tue, 16 Aug 2005 15:00:44 +0800
+Message-ID: <323848825.13802@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Tue, 16 Aug 2005 15:00:44 +0800
+From: xiao@mail.tsinghua.edu.cn
+To: ke@ccert.edu.cn
+Date: Tue, 16 Aug 2005 15:00:44 +0800
+Reply-To: xiao@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgv7zR0Cy40L710bnBprrDtPM=?=
+Content-Type: text/plain
+
+基础较差,虽然每天都能保证12个小时的学习时间,可是感觉自己的进步那么缓慢,自己开始决定考研时已经是在别人开始复习的三个月后,现在感觉和别人的差距越拉越大,时间在一天天过去,可感觉进步太慢了,有时会突然怀疑自己此刻所做的是不是最正确的,比如说背单词,坚持了一段时间,可发现总也记不住,效果总也不好,就会怀疑方法是不是正确,越想越烦,突然之间什么也不想做了...压力好大啊,说不清楚,自己也不知道问题出在什么地方

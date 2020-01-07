@@ -1,0 +1,24 @@
+Received: from smtp119.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7Y8VQ022915
+	for <liao@ccert.edu.cn>; Thu, 18 Aug 2005 19:24:36 +0800 (CST)
+Received: from yxl (unknown [211.147.9.200])
+	by smtp119.sohu.com (Postfix) with ESMTP id 1732903B5A28
+	for <liao@ccert.edu.cn>; Thu, 18 Aug 2005 19:37:40 +0800 (CST)
+Date: Thu, 18 Aug 2005 19:31:57 +0800
+From: "tao" <tao@sohu.com>
+To: liao@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1NnOyr6tvMPRp7+80dA=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="=====001_Dragon043358570236_====="
+Message-Id: <20050816074715.1732903B5A28@smtp119.sohu.com>
+
+上一次，第一回发贴，谢谢大家回复。 今天问的各位详细点吧。
+       背景：我的情况：去年考研 英86 政78 去年选的专业没数学，后来觉得很不爽，我心里总觉得没数学的专业将来。。。[打住了，不招惹人了，呵呵，这是我的想法]  
+今年考，想来想去，考经济吧。 我英语比较强，但是 ： 本科时因为各种垃圾原因吧（主要是我）补考太多没学位证了，而且俺本科院校也是个垃圾。 就怕上了清华复试挨排挤。[臭学校的臭学生 ：*] 
+     
+      我要问的问题是：1，清华的经济，（我准备考西方经济学方向，我的想法是： 从经济类的方向安排来看，西经应该是计量经济学的应用 [复试考的就是计量经济学] ；计量经济学应该是偏重数学的 ，理论方面的） 不知道我的想法正确不？ 
+                      2，清华的管理比较厉害，这我知道，但经济各专业都很差么？经济考清华本来就吃亏[难度高回报小] 。 但是清华的技术经济学又是395的分数线 。 大家过来人怎么看法？
+                      3，我并非经济专业现在才准备 达到“够用分数”的风险大小如何？
+                                                  谢谢各位啦 

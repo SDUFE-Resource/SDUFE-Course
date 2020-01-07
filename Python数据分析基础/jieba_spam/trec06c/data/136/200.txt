@@ -1,0 +1,45 @@
+Received: from hotmail.com (bay9-f13.bay9.hotmail.com [64.4.46.117])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E3dVC4024093
+	for <zhou@ccert.edu.cn>; Thu, 15 Sep 2005 17:46:24 +0800 (CST)
+Received: from mail pickup service by hotmail.com with Microsoft SMTPSVC;
+	Thu, 15 Sep 2005 02:58:13 -0700
+Message-ID: <BAY9-F13DCF915AAD1C8AC2ACE8AB09F0@phx.gbl>
+Received: from 63.215.198.21 by by9fd.bay9.hotmail.msn.com with HTTP;
+	Thu, 15 Sep 2005 09:58:13 GMT
+X-Originating-IP: [219.238.94.8]
+X-Originating-Email: [longchuanok@hotmail.com]
+X-Sender: longchuanok@hotmail.com
+From: =?gb2312?B?wfogtKg=?= <jian@hotmail.com>
+To: zhou@ccert.edu.cn
+Bcc: 
+Subject: =?gb2312?B?ofEgW9XQxrhdyO28/r+qt6K+rcDt?=
+Date: Thu, 15 Sep 2005 17:58:13 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; charset=gb2312; format=flowed
+
+诚聘英才
+我们需要一流的团队，我们提供一流的薪酬！
+公司简介
+信达网视是提供以p2p技术为基础的面向网络电视的多媒体内容播放、分发和管理平台的技术提供商。公司创建于2004年，现于美国和中国北京办公。信达网视是p2p技术的前沿公司和IPTV的积极推动者。
+我们的目标
+以一流的宽带多媒体信息产品和全面融合的解决方案，服务于电信运营商与有线电视提供者，探索中国发展互动电视的技术、标准和运营模式，为开创中国数字互动电视及家庭多媒体娱乐－信息－通信发展新纪元而努力！成为中国领先的宽带网络互动媒体技术和服务的提供者。
+我们的产品
+-       IPTV整体解决方案及点对点的IPTV服务。
+-       用户通过客户端软件接入我们的服务后，可以通过电脑或机顶盒，享受任何可以上网的节目。更重要的，用的人越多越流畅。
+招聘职位
+软件开发经理
+职位描述： 
+公司软件产品的开发管理;
+开发工作量评估;
+优化开发过程;
+项目进度和质量的监控以及开发团队的管理;
+互联网产品的运营管理.
+基本要求： 
+本科及以上学历，计算机或相关专业;
+五年以上计算机软件开发经验, 二年以上产品化软件开发项目管理经验，对于开发管理有很好的方法与经验; 
+精通C/C＋＋，熟悉TCP/UDP，有良好的编程规范及开发技能;
+有较强的分析设计能力；良好的团队协作能力，有良好的合作精神和主动性，有良好的学习能力;
+高昂的创业激情，高度的责任感和自觉性, 有在压力下确保项目完成的经验
+有P2P经验者优先;
+有Windows API开发经验者优先.
+请将您的简历以所申请职位为主题发送邮件至：hr@molet.com ，请勿携带附件。

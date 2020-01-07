@@ -1,0 +1,27 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9chH1007867
+	for <zhu@ccert.edu.cn>; Tue, 27 Sep 2005 06:33:30 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	by mail.cert.org.cn (8.11.6/8.11.6) with SMTP id j8Q8wiL31789
+	for <zhu@ccert.edu.cn>; Tue, 27 Sep 2005 05:53:49 +0800
+Message-Id: <200509260859.j8Q8wiL31789@mail.cert.org.cn>
+From: "qian" <qian@cert.org.cn>
+To: zhu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+X-mailer: Foxmail 4.2 [cn]
+Disposition-Notification-To: "JiYuchun" <jyc@cert.org.cn>
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon701566503741_====="
+Date: Tue, 27 Sep 2005 06:39:28 +0800
+
+我本不了解王垠的情况，也一直没有太关注这件事情。刚才到163网站上看了一下，大致弄
+清楚发生了什么事情。
+我觉得pengfei的说法能够得到一些人的赞同，但我们不能拘泥在这一点上，因为我们的目
+标不应是打击王垠，而是能给我们的教育和社会带来有益的引导。
+王垠否定的是什么？他期望的是什么？他否定的是教授他知识、指导他研究的老师吗？他否
+定的是清华大学――我们国家的最高学府吗？他期望的是宣扬自己的聪明才干吗？他期望的
+是外国的高等学府吗？
+不可否认，他的文中有这样的内容。但从根本上说，他否定的是应试教育，期望的是创新的
+氛围，期望一种解决问题的成就感。这点我们还要打击限制吗？
+     总觉得一个人的声音确实很小，但是看了王同学的文章和很多同学的回复，觉得大家对于我们国家的科研和我们清华大学的一些看法还是有些偏颇的，所以有必要把我心里的想法说出来。

@@ -1,0 +1,43 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82FXXc8032690
+	for <kong@ccert.edu.cn>; Mon, 5 Sep 2005 03:33:30 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FVva4032094
+	for <kong@ccert.edu.cn>; Mon, 5 Sep 2005 03:32:07 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FVsOj032090
+	for <kong@ccert.edu.cn>; Mon, 5 Sep 2005 03:31:50 +0800 (CST)
+	(envelope-from cmk@ns.6test.edu.cn)
+Received: from [221.218.34.129] (helo=[192.168.0.225])
+	by ns.6test.edu.cn with asmtp (Exim 4.12)
+	id 1EBEP4-000214-00; Mon, 5 Sep 2005 04:28:30 +0800
+Message-ID: <43187389.7080805@ns.6test.edu.cn>
+Date: Mon, 5 Sep 2005 03:45:09 +0800
+From: Maoke CHEN <cao@ns.6test.edu.cn>
+User-Agent: Mozilla Thunderbird 1.0.2 (Macintosh/20050317)
+MIME-Version: 1.0
+To: kong@ccert.edu.cn
+Subject: Re: [TOEFL] =?GB2312?B?aGVscH5+fsutwcu94mJ0tchwMnDTptPDtcTTptPDsuM=?=
+	=?GB2312?B?uPHKvaO/?=
+In-Reply-To: <200509011321.j81DLpFM024763@gradinfo.net.edu.cn>
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: 8bit
+Cc: yang@ccert.edu.cn
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     和mm分手三个月,其中有两个月mm都打电话给我,希望我们能够不要分手,但是我没有同意.不可否认,我很爱我的mm(分手的原因我不想说,每个人都有苦衷的).在还没有到三个月,我下定决心,放弃一切,要和mm在一起.我千里迢迢的过去,发现mm和另外一个男生已经好上了,并且都让那个男的见家长了.
+     我心理很不爽,就算我们分手,并且mm还是说很爱我,这就是爱我的结果么?
+     我很怀疑我的异地恋她是否给我绿帽子了,很不爽
+算了，释然吧

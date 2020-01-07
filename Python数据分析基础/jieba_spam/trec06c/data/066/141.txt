@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <li@ccert.edu.cn>; Thu, 1 Sep 2005 18:19:54 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <li@ccert.edu.cn>; Thu, 1 Sep 2005 18:32:29 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 10:21:40 -0000
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Cc: <lian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM+jzfvKx77kusU=?=
+Date: Thu, 1 Sep 2005 18:32:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+我不知道为什么所有的人都把爱情描绘的这么的刻骨铭心,我一直在怀疑,想知道这是什么感觉,到底是一种什么样的感觉,20多岁的男人,没有恋爱过,哈,朋友说我是人生的一大失败.
+各位是不是我活着有一点窝囊呀?

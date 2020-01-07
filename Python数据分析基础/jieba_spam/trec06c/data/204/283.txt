@@ -1,0 +1,26 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <tan@ccert.edu.cn>; Thu, 29 Sep 2005 16:26:30 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 08:37:37 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 16:37:37 CST
+Date: Thu, 29 Sep 2005 16:37:37 +0800 (CST)
+From: liang ming <gan@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMWusqnKv9XmtcS+zcTHw7TE0bSmxa7F89PRwvCjvw==?=
+To: tan@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+你错了，我并不想混个博士，工作的时候我努力工作，老板交给我的任务我都努力
+完成，下班之后我就是普通的女孩子，我生活并不郁闷。
+女博士不是第三类人，如果你这么认为只能说你自卑。
+我同学的妈妈就是博士，很优雅，而且上一辈的人都没有人歧视女博士，不知道现
+在的人为什么天天都说女博士怎么怎么地，纯粹的病态心理。
+     严格的说，你只是想混个博士，只有博士名，没有博士实
+     你说的这类，严格的说，是生活郁闷型
+     干什么不好，非要读这个来增加筹码

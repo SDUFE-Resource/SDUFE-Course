@@ -1,0 +1,26 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <yana@ccert.edu.cn>; Thu, 29 Sep 2005 07:47:02 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 23:58:13 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 07:58:12 CST
+Date: Thu, 29 Sep 2005 07:58:12 +0800 (CST)
+From: liang ming <yana@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INXi1tbH6b/21PXDtLDs?=
+To: yana@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+跟她步调一致
+偶以前是夜猫，晚上2点睡早上10点起的，
+但是那些个有信仰的，一大早5点先吸尘器然后开始唱赞歌..偶就只好跟人家同步了，
+三天就改过来了。12点睡5点起，跟bt了一样，也不困:D。都半年了
+     如果你们楼上的人整天2点睡觉6点起床（先别考虑她怎么可以这么有精力），在她安定
+     之前在你头顶上制造出各种各样的声音来，让你入睡不得直至崩溃，而你跟她已交涉过
+     5次，她态度好，但总也改不了坏习惯，走路重，桌椅板凳照旧在地面上拉来拉去，遇到

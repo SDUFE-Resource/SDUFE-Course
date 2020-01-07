@@ -1,0 +1,31 @@
+Received: from netarchlab.tsinghua.edu.cn ([202.112.49.247])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S9PC3p028193
+	for <zeng@ccert.edu.cn>; Thu, 29 Sep 2005 11:28:27 +0800 (CST)
+Received: from nearxlz (th077173.ip.tsinghua.edu.cn [59.66.77.173])
+	by netarchlab.tsinghua.edu.cn (8.11.7p1+Sun/8.11.7) with ESMTP id j8S9aPo04715;
+	Thu, 29 Sep 2005 11:39:40 +0800 (CST)
+Message-Id: <200509280936.j8S9aPo04715@netarchlab.tsinghua.edu.cn>
+Date: Thu, 29 Sep 2005 11:40:51 +0800
+From: "zhou"<zhou@netarchlab.tsinghua.edu.cn>
+Reply-To: zhou@netarchlab.tsinghua.edu.cn
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgMDUtMDYgU2FuZHZpa8flu6q089Gn0KPUsND7vbLV0Ma4u+62ryAo16rU2Ck=?=
+X-mailer: Foxmail 5.0 beta1 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+“WE MAKE IT POSSIBLE” 05-06 Sandvik清华大学校园宣讲招聘活动
+    来自瑞典的Sandvik（山特维克）集团，是一家在建筑，材料，矿业等行业享有世界领先地位的高科技公司。业务经营遍布全球130多个国家和地区，共拥有38000多名员工，年销售额近550亿瑞典克朗。八十年代中期，Sandvik在中国建立了第一个办事处，到现在的山特维克中国有限公司，山特维克国际贸易(上海)有限公司，山特维克传动系统有限，山特维克钢铁(青岛)有限公司，山特维克汤姆洛克洛阳机械有限公司，山特维克香港有限公司，Kanthal Electroheat Hong Kong Ltd等七家企业，二十多年来Sandvik参与和见证了中国经济的腾飞和发展。此次Sandvik来到清华校园，希望与杰出优秀的你进行面对面交流。
+10月12日
+第一部分：宣讲活动
+时间：13:30~17:30
+地点：清华大学理学院报告厅
+特别提示：40个职位虚席以待，另外有2个免费赴瑞典了解Sandvik公司的机会！
+第二部分：晚宴
+时间：18:30~20:30
+地点：清华紫光国际交流会议中心
+只需要简单得发送邮件到ASIC@tsinghua.edu.cn便可获得邀请。具体的招聘计划和活动安排请见附件
+WE MAKE IT POSSIBLE，期待你的参与。
+承办：清华大学学生对外交流协会

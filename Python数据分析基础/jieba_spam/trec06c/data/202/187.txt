@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFG0025934
+	for <ma@ccert.edu.cn>; Thu, 29 Sep 2005 06:59:49 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Wed, 28 Sep 2005 22:45:23 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "bi" <bi@mail.tsinghua.edu.cn>
+To: ma@ccert.edu.cn
+Cc: "Duan Haixin" <shi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM/IwLTH7Nej0rvPwsPmytTNqLn9o6zU2cfrvcy087zSvLi49s7KzOI=?=
+Date: Thu, 29 Sep 2005 07:10:40 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+专业不懂....
+只是认识一个高性能所刚毕业的人
+     前几天面试清华cs，面完后高性能所的杨所长和我谈了一下，表示愿意接受我，只等上报学校审批了，呵呵，so高兴：）
+     杨所长说他们是实验室集体招生，和我谈了一下，听他的意思，似乎我可以自己选愿意学习的方向，是这样么？好像也没有规定我什么时间之前要定下方向，以前的师兄姐们，你们也是这样的么？
+     我看了一下高性能的几个方向

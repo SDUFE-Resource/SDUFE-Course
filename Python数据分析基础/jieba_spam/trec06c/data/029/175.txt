@@ -1,0 +1,31 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <ning@ccert.edu.cn>; Tue, 23 Aug 2005 09:46:44 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <ning@ccert.edu.cn>; Tue, 23 Aug 2005 09:59:55 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "ma" <ma@126.com>
+To: ning@ccert.edu.cn
+Cc: <xie@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IKG0yq7D5sLxt/yhtdau09qhtMbfvaOhtbXEzuTPwC4uLg==?=
+Date: Tue, 23 Aug 2005 09:59:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+说起十面埋伏，我想起了《幽默大师》里的一句评语：
+“这是一部很幽默的作品，比我们还幽默”
+而且当时还用了一幅插画来描述整个电影的意境：
+背景左中右三个部分分别用夏天的长城、叶子黄时的欧洲某个地方、还有一个不知季节的
+希腊神庙拼接起来，前面有一男一女在背景中穿梭着，
+男的喊：“来，让哥哥抱抱”。女的喊：“讨厌”。
+嗬嗬，换个角度把它当成喜剧片来看还真不错：）
+     我还是很喜欢〈七剑〉的，
+     在现下这样的以越华丽越唯美的武侠为主流的电影里面，
+     像&lt;七剑&gt;这样还有一丝原始气味的武侠电影已很少了。

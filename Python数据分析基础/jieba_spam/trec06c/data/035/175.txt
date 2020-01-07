@@ -1,0 +1,22 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <liao@ccert.edu.cn>; Wed, 24 Aug 2005 23:09:57 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 23:23:04 +0800 (CST)
+Date: Wed, 24 Aug 2005 23:16:50 +0800
+From: "li" <li@sohu.com>
+To: liao@ccert.edu.cn
+Cc: "yxl" <huang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILXa0rvGqrei1Nq/vNHQsOY=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+这个很难
+         我现在跟lp一起在清华某系读研，我们都是直推的，开学就要研二了。一年过去了，觉得这里的学习和研究跟我所想要的实在是差得很远，老板就像一个刚爆发了的资本家一样，不学无术且自以为是。当初推研的时候成绩不好，觉得不管什么地方都行，好歹混个清华的硕士文凭吧
+         虽然浪费了一年时间，可是在这一年里近水楼台追到了lp，实在是很划算。谢谢lp支持我，跟你结婚是我有生以来作出过的最英明的决定。要让爸爸失望了，他老人家一直想让我安安稳稳读到毕业。我还是觉得如果我不这样做，以后我会后悔一辈子。对现在的老板，虽然有一肚子
+         以后就常驻这边了，跟各位xdjm一起好好做准备。我想考CS，数学英语忘得差不多了，专业课除了数据结构别的也一窍不通，要做的事情还有很多。大家一起加油吧：）

@@ -1,0 +1,30 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <shen@ccert.edu.cn>; Wed, 14 Sep 2005 05:09:41 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Wed, 14 Sep 2005 05:21:40 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <shen@ccert.edu.cn>; Wed, 14 Sep 2005 05:21:39 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <lei@dlut.edu.cn>
+To: shen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgzt7EzrCho6zO0rzS0KHX07K7u+Gz1MTMxr8=?=
+Date: Wed, 14 Sep 2005 05:21:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+一开始医院说千万不要用奶瓶，否则小家伙偷懒，不吃母乳，
+当省直一样一直遵守着…………
+42天体检，大夫一听，说赶紧让孩子学吃奶瓶，小时候学这个
+快，否则以后不会吃奶瓶，回家后就尝试，这小子还真是，就
+是不吃奶瓶，尝试过无数次了，屡试屡败，头疼啊
+国庆节过后就该上班了，也就中午能够回来，不知道咋办了？？
+以前我婆婆还安慰说没有关系，等他饿了，肯定要吃的，饿了他
+几次，给他奶瓶，哭得哇哇的，就是不吃，看样子根本不会，就
+知道用舌头舔舔。我婆婆现在也开始着急了，唉……

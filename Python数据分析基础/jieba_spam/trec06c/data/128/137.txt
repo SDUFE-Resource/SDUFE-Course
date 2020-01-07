@@ -1,0 +1,30 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <che@ccert.edu.cn>; Wed, 14 Sep 2005 02:20:38 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Wed, 14 Sep 2005 02:32:37 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <che@ccert.edu.cn>; Wed, 14 Sep 2005 02:32:36 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <weng@dlut.edu.cn>
+To: che@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztLS0b6ttPPI/cHL?=
+Date: Wed, 14 Sep 2005 02:32:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    今天心情真的很差，大二时的成绩出来了，全系220人，我竟然到了120名。而我心仪的一个女孩从一个外系转来的到了系的第二名。心里真的很痛，感觉很是丢山东人的脸。
+    瞧瞧大学这2年，我都学会了什么？高三八个月的苦读好不容易换来了一个大学，而现在，已经白白的过去了2年了。
+    大学的第一个学期，感觉好不容易考上了大学，应该歇歇了，于是就天天去机房，去聊QQ，去打cs，一直到期末考试，我的心都没有收下来，但由于我的基础比较好吧，大一的上学期，我不但没有挂科，而且成绩还在前面。
+    大一的下学期，依旧是玩，依旧是每天去机房，终于有报应了，当年，物理挂了，自己当时郁闷了几天也就过去了。
+    大二开始了，学校允许大二学生买电脑了，我在开学的第一个星期就买了一台，买了以后是天天玩电脑，当时我对电脑还不是太熟悉，从那时起，我就经常上smth了，而且已经能熟练的用term登陆了，但是除了自己的电脑有毛病的时候，我基本上还是聊天，玩游戏，还下了不少hp。这学期，我又挂了一门，电路分析基础。
+    大二的下学期，我稍微知道学一点，终于没有挂科。
+    从一上大一我就梦想着研究生能在cas上，可是这cauc换成cas是何等的困难啊！我看了系里最近几年的考研情况，每年只有3个左右的人能考上cas，3:220，这比例能轮到我吗？就看我现在的学习情况，四级到现在还没有过，高数也基本上都上忘的差不多了，凭什么考上cas啊！虽然自己高中苦读了八个月考上了大学，所以到现在我还幻想自己再次成为黑马，可是我心里也很清楚，再怎么也不会像高三时那样学习了，也没有那样的学习条件了。更主要的是，再也没有什么动力能让我像高三时那样了。
+    虽然都大三了，自己对编程还是一无所知，可能叫我用c和java编个记事本或者日历我都编不出来，二年了，我仅仅破解过别人的一个软件，用黑客工具黑过学校的一个内网，已经基本上熟悉了linux，再加个asp.net。再次，我再也不会别的了。
+    现在，马上就该准备考研了，能不能把握住，也全靠自己了。高三时能苦读是因为一个女孩当做动力，而现在，我真的没有任何动力。

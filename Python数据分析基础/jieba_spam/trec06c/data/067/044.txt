@@ -1,0 +1,22 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7VBhNSC014602
+	for <fan@ccert.edu.cn>; Thu, 1 Sep 2005 20:54:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7VBtw7i022144
+	for <fan@ccert.edu.cn>; Thu, 1 Sep 2005 21:06:58 +0800 (CST)
+Message-Id: <200508311155.j7VBtw7i022144@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 1 Sep 2005 12:56:09 -0000
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: fan@ccert.edu.cn
+Cc: <cao@ccert.edu.cn>
+Subject: =?gb2312?B?ofEguty24MqxuvK40L71yse63M6iw+61ww==?=
+Date: Thu, 1 Sep 2005 21:06:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0029_01C5AE66.00A97550"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWuIvJD9+7eCeTQQwOw2n3KTdlY7A==
+
+去年爸爸妈妈一时兴起，要在北京买房子，于是我就屁颠屁颠地看了房子，因为那时候哥哥弟弟在家里，我在北京，所以买房子地事大多就放在我身上了。开始说买三套一样的，后来因为只有我一个人在，哥哥弟弟还不知道什么时候才会来北京，放那么多钱也是浪费，于是就先买了一套。弟弟还没有成家，对房子还没什么概念。嫂子是很贤惠的人，即使心里有不高兴的，也不会表露什么，但是哥哥就有点不太高兴了，虽然为了大家的情绪，爸爸署了他自己的名字。后来一说起来，别人都以为是给我买的，搞得我很郁闷。今年在家里那边，爸爸做房产给哥哥弟弟每人留了一套。想想也挺难过的，爸爸妈妈一直都是为了我们，又害怕我们有想法，做事尽量的一碗水端平了，但还是有些时候倍被人误会，唉！

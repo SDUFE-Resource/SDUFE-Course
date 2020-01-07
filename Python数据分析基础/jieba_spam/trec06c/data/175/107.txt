@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <gao@ccert.edu.cn>; Sat, 24 Sep 2005 00:26:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <gao@ccert.edu.cn>; Sat, 24 Sep 2005 00:37:28 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 16:14:28 -0000
+From: "lai" <lai@mail.tsinghua.edu.cn>
+To: gao@ccert.edu.cn
+Cc: <ren@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IL2y1/nNqNaqo7rT67rO1dfO5M/Iyfqzqcy41tDO98D6yrfOxLuvsci9zw==?=
+Date: Sat, 24 Sep 2005 00:37:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+哇
+中国历史学界的大牛！！！
+     时间：9月26日（周一）晚7：00-9：00
+     地点：四教4102
+             主讲人何兆武先生，大学毕业于西南联大历史系，1943年至1946年在清华（西南联大）读研究生，现为我校思想文化研究所教授，兼任美国哥伦比亚大学访问教授和德国马堡大学客座教授。何先生是一位德高望重、学贯中西的大学者，著有《中国思想发展史》、《历史与历史

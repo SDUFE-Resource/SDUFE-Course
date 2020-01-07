@@ -1,0 +1,22 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bkPe006750
+	for <pu@ccert.edu.cn>; Mon, 26 Sep 2005 23:19:59 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4j00838;
+	Mon, 26 Sep 2005 23:23:17 +0800
+Message-Id: <200509260741.j8Q7f4j00838@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Mon, 26 Sep 2005 15:23:15 UT
+To: pu@ccert.edu.cn
+From: fan@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+
+我一直认为事工业文明价值体系自身的问题，
+呵呵，王垠只是成为了这个问题的号角，
+不过这个问题现在还没有更权威的答案，
+连西方也解决不了，也许这个问题的解决要意味着一种新的人类文明的诞生，
+     王同学，不是你说得那样！从他的文章中，他只是把自己的经历写了下来，中间的确带有一定的感情色彩，但是为什么会产生这么大的共鸣，最需要的是他揭露的我们国家的教学中的很多问题，这个是大家关心的。清华在工科方面肯定是我们全国最好的学校。里面肯定有很多大牛，很

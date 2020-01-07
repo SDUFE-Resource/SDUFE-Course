@@ -1,0 +1,29 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <fu@ccert.edu.cn>; Fri, 26 Aug 2005 23:15:48 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 23:34:08 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 23:34:08 +0800
+Date: Fri, 26 Aug 2005 23:34:08 +0800
+From: long@cernet.com
+Subject: =?gb2312?B?UmU6IM/rtb3P47jb1/ayqcq/uvMuLi4uLg==?=
+To: fu@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+我觉得去香港做博士后是一个鸡肋的选择。
+我毕业的时候也面临了这样的一个选择，不过最终还是放弃了。
+一般来说，博士后待遇在中文大学还可以，月薪在2W港元，不过花费也很多。
+其他的像香港科大基本没有正式的博士后职位，是以SA身份过去的。待遇相应也不高，还要看老板的脸色。
+如果没有很好的机会，我感觉不如在北京找一个7K/month的工作。
+这是我的一点体会，仅供参考，希望对你有所帮助。
+     明年博士毕业，想到香港读博士后，是信息安全方面的。
+     不知道好好申请,哪个学校合适
+     需要有什么条件，比如英语、对博士期间工作的要求等

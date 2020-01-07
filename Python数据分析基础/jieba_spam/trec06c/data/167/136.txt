@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8LBXfxi031486
+	for <su@ccert.edu.cn>; Thu, 22 Sep 2005 10:17:08 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8LBjEv0011031
+	for <su@ccert.edu.cn>; Thu, 22 Sep 2005 10:28:41 +0800 (CST)
+Message-Id: <200509211145.j8LBjEv0011031@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 02:06:45 -0000
+From: "chi" <chi@mail.tsinghua.edu.cn>
+To: su@ccert.edu.cn
+Cc: <hou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtdrI/b3syKu5+svRy/fS/cfmus3N+MnP0MXPos3avvLRp8r10dDM1rvhICjXqtTYKQ==?=
+Date: Thu, 22 Sep 2005 10:28:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0007_01C5BEE4.F6DD0CF0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcW+oeiffFwOk8vdS7KYdF5R4B6nTQ==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+【 以下文字转载自 DEE 讨论区 】
+发信人: laetans (Verus Nomen: 42\\::0023:EFF3), 信区: DEE
+标  题: 第三届全国搜索引擎和网上信息挖掘学术研讨会
+    全国搜索引擎和网上信息挖掘学术研讨会 (Symposium of Search Engine and WebMining，以下简称SEWM) 是网络信息应用领域的重要活动，其目的是：促进国内外相关领域科研人员的学术和工作交流，研讨本领域的最新技术进展和发展趋势，以推动搜索引擎和Web挖 掘技术在中国的发展。
+    SEWM 会议由中国计算机学会互联网专业委员会主办。会议已经举办两届，分别于2003 年3月由北京大学、2004年11月由华南理工大学承办。第三届 SEWM 会议由清华大学承办， 将于2005年9月26－28日在清华大学举行。
+    本次会议的主要内容包括主题发言、学术论文交流和中文信息挖掘竞赛参赛队汇报交流。李德毅院士、Google全球副总裁李开复博士、百度副总裁刘建国博士将出席本次会议并致辞或做主题演讲。李星教授和李晓明教授担任本次会议的联席主席。
+ 时间: 2005年9月26日～9月28日
+ 地点: 清华大学FIT楼多功能报告厅
+    会议官方网站：http://www.sewm2005.edu.cn/
+    欢迎各位光临！                   

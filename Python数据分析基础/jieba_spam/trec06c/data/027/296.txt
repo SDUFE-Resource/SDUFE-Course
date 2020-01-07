@@ -1,0 +1,19 @@
+Received: from aryasec.com ([218.1.92.40])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J5nswI015469
+	for <gan@ccert.edu.cn>; Tue, 23 Aug 2005 00:03:54 +0800 (CST)
+Message-ID: <200508191349.j7J5nswI015469@spam-gw.ccert.edu.cn>
+From: =?GB2312?B?sLLR1NfJ0a8=?= <xie@aryasec.com>
+Subject: =?gb2312?B?UmU6ILnY09rKrsvEyrPMw7/q19O4+NCjwey1vLXE0MU=?=
+To: gan@ccert.edu.cn
+Content-Type: multipart/mixed;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";charset="GB2312"
+MIME-Version: 1.0
+Reply-To: xie@aryasec.com
+Date: Tue, 23 Aug 2005 00:20:34 +0800
+X-Priority: 2
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+     十四食堂的筷子经常发粘，带着消毒水的气味。较高浓度的消毒液对人体应该是有伤害的，而且味道也不好。对此，我向十四食堂负责人多次提议，请他们注意这个问题。但是却越来越严重，几乎每次的筷子都有味道。其他食堂，例如桃李园，也偶尔有此类情况。而饮食广场做的就很好。十四食堂不仅饭菜质量差，服务一般，以前也出过卫生事故。希望有关领导能够处理此事。
+     另外，建议取消新增的筷子柜。筷子柜的功能是烘干和紫外消毒，而这两个功能已经不再使用，完全就是存储容器。这样筷子从圆筒倒换到筷子柜中，多了一道程序。而这到程序又是有素质很差的一些民工做的，完全没有卫生观念。我在十四曾经看到一个民工没带手套，把筷子放入筷子柜后，又把放倒的筷子一根根拿出来，再放回去，筷子全都污染了。
+     希望领导能够尽快处理此事，保证清华的饮食安全，谢谢。
+re

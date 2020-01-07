@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <gu@ccert.edu.cn>; Fri, 26 Aug 2005 05:07:48 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 05:26:11 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 05:26:11 +0800
+Date: Fri, 26 Aug 2005 05:26:11 +0800
+From: cen@cernet.com
+Subject: =?gb2312?B?UmU6IMS4x9fSu8n6yPa1xLDLuPa70aOo16qjqQ==?=
+To: gu@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+这种东西真无聊
+     ``儿时，小男孩家很穷，吃饭时，饭常常不够吃，母亲就把自己碗里的饭分给孩子吃。母亲说，孩子们，快吃吧，我不饿！――母亲撒的第一个谎。 
+     男孩长身体的时候，勤劳的母亲常用周日休息时间去县郊农村河沟里捞些鱼来给孩子们补钙。鱼很好吃，鱼汤也很鲜。孩子们吃鱼的时候，母亲就在一旁啃鱼骨头，用舌头舔鱼骨头上的肉渍。男孩心疼，就把自己碗里的鱼夹到母亲碗里，请母亲吃鱼。母亲不吃，母亲又用筷子把鱼夹回
+     上初中了，为了缴够男孩和哥姐的学费，当缝纫工的母亲就去居委会领些火柴盒拿回家来，晚上糊了挣点分分钱补点家用。有个冬天，男孩半夜醒来，看到母亲还躬着身子在油灯下糊火柴盒。男孩说，母亲，睡了吧，明早您还要上班呢。母亲笑笑，说，孩子，快睡吧，我不困！――母

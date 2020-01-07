@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83CBlYV005279
+	for <zeng@ccert.edu.cn>; Mon, 5 Sep 2005 06:53:23 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83COHdV019350
+	for <zeng@ccert.edu.cn>; Mon, 5 Sep 2005 07:05:53 +0800 (CST)
+Message-Id: <200509031224.j83COHdV019350@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 4 Sep 2005 22:53:24 -0000
+From: "ni" <ni@mail.tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Cc: <zhou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgsOa+28jV1r6jqL3h0++jqQ==?=
+Date: Mon, 5 Sep 2005 07:05:46 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5B0C5.716D46C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWwgmMrCakV2o5FTJGgH6GL8DeD6Q==
+
+   流水账般写了10篇日志，写到这里算是结束了，其中可能拉掉了很多细节，很多id可能没有详细去写，也许是在游玩的过程中接触少一些吧：）但是对于我这个记性不好的人来说，把大家id都记了下来我真的觉得是蛮成功的一件事情。
+   和大家一起玩真的很开心。虽然大家在版面上交流不多，有的id潜水，有的id喜欢自己写点自己的故事，有的id也许是第一次来到heart，但是大家昨天的相遇相逢，真的是一种
+缘分，而且最重要的是我们大家玩得high，玩得累，却玩得舒服。
+   希望大家常来heart看看。
+   heart是一个港湾，包容你的泪水，你的苦恼，你的一切情绪。  

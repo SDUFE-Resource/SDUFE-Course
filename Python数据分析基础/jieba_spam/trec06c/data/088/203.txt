@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j83Navcu007784
+	for <yun@ccert.edu.cn>; Mon, 5 Sep 2005 10:53:22 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j83NnJli001115
+	for <yun@ccert.edu.cn>; Mon, 5 Sep 2005 11:05:44 +0800 (CST)
+Message-Id: <200509032349.j83NnJli001115@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 02:53:01 -0000
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Cc: <wen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzOG1vaO8v9W+/NK7usWjvg==?=
+Date: Mon, 5 Sep 2005 11:05:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B125.2476A9F0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWw4hYhpZKPpUbwSle4S7/Xq9uNDg==
+
+感觉有些段落是抄袭＜红岩＞
+就是看里边那个俄罗斯某加盟共和国的将军从监狱里被放出来
+然后他监狱的狱友欢呼，呐喊，用勺子饭盆敲打监狱门（这里特像红岩）
+然后共同高唱国际歌，英特纳雄乃尔如此这般震撼！！
+将军走到敌人面前，从容潇洒的签上自己的大名，然后取回自己的将军衣服
+看的人心潮澎湃，
+门口所有美国兵都无奈了，直升机的四个军人整齐化一的敬礼
+但敌人的探照灯照亮了，在扫射中将军倒地，
+这段刻画可以一格一格的在我脑海里回放，虽然是高中的电影了

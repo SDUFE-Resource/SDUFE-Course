@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j87BlNH3002554
+	for <xu@ccert.edu.cn>; Thu, 8 Sep 2005 09:41:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j87Bxb76001146
+	for <xu@ccert.edu.cn>; Thu, 8 Sep 2005 09:53:55 +0800 (CST)
+Message-Id: <200509071159.j87Bxb76001146@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 8 Sep 2005 01:39:22 -0000
+From: "hua" <hua@mail.tsinghua.edu.cn>
+To: xu@ccert.edu.cn
+Cc: <zhou@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgobqx49LL16rIw6G71tDR67n6vNK7+rnYobC1pcntwarS6rvhobHDxcax?=
+Date: Thu, 8 Sep 2005 09:53:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000E_01C5B3E6.AA53DD40"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzo5wDUyjmuLAhQNybYzBBmyxuiw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+我这里有几张“单身联谊会”的门票，
+这个联谊会据说是由妇联举办的，主要面向中央机关单身一族；
+（晚会名称：喜芳缘 玫瑰之约  《今晚我们相识》单身联谊会；
+详情可致电：65122602、65286293查询）
+单位把票发给我们，
+我和另一个同事都有了自己的相好，
+所以想把门票转让给需要的人士。
+门票价：50元/张；转让价：25元/张；
+共两张。
+时间是9月10日晚6：30，
+地点在隆福大厦西门七层万国音乐俱乐部。
+（乘101、103、104、108、109、111、112、812、814至美术馆）
+凭此票可以参加游戏、舞蹈、表演、卡拉ok、演出、抽奖活动等。
+可回复到站内，或发短信给我：13691497704。

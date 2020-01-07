@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82NbfwP002626
+	for <peng@ccert.edu.cn>; Sun, 4 Sep 2005 07:55:24 +0800 (CST)
+Received: (eyou send program); Sun, 4 Sep 2005 07:55:44 +0800
+Message-ID: <325704282.09716@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sun, 4 Sep 2005 07:55:44 +0800
+Message-ID: <325704282.09698@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sun, 4 Sep 2005 07:55:44 +0800
+From: zeng@mail.tsinghua.edu.cn
+To: peng@ccert.edu.cn
+Cc: wang@ccert.edu.cn
+Date: Sun, 4 Sep 2005 07:55:44 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INfyze3U2sj9usXCpcPFv9q/tLW9wcuz88KqtcTSu8S7LNXmzqrH5buqtcTRp8n6uNC1vbaq
+yMs=?=
+Content-Type: text/plain
+
+我不知道复印的行情，不过自己算了一笔帐。
+现在我们单位用的最好的复印纸是金旗舰，大约250元一箱，共500*10=5000张A4，
+这样平均下来，每张纸就要5分钱，还不算复印机、耗材和房租水电的成本。
+当然三号楼复印室用的纸肯定不会有
+这么好，复印机的档次可能也不高，所以印刷质量肯定没有图书馆好。但图书馆印
+一张A4要两毛五吧，大量印也不会少于两毛，而且图书馆的纸比三号楼也好不了多少，
+所以我觉得三号楼要6分钱一张真的不过分。现在复印行业的竞争很激烈，
+我认识几个图书馆复印的，他们说现在已经被外面的低价复印社打击得奄奄一息了，
+生意很清淡，一天没有几个人。他们尚且如此，那些低价的复印社就更难度日了。
+因为他们为了拉顾客，价格和利润会更低。
+     大家的斗争对象错误了啊
+     真正黑的不是这些底层的劳动人民
+     而是清华后勤的高层

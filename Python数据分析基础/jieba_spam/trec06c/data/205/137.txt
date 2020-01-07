@@ -1,0 +1,31 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <zhuang@ccert.edu.cn>; Thu, 29 Sep 2005 18:38:12 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 10:49:19 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 18:49:19 CST
+Date: Thu, 29 Sep 2005 18:49:19 +0800 (CST)
+From: liang ming <huang@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgTUlUxMex37rctuC2vMrHvOLL4b/MsaG1xLzSu++julJlPw==?=
+To: zhuang@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+同感，mit得人肯定是被压抑的都有点变态，去过几回
+大部分说话都尖酸刻薄，自私自利的一帮假货
+嘿嘿。
+我觉得mit的网友的心态普遍很差
+不单单是对待这次的事情，
+对待一些很基本的问题，例如：chinanews版《香港迪斯尼批评大陆游客卫生习惯差》
+上面很多人居然大骂“想征钱还嫌嫖客脏”  “我们不去2死他们”
+愿意反省，承认我们不对就要改正的人倒是不多。
+不知道是否国外的环境让他们很难过发生了心态上的转变？
+总之水木厚德载物的气氛在那里很难看的到。
+     一个有趣的现象是，在水木上有不少人捧王垠，而在MIT BBS上几乎都是一边倒地批王。
+     仔细看看那些捧王垠的，多半都是比较FQ，空喊口号地批驳中国教育制度的。
+     而MIT上发帖子的，基本上都是在国外继续深造过的，明白王垠所批判的东西，其实并不是中国所仅有的，他即使到了美国，他会发现那里跟清华并没有本质的区别：老板照样要你多发文章，因为没有文章就没有资金，没有资金就没钱吃饭；老板也会限制你的选课，因为你选课太多就

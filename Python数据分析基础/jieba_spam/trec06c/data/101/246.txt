@@ -1,0 +1,32 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <xu@ccert.edu.cn>; Thu, 8 Sep 2005 12:06:19 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Thu, 8 Sep 2005 04:18:34 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Thu, 8 Sep 2005 04:18:34 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Thu, 8 Sep 2005 04:18:34 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "zhang" <zhang@iim.ac.cn>
+To: xu@ccert.edu.cn
+Subject: =?gb2312?B?ofEgNHc5z9e4+LDmtPM=?=
+Date: Thu, 8 Sep 2005 12:18:40 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+        三年的水木生活,版大一直都照着我
+        我正是在伊的关照下逐步逐步的迈入水车行列
+        可惜我刚来贵版,伊就要走了
+        留个小整,以作纪念
+        版大真是个好人
+        恩
+robertwc (我不想要nick) 共上站 1289 次，发表过 48999 篇文章
+上次在  [Wed Sep  7 14:26:34 2005] 从 [211.151.90.88] 到本站一游。
+离线时间[因在线上或非常断线不详] 信箱：[  ] 生命力： 身份: [版主]。
+目前在站上，状态如下：

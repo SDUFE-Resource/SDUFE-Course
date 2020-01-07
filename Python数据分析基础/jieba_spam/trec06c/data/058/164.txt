@@ -1,0 +1,26 @@
+Received: from mail.tsinghua.edu.cn ([166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q135ti010034
+	for <fu@ccert.edu.cn>; Tue, 30 Aug 2005 12:02:45 +0800 (CST)
+Received: (eyou send program); Tue, 30 Aug 2005 12:07:08 +0800
+Message-ID: <325018451.07270@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 30 Aug 2005 12:07:08 +0800
+Message-ID: <325018451.07250@mail.tsinghua.edu.cn>
+Received: from 166.111.8.205 by mail.tsinghua.edu.cn with HTTP; Tue, 30 Aug 2005 12:07:08 +0800
+From: "zhuang" <zhuang@mail.tsinghua.edu.cn>
+To: fu@ccert.edu.cn
+Date: Tue, 30 Aug 2005 12:07:08 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INK7uPbR0L6/yfq1xNf3z6LKsbzkse2jrMfrtPO80ta41f0=?=
+Content-Type: text/plain
+
+     新学期作息时间表：
+                     07：00 起床、洗漱、早饭
+                     08：00 - 12：00 学术科研
+                                  ~~~~~~~~包括50％以上的灌水时间
+                     12：00 - 13：30 午饭、午休
+                     13：30 - 17：30 学术科研
+                                     ~~~~~~~~包括50％以上的灌水时间
+                     17：30 - 19：00 打拳
+                     19：00 - 21：00 晚饭、休闲娱乐
+                     21：00 - 23：00 游泳
+                     23：00 上床睡觉

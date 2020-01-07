@@ -1,0 +1,31 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8L7JBk6030306
+	for <hu@ccert.edu.cn>; Fri, 23 Sep 2005 17:27:00 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 17:16:45 +0800
+Message-ID: <327286536.17754@mail.tsinghua.edu.cn>
+Received: from 166.111.203.62 by mail.tsinghua.edu.cn with HTTP; Fri, 23 Sep 2005 17:16:45 +0800
+From: "qian" <qian@mail.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Date: Fri, 23 Sep 2005 17:16:45 +0800
+Reply-To: "qian" <qian@mail.tsinghua.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1ti98LPPxrg6SjJNRcjtvP65pLPMyqYvU3ltYmlhbsjtvP65pLPMyqY=?=
+Content-Type: text/plain
+
+J2ME软件工程师
+职位描述：
+1.    熟练掌握J2ME开发，具备至少一年以上的使用J2ME进行手机应用开发的经验；
+2.    熟悉J2ME MIDP及各主要手机厂家编程API；
+3.    精通JAVA编程语言，熟悉JSP、XML技术和J2SE技术；
+4.    有两年以上软件项目开发经验，熟悉项目开发流程； 
+5.    工作认真负责，学习能力强，能够在短时间内承担公司项目开发工作； 
+6.    有强烈的事业心，具有良好的团队合作精神。
+Symbian软件工程师
+职位描述：
+1、    熟悉symbian手机开发，最好有半年以上symbian开发经验；
+2、     有一年以上手机开发或嵌入式应用程序开发经验者优先；
+3、    大学以上学历，两年以上软件开发工作经验；
+4、    扎实的计算机基本功，熟练掌握C++和面向对象的思想；
+5、    思路清晰，思维敏捷，快速的学习能力，良好的英文资料阅读能力；
+6、    有强烈的事业心，具有良好的团队合作精神。
+联系电话:82600011-609  联系人:李小姐  E-MAIL:HR@DIGINPOWER.COM

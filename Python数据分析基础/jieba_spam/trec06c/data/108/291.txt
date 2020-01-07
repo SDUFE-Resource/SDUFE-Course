@@ -1,0 +1,28 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <hong@ccert.edu.cn>; Sat, 10 Sep 2005 01:56:11 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <hong@ccert.edu.cn>; Fri, 9 Sep 2005 11:08:18 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 11:08:18 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 11:08:18 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Sat, 10 Sep 2005 02:08:18 +0800
+From: =?GB2312?B?1/O+pw==?= <tan@gmail.com>
+Reply-To: tan@gmail.com
+To: hong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMrHsrvKx8jdw7K21NPaxa7J+sC0y7XKrrfW1tjSqqO/?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+不过美女其实也不...通常会惹来很多色狼，还有可能是比较高明的色狼，或者是我这种把美女当花瓶看的没心没肺的家伙。
+长相一般的女孩烦恼就要少多了，起码可以一心一意。
+     还是心底善良更重要把，有些人即使再pp，一旦大家相处长了，认识到他/她的缺点，如果真的是心底很不好的人，他们那些表面上美丽的地方也会变得刺眼的。
+     受欢迎主要还是综合看一个人吧。要是冰山美人，还那么受欢迎吗？

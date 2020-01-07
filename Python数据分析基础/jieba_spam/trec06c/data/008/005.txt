@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EBDbnN008658
+	for <xue@ccert.edu.cn>; Thu, 18 Aug 2005 14:55:33 +0800 (CST)
+Received: (eyou send program); Thu, 18 Aug 2005 15:03:59 +0800
+Message-ID: <324018523.18139@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 18 Aug 2005 15:03:59 +0800
+Message-ID: <324018523.18120@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 18 Aug 2005 15:03:59 +0800
+From: xie@mail.tsinghua.edu.cn
+To: xue@ccert.edu.cn
+Cc: zhang@ccert.edu.cn
+Date: Thu, 18 Aug 2005 15:03:59 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW9XQxrhdzfjVvtbG1/e8sNTLzqzIy9Sx?=
+Content-Type: text/plain
+
+网站制作及运维人员（专职）
+[任职要求]
+1、 要求会使用发布系统搭建网站并且有相当使用发布系统经验；
+2、 要求熟练使用Flash，Dreamwaver,Firework,Photoshop组合制作页面；
+3、 要求会手写html\\php\\jsp代码；
+4、 要求熟悉javascript编程；
+5、 要求熟悉简单Flashaction语句；
+6、 要求熟悉媒体播放器与页面间的结合，能够通过相应的语句修改来实现需求视频界面；
+7、 要求思维敏捷、具备良好的领悟能力、沟通能力、团队精神；
+8、 应聘者须提供个人独立完成的网站作品；
+9、 有曾经参与过电视台相关网站制作经验者优先。
+10、 要求有2年大型网站开发工作经验；
+11、 工作责任心强，能承受夜班压力，具备团队合作精神；
+有意者请发送简历至wgzx2005@126.com,谢谢！

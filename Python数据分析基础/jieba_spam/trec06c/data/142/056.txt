@@ -1,0 +1,20 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G2Dh1P009817
+	for <weng@ccert.edu.cn>; Fri, 16 Sep 2005 19:01:33 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8G2ifhm004555
+	for <weng@ccert.edu.cn>; Fri, 16 Sep 2005 19:32:31 +0800
+Message-Id: <200509160244.j8G2ifhm004555@stmp.nisac.gov.cn>
+Date: Fri, 16 Sep 2005 19:12:39 +0800
+From: "yi" <yi@mail.nisac.gov.cn>
+To: weng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILfHs6PE1bvwLLK71qq1wLjD1PXDtNGh1PEh?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+你自己也说了你不是很感兴趣，那干吗还要在继续读呢
+     最近几天很郁闷， 面临着要不要转博的选择：我是清华硕士,06年毕业，现在有机会转博,专业不是很好，自己也不是很感兴趣，但觉得放弃这个机会又有点可惜，想着读了博士以后起点毕竟要高一点。另外我男朋友在上海读博士，学校专业也都不错，两个人感情也很好，他不太赞成我在北京继续读，一方面认为两个人距离太远，分开太久，异地太累；另一方面也觉得我读博士太辛苦，他说我先工作一段时间等他毕业了两个人安定下来了我再读个在职的会好一点（如果有必要的话）。唉，不知道怎么办，好象怎么选择都有道理似的……有过来人给点建议么？谢谢: 啦！

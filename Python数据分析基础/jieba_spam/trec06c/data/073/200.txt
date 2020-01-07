@@ -1,0 +1,44 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82C4WA7031627
+	for <zhuang@ccert.edu.cn>; Fri, 2 Sep 2005 18:40:20 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j82CFnZe026139
+	for <zhuang@ccert.edu.cn>; Fri, 2 Sep 2005 18:52:06 +0800 (CST)
+Message-Id: <200509021216.j82CFnZe026139@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 10:39:37 -0000
+From: "tian" <tian@mail.tsinghua.edu.cn>
+To: zhuang@ccert.edu.cn
+Cc: <xing@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgu7bTrdGh0N7R0L6/yfq/zrPMoba8r7PJzPq159GnobejqL/OusWjujgxMDIwMDkyo6k=?=
+Date: Fri, 2 Sep 2005 18:51:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01C5AFFB.1700AEE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWvuAiVPxyr+SX4SVaygqTcBzkmwA==
+
+欢迎选修研究生课程《集成铁电学》（课号：81020092）
+课程简介：
+    铁电材料是一类具有多种优异性能的新型电子材料，将其与微电子技术相结合，可实现多种具有重要应用价值的新型微电子器件，相关研究如铁电存储器、铁电MEMS器件等已成为当今国际学术研究热点。《集成铁电学》课程的主要内容就是铁电材料与微电子技术相集成中的关键基础问题、方法与技术。
+    整个课程与科研前沿密切结合，课堂采用多媒体授课与讨论并重的方法，并有电子讲义配合教学。新颖性和实用性是本课程突出的特点。
+    课程内容分两大部分:
+    一是集成铁电学的基本理论和方法，包括铁电体的结构与基本性质、材料与工艺、器件集成、测试与表征等；
+    二是集成铁电学的应用，包括铁电存储器、MEMS器件、高频器件、红外探测器件等。
+讲课教材：电子讲义
+参考书目：
+1. Ferroelectric Memories, J. F. Scott, Springer, 2001.
+  （铁电存储器，J. F. Scott，清华大学出版社, 2004）
+2. Ferroelectric Devices, Kenji Uchino. Marcel Dekker, 2000.
+3. 铁电体物理学，钟维烈. 科学出版社，1996.
+4. 铁电体及有关材料的原理和应用，M.E.莱因斯. 科学出版社，1989.
+5. Journal:  Integrated Ferroelectrics
+6. Journal: IEEE Trans.Ultrason.,Ferroelect.,Freq.Contr.
+7. Journal:  Ferroelectrics
+考核方式：课程报告
+教学方式：课堂讲授为主
+    欢迎微电子、电子、材料、物理、力学、精仪、工物，以及全校理工科各系的研究生同学选修本课程！
+    本学期的上课时间、地点如下：
+时间：周一晚第六大节（晚7：20）
+地点：六教6B106教室 

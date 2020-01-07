@@ -1,0 +1,32 @@
+Received: from antivirus.njnu.edu.cn (dns1.njnu.edu.cn [202.119.104.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8G6DlnV012181
+	for <lin@ccert.edu.cn>; Sat, 17 Sep 2005 21:55:26 +0800 (CST)
+Received: from antivirus.njnu.edu.cn (kill [127.0.0.1])
+	by localhost.njnu.edu.cn (Postfix) with ESMTP id 6F180B29C6
+	for <lin@ccert.edu.cn>; Sat, 17 Sep 2005 22:12:01 +0800 (CST)
+Received: from mail.njnu.edu.cn (smtp.njnu.edu.cn [202.119.104.12])by antivi
+	rus.njnu.edu.cn (Postfix) with ESMTP id 63FA2B29C4for <lin@ccert.edu.cn>
+	; Sat, 17 Sep 2005 22:12:01 +0800 (CST)
+Received: from njnum6hhu9yjb1 (hunter.njnu.edu.cn [202.119.104.69])by mail.n
+	jnu.edu.cn (PMail) with ESMTP id 108742FD49for <lin@ccert.edu.cn>; Fri, 
+	Sat, 17 Sep 2005 21:37:02 +0800 (CST)
+Message-ID: <003201c5ba87$7254f990$456877ca@njnum6hhu9yjb1>
+From: "ding" <ding@njnu.edu.cn>
+To: lin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INX3tePB8svhyrLDtLXE?=
+Date: Sat, 17 Sep 2005 22:07:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+这个得用氨水洗
+     1、想问问，谁有硫酸，用来洗银饰，我想象中这个东西可以吧，不知道……如果不行，该用什么呢？谁有啊？想象中，有的专业应该会接触到这些化学用品的吧，谢谢^_^
+     2、食堂永远都是一样的菜，所以我永远只吃那几个。附近的饭馆去得多了也没劲。每天要花最少半小时想吃什么：（如果有人有灶以及柴米油盐辣椒醋，且厨房卫生环境好，最好借我试验一下我是否能自己做^_^因为没做过-_-||
+     3、为什么我不能发站内信件？但一月以前能收（最近能不能收没实验，不知道）。有谁知道这个是为什么吗？

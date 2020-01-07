@@ -1,0 +1,41 @@
+Received: from 126.com (bj45-161.i.netease.com [202.108.45.161])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EEiS1q009384
+	for <yan@ccert.edu.cn>; Wed, 17 Aug 2005 10:56:39 +0800 (CST)
+Message-ID: <200508142244.j7EEiS1q009384@spam-gw.ccert.edu.cn>
+Received: from pisclubjhb (unknown [219.238.168.2])
+	by smtp4 (Coremail) with SMTP id RkBfofVb_0IPEu83.1
+	for <yan@ccert.edu.cn>; Wed, 17 Aug 2005 11:10:08 +0800 (CST)
+X-Originating-IP: [219.238.168.2]
+From: "lv" <lv@126.com>
+To: yan@ccert.edu.cn
+Cc: <fan@ccert.edu.cn>,
+	<pu@ccert.edu.cn>,
+	<shen@ccert.edu.cn>,
+	<xue@ccert.edu.cn>,
+	<he@ccert.edu.cn>,
+	<mei@ccert.edu.cn>,
+	<wang@ccert.edu.cn>,
+	<li@ccert.edu.cn>,
+	<mei@ccert.edu.cn>,
+	<tian@ccert.edu.cn>,
+	<kong@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgx/PSu7j2uavLvsP719YgKNeq1Ngp?=
+Date: Wed, 17 Aug 2005 11:10:31 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5A123.AB2C1F50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcWg2iclErE9vEwpQUuF46XqYTUSdgABkatA
+In-Reply-To: <42FF5137.0076B3.03512>
+
+【 以下文字转载自 Sales 讨论区 】
+发信人: zdjjx (每天爱你多一些), 信区: Sales
+标  题: 求一个公司名字 (转载)
+发信人: zdjjx (每天爱你多一些), 信区: EconForum
+标  题: 求一个公司名字
+发信人: zdjjx (每天爱你多一些), 信区: Business
+标  题: 求一个公司名字
+主要业务是投资顾问与市场营销顾问
+谁有好主意没？
+多谢！

@@ -1,0 +1,16 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2gjIb030032
+	for <fan@ccert.edu.cn>; Sat, 20 Aug 2005 14:10:48 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A741.000092.16670@m52.126.com>
+Date: Sat, 20 Aug 2005 14:23:59 +0800 (CST)
+From: "pan" <pan@126.com>
+To: fan@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INe8sbizycGiSUO5q8u+o6zV2dPQ1r7Wrsq/?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_loSuijVMGiiOFKdLaKpxUmFGBkYx"
+
+顶，可惜专业差太大！~
+     你好，我是一名有着5年工作经验的IC工程师，曾在一家大公司做，因此对于IC得整个设计流程熟悉，而且积累了相当多的IP库，也做了大量高性能芯片的研发设计。根据我的了解目前我国现在IC设计仍然处于低水平状态，很难有做到高性能芯片的公司，大家知道，集成电路设计水平

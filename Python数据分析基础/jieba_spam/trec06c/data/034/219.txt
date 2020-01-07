@@ -1,0 +1,27 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <ling@ccert.edu.cn>; Wed, 24 Aug 2005 18:42:13 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Wed, 24 Aug 2005 19:00:36 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 19:00:36 +0800
+Date: Wed, 24 Aug 2005 19:00:36 +0800
+From: qiu@cernet.com
+Subject: =?gb2312?B?UmU6ILrNtPO80sy9zNbSu8/C1rDStdGh1PE=?=
+To: ling@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+做web服务的话，搞不好你的2年时间就废了
+呵呵
+     先介绍一下我的情况：
+     我本科是学物理电子学的，硕士转学计算机应用，现在在软件所这边做毕业论文，导师给我两个方向一个是通信，一个是web服务。当然更具体的就要看工程需要了。目前还没有定下来，我打算硕士毕业工作，现在研究生2年级，还有两年毕业。我需要一些参考意见。谢谢这里的各位。
+     通信这个方向，根据项目的要求，我想大概会是协议层软件的编写或者协议的应用。而web服务，我想项目中用到的东西会比较简单了。但是自己可能努力的方向就是朝着J2EE这条路走。

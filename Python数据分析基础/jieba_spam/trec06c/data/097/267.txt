@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85FFJ7F018850
+	for <lai@ccert.edu.cn>; Wed, 7 Sep 2005 16:22:40 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j85FCtFd055076
+	for <lai@ccert.edu.cn>; Wed, 7 Sep 2005 16:20:52 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j85FCqUH055072
+	for <lai@ccert.edu.cn>; Wed, 7 Sep 2005 16:20:13 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509051512.j85FCqUH055072@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Wed, 7 Sep 2005 08:09:22 -0000
+Date: Wed, 7 Sep 2005 16:30:15 +0800
+From: "liu" <liu@mails.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j85FCqUH055072
+Subject: =?gb2312?B?UmU6IM7Szt63qMDtveKjx6PHtcTX97eo?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+ 我觉得他就是有种根深蒂固的大男子主义思想．只要他认准的事，我说什么也没用．甚至他错了也死不承认．他的观点是：自己的决定总是英明伟大，只可惜我老在旁边捣乱／或是不帮他忙，所以才会出问题．可是别人若要提醒，他就会好好想一想．有时候真是气得我说不出话来．
+     不知大家遇到过这样的人没有：对跟自己越熟的人态度越不好，相反对陌生人倒客气些．
+     比如我要是买东西时挑挑捡捡，人家售货员还没说什么呢，他就会当众责备我，末了还会笑着跟人家道歉；
+     比如他们同学要他过去帮忙，他肯定会毫不忧郁；但我要他做什么事他总是推三阻四，特别的懒．

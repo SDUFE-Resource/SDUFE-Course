@@ -1,0 +1,43 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <wen@ccert.edu.cn>; Mon, 19 Sep 2005 21:37:27 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Mon, 19 Sep 2005 13:48:28 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Mon, 19 Sep 2005 13:48:28 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <wen@ccert.edu.cn>; Mon, 19 Sep 2005 06:59:25 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <wen@ccert.edu.cn>; Mon, 19 Sep 2005 08:56:51 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Mon, 19 Sep 2005 21:48:15 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <you@motorola.com>
+To: wen@ccert.edu.cn
+Cc: guo@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMy4zLjO4tXy0+61xL6tteTS+MS70M7P8w==?=
+Date: Mon, 19 Sep 2005 21:47:49 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+ 说实在的，看多了，也就那样，他演的好是因为他拍的少，你觉得新鲜
+     标  题: 谈谈吴镇宇的经典银幕形象
+     
+     
+     特别喜欢吴镇宇，他给我留下比较深刻印象的银幕形象数这么几种：
+     （1）猥琐病态的黑社会老大，如《古惑仔之人在江湖》《收数王》等。
+     （2）憨厚老实的小人物，如《爱情白面包》《梁山泊与朱丽叶》《爆裂刑警》。
+     （3）让人恨不起来的老大，或有情有义如《枪火》《O记三合会档案》。或精明内敛顾家又有责任感如《无间道二》。
+     《高度戒备》没看过，据说很不错。不知道老吴什么时候能拿金像奖影帝。《无间道二》输给刘德华的《大块头》。真替他不值。觉得不对，欢迎拍砖
+     
+     
+     --
+     

@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <yang@ccert.edu.cn>; Sat, 27 Aug 2005 20:24:31 +0800 (CST)
+Received: (eyou send program); Sat, 27 Aug 2005 20:32:01 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 27 Aug 2005 20:32:01 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Sat, 27 Aug 2005 20:32:01 +0800
+From: hu@mail.tsinghua.edu.cn
+To: yang@ccert.edu.cn
+Cc: lu@ccert.edu.cn
+Date: Sat, 27 Aug 2005 20:32:01 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg0ru49rKpyr+687v6u+E=?=
+Content-Type: text/plain
+
+受人之托，请勿回本信箱！
+School of Engineering
+James Cook University
+Queensland
+Australia
+Postdoctoral Research Fellow and Visiting scholar
+Mechanics and Materials have been the research strength in School of Engineering, James Cook University. The school is seeking to appoint a number of postdoctoral research fellows and/or visiting scholars to work on such an emerging area. A specific research project that is funded by Australian Research Council is computational design of microstructural materials.
+The applicants should have solid background in computational mechanics, finite element methods, heat transfer and mechanics of composite materials. Demonstrated experience in computational topology optimization and advanced programming will be an advantage. Application for a postdoctoral research fellow should have, or be close to gaining, a PhD degree. The positions will be provided for one to three years and are available immediately.
+The enquiries and application should be forwarded to Dr. Qing Li in School of Engineering, James Cook University, Townsville, QLD 4811, Australia, Telephone: 61-7-4781 5762, Fax: 61-7-4781 4660,  Email: Qing.Li@jcu.edu.au. 

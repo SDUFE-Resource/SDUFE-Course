@@ -1,0 +1,30 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <hong@ccert.edu.cn>; Thu, 25 Aug 2005 14:00:29 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 14:13:36 +0800 (CST)
+Date: Thu, 25 Aug 2005 14:07:22 +0800
+From: "mo" <mo@sohu.com>
+To: hong@ccert.edu.cn
+Cc: "yxl" <yang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgOTljbGljay5jb20g1dK8vMr1yMvUsbzTyOu0tNK1zcW20w==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+商助科技是一家互联网高科技公司，由美国留学人员回国创建，现位于清华大学高科技创业园内。
+创建以来发展迅速，有多家知名企业在使用我们的服务，包括百度、当当等；多个风险投资商
+都表示了浓厚的投资意向。我们寻求志同道合的人士加盟我们的事业。
+  
+Java程序员：
+  * 本科及本科以上学历，计算机或其他理工专业
+  * 对技术工作有浓厚的兴趣，喜爱编程，聪明好学
+  * 具备软件从业人员的优秀品质，如敬业、钻研、互助等精神
+  * 良好的团队工作意识和沟通能力
+  * 掌握 JAVABEAN、JSP、SERVLET、JAVASCRIPT、HTML
+  * 熟悉数据库相关知识及SQL语言
+如果感兴趣请发送简历至：resume@shangzhu.com

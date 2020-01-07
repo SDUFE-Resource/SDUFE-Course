@@ -1,0 +1,71 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8AF39fI030243
+	for <su@ccert.edu.cn>; Sun, 11 Sep 2005 03:20:05 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8AF0L4C093997
+	for <su@ccert.edu.cn>; Sun, 11 Sep 2005 03:17:35 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8AF0IZY093993
+	for <su@ccert.edu.cn>; Sun, 11 Sep 2005 03:17:13 +0800 (CST)
+	(envelope-from mayuanchen@tsinghua.org.cn)
+Received: (eyou send program); Sun, 11 Sep 2005 03:36:38 +0800
+Message-ID: <326365583.28602@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: mayuanchen@tsinghua.org.cn
+Received: from unknown (HELO mayc-d400) (220.207.80.1)
+	by 210.77.143.232 with SMTP; Sun, 11 Sep 2005 03:36:38 +0800
+From: "jian" <jian@tsinghua.org.cn>
+To: su@ccert.edu.cn
+Subject: =?GB2312?Q?Re: Re: [TOEFL] =BD=CC=CA=A6=BD=DA=BF=EC=C0=D6?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Date: Sun, 11 Sep 2005 03:29:27 +0800
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0061451654=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+山特电子（深圳）有限公司诚聘清华英才
+公司简介
+山特公司1984年创立于美国加州，致力于开发研制开关电源、不间断电源UPS等。1992年被飞瑞企业集团（http://www.phoenixtec.com.tw）收购，成立深圳山特电子有限公司，并于1999年更名为山特电子（深圳）有限公司。到今天，山特公司已经发展成为全球前五大专业从事不间断电源UPS的开发、生产及经营厂商之一。
+作为最早进入中国UPS市场的知名厂商，山特公司凭借其永不妥协的品质、傲视全球的技术以及全方位的优质服务取得了用户的一致好评，产品广泛应用于各大部委、军队以及金融、邮政等国家重点系统，在业界享有极高的声誉。目前，山特中、小型UPS已占据国内市场份额的较大份额，完全确立了中国UPS市场首选品牌的地位。
+山特公司为深圳市首批100家高新技术企业之一，产品多次荣获深圳市科技进步奖，并且全系列产品获得国家级及广东省级重点新产品称号；产品不仅已通过国际质量标准ISO9001：2000版认证和中国信息产业部优良产品验证，同时还取得了CE、UL、TUV、EN等主要国际标准认证。
+在过去的二十年里，山特公司一贯秉承“品质至上，客户满意”的理念，始终致力于为用户提供高可靠的电力保护环境。山特提供的电源产品既适合企业环境，也满足家庭的需要，极大地提高了敏感电子设备、网络、通讯和各类工业设备的电源品质和可用性。面向未来，山特将以全面客户导向为原则，满足大企业、中小企业、家庭及个人客户的需求，为其提供针对性的电源产品和服务。
+ 
+人才战略
+山特公司以“用心投入，永续经营”的理念扎根中国，在人才培养的投资上不遗余力。目前公司的研发技术人员均为来自国内重点理工大学的毕业生，大学以上的人员占全公司员工50%。山特公司将以广阔的个人发展空间、高度灵活的用人机制、有竞争力的薪酬待遇，真诚欢迎各路英才与山特一起携手共创美好将来！
+公司网址：http://www.santak.com.cn
+招聘事项
+招聘对象：  博士、硕士、学士
+招聘职务：  高级研发工程师（博士）、研发工程师（硕士、学士）、
+品保工程师、IE（工业工程）工程师、采购工程师（学士）
+专业要求：  电力电子/自动化/控制/微电子/电磁/机械/热流/工业工程类
+试用期限：  3个月（试用期满后，根据实际能力调整工资）
+工作时间：  8：00―17：20（实际工作8小时）
+休日休假：  每周周六、周日
+                节日（元旦、春节、国际劳动节、国庆节）
+                带薪休假（工作满一整年，每年有7天）
+                特殊休假（婚假、产假、丧假）
+福    利：  深圳市规定办理的各类保险（养老，医疗，工伤等）；
+其他的以相关法律为基准，结合公司制度；
+每年一次旅游，特殊节日发放福利金，以及福委会组织的各种活动。
+员工宿舍：  无（新进员工由公司统一安排入住宾馆/招待所,公司支付费用）
+应聘方法：  通过E-mail将个人简历发至山特电子（深圳）有限公司，邮件主题请注明
+“清华大学XX专业2006届（本科/硕士/博士）毕业生XXX应聘XX职位”；
+材料审查后，一周内通知合格者面试时间和地点；
+面试完成后，一周内通知合格者录用事宜及报到注意事项。
+联系方式：  TEL     0755-27572666
+FAX     0755-27572730/27572480
+Email   zhaopin@santak.com.cn
+地址    深圳市宝安区72区宝石路8号
+邮编    518101               
+有效日期：  2005/11/20。

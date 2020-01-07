@@ -1,0 +1,47 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBVolI019299
+	for <xin@ccert.edu.cn>; Thu, 15 Sep 2005 01:21:35 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8DBSOBg018678
+	for <xin@ccert.edu.cn>; Thu, 15 Sep 2005 01:18:40 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn ([166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8DBSHbY018673
+	for <xin@ccert.edu.cn>; Thu, 15 Sep 2005 01:18:07 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 14359 invoked by uid 512); Wed, 14 Sep 2005 17:26:29 -0000
+Message-ID: <20050913113644.14358.qmail@stu.ee.tsinghua.edu.cn>
+From: gu@stu.ee.tsinghua.edu.cn
+To: xin@ccert.edu.cn
+Date: Thu, 15 Sep 2005 01:26:29 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?ofEgob7NqNaqob/N0NK1v7zK1NCj1LDW+tGnvMa7rjEw1MK33b+8ytSxqMP70OvWqiAo16rU2Ck=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+【 以下文字转载自 EnglishTest 讨论区 】
+发信人: alphayoung (alpha), 信区: EnglishTest
+标  题: 【通知】托业考试校园助学计划10月份考试报名须知
+发信人: alphayoung (alpha), 信区: THAFL
+标  题: 【通知】托业考试校园助学计划10月份考试报名须知
+校园托业助学计划2005
+各位同学，新学期已至，清华大学托业报名点报名具体时间如下：
+10月30日考试的报名时间为：现在----9月30日
+希望大家抓紧时间报名！
+校内报名方法：
+文南楼103室 杨宗玉老师
+联系电话：62785552
+费用：374元（在校大学生凭学生证）

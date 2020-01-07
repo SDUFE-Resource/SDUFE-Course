@@ -1,0 +1,52 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <tang@ccert.edu.cn>; Tue, 6 Sep 2005 06:20:32 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <tang@ccert.edu.cn>; Tue, 6 Sep 2005 06:18:48 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <tang@ccert.edu.cn>; Tue, 6 Sep 2005 06:18:28 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Mon, 5 Sep 2005 22:07:40 -0000
+Date: Tue, 6 Sep 2005 06:28:32 +0800
+From: "hu" <hu@mails.tsinghua.edu.cn>
+To: tang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjkuNcjVuaTX97zHwrw=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <tian@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+报失
+张清光  62782928   证件：IC卡 
+李沁笛  51531283   证件：IC卡
+韩睦华  13810223916  钱包，黑色，内有学生证，京卡，招商银行信用卡，餐卡，游泳卡，身份证，现金若干等
+周兵    62772253     钱包，内有美国驾照，各类证件以及800元钱
+沈晓妍  51531060     钱包，蓝白色，内有饭卡，ic卡，电话卡，书虫网络会员卡及14元钱
+吴鹏    13522856953  钱包，黑色，内有学生证，门卡以及现金若干
+刘涛    62774770     手表，“天王”牌，表盘正中有皇冠标志，皮带黄色，
+送交
+张义恒  IC卡   
+好心人  书籍   《物权法》第2版
+领取
+陈晓凌  IC卡
+   

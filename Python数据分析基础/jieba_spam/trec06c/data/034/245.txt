@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <peng@ccert.edu.cn>; Wed, 24 Aug 2005 19:10:50 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <peng@ccert.edu.cn>; Wed, 24 Aug 2005 19:24:04 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 11:18:37 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "wu" <wu@mail.tsinghua.edu.cn>
+To: peng@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1dDGuF9fX19fzajRtrXn19PA4MjLssWjoaOho6E=?=
+Date: Wed, 24 Aug 2005 19:20:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+中国空间技术研究院总体部试验保障室是从事空间技术研究，服务空间飞行器机电热一体化专业技术与一体的试验保证部门，根据任务发展需要，特向社会招聘6名通讯电子类人才。敬请广大热爱祖国航天事业的上进青年报名!
+招聘岗位：电装\\电测\\无线电\\电测试；专业：通讯工程\\电子工程相关专业；男女不限；工资待遇面谈。
+有意者请尽快电话联系，我们将择优录取，然后进行岗位培训，合格即可上岗。
+联系人：梁主任，电话：（010）62542250 （010）68378733  手机13910614215

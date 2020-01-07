@@ -1,0 +1,40 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <chi@ccert.edu.cn>; Fri, 26 Aug 2005 10:51:25 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 11:09:48 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 11:09:48 +0800
+Date: Fri, 26 Aug 2005 11:09:48 +0800
+From: peng@cernet.com
+Subject: =?gb2312?B?ofEgtLTStc3FttOzz9H7s8zQ8snovMbIy9SxtcS808jrob7Iq7zm1rC++b/Job8=?=
+To: chi@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+团队简要介绍：
+我们正在开发一款新的即时通讯工具，团队包括负责产品设计、项目融资、市场推广、技术开发的人员。我们已经进行了深入的市场分析工作。对产品进行了主要框架的设计，我们有信心让我们的产品在市场中占有一席之地。
+我们不以和QQ或MSN竞争为目的，为优秀的人提供优秀的服务是我们的追求。和我们一起，您将拥有尽情发挥自我能力的舞台，也一定会获得人生的一次成功。
+欢迎有相同理想和兴趣的年轻朋友加入我们的团队！
+现阶段我们的工作以开发为主，我们希望有以下特长的朋友加入我们：
+一、Windows开发人员
+1. 熟悉Windows程序界面开发，MFC或Win32开发为主
+2. 熟悉Windows网络开发，熟练使用Win32网络接口库
+3. 有 1 年相关开发经验
+二、Linux开发人员
+1. 熟悉Linux环境下的C/C++开发，包括网络、多进程、数据库开发
+2. 有 1 年相关开发经验
+因为我们的特点，我们的工作时间相对灵活，还可以由您自己安排时间，当然我们需要足够的沟通，和足够的工作时间。
+我们也非常欢迎高校学子加入我们，在课余时间释放您的能量！
+人员数量：2名
+工作地点：北京
+薪资待遇：面谈
+联系方式：imlanbao@tom.com，或回站内信箱，请附上您的简历

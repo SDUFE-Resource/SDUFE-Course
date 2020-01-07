@@ -1,0 +1,17 @@
+Received: from 163.com (m13-20.163.com [220.181.13.20])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j897B1aC019635
+	for <wu@ccert.edu.cn>; Sun, 11 Sep 2005 09:32:22 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4321385B.0000FC.08953@bj163app20.163.com>
+Date: Sun, 11 Sep 2005 09:44:23 +0800 (CST)
+From: "wua" <wua@163.com>
+To: wu@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1eLDtMjDyMvQxLqutcS6w87E1cKyu9eqttSyu8bwtPO80sHLLi4u?=
+X-Priority: 3
+X-Originating-IP: [192.168.208.155(210.72.197.14)]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 163com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_zaEKjQWroZbskVmCcRNRUtYjFkpl"
+
+一, 教育部下令在教育网BBS推行实名制和禁止校外访问 
+    2005年3月1日，一份来自浙江大学某BBS的内部文件被公布，并迅速在教育网内传播开来，主要内容是教育部下令在教育网BBS推行实名制和禁止校外访问，但各大BBS“不约而同”地禁止对此事的询问和议论。据悉，这是教育部17号文件的要求，文件细节尚不得而知。3月3-5日，先后有水木清华（最高在线2.3万，目前教育网内排名第一的站点）、北大未名、南大小百合（最高在线1.2万，目前教育网内排名第二）、浙大海纳百川、武大珞珈山水、上海交大饮水思源、西安交大兵马俑、南开大学我爱南开、复旦大学日月光华等多个高校BBS进行“系统维护”，或暂时关站，或关闭部分服务（如校外访问、新用户注册等）。目前几个主要的教育网BBS尚未完全恢复服务，最严重的是南京大学小百合站，从3月4日起全站只读已有一周，其次是北大未名站，校外IP一律无法登录，水木清华站暂停新用户注册，且其重点版面清华特快仅允许校内访问，而一些高校BBS已经开始按照文件要求执行。一时间，教育网内哀声一片，人心惶惶。   
+   二, 外逃资金总额是中国全民储蓄额的百分之三

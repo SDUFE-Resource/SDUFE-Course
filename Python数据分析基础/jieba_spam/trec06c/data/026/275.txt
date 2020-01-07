@@ -1,0 +1,45 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J3gCnM014711
+	for <huang@ccert.edu.cn>; Mon, 22 Aug 2005 17:32:52 +0800 (CST)
+Received: (eyou send program); Mon, 22 Aug 2005 17:40:49 +0800
+Message-ID: <324423409.11928@mail.tsinghua.edu.cn>
+Received: (eyou send program); Mon, 22 Aug 2005 17:40:49 +0800
+Message-ID: <324423409.11903@mail.tsinghua.edu.cn>
+Received: from 202.112.4.166 by 166.111.8.18 with HTTP; Mon, 22 Aug 2005 17:40:49 +0800
+From: yuan@mail.tsinghua.edu.cn
+To: huang@ccert.edu.cn
+Date: Mon, 22 Aug 2005 17:40:49 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEg1tC5+r/G0K3Qxc+i1tDQxNXQxrjG9MrCKHp6KQ==?=
+Content-Type: text/plain
+
+中国科协信息中心招聘启事
+ 
+2005-08-17  
+ 
+　　中国科协信息中心是中国科学技术协会（以下简称中国科协）直属事业单位。根
+据中国科协信息化建设事业发展需要，经批准，公开招聘有关专业技术人员。
+　　招聘职位：（一）网站规划管理人员1名
+　　主要任务：负责网站规划、实施及有关组织管理工作。
+　　招聘条件：
+　　1、大学本科以上学历，5年以上网站规划管理经验；
+　　2、身体健康，年龄在35岁以下（可据情况放宽1-2岁）； 
+　　3、具有丰富的互联网从业经验，熟悉网站建设流程及开发方法以及所需要的相
+关专业知识和技能。
+　　有关待遇：月收入在3500元人民币左右，享受国家规定的有关保险，表现优异者
+可在两年后通过规定程序纳入正式在编人员管理。
+　　招聘职位：（二）信息采编人员2名
+　　主要任务：负责网站信息采集和内容编辑工作。
+　　招聘条件：
+　　1、大学本科以上学历，英语4级以上；
+　　2、身体健康，年龄在25岁以下； 
+　　3、具有选题策划、独立约稿和信息采集能力，文字功底好，熟悉网站常用编辑
+软件及所需相关专业知识和技能。
+　　有关待遇：享受同期高校毕业生待遇，享受国家规定的有关保险，其他收入与采
+编工作业绩挂钩。　　
+　　招聘方式：请将个人简历及照片在8月31日前发到以下信箱：
+　　E-mail：iccast @cast.org.cn ，简历内容要真实。初选通过者，在2005年9月
+初通过E-mail或电话方式，预约笔试和面试时间。 
+  
+                          中国科协信息中心
+                            2005年 8月16日

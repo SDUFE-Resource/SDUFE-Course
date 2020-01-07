@@ -1,0 +1,31 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <he@ccert.edu.cn>; Wed, 24 Aug 2005 15:28:48 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <he@ccert.edu.cn>; Wed, 24 Aug 2005 15:42:02 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Wed, 24 Aug 2005 07:36:35 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "shen" <shen@mail.tsinghua.edu.cn>
+To: he@ccert.edu.cn
+Subject: =?gb2312?B?ofEgZnSjrLG7xM/Dxc3iwLTQ3rTy06G7+rXEv9O087eiwcujoaOho6GjoQ==?=
+Date: Wed, 24 Aug 2005 15:38:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+开始跟他们说不能连续走纸
+来了也不知道什么情况了 说打印不清楚要换毂芯 160 还是三菱的（他居然说是hp的）
+说明情况后 换了分页器(开始忙别的事情 没顾的上谈价钱和看他换) 他居然说和毂芯一个价钱也是160
+问他换了什么 也支支呜呜的说不清楚 我说如果说不清楚 钱是不付的
+他终于从他包里拿出了我们换下来的分页器（天知道是不是他自己的） 就一个小塑料板
+然后我给他们公司打电话 公司的人说换hp 6L的分页器是120  聊了几句便宜到110
+导师也在 看他也忙了会也不容易 就说算了吧 
+我刚才在打印耗材网上一问才25的说  就算加上工时费也不要这么110 甚至要的160吧
+提醒大家注意啊，虽然不是自己的钱也不能这样让他们当傻子骗啊 
+btw: 修打印机的人是个21，2的小伙子 

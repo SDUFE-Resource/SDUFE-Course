@@ -1,0 +1,34 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <feng@ccert.edu.cn>; Sun, 21 Aug 2005 01:34:09 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 17:44:23 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 17:44:23 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "ren" <ren@jdl.ac.cn>
+To: feng@ccert.edu.cn
+Subject: =?gb2312?B?ofEg1NrP39Gwx/O9qNLp?=
+Date: Sun, 21 Aug 2005 01:48:31 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我曾经在一家全球的咨询公司实习过将近两年的时间
+今年要毕业了，准备开始找工作
+可是咨询公司的老板想让我继续上一个项目
+从现在到年底
+说等毕业后可以帮我争取offer
+如果我继续实习，就会没有时间参加下半年开始的招工作了
+我不知道该怎么选择阿，也不知道是不是这上这个项目
+以后进这个公司的可能性就小一些
+我还是想多有一些机会选择的
+但不知道自己是否能找到更好的工作
+唉
+不知道该怎么选择
+大家能给点意见吗
+谢谢

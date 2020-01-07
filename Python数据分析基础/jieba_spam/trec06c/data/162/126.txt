@@ -1,0 +1,82 @@
+Received: from 163.com (bj44-212.i.netease.com [202.108.44.212])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8J2mLj7012065
+	for <wen@ccert.edu.cn>; Wed, 21 Sep 2005 07:15:26 +0800 (CST)
+Message-ID: <200509191048.j8J2mLj7012065@spam-gw.ccert.edu.cn>
+Received: from tsinghua-i1p2se (unknown [219.223.254.137])
+	by smtp4 (Coremail) with SMTP id DkAhVaYpLkMLBk0E.1
+	for <wen@ccert.edu.cn>; Wed, 21 Sep 2005 07:26:57 +0800 (CST)
+X-Originating-IP: [219.223.254.137]
+From: "hou" <hou@163.com>
+Reply-To: hou@163.com
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9GnyvW9stf5XSBQcm9mLlpoaSBEaW5nLCBVQyBEYXZpcywgSUVFRSBGZWxsb3cgKNeq1Ngp?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 21 Sep 2005 07:26:53 +0800
+
+时间：9月27号14:30-16:00
+地点：东主楼10区309
+联系老师：杨知行教授
+【 以下文字转载自 DEE 讨论区 】
+发信人: pondering (生命在于奔跑), 信区: DEE
+标  题: [学术讲座] Prof.Zhi Ding, UC Davis, IEEE Fellow
+Professor Zhi Ding
+Department of Electrical and Computer Engineering
+University of California
+Davis 
+Dr. Ding is a Professor in the Department of Electrical and Computer Enginee
+ring, University of California, Davis. He received the B.S. degree from Nanj
+ing Institute of Technology, M.A.Sc. degree from the University of Toronto. 
+He received the Ph.D. degree from  Cornell University in 1990. He was assist
+ant and then associate professor from 1990-98 at Auburn University. He was a
+ssociate professor of Electrical and Computer Engineering at University of I
+owa in Iowa City from 1998-2000. He joined UC davis in 2000 where is current
+ly Professor and and Vice-Chair for Graduate Studies in the Department of El
+ectrical and Computer Engineering.   
+Dr. Ding is a Fellow of the IEEE for contribution in ``Blind Estimation and 
+Equalization in Communications\'\' . Dr. Ding is also named a 2004-06 Distingu
+ished Lecturer by the IEEE Circuits and Systems Society. In addition to serv
+ing on a number of  technical programs for workshops and conferences. He was
+ associate editor for IEEE Transactions on Signal Processing from 1994-1997 
+and again from 2001-2004. He also served as  associate editor of IEEE Signal
+ Processing Letters from 2002-2005. He was a member of technical committee o
+n Statistical Signal and Array Processing and  member of technical committee
+ on Signal Processing for Communications (1994-2003).  Prof. Ding is current
+ly a member of the IEEE SPS Technical Committee on Multimedia Signal Process
+ing.  He is a member of the Editorial Board for the IEEE Signal Processing M
+agazine. Dr. Ding was a member of the Organization Committee of ICASSP 2005 
+in Philadelphia.  He is the Technical Program Chair of the 2006 IEEE Globeco
+m. 
+Dr. Ding has held visiting positions in Australian National University, Hong
+ Kong University of Science and Technology,   NASA Lewis Research Center and
+ USAF Wright Laboratory. Prof. Ding has active collaboration with researcher
+s from several countries including China, Australia, Japan, Canada, Korea an
+d Singapore.
+Title:
+A Novel Concept of Forwardlink Channel Estimation and Precoding
+in Wireless Communications based on Decimated Feedback
+Abstract
+Wireless communication systems often encounter various types of
+channel conditions that lead to different channel capacities. It is
+well known that capacity-approaching performance requires transmitter
+knowledge of the forwardlink channel state information (CSI). How
+to acquire this important CSI at the transmitter is a major challenge.
+Here, we provide a new channel estimation paradigm for duplex
+wireless links. We describe a power and bandwidth efficient dual channel
+identification scheme based on decimated signal feedback for duplex
+wireless communication systems.  Instead of estimating and feeding back
+channel parameters, the mobile station returns a portion of its received
+data back to the base station for channel identification.  We also
+demonstrate the integration of precoded transmission into duplex channel
+estimation mechanism based on bent-pipe signal feedback under multipath
+channel distortions. We present an effective fractionally-spaced
+precoder design based on the base-station transmitter estimation of the
+downlink channel.  We focus on feedback of fractionally spaced samples
+and demonstrate the significant improvement when the channel estimator
+is given access to the precoder filters used by the wireless
+transmitters. We extend this new framework to discrete multitone (DMT)
+modulation and illustrate the effectiveness of the forward channel
+estimation on bitloading in DMT systems.

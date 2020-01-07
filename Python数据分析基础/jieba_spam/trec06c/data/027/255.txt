@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7KDHex7024107
+	for <zhang@ccert.edu.cn>; Mon, 22 Aug 2005 23:05:00 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7KDUs5V009772
+	for <zhang@ccert.edu.cn>; Mon, 22 Aug 2005 23:18:14 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 15:12:47 -0000
+Message-ID: <006a01c5a58a$e34fb9d0$787d6fa6@hotline>
+From: "xing" <xing@mail.tsinghua.edu.cn>
+To: zhang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILuqzqrT69bQ0Mu1xLbUschb16rM+V0=?=
+Date: Mon, 22 Aug 2005 23:14:38 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0067_01C5A5CD.F1481940"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+感觉华为才真的算个中国公司
+今年毕业打算去华为了
+     偶03年跳出来的，以前是规定每月两个周六加班，累计到下年做假期，比如春节请假等，如果用不完，补加班费。后来改成每月一个周六加班。
+     平时加班，我在的部门不多，我是新员工，算加得多的了，其他大多数人下班就走。或者等晚8点的免费夜宵和免费班车。周末基本上没人加班。但是偶在....因为刚到公司想多学点东西。周末除了规定的周六外，我加班都拿到了加班工资。至于外企，我现在在一家公司，不想评论。
+     华为做事很严谨，加班工资是按小时算的，我一次填加班表从早9点到晚6点，还被扣了中午吃饭休息的一个小时。华为很严格，比较自由一点人可能不能适应，为公司付出劳动，钱一分不少，比如每层楼都请员工做消防员，会给那个员工发补贴。但是任何与工作无关的事情都不能做，比如上网，qq，msn，需要工作上网的必须申请帐号。

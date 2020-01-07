@@ -1,0 +1,31 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <jian@ccert.edu.cn>; Wed, 24 Aug 2005 21:01:55 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Wed, 24 Aug 2005 21:15:02 +0800 (CST)
+Date: Wed, 24 Aug 2005 21:08:48 +0800
+From: "xia" <xia@sohu.com>
+To: jian@ccert.edu.cn
+Cc: "yxl" <huang@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg1dDGuLzm1rDN+NKz1sbX96Giw8C5pLj3MsP7?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+北京大学生安居互助中心是北大、清华两校学生专门为同学们找房的互助服务中心，成立
+于2001年9月1日。经过4年的踏实工作和艰苦努力，具有很高的信誉。现在我们正在打造中
+国唯一面向大学毕业生、校友的专业门户网站：北京大学生租房网。因网站改版需要，现招聘专兼职网站建设人员2名，美工2名，工作地点：清华东门。
+要求：
+1．熟悉门户网站制作风格，有门户网站制作经验，能够独立完成网站建设工作；
+2.熟练使用php动态建站语言，能进行程序开发，了解web网站建设的行业标准；
+3．具有较高的审美与创意能力，独立设计门户网站风格及版式；
+4.工作时间比较充裕。
+5. 招美工2名
+IT硕士，博士生在读优先，希望能长期兼职，热烈期待你的加盟！
+请浏览我们的网站，请发送简历至：al@china315.com，
+或输入汉字　北京大学生安居互助中心　先到网上看看
+电话联系：86181143，安先生

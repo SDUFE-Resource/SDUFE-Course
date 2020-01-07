@@ -1,0 +1,43 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U1PmpO004160
+	for <xue@ccert.edu.cn>; Sat, 3 Sep 2005 16:06:31 +0800 (CST)
+Received: (qmail 858 invoked from network); Sat, 3 Sep 2005 08:18:08 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 3 Sep 2005 08:18:07 -0000
+Message-ID: <000701c5ad03$b6eade80$e900a8c0@d47db5334f2a479>
+From: "xiao" <xiao@jdl.ac.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?ofEgztLDx8C0v8bR0LDJP8utuPjO0su1y7VWY2O4+lZkZLj6VnNzuPpWZWW2vMrHyrLDtD8=?=
+Date: Sat, 3 Sep 2005 16:20:33 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+baidu搜有以下各种说法
+我都糊涂了
+--------------------------------------------------------------------------
+VCC一般是指直接连接到集成（双极型）内部的三极管C极，VEE是指直接连接到集成内部
+三极管的E极。
+VDD、VSS的道理也一样，只不过将三极管换成场校应管。
+--------------------------------------------------------------------------
+Vcc和Vdd是器件的电源端。Vcc是双极器件的正，Vdd多半是单级器件的正。下标可以理解
+为NPN晶体管的集电极C，和PMOS or NMOS场效应管的漏极D。同样你可在电路图中看见Vee
+和Vss，含义一样。因为主流芯片结构是硅NPN所以Vcc通常是正。如果用PNP结构Vcc就为
+负了。荐义选用芯片时一定要看清电气参数。
+----------------------------------------------------------------------------
+一般来说VCC=模拟电源,VDD=数字电源,VSS=数字地,VEE=负电源
+---------------------------------------------------------------------------
+在电子电路中，VCC是电路的供电电压, VDD是芯片的工作电压，就那么简单：
+VCC：C=circuit 表示电路的意思, 即接入电路的电压， D=device 表示器件的意思, 即
+器件内部的工作电压，在普通的电子电路中，一般Vcc&gt;Vdd !
+VSS：S=series  表示公共连接的意思，也就是负极。
+有些IC 同时有VCC和VDD， 这种器件带有电压转换功能。
+在“场效应”即COMS元件中，VDD乃CMOS的漏极引脚，VSS乃CMOS的源极引脚， 这是元件
+引脚符号，它没有“VCC”的名称，你的问题包含3个符号，VCC / VDD /VSS， 这显然是
+电路符号。
+----------------------------------------------------------------------------

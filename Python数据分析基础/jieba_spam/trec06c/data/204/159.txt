@@ -1,0 +1,28 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <cheng@ccert.edu.cn>; Thu, 29 Sep 2005 14:35:51 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 06:47:01 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 14:47:01 CST
+Date: Thu, 29 Sep 2005 14:47:01 +0800 (CST)
+From: liang ming <gao@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMavwcFtbb+0uf3AtKO60ru49rPJyuzE0MjLtcTV97vp?=
+To: cheng@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+     自我介绍(身高,体重,籍贯,学历,现状,个人爱好等信息):
+         我不太看好虚拟网络的婚介功用，但还是希望多些机会，希大家都能诚心以待。
+     本人37岁，巨蟹座，171cm，身体健康，离异，有一7岁男孩，归前妻住国外。
+你好:
+   或许我们彼此可以了解一下!我我也离异,72年生人.有一个7岁男孩.
+给你我的另一个邮箱tina0461@hotmail.com
+   缘在天定,份在人为.
+                      
+                                            

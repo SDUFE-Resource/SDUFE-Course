@@ -1,0 +1,22 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <che@ccert.edu.cn>; Mon, 29 Aug 2005 11:34:40 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 11:45:13 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Mon, 29 Aug 2005 11:45:13 +0800
+From: "tao" <tao@ctbu.edu.cn>
+To: che@ccert.edu.cn
+Date: Mon, 29 Aug 2005 11:45:13 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "tao" <tao@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILu2060gVkO438rWo6E=?=
+Content-Type: text/plain
+
+不要在这个版发。
+博士毕业去你那里浪费了。
+在读博士去开发软件做兼职就浪费时间了
+         北京浩辰思达科技发展有限公司是92年在中关村成立的绘图软件(包括建筑、电气、暖通、给排水软件；软件平台）公司，公司100多人，国内外客户达2000余家，在全国设分公司、办事处。
+     希望您把能参加面试的时间、简历及手机、固话联系方式发送：job@grtsoft.com（请把简历粘贴在正文处，不要用附件形式发送！）
+     我们长期招聘 VC++高级软件工程师（全职/兼职），如您现在没空，请您以后方便时与我们联系！

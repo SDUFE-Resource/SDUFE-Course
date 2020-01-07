@@ -1,0 +1,28 @@
+Received: from sohumx112.sohu.com ([61.135.132.105])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7LBS8WR029302
+	for <lian@ccert.edu.cn>; Thu, 25 Aug 2005 09:43:49 +0800 (CST)
+Received: from yxl (unknown [211.155.142.154])
+	by sohumx112.sohu.com (Postfix) with ESMTP
+	id 475E41A47409; Thu, 25 Aug 2005 09:56:56 +0800 (CST)
+Date: Thu, 25 Aug 2005 09:50:42 +0800
+From: "kong" <kong@sohu.com>
+To: lian@ccert.edu.cn
+Cc: "yxl" <kang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMilsbG+qcfz1rA=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050821114116.475E41A47409@sohumx112.sohu.com>
+
+        好像那些大公司校园招聘或是一些职位的招聘
+        经常要通过学生处。学生处的老师可以把你推
+        荐过去。你就比参加招聘会的人有更多几率获
+        得那个职位，呵呵。而且，如果公司的人力资
+        源和学生处老师比较熟的话，没有大问题的话
+        基本上你就算是进去了。当然，这些只限于管
+        理人力之类的非技术类职位。那些研发支持之
+        类的职位招聘往往不吃这一套。
+     那为什么要巴结学生处的老师呢？
+     呵呵，有什么便利吗？

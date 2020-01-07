@@ -1,0 +1,49 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U301rY010973
+	for <wei@ccert.edu.cn>; Sat, 1 Oct 2005 03:15:03 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s67T079931
+	for <wei@ccert.edu.cn>; Sat, 1 Oct 2005 03:09:47 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from xproxy.gmail.com (xproxy.gmail.com [66.249.82.200])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8U2s2q2079927
+	for <wei@ccert.edu.cn>; Sat, 1 Oct 2005 03:09:04 +0800 (CST)
+	(envelope-from yeshao@gmail.com)
+Received: by xproxy.gmail.com with SMTP id t9so856482wxc
+	for <wei@ccert.edu.cn>; Fri, 30 Sep 2005 12:25:18 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=W8KmBVYgtJQpTKJHhyqBPQpNMrndwd0y2MpDtldR3I4RhE6Kc4T1HsM706J0vp9CsI6L8ZXwRUVAEpb0VeWHwwgHOmzIJg3N5ezU1rxXNE5OB77ZnjAGIUptwrX52M2CpQAbjQGH9u8CAY2rjKNU/w6Ll7Ao3skKpgKarKaNhNI=
+Received: by 10.70.28.8 with SMTP id b8mr798445wxb;
+	Fri, 30 Sep 2005 12:25:18 -0700 (PDT)
+Received: by 10.70.76.1 with HTTP; Fri, 30 Sep 2005 12:25:18 -0700 (PDT)
+Message-ID: <a00ed9800509292010qaccea32sfc4e2251cb90c982@mail.gmail.com>
+Date: Fri, 30 Sep 2005 12:25:18 -0700
+From: Shaozhi Ye <zhao@gmail.com>
+To: wei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7S0qrU9dH5z/LE48PHse2079G9?=
+In-Reply-To: <200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Disposition: inline
+	<200509300031.j8U0VemC078953@gradinfo.net.edu.cn>
+Content-Transfer-Encoding: 8bit
+	j8U2s2q2079927
+Precedence: list
+Reply-To: Shaozhi Ye <zhao@gmail.com>
+List-Id: NGN Lab Mailing List <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+     暗恋一个女孩已经有一年了
+     可是不知道怎样向她表白我的爱意，
+     女孩子们，你们说男生们要怎样去做？
+看在你还算执着的份上，我提几点建议供你参考：首先，你要了解好她是否有男朋友。要是有的话，他们感情如何。如果感情很好，那你就不要做第三者了。最好是没有。这样，你就可向她表白了。把她约出来，拿着玫瑰或是她最喜欢的花，把你的爱说出来，表示希望她能给你机会。
+忠告：不要拖延暗恋时间了，你不说就永远没有机会。即使她喜欢你，如果你总不说得话，她也有可能转向其他的爱慕者。要主动争取哦。

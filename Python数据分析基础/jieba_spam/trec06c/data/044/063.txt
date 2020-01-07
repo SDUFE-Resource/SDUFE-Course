@@ -1,0 +1,32 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <ning@ccert.edu.cn>; Fri, 26 Aug 2005 14:27:32 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Fri, 26 Aug 2005 06:17:07 -0000
+From: "wua" <wua@mails.tsinghua.edu.cn>
+To: ning@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Fri, 26 Aug 2005 14:40:49 +0800
+
+可以推荐给在上海的朋友
+代友发文，请勿头条
+工作性质：全职
+公司地址：张江软件园
+从事软件开发工作
+职位要求
+精通C/C++,Windows API,MFC
+好的代码风格，思维敏捷
+能够独立完成工作任务
+有良好的合作精神
+有日语或韩语基础优先
+欢迎访问公司网站：http://www.hostran.com.cn/web2004/
+有意者请发简历至：liuheng@hostran.com.cn  （最好不要用附件）
+来信请注明：期望薪资
+我们会尽快与你联系！
+谢谢！

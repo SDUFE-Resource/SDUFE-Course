@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q9wpWk007996
+	for <zhou@ccert.edu.cn>; Tue, 27 Sep 2005 06:19:30 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8QAAAcl020363
+	for <zhou@ccert.edu.cn>; Tue, 27 Sep 2005 06:30:49 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 06:06:17 +0800
+Message-ID: <327727938.08832@mail.tsinghua.edu.cn>
+Received: from 166.111.125.123 by mail.tsinghua.edu.cn with HTTP; Tue, 27 Sep 2005 06:06:17 +0800
+From: cen@mail.tsinghua.edu.cn
+To: zhou@ccert.edu.cn
+Date: Tue, 27 Sep 2005 06:06:17 +0800
+Reply-To: cen@mail.tsinghua.edu.cn
+X-Priority: 3
+Subject: =?gb2312?B?ofEgMji6xdDFz6LRp9S60afK9b2y1/k=?=
+Content-Type: text/plain
+
+信息学院学术讲座
+演讲题目：Wireless Sensor and Mesh Networks:Experiences from a Semiconductor Plant and the North Sea
+演 讲 者： Dr. Lakshman Krishnamurthy  Principal Engineer, Communication Technology Lab, Intel Corporation
+演讲时间： 2005年9月28日上午10:00-11:00 
+演讲地点： 信息技术大楼（FIT）1区315
+举办单位： 信息科学技术学院
+联 系 人： 牛志升 email: niuzhs@tsinghua.eud.cn  tel:62781423
+演讲摘要：
+Sensing technology is a cornerstone for many industrial applications. Manufacturing plants and engineering facilities, such as shipboard engine rooms, require sensors to ensure product quality and efficient and safe operation. The talk  focuses on one representative application, preventative equipment maintenance, in which vibration signatures are gathered to predict equipment failure. Based on application requirements and site surveys, we develop a general architecture for this class of industrial applications. This architecture meets the application\'s data fidelity needs through careful state preservation and over-sampling. The talk describes the impact of implementing the architecture on two sensing platforms with differing processor and communication capabilities. The talk presents a systematic performance comparison between these platforms in the context of the application. The Talk also describe our experience and lessons learned in two settings: in a semiconductor fabrication plant and onboard an oil tanker in the North Sea.  The talk will also cover the underlying wireless mesh network technology  and its broader applicability to 802.11 networks.
+ 
+演讲者简介：
+Lakshman Krishnamurthy is Principal Engineer, in the communications technology lab, Corporate Technology Group, Intel Corporation. He leads the flexible radio platforms initiative.  He has led projects in sensor networks, and radio/mesh networking. Previously, Lakshman was an architect of Intel\'s digital television stack, where he contributed to the first nation wide interactive TV broadcast trial with PBS. He received B.E. and Ph.D. degrees from the University of Mysore, India and the University of Kentucky, respectively.

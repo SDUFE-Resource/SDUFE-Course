@@ -1,0 +1,27 @@
+Received: from ms.hfcas.ac.cn (pop3.hfcas.ac.cn [202.127.207.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j868QjsV025989
+	for <qian@ccert.edu.cn>; Thu, 8 Sep 2005 20:14:01 +0800 (CST)
+Received: (qmail 22660 invoked by uid 98); Thu, 8 Sep 2005 12:26:16 -0000
+Received: from 202.127.200.44 by ms.hfcas.ac.cn (envelope-from <ccmwj@iim.ac.cn>, uid 889) with qmail-scanner-1.25 %=%=%=%=%(clamdscan: 0.85.1/934. spamassassin: 3.0.2.  
+ Clear:RC:1(202.127.200.44):. 
+ Processed in 0.032235 secs); Thu, 8 Sep 2005 12:26:16 -0000
+Received: from unknown (HELO wj) (ccmwj@iim.ac.cn@202.127.200.44)
+  by 0 with SMTP; Thu, 8 Sep 2005 12:26:16 -0000
+Message-ID: <01f401c5b2be$72456cd0$2cc87fca@wj>
+From: "yan" <yan@iim.ac.cn>
+To: qian@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+W7qtSwwO+jrLPW0PjC0sjTwKy7+LXEyMujvw==?=
+Date: Thu, 8 Sep 2005 20:26:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01F1_01C5B301.80594380"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+x-mimeole: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+面对一现象，不得不发文--
+    
+在清华园的不少小区，很多博士后、青年教师或其他人员等（可能主要集中于南楼社区）乱扔垃圾现象比较严重。也许我们感觉整体上校园还是比较干净的，那是因为清洁工的超额工作。据我们了解的南楼社区（靠近南门），根据收垃圾的车经过小区的时间，小区要求居民们早上6：30到8：30之间扔垃圾袋子，甚至也可以晚上扔。但是他们往往在白天的任何时候随意的就扔，较过分的还直接从窗子里就往外扔。这让居委会的工作很难做，居委会不停的呼吁或贴很多布告，收效却甚微，甚至还被作为高素质的知识分子的部分博士后、青年教师反讽。
+一个小区的清洁工基本就两到三位，他们早上三点多起床就开始工作，因为很多人乱仍，于是一直的工作着，基本没什么时间休息；大家在顾着自己方便的同时，是不是多少考虑一下别人呢？其他的分析道理的话就不再多说了吧。
+强烈希望该有点行动的人行动一下，培养一个好点的习惯。

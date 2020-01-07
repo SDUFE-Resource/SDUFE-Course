@@ -1,0 +1,45 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C14Rw4005866
+	for <xie@ccert.edu.cn>; Wed, 14 Sep 2005 12:46:32 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10pUV009300
+	for <xie@ccert.edu.cn>; Wed, 14 Sep 2005 12:43:47 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from runway.cn.net ([211.99.140.229])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8C10SHJ009269
+	for <xie@ccert.edu.cn>; Wed, 14 Sep 2005 12:42:49 +0800 (CST)
+	(envelope-from ych@runway.cn.net)
+Received: from ych ([192.168.1.219]) (authenticated bits=0)
+	by runway.cn.net (8.12.2/8.12.2) with ESMTP id j8C1CCLo025821;
+	Wed, 14 Sep 2005 12:54:21 +0800 (CST)
+Message-Id: <200509120112.j8C1CCLo025821@runway.cn.net>
+Date: Wed, 14 Sep 2005 12:56:57 +0800
+From: "tu" <tu@runway.cn.net>
+To: xie@ccert.edu.cn
+Subject: =?gb2312?B?ofEgV1O1xMz519Oyxc780v3IyyzP4MfXvMfPtcHQ1N245tK7ts7C5A==?=
+Organization: Runway
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Cc: 
+Precedence: list
+Reply-To: tu@runway.cn.net
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0751901259=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+我决定相亲记系列文学目前暂时告一段落.因为,暑假已经结束.我的导师已经分配了大量的课题任务给我.以后没时间相亲了.
+不过也说不准.如果有合适的,我还是相一相亲.
+虽然相亲记系列暂停,但是我还会搞一些其他WS的贴子出来的.
+目前此事正在酝酿之中.
+最后声明:
+我就是当年在鬼版叱咤风云的waln,另外,春节晚上的皮衣男事件,也是我干的.
+我也许过几个月就要出国了,出国之前,我决定把我以前所有的经典贴子公布在网上,供大家作永久的怀念.

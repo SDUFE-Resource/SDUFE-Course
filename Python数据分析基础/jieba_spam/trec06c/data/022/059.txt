@@ -1,0 +1,38 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <su@ccert.edu.cn>; Sun, 21 Aug 2005 15:19:38 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <su@ccert.edu.cn>; Sun, 21 Aug 2005 15:32:52 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Sun, 21 Aug 2005 15:01:33 +0800
+Date: Sun, 21 Aug 2005 15:32:43 +0800
+From: "chen" <chen@wnt.com.cn>
+To: su@ccert.edu.cn
+Cc: "lic" <che@ccert.edu.cn>, "sunt" <rao@ccert.edu.cn>, "caoy" <cao@ccert.edu.cn>,
+        "wangb" <xin@ccert.edu.cn>, "songhm" <cen@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgTHVjZW50IFFpbmdEYW8gUmVjcnVpdGluZw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+POSITION:               Software Engineers
+ORGANIZATION:   Convergence Solutions R&amp;D
+# of openings:                50
+LOCATION:               Qingdao
+GENERAL REQUIREMENTS
+§      B.S. or above in Computer Science, Communications, Electronics or other associated fields.
+§      Good computer science knowledge, working experience in telecom software development and testing is preferred.
+§      Fluent in both oral and written English (CET-6 or above).
+§      Strong analytical/debugging skills.
+§      Creative mindset and dedication, can learn things quickly and willing to take challenging jobs.
+§      Strong communication skills and interpersonal skills.
+§      Integrity, initiative, and good teamwork.
+JOB SUMMARY
+IMS  (3G, NGN) systems engineering, software design, development and testing 5EXC software design, development and testing
+JOB DESCRIPTION
+§      Working with world class innovation engine - Bell Labs. 
+§      Responsible for designing and developing IMS 

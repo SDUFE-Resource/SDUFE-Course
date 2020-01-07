@@ -1,0 +1,31 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <huang@ccert.edu.cn>; Fri, 19 Aug 2005 18:14:13 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <huang@ccert.edu.cn>; Fri, 19 Aug 2005 18:27:15 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Fri, 19 Aug 2005 18:50:43 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: yun@126.com
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEFpY2VudCBSJkQg1dDGuA==?=
+Date: Fri, 19 Aug 2005 18:21:57 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+这家公司怎么样啊？
+有没有了解的？？
+     Aicent Background
+     Leveraging our strong expertise in IP technologies, GSM/CDMA data and Internet network management, wireless data solutions, and telecommunications services, Aicent is playing a critical role in the convergence of the Internet and the wireless mobile network. Our service solutions address the most pressing needs of today\'s mobile operators by enabling new high-adoption, high value services. 
+     For further detailed company information, please visit our website http://www.aicent.com or http://www.aicent.net.

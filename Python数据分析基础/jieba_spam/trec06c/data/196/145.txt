@@ -1,0 +1,26 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <lian@ccert.edu.cn>; Wed, 28 Sep 2005 06:37:24 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Tue, 27 Sep 2005 22:48:34 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 06:48:34 CST
+Date: Wed, 28 Sep 2005 06:48:34 +0800 (CST)
+From: liang ming <fan@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM7S09C148Cnu/M=?=
+To: lian@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+可以看出，你bf对你很好，人品也很不错。
+可能比较重视朋友，而且这样做确实会让大部分mm难受。
+不过，最重要的是他人很好，对你也很诚实。
+不要太在意那个mm了。不要让别人影响了自己的幸福生活:)
+          我和男朋友已经处了四个月了，他说看到我第一眼，就想让我当老婆。我和他认识，是在大四毕业的季节。认识他之前我已经被保送到北京一个还算可以的大学读直博，而他也在上海找到一份作为本科生来说相当不错的工作。
+          放暑假了，我回了家，他去了上海。在到新公司报道的第一天下午，他辞了职。晚上买了来北京的火车票。我一阵感动，虽然当时在家里考驾照，可还是一路飞奔到北京，冒雨为他租房，好让他第二天一到，就有个落脚的地方。
+          他对我，不错。从来不让我做饭，不让我洗碗，不让我洗衣服。可以说，算是千依百顺了吧。我喜欢他，盛过以前谈了三年的男朋友。如果没有后来的事，我想我们应该算是比较幸福的一对了。

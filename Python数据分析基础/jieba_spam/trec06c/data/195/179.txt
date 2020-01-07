@@ -1,0 +1,24 @@
+Received: from 163.com (bj44-205.i.netease.com [202.108.44.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q25iG8003971
+	for <hu@ccert.edu.cn>; Wed, 28 Sep 2005 02:49:10 +0800 (CST)
+Message-ID: <200509261005.j8Q25iG8003971@spam-gw.ccert.edu.cn>
+Received: from LJF (unknown [221.2.147.100])
+	by smtp2 (Coremail) with SMTP id FsDnWBRaN0OCCNUE.1
+	for <hu@ccert.edu.cn>; Wed, 28 Sep 2005 03:00:12 +0800 (CST)
+X-Originating-IP: [221.2.147.100]
+Date: Wed, 28 Sep 2005 03:00:13 +0800
+From: "ni" <ni@163.com>
+To: hu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEZyZWVkb20gaXMgTk9UIGZyZWUgo7q4+M31zazRp7rNtNPKwr/G0dC5pNf3tcTNrMjK?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/related;
+	boundary="=====002_Dragon056103722146_=====";
+	type="multipart/alternative"
+
+我是计算所02级硕士，刚毕业，希望你不要以别人的背景来推测他的话语是否有道理，好不好？很奇怪你知道吗？
+你看好我的原文，我说是“体现”好不好，linux难道不比windows这种把所有东西都封装起来的os更能体现os原理的内部吗？
+     不好意思问一声，你是学什么的？居然把linux和tex作为计算机深层次知识，让cs的笑掉大牙，你不会说中关村装机器的是搞硬件吧？如果说他弄过那几个方向的话，那所有上过大学物理的也算弄过量子力学了，从这点看，王同学和爱因斯坦也确有一比。
+         王垠是不是有搞科研的兴趣，这个就看大家怎么理解科研了，反正我不觉得他觉得自己很牛。
+         你说他仅仅有兴趣于linux，tex，滑板这是有问题的，他的退学申请里，也提到了算法，数据挖掘，（微分几何？这个不确定）等方向，至少感觉他曾经专门“弄”过，虽然最后放弃了那些方向。所以他有研究精神是毫无疑问的。
+         不可否认，他在linux，tex这些比较能体现os，或者计算机科学深层次知识方面的工具的普及上作了很大贡献，我觉得中国需要这样的“科普”人。

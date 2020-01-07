@@ -1,0 +1,43 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <qiu@ccert.edu.cn>; Fri, 23 Sep 2005 18:00:17 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <qiu@ccert.edu.cn>; Fri, 23 Sep 2005 18:11:42 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 09:48:39 -0000
+From: "xin" <xin@mail.tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+Cc: <bi@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvfzG2s7ltcC/2saxvNs=?=
+Date: Fri, 23 Sep 2005 18:11:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+《神话》
+票价    成人40元   学生30元   “兑换券”3张/人
+《绝密飞行》 《逃之夭夭》
+票价    成人30元   学生20元   “兑换券”2张/人
+每周二所有电影成人零售票价在标准票价基础上半价优惠。
+     标  题: 近期五道口票价
+     
+     《世界之战》 《绝密飞行》
+     优惠场票价    成人40元   学生30元   “兑换券”3张/人
+     其他场票价    成人50元   学生40元   “兑换券”3张/人
+     
+     《求求你表扬我》 《独自等待》
+     优惠场票价    成人30元   学生20元   “兑换券”2张/人
+     其他场票价    成人40元   学生30元   “兑换券”2张/人
+     
+     《太行山上》 《帝企鹅日记》
+     优惠场票价    成人15元   学生10元   “兑换券”1张/人
+     其他场票价    成人25元   学生15元   “兑换券”2张/人 
+     
+     --
+     
+     

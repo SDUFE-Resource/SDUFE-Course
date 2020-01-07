@@ -1,0 +1,20 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RB80BW019815
+	for <lian@ccert.edu.cn>; Thu, 29 Sep 2005 07:44:47 +0800 (CST)
+Received: (eyou send program); Thu, 29 Sep 2005 07:30:58 +0800
+Message-ID: <327818451.29271@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 29 Sep 2005 07:30:58 +0800
+Message-ID: <327818451.29255@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 29 Sep 2005 07:30:58 +0800
+From: gong@mail.tsinghua.edu.cn
+To: lian@ccert.edu.cn
+Cc: long@ccert.edu.cn
+Date: Thu, 29 Sep 2005 07:30:58 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgztLDx8q10enK0rXEyqbQ1sqmtdzKpr3jyqbDw9XmzcW94dG9oaM=?=
+Content-Type: text/plain
+
+看了这么多大家的讨论，作为洪老师的学生，我的感受是：
+1 实验室的同学们好团结呀。不论是在国外的，还是国内的，大家都对我们实验室充满了感激。我也好希望，日后，大家能对实验室有所回报，对实验室日后的建设有所贡献。
+2 我的导师，洪老师，是一个真正的长者。每当我回忆起实验室的生活，洪老师对我人生和学识上的教导都让我无比感动。还记得写博士论文的致谢的部分，我眼含热泪修改了很多遍，再华丽的词语都无以表达我对导师的感激。
+3 王垠，你还是悄悄的离开我们实验室吧。

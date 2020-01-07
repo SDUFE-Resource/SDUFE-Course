@@ -1,0 +1,35 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8SBi0E8029027
+	for <ou@ccert.edu.cn>; Wed, 28 Sep 2005 20:38:27 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8SBtAlB017695
+	for <ou@ccert.edu.cn>; Wed, 28 Sep 2005 20:49:37 +0800 (CST)
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 28 Sep 2005 12:23:53 -0000
+Message-ID: <000c01c5c423$728140e0$0c42423b@tunoc1a645037e>
+From: "yuan" <yuan@mail.tsinghua.edu.cn>
+To: ou@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsK6jraOto63NtNauye6hoqGioaKhoqGioaI=?=
+Date: Wed, 28 Sep 2005 20:49:24 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01C5C466.808A4220"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+一个自己深爱的人，却经常伤害自己，
+而且他永远也不会考虑会给我一个婚姻的承诺；
+一个很爱自己，可对他却怎么也没有感觉，
+或许因为心一直还在前者的身上吧，
+看看年纪也快二十有五了，
+我还能消耗多少青春呢，
+或许应该在遇到爱自己的人时，把自己嫁掉，
+毕竟婚姻是平淡的过日子，
+有无感情又有多重要呢？
+没有＂爱＂才不会受伤害，
+婚姻里没有爱，
+我才不会在乎那么多的细微之处，
+也可以永远活在思念一个人的记忆之中，
+尽管或许他也不值得思念．

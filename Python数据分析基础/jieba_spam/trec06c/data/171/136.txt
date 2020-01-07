@@ -1,0 +1,58 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <zheng@ccert.edu.cn>; Fri, 23 Sep 2005 06:37:35 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 06:26:35 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 06:26:34 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 06:26:34 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 22:26:34 -0000
+From: "huang" <huang@mail.tsinghua.edu.cn>
+To: zheng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgseogzOI6IM/W1Nq1xNChuqLV5sWjQiBaWg==?=
+Date: Fri, 23 Sep 2005 06:48:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+发信人: guvest (每天爱你多一些), 信区: THU
+标  题: 现在的小孩真牛B
+发信站: BBS 未名空间站 (Sat Sep 24 21:06:24 2005), 转信
+ 
+除了Tex,王同学研究的东西从没坚持过，方向换了一个又一个，
+博四还没发过文章。几个月不去教研组，出去旅游两个月不给老板打招呼。
+退学还可以名正言顺的痛骂中国的教育体制，清华束缚学术自由...
+ 
+我看这都是他老板管得太松了。中国教育体制最不足的就是老板对学生要求不够严格。
+放在哪个国家，几个月不去教研组不会被赶走？
+发信人: goodbug (Rolling in Taurus), 信区: THU
+标  题: Re: 现在的小孩真牛B
+发信站: BBS 未名空间站 (Sat Sep 24 21:27:39 2005), 转信
+ 
+那小孩看不起IEEE trans，自己无非发了一篇导师作chair的conf.
+自己还看不上那篇paper。倒是LaTex和linux说了又说。
+俺倒没觉得用word有什么丢人的，俺发的IEEE trans就拿word写
+的，也没人笑话。
+发信人: cuixue (我是勤劳勇敢聪明熊), 信区: THU
+标  题: Re: 现在的小孩真牛B
+发信站: BBS 未名空间站 (Sat Sep 24 21:32:27 2005), 转信
+ 
+看不上paper不要紧,他4年都干什么了,那么狂顶tex,至少给做个前端把,象winedt,
+texniccenter什么的,要不象小日本一样做个yatex什么的emacs  package也行阿.我就是
+想知道他除了这个自己看不上的paper,在自己喜欢的东西上作出来什么了,除了那个100分
+的作业.发信人: guvest (每天爱你多一些), 信区: THU
+标  题: Re: 现在的小孩真牛B
+发信站: BBS 未名空间站 (Sat Sep 24 21:37:26 2005), 转信
+ 
+写了个&lt;完全用Linux工作&gt;的法轮功式鄙视微软的文章。
+发信人: cuixue (我是勤劳勇敢聪明熊), 信区: THU
+标  题: Re: 现在的小孩真牛B
+发信站: BBS 未名空间站 (Sat Sep 24 21:51:22 2005), 转信
+ 
+拜读了一下,呵呵,感觉他在写这片文章的时候好像东抄西抄,很多不象是他的个人体会.一
+个鄙视ide的人却说emacs的gud好,还要用ddd,呵呵.

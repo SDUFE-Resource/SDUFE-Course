@@ -1,0 +1,39 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M86NRD005794
+	for <li@ccert.edu.cn>; Thu, 25 Aug 2005 14:34:03 +0800 (CST)
+Message-ID: <200508221606.j7M86NRD005794@spam-gw.ccert.edu.cn>
+Received: from unknown (HELO ccert-dijg) (dijg01@166.111.203.28)
+  by localhost with SMTP; Thu, 25 Aug 2005 06:23:38 -0000
+From: "wen" <wen@mails.tsinghua.edu.cn>
+To: li@ccert.edu.cn
+Subject: =?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+      charset="GB2312"
+Content-Transfer-Encoding: quoted-printable
+Date: Thu, 25 Aug 2005 14:47:20 +0800
+
+问题应该出在202.97.10.233这台路由器上，不是教育网的问题。
+Tracing route to newsmth.org [61.182.213.238]
+over a maximum of 30 hops:
+  1    &lt;1 ms    &lt;1 ms    &lt;1 ms  th077001.ip.tsinghua.edu.cn [59.66.77.1]
+  2    &lt;1 ms    &lt;1 ms    &lt;1 ms  th003129.ip.tsinghua.edu.cn [59.66.3.129]
+  3     1 ms    &lt;1 ms    &lt;1 ms  th002021.ip.tsinghua.edu.cn [59.66.2.21]
+  4    &lt;1 ms    &lt;1 ms    &lt;1 ms  qhu0.cernet.net [202.112.38.69]
+  5    &lt;1 ms    &lt;1 ms     *     202.112.62.82
+  6     *       &lt;1 ms     *     202.38.123.18
+  7     1 ms     1 ms    &lt;1 ms  202.38.123.10
+  8   151 ms   148 ms   151 ms  202.97.10.233
+  9   142 ms     *      146 ms  219.158.5.85
+ 10   144 ms   143 ms   145 ms  219.158.5.93
+ 11   148 ms   145 ms     *     219.158.8.230
+ 12   155 ms   155 ms   159 ms  202.99.160.254
+ 13     *      160 ms     *     61.182.174.66
+ 14   151 ms   153 ms     *     218.12.255.118
+ 15   173 ms   176 ms   178 ms  202.99.155.1
+ 16     *        *        *     Request timed out.
+ 17   170 ms     *      162 ms  61.182.213.238
+Trace complete.
+     真有点受不了了。
+     想查点东西，半天没有反应。

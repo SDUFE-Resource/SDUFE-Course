@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <zhong@ccert.edu.cn>; Sun, 25 Sep 2005 09:52:28 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <zhong@ccert.edu.cn>; Sun, 25 Sep 2005 10:03:53 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 01:40:50 -0000
+From: "lv" <lv@mail.tsinghua.edu.cn>
+To: zhong@ccert.edu.cn
+Cc: <chen@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sun, 25 Sep 2005 10:03:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+你们实验室计算机这么差？
+我们实验室crt都是19以上，液晶都是17以上
+     赞一个，我本科是清华电子的。本科也差不多如此。这里有几个小故事。
+     第一个，以前和本科同学一起在学校实验室干小活。一天师兄（博士）给同学交待了个硬件设计的小任务，师兄看完他的程序后就在实验室开玩笑说“xxx写的什么程序，我让他给我写个状态机，结果他弄了个数数器给我一二三的数”然后全实验室的人都大笑我同学（幸亏他当时不在

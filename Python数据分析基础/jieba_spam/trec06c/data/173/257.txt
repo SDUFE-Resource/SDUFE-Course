@@ -1,0 +1,45 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MBlwl4008068
+	for <lai@ccert.edu.cn>; Fri, 23 Sep 2005 17:33:49 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MBxMM7016287
+	for <lai@ccert.edu.cn>; Fri, 23 Sep 2005 17:45:13 +0800 (CST)
+Message-Id: <200509221159.j8MBxMM7016287@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 09:22:45 -0000
+From: "ning" <ning@mail.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+Cc: <peng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0r24xKGivcy4xLXEv+DE0bzH0uQgzPrCt7jEuO/Sqs/Ivq3Su7esv73Oynp6?=
+Date: Fri, 23 Sep 2005 17:45:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01C5BFB0.1AA3F830"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/bQxc9zLICd+qRfWZC6wWeKe64A==
+
+http://news.xinhuanet.com/fortune/2005-09/23/content_3530697.htm
+  　铁路改革要进行大的运作了―――这是近日铁道部举办的“中国铁路投融资改革论坛
+”上传出的信号。铁道部官员在论坛上称：铁道部已经确立了“政府主导，多元化投资，
+市场化运作”的改革总体思路。而发改委官员称，将进一步深化铁路价格改革，允许铁路
+实行管制下的适度灵活的定价制度（据9月21日《中国青年报》报道）。 
+    又是市场化，又是多元化，又是灵活定价――基于对医改、教改的苦难记忆，公众对
+这些似曾相识的关键词极其敏感，纷纷对铁路改革发出质疑：又是市场化，难道要走医改
+和教改的老路，让百姓出不起门？ 
+    笔者认为，公众对铁路改革思路的质疑并非苛求，更非无理取闹，而是在经受不成功
+的医改和贵族化的教改后，对自身利益的一种本能的正当防卫――这种改革要先经受诸种
+合法性的拷问。 
+    铁路市场化改革首先要经受的拷问是：改革的目标是什么，是为铁路部门圈钱还是考
+虑老百姓利益，会让老百姓坐不起火车、出不了远门、春节回不了家吗？医改市场化让很
+多人看不起病，教改市场化让很多人读不起书，在人口流动越来越频繁的今天，火车票也
+密切关系着社会公平，如何保证此次改革不是对百姓福利的一次掠夺？ 
+    按照目前的情况，铁路改革很容易成为一次变相的涨价运动。在市场化运作的旗号下
+，铁路既是一个戴着垄断帽子的政府部门，又是一个追逐最大化利润的企业，发改委又为
+他们打开了“灵活定价”的涨价方便之门，垄断+市场化+自由定价，票价不涨才怪。这种
+趋势已经在现实中有所表现：比如，现在的很多空调车是由原来的普通车改装而成，车价
+翻了近一倍，可夏天空调经常不开―――而这些改造是为了消费者吗？ 
+    铁路改革必须明确这样的底线：让大多数人享受到实惠，不能增加百姓的负担―――
+如果对这点缺乏认同，改革就没有合法性。 
+    试过的“错”是不能一错再错的。社会再也承受不起一次改革名义下的掠夺了。（曹
+林，青年杂文家） 

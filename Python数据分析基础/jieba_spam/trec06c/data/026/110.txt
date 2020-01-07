@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <wei@ccert.edu.cn>; Mon, 22 Aug 2005 14:06:33 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <wei@ccert.edu.cn>; Mon, 22 Aug 2005 14:19:47 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 13:48:28 +0800
+Date: Mon, 22 Aug 2005 14:19:38 +0800
+From: "weng" <weng@wnt.com.cn>
+To: wei@ccert.edu.cn
+Cc: "lic" <bai@ccert.edu.cn>, "sunt" <ni@ccert.edu.cn>, "caoy" <zhu@ccert.edu.cn>,
+        "wangb" <pu@ccert.edu.cn>, "songhm" <xia@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILj3zrvQ1rXco6zOyrj2zsrM4g==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+我来解释吧.怎么说我都是拿过自主招生的人.
+自主招生不同学校有着不同的标准,一般而言,分成两类.
+1.只要上了重点分数线即可入学,专业则视不同情况而定.有的是自由选,有的是根据分数来定.
+2.自主招生加20分.一般是每个学校会在该省将自主招生的人单独拿出来进行操作.加20分可以上投档线的进入自主招生范围.视不同学校,选专业的时候可能扣除这20分,或者不扣除.具体专业的确定我不是很清楚.但似乎是自主招生的人自己排,我一个同学就是线下一分.自主进了建筑.
+最后指出的是,自主正常意思是拿到自主招生名额,但正常上了投档线,和普通考生一样.
+     学生类别里面通常都是统招，但有人是自主正常是什么意思？

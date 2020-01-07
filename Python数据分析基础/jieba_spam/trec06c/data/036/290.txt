@@ -1,0 +1,36 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <zhuang@ccert.edu.cn>; Thu, 25 Aug 2005 06:13:04 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 06:31:27 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 06:31:27 +0800
+Date: Thu, 25 Aug 2005 06:31:27 +0800
+From: ren@cernet.com
+Subject: =?gb2312?B?ofEgu6rOqqOtM2NvbdXQxrijqMnn1dCjqQ==?=
+To: zhuang@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+职位名称：业务软件工程师
+所属部门：研发部
+工作地点：北京
+有效时间：2005.12.31
+职位主要应负指责：
+1、承担Window/UNIX/LINUX平台的软件概要设计、详细涉及，独立完成编码；
+2、制定测试方案、完成测试与调试工作。
+岗位要求：
+1、本科以上计算机专业或相关专业，具有1年以上的应用软件开发经验；
+2、熟练掌握C++或JACA语言编程；
+3、有大型数据库（sybase/DB2/SQL Server/ORACLE）使用经验；
+4、最好有UNIX/LINUX/平台软件开发经验；
+联系方式：huangxiaodong@huawei.com
+3com的待遇同华为，社招的待遇好像又好于应届的，以前发过这个帖子，由于产品的扩充，所以好像公司常年在招人。

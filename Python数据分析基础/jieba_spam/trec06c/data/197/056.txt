@@ -1,0 +1,25 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <feng@ccert.edu.cn>; Wed, 28 Sep 2005 09:34:08 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Wed, 28 Sep 2005 01:45:15 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 09:45:15 CST
+Date: Wed, 28 Sep 2005 09:45:15 +0800 (CST)
+From: liang ming <xing@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6INX3yMu45svfztK4w9T1w7Sw7KO/ztjO2A==?=
+To: feng@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+     合同上  写的是每个月两千
+     最有 三个人签字  每个人交的定金也是 各个人一个月的房租
+     我想如果我违约了 那我就不要我的押金了
+其实，我现在找的房子是两千四，房子条件都非常好，
+考虑到我的违约的原因，我极力要求她跟我一块儿住，给她的房租是六百五，她都不愿意。
+我说要不你跟我住一个房间，直到你找到合适的住处，因为她在白石桥上班，要搬她也就打算搬到公司附近，她也不。
+我真的是没辙了。

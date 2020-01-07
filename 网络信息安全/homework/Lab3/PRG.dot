@@ -1,0 +1,9 @@
+digraph g{
+        node [
+            shape = "record"
+            color = "blue"
+        ]
+        rankdir="LR"
+	      Seed -> "Pesudo\n Random\n Generator";
+        "Pesudo\n Random\n Generator"->Key;
+}

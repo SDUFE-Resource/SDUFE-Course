@@ -1,0 +1,24 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bnUK006748
+	for <jiang@ccert.edu.cn>; Tue, 27 Sep 2005 21:24:10 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4d00836;
+	Tue, 27 Sep 2005 21:27:25 +0800
+Message-Id: <200509260741.j8Q7f4d00836@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Tue, 27 Sep 2005 13:27:23 UT
+To: jiang@ccert.edu.cn
+From: guo@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+
+如果我们换一套标准呢？
+这些牺牲者是不是自身不能够适应环境，或者说不够刚毅呢？
+我们为什么不能要求真正的牛人在不是太好的环境下保持自己的中立，并最终取得自己的成就呢。
+自知以上言论有失偏颇，但是我的目的只是想提出一个看问题的新的角度，想提醒一下，大家在对环境作要求的时候，现考察一下自己做到了该做的没有。欢迎大家随意拍砖。还是喜欢清华的校训：行甚于言
+     呵呵，如果这样的话也叫哲理，那真是对哲理的讽刺
+     大的环境不改进，只会制造出更多的王垠，或者沉醉在千篇工程重而不醒的老师和学生。
+     回避问题，只会造就更多的牺牲者

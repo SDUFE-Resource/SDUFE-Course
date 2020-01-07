@@ -1,0 +1,29 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <sun@ccert.edu.cn>; Sat, 20 Aug 2005 12:30:09 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <sun@ccert.edu.cn>; Sat, 20 Aug 2005 12:43:11 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sat, 20 Aug 2005 13:06:39 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: feng@126.com
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INPQveK+9tLyy7zE7rb419zKx7bA19TC5MDhtcSw7LeowvCjvw==?=
+Date: Sat, 20 Aug 2005 12:37:53 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+跟朋友一起玩，把时间安排的满满的，就没空去想去哭了
+     和GG是一个城市的人，但是因为读书而异地恋，他刚刚回来过了二十天的暑假，一个多星期
+     前走了，我们每天都会联系，但我还是会非常想他，想的时候就一直哭一直哭，哭到伤心欲绝，心里很失落，想着在一起的每一个细节，有时候突然就有想哭的冲动，很想他，但是这样老是伤心很伤身体的，有什么办法可以缓解一下这种太伤心的感情呢？

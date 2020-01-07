@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7I9YsrP008948
+	for <hua@ccert.edu.cn>; Mon, 22 Aug 2005 03:02:02 +0800 (CST)
+Received: from wnt.com.cn ([211.100.22.34])
+	by sea.net.edu.cn (8.12.11/8.12.11) with ESMTP id j7I9m8Do020678
+	for <hua@ccert.edu.cn>; Mon, 22 Aug 2005 03:15:16 +0800 (CST)
+Message-Id: <200508180948.j7I9m8Do020678@sea.net.edu.cn>
+Received: from 61.51.124.29 (HELO vaio) (envelope-from guoj@wnt.com.cn)
+	by  (quarkmail-1.2.1) with SMTP id S1873303AbVHRJQt
+	for nrc-wb-pr@cernet.edu.cn; Mon, 22 Aug 2005 02:43:57 +0800
+Date: Mon, 22 Aug 2005 03:15:07 +0800
+From: "yuan" <yuan@wnt.com.cn>
+To: hua@ccert.edu.cn
+Cc: "lic" <wen@ccert.edu.cn>, "sunt" <lai@ccert.edu.cn>, "caoy" <hou@ccert.edu.cn>,
+        "wangb" <zhu@ccert.edu.cn>, "songhm" <lv@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7StcTAp7vzo7q40Mfp0Oiyu9Do0qrSqr+80emjvw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+我不这么认为。
+前景理论认为，人们习惯从一个局部去推断整体。
+人们对于“得到”不愿意去冒风险，而对“失去”愿意去冒风险。
+开始，谁都不了解谁。
+接触，女生对同一个男生的评价是恒定的。
+女生有两种选择，对于对方表现比较满意，对于对方表现不满。
+当女生表示满意的时候，男生倾向于能够得到这份感情。
+当女生表示不满意的时候，男生倾向于不能够得到这份感情。
+同样都是想得到这份感情为前提，后者中，男生首选是更努力地去追求这份感情。
+     这两件事情未必相关
+     也许前面那个人即使表现出对他不大喜欢也不会拼命追她
+     而后面那个即使表现出喜欢他也会拼命追

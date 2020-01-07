@@ -1,0 +1,34 @@
+Received: from tsinghua.org.cn ([210.77.143.232])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PCdW0h032355
+	for <gong@ccert.edu.cn>; Tue, 27 Sep 2005 08:30:49 +0800 (CST)
+Received: (eyou send program); Tue, 27 Sep 2005 08:46:32 +0800
+Message-ID: <327652915.84524@tsinghua.org.cn>
+X-EYOUMAIL-SMTPAUTH: chenguangying@tsinghua.org.cn
+Received: from unknown (HELO ccertdawei) (221.222.173.57)
+ by 210.77.143.232 with SMTP; Tue, 27 Sep 2005 08:46:32 +0800
+Message-ID: <000101c5c1cf$bb387e80$0301a8c0@CCERTDAWEI>
+Reply-To: "hu" <hu@ccert.edu.cn>
+From: "hu" <hu@tsinghua.org.cn>
+To: gong@ccert.edu.cn
+Subject: =?gb2312?B?ofEgv7TV4rj2?=
+Date: Tue, 27 Sep 2005 05:46:22 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+就地及时（最好是在咬伤后几分钟内）对伤口进行清洗消毒：可用3%－5%
+肥皂水或0.1%新洁尔灭或再用清水充分洗涤，较深伤口冲洗时，用注射器伸
+入伤口深部进行灌注清洗，做到全面彻底。再用75%乙醇消毒，继之用浓碘酊
+涂擦。局部伤口处理愈早愈好，即使延迟1－２天甚至3－4天也不应忽视局部
+处理，此时如果伤口已结痂，也应将结痂去掉后按上法处理。
+伤口不宜包扎、缝口，开放性伤口应尽可能暴露。如果伤口必须包扎缝合（如
+侵入大血管），则应保证伤口已彻底清洗消毒并已按上法使用抗狂犬病血清。
+必要时使用抗生素或精制破伤风抗毒素。严重咬伤者伤口周围及底部需要注射抗
+狂犬病血清，或使用狂犬病免疫球蛋白。如果经济条件允许，或严重咬伤，建议
+联合使用干扰素，以增强保护效果。
+     刚才被猫抓伤了

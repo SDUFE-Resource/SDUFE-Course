@@ -1,0 +1,28 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8E8vXtq025602
+	for <zeng@ccert.edu.cn>; Thu, 15 Sep 2005 11:46:24 +0800 (CST)
+Received: from LiangSheng-out ([211.94.162.128])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j8E9SgfP001016
+	for <zeng@ccert.edu.cn>; Thu, 15 Sep 2005 12:17:32 +0800
+Message-Id: <200509140928.j8E9SgfP001016@stmp.nisac.gov.cn>
+Date: Thu, 15 Sep 2005 11:57:39 +0800
+From: "xu" <xu@mail.nisac.gov.cn>
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?ofEgx+u9zLj3zrvAz8qmus3NrNGnICjXqtTYKQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+【 以下文字转载自 Embedded 讨论区 】
+发信人: rainboyfdy (rainboyfdy), 信区: Embedded
+标  题: 请教各位老师和同学
+本人研一，开学定个人培养方案．导师的专业和我自己本科做的东西差距很大(只有靠自学了,俺比较喜欢这点,器材什么的可以自己去买了^_^)，想自己定培养方案．请指导一下向哪方面发展．请ＴＨ的老师给予指导
+本人简述：
+具有电路等基本知识(数电,模电,电路,自动控制,传感器,微机,单片机等)
+熟悉AVR,MEGA系列的单片机(ARM学习中).了解一点无限通信的知识(本科做项目中用到了一点通信),本科毕业设计做关于GSM,GPRS的东西.熟悉计算机网络(做过网络抓包和局域网通信程序).熟悉GCCAVR,VC,BCB,PROTEL等开发.
+初步打算学DSP,和ARM.可学了这些东西后不知道做什么东西好????
+可否有什么课题??如果想考TH的博士,该选哪些的课程
+希望能和我站内联系,谢谢.比较急※ 修改:・rainboyfdy 於 Sep 14 19:56:51 2005 修改本文・[FROM: 202.101.173.*]

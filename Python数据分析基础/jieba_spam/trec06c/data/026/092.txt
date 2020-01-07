@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <ye@ccert.edu.cn>; Mon, 22 Aug 2005 13:48:16 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <ye@ccert.edu.cn>; Mon, 22 Aug 2005 14:01:34 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Mon, 22 Aug 2005 05:56:11 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: ye@ccert.edu.cn
+Cc: "tunet" <ni@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgtdrSu8aqt6LU2r+80dCw5g==?=
+Date: Mon, 22 Aug 2005 13:57:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+    我现在跟lp一起在清华某系读研，我们都是直推的，开学就要研二了。一年过去了，觉得这里的学习和研究跟我所想要的实在是差得很远，老板就像一个刚爆发了的资本家一样，不学无术且自以为是。当初推研的时候成绩不好，觉得不管什么地方都行，好歹混个清华的硕士文凭吧，就跨专业到了现在的地方。这一年中不断地挣扎徘徊，想追求自己的理想，又怕成本太高风险太大到头来什么也没得到。现在终于下定决心退学考研（违约金好贵……），趁着年轻努力为自己的理想奋斗一次。开始读书以来一切都太顺利了：中考走形式，高三保送清华，后来又直推研究生。安逸的生活磨平了我的棱角，让我慢慢变得逆来顺受。我不想再这样生活下去了，就算考研失败了去工作，也比现在每天说违心的话做不喜欢的事情要好。我要做自己想做的事情，年轻的时候不折腾一下，年纪大了就更没勇气了。
+    虽然浪费了一年时间，可是在这一年里近水楼台追到了lp，实在是很划算。谢谢lp支持我，跟你结婚是我有生以来作出过的最英明的决定。要让爸爸失望了，他老人家一直想让我安安稳稳读到毕业。我还是觉得如果我不这样做，以后我会后悔一辈子。对现在的老板，虽然有一肚子的牢骚，但不说也罢。以后大路朝天，各走一边。对我推研时找的老板，我想说，您把我召入门下就退休，这是个什么事呀……就当我上辈子欠了您的吧。
+    以后就常驻这边了，跟各位xdjm一起好好做准备。我想考CS，数学英语忘得差不多了，专业课除了数据结构别的也一窍不通，要做的事情还有很多。大家一起加油吧：）

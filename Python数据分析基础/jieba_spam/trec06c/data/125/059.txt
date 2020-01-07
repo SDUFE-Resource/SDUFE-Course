@@ -1,0 +1,23 @@
+Received: from mailb.dlut.edu.cn (mailb.dlut.edu.cn [202.118.66.72])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C79WGx009045
+	for <hua@ccert.edu.cn>; Tue, 13 Sep 2005 10:21:53 +0800 (CST)
+Received: by mailb.dlut.edu.cn (Postfix, from userid 1001)
+	id BBBF271182F; Tue, 13 Sep 2005 10:33:52 +0800 (CST)
+Received: from lucky (unknown [210.30.16.66])
+	by mailb.dlut.edu.cn (Postfix) with ESMTP id 3284B6BF956
+	for <hua@ccert.edu.cn>; Tue, 13 Sep 2005 10:33:51 +0800 (CST)
+Message-ID: <01d901c5b76a$9802e4b0$42101ed2@test.dlut.com>
+From: =?gb2312?B?1cXP/r6w?= <kang@dlut.edu.cn>
+To: hua@ccert.edu.cn
+Subject: =?gb2312?B?ofEgxOPKx8TE1ta51tG+zbejv6Oh?=
+Date: Tue, 13 Sep 2005 10:33:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01D6_01C5B7AD.A60E56F0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+测试－你是哪种怪丫头？！
+有些人表面上看起

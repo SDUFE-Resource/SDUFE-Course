@@ -1,0 +1,26 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <che@ccert.edu.cn>; Wed, 24 Aug 2005 22:43:19 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 24 Aug 2005 23:01:42 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 23:01:42 +0800
+Date: Wed, 24 Aug 2005 23:01:42 +0800
+From: lei@cernet.com
+Subject: =?gb2312?B?UmU6ILPP0ftQUE1Nsb7W3MH5sbG0872yzMPQwMnNysC959K7wffU07y80d2z9qOh?=
+To: che@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+         中国的杂技艺术历史悠久，源远流长，是中华民族珍贵的文化遗产。中国的杂技之乡有很多，其中最著名的就是河北吴桥，有“世界杂技看中国，中国杂技在吴桥”之誉。吴桥县位于冀鲁交界处，在吴桥，杂技艺术俗称“耍玩艺儿”， 几乎村村都有杂技艺人。民谣里说：“上至九十九，下至才会走，吴桥耍玩艺儿，人人有一手”，可见杂技艺术在吴桥有着广泛的群众基础。吴桥人对杂技有着特殊的爱好，无论街头巷尾还是田间麦场，甚至在饭桌前、土炕上，他们随时都会翻一串跟斗，叠几组罗汉，变几套戏法魔术。 
+         担纲本次演出的中国吴桥杂技魔术团历史悠久，实力雄厚，现有演职人员百余名，以正规化的训练、科学化的管理著称，精彩的表演受到各界人士的欢迎。团长何书胜是吴桥最出名的杂技艺人之一，在他的带领下，该团在各类杂技比赛中获奖，有多个节目被载入吉尼斯世界纪录。
+         本场演出中，中国吴桥杂技魔术团的演员们将为大家带来杂技、魔术、气功、柔术、狮子舞等精彩的节目，相信您一定会被他们高超的技艺折服，为他们精彩的表演叫绝。
+偶对下个月的歌剧《茶花女》比较感兴趣，不过我不是MM

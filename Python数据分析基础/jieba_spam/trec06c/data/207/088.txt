@@ -1,0 +1,42 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <chi@ccert.edu.cn>; Fri, 30 Sep 2005 03:26:08 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Thu, 29 Sep 2005 19:11:42 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "jin" <jin@mail.tsinghua.edu.cn>
+To: chi@ccert.edu.cn
+Cc: "Duan Haixin" <cheng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgu7bTrdGh0N5UZWNobm9sb2dpY2FsIGFuZCBNYW51ZmFjdHVyaW5nIENvbnN0cmFpbnRzIGVh
+cmx5IGE=?=
+Date: Fri, 30 Sep 2005 03:36:59 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+课程名：Technological and Manufacturing Constraints early at the design stage
+任课教师：Nabil Anwer，Associate Professor
+in the Department of Mechanical Engineering at Paris North University
+课程简介：
+该课程是法国教育部和清华大学交流合作的内容之一。授课语言为英语，2学分。教学平台采用CAD/CAM软件CATIA,在CAD教学中心的工作站教室上课，讲授和实践相结合。
+授课对象：
+航空航天学院、机械学院、计算机系、自动化系的相关专业的研究生或高年级本科生。欢迎有兴趣的研究生选修。
+授课时间和课程内容的具体安排
+授课时间：
+2005年10月10日－10月28日（第5-7周，每周一、周五下午2:00-6:00）
+授课地点：
+CAD教学中心（一教三楼306）
+选课电话：
+62783804 杨艳 (Email: yan-yang@mail.tsinghua.edu.cn) 
+请大家提前办理选课手续以保证有充足的机位，（发信告知姓名、所在系、学号、班号、email,以便发送课程信息和资料。）
+课程内容：
+This course is typically organized into the four modules:
+PART 1 Languages for geometrical dimensioning and tolerancing (8h)
+PART 2 Functional tolerancing (8h)
+PART 3 Manufacturing and statistical tolerancing (8h)
+PART 4 Geometrical Metrology (8h)

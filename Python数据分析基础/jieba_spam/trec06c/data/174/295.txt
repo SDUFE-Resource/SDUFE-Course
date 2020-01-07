@@ -1,0 +1,76 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8M5vbgt005692
+	for <shen@ccert.edu.cn>; Fri, 23 Sep 2005 22:50:37 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8M5qUEM011899
+	for <shen@ccert.edu.cn>; Fri, 23 Sep 2005 22:46:27 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn (stu.ee.tsinghua.edu.cn [166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8M5qPKG011895
+	for <shen@ccert.edu.cn>; Fri, 23 Sep 2005 22:45:28 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 19856 invoked by uid 512); Fri, 23 Sep 2005 14:53:51 -0000
+Message-ID: <20050922060051.19855.qmail@stu.ee.tsinghua.edu.cn>
+From: lian@stu.ee.tsinghua.edu.cn
+To: shen@ccert.edu.cn
+Date: Fri, 23 Sep 2005 22:53:51 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Subject: =?gb2312?B?ofEgttTN9c2s0ae1xMX6xsC6zb2o0uk=?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+草草看了他的文章，本来潜水得我也不由想说几句。
+我想王同学的核心问题，是把自己看得太高了，也许你真得
+有这么高明，并且通过这么多年的一些小项目，你也的确取
+得了一些成绩，帮助你建立了信心，但是你的一些做法和想法
+还是欠妥和不成熟的。
+首先我不知道你想要什么？清华怎么对不起你了？
+我只是看出来你对清华，对导师，对同学的水平的鄙视。
+依据是你能用linux工作，你能够搞些latex，你写的文章
+得了个最佳论文。我作为一个cluster的管理员，写并行
+计算的code,也用latex写所有的论文，我心底里也喜欢
+open source,推崇latex和linux。可是这不代表用word和
+windows就是罪过，就是比你水平差！
+你老师代你去了希腊，看得出你不高兴。其实大可不必这么
+小心眼。第一作者不还是你吗？这些地方有得是机会去的。
+别人给你的code没有源代码，你也不高兴，这也很正常。
+就是open souce 还有个GPL呢。你发现别人已经作美国大学
+的副教授了，写个code还老是dump core。其实这是有很多因素
+可能的。我写的code windows下面可以，linux下面还老是
+段错误，最后发现是linux compiler的bug。更何况硬件变化的
+可能性更多一些。
+社会上生活是要和别人相处的。发现你和别人相处的不好，而是
+沉迷在网络中受人敬仰。其实若干年后回头看一看，这些同学
+还是好同学，简单的人，他们也许会无意中伤害了你，你的自尊。
+但是请你也想一想，你是否伤害过他们？也请你尊敬别人的劳动。
+我的论文也是99%都是自己做的，做一年也许才发一片，我的老板
+只需要花一下午改语法和结构就能够挂名。但是他用了他多年的
+积淀和经验。也许你的水平真得很高，语法很好，作文很棒，你的
+boss真得没有改什么，别人都只是附骥挂名而已。这种可能性有多少
+请你自己思考。
+聪明只是成功一方面；勤恳也只是成功的一方面；选对方向才是
+更重要的。xwindows看完几乎所有reference的确不容易，不过
+我相信很多人也看了，写了latex扩展（？）好像不知得那么骄傲。
+找出了两个bug拿了支票也不用再沾沾自喜。还是要踏实做事情。
+如果你不喜欢你正在做的，那么你可以去找些自己喜欢做的
+当作兴趣爱好。你提到过书法，你可以继续练习阿。再就是软件，
+只要有个电脑，想做什么研究都可以。而且根本没必要是什么好东西，
+学校里面奔腾到处都是，捡一个回家就可以研究操作系统了。
+布局布线的算法我不懂，不过工程上面实现你的算法可能会有问题，
+所以之前总是论文被拒。可能是你的算法并行实现困难？
+最后你这样子公开信，对你的导师很不好，也很不公正。我看不出你导师
+什么地方做得不好。做人一定要厚道，多为别人着想。才没有成为
+牛顿，爱因斯坦之前不要老想着别人围着你转。
+ 

@@ -1,0 +1,37 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <wua@ccert.edu.cn>; Sun, 21 Aug 2005 07:06:26 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <wua@ccert.edu.cn>; Sun, 21 Aug 2005 07:19:28 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 07:42:56 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: tian@126.com
+To: wua@ccert.edu.cn
+Subject: =?gb2312?B?ofEgtPO80rDvw6az9rj2vajS6brDw7SjrLbg0Ls=?=
+Date: Sun, 21 Aug 2005 07:14:10 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+我在上海，现在的公司情况不好
+想跳槽
+面了三家收到两个offer,不想再接着找了。这两个不知道选哪个好
+一个是一小公司，给上海贝尔做项目外包，面试什么的都在贝尔面的，
+工作地点也在贝尔，做网络软件开发，待遇税后6000，试用4500，四金少，
+年终多发一月工资
+一个是英业达公司，有人可能听说过，一台企，做数码相机软件开发
+待遇也是税后6000，一年多发两月工资，四金，根据情况还有项目奖金
+加班有国家规定的加班费
+我不知道该选哪个好，我的想法是明年年初回北京定居，选择哪一个最多都是
+做半年，大家能给点建议么？多谢了，别人要我尽快回复

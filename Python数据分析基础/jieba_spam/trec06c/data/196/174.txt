@@ -1,0 +1,23 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <jin@ccert.edu.cn>; Wed, 28 Sep 2005 06:59:30 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Tue, 27 Sep 2005 23:10:41 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Wed, 28 Sep 2005 07:10:40 CST
+Date: Wed, 28 Sep 2005 07:10:40 +0800 (CST)
+From: liang ming <guo@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6ILCuyc/By9K7uPayu7CuztK1xMTQyMs=?=
+To: jin@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+什么是最爱？什么是真爱？除非你我从此都不在谈及“恋爱”两字，或者即将死去的人，才有资格评价自己此生的爱情说出口来。尤其像你我还这般年轻，根本没有资格说：最爱，真爱这样的字眼！说过的人，也只是对他们之前这些年来的爱情的总结，在这些恋情中的最爱，真爱！既然还没有死，还在谈爱情，你怎么知道下一个遇到人不会成为你此生的最爱那？现在就这样说对自己，对那个他或她都是：不公平的！什么都是暂时的，先冷一冷吧！平静下来。把问题理清楚再说。人，无论是男人还是女人，最终能和自己相爱的人走到老，那才是最幸福的！难得能和自己相爱的在一起啊！可是大多数人，选择恋爱的情人和想要生活过日子结婚的“爱”人是不同的概念，可以用来爱的，不见得适合相守一辈子一起过日子的。看你自己未来想要一个什么样子的爱情？一个什么样子的婚姻？一个什么感觉的家庭？
+     男人真爱可以有很多次,但是并不是每个人都可以成为他下一个爱人.实际上你现在的问题就是这个,他对你没有爱情.你付出了如此多他也没有回应,那么以后也不可能有了,同情感激感动等等要转化成爱情都是有期限的,时间一到你对他来说便只最多是个朋友,更可能的是一种类似养出了感情的随从的存在,甚至可能是甩不开的橡皮糖.有些事勉强不来,你不可能为了他无止境的付出一辈子,因为你需要有个人来疼你爱你用等量或者更多的感情回应你,不是么.
+     至于把感情当游戏,因人而异.照你的描述他似乎不是这样的人,他或许会找到下一个真心去爱的人,但是事实就是那个女孩不会是你.话说出来会伤人,但是你要清楚,单方的付出对你不是幸福.
+     另外还要提醒一点,在你真正说出分手之后,他会有可能返回来说刚发现离不开你了要求和你重新开始的.那不是爱,而只是习惯,或者习惯了你的存在,或者习惯了你的爱的存在.恢复的后果只可能是再回到现在的状态,反反复复所有人都受到伤害.所以,一定要下定决心最后做一个最终的了断.然后,擦亮眼睛去重新寻找一个你爱的也爱你的人.事实上对很多女人来说,嫁一个爱你的人要比和一个你爱的人度过一生幸福的多.

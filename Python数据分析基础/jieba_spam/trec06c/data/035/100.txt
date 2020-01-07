@@ -1,0 +1,35 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <han@ccert.edu.cn>; Wed, 24 Aug 2005 21:49:12 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 24 Aug 2005 22:07:35 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Wed, 24 Aug 2005 22:07:35 +0800
+Date: Wed, 24 Aug 2005 22:07:35 +0800
+From: hong@cernet.com
+Subject: =?gb2312?B?ofEg09DSu7j2wdq+07S/tOLV0rLno6zT0Mqyw7Sw7LeottS4tsv9o78o16q8xCkgKNeq1Ngp?=
+To: han@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+来  源: 221.216.117.94 
+    她是负责我家现在住的楼物业的总经理
+但是也是我家的邻居，前段时间由于房子几年都没办下房产证而有了矛盾
+（她也是负责该房的开发商，而我母亲是业主委员会的主席，代表所有业主和打了房产证的官司，后来胜诉）
+今年4月以来，她就以各种理由到法院起述我家，要求赔偿经济损失：
+第一次：开电视声音大，请求赔偿4万元
+      
+     法院把我家请去了，正好我家那一个月都在出差，家里没有人，她理亏就撤诉了
+第二次：我家关门声大，又晚回家，每次都打扰她休息。还是请求赔偿4万元
+     在法院把我父母请去几次后，她又自动撤诉
+这次又来了，说什么我家漏水到她家，赔偿6万元……
+     由于我现在不在家，情况不是太了解，但是两个并排的房子怎么可能漏水让她有那么大的损失？这不就是存心找茬吗？父母都被法院请去n多次了，这不存心恶心人吗？
+     有啥办法制她？

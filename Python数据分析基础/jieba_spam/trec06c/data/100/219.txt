@@ -1,0 +1,22 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j85N8vaC021132
+	for <su@ccert.edu.cn>; Thu, 8 Sep 2005 06:28:37 +0800 (CST)
+Received: (eyou send program); Thu, 8 Sep 2005 06:27:14 +0800
+Message-ID: <325961654.08775@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 8 Sep 2005 06:27:14 +0800
+Message-ID: <325961654.08757@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 8 Sep 2005 06:27:14 +0800
+From: ou@mail.tsinghua.edu.cn
+To: su@ccert.edu.cn
+Cc: jin@ccert.edu.cn
+Date: Thu, 8 Sep 2005 06:27:14 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgW8r90addudjT2rjFwsq1xMG9tcDQoczifs+jzfvT0MjLxNyw787SveK+9rX0fg==?=
+Content-Type: text/plain
+
+  我的数学不是很好,自己现在在复习关于概率的基础部分 现有两道小题不太会做~因为自己的答案和标准答案不一样~
+  1:设有一架长机两架僚机飞往某目的地进行轰炸,由于只有长机装有导航设备,因此僚机不能单独到达目的地,并在飞行途中要经过敌方高射炮防御地带,每机被击落的概率是0.2.到达目的地之后,各机独立轰炸,每机炸中目标的概率是0.3.求目标被炸中的概率~
+  2:设甲,乙两篮球运动员投篮命中率分别为0.7和0.6.每人投篮3次,求两人进球数相等时的概率~
+  标准答案:1:    0.477
+           2:    0.32
+  请求正解~~

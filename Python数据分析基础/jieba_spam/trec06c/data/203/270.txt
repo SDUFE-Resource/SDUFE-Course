@@ -1,0 +1,24 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RAWWEo019333
+	for <ou@ccert.edu.cn>; Thu, 29 Sep 2005 11:55:09 +0800 (CST)
+Received: (qmail 79056 invoked by uid 60001); Thu, 29 Sep 2005 04:06:19 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=nTJZi7ynGmEkIhpUoulGfmq4KtTII+DyAgkSLu7rKlaEsELjU0EDod2Zj+Tq2GQsbWP/m5e0osxCZbeymqn76hJjQKkj2RNIDC1d0tqLOwGvRSFUz65eqdzh28sfrzW3v13rGSgL8T2HO5gW5ZZcsLrFkiTTeNOXs3mV+SUdGAo=  ;
+Message-ID: <20050927104342.79054.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 12:06:19 CST
+Date: Thu, 29 Sep 2005 12:06:19 +0800 (CST)
+From: liang ming <chi@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IM/rzazFrtPRzay+06OswsW0zrG7vtyjrM7StO3By/fho78=?=
+To: ou@ccert.edu.cn
+In-Reply-To: <00dd01c5c34e$cdecf0d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1673022566-1127817822=:78786"
+Content-Transfer-Encoding: 8bit
+
+半年也太短了吧，cn的话多等一年也正常的阿，你要求倒是没有错，但是不能强求，因为她拒绝也没什么不对的。你要理解她，多点耐心，毕竟女孩在这种事上是弱势的。无论她是否负责，都是有后果的。但是对男生不同，如果不想负责，就毫无后果，男生又没有cn膜。
+    先在边远多等待些时间吧，耐心给她信赖，正确的引导帮助她理解你。
+     和女友在一起不是很久但也有半年了，我们是在一个写字楼上班的，认识了这么长时间
+     ，后来就自然的在一起了，感情很好，她很爱我，我也一样，我是一个外地来的，她是
+     本地人，同家里人住在一起，我是一个喜欢家庭生活的人，除了应酬外要是家里有人等

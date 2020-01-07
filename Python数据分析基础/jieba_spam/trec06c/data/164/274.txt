@@ -1,0 +1,25 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8KB1TcO022822
+	for <tu@ccert.edu.cn>; Wed, 21 Sep 2005 19:55:50 +0800 (CST)
+Received: (eyou send program); Wed, 21 Sep 2005 19:46:04 +0800
+Message-ID: <327213503.11311@mail.tsinghua.edu.cn>
+Received: (eyou send program); Wed, 21 Sep 2005 19:46:03 +0800
+Message-ID: <327213502.11296@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Wed, 21 Sep 2005 19:46:03 +0800
+From: lei@mail.tsinghua.edu.cn
+To: tu@ccert.edu.cn
+Date: Wed, 21 Sep 2005 19:46:03 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjIwyNW5pNf3vMfCvA==?=
+Content-Type: text/plain
+
+报失：
+楼宇  51532153    钱包972  黑色钱包，内有身份证，两张银行卡，两张书店卡，约82元钱 
+李靖  51532311    钱包973  黑绿色，内有学生证，餐卡，约150元钱
+周帆  13811656502 钱包974  黑色，内有身份证，银行卡
+钟昱  51532207    钱包975  红色上有英国国旗标志，内有学生证，京卡，餐卡，二百多元钱
+边超  62787693    其他670  一个白色袋子，内有一个手机盒，手机盒里有资料 
+送交：
+钱执熙    钱包397（以领取）
+领取：
+张达     钱包397

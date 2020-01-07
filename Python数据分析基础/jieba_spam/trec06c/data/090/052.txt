@@ -1,0 +1,73 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <jin@ccert.edu.cn>; Mon, 5 Sep 2005 21:39:04 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <jin@ccert.edu.cn>; Mon, 5 Sep 2005 21:37:20 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <jin@ccert.edu.cn>; Mon, 5 Sep 2005 21:37:00 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Mon, 5 Sep 2005 13:26:12 -0000
+Date: Mon, 5 Sep 2005 21:47:04 +0800
+From: "yuan" <yuan@mails.tsinghua.edu.cn>
+To: jin@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsbG0886itKbA7cb30dC3otbQ0MTV0MrVw+LK1NHQvr/J+iAo16rU2Ck=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <wen@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+北京大学微处理器研究开发中心(MPRC)接受2006年推荐免试攻读研
+究生的工作将于近期开展，有意向的同学请联系本中心该项工作的
+联系人陆俊林lujunlin@mprc.pku.cn和刘先华lxh@mprc.pku.cn。邮
+件中请提供本人的基本信息，包括姓名、性别、院系专业和常用联系
+电话等。
+参考链接：
+http://mprc.pku.cn/
+http://grs.pku.cn/
+google 北大微处理器研发中心/北大众志-863 CPU系统芯片
+关于清华大学外推到北京大学攻读研究生的流程，
+我仅就去年的一些情况给出一些介绍：
+a)  直硕到北大需要获得清华的外推资格，这一资格
+的确定会受到名额限制，确定相对较晚
+b)  直博到北大可以不要清华的外推名额，北大之前
+没有和清华类似的1/2要求，但是在院系审查的时候会
+更加严格一些（需要经过系和院讨论确定）。
+c)  申请表、个人陈述和专家推荐信不能缺少任一项。
+关于部分同学提出的问题和可能存在的疑问：
+a) 应该准备哪些材料，需要做哪些工作呢?
+请参看
+http://grs.pku.edu.cn/
+http://mprc.pku.edu.cn/mentors/external_apply.htm
+外校同学也需要参加考试，详细情况请参看
+http://eecs.pku.edu.cn/
+报考微处理器研发中心的同学可以报考综合1或者综合2
+b)保送名额?
+研究生名额由研究生院分配到各个学院，学院再分配
+到下属各系，各系再分配到各方向，目前还不确定具体数目。
+c)必须硕博连读吗?有没有直博生?
+不是必须硕博连读－－如果你不适合攻读博士学位的话。
+有直博生。－－但不要认为不需要外推名额意味着保送更容易。
+d)我是否有机会保送/推研到北大微处理器研发中心?
+天，我怎么知道:P，这个是由保送名额以及整体申请情况决定的，
+现在两个输入都不确定，系统又足够复杂，不可能有确定输出啊。
+※ 修改:・Alkaid 於 Sep  5 14:05:44 修改本文・[FROM: 162.105.80.*]

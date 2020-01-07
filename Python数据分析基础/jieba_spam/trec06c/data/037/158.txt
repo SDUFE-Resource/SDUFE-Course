@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <bai@ccert.edu.cn>; Thu, 25 Aug 2005 09:02:32 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Thu, 25 Aug 2005 09:20:55 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 09:20:55 +0800
+Date: Thu, 25 Aug 2005 09:20:55 +0800
+From: hou@cernet.com
+Subject: =?gb2312?B?ofEgu6qx7b2x1/K90s/+INXC19Pi+dXU3rG78dPF0OPFrtHd1LG9sQ==?=
+To: bai@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+获得优秀故事片奖的是：《张思德》《可可西里》《风起云涌》《沉默的远山》《邓小平・1928》《郑培民》《花腰新娘》《任长霞》《我的法兰西岁月》《一轮明月》；获得优秀女演员奖的是：章子怡(《十面埋伏》中饰演小妹)、赵薇(《情人结》中饰演屈然)；获得优秀男演员奖的是：吴军(《张思德》中饰演张思德)、濮存昕(《一轮明月》中饰演弘一大师)。影片《张思德》的导演尹力、影片《可可西里》的导演陆川，获得了优秀导演奖。一批优秀的电影文学剧本、少儿影片、动画影片、纪录片、科教片等也同时获奖。
+与历届相比，出席本届华表奖颁奖典礼的嘉宾将超过260位，规模空前。无论是正活跃在演艺一线的实力演员，还是极具人气的青年偶像；无论是银幕上光鲜的主角，还是摄像机背后新中国几代导演中的佼佼者，都将前来为华表奖助威，最值得一提的是，十余位老一代电影艺术家也将亲临典礼现场，为华表奖增辉。当然，来自香港、台湾地区，以及海外的许多知名电影人也将从四面八方赶来。另外，嘉宾阵容里还将出现一些与中国电影息息相关的新面孔，比如各大电影单位、电影制作人以及对中国电影有贡献的其他人士……

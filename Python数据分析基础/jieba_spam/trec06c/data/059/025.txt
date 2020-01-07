@@ -1,0 +1,32 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <guo@ccert.edu.cn>; Tue, 30 Aug 2005 15:53:34 +0800 (CST)
+Received: (eyou send program); Tue, 30 Aug 2005 15:56:26 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Tue, 30 Aug 2005 15:56:26 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Tue, 30 Aug 2005 15:56:26 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Tue, 30 Aug 2005 07:49:49 -0000
+Received: (eyou send program); Tue, 30 Aug 2005 15:41:59 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Tue, 30 Aug 2005 15:41:59 +0800
+From: yu@mails.tsinghua.edu.cn
+To: guo@ccert.edu.cn
+Cc: gao@ccert.edu.cn
+Date: Tue, 30 Aug 2005 15:41:59 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6ILbU09rV4tH5tcTFrrqi19OjrM7SuMPI57rO17fH86O/?=
+Content-Type: text/plain
+
+谢谢，我想我还是先尊重她的前途吧
+其实我对她真的不是不主动，一起上辅导班的时候，她早上因为路远不吃早饭，我会给她买些吃的，她6月考G，之前发烧了，我到她学校送水果和杂志。但是辅导班结束以后，我们就几乎没有见过。之后她又有期末考试，前不久才回来，
+我不知道自己今天做的这些是不是尽力的，可是我眼前可见的机会，真的很有限。
+不知道如果总是这样很久才见一次，两个人会不会生疏。
+             怎么说呢，准备G的时候确实是非常忙的，
+             绝对不是托辞。而且你现在如果真喜欢她就别打扰她，
+             可以给她一些学习上的鼓励和生活上的照顾，因为这个时候

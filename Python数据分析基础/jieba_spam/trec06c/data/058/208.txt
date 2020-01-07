@@ -1,0 +1,35 @@
+Received: from 126.com (m31-155.126.com [220.181.31.155])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7Q8frpZ012129
+	for <gao@ccert.edu.cn>; Tue, 30 Aug 2005 13:08:12 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <430ED8CA.0000D0.32715@m115.126.com>
+Date: Tue, 30 Aug 2005 13:20:25 +0800 (CST)
+From: "liao" <liao@126.com>
+To: gao@ccert.edu.cn
+Subject: =?gb2312?B?ofEgW9XQxrhd06bTw8jtvP65pLPMyqY=?=
+X-Priority: 3
+X-Originating-IP: [222.82.97.251]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_nydxdIXIQAMDkzacqLhDtoxLoZym"
+
+中德合资公司招聘应用软件工程师（1-2名）
+工作内容：应用软件开发/机台组件开发/智能卡应用开发
+要求：
+1年以上工作经验。
+有项目经验，优秀的毕业生也可以考虑，跳槽频繁的免
+工作扎实，有责任心和团队精神，沟通能力强。
+ 
+专业技能：
+                            熟悉Win32体系结构，了解常用Windows SDK
+                            熟练使用C/C++，有使用Visual C++, Boland C++等工具开发项目的经验
+                            熟悉WINDOWS文件操作、Windows GUI编程和多线程编程。
+                            英文熟练，可以快速的阅读理解英文技术文档
+                                                        
+有以下能力优先考虑：
+WINSOCK网络编程和串口编程
+                            有智能卡应用从业经验
+                            有嵌入式开发经验
+                            熟悉Java语言，及其IDE
+                                               
+                            
+ 

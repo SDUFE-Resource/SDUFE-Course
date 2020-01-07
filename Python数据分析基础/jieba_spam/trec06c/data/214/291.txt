@@ -1,0 +1,37 @@
+Received: from mail115.messagelabs.com (mail115.messagelabs.com [195.245.231.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8U0svna009939
+	for <pu@ccert.edu.cn>; Sun, 2 Oct 2005 08:43:55 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-3.tower-115.messagelabs.com!1128042356!10947879!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.7]
+Received: (qmail 4632 invoked from network); Sun, 2 Oct 2005 00:54:51 -0000
+Received: from motgate7.mot.com (HELO motgate7.mot.com) (129.188.136.7)
+  by server-3.tower-115.messagelabs.com with SMTP; Sun, 2 Oct 2005 00:54:51 -0000
+Received: from az33exr02.mot.com ([10.64.251.232])
+	by motgate7.mot.com (8.12.11/Motgate7) with ESMTP id j8U1RaVP013616
+	for <pu@ccert.edu.cn>; Sat, 1 Oct 2005 18:16:30 -0700 (MST)
+Received: from zch07exb02.corp.mot.com (zch07exb02.corp.mot.com [200.3.1.140])
+	by az33exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8U1CSxI022963
+	for <pu@ccert.edu.cn>; Sat, 1 Oct 2005 20:01:23 -0500 (CDT)
+Received: by zch07exb02.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TMDWH9H5>; Sun, 2 Oct 2005 08:54:46 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAEB9463@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <yan@motorola.com>
+To: pu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM/ry7W31srW?=
+Date: Sun, 2 Oct 2005 08:54:44 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C5C55B.18F14CD0"
+
+他适合你吗?
+你适合他吗?
+两个人在一起不是一个人的付出.
+你现在想想这一年来的种种,不开心的多还是开心的多.
+想到开心的时候心里会有温暖的感觉吗?
+找一张纸,在一边写上你分手的理由,另一边写上不分手的理由.
+好好考虑一下,别轻言放弃,不然对你,对他都是一种伤害.
+     累了，心累了。快一年了，从相识到相知到相爱，也许一切都来得太快，是我不懂得去珍惜。我还不是一个会爱别人的人。没有用心，关心照顾体贴他，不懂得伸缩之道。但真的累了。我不知道现在自己是否依然爱他。会想念，会牵挂，但想起在一起的种种，太累了，累了。自私的想，也许自己更适合过一个人的生活吧。哪怕没有快乐，也平静的，平静的度过。不知道他是否会伤心难过，以后是否会。没有将来，不知道将来会怎样。累了。

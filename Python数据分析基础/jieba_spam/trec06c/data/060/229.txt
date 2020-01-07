@@ -1,0 +1,41 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U53DPo005755
+	for <cai@ccert.edu.cn>; Wed, 31 Aug 2005 08:35:59 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0IM000EEHS793G@mail.cernet.com> for weike@ccert.edu.cn;
+ Wed, 31 Aug 2005 08:53:55 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Wed, 31 Aug 2005 08:53:55 +0800
+Date: Wed, 31 Aug 2005 08:53:55 +0800
+From: tian@cernet.com
+Subject: =?gb2312?B?u9i4tA==?=:Re: =?gb2312?B?zOG42aOs17zI67/Y1sa8vMr1?=
+To: cai@ccert.edu.cn
+Message-id: <b4fd5b8fe1.b8fe1b4fd5@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+我考了三次
+查了两次59
+第三次我都不查了，肯定是59
+同学好心帮我查了，果然59
+再也不考了
+结果现在都没毕业证
+我就觉得自己真牛
+每次都59
+这多大概率啊
+四级六级成绩不是你考多少就多少
+中间有个正态分布，再有个加权平均，再一个……
+作文低于……分倒扣……分
+反正不知道谁研究的计算方法，我是搞不懂
+而且作为全国统一的这么重要的考试
+居然连分数计算方法都不公布
+而且是不允许查自己的实得分数
+……
+现在又在改革什么的
+垃圾

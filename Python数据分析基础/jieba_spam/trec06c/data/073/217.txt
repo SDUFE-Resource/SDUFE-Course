@@ -1,0 +1,42 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <han@ccert.edu.cn>; Fri, 2 Sep 2005 18:52:35 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <han@ccert.edu.cn>; Fri, 2 Sep 2005 19:05:11 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 10:53:46 -0000
+From: "fan" <fan@mail.tsinghua.edu.cn>
+To: han@ccert.edu.cn
+Cc: <zhan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILzIyLu2vMu1ytXI687KzOKjrL+00MLAy9K7uPbN+NPRtcTOxA==?=
+Date: Fri, 2 Sep 2005 19:05:05 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+     标  题: Re: 既然都说收入问题，看新浪一个网友的文
+     
+     高收入高税率是要支持的，现行政策也是这样的。
+     
+     问题是富人逃税严重。
+     
+     
+     税率依地区有别，是在是蠢提议
+其实也不算太蠢，各地的最低生活费标准似乎都不一样。而且以前一段时间实际也是按照
+不同的免税额度计算的。
+中国的税赋感已经是世界上前几名的了，这个不是我说的，前段时间似乎有文章写过。
+在这样比较重的税的情况下，有条件避税或者逃税的，又完全合法的话，不逃的反而是
+傻子了，这个不是富人的错，而是国家政策的错，至少是漏洞太大。正常说的避税方法
+不是说隐瞒收入什么的，而是把公司收入拿来随便花，没有个人收入，用企业所得税来
+代替个人所得税。好比服务性企业经常是5.5%的，或者类似的，最后年终把利润做没了
+或者扩大再生产买东西了就没什么企业所得税了，都比个税低多了。但是问题在于：
+如果你公务员能拿国家的钱随便花，做免费车吃免费餐再加免费旅游甚至有公房等等，
+公车不用说了，公车司机那就是雇佣的仆人，在这样情况下你要怎样禁止企业主花企业
+的钱呢？当某天我的某些收入远超过工资的时候，我也用老爸名字什么的开个公司，不
+为别的，走帐用，5.5%的税怎么都比去交个税强，大不了公司一边收钱一边花钱买各种
+生活用品玩呗，或者给兄弟姐妹叔舅姑姨们名字上都发2000块工资好了。

@@ -1,0 +1,34 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7TBk4ZV032766
+	for <bi@ccert.edu.cn>; Thu, 1 Sep 2005 09:53:37 +0800 (CST)
+Received: (eyou send program); Thu, 1 Sep 2005 09:56:29 +0800
+Message-ID: <325316137.17630@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 1 Sep 2005 09:56:29 +0800
+Message-ID: <325316137.26108@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mta0.tsinghua.edu.cn) (166.111.8.20)
+ by 166.111.8.18 with SMTP; Thu, 1 Sep 2005 09:56:29 +0800
+X-MAILFROM: <tunoc1@mails.tsinghua.edu.cn>
+X-RCPTTO: <tunet@tsinghua.edu.cn>
+X-FROMIP: 166.111.8.16
+Received: from mails.tsinghua.edu.cn (166.111.8.16)
+  by localhost with SMTP; Thu, 1 Sep 2005 01:49:52 -0000
+Received: (eyou send program); Thu, 1 Sep 2005 09:42:02 +0800
+Message-ID: <325315270.02197@mails.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mails.tsinghua.edu.cn with HTTP; Thu, 1 Sep 2005 09:42:02 +0800
+From: ren@mails.tsinghua.edu.cn
+To: bi@ccert.edu.cn
+Cc: wang@ccert.edu.cn
+Date: Thu, 1 Sep 2005 09:42:02 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IMutxNy45svfztKjrM7Sw8fKx9T1w7TByw==?=
+Content-Type: text/plain
+
+你们所处的阶段不一样
+他体会过爱情如何令人激动也令人痛苦，已经感到疲惫，只想要安宁温馨的幸福感
+而你还处在第一个阶段，追求全心全意生死以之的感觉
+他对你不是没有感情，但是达不到你想要的感觉，也不是无可替代
+你若更爱他，就根据他要的方式妥协自己，更爱自己的理想，就离开他继续追寻
+折腾一番之后，或许你也会来到他现在的阶段。。。也或许你能找到你想要的东西
+他经历的事情我没有问过，但是他要的平淡也是我想要的
+我期待的也不过是那种温馨，我所要求的不过是他的体贴他的心疼他的在意
+对他的妥协我一直在做，所以自己委屈自己难过自己夜里流泪，还在为他找借口

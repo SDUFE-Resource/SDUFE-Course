@@ -1,0 +1,38 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 15:14:28 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 14:36:46 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "qian" <qian@cert.org.cn>
+To: kang@ccert.edu.cn
+CC: "guo@ccert.edu.cn" <yun@ccert.edu.cn>,
+   "zhou@ccert.edu.cn" <chen@ccert.edu.cn>,
+   "ning@ccert.edu.cn" <rao@ccert.edu.cn>, "xing@ccert.edu.cn" <jian@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 15:22:13 +0800
+
+我只是想说，人对事物的看法会随着立场不同而改变的。
+     标  题: Re: 为什么大家盲目崇拜王垠？？？
+     
+     又是据说。。。难道微软就是吃干饭的？
+     几千研究人员还不如一个访问学生牛啊?
+     是你那个同学没有接触到核心技术吧？
+你不是清华的院士，难道就不能了解清华是怎么回事了？
+这总比道听途说来得可信吧？非要微软的CTO站出来才行啊。
+     
+     : msr是微软研究院吗？
+     : 听一个同学说，她进去以后才知道，原来和当初对清华的感觉一样，进去了发现其实
+     : 也没啥
+     
+     --
+     我这个人吧,是老实当中带点坏,坏中带点傻,傻中带点色,色中带点真
+     真中带点猥琐,猥琐当中带点善良,善良当中带点油腔滑调,油腔滑调当中带点猪头猪
+     脑...
+     
+     

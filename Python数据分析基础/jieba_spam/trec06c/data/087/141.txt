@@ -1,0 +1,39 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j82FLbGe032642
+	for <liao@ccert.edu.cn>; Mon, 5 Sep 2005 02:33:03 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j82FJdh8031910
+	for <liao@ccert.edu.cn>; Mon, 5 Sep 2005 02:31:39 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j82FJK7s031906
+	for <liao@ccert.edu.cn>; Mon, 5 Sep 2005 02:31:01 +0800 (CST)
+	(envelope-from sxx03@mails.tsinghua.edu.cn)
+Received: (eyou send program); Mon, 5 Sep 2005 02:19:58 +0800
+Message-ID: <325673713.12029@mails.tsinghua.edu.cn>
+Received: from 59.66.110.119 by mails.tsinghua.edu.cn with HTTP;
+	Mon, 5 Sep 2005 02:19:57 +0800
+From: qian@mails.tsinghua.edu.cn
+To: liao@ccert.edu.cn
+Date: Mon, 5 Sep 2005 02:19:57 +0800
+X-Priority: 3
+Content-Type: text/plain
+Subject: =?gb2312?B?UmU6INfpzbyjurPJwfq98M+yycbW99HdobbJ8buwobe+q8PAvufV1cbYueI=?=
+Precedence: list
+Reply-To: qian@mails.tsinghua.edu.cn
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+又一部垃圾诞生了
+     http://ent.sina.com.cn/m/c/2005-09-02/1730829087.html
+     新浪娱乐讯 9月20日，成龙将携韩国第一美女金喜善，印度美艳天后玛丽卡、梁家辉、孙周等人，在人民大会堂举行《神话》全球首映礼。
+     　　《神话》讲述的是穿越时空的传奇故事，成龙扮演一位考古学家，梦中总是出现一个超凡脱俗的白衣女子，而这个女子就是金喜善饰演的古代朝鲜公主。随着梦境呈现出两千年前蒙信将军和朝鲜公主的爱情故事，整个故事脉络就贯穿在古今反复交替之间。

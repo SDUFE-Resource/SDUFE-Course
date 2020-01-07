@@ -1,0 +1,26 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H3wbmU030568
+	for <ni@ccert.edu.cn>; Sat, 20 Aug 2005 21:43:04 +0800 (CST)
+Received: (qmail 23946 invoked from network); Sat, 20 Aug 2005 13:53:18 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 20 Aug 2005 13:53:18 -0000
+Message-ID: <001101c5a2e1$f57983d0$e900a8c0@d47db5334f2a479>
+From: "ding" <ding@jdl.ac.cn>
+To: ni@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILXX0L02MDDUqtXQxriz9by2ssbO8cjL1LHSu8P7?=
+Date: Sat, 20 Aug 2005 21:57:26 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+虽然我也觉得几百不奇怪,但是不同意你的推论
+我的认识是,做这个活,价值绝对不只几百,不是技术含量的问题,技术含量低照样能赚钱
+主要原因是,你不做,照样有人做
+决定价格的不只是价值,还有市场
+     有什么好说这个黑的？什么样的职位什么样的钱，这个职位也就跟前台差不多不需要什么技术含量，也不像前台有身高相貌等要求，能给到6，800虽然说低但是也还行了？你说给多少？给6k？评什么？
+     黑？这个活高中毕业就能做了，大学毕业给不到1k的多的去了，读了四年大学也不过多了2，3百。黑不黑不是拿一个低级职位的收入跟一个中高级人才相比的。

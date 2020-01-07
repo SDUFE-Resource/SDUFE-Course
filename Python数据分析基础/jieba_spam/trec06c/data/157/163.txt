@@ -1,0 +1,35 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8IGUtvE009243
+	for <qing@ccert.edu.cn>; Tue, 20 Sep 2005 02:34:18 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-14.tower-119.messagelabs.com!1127061722!5941747!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 15787 invoked from network); Mon, 19 Sep 2005 18:45:19 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-14.tower-119.messagelabs.com with SMTP; Mon, 19 Sep 2005 18:45:19 -0000
+Received: from il06exr01.mot.com (il06exr01.mot.com [129.188.137.131])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8IGquPW025356
+	for <qing@ccert.edu.cn>; Mon, 19 Sep 2005 11:56:16 -0700 (MST)
+Received: from zch07exm04.ap.mot.com (zch07exm04.ap.mot.com [10.193.160.10])
+	by il06exr01.mot.com (8.13.1/8.13.0) with ESMTP id j8IGoO6w027763
+	for <qing@ccert.edu.cn>; Mon, 19 Sep 2005 13:53:42 -0500 (CDT)
+Received: by zch07exm04.ap.mot.com with Internet Mail Service (5.5.2657.72)
+	id <SDVSSZJZ>; Tue, 20 Sep 2005 02:45:06 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAD5F0CD@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <shi@motorola.com>
+To: qing@ccert.edu.cn
+Cc: bi@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IExQu7PU0MHLo6y/ycW8z9bU2sO7vvW1w7jf0Ms=?=
+Date: Tue, 20 Sep 2005 02:44:40 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5BC6F.C51BD236"
+
+嘻嘻，我老公现在生活跟你还真差不多，不过少了做早餐，洗内衣。我反应倒挺大的，我看我老公挺无怨无悔的倒是。
+我不进厨房真不是装的，我进去就觉得百味俱全，立刻要吐。所以说老婆怀孕，就坚持坚持啦。这个时候没有自己的时间是正常的啦。其实孕妇自己的时间真的也不多。至少我怀孕以后好多兴趣都丢开了。都要付出代价啦。
+     医生LP怀孕两个月了，现在没什么太多的反应，就是晚上有些不舒服，老是萎靡不振
+     现在偶每天早晨6点多就起来，热奶，准备早餐，一块吃饭，7点出门上班
+     晚上Lp下班早，四点下班，5点之前就能回家，可回家就缩在沙发上吃零食，看电视

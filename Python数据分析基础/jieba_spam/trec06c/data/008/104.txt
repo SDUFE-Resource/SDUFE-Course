@@ -1,0 +1,35 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7EBDbnN008658
+	for <hou@ccert.edu.cn>; Thu, 18 Aug 2005 17:12:34 +0800 (CST)
+Received: (eyou send program); Thu, 18 Aug 2005 17:21:00 +0800
+Message-ID: <324018523.18139@mail.tsinghua.edu.cn>
+Received: (eyou send program); Thu, 18 Aug 2005 17:21:00 +0800
+Message-ID: <324018523.18120@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Thu, 18 Aug 2005 17:21:00 +0800
+From: hou@mail.tsinghua.edu.cn
+To: hou@ccert.edu.cn
+Cc: weng@ccert.edu.cn
+Date: Thu, 18 Aug 2005 17:21:00 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgtPrT0dXQxrg=?=
+Content-Type: text/plain
+
+北京明瑞卓越信息咨询有限公司是一家刚刚来到中国创业的企业，主要经营范围为出版杂志、经营人才招聘网、人才培训等，现急需人才两名：
+1．编辑人员 1名
+要求：
+ 1）日语能力水平一级
+ 2）中文优秀
+ 3）熟练使用平面设计软件（如：illustrator,photoshop,pagemaker等）
+ 4）有排版工作经验者优先录取
+2．网页设计及网站维护  1名
+要求：
+ 1）有网页设计工作经验（有网站设计作品优先）
+ 2）熟练掌握Macromedia Dreamweaver、Flash、PhotoShop等相关开发软件
+ 3）有数据库管理经验或会数据库编程
+注：1）要求全职，最好9月就能开始工作，工作时间最少三个月。
+    2）薪酬面议
+    3）请将简历发至以下邮箱地址
+联系方式：
+联系人：曲婉琴
+E-mail:quwanqin@merrywells.com
+地址：北京车公庄大街3号人民中国杂志社内809号

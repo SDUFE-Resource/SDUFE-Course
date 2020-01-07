@@ -1,0 +1,34 @@
+Received: from mail119.messagelabs.com (mail119.messagelabs.com [216.82.241.179])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8PDc7Kt032610
+	for <xin@ccert.edu.cn>; Tue, 27 Sep 2005 07:15:30 +0800 (CST)
+X-VirusChecked: Checked
+X-Env-Sender: zhou.yu@motorola.com
+X-Msg-Ref: server-7.tower-119.messagelabs.com!1127656144!0!1
+X-StarScan-Version: 5.5.4.1; banners=-,-,-
+X-Originating-IP: [129.188.136.8]
+Received: (qmail 13177 invoked from network); Mon, 26 Sep 2005 23:26:24 -0000
+Received: from motgate8.mot.com (HELO motgate8.mot.com) (129.188.136.8)
+  by server-7.tower-119.messagelabs.com with SMTP; Mon, 26 Sep 2005 23:26:24 -0000
+Received: from il06exr02.mot.com (il06exr02.mot.com [129.188.137.132])
+	by motgate8.mot.com (8.12.11/Motgate7) with ESMTP id j8PE09Cq005062
+	for <xin@ccert.edu.cn>; Mon, 26 Sep 2005 16:37:31 -0700 (MST)
+Received: from zch07exm05.corp.mot.com (ZCH07EXM05.corp.mot.com [200.3.1.211])
+	by il06exr02.mot.com (8.13.1/8.13.0) with ESMTP id j8PDuatX025477
+	for <xin@ccert.edu.cn>; Mon, 26 Sep 2005 18:33:57 -0500 (CDT)
+Received: by ZCH07EXM05.corp.mot.com with Internet Mail Service (5.5.2657.72)
+	id <TG21FVXG>; Tue, 27 Sep 2005 07:26:12 +0800
+Message-ID: <09AFB8CB7015D346831DF57EA671ECCAE28B1F@zch08exm04.corp.mot.com>
+From: Yu Zhou-A21579 <cao@motorola.com>
+To: xin@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILjDsru4w7jmy9/Az8bF1ebP4A==?=
+Date: Tue, 27 Sep 2005 07:25:47 +0800
+MIME-Version: 1.0
+X-Mailer: Internet Mail Service (5.5.2657.72)
+Content-Type: multipart/mixed;
+	boundary="----_=_NextPart_000_01C5C1D7.C744E95E"
+
+Tell her now.
+In fact, you should have told her early in this case.
+     我在国内，老婆目前在国外学习，因各种原因不能回国，老婆姐妹五个，她最小。上周岳父病危，我知道后立即告诉她家人瞒着我老婆，我立刻回去。她家人不愿意，认为要让老婆知道好，我也没有办法，只好告诉了老婆。
+     我回去后，岳父病逝，我要求她家人暂时瞒着我老婆，就说还在医院治疗，我认为她没有能力做些事情，一个人在外，怕她受不了打击，这样我还得担心她。本来我订的23号的机票，上周去看她呢。
+     现在处理完一切，她还不知道父亲已经病逝，不过她知道病非常严重，我也试探她能不能承受，她说可以。

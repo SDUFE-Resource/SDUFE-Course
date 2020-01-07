@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J7EjiI015987
+	for <qiu@ccert.edu.cn>; Sun, 21 Aug 2005 21:28:12 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j7J7S20j029843
+	for <qiu@ccert.edu.cn>; Sun, 21 Aug 2005 21:41:30 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Sun, 21 Aug 2005 13:36:07 -0000
+Message-ID: <262401c5a48f$08283ae0$787d6fa6@hotline>
+From: "peng" <peng@mail.tsinghua.edu.cn>
+To: qiu@ccert.edu.cn
+Cc: "tunet" <guo@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INGvzsq52NPaR1BB?=
+Date: Sun, 21 Aug 2005 21:37:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_2622_01C5A4D2.160B1680";
+	type="text/plain"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我想推经管,导师已经联系好了,态度还可以,给我推荐了很多他的书让我看,但是我们学校没有单独算过GPA,我们都是综合考评,我每次都是年级第一(共133人),但是我不知道自己的GPA能否排到第一名,因为没有具体排过,86是我自己算的,请问我还要不要提GPA啊?
+还有,面试的时候是什么形式?是不是所有的老师都在一起,然后各自发问?还是象过关一样,一个一个房间走过去?
+     GPA 名次 和面试都很重要，各个专业要求也不同，像推经管和电类就很难，最关键是有导师要

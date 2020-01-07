@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MNYKdV011560
+	for <kang@ccert.edu.cn>; Sat, 24 Sep 2005 08:49:41 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8MNjnhm013831
+	for <kang@ccert.edu.cn>; Sat, 24 Sep 2005 09:01:10 +0800 (CST)
+Message-Id: <200509222345.j8MNjnhm013831@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 00:38:16 -0000
+From: "bai" <bai@mail.tsinghua.edu.cn>
+To: kang@ccert.edu.cn
+Cc: <hu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILzytaW1wMDtuLTU08u1?=
+Date: Sat, 24 Sep 2005 09:00:50 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01C5C012.C5188530"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/z7ZQi9OuYZoHSJqFR8IXwu2ckA==
+
+什么乱七八糟的
+不就是锁坏了么
+     抽屉上的锁打不开，锁芯断了。3个月而已，又不是每天用。叹气的同时，也奇怪自己怎么会买一个这样的东西回来。好在只是那种最小的锁，找根锯，解决起来应该很容易。且不说在学校里找到一根锯是多么难，细细的锁，竟耗掉整整30分钟。最后，手已经抖了。
+     拿到卖锁的地方去换，人家根本不承认卖过这样的锁。摊主一脸横肉，与他饭盒里大块的五花肉交相辉映。一时冲动，居然想把锁扔进肉里。可是，扔进哪堆肉里呢？思考的过程淡化了冲动。于是把锁放在摊上，笑着走开。到另外一家买了新锁，回宿舍。
+     新锁的成本真的是有些高，两把锁的价值＋两次买锁的时间＋受气。不过，值得庆幸，解决了问题。只是，那么细的锁，想要弄断竟然要花那么多的时间和体力并且带来手抖的后遗症，不免让我吃惊。恋爱也好，婚姻也罢，即便是锯到只剩一点点牵连的地步，也无法一掰即断。成本太

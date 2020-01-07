@@ -1,0 +1,23 @@
+Received: from 126.com (m31-132.126.com [220.181.31.132])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H2gjIb030032
+	for <huang@ccert.edu.cn>; Sun, 21 Aug 2005 03:51:44 +0800 (CST)
+MIME-Version: 1.0
+Message-ID: <4302A741.000092.16670@m52.126.com>
+Date: Sun, 21 Aug 2005 04:04:55 +0800 (CST)
+From: "lai" <lai@126.com>
+To: huang@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IMfz1vqjusutxNy96cnc0ruxvsr90ae/vNHQyumjqNKqx/O8+87E1cKjqQ==?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/Alternative; boundary="Boundary-=_loSuijVMGiiOFKdLaKpxUmFGBkYx"
+
+李永乐的真题，17套，考点归类，知识窜讲，详细解答，还有最后的小结，非常不错的
+先不要看答案整套做下来，然后再对照答案看看考点是什么，此考点历年都考过哪些类型
+的题目，几套下来后，要3个小时按时间全镇模拟
+如果每套都能模拟倒130以上，就会信心大增，其实做完17套真题也就差不多了
+心里也就有底了，然后再做做经典400题，共10套，最后再找10套别人的模拟题做下来
+如果每套按照时间都能模拟倒130以上，估计考试不会出什么问题
+     昨天做了考研真题了，觉得好多东西刚开始看得时候好像都会了，可是做题的时候知道要考什么知识点，就是忘了怎么做了。
+     那位高手能介绍一本比较薄的，总结的又比较详细的书看看，不胜感激。
+     可以发到站内的邮箱里面，谢谢了

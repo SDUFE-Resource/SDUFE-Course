@@ -1,0 +1,30 @@
+Received: from 126.com (m31-181.126.com [220.181.31.181])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7H4tHVl031028
+	for <ling@ccert.edu.cn>; Sun, 21 Aug 2005 01:37:50 +0800 (CST)
+Received: from ns2.ccert.edu.cn (unknown [202.112.57.12])
+	by mx2 (Coremail) with SMTP id LwDAa0XGAkNB9L5O.1
+	for <ling@ccert.edu.cn>; Sun, 21 Aug 2005 01:50:52 +0800 (CST)
+X-Originating-IP: [202.112.57.12]
+Received: from [166.111.203.26] (helo=ccertpower07)
+	by ns2.ccert.edu.cn with esmtp (Exim 4.50)
+	id 1E5GWm-0006HD-Ic
+	for xdchenb@126.com; Sun, 21 Aug 2005 02:14:20 +0800
+Message-ID: <015301c5a2e8$f49fc170$1acb6fa6@ccertpower07>
+From: ni@126.com
+To: ling@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INXi1tbS7LXYwbW/ycTcwvCjvw==?=
+Date: Sun, 21 Aug 2005 01:45:34 +0800
+MIME-Version: 1.0
+Content-Type: Text/Plain
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+Delivered-To: xdchenb@126.com
+Errors-to: weike@ccert.edu.cn
+Return-path: weike@ccert.edu.cn
+
+分
+     我从上海来北京工作了，他正要去上海读研究生了。一个偶然的机会我们相遇了。坦白说我很喜欢他；他也欣赏我。但是他说他追求的是在身边的幸福，他说如果我们在同一城市，他就会选择我的。
+     我该怎么办呢？放弃目前的工作而去上海，一年两年内是不太现实的，毕竟我才开始参加工作。我觉得他好，珍惜他，也怕他在上海能遇到更好的。但是两个城市的距离如何跨越呢？
+     我说我两年后可以去上海工作的，或者他也可以来北京工作的啊，将来还是可以一起啊。

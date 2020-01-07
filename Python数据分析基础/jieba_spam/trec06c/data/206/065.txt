@@ -1,0 +1,26 @@
+Received: from web15010.mail.cnb.yahoo.com (web15010.mail.cnb.yahoo.com [202.165.103.67])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8R8H2V8018468
+	for <ou@ccert.edu.cn>; Thu, 29 Sep 2005 21:41:02 +0800 (CST)
+Received: (qmail 54688 invoked by uid 60001); Thu, 29 Sep 2005 13:52:09 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=bSU/zJOkkJfDLFBbWnWnTUKDZWedZej7CHwk+68TMJOxc5bWNOV3oFm+Sdj7+BguqbdY8hBnj9by0vLAREwvNsRCI/vWqZokpQhqNS620fenBohJKxF1JDhRipTl6dha0/sPi1Z9L+cjbm98QQkoNFkiZSBiuBy63tmjYznR3JE=  ;
+Message-ID: <20050927082809.54686.qmail@web15010.mail.cnb.yahoo.com>
+Received: from [61.150.43.113] by web15010.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 21:52:09 CST
+Date: Thu, 29 Sep 2005 21:52:09 +0800 (CST)
+From: liang ming <mei@yahoo.com.cn>
+Subject: =?gb2312?B?ofEgsK7U2rK7ttS1xMqxvOQgeno=?=
+To: ou@ccert.edu.cn
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1710224003-1127809689=:53686"
+Content-Transfer-Encoding: 8bit
+
+原文地址：http://www.blogcn.com/user56/ysuglf/blog/23836253.html    
+    也许不是不曾心动，不是没有可能，只是，有缘无分，情深缘浅。有一个女人突然决绝的跟相爱五年的男友分了手，闪电般嫁了他人。她说她要结婚她实在等不起了，而他虽然爱她，却根本没有一点这方面的意思。过了几年，男人也结婚了。那个新娘其实未必比她出色多少，或者这一次他的爱有多么深，只不过她出现的时机实在太好，刚刚好在他萌生倦意想安定下来的时候。于是，不需要什么更好的理由了，她来得正是时候，那么，就是她了。
+    其实我们寻寻觅觅了那么久，遍尝爱情的甜蜜与艰辛，而最后选择的爱人，不过就是在我们心意动时经过身边的那一个。什么青梅竹马，什么心有灵犀，都不过是些锦上添花的借口，时间才是冥冥中一切的主宰。
+　　回首往事的时候，想起那些如流星般划过生命的爱情，我们常常会把彼此的错过归咎为缘分。其实说到底，缘分是那么虚幻抽象的一个概念，真正影响我们的，往往就是那一时三刻相遇与相爱的时机。男女之间的交往，充满了犹疑忐忑的不确定与欲言又止的矜持，一个小小的变数，就可以完全改变选择的方向。如果你出现的早一点，也许他就不会和另一个人十指紧扣；又或者相遇的再晚一点，晚到两个人在各自的爱情经历中慢慢学会了包容和体谅，善待和妥协，也许走到一起的时候 ，就不会那么轻易的放弃，任性的转身，放走了爱情。
+　　在你最美丽的时候，你遇见了谁？在你深爱一个人的时候，他又陪在谁身边？爱情到底给了你多少时间，去相遇和分离，去选择和后悔？
+　　重温《大话西游》，看到紫霞深爱至尊宝的时候，他心心念念的寻找他的白晶晶，而当他终于看到了她留在心里的那一滴泪，却已经失去了选择的权利。每一次看到他潜入另一个人的身体，去偿还前世欠她的一句承诺，再看他在夕阳下孤独的走远，总是情不自禁的想要落泪。不是不心动，不是不后悔，但已经没有时间，再去相拥。如果爱一个人而无法在一起；相爱却无法在适当的时间相遇；如果你爱了，却爱不对时间，除了珍藏那一滴心底的泪，无言的走远，你又能有什么选择？
+　　要在时间的荒野，没有早一步也没有晚一步，于千万人之中，去邂逅自己的爱人，那是太难得的缘分，更多的时候，我们只是在彼此不断的错过，错过了杨花飘飞的春，又错过了枫叶瑟索的秋，直到漫天白雪，年华不再，在一次次的心酸感叹之后，才能终于了解----即使真挚，即使亲密，即使两个人都已是心有戚戚，我们的爱，依然需要时间来成全和考验。这世界有着太多这样那样的限制与隐秘的禁忌，又有太多难以预测的变故和身不由己的离合，一个转身，也许就已经一辈子错过，要到很多年以后，才会参透所有的争取和努力，也许还抵不过命运开的一个玩笑。上帝在云端只眨了一眨眼，所有的结局，就都已经完全改变。
+　　所以古人会说，还君明珠双泪垂，恨不相逢未嫁时。

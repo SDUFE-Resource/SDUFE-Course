@@ -1,0 +1,31 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <gu@ccert.edu.cn>; Thu, 25 Aug 2005 23:42:58 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 00:01:21 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 00:01:21 +0800
+Date: Fri, 26 Aug 2005 00:01:21 +0800
+From: kong@cernet.com
+Subject: =?gb2312?B?UmU6IMu1y7XJy9DEysI=?=
+To: gu@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+  别提了，bf生病了，我要伺候着到夜里3点（早上6点半起床），每15分钟量一次体温，
+  要一直跟着哄，一会给擦擦汗，一会给喂点水，一会上厕所了赶紧包紧了，
+  拿着被子在卫生间门口等着，还要小心不能不满足任何要求，
+  否则随时会用“我不去看医生了”来威胁我
+  我生病了，唯一的要求就是，离我远点，让我好好休息一下吧，
+  别闹腾了，别缠着我。。。
+     也对
+     我一个人在家的时候，觉得舒服死了，屋子里干干净净，三餐均衡，家务
+     也变少了，闲暇的时间变多了

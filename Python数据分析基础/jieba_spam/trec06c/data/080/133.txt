@@ -1,0 +1,21 @@
+Received: from jdl.ac.cn ([159.226.42.8])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7U2OGpf004571
+	for <lu@ccert.edu.cn>; Sat, 3 Sep 2005 15:26:09 +0800 (CST)
+Received: (qmail 5721 invoked from network); Sat, 3 Sep 2005 07:37:49 -0000
+Received: from unknown (HELO d47db5334f2a479) (192.168.0.233)
+  by 159.226.42.8 with SMTP; Sat, 3 Sep 2005 07:37:48 -0000
+Message-ID: <001101c5ad0b$dfe7c0c0$e900a8c0@d47db5334f2a479>
+From: "weng" <weng@jdl.ac.cn>
+To: lu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFBQTU3V983m09GyubPky7XD9w==?=
+Date: Sat, 3 Sep 2005 15:40:08 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+为什么欢迎我们化工系的..其他的不好么

@@ -1,0 +1,27 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8H5bKBZ019880
+	for <cao@ccert.edu.cn>; Sun, 18 Sep 2005 14:52:03 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.140.180)
+  by localhost with SMTP; Sun, 18 Sep 2005 06:37:42 -0000
+From: "gan" <gan@mails.tsinghua.edu.cn>
+To: cao@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILK7y6w=?=
+Date: Sun, 18 Sep 2005 15:09:28 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLAELDCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+In-reply-to: <326923542.29639@mails.tsinghua.edu.cn>
+
+如果每个假期学一门语言，只是入门的话，那我们可以学多少啊……
+只是，有很多东西在逝去的时候注定已经被我们忽略
+呵呵，生活好现实啊，不过好在还有它精彩的地方，不至于使一切都变成黑白的
+     比如你只会写100个汉字，而另外的人（就是你努力的方向）已经掌握5种语言并能够用其中的4种同时与4个人交谈。所以极度不爽。
+     今天只看了一点点几何，而且自己弄出的问题也只做了1/2
+     我今天不快乐，就在水母瞎游荡...sign...

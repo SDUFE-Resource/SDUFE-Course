@@ -1,0 +1,34 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8S3NFEl025935
+	for <shi@ccert.edu.cn>; Thu, 29 Sep 2005 19:50:57 +0800 (CST)
+Received: from unknown (HELO liuwu) (liu-w@166.111.203.38)
+  by localhost with SMTP; Thu, 29 Sep 2005 11:36:31 -0000
+Message-ID: <004701c5c3dd$7abd1d10$26cb6fa6@liuwu>
+From: "cao" <cao@mail.tsinghua.edu.cn>
+To: shi@ccert.edu.cn
+Cc: "Duan Haixin" <cheng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEg0/TDxrXEyfq77qOsx+u9zLTzvNLSu7j2yKvD8dDUzsrM4g==?=
+Date: Thu, 29 Sep 2005 20:01:48 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+  我现在研二了，当初是报送生，所以老板对我期望还是挺大的，希望我直博，可是在上了研究生以后，我逐渐发现我并不是很喜欢作试验，而且我对我们实验室的条件也是比较失望的，所以就打算出国，去找老板聊过这件事情，他表示对我的试验能力很失望，不放心我出去，而且本来国外有在这里要学生的，可是他一点都没有提，所以我想多半让老板推荐出去是没门了，而我又不想直博，已经想了很久了，却很难开口跟老板说，觉得这样自己的退路也没有了，就写下了自己能想出的理由
+想直博的理由
+1，省钱，省时间
+2，老板给我的题目本来就打算让我作5年出成果的，如果直博，就能作出点东西来
+3，对环境很熟悉，也有好朋友，不会太孤单
+4，如果考出去，可能会因为除成绩以外的其他原因而挂掉，而且也不一定会是公费，还多一年
+5，对工作有所恐惧，待在学校有安全感
+不想直博的理由
+1，实验室的老师们现在都不怎么喜欢我，看好我，我在这里很不舒服
+2，实验室的设备让我失望，硬件条件我觉得制约了研究的发展
+3，想早点赚钱，到社会去，体会自己到底该怎么创造自己的事业
+4，这里的博士头衔事实上并不怎么有分量，想考到外面更好的地方，离家近一点的地方
+5，想换一个地方，在一个地方待的太久了，已经很厌倦现在的生活了
+  大家给意见把，到底该怎么摆脱现在的困境，如果换成你，你会怎么作呢？如果出国行不通的话，是要选择直博，还是考好点的博或者工作呢？我想考中科院的博士，但还在犹豫中。我想应该不止我一个人有这样的困惑把，希望大家多给意见，这样还能帮助更多的人。

@@ -1,0 +1,33 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <bai@ccert.edu.cn>; Sun, 25 Sep 2005 01:07:26 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <bai@ccert.edu.cn>; Sun, 25 Sep 2005 01:18:47 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 16:55:47 -0000
+From: "lei" <lei@mail.tsinghua.edu.cn>
+To: bai@ccert.edu.cn
+Cc: <kong@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INK7uPbIy7XEvNnG2g==?=
+Date: Sun, 25 Sep 2005 01:18:37 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+     标  题: 一个人的假期
+     
+     一直盼着十一快点来，想到可以和gg在一起，就很开心。
+     虽然我们都在THU，很近很近，可是平时却很少在一起。
+     刚刚QQ上问他十一的打算，他说很忙，没时间，       好像还很不耐烦的样子。
+                          ~~~~~~~~~~~~~~~~~借口    ~~~~~~~~~~~~~~~~~~~~你该好好琢磨琢磨了
+     盼了很久，还是要一个人渡过，希望的泡泡一下子就破了。
+     我知道他很忙，我只是想多见见他而已，还以为假期可以一起的，可是...我连句安慰的话都没得到。
+     大概，下周我的生日他也会忘的一干二净吧。
+     偷偷哭了，不敢让同宿舍的mm看到。
+     --
+     

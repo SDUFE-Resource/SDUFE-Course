@@ -1,0 +1,38 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8L7JBf0030307
+	for <shi@ccert.edu.cn>; Thu, 22 Sep 2005 07:43:05 +0800 (CST)
+Received: (eyou send program); Thu, 22 Sep 2005 07:32:50 +0800
+Message-ID: <327286536.17754@mail.tsinghua.edu.cn>
+Received: from 166.111.203.62 by mail.tsinghua.edu.cn with HTTP; Thu, 22 Sep 2005 07:32:50 +0800
+From: "pan" <pan@mail.tsinghua.edu.cn>
+To: shi@ccert.edu.cn
+Date: Thu, 22 Sep 2005 07:32:50 +0800
+Reply-To: "pan" <pan@mail.tsinghua.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgssTBz8+1zcbR0LvhtcS74dLpvMfCvA==?=
+Content-Type: text/plain
+
+1.名额
+        博士10/88，年级总人数11%，本系+交叉共同享有。
+        硕士29/88，其中本系23、深硕3、东京工业大学2、工程硕士1，全部针对本系。
+        外推13/88
+2.资格
+        直博资格 年级40%
+        直硕资格 年级70%（本系规定、非全校适用）
+        推研资格 年级80%
+        不及格门数不超过2门，非第一学期不及格门数不超过1门，年级前20%可放宽限制
+3.录取
+        直博 参考智育、德育、面试，导师学生双向选择。
+        直硕 智育60%+德育20%+面试20% ，统一录取，然后确定意向。
+        智育=前三年必修+限选课成绩（本系规定、非全校适用）。
+        面试有12-13位老师，交叉、本系同时面试。
+        对于现在在读博士大于等于10人的博导，只有1个录取名额。
+        硕导比博导优先选择硕士生。
+        每人可以填报2项志愿(交叉、本系)，按第一志愿录取
+4.流程
+        教务科成绩公布时间：最早23日（周五），最迟26日（下周一）
+              下载推荐表格：22日（周四）起
+              表格上交时间：26日（下周一）17:00之前
+                博士生面试：27日（下周二）8:30
+                硕士生面试：28日（下周三）全天
+全部工作于十一之前结束

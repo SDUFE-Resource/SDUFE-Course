@@ -1,0 +1,25 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bk4W006749
+	for <wen@ccert.edu.cn>; Wed, 28 Sep 2005 09:10:23 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4900837;
+	Wed, 28 Sep 2005 09:13:41 +0800
+Message-Id: <200509260741.j8Q7f4900837@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 01:13:39 UT
+To: wen@ccert.edu.cn
+From: ling@scan.ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILeiz9bN9c2s0afP8c6ns8fJz7XExLPIyw==?=
+
+对 感觉是有一点
+高考的挫折似乎没让他变得更厚重一些 反而一再的怨天尤人
+不过他脑子算挺聪明 能被清华看中大概还是能说明点问题的
+说到招生 比较赞美国的方式 标准化考试＋PS＋RL＋成绩单＋套磁
+觉得这样反映一个人比较全面了
+     高考过后，我怀疑他心里已经出问题了。
+     把所有的问题都归结到自己之外的原因。而不是去克服或者战胜自己。。
+     到清华来读博，还不是仗着自己能作秀，会忽悠。

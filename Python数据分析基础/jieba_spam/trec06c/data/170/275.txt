@@ -1,0 +1,29 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MF7PMc009035
+	for <zeng@ccert.edu.cn>; Fri, 23 Sep 2005 03:49:24 +0800 (CST)
+Received: from th105097.ip.tsinghua.edu.cn (HELO ibm269faf79b6a) (tianying00@59.66.105.97)
+  by localhost with SMTP; Thu, 22 Sep 2005 19:57:07 -0000
+From: "cao" <cao@mails.tsinghua.edu.cn>
+To: zeng@ccert.edu.cn
+Subject: =?gb2312?B?UmU6INK7uPbKtdHpytLNrNGntcS/tLeo?=
+Date: Fri, 23 Sep 2005 04:01:03 +0800
+Message-ID: <000201c5bf88$f866c7b0$6169423b@IBM269FAF79B6A>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook, Build 10.0.2616
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Importance: Normal
+In-Reply-To: <327397495.05965@mails.tsinghua.edu.cn>
+
+其实很大程度上,这是中国教育的失败,现在的小孩确实是太自我为中心的,
+其实真得到了国外,你会发现,这里比国内更加强调teamwork和comunication,
+而且王同学的教研组也确实做的不错了，即使从王同学自己的post里也能
+看出，即使你再牛，你也不必把自己的导师和组贬的一钱不值，我就不信他在自己的
+ps里还敢这样写。
+     或者说，大多数在一起看这篇文章的实验室同学的看法。希望包括小垠，
+     都能看到这篇文章。昨天刚看到小垠文章的时候比较生气，陆陆续续回
+     复了几篇，后来删掉了。现在整理出来一同发在下面。

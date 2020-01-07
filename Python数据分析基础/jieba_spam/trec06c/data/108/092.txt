@@ -1,0 +1,27 @@
+Received: from wproxy.gmail.com (wproxy.gmail.com [64.233.184.205])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j891VmJ7016230
+	for <ren@ccert.edu.cn>; Fri, 9 Sep 2005 22:23:09 +0800 (CST)
+Received: by wproxy.gmail.com with SMTP id 49so348071wri
+        for <ren@ccert.edu.cn>; Fri, 9 Sep 2005 07:35:16 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+        s=beta; d=gmail.com;
+        h=received:message-id:date:from:reply-to:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+        b=NgzHo9pDOQ1GzBeM1qTpyiUMud07S6r78wGJr7yWUVjE4gm/JHueUaG6/muew3PNDMijdTqzpzSMXqVlLmxKvQbdnTb6g1En23qgEbnNGXSTGzo+Uc2smERO7bkbSWhf53Ck/Tqb+bjGjGJHNB5h23er+jU0KxgXXwJHvaV+Bug=
+Received: by 10.54.20.15 with SMTP id 15mr13405wrt;
+ Fri, 9 Sep 2005 07:35:16 -0700 (PDT)
+Received: by 10.54.19.71 with HTTP; Fri, 9 Sep 2005 07:35:16 -0700 (PDT)
+Message-ID: <c46048ad05090818434dfcad21@mail.gmail.com>
+Date: Fri, 9 Sep 2005 22:35:16 +0800
+From: =?GB2312?B?1/O+pw==?= <wang@gmail.com>
+Reply-To: wang@gmail.com
+To: ren@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzwO3Kr7zSvt+1xLf4yeQ=?=
+In-Reply-To: <010c01c5b44d$c2e6bc30$1acb6fa6@ccertpower07>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+一般来说大理石家俱辐射要比其它类于木质的强一点，这种辐射不同于家电如电视、微波炉等，属于电离辐射，而电视、微波炉等主要为电磁辐射，不同产地的大理石辐射水平是稍有不同的，还有我们本身就是生活在一个天然的辐射环境中的，只要有权威部分检测过的产品是不会存在什么问题的，可以放心使用，一般而言表面呈红色的辐射水平稍高一点，要是对这方面有担心的话建议不要使用太多的大理石家俱，至于地面的话建议就不要使用了
+     请教大侠！ 如题
+     厂商标明了辐射在国家标准允许的范围内。想请教一下，这样的辐射与家电如电视、微波炉等的辐射比是大还是小？大侠能用数据帮助理解一下吗？谢谢！

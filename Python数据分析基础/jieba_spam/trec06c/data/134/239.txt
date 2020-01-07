@@ -1,0 +1,63 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBVolI019299
+	for <gao@ccert.edu.cn>; Thu, 15 Sep 2005 08:59:06 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8DBSOBg018678
+	for <gao@ccert.edu.cn>; Thu, 15 Sep 2005 08:56:11 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from stu.ee.tsinghua.edu.cn ([166.111.64.4])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j8DBSHbY018673
+	for <gao@ccert.edu.cn>; Thu, 15 Sep 2005 08:55:38 +0800 (CST)
+	(envelope-from xujf93@stu.ee.tsinghua.edu.cn)
+Received: (qmail 14359 invoked by uid 512); Thu, 15 Sep 2005 01:04:00 -0000
+Message-ID: <20050913113644.14358.qmail@stu.ee.tsinghua.edu.cn>
+From: tang@stu.ee.tsinghua.edu.cn
+To: gao@ccert.edu.cn
+Date: Thu, 15 Sep 2005 09:04:00 +0800
+Mime-Version: 1.0
+Content-Type: text/plain; format=flowed; charset="GB2312"
+Content-Transfer-Encoding: 8bit
+Cc: 
+Subject: =?gb2312?B?ofEgwdTNt7mry76/ydDFw7Sjvw==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+      今天在实验室竟然有猎头公司打电话给我，说GE招人，有兴趣的可以向他投简历。我告诉她我的email后她还真的给我发了职位信息。
+有兴趣的，就和她联系吧。
+ 
+Suite 1902, Tower 8, Jian Wai SOHO
+                                 No 39 Dongsanhuan Zhonglu,
+ Chaoyang District
+Beijing, 100022, China
+Tel: 86 10 58690411/22/33
+    Fax: 86 10 58690499
+                                                                    E-mail: search@haxinternational.com                                                   
+                                                                            www.HAXInternational.com
+The Position: CAD Software Engineer
+ 
+The Role &amp; Responsibilities
+* Lead research and development activities in reverse engineering applications.
+* Responsible to develop algorithms for data acquisition, geometric modeling and processing. 
+* Design and verify software systems to support the application needs of the company businesses. 
+The Requirements
+* Understanding of CAD/CG principles and practices
+* Background in mechanical design principles
+* Ability to develop data analysis code related to CAD needs
+* MS or Ph.D. in mechanical engineering, computer graphics application or equivalent engineering
+* Experience in CAD/CAM software (preferably in UG, Surfacer, Polyworks) 
+* Minimum 5 years experience in C ++ programming and algorithm development
+* Excellent communication and interpersonal skills in both Chinese and English
+* Ability to drive continuous improvement and implement change
+Desired:
+* Familiar with reverse engineering software
+* Experience in numerical analysis tools and optimization

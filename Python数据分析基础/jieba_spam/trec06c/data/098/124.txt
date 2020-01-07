@@ -1,0 +1,23 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86NYrNl030488
+	for <yi@ccert.edu.cn>; Wed, 7 Sep 2005 18:30:07 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j86Nl5Cw020630
+	for <yi@ccert.edu.cn>; Wed, 7 Sep 2005 18:42:19 +0800 (CST)
+Message-Id: <200509062347.j86Nl5Cw020630@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Wed, 7 Sep 2005 10:28:01 -0000
+From: "yi" <yi@mail.tsinghua.edu.cn>
+To: yi@ccert.edu.cn
+Cc: <hu@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7Sz7K7trzSvcy1xMTHuPbFrsn6?=
+Date: Wed, 7 Sep 2005 18:42:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002E_01C5B380.54702A70"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWzPUXCPFDEFrr6STeY429PH7DHSw==
+
+hoho
+想起自己的故事来了
+        从我第一天踏进她家门，见到她的那一刻起，我就觉得她特可爱，辅导她一年了，这一年，我不但是用脑子在教她，更是用心在和她对话。我用尽了中学以至小学所有积蓄起来的智慧，热情和精力，全心帮她，她进步也很快，期间学会了我的好多小聪明。在她那，我总觉得时间过

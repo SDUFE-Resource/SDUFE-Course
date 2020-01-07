@@ -1,0 +1,26 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <rao@ccert.edu.cn>; Fri, 23 Sep 2005 23:50:09 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <rao@ccert.edu.cn>; Sat, 24 Sep 2005 00:01:34 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 15:38:31 -0000
+From: "gong" <gong@mail.tsinghua.edu.cn>
+To: rao@ccert.edu.cn
+Cc: <cheng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgvbLX+c2o1qqjutPrus7V187kz8jJ+rOpzLjW0M73wPrKt87Eu6+xyL3P?=
+Date: Sat, 24 Sep 2005 00:01:20 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+时间：9月26日（周一）晚7：00-9：00
+地点：四教4102
+        主讲人何兆武先生，大学毕业于西南联大历史系，1943年至1946年在清华（西南联大）读研究生，现为我校思想文化研究所教授，兼任美国哥伦比亚大学访问教授和德国马堡大学客座教授。何先生是一位德高望重、学贯中西的大学者，著有《中国思想发展史》、《历史与历史学》等作品，并翻译了《西方哲学史》、《社会契约论》、《论科学与艺术》、《历史理性批判文集》、《哲学问题》等多部国外学术著作。
+        在本次讲座中，何先生将以旁征博引的方式在中西文化之间作出对比，独特而深刻的见解会以浅显通俗而蕴含哲思的语言表达出来，之后将把同学们引向更深层次的思考。
+        为了在讲座的提问时段中营造良好的交流气氛，我们会事先汇集一些问题。欢迎同学们在讲座前想好要提的问题，并发送到邮箱xiluxueshe@tsinghua.org.cn.。

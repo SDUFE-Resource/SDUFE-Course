@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (mail.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2lwBR002236
+	for <shi@ccert.edu.cn>; Fri, 26 Aug 2005 13:28:14 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HYVSML2R@mail.cernet.com> for
+ zhenghui@ccert.edu.cn; Fri, 26 Aug 2005 13:46:37 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Fri, 26 Aug 2005 13:46:37 +0800
+Date: Fri, 26 Aug 2005 13:46:37 +0800
+From: lei@cernet.com
+Subject: =?gb2312?B?ofEgW7Xn07C9sb3pydxdtPPCvdOwytO9saGqoaq7qrHtvbE=?=
+To: shi@ccert.edu.cn
+Message-id: <6f87a6d339.6d3396f87a@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+    电影华表奖是中国电影的最高荣誉奖，其奖杯采用的是北京天安门城楼前的华表造型，每年由国家广电总局对前一年度完成的各片种影片进行评选。其前身是文化部优秀影片奖，每年评选一次。
+    作为中国电影政府奖，原先是由文化部鼓励优秀国产影片而设立的，1994年改为中国电影华表奖。从性质和历届获奖影片来看，华表奖绝对是一个宣扬主旋律的官方奖项。随着这些年中国电影发展的变化，华表奖开始注意商业电影。在第10届电影华表奖之际，从提名名单可以看出开始鼓励主旋律电影和商业电影的并重倾向。这是为了适应中国电影发展的变化而做的一些改变。在其运作形式上,也有着向商业运作形态发展的趋向。 

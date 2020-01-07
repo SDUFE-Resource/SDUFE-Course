@@ -1,0 +1,45 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8CNdvLE014651
+	for <zhong@ccert.edu.cn>; Wed, 14 Sep 2005 07:32:32 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8CNpw1x003099
+	for <zhong@ccert.edu.cn>; Wed, 14 Sep 2005 07:44:33 +0800 (CST)
+Message-Id: <200509122351.j8CNpw1x003099@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 23:27:06 -0000
+From: "yana" <yana@mail.tsinghua.edu.cn>
+To: zhong@ccert.edu.cn
+Cc: <cheng@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgt9bP7c6iyO3Wx7vbo6zB7MXczrTAtMjLyfoox+W7qr2y1/k5LzE2KSAo16rU2Ck=?=
+Date: Wed, 14 Sep 2005 07:44:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B838.01B51090"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW39PNHeyClfkfpSGe/Nd8JShzq1A==
+
+【 以下文字转载自 Career_MS 讨论区 】
+发信人: zjfeng (小峰), 信区: Career_MS
+标  题: 分享微软智慧，领跑未来人生(清华讲座9/16)
+分享微软智慧，领跑未来人生 
+――微软和你一起领跑
+―――――――――――――――――――――――――
+活动时间：2005年9月16日（周五）晚19:30
+活动地点：主楼后厅大报告厅                 
+二十一世纪什么最重要！人才？技术？抑或文化？
+在新时代的激烈竞争中，如何才能在各方面胜人一筹，脱颖而出？
+微软专家造访清华大学，结合亲身经历和微软发展历程，
+阐释人才领跑、技术领跑和文化领跑
+让微软和你一起成为新世纪的领跑者！
+从这里，我们一起出发
+从这里，我们一起领跑
+从这里，我们一起奔向更高更远更广阔的未来……
+微软亚洲研究院院长沈向洋博士、微软亚洲工程院工程总监林斌先生等微软著名专
+家偕同微软清华校友做客“清华学子财富论坛”，作为2005微软高校行的第一站，
+从人才领跑、技术领跑和文化领跑三个视角诠释成才与成功！
+让我们相聚在2005年9月16日（周五）晚19:30的主楼后厅，共同体会微软的内涵，
+领略微软专家的风采，和微软专家一起启迪未来、规划人生！ 
+主办：微软亚洲研究院高校关系部 
+清华大学研究生会
+承办：清华大学计算机系研究生会 

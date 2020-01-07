@@ -1,0 +1,18 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7NBOSJo018908
+	for <hu@ccert.edu.cn>; Fri, 26 Aug 2005 04:08:25 +0800 (CST)
+Received: (eyou send program); Fri, 26 Aug 2005 04:15:55 +0800
+Message-ID: <324796718.06380@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 26 Aug 2005 04:15:55 +0800
+Message-ID: <324796718.06362@mail.tsinghua.edu.cn>
+Received: from 166.111.125.14 by mail.tsinghua.edu.cn with HTTP; Fri, 26 Aug 2005 04:15:55 +0800
+From: ke@mail.tsinghua.edu.cn
+To: hu@ccert.edu.cn
+Cc: tu@ccert.edu.cn
+Date: Fri, 26 Aug 2005 04:15:55 +0800
+X-Priority: 3
+Subject: =?gb2312?B?UmU6INXi1tbH6b/2o6zO0rjDus3L+7eisevC8A==?=
+Content-Type: text/plain
+
+被抢的身份证是什么东西啊？护照，还是中华人民共和国居民身份证,还是其他？
+         前天在LOVE版发了帖子，说GG出国到了一天都还没和我联系。给他发了封很长的mail，可是等到第二天的晚上，他到达48小时之后，还是没有任何消息。开始还是责怪他不和我联系，后来渐渐演变为有点担心他的安全。我做了三个一厢情愿的假设：1，那边没有公共电话，无法取

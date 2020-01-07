@@ -1,0 +1,26 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sun, 25 Sep 2005 12:38:35 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sun, 25 Sep 2005 12:00:53 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "zhou" <zhou@cert.org.cn>
+To: cao@ccert.edu.cn
+CC: "cen@ccert.edu.cn" <fan@ccert.edu.cn>,
+   "hu@ccert.edu.cn" <bi@ccert.edu.cn>,
+   "guo@ccert.edu.cn" <zhong@ccert.edu.cn>, "luo@ccert.edu.cn" <jin@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sun, 25 Sep 2005 12:46:20 +0800
+
+     不能总想着教育制度怎么怎么样去适应你自己啊
+     毕竟个体是有差别的，教育制度总得照顾大多数人
+     你无法适应的制度就是不好的制度吗？
+教育照顾大多人？？那大多数人都怎么样呢？
+什么叫牛人？考试考得高？“论文”发的多？申请到哈佛？
+谁适应了教育制度？敢和老外比论文质量？有间像样的公司？有几个真正见得光的“富豪”？多少人站在该领域世界前列？有几个人世界知名？谁拿了瑞典人的奖项？或许中学奥赛金牌？

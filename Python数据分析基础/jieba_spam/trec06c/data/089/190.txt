@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j84BWCO8010390
+	for <liu@ccert.edu.cn>; Mon, 5 Sep 2005 17:59:33 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j84BiZ6j013553
+	for <liu@ccert.edu.cn>; Mon, 5 Sep 2005 18:11:55 +0800 (CST)
+Message-Id: <200509041144.j84BiZ6j013553@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Mon, 5 Sep 2005 09:58:53 -0000
+From: "bi" <bi@mail.tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Cc: <zhang@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMflu6q089GnMjAwNsTqvdPK1c3i0KPNxrz2w+LK1NHQvr/J+rXE09C52NKqx/M=?=
+Date: Mon, 5 Sep 2005 18:11:45 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0013_01C5B189.0E6B0DE0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWxRgAkfQvScnIOSFuuPXHC6GmLbg==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+①    前三学年总评成绩一般在年级前5%，或能够在现就读学校取得推荐免试研究生资格；
+②    在学期间曾从事科技活动，并获奖或表现突出；
+能够获得学校推荐免试资格，但成绩不属于前5%，这样希望大么？
+在学校曾从事可以活动并获奖或表现突出是必要条件么？
+外面推荐免试录取的几率大不？
+     一、申请者须具备的条件
+     1．拥护中国共产党的领导，愿为祖国建设服务，品德良好，遵纪守法，身心健康。
+     2．全国重点大学优秀应届本科毕业生

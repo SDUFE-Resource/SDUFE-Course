@@ -1,0 +1,37 @@
+Received: from web15005.mail.cnb.yahoo.com (web15005.mail.cnb.yahoo.com [202.165.103.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8RBLbfp019903
+	for <zhang@ccert.edu.cn>; Thu, 29 Sep 2005 00:06:06 +0800 (CST)
+Received: (qmail 98907 invoked by uid 60001); Wed, 28 Sep 2005 16:17:17 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com.cn;
+  h=Message-ID:Received:Date:From:Subject:To:In-Reply-To:MIME-Version:Content-Type:Content-Transfer-Encoding;
+  b=1x4XDM+njY0HL7qYqyh0gFtTFeSxwOtyjmAjjT3ZOOpoztzXDBvIrn+MSv1qe7xK59Zrpt1c+ZEUVKVB+S1ZsZWIvsueC/NoucgrcCY9MT8eEi6gV21kztEur74e2aoTE0D1KIh3Tn8xksB84EiGF4/CTU92Cs8eZZAG/opks+g=  ;
+Message-ID: <20050927113248.98905.qmail@web15005.mail.cnb.yahoo.com>
+Received: from [61.150.43.114] by web15005.mail.cnb.yahoo.com via HTTP; Thu, 29 Sep 2005 00:17:16 CST
+Date: Thu, 29 Sep 2005 00:17:16 +0800 (CST)
+From: liang ming <qian@yahoo.com.cn>
+Subject: =?gb2312?B?UmU6IMLzv8vI8DG6xcrHxMeyv7avu63GrKO/?=
+To: zhang@ccert.edu.cn
+In-Reply-To: <014a01c5c353$2678f3d0$26cb6fa6@liuwu>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1553041006-1127820767=:98357"
+Content-Transfer-Encoding: 8bit
+
+没错儿 水木上有个猪头的千名党就是这话
+     标  题: Re: 麦克瑞1号是那部动画片？
+     
+     这个我有印象，那时候最喜欢的动画片，片头是一个男低音：
+     
+     “在遥远遥远的未来，黑星和他罪恶的军队为了控制整个地球而发动了战争，他们唯一的对手是科学家詹姆斯・查布尔博士和他的精锐勇士，他们在一起是不可战胜的，他们在一起就是麦克芮一号”
+     
+     我没记错吧，呵呵
+     
+     : 有些耳熟，但是又想不起来了
+     
+     
+     --
+     Doors were closing on our past, and soon the values we had lived by would 
+     become so obsolete that we would seem to people of the new age as quaint 
+     as travelers from an ancient land.
+     
+     

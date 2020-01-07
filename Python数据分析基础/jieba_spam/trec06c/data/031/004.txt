@@ -1,0 +1,31 @@
+Received: from 126.com (bj45-160.i.netease.com [202.108.45.160])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7J6LQA1015739
+	for <luo@ccert.edu.cn>; Tue, 23 Aug 2005 19:09:52 +0800 (CST)
+Received: from liuwu (unknown [166.111.203.38])
+	by smtp3 (Coremail) with SMTP id NMAQBHx9BUPJzPZx.1
+	for <luo@ccert.edu.cn>; Tue, 23 Aug 2005 19:23:03 +0800 (CST)
+X-Originating-IP: [166.111.203.38]
+Message-ID: <009401c5a488$0de81bf0$26cb6fa6@liuwu>
+From: "ren" <ren@126.com>
+To: luo@ccert.edu.cn
+Cc: <wua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6ILTzvNK+9bXDwarP69HQvr/UutT1w7TR+T8=?=
+Date: Tue, 23 Aug 2005 19:22:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0092_01C5A4CB.1B16E9D0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+还好吧，虽然待遇低点，总的来说比较轻闲
+     我是应届生在联想研究院工作
+     感觉工作环境很好呀，
+     大家对我都很好很亲切，连院长老贺也很平易近人，
+     由于是中国人的企业，自然就不用总说英文了。
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          联想正拼命把自己塑造成“国际化大公司”，你的说法太不合时宜了
+     研究院的有些研究方向不错的，而且联想本身对于研究院还是很重视的。
+     我过来这边不是做纯技术的，工作比较忙。
+     待遇方面感觉还不错，比我预想的多一些。

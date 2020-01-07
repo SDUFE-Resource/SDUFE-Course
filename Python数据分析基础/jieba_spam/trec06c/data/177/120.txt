@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <hou@ccert.edu.cn>; Sat, 24 Sep 2005 09:07:31 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <hou@ccert.edu.cn>; Sat, 24 Sep 2005 09:18:52 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 00:55:52 -0000
+From: "ou" <ou@mail.tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Cc: <zeng@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INC0uPjN9c2s0ae6zdbazrvN+NPRtcTSu7fi0MU=?=
+Date: Sat, 24 Sep 2005 09:18:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+这个是他当时的offer
+it also says:
+"...We recognize that you are already quite advanced in your graduate
+studies, so we expect that you will be able to finish your degree in
+an accelecrated fashion. However, the Cornell Graduate School requires
+a minimum.... so you should expect to be here at Cornell for at least
+three years."
+本来我得到的消息是因为overqualify要据我的，结果还是给了。。。
+     那个词组是啥意思？咱英语不好

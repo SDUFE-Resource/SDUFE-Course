@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8A4tSbr027739
+	for <wang@ccert.edu.cn>; Sun, 11 Sep 2005 11:51:17 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4qb7D090785
+	for <wang@ccert.edu.cn>; Sun, 11 Sep 2005 11:48:51 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from ns.6test.edu.cn (ns.6test.edu.cn [202.112.54.2])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j8A4qXBY090781
+	for <wang@ccert.edu.cn>; Sun, 11 Sep 2005 11:48:22 +0800 (CST)
+	(envelope-from wanglanjia@ns.6test.edu.cn)
+Received: from tu203047.ip.tsinghua.edu.cn ([166.111.203.47] helo=wanglanjia)
+	by ns.6test.edu.cn with asmtp (Exim 4.12) id 1EDyGt-000FfA-00
+	for toefl@gradinfo.net.edu.cn; Sun, 11 Sep 2005 12:47:16 +0800
+Message-ID: <007a01c5b5c5$4bb2c900$2fcb6fa6@wanglanjia>
+From: "che" <che@ns.6test.edu.cn>
+To: wang@ccert.edu.cn
+Subject: =?gb2312?B?ofEgw9TDo6Gtoa0=?=
+Date: Sun, 11 Sep 2005 12:00:58 +0800
+MIME-Version: 1.0
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1437
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1441
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============1216707451=="
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+他提出分手后，我找过他两次想挽回（伤心的哭，但没有闹），他坚持。回来后,我再没有联系他,他也没联系过我。半个月了，我觉得我可以理智的面对他，把想说的话说出来。于是打电话给他，他态度很好，有点出乎我的意料，他说明天中午过来一起吃饭。我能感觉到他的态度没有改变，我一直全心全意的对他好，他说我是善良的人，不想太绝情伤害我。
+我现在的心情很复杂，很想见到他，又害怕这次以后不知何时才能再见了，也担心见了他以后什么都说不出来。
+现在大脑一片空白，不知道见了之后该说什么了……
+PS：我一直把他当成最亲近的人，他突然的态度转变让我不知所措。我的心中还是想留住他的，但我不会厚颜的纠缠了，我只希望他会好，也会永远对他好……

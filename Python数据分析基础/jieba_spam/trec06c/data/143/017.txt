@@ -1,0 +1,40 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8GBeF9V014502
+	for <hu@ccert.edu.cn>; Fri, 16 Sep 2005 22:18:39 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8GBq4vX023672
+	for <hu@ccert.edu.cn>; Fri, 16 Sep 2005 22:30:28 +0800 (CST)
+Message-Id: <200509161152.j8GBq4vX023672@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 16 Sep 2005 14:11:10 -0000
+From: "he" <he@mail.tsinghua.edu.cn>
+To: hu@ccert.edu.cn
+Cc: <lei@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMTqx+HKsaOsw7vT0MTEts640Mfpvq3A+srHsrvWtbXDtcQ=?=
+Date: Fri, 16 Sep 2005 22:30:21 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0005_01C5BAF8.18BDE100"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW6tQpaMOlh/lLYR/2hgOWHke8iFw==
+
+     标  题: Re: 年轻时，没有哪段感情经历是不值得的
+     
+     
+     经历过，快乐过，失望过，仍然抱着美好的愿望，仍然相信爱情，仍然相信自己可以按照
+                                             ~~~~~~~~~除了这点基本都比较容易做到
+自己想要的形状生活。这是我欣赏的人。
+     : 经历过了
+     : 愿望就会有所不同.
+     
+     
+     --
+     
+     喜欢冬天，但是希望她是暖的
+     喜欢夏天，但是希望她是冷的
+     把世界反过来
+     会快乐一点吗？   
+     
+     
+     ※ 修改:・hotice 于 Sep 18 17:32:05 修改本文・[FROM: 59.66.114.*]

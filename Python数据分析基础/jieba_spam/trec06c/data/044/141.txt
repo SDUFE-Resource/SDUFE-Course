@@ -1,0 +1,23 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <shi@ccert.edu.cn>; Fri, 26 Aug 2005 15:41:22 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Fri, 26 Aug 2005 15:59:42 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Fri, 26 Aug 2005 15:59:42 +0800
+Date: Fri, 26 Aug 2005 15:59:42 +0800
+From: long@cernet.com
+Subject: =?gb2312?B?UmU6INH2zOyzpNCmoa2hrcDPzOyjrM7SyOe6ztC70LvE46Oho6GjoQ==?=
+To: shi@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+坑
+         老天和我开了个不大不小的玩笑，把我老爸送进了急救室，我听到这个消息的第一反应就是：钱！！！我必须马上筹一笔钱赶回去！！！
+         然后就发生了一些我万万没有料想到的事……在我愿意压下银行卡（里面有借款数四倍以上的定期，9月13号到期）的情况下，先是那个曾经坚定的握着我的手说认识我是他一生的荣幸的人，那个对我说他没有一千万不会买房子的人，告诉我他刚买了房（距他说这个话不到一月）

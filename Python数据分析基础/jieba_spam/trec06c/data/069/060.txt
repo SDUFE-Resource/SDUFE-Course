@@ -1,0 +1,30 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7UNMoHg011058
+	for <you@ccert.edu.cn>; Fri, 2 Sep 2005 04:16:47 +0800 (CST)
+Received: (eyou send program); Fri, 2 Sep 2005 04:18:52 +0800
+Message-ID: <325444295.10797@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 2 Sep 2005 04:18:52 +0800
+Message-ID: <325444295.10780@mail.tsinghua.edu.cn>
+Received: from 59.66.66.12 by mail.tsinghua.edu.cn with HTTP; Fri, 2 Sep 2005 04:18:52 +0800
+From: hou@mail.tsinghua.edu.cn
+To: you@ccert.edu.cn
+Date: Fri, 2 Sep 2005 04:18:52 +0800
+X-Priority: 3
+Subject: =?gb2312?B?ofEgyqfO79XQwey0pjnUwjHI1bmk1/e8x8K8?=
+Content-Type: text/plain
+
+报失：
+卜方    51531283      IC卡：2005010084
+                      丢失时间：9-31晚；丢失地点：紫荆11#楼下
+陈畅    62793231      IC卡：2005211943；丢失时间：8-23~8-29
+张亦弛  51531666      书包：黑色、绿色、灰色，内有墨水一瓶，雨衣一件;
+                      丢失时间：8-29晚；丢失地点：十四食堂  
+陈倩    62777440      包：白色小包，内有手机、IC卡，饭卡等；
+        13811071487   丢失时间：9-1中午；丢失地点：十食堂西餐厅
+陈建国  13683509336   信封：A4纸大小，牛皮纸；
+                      丢失时间：9-1中午；丢失地点：七食堂
+送交：
+好心人     钥匙：拾获时间：8-28，拾获地点：图书馆后   
+领取：
+0
+       

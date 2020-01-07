@@ -1,0 +1,24 @@
+Received: from mail.datangmobile.cn ([219.142.67.62])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j88AcTuE011542
+	for <guan@ccert.edu.cn>; Sat, 10 Sep 2005 11:28:07 +0800 (CST)
+X-MimeOLE: Produced By Microsoft Exchange V6.0.6249.0
+content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Subject: =?gb2312?B?UmU6IMfrvcyjus7SuMPU9cO0veLKzQ==?=
+Date: Sat, 10 Sep 2005 11:39:56 +0800
+Message-ID: <D728AD1FA2543948B89DE29C5BF4CD070470257E@bjmail1.bj.datangmobile.com>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: =?gb2312?B?Rlc6usPP+8+i?=
+Thread-Index: AcW0W9Gb9xS9vAx0TwWoHUbj8TSJYgABzy5Q
+From: <wua@datangmobile.cn>
+To: guan@ccert.edu.cn
+
+主动跟他说吧，我想任何一个明理的导师都会理解你的
+等到被发现了的时候任何解释都是苍白无力的，反而让他怀疑你的rp
+     曾有一篇文章被ieee transactions 一审接收，但二审被拒了，因为审稿者还是不满意我的修改稿，主编就据了，建议重投。
+     我在一审被接受的情况下，在我的求职简历里面写上了:to appear
+     可能因为这篇文章，东大教授接受我到他那里做博后研究（那时候二审还没有结果），而我当时并不知道是这篇文章的对他接收我的分量，所以被拒后也没和他说。

@@ -1,0 +1,24 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DBjcBs019375
+	for <feng@ccert.edu.cn>; Wed, 14 Sep 2005 03:08:52 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DBvX9O027848
+	for <feng@ccert.edu.cn>; Wed, 14 Sep 2005 03:20:47 +0800 (CST)
+Message-Id: <200509131157.j8DBvX9O027848@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Tue, 13 Sep 2005 19:03:04 -0000
+From: "mo" <mo@mail.tsinghua.edu.cn>
+To: feng@ccert.edu.cn
+Cc: <tan@ccert.edu.cn>
+Subject: =?gb2312?B?ofEgzt7Ev7XEs63Su7XjtqvO9yHL49XSuPbF89PRwcTM7LDJLg==?=
+Date: Wed, 14 Sep 2005 03:20:42 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5B89D.5E888A30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW4WlAIlihN6fNBTAmpouVXjvMyiQ==
+
+　　1849年7月30日，克尔凯郭尔出版了《致死的痼疾》，这本书与他五年前出版的《畏的概念》一道，终于透彻地概括了他全部的人生和思想问题。
+作为这一工作的出发点，克尔凯郭尔首先指出了人最根本的存在悼论，以及由此产生的死亡恐惧：如果人是天使，那么他不会害怕死亡；如果人是动物，那么，他也就不懂得害怕死亡。然而，人既非天使又非动物，人是具有自我意识的动物，换句话说，他同时有着生理性的肉体和符号性的自我。符号性的自我使他能意识到自己生理性肉体的生与死。这样，人就产生了死亡恐惧。在克尔凯郭尔看来，符号性自我又意味着可能性、无限性，意味着自由。相反，生理性肉体则意味着必然性、有限性，意味着不自由。
+　　当儿童降生于世，正是死亡恐惧使他从一开始就不得不压抑自己，以顺应世界、父母以及各种生存困境。这就是说，在儿童期就已经形成的人格是一个谎言结构，是一个防御机制。在儿童有能力以一种开放和自由的方式了解自己之前，这个人格谎言就已经形成了。换句话说，人格谎言是人的普遍命运，我们所能希望的，只能尽量让它保持在"正常"的范围之内。所谓"正常"，就是与父母和周围的人、和"别人"的生活保持基本的一致。因此，人会努力模仿别人的生活。当别人的生活本身存在问题，那么，问题就会进一步发展下去。例如，在信仰基督教的地方他是基督徒，礼拜天上教堂，听牧师讲道，互相交流，等等。当他辞世之际，牧师以十便士的价格把他引入永恒，如果是在现代社会，他会认为打开空调或开启电动牙刷就算控制了自己的生活，认为有了钱或有了服饰就有了价值，认为有了职称、地位或名份就有了身份。一代一代的人就这样成长起来，复制出来。今天，有人把这样的人称为"单向度人"或"自动文化人"，克尔凯郭尔则把他们叫做"实利主义者"。在克尔凯郭尔看来，生活中绝大多数人都是实利主义者。他们缺乏想象力，把自己封闭于琐碎的经验领域，并在其中得到满足。这是一种普遍的病症，用今天精神分析的话说叫"常态神经症"。常态神经症或实利主义者得以产生的原因是什么呢?那是因为他们满足于自己的有限性，满足于生理性肉体的安全感，潜意识地压抑了自己符号性自我中的可能性、无限性，放弃了自由。这是一种失败，一种危险。

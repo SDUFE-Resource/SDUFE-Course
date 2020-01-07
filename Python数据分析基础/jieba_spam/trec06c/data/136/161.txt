@@ -1,0 +1,25 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <hong@ccert.edu.cn>; Thu, 15 Sep 2005 17:16:26 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <hong@ccert.edu.cn>; Thu, 15 Sep 2005 17:28:25 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 09:10:39 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "ren" <ren@mail.tsinghua.edu.cn>
+To: hong@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvNLSu7aowLSw77Dvw6ajrL+0ztLV4tbWx+m/9tT1w7Sw7KO/?=
+Date: Thu, 15 Sep 2005 17:24:26 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+这样的员工如果我是老板我肯定不想要
+         我本科是在外地学校读的，然后拿着学校的保研名额来北京上研，但是我们学校保研有一个条件，就是要以学校委陪的形式，也就是说我已经和学校签了委陪合同，户口和档案都在原学校。
+         现在我研三要毕业了，并不想回原学校工作了，想在北京找工作，想找到肯接收我的单位就回原学校毁约。但我知道我的户口、档案的问题挺麻烦的，可能会对我找工作有一定影响，毕业也没有三方协议。
+         象我这种情况找正规的外企等单位的话，他们是不是不大愿意接收？即使接收落户的问题也比较难办？应该怎么办？

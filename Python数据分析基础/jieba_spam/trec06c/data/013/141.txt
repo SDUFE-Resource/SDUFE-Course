@@ -1,0 +1,23 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <mei@ccert.edu.cn>; Fri, 19 Aug 2005 20:06:48 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <mei@ccert.edu.cn>; Fri, 19 Aug 2005 20:40:08 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Fri, 19 Aug 2005 20:21:07 +0800
+From: "tan" <tan@mail.nisac.gov.cn>
+Reply-To: tan@mail.nisac.gov.cn
+To: mei@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IKG+1dDGuKG/suLK1Lmks8zKpqGiTGludXggv6q3ormks8zKprywsqG2vrfWzva5pLPMyqY=?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+怎么糊弄?
+     在linux上做安全产品，怎么都那么糊弄啊
+        Anchiva Systems, Inc.以开发和销售顶尖内容过滤网络安全系统与应用软件为主业。 公司由angel VCs 创立。angel VCs 同时也是 Netscreen的早期创始人，并将其引领至一个巨大成功的位置（在2001年成为IPO并在2004年以40亿美圆的价格被Juniper 收购）。 Anchiva 于2004

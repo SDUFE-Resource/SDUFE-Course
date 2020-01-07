@@ -1,0 +1,42 @@
+Received: from ctbu.edu.cn (mail.ctbu.edu.cn [211.83.192.2])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7P62AuW003027
+	for <xie@ccert.edu.cn>; Mon, 29 Aug 2005 20:42:13 +0800 (CST)
+Received: (eyou send program); Mon, 29 Aug 2005 20:52:46 +0800
+Message-ID: <324950371.18342@ctbu.edu.cn>
+Received: from 211.83.192.104 by mail.ctbu.edu.cn with HTTP; Mon, 29 Aug 2005 20:52:46 +0800
+From: "liao" <liao@ctbu.edu.cn>
+To: xie@ccert.edu.cn
+Date: Mon, 29 Aug 2005 20:52:46 +0800
+Message-ID: <AQBINTOPFXLDSFARLANBNTZKUKIC.tcpeng@ctbu.edu.cn>
+Disposition-Notification-To: "=?gb2312?B?zO+y/cX0?=" <tcpeng@ctbu.edu.cn>
+Reply-To: "liao" <liao@ctbu.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?ofEgs8/V99K7w/u/vMflu6q8xsvju/q1xMXz09G5ss2st9y2tw==?=
+Content-Type: text/plain
+
+现有两人一起复习
+1  师大信管01级毕业生     gg
+   去年考中科院    因为复习时间只有一个月  稍有差距
+   今年决定转考清华计算机系    体系结构或者多媒体
+2  师大01数学系毕业生  gg
+   去年报考清华电子系   377分
+   后调剂至深圳国家集成电路人才培养（清华）基地
+   在三考虑决定放弃该offer   转考cs计算机应用方向 多媒体所 或者高性能所
+   
+我们的优势
+   2号 有过进入复试的经验   数学甚强，英语8月份刚考过gre作文基础不错
+   1号 拿过多项程序设计和数学建模大赛奖  在计算机实践与应用方面比较强  
+   我们的资料比较充分，基本上大家有的都有，还有部分”内部资料“
+   
+不足
+   2号 从电子转过来  计算机专业课虽然书过了一两遍 还不甚强   而且10月11-10月21准备10G 时间比较紧张
+   1号 专业课上也是应用大过于理论   
+   两人现在都是在清华复习
+   
+特此希望寻求一个   清华本校的考计算机的同学共同奋斗，最好是电子 计算机  自动化系 等电类专业
+               转考计算机的同学  应届往届无所谓   尽量在专业课上熟稔一点，在校内复习  毕竟对于公共课和复试的问题 还有联系导师的
+               问题我们很有经验，希望有互补性，一起复习一起讨论，互补更有动力。因为我们自身基础都不错，都在玩命奔高
+               走，也希望应者自身要求也高些，大家都有压力，才有动力啊：）
+               希望大家都要有誓死留校内上研的精神 坚持到底的精神就行   
+联系方式  短信   13520005557 
+请勿站内  上网比较少 短信比较快能看到

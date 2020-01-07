@@ -1,0 +1,41 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j86CullB027407
+	for <lai@ccert.edu.cn>; Tue, 6 Sep 2005 20:12:27 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j86Cs0vQ066125
+	for <lai@ccert.edu.cn>; Tue, 6 Sep 2005 20:10:30 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j86Crvrj066117
+	for <lai@ccert.edu.cn>; Tue, 6 Sep 2005 20:09:37 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509061253.j86Crvrj066117@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Tue, 6 Sep 2005 11:58:48 -0000
+Date: Tue, 6 Sep 2005 20:19:45 +0800
+From: "zhan" <zhan@mails.tsinghua.edu.cn>
+To: lai@ccert.edu.cn
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j86Crvrj066117
+Subject: =?gb2312?B?UmU6ILGxtPPR0L6/yfqz9tffMjLM7M60uekgwdnX38qxtPO/3tfFz8LCpQ==?=
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+最讨厌最后的什么正方、反方，炒作，公道自在人心，现在需要的是找到那个学生。
+     北大研究生出走22天未归 临走时大哭着下楼出走前最后一句话：“妈妈，我没有能力！” 
+     　　本报讯“妈妈，我没有能力！我没有能力！”这是北大研究生柳剑锋出走前在电话里向母亲哭着说的最后一句话。从8月15日凌晨至今，这位北大信息科学技术学院的硕士研究生已经出走了22天了，至今未归。
+     　　“我们养育了他20多年，他就这么狠心一个人出走了，活不见人，死不见尸。他趁同学睡着的时候走的，钱包、证件、手机都放在宿舍里，宿舍保安看到他大哭着下的楼。”昨晚，柳剑锋已近花甲之年的父母见到记者时泣不成声。20多天来，他们四处散发寻人启事，今天更准备胸

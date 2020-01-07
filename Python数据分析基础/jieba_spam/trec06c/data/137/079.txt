@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8DDijWq019857
+	for <yun@ccert.edu.cn>; Thu, 15 Sep 2005 20:38:29 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8DDuisv002267
+	for <yun@ccert.edu.cn>; Thu, 15 Sep 2005 20:50:28 +0800 (CST)
+Received: from unknown (HELO hotline) (usstest@166.111.125.120)
+  by localhost with SMTP; Thu, 15 Sep 2005 12:32:42 -0000
+Message-ID: <00e601c5b86a$6bb6e680$787d6fa6@hotline>
+From: "wu" <wu@mail.tsinghua.edu.cn>
+To: yun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM7KuPa80sDvucy2qLXnu7C1xM7KzOI=?=
+Date: Thu, 15 Sep 2005 20:46:29 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00E3_01C5B8AD.79950730"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+我们遇到过一个问题，就是有一个月突然增加了25元信息费用
+我们打10060，他们说如果认为不是自己打的，可以不交这部分
+然后我们打那个信息台，信息台居然查到哪一天什么时候打得，但是居然是查询违章车辆
+我们没有车，那时候天天在所里，家里根本没有人，但是10060说要能证明不是我们打得才可以“处理”那个信息台
+不过后来那个信息台主动说把我们的电话屏蔽掉，客气极了，很奇怪。
+     我们是合租，3个人。我统计了一下，上个月打了160多分钟电话，误差不会超过30分钟。另外两个人说基本上没用过。
+     结果电话费是80多，包括了21的月租费。
+     请问现在家庭电话的市话怎么算的，版上有没有人知道？

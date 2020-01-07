@@ -1,0 +1,29 @@
+Received: from mail.cert.org.cn ([202.108.183.6])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N69lwj014918; Sat, 24 Sep 2005 10:29:49 +0800 (CST)
+Received: from stream ([202.108.183.187])
+	(authenticated)
+	by mail.cert.org.cn (8.11.6/8.11.6) with ESMTP id j8N5WQL27486;
+	Sat, 24 Sep 2005 09:52:07 +0800
+Message-Id: <200509230532.j8N5WQL27486@mail.cert.org.cn>
+From: "ke" <ke@cert.org.cn>
+To: ni@ccert.edu.cn
+CC: "kong@ccert.edu.cn" <qian@ccert.edu.cn>,
+   "qiu@ccert.edu.cn" <yu@ccert.edu.cn>,
+   "tao@ccert.edu.cn" <mo@ccert.edu.cn>, "cen@ccert.edu.cn" <hua@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6INP2tb3V4tbWysLH6dOmuMPU9cO0sOw=?=
+X-mailer: Foxmail 4.2 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/mixed;
+      boundary="=====000_Dragon127327787070_====="
+Date: Sat, 24 Sep 2005 10:37:34 +0800
+
+知道了，谢谢~~
+如果师妹执笔排第一，我排第二，导师呢？第三肯定是不行的
+所以如果是拿出论文给别人整理的话
+我排在第三及第三以后比较合乎事实
+――这也是我不愿意给别人整理的原因
+我也有些比较功利的想法，呵呵
+而且经历过做论文时的辛苦，我感觉它就象自己的孩子一样
+     一般惯例是谁执笔谁是第一作者。你如果不想写的话就挂个第二
+     作者比较合理。既然是博士期间作的工作，严格说成果是属于
+     课题组的。

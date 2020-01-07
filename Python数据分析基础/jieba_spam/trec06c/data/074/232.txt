@@ -1,0 +1,27 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j81BTWtU021994
+	for <ling@ccert.edu.cn>; Fri, 2 Sep 2005 22:05:26 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j81Bg8u2025536
+	for <ling@ccert.edu.cn>; Fri, 2 Sep 2005 22:18:02 +0800 (CST)
+Message-Id: <200509011142.j81Bg8u2025536@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 2 Sep 2005 14:06:37 -0000
+From: "wua" <wua@mail.tsinghua.edu.cn>
+To: ling@ccert.edu.cn
+Cc: <shi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMiltdi3vbXEsrvWqsP7tPPRp7rDu7nKx8H0sbG+qbXEtPPRp7rDo78=?=
+Date: Fri, 2 Sep 2005 22:17:56 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0031_01C5AF2D.39925E50"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+Thread-Index: AcWu6itECFg0lLUxSHSruEs+mvRWnw==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+不看好,现在毕业挣不到钱,将来也不会看好
+现在不能在同层次人中作到最好,又如何保证今后就能混的好
+觉得一些博士还没调整好心态,其实作为博士就是这样,要么成为大牛,要么忍辱偷生,呵呵,说的太直白了些
+     就我个人了解，地方上比较好的大学是不会有那么好的待遇的，又给房又给钱的
+     去年我见过的有郑州大学、烟台大学、好像还有个新疆的
+     感觉这种地方还是算了吧，留北京将来的机会会比较多些

@@ -1,0 +1,24 @@
+Received: from mail.cernet.com (staff.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7N2U8fe014117
+	for <hong@ccert.edu.cn>; Thu, 25 Aug 2005 18:00:05 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILN0037YMGSNE@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 18:18:25 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Tue,
+ Thu, 25 Aug 2005 18:18:25 +0800
+Date: Thu, 25 Aug 2005 18:18:25 +0800
+From: ling@cernet.com
+Subject: =?gb2312?B?UmU6ILTzvNK+9bXDvajBotK7uPZJVNaw0rXV38Gqw8vI57rO?=
+To: hong@ccert.edu.cn
+Message-id: <79b2877259.7725979b28@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: multipart/mixed; boundary="Boundary_(ID_iQVoXQlAV2ododzH63bu5w)"
+Content-language: zh-CN
+Priority: normal
+
+sp！！！
+     你看人nba都有那种组织的，定期弄些劳资谈判什么的，缓和劳资矛盾。
+     而我们所处的IT行业，唉，我感觉是一个比较尴尬的行业，一方面说待遇好，一方面又是有种吃青春饭的感觉，没有保障（当然我所说的是大多数人）。那么我们是否有必要建立一个类似工会一样的组织来维护我们这个行业的就业人员的共同利益呢。只是我们这个是一个行业工会，全IT行业的员工都可以成为联盟的成员。
+     至于联盟的权利，那就很多了，最基础的一个我觉得就是帮助建立一个合理的劳资合同，比如可以确立最低劳资保障，最低合同年限等；另外还可以有就业经验交流之类的活动，具体还要集思广益。

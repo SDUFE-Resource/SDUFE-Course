@@ -1,0 +1,29 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <sun@ccert.edu.cn>; Sat, 24 Sep 2005 22:44:14 +0800 (CST)
+Received: (eyou send program); Sat, 24 Sep 2005 22:33:14 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Sat, 24 Sep 2005 22:33:13 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Sat, 24 Sep 2005 22:33:13 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 14:33:13 -0000
+From: "xu" <xu@mail.tsinghua.edu.cn>
+To: sun@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+Date: Sat, 24 Sep 2005 22:55:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+:
+           太牛!
+           真佩服你为自己的梦不懈追求，的确，追梦真的很痛苦，尤其是在身边没有人支持的时候，不过此时才考验出你的能力了吧。
+           我想人刚出生时，都是有棱角的 ，但生活逐渐磨平了人的棱角，于是人云亦云 。这不知 是人的悲哀，还是社会的悲哀。
+           走自己的路，没准哪一天，你就会成为中国的爱因斯坦 了 。
+           祝福你 ！

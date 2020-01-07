@@ -1,0 +1,42 @@
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8MEhPcU008924
+	for <hou@ccert.edu.cn>; Fri, 23 Sep 2005 02:16:55 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 02:05:55 +0800
+Message-ID: <327399545.16419@mail.tsinghua.edu.cn>
+Received: (eyou send program); Fri, 23 Sep 2005 02:05:54 +0800
+Message-ID: <327399544.09955@mail.tsinghua.edu.cn>
+Received: from unknown (HELO mail.tsinghua.edu.cn) (127.0.0.1)
+ by 127.0.0.1 with SMTP; Fri, 23 Sep 2005 02:05:54 +0800
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Thu, 22 Sep 2005 18:05:54 -0000
+From: "kang" <kang@mail.tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Fri, 23 Sep 2005 02:28:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002D_01C5BFC8.A1625E30"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcW/hZHbwxw08vLLQrCMRq8AR0uusQ==
+
+首先说说，盲目崇拜这个词用不上吧，
+在这上面的人我想大多数都有着自己的判断力
+从你说的和王垠说的两方面来看，你说他尝浅即止，没有严格的科学态度未免太偏激了
+就从他的事看，他应该是个很有钻进的学生，而且在学习研究还是比较严谨的。
+说的他做blog事没有必要讨论，每个人都有自己的爱好和属于自己支配的时间。
+可能他在为人处事或者其他方面有所不适，这个我们外部无从得知
+个人问题我们也不好讨论，想说一点个人追求自己的价值和理想无可厚非
+但他的个人事迹确实中国所谓的科学长久积累的一次个人的小爆发。
+中国大学研究生毕业都要求paper，paper本来是工作成果的反映和随后产物，
+但是到现在却成了为毕业而写paper，这么多国内的垃圾杂志垃圾paper出来了。
+学术腐败虽然不是完全由这个造成，但是也有一定原由。
+中国教师学生要求paper强制确实是很不当，在国外很多研究生毕业没有paper要求
+甚至名校PH.d毕业都没有要求。但是中国大学有，教育部评价学校，
+学校评价一个教授，很大程度上都是看paper，而国外不完全是看paper。
+看的是真的研究价值。真正作研究的可能好几年才弄得出
+比较大得成果，但是要求paper会占去很大时间精力，很多教授学生都是去为paper
+奋斗，而不是真的作研究，可能做研究10来年才会出真的是成果的成果。
+     我和他曾经一个教研室过。
+     说实在话，我们都佩服王垠，能对计算机“专业”这么有热情，我们都希望他能够有很好的发展。
+     但是我们看到今天的王垠已经不是单纯的玩着linux向我们演示他的bbs机器人的程序能人了。他成了一个符号，一个象征，在一些人眼中成了有理想，有追求的偶像了！

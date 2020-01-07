@@ -1,0 +1,27 @@
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8C1ElfM005929
+	for <liu@ccert.edu.cn>; Tue, 13 Sep 2005 10:50:33 +0800 (CST)
+Received: from unknown (HELO smart) (zhangql02@221.218.144.133)
+  by localhost with SMTP; Tue, 13 Sep 2005 02:36:58 -0000
+From: "wu" <wu@mails.tsinghua.edu.cn>
+To: liu@ccert.edu.cn
+Subject: =?gb2312?B?UmU6ILTzvdbJz7P2z9a63LbgobC9ybfRyP3E6rrsuKPSu8n6Isyrxr3R88rZz9U=?=
+Date: Tue, 13 Sep 2005 11:08:12 +0800
+Message-ID: <NCEFLGKAPJDDOEBLPPNLKEKCCIAA.zhangql02@mails.tsinghua.edu.cn>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook IMO, Build 9.0.6604 (9.0.2911.0)
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+Importance: Normal
+In-Reply-To: <326450489.02480@mails.tsinghua.edu.cn>
+
+     人家不是这么盈利的好吧，人家是投资基金和证券获利的，再说如果某个险种有问题，
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~如果亏了呢？
+     保监会是不会允许其上市的。
+~~~~~~~~~~~~~~~~~~~~~~~~~这是在中国，很难说了。股市的证监会有几个人还相信的？
+     第一：太平洋保险的信誉我不清楚，也不负责回答
+     第二：人寿保险公司如果倒闭，其倒闭前签署的所有有效的寿险合同，由中国人民银行和保监会指定另外一家寿险公司承担，如果某个国家的寿险公司全部倒闭，则由另一国家的某寿险公司承担，如果全世界的寿司安公司都倒闭……你就自认倒霉吧

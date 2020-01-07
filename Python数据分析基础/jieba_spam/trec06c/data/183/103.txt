@@ -1,0 +1,30 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <lei@ccert.edu.cn>; Sun, 25 Sep 2005 12:08:30 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <lei@ccert.edu.cn>; Sun, 25 Sep 2005 12:19:51 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sun, 25 Sep 2005 03:56:51 -0000
+From: "jin" <jin@mail.tsinghua.edu.cn>
+To: lei@ccert.edu.cn
+Cc: <chi@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM7SvvW1w8jPyrbN9c2s0ae1xMjL?=
+Date: Sun, 25 Sep 2005 12:19:41 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+我认识他，我承认你对他性格的说法。
+其实也没什么好争的。
+而且关于导师的问题，也许你说的更对。
+我只是觉得，无论他说的是否言过其实，
+但清华的科研状况确实存在他说的问题
+这也是那么多人出来re的原因吧？
+     开个玩笑啦，气氛这么沉重。其实，外人是不知道，老板对于小垠，实在是宽容到极点。
+     他自己太孩子气，把什么事情都想得很简单，同时也过分的估计了自己的能力，你去
+     mitbbs上看看，有人说如果他是老板，绝对不招这样的学生。我觉得真的是这山望着

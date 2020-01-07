@@ -1,0 +1,37 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBledU018192
+	for <tang@ccert.edu.cn>; Sat, 24 Sep 2005 08:10:47 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBx0Od015842
+	for <tang@ccert.edu.cn>; Sat, 24 Sep 2005 08:22:08 +0800 (CST)
+Message-Id: <200509231159.j8NBx0Od015842@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Fri, 23 Sep 2005 23:59:08 -0000
+From: "cai" <cai@mail.tsinghua.edu.cn>
+To: tang@ccert.edu.cn
+Cc: <zhan@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Date: Sat, 24 Sep 2005 08:21:58 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000A_01C5C079.381BA9C0"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANinPotJGURYVSIaCggxbtOaqqg==
+
+你这种逻辑不多，要用事实说话，
+包括我在内，我相信还有很多人，基本上不敢选体育课等于研究无关的课，
+老师看培养计划的时候根本不会通过。
+事实就是这样的，很多很多的老师，可以说完全不会站在学生的立场上考虑
+半点，很简单，说得不客气点，就是他掏钱，你干活，跟嫖妓一样。
+只有这样才能明白不是你上了清华，是清华把你上了。
+如果真的要学点东西，只能靠自己。很多事情需要忍，才可能成事，所以我
+不赞成王的做法，不过无论怎么说，我相信这个人是比较优秀的。
+至于事情出来后，又会受到此起彼伏的攻击，也不会事出无因的。
+     呵呵，你以为受迫害妄想症是用以骂人的话么？
+     从原文copy过来的：
+     导师看到我选了法语，就说这个第二外语还是自己学学就行了吧，旁听也行啊，我主要是怕你课太多了考试不通过就麻烦了。我当时没有说什么，就把法语去掉了，只留下刚够学分的课程。其实我还想选很多的，体育，音乐什么的，都不好意思跟导师说
+     于是他得出结论：
+     后来我终于明白了，清华不需要全面发展的博士生，而其实导师还会在某种程度上削弱学生
+     的能力。导师并不是真的为我们好，而是不喜欢我们上课，因为上课不但会花掉研究（或者
+     干活）的时间，而且让他们眼界太开阔，这样学生会很容易有别的选择而走掉

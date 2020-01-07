@@ -1,0 +1,23 @@
+Received: from csnet1.cs.tsinghua.edu.cn (csnet1.cs.tsinghua.edu.cn [166.111.68.226])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q87AiC007227
+	for <cen@ccert.edu.cn>; Tue, 27 Sep 2005 14:36:31 +0800 (CST)
+Message-ID: <200509261607.j8Q87AiC007227@spam-gw.ccert.edu.cn>
+Received: (qmail 26558 invoked by uid 0); Tue, 27 Sep 2005 06:59:25 -0000
+Received: from unknown (HELO wxf) (wxf@192.168.1.146)
+  by csnet1.cs.tsinghua.edu.cn with SMTP; Tue, 27 Sep 2005 06:59:25 -0000
+Date: Tue, 27 Sep 2005 14:54:00 +0800
+From: "cheng" <cheng@csnet1.cs.tsinghua.edu.cn>
+To: cen@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IFvXqtTYXSDH5buqw861xLfby+mhqtC0uPjH5buqtPPRp7XEzcvRp8nqx+so16q8xCkgKNeq
+1Ng=?=
+X-Priority: 1 (Highest)
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+始终要人适应环境的话，环境是永远也不会改变的，
+       一句话：人格不健全。
+       这个社会有它自己的客观规律，要想在这个社会上生存乃至有所成就，就必须把握它的规律，在这个基础之上再发挥自己的创造力，换句话说，你必须有能力来适应环境，而不是总想着找一个理想中的环境来适应自己。那样的理想世界是不存在的。
+       真正强悍的人应该有很强的适应能力，即使在恶劣的环境中也能破茧而出，因为他能会不断地总结这个规律来实现自己的目标。如果从很小的时候就想做牛顿，那么就应该从小就认真思考这条路究竟应该怎么走，那很快就该发现中国的大环境根本培养不出牛顿来，那怎么办？或者调

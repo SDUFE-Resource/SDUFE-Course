@@ -1,0 +1,22 @@
+Received: from nankai.edu.cn (sun.nankai.edu.cn [202.113.16.21])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8N7Br6G015829
+	for <tian@ccert.edu.cn>; Fri, 23 Sep 2005 16:17:19 +0800 (CST)
+Received: (eyou send program); Fri, 23 Sep 2005 16:34:12 +0800
+Message-ID: <327460528.07655@nankai.edu.cn>
+Received: from 222.30.48.129 by 202.113.16.21 with HTTP; Fri, 23 Sep 2005 16:34:12 +0800
+From: "xia" <xia@nankai.edu.cn>
+To: tian@ccert.edu.cn
+Date: Fri, 23 Sep 2005 16:34:12 +0800
+Reply-To: "xia" <xia@nankai.edu.cn>
+X-Priority: 3
+Subject: =?gb2312?B?UmU6IM6qyrLDtLTzvNLDpMS/s+ew3c312/Ojv6O/o78=?=
+Content-Type: text/plain
+
+看来 你还真不懂什么叫真正的research  听听沈向阳的讲座吧
+它和开发是不同的 其核心就是创新
+踏实地做点对国家 对人民有意义的事情？
+对于一个CS 的 博士生来说 该做点什么？ 开发？实现一个已经存在的idea？
+那中国永远得依赖于盗版 永远得跟在别人的后面 用人家多少年前用过的东西
+     不要看不起那些普通的科技工作者
+     不是所有的研究都要有什么国际意义 需要什么首创突破
+     为什么不愿意脚踏实地做点对国家 对人民有意义的事情

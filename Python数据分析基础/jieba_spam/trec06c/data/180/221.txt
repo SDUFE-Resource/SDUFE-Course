@@ -1,0 +1,29 @@
+Received: from sea.net.edu.cn ([202.112.5.66])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8NBaIwH018135
+	for <hou@ccert.edu.cn>; Sat, 24 Sep 2005 23:23:58 +0800 (CST)
+Received: from mail.tsinghua.edu.cn (mail.tsinghua.edu.cn [166.111.8.18])
+	by sea.net.edu.cn (8.12.11/8.12.11) with SMTP id j8NBlgv5015570
+	for <hou@ccert.edu.cn>; Sat, 24 Sep 2005 23:35:23 +0800 (CST)
+Message-Id: <200509231147.j8NBlgv5015570@sea.net.edu.cn>
+Received: from unknown (HELO tunoc1a645037e) (tunoc@59.66.66.12)
+  by localhost with SMTP; Sat, 24 Sep 2005 15:12:20 -0000
+From: "hou" <hou@mail.tsinghua.edu.cn>
+To: hou@ccert.edu.cn
+Cc: <zhao@ccert.edu.cn>
+Subject: =?gb2312?B?UmU6IMz9y7W5/b/GtPPQu9Hlsqi1xLnKysLDtD8=?=
+Date: Sat, 24 Sep 2005 23:35:09 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0003_01C5C077.A1E24910"
+X-Mailer: Microsoft Office Outlook, Build 11.0.5510
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcXANJN+EoUfbnCYQ2ykiwtBBz0tmg==
+
+     标  题: 听说过科大谢彦波的故事么?
+     
+     谢彦波1978年进入科大少年班, 是第一届科大少年班最年轻的学生。十一岁上科大。
+     1982年，谢彦波提前一年大学毕业，15岁在中科院理论物理研究所跟随于渌院士读硕士，
+     18岁又跟随中科院副院长周光召院士读博士，被看好在20岁前获得博士学位. 
+     
+     谢彦波自理能力差，自视甚高，为人傲慢
+            否        一般         否

@@ -1,0 +1,42 @@
+Received: from gradinfo.net.edu.cn ([202.112.49.111])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j855PKPv015398
+	for <xue@ccert.edu.cn>; Tue, 6 Sep 2005 05:17:35 +0800 (CST)
+Received: from Garfield. (localhost [IPv6:::1])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with ESMTP id j855NJrF051824
+	for <xue@ccert.edu.cn>; Tue, 6 Sep 2005 05:15:51 +0800 (CST)
+	(envelope-from toefl-bounces@gradinfo.net.edu.cn)
+Received: from mails.tsinghua.edu.cn (mails.tsinghua.edu.cn [166.111.8.16])
+	by gradinfo.net.edu.cn (8.13.1/8.13.1) with SMTP id j855NG4F051816
+	for <xue@ccert.edu.cn>; Tue, 6 Sep 2005 05:15:31 +0800 (CST)
+	(envelope-from ksj00@mails.tsinghua.edu.cn)
+Message-Id: <200509050523.j855NG4F051816@gradinfo.net.edu.cn>
+Received: from th123036.ip.tsinghua.edu.cn (HELO kongsj) (ksj00@59.66.123.36)
+	by localhost with SMTP; Mon, 5 Sep 2005 21:04:43 -0000
+Date: Tue, 6 Sep 2005 05:25:35 +0800
+From: "long" <long@mails.tsinghua.edu.cn>
+To: xue@ccert.edu.cn
+Subject: =?gb2312?B?UmU6IEkgZG9uJ3Qga25vdyBob3cgdG8gc2F5Li4uIGZpbmQgYSBmcmllbmQ=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: 8bit
+	j855NG4F051816
+Cc: toefl <feng@ccert.edu.cn>
+Precedence: list
+List-Id: "&#26446; &#26143; &#21644; &#20182; &#30340; &#23398; &#29983;
+	&#20204; " <toefl.gradinfo.net.edu.cn>
+List-Unsubscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=unsubscribe>
+List-Archive: <http://gradinfo.net.edu.cn/mailman/private/toefl>
+List-Post: <mailto:toefl@gradinfo.net.edu.cn>
+List-Help: <mailto:toefl-request@gradinfo.net.edu.cn?subject=help>
+List-Subscribe: <http://gradinfo.net.edu.cn/mailman/listinfo/toefl>,
+	<mailto:toefl-request@gradinfo.net.edu.cn?subject=subscribe>
+Sender: toefl-bounces@gradinfo.net.edu.cn
+Errors-To: toefl-bounces@gradinfo.net.edu.cn
+
+错别字 idiot 
+     I feel so boring recently, don\'t wanna do anything, just sit before the computer and look like an idoit.
+     Actually I should\'ve been really busy. As a senior in college, I should seek for a decent job or prepare for TEM8, but I just dont wanna do anything but waste time.
+     Basically, I\'m a senior college student major in English, I\'m shiny,easy-going, humorous... yet sometimes in deep nights I feel lonely, and really need someone who can hear and share with my thoughts.

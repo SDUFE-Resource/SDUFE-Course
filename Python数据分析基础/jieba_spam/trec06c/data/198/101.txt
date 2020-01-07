@@ -1,0 +1,21 @@
+Received: from scan.ccert.edu.cn ([166.111.8.245])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j8Q7bkmX006747
+	for <chen@ccert.edu.cn>; Wed, 28 Sep 2005 14:03:18 +0800 (CST)
+Received: (from root@localhost)
+	by scan.ccert.edu.cn (8.11.6/8.11.6) id j8Q7f4k00847;
+	Wed, 28 Sep 2005 14:06:36 +0800
+Message-Id: <200509260741.j8Q7f4k00847@scan.ccert.edu.cn>
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Content-Type: text/plain
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.01 (F2.71; B2.12; Q2.03)
+Date: Wed, 28 Sep 2005 06:06:35 UT
+To: chen@ccert.edu.cn
+From: che@scan.ccert.edu.cn
+Subject: =?gb2312?B?ofEg0/TDxrXEv+y36MHLfg==?=
+
+    来家访视的大夫说，瑶瑶黄疸没褪尽，不能打乙肝疫苗第二针，让停一个星期母乳先，
+    现在是第三天，瑶瑶今天早上10点吃完最后一顿后突然开始抗拒奶粉和奶瓶，12点的时候喂她，奶嘴一到她嘴里，马上往外吐，哭得声嘶力竭，我们以为她又是肠道胀气加上不太饿，就没强喂。1点的时候再喂，还是吐，这回怀疑是她不要奶嘴，换成小勺子一勺一勺喂，倒是张嘴吃，可是一发觉进嘴的是奶粉冲的奶，坚决的往外吐...
+    一整个白天啥也不吃，5555～～眼看着小脸迅速的瘦了一小圈:(
+    可怜我中午刚刚把奶吸空了...就算想给她吃母乳也没得吃...郁闷了一下午，好容易等到有奶下来了，小东西跟小狼似的冲上来狠狠咬住就吸...天哪～～～～

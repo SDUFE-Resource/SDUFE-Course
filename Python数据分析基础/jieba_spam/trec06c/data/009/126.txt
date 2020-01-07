@@ -1,0 +1,74 @@
+Received: from stmp.nisac.gov.cn ([202.106.170.4])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7G7clBE022980
+	for <wen@ccert.edu.cn>; Thu, 18 Aug 2005 23:36:35 +0800 (CST)
+Received: from zx-r8rjt0j7512h ([211.94.162.182])
+	(authenticated (0 bits))
+	by stmp.nisac.gov.cn (8.12.11/8.11.6) with ESMTP id j7G8C7ZV012846
+	for <wen@ccert.edu.cn>; Fri, 19 Aug 2005 00:09:55 +0800
+Message-Id: <200508160812.j7G8C7ZV012846@stmp.nisac.gov.cn>
+Date: Thu, 18 Aug 2005 23:50:54 +0800
+From: "ren" <ren@mail.nisac.gov.cn>
+Reply-To: ren@mail.nisac.gov.cn
+To: wen@ccert.edu.cn
+Subject: =?gb2312?B?ofEgsfTB2bnyx/MuLi5KQVZBuaSzzMqm?=
+Organization: nisac
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+
+暂时还不跪.....
+我们和该公司的hr&amp;manager沟通过，主要几点要求：
+1.java，必须，而且要好
+2.c/c++，最好有，没有也行
+3.solaris，必须，最好能熟
+4.HTTP，必须，因为这个职位会做web相关的开放
+5.英文，最好能过老外面试那种，但是可以open来看，如果技术强，英文不好也没关系，可以将来让英文好的同事给当翻译――这个职位本身是有和美国同事技术沟通的内容的。
+下面是职位描述的原文：
+Title: Software Engineer
+ESSENTIAL FUNCTIONS:
+====================
+We are looking for a skilled software engineer to develop software applications and e-Commerce delivery tools, as well as implementing the services.
+This person
+will be working with geologically dispersed team to deliver software product on
+MARGINAL FUNCTIONS:
+===================
+Technical presentation, product demonstrations, performance measurement, customer contact.
+REQUIRED KNOWLEDGE:
+===================
+   * Excellent interpersonal, written and oral communication skills
+   * Minimum of 3 year of JAVA programming experience
+   * C programming experience
+   * HTTP protocol
+   * Experience developing on the Solaris OS
+   * Good analytical skills
+   * Project planning skills
+PREFERRED KNOWLEDGE:
+====================
+   * Application desktop integration with the CDE and/or Gnome desktop
+   * Web application development experience
+   * Working knowledge of relational database (RDBMS) and writing
+     applications, which uses a RDBMS.
+   * Knowledge of Struts/JSPs/JSF/Spring/JMS/JDBC/XML and other J2EE technologies
+   * Database and simple SQL knowledge
+   * Knowledge of Ant, design pattern, JUnit, HTTPUnit, CSS, DHTML and Servlet
+   * Familiar with internationalization, localization and accessibility
+   * Public/private key cryptography
+   * Experience developing applications on linux and windows
+   * Familiar with solaris packages and patch formats
+   * Familiar with RPM package format
+   * Experience in software patch management
+   * Knowledge of XP / Agile development methodology
+   * Some operational background administering Windows or UNIX system
+     is highly desirable .
+YEARS OF EXPERIENCE:
+====================
+Multiple positions
+MINIMUM LEVEL OF EDUCATION
+==========================
+Bachelor\'s Degree
+待遇我现在说不好，要看面试后的结果，还是那句话，绝对不会低于1w/m，至于是年薪20w还是30w，要看自己的实力，背景，面试发挥了――这个就不是我说了算的。
+任意方式联系我：msn：viwinxw@hotmail.com
+mail:vxu@tonykeith.com
+tel:85808080-135

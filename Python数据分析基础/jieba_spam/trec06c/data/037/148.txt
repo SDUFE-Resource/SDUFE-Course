@@ -1,0 +1,39 @@
+Received: from mail.cernet.com (col.cernet.com [202.205.11.18])
+	by spam-gw.ccert.edu.cn (MIMEDefang) with ESMTP id j7M2kihV002216
+	for <qiu@ccert.edu.cn>; Thu, 25 Aug 2005 08:54:04 +0800 (CST)
+Received: from cernet.com (localhost [127.0.0.1])
+ by mail.cernet.com (iPlanet Messaging Server 5.2 HotFix 1.21 (built Sep  8
+ 2003)) with ESMTPA id <0ILL00HWGSKJ2R@mail.cernet.com> for weike@ccert.edu.cn;
+ Thu, 25 Aug 2005 09:12:27 +0800 (CST)
+Received: from [202.205.6.151] by mail.cernet.com (mshttpd); Mon,
+ Thu, 25 Aug 2005 09:12:27 +0800
+Date: Thu, 25 Aug 2005 09:12:27 +0800
+From: yana@cernet.com
+Subject: =?gb2312?B?UmU6IM7KuPaxz9K1yrG85LXEzsrM4qOstuDQu7TzvNKjoQ==?=
+To: qiu@ccert.edu.cn
+Message-id: <6eacb69778.697786eacb@cernet.com>
+MIME-version: 1.0
+X-Mailer: iPlanet Messenger Express 5.2 HotFix 1.21 (built Sep  8 2003)
+Content-type: text/html; charset=gb2312
+Content-language: zh-CN
+Content-transfer-encoding: quoted-printable
+Content-disposition: inline
+Priority: normal
+
+我们偏偏就是整数,sigh
+     标  题: Re: 问个毕业时间的问题，多谢大家！
+     
+     个人认为2年半毕业比较好找工作
+     
+     : 研究生可以两年毕业也可以两年半或者三年
+     : 如果两年半毕业的话是不是就是1月份左右毕业
+     : 那时候好找工作吗？是不是机会会少很多？
+     
+     --
+     
+       　道可道，非常道。名可名，非常名。
+     　　无名天地之始；有名万物之母。
+     　　故常无，欲以观其妙；常有，欲以观其徼。
+     　　此两者，同出而异名，同谓之玄。玄之又玄，众妙之门。                 
+     
+     
